@@ -1,0 +1,283 @@
+
+@charset "EUC-JP";
+
+
+h1{
+	font-weight: bold;
+	color:#999999;
+	background-image:url(../images/star_h1.gif);
+	background-repeat:no-repeat;
+	background-position: 0 50%;	
+	margin:0;
+	padding:0 0 0 20px;
+}
+
+h2{
+	font-weight: bold;
+	color:#999999;
+	background-image:url(../images/star_h2.gif);
+	background-repeat:no-repeat;
+	background-position: 3px 50%;	
+	margin:0;
+	padding:0 0 0 20px;
+}
+
+h3{
+	font-weight: bold;
+	color:#999999;
+	background-image:url(../images/star_h3.gif);
+	background-repeat:no-repeat;
+	background-position: 4px 50%;	
+	margin: 1.5em 0 .5em 0;
+	padding:0 0 0 20px;
+}
+
+a:link{
+	color: #669933;
+	text-decoration: none;
+}
+a:visited{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:active{
+	text-decoration: none;
+}
+
+body{
+/*　この部分で全体を定義 font-sizeの変更で文字サイズ「大」or「小」*/
+/*  font-sizeの部分だけ、"fontsize_l.css"と"fontsize_s.css"に分離 */
+	text-align:center;
+	color: #666666;
+	font-size: 10pt;
+	background-image:url(../images/bg.gif);
+	margin:0;
+	padding:0;
+}
+
+img{
+	border: none;
+}
+
+p{
+
+}
+
+/*　英語日本語切り替え、文字サイズ変更　*/
+
+
+
+
+/*　共通トップメニュー　*/
+
+
+
+
+/* フィードバックなどのボタン */
+p.right_contents_button{
+	text-align: center;
+	width: 150px;
+	margin: 5px 0;
+}
+
+
+div{
+
+}
+
+/*　コンテンツ全体　*/
+div.all{
+	background-color:#FFFFFF;
+	background-image:url(../images/shadow.gif);
+	background-repeat:repeat-y;
+	margin:0 auto;
+	width:660px;
+}
+
+
+/*div.top_language{
+	margin:0 5px;
+	padding:0;
+	text-align:right;
+	width:650px;
+}*/
+/*　ロゴ部分 */
+div.logo{
+	width: 275px;
+	height: 54px;
+	text-align: left;
+	margin: 0 0 0 5px;
+	float: left;
+}
+
+/*　英語-日本語、フォントサイズ切り替え　*/
+div.language{
+	margin: 0;
+	padding:0;
+	text-align:right;
+	width:370px;
+	height:54px;
+	float: left;
+}
+
+/*　ヘッダー画像　*/
+div.header_image{
+	width:650px;
+	margin:0;
+	padding:0;
+	clear: both;
+}
+
+/*　共通ヘッダーメニュー　*/
+div.header_menu{
+	width:650px;
+	height:30px;
+	margin:0 5px;
+	padding: 0;
+	clear: both;
+}
+
+div.header_menu img{
+	display: block;
+    	float:left; 
+}
+
+/*　ナビゲーター(パンくずリスト)　*/
+div.navi{
+	text-align:left;
+	width: 630px;
+	height: 20px;
+	margin:0 10px;
+}
+
+/*　左側メニューボタン　*/
+div.left_menu{
+	float:left;
+	width:156px;
+	margin:0 0 30px 6px;
+	padding:0;
+}
+
+/*　FeedBackボタン　*/
+div.feedback{
+	text-align: right;
+	margin:0 20px 10px 0;
+}
+
+/* フッター部分*/
+div.footer{
+	clear : both;
+	margin:0 5px;
+	text-align: left;
+	background: url(../images/footer.jpg);
+	width: 650px;
+	height: 33px;
+}
+
+div.footer img{
+	margin-left: 10px;
+	margin-top: 7px;
+
+}
+
+div.clear{
+	clear : both;
+}
+
+table.header{
+	margin:0 5px;
+	border:none;
+}
+
+
+.td{
+
+}
+
+
+/* シャドウ付きフレームを構成　*/
+.td_contents{
+	text-align:justify;
+	vertical-align: top;
+}
+
+.td_top{
+	background-image: url(../images/flame02.gif);
+	background-repeat: repeat-x;
+}
+
+.td_left{
+	background-image: url(../images/flame04.gif);
+	background-repeat: repeat-y;
+}
+
+.td_right{
+	background-image: url(../images/flame05.gif);
+	background-repeat: repeat-y; 
+}
+
+.td_under{
+	background-image: url(../images/flame07.gif);
+	background-repeat: repeat-x;
+}
+
+/* grayのシャドウ付きフレームを構成　*/
+.td_contents_gray{
+	text-align:justify;
+	vertical-align: top;
+	background-color:#eeeeee;
+}
+
+.td_top_gray{
+	background-image: url(../images/gray02.gif);
+	background-repeat:repeat-x;
+	background-position: top;
+	background-color:#eeeeee;
+}
+
+.td_left_gray{
+	background-image: url(../images/gray04.gif);
+	background-color:#eeeeee;
+	background-repeat: repeat-y;
+}
+
+.td_right_gray{
+	background-image: url(../images/gray05.gif);
+	background-color:#eeeeee;
+	background-repeat: repeat-y;
+}
+
+.td_under_gray{
+	background-image: url(../images/gray07.gif);
+	background-repeat:repeat-x;
+	background-position: bottom;
+	background-color:#eeeeee;
+}
+
+/* ulとliのトップレベルのスタイルを変更するとleft_menuも影響受けるので注意 ここから↓↓*/
+ul{
+}
+
+li{
+}
+
+li a{
+}
+
+li a:hover{
+}
+
+ol{
+}
+/* 影響受ける範囲ここまで↑↑*/
+
+
+/* 注意事項の表示用 */
+p.notice {
+	font-size: 10pt ! important;
+	border: solid 1px #00f;
+	padding: 1em;
+	color: #00f;
+}
