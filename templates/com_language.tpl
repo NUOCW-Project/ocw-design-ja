@@ -10,10 +10,10 @@
 {strip}
 <div class="language">
 {if $lang == "ja"}
-  <a href="{literal}{$smarty.server.REQUEST_URI|change_lang_from:"ja"}{/literal}">
+  <a href="{literal}{$smarty.server.REQUEST_URI}{/literal}">
   <img src="./images/b_english.jpg" alt="English">
 {elseif $lang == "en"}
-  <a href="{literal}{$smarty.server.REQUEST_URI|change_lang_from:"en"}{/literal}">
+  <a href="{literal}{$smarty.server.REQUEST_URI}{/literal}">
   <img src="./images/b_japanese.jpg" alt="ÆüËÜ¸ì">
 {/if}
 </a>
