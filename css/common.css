@@ -76,15 +76,27 @@ p{
 
 
 /* フィードバックなどのボタン */
-p.right_contents_button{
+ul.right_contents_buttons {
+	margin: 0;
+	padding: 6px 0 0;
 	text-align: center;
 	width: 150px;
-	margin: 5px 0;
 }
 
+ul.right_contents_buttons li {
+	list-style-type: none;
+	margin: 0;
+}
 
-div{
+li.small_button{
+	padding: 3px 0;
+}
 
+li.big_button {
+	padding: 0;
+}
+
+div {
 }
 
 /*　コンテンツ全体　*/
