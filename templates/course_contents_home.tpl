@@ -56,13 +56,13 @@
 
 	                {if $course_info.vsyllabus}
                 	<p class="course_home_b">
-					  <a href="{$course_info.vsyllabus}" title="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë"><img src="./images/b_video.jpg" alt="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë" width="120" height="73"></a>
+					  <a href="{$course_info.vsyllabus}" title="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë"><img src="./images/b_video_link.jpg" alt="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë" width="120" height="73"></a>
 					</p>
 					{/if}
 
 					<ul class="course_home_recommended">
-					{if $course_info.wg_recommended eq "t"}<li><img src="./images/nominate_ocw.jpg" alt="OCW WG ¿äÁ¦" width="120" height="28"></li>{/if}
-					{if $course_info.dept_recommended eq "t"}<li><img src="./images/nominate_dep.jpg" alt="Éô¶ÉÄ¹¿äÁ¦" width="120" height="28"></li>{/if}
+					{if $course_info.wg_recommended eq "t"}<li><img src="./images/nominate_ocw.jpg" alt="OCW WG ¿äÁ¦" width="120" height="29"></li>{/if}
+					{if $course_info.dept_recommended eq "t"}<li><img src="./images/nominate_dep.jpg" alt="Éô¶ÉÄ¹¿äÁ¦" width="120" height="29"></li>{/if}
 					</ul>
 					<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
                 	</div>
