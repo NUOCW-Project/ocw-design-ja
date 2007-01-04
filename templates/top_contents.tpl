@@ -30,7 +30,7 @@
 			</td>
 			<td class="pickup_summ_top">
 				{if $pu.relation_id}
-				<a href="index.php?mode=course&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.relation_id}/{$pu.file_name}" alt="" width="150" height="108"></a>
+				<a href="index.php?mode=course&id={$pu.relation_id}"><img class="pickup_image" src="{$smarty.const.PUBLIC_FILES_WEB_PATH}{$pu.relation_id}/{$pu.file_name}" alt="" width="150" height="108"></a>
 				{else}
 				<img src="{$pu.file_name}" alt="" width="150" height="105">
 				{/if}
