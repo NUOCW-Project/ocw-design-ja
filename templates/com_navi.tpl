@@ -1,11 +1,11 @@
 <!-- 　ナビゲーター(パンくずリスト)　-->
 <div class="navi">
 {if $on_top}HOME
-{else}<a href="index.php?lang={$lang}&mode=general&page_type=top">HOME</a>
+{else}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=general&page_type=top">HOME</a>
 {/if}
 {foreach from=$navi_list item="navi" name=n}
   {if not $smarty.foreach.n.last}	
-    &gt; {strip}<a href="index.php?lang={$lang}
+    &gt; {strip}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}
     {foreach from=$navi key="key" item="value" name="arg"}
       {if $key != "text"}&{$key}={$value}{/if}
     {/foreach}

@@ -2,7 +2,7 @@
 {literal}{* トップページではロゴ画像なし *}{/literal}
 <div class="logo">
 {if not $on_top}
-<a href="index.php"><img src="./images/toplogo.jpg" width="275" height="54" alt="名大の授業 HOME"></a>
+<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=general&lang=ja&page_type=top"><img src="./images/toplogo.jpg" width="275" height="54" alt="名大の授業 HOME"></a>
 {/if}
 </div>
 
