@@ -92,7 +92,8 @@
 	</div>
 
 	<p class="right_contents_greets">
-	名古屋大学オープンコースウェア委員会では、名古屋大学の授業で実際に使われている教材の一部を電子化しインターネット上で紹介していきます。</p>
+	ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。授業の内容を見て、教員の言葉を聞いて、名大の授業をぜひ「体験」してください。
+	</p>
 
 	<p class="right_contents_more">
     <a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=general&page_type=welcome">more...</a>
