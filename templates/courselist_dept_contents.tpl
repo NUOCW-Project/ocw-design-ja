@@ -14,7 +14,7 @@
 			<!-- リスト動的に変化させる部分開始 -->
 			{strip}
 			{foreach from=$dept.course_list item="course"}
-				<li class="courselist"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=course&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
+				<li class="courselist"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
 
 			{foreachelse}<li class="no_course">現在公開されている授業はありません。</li>
 			{/foreach}
@@ -29,11 +29,11 @@
 
 	<!-- 現在表示中の部局に関連した授業  -->
 	{foreach from=$rel_course_list item=rel_dept}
-	<p>以下の授業は<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=course_list&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。
+	<p>以下の授業は<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。
 	</p>
 	<ul class="courselist">
 		{foreach from=$rel_dept.course_list item="course"}
-		<li class="rel_courselist"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=course&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
+		<li class="rel_courselist"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
 		{/foreach}
 	</ul>
 	{/foreach}	

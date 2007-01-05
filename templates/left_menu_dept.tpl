@@ -2,7 +2,7 @@
 <div class="left_menu">
 <ul class="left_menu">
 <!-- 授業一覧へのリンク -->
-<li class="m00list"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang=ja&mode=course_list&page_type=all{if $smarty.get.display_mode == 'temp'}&display_mode=temp{/if}"><img src="./images/dummy.gif" alt="授業一覧"></a></li>
+<li class="m00list"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang=ja&mode=l&page_type=all{if $smarty.get.display_mode == 'temp'}&display_mode=temp{/if}"><img src="./images/dummy.gif" alt="授業一覧"></a></li>
 <li class="preload"><img src="./images/mj_00list_on.jpg" alt=""></li>
 
 <!-- 各学部ページへのリンクリスト -->
@@ -21,7 +21,7 @@
   <li class="m_{$dept.department_abbr}">
   {if $curr_department_abbr == $dept.department_abbr}
   <img src="./images/{$basename}_h.gif" alt="{$dept_name}">
-  {else}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang=ja&mode=course_list&page_type={$dept.department_abbr}"><img src="./images/dummy.gif" alt="{$dept_name}"></a>
+  {else}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang=ja&mode=l&page_type={$dept.department_abbr}"><img src="./images/dummy.gif" alt="{$dept_name}"></a>
   {/if}
   </li>
 {/strip}

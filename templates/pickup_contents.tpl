@@ -4,7 +4,7 @@
 <tr>
   <td colspan="3">
 <!-- バックナンバーへのリンク -->
-<div class="pickup_to_bn"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=pickup&page_type=backnumber&id=1"><img src="./images/bn.gif" width="70" height="25"></a></div>
+<div class="pickup_to_bn"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/bn.gif" width="70" height="25"></a></div>
   </td>
 </tr>
 <tr>
@@ -29,13 +29,13 @@
   <tr>
   {strip}
     <td class="pickup_contents_title">
-      {if $pu.relation_id}<a class="pickup_title" href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=course&id={$pu.relation_id}">{/if}
+      {if $pu.relation_id}<a class="pickup_title" href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$pu.relation_id}">{/if}
       {$pu.title|default:"名大OCWについてのお知らせ"}
       {if $pu.relation_id}</a>{/if}
     </td>
   {/strip}
     <td class="pickup_img" rowspan="2">
-      {if $pu.relation_id}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=course&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.relation_id}/{$pu.file_name}" alt="{$pu.title}" width="150"></a>
+      {if $pu.relation_id}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.relation_id}/{$pu.file_name}" alt="{$pu.title}" width="150"></a>
       {else}<img src="{$pu.file_name}" alt="" width="150" height="108">
       {/if}
     </td>

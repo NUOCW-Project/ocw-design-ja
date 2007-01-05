@@ -1,7 +1,7 @@
 <!-- 　ナビゲーター(パンくずリスト)　-->
 <div class="navi">
 {if $on_top}HOME
-{else}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=general&page_type=top">HOME</a>
+{else}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=g&page_type=top">HOME</a>
 {/if}
 {foreach from=$navi_list item="navi" name=n}
   {if not $smarty.foreach.n.last}	
