@@ -435,6 +435,7 @@ div.course_home_contents{
 
 
 div.course_home_info{
+	float: left;
     width:140px;
     margin:0;
     padding:0;
