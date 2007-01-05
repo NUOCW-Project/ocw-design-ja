@@ -20,10 +20,10 @@
 		<!-- ------コースホーム授業情報------ -->
 	    <div class="course_home_info">
         <table class="center_contents" width="140" border="0" cellpadding="0" cellspacing="0" summary="">
-        <tr height="15">
-                <td width="10" height="15"><img src="./images/gray01.gif" alt=""></td>
+        <tr>
+                <td width="10" height="15"><img src="./images/gray01_s.gif" alt=""></td>
                 <td width="120" height="15" class="td_top_gray"></td>
-                <td width="10" height="15"><img src="./images/gray03.gif" alt=""></td>
+                <td width="10" height="15"><img src="./images/gray03_s.gif" alt=""></td>
         </tr>
         <tr>
                 <td width="10" class="td_left_gray"></td>
@@ -70,9 +70,9 @@
                 <td width="10" class="td_right_gray"></td>
         </tr>
         <tr>
-                <td width="10" height="15"><img src="./images/gray06.gif" alt=""></td>
+                <td width="10" height="15"><img src="./images/gray06_s.gif" alt=""></td>
                 <td width="120" height="15" class="td_under_gray"></td>
-                <td width="10" height="15"><img src="./images/gray08.gif" alt=""></td>
+                <td width="10" height="15"><img src="./images/gray08_s.gif" alt=""></td>
         </tr>
 
         </table>
@@ -85,7 +85,7 @@
 	</td>
 	<td width="10" class="td_right"></td>
 </tr>
-<tr height="15">
+<tr>
 	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
 	<td width="465" height="15" class="td_under"></td>
 	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
