@@ -21,7 +21,7 @@
     {else}
       {* 確認用表示(GET変数display_mode=tempになっている)の場合は、
          引数にdisplay_mode=tempを付ける *}
-      <a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$course_id}&page_type={$page.filename}{literal}&prev_mode={$smarty.get.mode}&prev_id={$smarty.get.id}&prev_page_type={$smarty.get.page_type}&lang={$smarty.get.lang}{/literal}"><img src="./images/dummy.gif" alt="{$page.page_name}"></a>{/if}
+      <a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$course_id}&page_type={$page.filename}"><img src="./images/dummy.gif" alt="{$page.page_name}"></a>{/if}
   </li>
   <li class="preload"><img src="./images/{$basename}_on.jpg" alt=""></li>
 {/strip}
