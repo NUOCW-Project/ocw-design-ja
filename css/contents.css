@@ -439,6 +439,7 @@ div.course_home_info{
     width:140px;
     margin:0;
     padding:0;
+	text-align: center;
 }
 
 div.course_home_info_contents {
@@ -450,7 +451,6 @@ div.course_home_info_contents {
 ul.course_home_recommended {
 	margin: 10px 0 5px;
 	padding: 0;
-	text-align: center;
 }
 
 ul.course_home_recommended li{
