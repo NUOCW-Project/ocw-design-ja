@@ -20,7 +20,7 @@
 		<!-- ------コースホーム授業情報------ -->
 	    <div class="course_home_info">
         <table class="center_contents" width="140" border="0" cellpadding="0" cellspacing="0" summary="">
-        <tr>
+        <tr height="15">
                 <td width="10" height="15"><img src="./images/gray01.gif" alt=""></td>
                 <td width="120" height="15" class="td_top_gray"></td>
                 <td width="10" height="15"><img src="./images/gray03.gif" alt=""></td>
@@ -85,7 +85,7 @@
 	</td>
 	<td width="10" class="td_right"></td>
 </tr>
-<tr>
+<tr height="15">
 	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
 	<td width="465" height="15" class="td_under"></td>
 	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
