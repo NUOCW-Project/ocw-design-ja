@@ -31,7 +31,7 @@
 		{else}<tr class="even">{/if}
 		
 			<td>{$smarty.foreach.vs_loop.iteration}</td>
-			<td><img src="{$vs.img}"></td>
+			<td><img src="{$vs.img|default:"./images/vs_sample.jpg"}"></td>
 			<td>{$vs.course_name}</td>
 			<td class="center"><a href="{$vs.url}"><img src="./images/b_rv.gif"></a></td>
 			<td>{$vs.department_name}</td>
