@@ -35,7 +35,7 @@
     </td>
   {/strip}
     <td class="pickup_img" rowspan="2">
-      {if $pu.relation_id}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.relation_id}/{$pu.file_name}" alt="{$pu.title}" width="150"></a>
+      {if $pu.relation_id}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$smarty.const.PUBLIC_FILES_WEB_PATH}{$pu.relation_id}/{$pu.file_name}" alt="{$pu.title}" width="150"></a>
       {else}<img src="{$pu.file_name}" alt="" width="150" height="108">
       {/if}
     </td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td class="pickup_body" colspan="2">
-    {if $pu.relation_id}{$pu.summ|strip_tags|strip|escape}
+    {if $pu.relation_id && false}{$pu.summ|strip_tags|strip|escape}
     {else}{$pu.body|strip_tags|strip|escape}
     {/if}
     </td>
