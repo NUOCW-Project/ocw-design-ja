@@ -97,8 +97,9 @@
 		</select>
 
 	<h2 class="feedback">*ご意見・ご感想：</h2>
-	<p class="feedback">（ここにご記入いただいた内容を公開することはありません。また、原則お答えすることはできません。お問い合わせの場合は<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=g&page_type=inquiry">こちら</a>から。）</p>
-		<textarea name="" rows="5" cols="55" tabindex="0"></textarea>	
+	<p class="feedback">（ここにご記入いただいた内容を公開することはありません。また、原則お答えすることはできません。お問い合わせの場合は<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=g&page_type=inquiry">こちら</a>から。）<br>
+	<textarea class="feedback" name="" rows="5" cols="55" tabindex="0"></textarea>
+	</p>
 
 	<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
 	<!--	<input type="submit" name="" value="こちらのボタンを押すと送信されます">

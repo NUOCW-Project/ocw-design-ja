@@ -539,6 +539,10 @@ form.feedback{
 	margin-left:20px;
 }
 
+textarea.feedback {
+    width:430px;
+}
+
 /* ----------- Visual Syllabus ----------- */
 div.vsyllabus_left {
 	text-align:left;
