@@ -420,12 +420,10 @@ td.separate{
 p.course_home_b{
     font-weight: bold;
     margin:10px 0 0;
-	text-align: center;
 }
 
 p.course_home{
     margin:0;
-	text-align: center;
 }
 
 div.course_home_contents{
