@@ -6,4 +6,5 @@
 {include file="com_navi.tpl"}
 {include file="left_menu_dummy.tpl"}
 {include file="akf_contents.tpl"}
+{include file="feedback.tpl"}
 {include file="com_footer.tpl"}
