@@ -46,7 +46,7 @@
         {/strip}
 
           <td class="pickup_img" rowspan="2">
-          {if $bn.relation_id}<a href="index.php?mode=c&id={$bn.relation_id}"><img class="pickup_image" src="{$smarty.const.PUBLIC_FILES_WEB_PATH}{$bn.relation_id}/{$bn.file_name}" alt="{$bn.title}" width="150" height="108"></a>
+          {if $bn.relation_id}<a href="index.php?mode=c&id={$bn.relation_id}"><img class="pickup_image" src="{$bn.file_name}" alt="{$bn.title}" width="150" height="108"></a>
           {else}<img src="{$bn.file_name}" alt="" width="150" height="105">
           {/if}
           </td>
