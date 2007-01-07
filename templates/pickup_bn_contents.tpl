@@ -1,18 +1,18 @@
 <!-- バックナンバー 移動ナビ -->
 <div class="pickup_bn_navi">
 {if $bn_index != 1}
-<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=p&page_type=backnumber&id={$bn_index-1}">&lt;&lt; 前へ</a>
+<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index-1}">&lt;&lt; 前へ</a>
 {/if}
 
 {section name="bn_navi" loop=$bn_size}
 	{if $smarty.section.bn_navi.iteration != $bn_index}
-	<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=p&page_type=backnumber&id={$smarty.section.bn_navi.iteration}">{$smarty.section.bn_navi.iteration}</a>
+	<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$smarty.section.bn_navi.iteration}">{$smarty.section.bn_navi.iteration}</a>
 	{else}<span class="b">{$bn_index}</span>
 	{/if}
 {/section}
 
 {if $bn_index != $bn_size}
-<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=p&page_type=backnumber&id={$bn_index+1}"> &gt;&gt; 次へ</a>
+<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index+1}"> &gt;&gt; 次へ</a>
 {/if}
 </div>
 
@@ -39,14 +39,14 @@
         <tr>
         {strip}
           <td class="pickup_contents_title">
-          {if $bn.relation_id}<a class="pickup_title" href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$bn.relation_id}">{/if}
+          {if $bn.relation_id}<a class="pickup_title" href="index.php?mode=c&id={$bn.relation_id}">{/if}
           {$bn.title|default:"名大OCWについてのお知らせ"}
           {if $bn.relation_id}</a>{/if}
           </td>
         {/strip}
 
           <td class="pickup_img" rowspan="2">
-          {if $bn.relation_id}<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$bn.relation_id}"><img class="pickup_image" src="{$smarty.const.PUBLIC_FILES_WEB_PATH}{$bn.relation_id}/{$bn.file_name}" alt="{$bn.title}" width="150" height="108"></a>
+          {if $bn.relation_id}<a href="index.php?mode=c&id={$bn.relation_id}"><img class="pickup_image" src="{$smarty.const.PUBLIC_FILES_WEB_PATH}{$bn.relation_id}/{$bn.file_name}" alt="{$bn.title}" width="150" height="108"></a>
           {else}<img src="{$bn.file_name}" alt="" width="150" height="105">
           {/if}
           </td>

@@ -11,14 +11,14 @@
 	<div class="pickup">   	<!-- Pickup コンテンツ -->
 	<p class="pickup_title">
 	<img src="./images/t_pickup.jpg" alt="今週のPICK UP">
-	<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/bn.gif" alt="バックナンバー"></a>
+	<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/bn.gif" alt="バックナンバー"></a>
 	</p>
 	<div class="pickup_contents">
 	<table cellspacing="0" summary="PICK UPのタイトルと情報">
 	{assign var="pu" value=$pickup_list[0]}{* TOPでは最初の1個だけ *}
 		<tr>
 		{strip}	<td colspan="2" class="pickup_contents_title">
-			{if $pu.relation_id}<a class="pickup_title" href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$pu.relation_id}">{/if}
+			{if $pu.relation_id}<a class="pickup_title" href="index.php?mode=c&id={$pu.relation_id}">{/if}
 			{$pu.title|default:"名大OCWについてのお知らせ"|change_font_size:240:14}
 			{if $pu.relation_id}</a>{/if}
 			</td>{/strip}
@@ -30,7 +30,7 @@
 			</td>
 			<td class="pickup_summ_top">
 				{if $pu.relation_id}
-				<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$smarty.const.PUBLIC_FILES_WEB_PATH}{$pu.relation_id}/{$pu.file_name}" alt="" width="150" height="108"></a>
+				<a href="index.php?mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$smarty.const.PUBLIC_FILES_WEB_PATH}{$pu.relation_id}/{$pu.file_name}" alt="" width="150" height="108"></a>
 				{else}
 				<img src="{$pu.file_name}" alt="" width="150" height="105">
 				{/if}
@@ -42,7 +42,7 @@
 	</p>
 	</div>
 	<p class="pickup_more">
-	<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=p&page_type=new">more...</a>
+	<a href="index.php?lang={$lang}&mode=p&page_type=new">more...</a>
 	</p>
 	
 	
@@ -51,7 +51,7 @@
 	<div class="topics">   	<!-- Topicコンテンツ -->
 	<p class="topics_title">
 	<img src="images/t_topic_title.jpg" alt="最新TOPICS">
-	<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=g&page_type=topics_list"><img src="images/t_topic_list.jpg" alt="TOPICS一覧"></a>
+	<a href="index.php?lang={$lang}&mode=g&page_type=topics_list"><img src="images/t_topic_list.jpg" alt="TOPICS一覧"></a>
 	</p>
 	<table class="topics_contents" border="0" summary="最新TOPICS">
 		{* Topic 1件始まり *}
@@ -88,7 +88,7 @@
 	<td width="10" class="td_left_r"></td>
 	<td width="130" class="td_center_r">  <!-- コンテンツセル -->
 	<div class="right_contents_picture">
-	<a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=g&page_type=welcome"><img src="./images/pic_sugi.jpg" alt="OCW委員長"></a>
+	<a href="index.php?lang={$lang}&mode=g&page_type=welcome"><img src="./images/pic_sugi.jpg" alt="OCW委員長"></a>
 	</div>
 
 	<p class="right_contents_greets">
@@ -96,7 +96,7 @@
 	</p>
 
 	<p class="right_contents_more">
-    <a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=g&page_type=welcome">more...</a>
+    <a href="index.php?lang={$lang}&mode=g&page_type=welcome">more...</a>
     </p>
 
 	<p class="right_contents_signature">
@@ -118,8 +118,8 @@
 	<ul class="right_contents_buttons">
 	<li class="small_button"><a href="http://jocw.jp/"><img src="./images/logo_jocw.gif" alt="JOCW"></a></li>
 	<li class="small_button"><a href="http://ocw.mit.edu/"><img src="./images/logo_mit.gif" alt="MIT OPEN COURSE WARE"></a></li>
-	<li class="big_button"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=g&page_type=vsyllabus"><img src="./images/b_video.jpg" alt="1分間授業紹介"></a></li>
-	<li class="big_button"><a href="{$smarty.const.PUBLIC_SCRIPT_NAME}&lang={$lang}&mode=g&page_type=feedback"><img src="./images/b_feedback.jpg" alt="Feedback"></a><li>
+	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus"><img src="./images/b_video.jpg" alt="1分間授業紹介"></a></li>
+	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=feedback"><img src="./images/b_feedback.jpg" alt="Feedback"></a><li>
 	</ul>
 
 	</td>
