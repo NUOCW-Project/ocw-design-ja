@@ -108,7 +108,7 @@
 		<h1 class="inq">7.<span class="red">（必須）</span>連絡可能なＥメールアドレス</h1>		
 			<input type="text" name="c_email" size="70"></input>
 		<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
-		<input type="submit" name="" value="入力内容の確認">
+		<input type="submit" name="submit" value="入力内容の確認">
 		<input type="reset" name="" value="リセット">
 	</form>
 
