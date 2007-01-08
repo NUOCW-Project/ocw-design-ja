@@ -17,21 +17,32 @@
 	<form  class="feedback" action="inquiry.php" method="post">
 		<h1 class="inq">1.<span class="red">（必須）</span>ご意見・ご質問の種類を１つ選んでください</h1>
 			<div class="inq">
-			<input type="radio" name="toiawase" value="inquiry1">このプロジェクトについて</input><br>
-			<input type="radio" name="toiawase" value="inquiry2">公開している教材について</input><br>
-			<input type="radio" name="toiawase" value="inquiry3">技術的な質問</input><br>
-			<input type="radio" name="toiawase" value="inquiry4">より良くするために</input><br>
+			<input type="radio" name="toiawase" id="inquiry1" value="このプロジェクトについて">このプロジェクトについて</input><br>
+			<input type="radio" name="toiawase" id="inquiry2" value="公開している教材について">公開している教材について</input><br>
+			<input type="radio" name="toiawase" id="inquiry3" value="技術的な質問">技術的な質問</input><br>
+			<input type="radio" name="toiawase" id="inquiry4" value="より良くするために">より良くするために</input><br>
 			</div>
 				
 		<h1 class="inq">2.あなたは：</h1>
-			<input type="radio" name="shokugyo" value="job2">名古屋大学・大学院の学生</input><br>
-			<input type="radio" name="shokugyo" value="job3">他大学の大学・大学院の学生</input><br>
-			<input type="radio" name="shokugyo" value="job6">名古屋大学・大学院の教職員</input><br>
-			<input type="radio" name="shokugyo" value="job6">他大学・大学院の教職員</input><br>
-			<input type="radio" name="shokugyo" value="job1">高校生・予備校生</input><br>
-			<input type="radio" name="shokugyo" value="job4">自主学習者</input><br>
-			<input type="radio" name="shokugyo" value="job7">その他</input><br>
-		
+			<div class="inq">
+			<input name="shokugyo" type="radio" id="job1" value="高校・予備校生"><label for="job1">高校・予備校生</label><br>
+			<input name="shokugyo" type="radio" id="job2" value="名古屋大学・大学院の学生"><label for="job2">名古屋大学・大学院の学生</label><br>
+			<input name="shokugyo" type="radio" id="job3" value="名大以外の大学・大学院の学生"><label for="job3">名大以外の大学・大学院の学生</label><br>
+			<input name="shokugyo" type="radio" id="job4" value="自主学習者"><label for="job4">自主学習者</label><br>
+			<input name="shokugyo" type="radio" id="job5" value="高校・予備校の先生・職員"><label for="job5">高校・予備校の先生・職員</label><br>
+			<input name="shokugyo" type="radio" id="job6" value="大学・大学院の教職員"><label for="job6">大学・大学院の教職員</label><br>
+			<input name="shokugyo" type="radio" id="job7" value="その他"><label for="job7">その他</label>
+			</div>
+
+<!-- 上は旧サイト用. 以下が新サイト用.
+			<input type="radio" name="shokugyo" value="">名古屋大学・大学院の学生</input><br>
+			<input type="radio" name="shokugyo" value="">他大学の大学・大学院の学生</input><br>
+			<input type="radio" name="shokugyo" value="">名古屋大学・大学院の教職員</input><br>
+			<input type="radio" name="shokugyo" value="">他大学・大学院の教職員</input><br>
+			<input type="radio" name="shokugyo" value="">高校生・予備校生</input><br>
+			<input type="radio" name="shokugyo" value="">自主学習者</input><br>
+			<input type="radio" name="shokugyo" value="">その他</input><br>
+-->	
 		
 		<h1 class="inq">3.お住まいの都道府県：</h1>
 			<select name="pref" size="1" tabindex="0">
