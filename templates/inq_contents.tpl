@@ -14,27 +14,27 @@
 	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
 	<p>以下のフォームにご記入のうえ、「入力内容の確認」ボタンを押して下さい。</p>
 
-	<form  class="feedback" action="inquiry_process.php" method="post">
+	<form  class="feedback" action="inquiry.php" method="post">
 		<h1 class="inq">1.<span class="red">（必須）</span>ご意見・ご質問の種類を１つ選んでください</h1>
 			<div class="inq">
-			<input type="radio" name="" value="">このプロジェクトについて</input><br>
-			<input type="radio" name="" value="">公開している教材について</input><br>
-			<input type="radio" name="" value="">技術的な質問</input><br>
-			<input type="radio" name="" value="">より良くするために</input><br>
+			<input type="radio" name="toiawase" value="inquiry1">このプロジェクトについて</input><br>
+			<input type="radio" name="toiawase" value="inquiry2">公開している教材について</input><br>
+			<input type="radio" name="toiawase" value="inquiry3">技術的な質問</input><br>
+			<input type="radio" name="toiawase" value="inquiry4">より良くするために</input><br>
 			</div>
 				
 		<h1 class="inq">2.あなたは：</h1>
-			<input type="radio" name="" value="">名古屋大学・大学院の学生</input><br>
-			<input type="radio" name="" value="">他大学の大学・大学院の学生</input><br>
-			<input type="radio" name="" value="">名古屋大学・大学院の教職員</input><br>
-			<input type="radio" name="" value="">他大学・大学院の教職員</input><br>
-			<input type="radio" name="" value="">高校生・予備校生</input><br>
-			<input type="radio" name="" value="">自主学習者</input><br>
-			<input type="radio" name="" value="">その他</input><br>
+			<input type="radio" name="shokugyo" value="job2">名古屋大学・大学院の学生</input><br>
+			<input type="radio" name="shokugyo" value="job3">他大学の大学・大学院の学生</input><br>
+			<input type="radio" name="shokugyo" value="job6">名古屋大学・大学院の教職員</input><br>
+			<input type="radio" name="shokugyo" value="job6">他大学・大学院の教職員</input><br>
+			<input type="radio" name="shokugyo" value="job1">高校生・予備校生</input><br>
+			<input type="radio" name="shokugyo" value="job4">自主学習者</input><br>
+			<input type="radio" name="shokugyo" value="job7">その他</input><br>
 		
 		
 		<h1 class="inq">3.お住まいの都道府県：</h1>
-			<select name="" size="1" tabindex="0">
+			<select name="pref" size="1" tabindex="0">
 			<option value="" selected>▼こちらから選択してください</option>
 			<option value="北海道">北海道</option>
 
@@ -97,18 +97,18 @@
 
 		<h1 class="inq">4.<span class="red">（必須）</span>件名をご記入下さい</h1>
 		<p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
-			<input type="text" name="" size="70"></input>
+			<input type="text" name="title" size="70"></input>
 			
 		<h1 class="inq">5.<span class="red">（必須）</span>内容を具体的にご記入ください</h1>
-			<textarea name="" rows="3" cols="50" tabindex="0"></textarea>	
+			<textarea name="content" rows="3" cols="50" tabindex="0"></textarea>	
 
 		<h1 class="inq">6.<span class="red">（必須）</span>お名前</h1>
-			<input type="text" name="" size="50"></input>
+			<input type="text" name="c_name" size="50"></input>
 
 		<h1 class="inq">7.<span class="red">（必須）</span>連絡可能なＥメールアドレス</h1>		
-			<input type="text" name="" size="70"></input>
+			<input type="text" name="c_email" size="70"></input>
 		<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
-		<input type="submit" name="" value="こちらのボタンを押すと送信されます">
+		<input type="submit" name="" value="入力内容の確認">
 		<input type="reset" name="" value="リセット">
 	</form>
 
