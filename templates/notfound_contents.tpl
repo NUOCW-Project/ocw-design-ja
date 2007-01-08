@@ -9,7 +9,7 @@
 	<td width="10" class="td_left"></td>
 	<td width="470" class="td_contents">    <!-- コンテンツセル -->
 	
-	<h1 class="notfound">404 Not Found ページが見つかりません</h1>
+	<h1 class="notfound">404 Not Found</h1>
 
 	<p class="notfound">
 	該当するページが見つかりません。
