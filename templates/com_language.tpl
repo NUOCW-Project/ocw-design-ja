@@ -9,7 +9,7 @@
 <!--　言語とフォントサイズ切り替え　-->
 {strip}
 <div class="language">
-{literal}{if $exist_another}<a href="index.php?lang={$another_lang}&mode={$mode}&page_type={$page_type}&id={$id}>{/if}{/literal}
+{literal}{if $exist_another}<a href="index.php?lang={$another_lang}&mode={$mode}&page_type={$page_type}&id={$id}">{/if}{/literal}
 {if $lang == "ja"}
   <img src="./images/b_english.jpg" alt="English">
 {elseif $lang == "en"}
