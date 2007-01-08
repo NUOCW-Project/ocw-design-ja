@@ -11,7 +11,7 @@
 	
 	<h1 class="feedback">−ご意見・ご感想をお待ちしております−</h1>
 
-	<form class="feedback" action="feedback.php" method="post">
+	<form class="feedback" action="feedback.php?lang=ja" method="post">
 	<p class="feedback">名大の授業をよりよくするためにご意見・ご感想をお寄せください。</p>
 
 	<h2 class="feedback">*内容について：</h2>
