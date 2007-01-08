@@ -541,6 +541,12 @@ textarea.feedback {
     width:430px;
 }
 
+/* ------------------Thankyou-------------------- */
+p.thankyou {
+    margin: 10px;
+}
+
+
 /* ----------- Visual Syllabus ----------- */
 div.vsyllabus_left {
 	text-align:left;

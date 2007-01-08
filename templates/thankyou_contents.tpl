@@ -7,16 +7,16 @@
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
-	<td width="470" height="520" class="td_contents">    <!-- コンテンツセル -->
+	<td width="470" class="td_contents">    <!-- コンテンツセル -->
 	
-	<h1 class="feedback">−ご意見・ご感想をありがとうございました−</h1>
+	<h1 class="feedback">−ご意見・ご感想ありがとうございました−</h1>
 
-	<p>
+	<p class="thankyou">
 	引き続き、名大の授業をお楽しみください。
 	</p>
 
-	<p>
-	<a href="index.php?lang={$smarty.get.ref_lang}&mode={$smarty.get.ref_mode}&id={$smarty.get.ref_id}&page_type={$smarty.get.page_type}">戻る</a>
+	<p class="thankyou">
+	<a href="index.php?lang={$smarty.get.ref_lang}&mode={$smarty.get.ref_mode}&id={$smarty.get.ref_id}&page_type={$smarty.get.page_type}">閲覧していたページに戻る</a>
     </p>
 
 	</td>
