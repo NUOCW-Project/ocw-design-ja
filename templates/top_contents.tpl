@@ -11,7 +11,7 @@
 	<div class="pickup">   	<!-- Pickup コンテンツ -->
 	<p class="pickup_title">
 	<img src="./images/t_pickup.jpg" alt="今週のPICK UP">
-	<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/bn.gif" alt="バックナンバー"></a>
+	{if $exist_pickup_bn}<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/bn.gif" alt="バックナンバー"></a>{/if}
 	</p>
 	<div class="pickup_contents">
 	<table cellspacing="0" summary="PICK UPのタイトルと情報">

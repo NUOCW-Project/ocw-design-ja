@@ -1,12 +1,14 @@
 <div class="center_contents"> 
 
 <table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
+{if $exist_pickup_bn}
 <tr>
   <td colspan="3">
 <!-- バックナンバーへのリンク -->
 <div class="pickup_to_bn"><a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/bn.gif" width="70" height="25"></a></div>
   </td>
 </tr>
+{/if}
 <tr>
   <td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
   <td width="465" height="15" class="td_top"></td>
