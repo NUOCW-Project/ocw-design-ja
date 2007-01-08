@@ -546,6 +546,20 @@ p.thankyou {
    padding: 30px 10px;
 }
 
+/* ------------------Thankyou-------------------- */
+h1.notfound{
+	background-image:none;
+	color:#999966;
+	font-size:140%;
+	line-height:50%;
+	margin:10px 10px;
+	padding:0;
+}
+
+p.notfound {
+   padding: 30px 10px;
+}
+
 
 /* ----------- Visual Syllabus ----------- */
 div.vsyllabus_left {

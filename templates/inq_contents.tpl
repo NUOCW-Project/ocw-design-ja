@@ -111,7 +111,7 @@
 			<input type="text" name="title" size="70"></input>
 			
 		<h1 class="inq">5.<span class="red">（必須）</span>内容を具体的にご記入ください</h1>
-			<textarea name="content" rows="3" cols="50" tabindex="0"></textarea>	
+			<textarea name="content" rows="10" cols="50" tabindex="0"></textarea>	
 
 		<h1 class="inq">6.<span class="red">（必須）</span>お名前</h1>
 			<input type="text" name="c_name" size="50"></input>
