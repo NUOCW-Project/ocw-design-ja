@@ -9,14 +9,13 @@
 <!--　言語とフォントサイズ切り替え　-->
 {strip}
 <div class="language">
+{literal}{if $exist_another}<a href="index.php?lang={$another_lang}&mode={$mode}&page_type={$page_type}&id={$id}>{/if}{/literal}
 {if $lang == "ja"}
-  <a href="{literal}{$smarty.server.REQUEST_URI}{/literal}">
   <img src="./images/b_english.jpg" alt="English">
 {elseif $lang == "en"}
-  <a href="{literal}{$smarty.server.REQUEST_URI}{/literal}">
   <img src="./images/b_japanese.jpg" alt="日本語">
 {/if}
-</a>
+{literal}{if $exist_another}</a>{/if}{/literal}
 <br>
 
 {* 各画像の間にスペースを入れてはいけない（文字サイズを大きくしたときにレイアウトがくずれる） *}
