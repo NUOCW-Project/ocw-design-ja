@@ -102,9 +102,13 @@
 	<textarea class="feedback" name="comment" rows="5" cols="55" tabindex="0"></textarea>
 
 	<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
-	<!--	<input type="submit" name="" value="こちらのボタンを押すと送信されます">
+		<input type="hidden" name="target_lang" value="{$smarty.get.ref_lang}">
+		<input type="hidden" name="target_mode" value="{$smarty.get.ref_mode}">
+		<input type="hidden" name="target_id" value="{$smarty.get.ref_id}">
+		<input type="hidden" name="target_page_type" value="{$smarty.get.ref_page_type}">
+
+		<input type="submit" name="" value="こちらのボタンを押すと送信されます">
 		<input type="reset" name="" value="リセット">
-	-->
 	</form>
 
 
