@@ -20,7 +20,7 @@
 		<li>表示されたページの「本文へのリンク」をクリックすると該当するページが表示されます。</li>
 	</ol>
 	<p>検索する↓<br>
-	<img src="./images/akf.jpg" alt="AKF検索">
+	<a href="http://akf.nul.nagoya-u.ac.jp/"><img src="./images/akf.jpg" alt="AKF検索"></a>
 	</p>
 	
 	<p><span class="b">詳細1:</span><br>
