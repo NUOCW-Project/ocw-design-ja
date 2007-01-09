@@ -89,6 +89,15 @@ ul.right_contents_buttons li {
 	padding: 0;
 }
 
+li.small_button {
+	padding: 1px 0 0;
+}
+
+li.big_button {
+	padding: 0 0 1px;
+}
+
+
 div {
 }
 
