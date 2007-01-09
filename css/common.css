@@ -86,13 +86,6 @@ ul.right_contents_buttons {
 ul.right_contents_buttons li {
 	list-style-type: none;
 	margin: 0;
-}
-
-li.small_button{
-	padding: 0;
-}
-
-li.big_button {
 	padding: 0;
 }
 
