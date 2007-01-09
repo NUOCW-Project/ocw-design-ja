@@ -148,11 +148,12 @@ div.welcome_img{
 
 p.welcome_chairperson{
 	margin-left: 260px;
-    padding: 20px 5px;
+    padding: 20px 5px 5px;
 }
 
 div.vsyllabus_ocw {
-    text-align: center;
+    text-align: left;
+	padding: 5px 0 10px
 }
 
 /* センター部分コンテンツ　*/
