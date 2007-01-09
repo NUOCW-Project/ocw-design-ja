@@ -15,7 +15,7 @@ function changeImages() {
 }
 function preloadImages() {
 	if (document.images) {
-		over_cl = newImage(/*URL*/'../../img/n_cl_on.gif');
+		over_cl = newImage(/*URL*/'./n_cl_on.gif');
 		preloadFlag = true;
 	}
 }
