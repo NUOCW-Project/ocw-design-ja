@@ -40,7 +40,7 @@
         {strip}
           <td class="pickup_contents_title">
           {if $bn.relation_id}<a class="pickup_title" href="index.php?mode=c&id={$bn.relation_id}">{/if}
-          {$bn.title|default:"名大OCWについてのお知らせ"}
+          {$bn.title|default:"名大OCWについてのお知らせ"|change_font_size:240:14}
           {if $bn.relation_id}</a>{/if}
           </td>
         {/strip}

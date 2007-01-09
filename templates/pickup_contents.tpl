@@ -32,7 +32,7 @@
   {strip}
     <td class="pickup_contents_title">
       {if $pu.relation_id}<a class="pickup_title" href="index.php?mode=c&id={$pu.relation_id}">{/if}
-      {$pu.title|default:"名大OCWについてのお知らせ"}
+      {$pu.title|default:"名大OCWについてのお知らせ"|change_font_size:240:14}
       {if $pu.relation_id}</a>{/if}
     </td>
   {/strip}
