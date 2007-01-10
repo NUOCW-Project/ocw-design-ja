@@ -4,12 +4,14 @@
 <a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index-1}">&lt;&lt; 前へ</a>
 {/if}
 
+{if $bn_size > 1}
 {section name="bn_navi" loop=$bn_size}
 	{if $smarty.section.bn_navi.iteration != $bn_index}
 	<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$smarty.section.bn_navi.iteration}">{$smarty.section.bn_navi.iteration}</a>
 	{else}<span class="b">{$bn_index}</span>
 	{/if}
 {/section}
+{/if}
 
 {if $bn_index != $bn_size}
 <a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index+1}"> &gt;&gt; 次へ</a>
