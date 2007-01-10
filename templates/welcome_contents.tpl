@@ -19,7 +19,7 @@
 	委員長 杉山 寛行
 	</p>
 	<div class="vsyllabus_ocw">
-	<img src="./images/b_video_ocw.jpg" alt="1分間OCW紹介" width="133" height="75">
+	<a href="http://vdbserv.media.nagoya-u.ac.jp/ramgen/vod//OWE/00024521.rm?autostart=true" title="1分間 OCW 紹介"><img src="./images/b_video_ocw.jpg" alt="1分間OCW紹介" width="133" height="75"></a>
 	</div>
 
 	<p>ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。授業の内容を見て、教員の言葉を聞いて、名大の授業をぜひ「体験」してください。</p>
