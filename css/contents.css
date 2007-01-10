@@ -151,9 +151,13 @@ p.welcome_chairperson{
     padding: 20px 5px 5px;
 }
 
-div.vsyllabus_ocw {
+div.welcome_vsyllabus {
     text-align: left;
 	padding: 5px 0 10px
+}
+
+div.welcome_cotents {
+	clear: left;
 }
 
 /* センター部分コンテンツ　*/
