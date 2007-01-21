@@ -12,5 +12,5 @@
 <div class="all"><!-- コンテンツ全体を囲むブロック開始 -->
 {* テスト発行時 *}
 {if $preview}
-<p class="notice">テンポラリディレクトリ内の{$smarty.template}を読み込んで表示しています。</p>
+<p class="notice">テンポラリディレクトリ内の{literal}{$smarty.template}{/literal}を読み込んで表示しています。</p>
 {/if}
