@@ -10,9 +10,7 @@
 </head>
 <body>
 <div class="all"><!-- コンテンツ全体を囲むブロック開始 -->
-{* 確認用に、テンポラリディレクトリにあるテンプレートを読み込んでいるとき *}
-{literal}
-{if $smarty.get.display_mode == "temp"}
+{* テスト発行時 *}
+{if $preview}
 <p class="notice">テンポラリディレクトリ内の{$smarty.template}を読み込んで表示しています。</p>
 {/if}
-{/literal}
