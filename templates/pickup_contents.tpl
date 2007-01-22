@@ -37,8 +37,8 @@
     </td>
   {/strip}
     <td class="pickup_img" rowspan="2">
-      {if $pu.relation_id}<a href="index.php?mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt="{$pu.title}" width="150"></a>
-      {else}<img src="{$pu.file_name}" alt="" width="150" height="108">
+      {if $pu.relation_id}<a href="index.php?mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt="{$pu.title}" width="150" height="108"></a>
+      {else}<img src="{$pu.file_name}" alt="">
       {/if}
     </td>
   <tr>
