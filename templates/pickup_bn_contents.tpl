@@ -58,7 +58,7 @@
         <tr>
           <td class="pickup_body"  colspan="2">
           {if $bn.relation_id && false}{$bn.summ|strip_tags|strip|escape}
-                        {else}{$bn.body|strip_tags|strip|escape}
+                        {else}{$bn.body|strip|escape}
           {/if}
           </td>
         </tr>

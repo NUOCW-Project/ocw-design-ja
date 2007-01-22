@@ -47,7 +47,7 @@
   <tr>
     <td class="pickup_body" colspan="2">
     {if $pu.relation_id && false}{$pu.summ|strip_tags|strip|escape}
-    {else}{$pu.body|strip_tags|strip|escape}
+    {else}{$pu.body|strip|escape}
     {/if}
     </td>
   </tr>
