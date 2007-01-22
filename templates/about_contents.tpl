@@ -56,11 +56,11 @@
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
-			<td><p><img src="./images/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
+			<td><img src="./images/logo_nu.gif" alt="国立大学法人 名古屋大学"></td>
 			<td><p><a href="http://www.nagoya-u.ac.jp">名古屋大学</a></p></td>
 		</tr>
 		<tr>
-			<td class="center_gray"><p><img src="./images/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
+			<td class="center_gray"><img src="./images/logo_ocwc.gif" alt="OpenCourseWare Consortium"></td>
 			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		<tr>
