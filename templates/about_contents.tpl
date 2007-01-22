@@ -56,15 +56,15 @@
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
-			<td><p><img src="./images/logo_nu.gif"></p></td>
+			<td><p><img src="./images/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
 			<td><p><a href="http://www.nagoya-u.ac.jp">名古屋大学</a></p></td>
 		</tr>
 		<tr>
-			<td class="center_gray"><p><img src="./images/logo_mit.gif"></p></td>
-			<td class="left_gray"><p><a href="http://ocw.mit.edu/">マサチューセッツ工科大学オープンコースウェア</a></p></td>
+			<td class="center_gray"><p><img src="./images/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
+			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		<tr>
-			<td><p><img src="./images/logo_jocw.gif"></p></td>
+			<td><p><img src="./images/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
 			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		</tbody>

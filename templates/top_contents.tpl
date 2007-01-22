@@ -117,7 +117,7 @@
 
 	<ul class="right_contents_buttons">
 	<li class="small_button"><a href="http://jocw.jp/"><img src="./images/logo_jocw.gif" alt="JOCW"></a></li>
-	<li class="small_button"><a href="http://ocw.mit.edu/"><img src="./images/logo_mit.gif" alt="MIT OPEN COURSE WARE"></a></li>
+	<li class="small_button"><a href="http://www.ocwconsortium.org/"><img src="./images/logo_ocwc.gif" alt="OpenCourseWare Consortium"></a></li>
 	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus"><img src="./images/b_video.jpg" alt="1Ê¬´Ö¼ø¶È¾Ò²ð"></a></li>
 	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=top"><img src="./images/b_feedback.jpg" alt="Feedback"></a><li>
 	</ul>
