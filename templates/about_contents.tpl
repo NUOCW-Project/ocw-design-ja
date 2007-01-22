@@ -119,7 +119,7 @@
 		</tr>
 		<tr>
 			<td class="center_gray"><p><img src="./images/i_02cshe.gif" alt="高等教育研究センター"></p></td>
-			<td class="left_gray"><p><a href="http://www.iar.nagoya-u.ac.jp/">高等教育研究センター</a>は、高等教育に関する研究・開発に基づき、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
+			<td class="left_gray"><p><a href="http://www.cshe.nagoya-u.ac.jp/">高等教育研究センター</a>は、高等教育に関する研究・開発に基づき、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
 			<td><p><img src="./images/i_03itc.gif" alt="情報連携基盤センター"></p></td>
