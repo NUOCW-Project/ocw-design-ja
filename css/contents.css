@@ -394,6 +394,10 @@ td.center{
 	text-align: center;
 }
 
+td.center p{
+    text-align :center;
+}
+
 td.center_gray{
 	text-align: center;
 	background-color:#eeeeee;
