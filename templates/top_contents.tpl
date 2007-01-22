@@ -32,7 +32,7 @@
 				{if $pu.relation_id}
 				<a href="index.php?mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt="" width="150" height="108"></a>
 				{else}
-				<img src="{$pu.file_name}" alt="" width="150" height="105">
+				<img src="{$pu.file_name}" alt="" width="150" height="108">
 				{/if}
 			</td>
 		</tr>
