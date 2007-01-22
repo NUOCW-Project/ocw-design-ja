@@ -21,6 +21,7 @@ td.pickup_contents_title{
 td.pickup_img {
 	width: 150px;
 	height: 108px;
+	vertical-align:middle;
 }
 
 td.pickup_info_top {
@@ -28,6 +29,7 @@ td.pickup_info_top {
 }
 td.pickup_summ_top {
     text-align:right;
+	vertical-align:middle;
 }
 td.pickup_info {
 	width: 280px;

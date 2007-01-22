@@ -30,9 +30,9 @@
 			</td>
 			<td class="pickup_summ_top">
 				{if $pu.relation_id}
-				<a href="index.php?mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt="" width="150" height="108"></a>
+				<a href="index.php?mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt=""></a>
 				{else}
-				<img src="{$pu.file_name}" alt="" width="150" height="108">
+				<img src="{$pu.file_name}" alt="">
 				{/if}
 			</td>
 		</tr>
