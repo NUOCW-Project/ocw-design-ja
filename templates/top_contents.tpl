@@ -38,7 +38,7 @@
 		</tr>
 	</table>
 	<p class="pickup_contents">
-		{$pu.summ|strip|escape}
+		{$pu.summ|strip}
 	</p>
 	</div>
 	<p class="pickup_more">
