@@ -56,7 +56,7 @@
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
-			<td><p><img src="./images/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
+			<td class="center"><p><img src="./images/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
 			<td><p><a href="http://www.nagoya-u.ac.jp">名古屋大学</a></p></td>
 		</tr>
 		<tr>
@@ -64,7 +64,7 @@
 			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		<tr>
-			<td><p><img src="./images/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
+			<td class="center"><p><img src="./images/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
 			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		</tbody>
@@ -114,7 +114,7 @@
 			<td class="separate" colspan="2"></td>
 		</tr>
 		<tr>
-			<td><p><img src="./images/i_01cims.gif" alt="情報メディア教育センター"></p></td>
+			<td class="center"><p><img src="./images/i_01cims.gif" alt="情報メディア教育センター"></p></td>
 			<td><p><a href="http://www.media.nagoya-u.ac.jp/">情報メディア教育センター</a>は、学習教材の開発支援とその利用環境を提供することで、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
@@ -122,7 +122,7 @@
 			<td class="left_gray"><p><a href="http://www.cshe.nagoya-u.ac.jp/">高等教育研究センター</a>は、高等教育に関する研究・開発に基づき、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
-			<td><p><img src="./images/i_03itc.gif" alt="情報連携基盤センター"></p></td>
+			<td class="center"><p><img src="./images/i_03itc.gif" alt="情報連携基盤センター"></p></td>
 			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">情報連携基盤センター</a>は、先進的な情報基盤を提供することで、名古屋大学の教育・研究の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
