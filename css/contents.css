@@ -22,6 +22,7 @@ td.pickup_img {
 	width: 150px;
 	height: 108px;
 	vertical-align:middle;
+	text-align: center;
 }
 
 td.pickup_info_top {
