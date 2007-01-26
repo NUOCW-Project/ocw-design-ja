@@ -162,8 +162,9 @@ div.header_menu img{
 div.navi{
 	text-align:left;
 	width: 630px;
-	height: 20px;
-	margin:0 10px;
+	/* height: 20px; */
+	margin: 0 10px;
+	padding: 5px 0;
 }
 
 /*　左側メニューボタン　*/
