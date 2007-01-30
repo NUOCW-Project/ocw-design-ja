@@ -48,12 +48,10 @@
 	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/realone.gif" alt="Real Player ダウンロードサイトへ" border="0" height="31" width="88"></a>
 	</p>
 
-<!--
 	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
-	<p><a href="●●"><img src="./images/b_rss.gif"></a>を iTunes の
+	<p><a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/b_rss.gif"></a>を iTunes の
 	"Podcast" にドラッグ＆ドロップするとポッドキャストが登録されます
 	（iTunes は最新版をお使いください）。</p>
--->
 
 	
 	<!-- ------関連リンク部分------ -->
@@ -69,7 +67,7 @@
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
 		<p>●関連リンク</p>
 		<!-- 関連リンクデータ -->
-		<p><a href="http://media.nagoya-u.ac.jp">情報メディア教育センター</a></p>
+		<p><a href="http://www.media.nagoya-u.ac.jp/">情報メディア教育センター</a></p>
 		<!-- 関連リンクデータ -->
 		</div>	<!-- 関連リンクコンテンツセル終了 -->
 		</td>
