@@ -41,17 +41,24 @@
 
 		</tbody>
 	</table>
-	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
+
+	<div class="realplayer">
+	<img src="./images/dot_gray.gif" height="10" width="325">
 	<p>ビデオの閲覧にはRealNetworks社のReal Playerが必要です。</p>
 	<p>Real Playerは、以下からダウンロードできます。</p>
 	<p>
 	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/realone.gif" alt="Real Player ダウンロードサイトへ" border="0" height="31" width="88"></a>
 	</p>
+	</div>
 
-	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
-	<p><a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/b_rss.gif"></a>を iTunes の
-	"Podcast" にドラッグ＆ドロップするとポッドキャストが登録されます
-	（iTunes は最新版をお使いください）。</p>
+	<div class="podcast">
+	<img src="./images/dot_gray.gif" height="10" width="325">
+	<p><a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/b_rss.gif" ></a>
+	を iTunes の "Podcast" にドラッグ＆ドロップすると<br>
+	ポッドキャストが登録されます。<br>
+	（iTunes は最新版をお使いください）
+	</p>
+	</div>
 
 	
 	<!-- ------関連リンク部分------ -->
