@@ -589,6 +589,21 @@ div.vsyllabus_left {
 	padding: 0;
 }
 
+div.realplayer {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+div.podcast {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+div.podcast p {
+	text-indent: -40px;
+}
+
+
 
 /* -----------------About----------------- */
 div.about_left{
