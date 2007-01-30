@@ -590,15 +590,16 @@ div.vsyllabus_left {
 }
 
 div.realplayer {
-	margin: 30px 0;
+	margin: 40px 0;
 }
 
 div.podcast {
-	margin: 30px 0;
+	margin: 40px 0;
 }
 
 div.podcast p {
-	
+	padding-left: 40px;
+	text-indent: -40px;
 }
 
 
