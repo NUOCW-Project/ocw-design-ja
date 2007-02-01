@@ -5,10 +5,10 @@
 
 
 <div class="podcast">
-<table>
+<table width="145" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
   <td width="10" height="15"><img src="./images/gray01.gif" alt=""></td>
-  <td width="30" height="15" class="td_top_gray"></td>
+  <td width="125" height="15" class="td_top_gray"></td>
   <td width="10" height="15"><img src="./images/gray03.gif" alt=""></td>
 </tr>
 
