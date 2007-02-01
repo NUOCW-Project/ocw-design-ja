@@ -10,7 +10,7 @@
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 	
-	<table class="center_ocntents" width="455">
+	<table class="center_contents" width="455">
 		<tbody>
 
 		<tr>
