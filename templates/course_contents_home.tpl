@@ -56,7 +56,7 @@
 
 	                {if $course_info.vsyllabus}
                 	<p class="course_home_b">
-					  <a href="{$course_info.vsyllabus}" title="1分間授業紹介（ビデオ）"><img src="./images/b_video_link.jpg" alt="1分間授業紹介（ビデオ）" width="120" height="73"></a>
+					  <a href="{$course_info.vsyllabus}" title="1分間授業紹介（ビデオ）"><img src="./images/b_video_link.jpg" alt="1分間授業紹介（ビデオ）" width="120" height="68"></a>
 					</p>
 					{/if}
 
