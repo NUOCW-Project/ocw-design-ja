@@ -594,12 +594,8 @@ div.realplayer {
 }
 
 div.podcast {
-	margin: 40px 0;
-}
-
-div.podcast p {
-	padding-left: 43px;
-	text-indent: -43px;
+	margin: 30px auto;
+    padding: 0;
 }
 
 
