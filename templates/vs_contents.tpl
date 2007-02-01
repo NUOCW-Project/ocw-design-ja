@@ -50,16 +50,6 @@
 	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/realone.gif" alt="Real Player ダウンロードサイトへ" border="0" height="31" width="88"></a>
 	</p>
 	</div>
-
-	<div class="podcast">
-	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
-	<p><a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/b_rss.gif" ></a>
-	を iTunes の "Podcast" にドラッグ＆ドロップすると、<br>
-	ポッドキャストが登録されます。<br>
-	（iTunes は最新版をお使いください）
-	</p>
-	</div>
-
 	
 	<!-- ------関連リンク部分------ -->
 	<table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
