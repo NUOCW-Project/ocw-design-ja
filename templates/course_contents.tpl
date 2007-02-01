@@ -9,7 +9,7 @@
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
-		{eval var=$page_data.contents}
+		{strip}{eval var=$page_data.contents}{/strip}
 	</div>	<!-- コンテンツセル終了 -->
 
 	</td>

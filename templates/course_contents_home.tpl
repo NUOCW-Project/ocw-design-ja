@@ -12,7 +12,7 @@
 		
 		<!-- ------コースホームコンテンツ------ -->
 		<div class="course_home_contents">
-		{eval var=$page_data.contents}
+		{strip}{eval var=$page_data.contents}{/strip}
 		</div>
 		<!-- ------コースホームコンテンツ終了------ -->
 
