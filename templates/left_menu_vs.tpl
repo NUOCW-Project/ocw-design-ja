@@ -1,7 +1,6 @@
 <!-- 名大の授業についてleftメニュー -->
 <div class="vsyllabus_left">
 <img src="./images/t_vlist.gif" alt="番組一覧">
-</div>
 
 
 <div class="podcast">
@@ -27,7 +26,8 @@
   <td width="80" height="15" class="td_under_gray"></td>
   <td width="10" height="15"><img src="./images/gray08.gif" alt=""></td>
 </tr>
-
+</table>
 </div>
 
+</div>
 
