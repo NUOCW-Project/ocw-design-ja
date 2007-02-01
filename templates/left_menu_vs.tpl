@@ -16,7 +16,7 @@
  <td width="125" class="td_contents_gray">
   <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/b_rss.gif" ></a>
   を iTunes の "Podcast" にドラッグ＆ドロップすると、ポッドキャストが登録されます。<br>
-  （iTunes は最新版をお使いください）
+  （iTunesは最新版をお使いください）
   </td>
   <td width="10" class="td_right_gray"></td>
 </tr>
