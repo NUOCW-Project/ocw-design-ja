@@ -6,7 +6,13 @@
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/fontsize_{ldelim}$smarty.session.fontsize|default:s{rdelim}.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/left_menu.css" media="all">
-<title>{$title|default:"名大の授業 Nagoya University OPEN Course Ware"}</title>
+<title>
+{if $lang=='ja'}
+名大の授業 Nagoya University OPEN Course Ware
+{elseif}
+Nagoya University OPEN Course Ware (NU OCW)
+{/if}
+{$title}</title>
 </head>
 <body>
 <div class="all"><!-- コンテンツ全体を囲むブロック開始 -->
