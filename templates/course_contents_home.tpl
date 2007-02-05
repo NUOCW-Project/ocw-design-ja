@@ -30,10 +30,10 @@
                 <td class="td_contents_gray">
 					<!-- コンテンツセル開始 -->
                 	<div class="course_home_info_contents">   
-                	<p class="course_home_b">開講部局</p>
+                	<p class="course_home_b">{if $lang=='ja'}開講部局{else}Department:{/if}</p>
                 	<p class="course_home">{$course_info.department_name}</p>
 
-                	<p class="course_home_b">担当</p>
+                	<p class="course_home_b">{if $lang=='ja'}担当{else}Instructor:{/if}</p>
                 	<p class="course_home">
                 	{foreach from=$course_info.instructors item=instructor name=instructor}
                 	{$instructor.name}
@@ -41,10 +41,10 @@
                 	{/foreach}
                 	</p>
 
-                	<p class="course_home_b">授業時間</p>
+                	<p class="course_home_b">{if $lang=='ja'}授業時間{else}Course Meeting Times{/if}</p>
                 	<p class="course_home">{$course_info.year}<br>{$course_info.meeting_time|nl2br}</p>
 
-                	<p class="course_home_b">対象者</p>
+                	<p class="course_home_b">{if $lang=='ja'}対象者{else}Class is for{/if}</p>
                 	<p class="course_home">{$course_info.class_is_for_ja|nl2br}</p>
 
 					<p class="course_home_b">
