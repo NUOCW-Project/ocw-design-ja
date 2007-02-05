@@ -9,7 +9,7 @@
 <title>
 {if $lang=='ja'}
 名大の授業 Nagoya University OPEN Course Ware
-{elseif}
+{else}
 Nagoya University OPEN Course Ware (NU OCW)
 {/if}
 {$title}</title>
