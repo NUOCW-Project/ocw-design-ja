@@ -4,7 +4,7 @@
 {if not $on_top}
 {if $lang=="ja"}
 <a href="index.php?mode=g&lang=ja&page_type=top"><img src="./images/toplogo.jpg" width="275" height="54" alt="名大の授業 HOME"></a>
-{if $lang=="en"}
+{elseif $lang=="en"}
 <a href="index.php?mode=g&lang=en&page_type=top"><img src="./images_e/toplogo.gif" width="275" height="54" alt="NU OCW HOME"></a>
 {/if}
 {/if}
