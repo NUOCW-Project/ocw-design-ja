@@ -140,7 +140,7 @@ div.language{
 div.header_image{
 	width:650px;
 	margin:0 5px;
-	padding:0;
+	padding: 0;
 	clear: both;
 }
 
@@ -202,7 +202,7 @@ div.clear{
 }
 
 table.header{
-	margin:0 5px;
+	margin:0;
 	border:none;
 }
 
