@@ -14,7 +14,7 @@
 <tr>
  <td width="10" class="td_left_gray"></td>
  <td width="125" class="td_contents_gray">
-  <img src="./images/podcast.jpg" alt="NU OCW Podcast">
+  <img src="./images/podcast.jpg" alt="NU OCW Podcast"><br>
 
   <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/b_rss.gif" ></a>
   を iTunes の "Podcast" にドラッグ＆ドロップすると、ポッドキャストが登録されます。<br>
