@@ -15,7 +15,7 @@
  <td width="10" class="td_left_gray"></td>
  <td width="125" class="td_contents_gray">
   <p>
-  <img src="./images/podcast.jpg" alt="NU OCW Podcast">
+  <img src="./images/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
   </p>
 
   <p>
