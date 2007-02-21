@@ -598,6 +598,10 @@ div.podcast {
     padding: 0;
 }
 
+div.podcast p {
+	margin: 0;
+	padding: 0 0 5px;
+}
 
 
 /* -----------------About----------------- */
