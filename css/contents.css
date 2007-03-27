@@ -608,12 +608,14 @@ h1.relay {
 	text-align: center;
 	font-size: 120%;
     background-image: none;
+	padding: 0 0 50px 0;
 }
 
 h2.relay {
 	text-align: center;
     font-size: 100%;
     background-image: none;
+	padding: 0 0 50px 0;
 }
 
 
