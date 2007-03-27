@@ -123,34 +123,6 @@
 	</p>
 	</div>
 	
-	<!-- ------関連リンク部分------ -->
-	<table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
-	<tr>
-		<td width="10" height="15"><img src="./images/gray01.gif" alt=""></td>
-		<td width="30" height="15" class="td_top_gray"></td>
-		<td width="10" height="15"><img src="./images/gray03.gif" alt=""></td>
-	</tr>
-	<tr>
-		<td width="10" class="td_left_gray"></td>
-		<td class="td_contents_gray"> 
-		<div class="course_contents">  <!-- 関連リンクコンテンツセル開始 -->
-		<p>●関連リンク</p>
-		<!-- 関連リンクデータ -->
-		<p><a href="http://www.media.nagoya-u.ac.jp/">情報メディア教育センター</a></p>
-		<!-- 関連リンクデータ -->
-		</div>	<!-- 関連リンクコンテンツセル終了 -->
-		</td>
-		<td width="10" class="td_right_gray"></td>
-	</tr>
-	<tr>
-		<td width="10" height="15"><img src="./images/gray06.gif" alt=""></td>
-		<td width="430" height="15" class="td_under_gray"></td>
-		<td width="10" height="15"><img src="./images/gray08.gif" alt=""></td>
-	</tr>
-
-	</table>
-	<!-- ------関連リンク部分ここまで------ -->
-
 	</div>	<!-- コンテンツセル終了 -->
 
 	</td>
