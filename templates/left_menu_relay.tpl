@@ -15,11 +15,11 @@
  <td width="10" class="td_left_gray"></td>
  <td width="125" class="td_contents_gray">
   <p>
-  <img src="./images/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
+  <img src="./images/podcast_relay.png" alt="名古屋大学リレーセミナー Podcast" width="125" height="125">
   </p>
 
   <p>
-  <a href=""><img src="./images/b_rss.gif" ></a>
+  <a href="http://ocw.nagoya-u.jp/podcast/NURS2006.xml"><img src="./images/b_rss.gif" ></a>
   を iTunes の "Podcast" にドラッグ＆ドロップすると、ポッドキャストが登録されます。<br>
   （iTunesは最新版をお使いください）
   </p>
