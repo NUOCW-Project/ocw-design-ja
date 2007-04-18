@@ -2,7 +2,7 @@
 <div class="header_image">
 <table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
 {if $lang=="ja"}{assign var="page_header_img" value="./images/c_`$page_data.filename`}
-{else}{assign var="page_header_img" value="./images/c_`$page_data.filename`.jpg"}
+{else}{assign var="page_header_img" value="./images_e/c_`$page_data.filename`.jpg"}
 {/if}
 
 <!-- ページ名。ここの画像はページの内容によって動的に差し替え -->
