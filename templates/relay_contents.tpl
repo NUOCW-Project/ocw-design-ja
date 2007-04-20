@@ -53,76 +53,76 @@
 			<td class="separate" colspan="6"></td>
 		</tr>
 		<tr class="odd">
-		<td>水資源の問題</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar001.mp3">水資源の問題</a></td>
 		<td>地球水循環研究センター</td>
 		<td>教授 安成哲三</td>
 		</tr>
 		
 		<tr class="even">
-		<td>ユビキタス社会</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar002.mp3">ユビキタス社会</a></td>
 		<td>情報科学研究科</td>
 		<td>教授 安田孝美</td>
 		</tr>
 		
 		<tr class="odd">
-		<td>おいしい卵がたくさんできる秘密</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar003.mp3">おいしい卵がたくさんできる秘密</a></td>
 		<td>生命農学研究科</td>
 		<td>教授 島田清司</td>
 		</tr>
 		
 		<tr class="even">
-		<td>安心して暮らし続けるためのリスクマネジメント</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar004.mp3">安心して暮らし続けるためのリスクマネジメント</a></td>
 		<td>環境学研究科</td>
 		<td>教授 森保宏</td>
 		</tr>
 		
 		<tr class="odd">
-		<td>インターネット社会に於けるセキュリティ</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar005.mp3">インターネット社会に於けるセキュリティ</a></td>
 		<td>情報連携基盤センター</td>
 		<td>助教授 竹内義則</td>
 		</tr>
 		
 		<tr class="even">
-		<td>土壌地下水汚染をめぐって</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar006.mp3">土壌地下水汚染をめぐって</a></td>
 		<td>エコトピア科学研究所</td>
 		<td>教授 片山新太</td>
 		</tr>
 		
 		<tr class="odd">
-		<td>政府の役割と市場の役割</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar007.mp3">政府の役割と市場の役割</a></td>
 		<td>経済学研究科</td>
 		<td>教授 竹内信仁</td>
 		</tr>
 		
 		<tr class="even">
-		<td>エネルギーと環境</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar008.mp3">エネルギーと環境</a></td>
 		<td>エコトピア科学研究所</td>
 		<td>教授 北川邦行</td>
 		</tr>
 		
 		<tr class="odd">
-		<td>科学技術がもたらす健康問題を考える−アスベストとシックハウス−</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar009.mp3">科学技術がもたらす健康問題を考える−アスベストとシックハウス−</a></td>
 		<td>医学系研究科</td>
 		<td>助教授 上島通浩</td>
 		</tr>
 		
 		<tr class="even">
-		<td>スポーツとファッション</td>
+		<td><a href="rtsp://vdbserv.media.nagoya-u.ac.jp:554/NURS/NagoyaUniv_RelaySeminar010.mp3">スポーツとファッション</a></td>
 		<td>総合保健体育科学センター</td>
 		<td>講師 高橋義雄</td>
 		</tr>
 		</tbody>
 	</table>
-<!--
+
 	<div class="realplayer">
 	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
-	<p>ビデオの閲覧にはRealNetworks社のReal Playerが必要です。</p>
+	<p>これらの音声データは mp3 形式で提供しています.</p>
+    <p>mp3 を聞くためにはRealNetworks社のReal Player等が必要です。</p>
 	<p>Real Playerは、以下からダウンロードできます。</p>
 	<p>
 	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/realone.gif" alt="Real Player ダウンロードサイトへ" border="0" height="31" width="88"></a>
 	</p>
 	</div>
--->
 	
 	</div>	<!-- コンテンツセル終了 -->
 
