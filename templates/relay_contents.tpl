@@ -116,7 +116,7 @@
 
 	<div class="realplayer">
 	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
-	<p>これらの音声データはmp3形式で提供しています.</p>
+	<p>これらの音声データはmp3形式で提供しています。</p>
     <p>mp3を聞くためにはRealNetworks社のReal Playerなどが必要です。</p>
 	<p>Real Playerは、以下からダウンロードできます。</p>
 	<p>
