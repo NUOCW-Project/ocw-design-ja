@@ -116,8 +116,8 @@
 
 	<div class="realplayer">
 	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
-	<p>これらの音声データは mp3 形式で提供しています.</p>
-    <p>mp3 を聞くためにはRealNetworks社のReal Player等が必要です。</p>
+	<p>これらの音声データはmp3形式で提供しています.</p>
+    <p>mp3を聞くためにはRealNetworks社のReal Playerなどが必要です。</p>
 	<p>Real Playerは、以下からダウンロードできます。</p>
 	<p>
 	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/realone.gif" alt="Real Player ダウンロードサイトへ" border="0" height="31" width="88"></a>
