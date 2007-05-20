@@ -21,7 +21,7 @@
   <li class="m_{$dept.department_abbr}">
   {if $curr_department_abbr == $dept.department_abbr}
   <img src="./images/{$basename}_h.gif" alt="{$dept_name}">
-  {else}<a href="index.php?lang=ja&mode=l&page_type={$dept.department_abbr}"><img src="./images/dummy.gif" alt="{$dept_name}"></a>
+  {else}<a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/dummy.gif" alt="{$dept_name}"></a>
   {/if}
   </li>
 {/strip}
