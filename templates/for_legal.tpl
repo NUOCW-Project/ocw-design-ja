@@ -5,6 +5,10 @@
 {include file="legal_header_image.tpl"}
 {include file="com_navi.tpl"}
 {include file="left_menu_dummy.tpl"}
-{include file="legal_contents.tpl"}
+{if $lang =="ja"}
+  {include file="legal_contents.tpl"}
+{elseif $lang == "en"}
+  {include file="legal_contents_en.tpl"}
+{/if}
 {include file="feedback.tpl"}
 {include file="com_footer.tpl"}
