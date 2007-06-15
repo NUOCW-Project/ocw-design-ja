@@ -1,9 +1,9 @@
 <div class="feedback_contents">
 <table class="center_contents" width="490" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/commonflame01.gif" alt=""></td>
 	<td width="470" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
@@ -116,9 +116,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="470" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
