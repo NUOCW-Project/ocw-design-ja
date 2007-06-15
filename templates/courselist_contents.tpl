@@ -2,7 +2,7 @@
 {foreach from=$deptlist_for_clist item="dept"}
 	<div class="courselist_left">
 	<!-- Éô¶ÉÌ¾ -->
-	<a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/t_clist_{$dept.department_abbr}.gif" alt="{$dept.department_name}" width="155" height="40"></a>
+	<a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/{$lang}/t_clist_{$dept.department_abbr}.gif" alt="{$dept.department_name}" width="155" height="40"></a>
 	</div>
 	<div class="courselist_center">
 		<ul class="courselist">
