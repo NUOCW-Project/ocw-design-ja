@@ -1,9 +1,9 @@
 <div class="center_contents"> 
 <table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="465" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
@@ -16,7 +16,7 @@
        Nagoya University<br>
        Furo-cho, Chikusa-ku, Nagoya-shi 464-8603, Japan<br>
        Telephone: +81-52-789-3904<br>
-       E-mail:<img src="./images/mail_inq.gif" height="15" width="210">
+       E-mail:<img src="./images/common/mail_inq.gif" height="15" width="210">
     </p>
 
     <p>
@@ -30,9 +30,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
