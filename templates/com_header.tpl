@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="./css/common.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/fontsize_{ldelim}$smarty.session.fontsize|default:s{rdelim}.css" media="all">
-<link rel="stylesheet" type="text/css" href="./css/left_menu.css" media="all">
+<link rel="stylesheet" type="text/css" href="./css/left_menu_{$lang}.css" media="all">
 <title>
 {if $lang=='ja'}
 名大の授業 Nagoya University OPEN Course Ware
