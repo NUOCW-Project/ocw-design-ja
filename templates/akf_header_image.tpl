@@ -2,7 +2,7 @@
 <div class="header_image">
 <table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü">
 <tr>
-	<td><img src="./images/t05akf.jpg" alt="AKF¸¡º÷"></td>
+	<td><img src="./images/{$lang}/t05akf.jpg" alt="AKF¸¡º÷"></td>
 </tr>
 </table>
 </div>
