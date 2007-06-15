@@ -39,7 +39,7 @@
 
 <!-- リンク開始 -->
 <div class="about_left" id="about02">
-<img src="./images/t_02link.gif" alt="リンク">
+<img src="./images/{$lang}/t_02link.gif" alt="リンク">
 </div>
 <div class="about_center">
 <div class="about_contents"> 

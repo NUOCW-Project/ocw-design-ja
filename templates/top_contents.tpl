@@ -1,17 +1,17 @@
 <div class="top_center_contents">   <!-- センターコンテンツ「Pickup」「Topic」開始 -->
 <table class="center_contents" width="326" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="304" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
 	<td width="300" height="520" class="td_contents">    <!-- コンテンツセル -->
 	<div class="pickup">   	<!-- Pickup コンテンツ -->
 	<p class="pickup_title">
-	<img src="./images/t_pickup.jpg" alt="今週のPICK UP">
-	{if $exist_pickup_bn}<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/bn.gif" alt="バックナンバー"></a>{/if}
+	<img src="./images/{$lang}/t_pickup.jpg" alt="今週のPICK UP">
+	{if $exist_pickup_bn}<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/{$lang}/bn.gif" alt="バックナンバー"></a>{/if}
 	</p>
 	<div class="pickup_contents">
 	<table cellspacing="0" summary="PICK UPのタイトルと情報">
@@ -50,8 +50,8 @@
 	
 	<div class="topics">   	<!-- Topicコンテンツ -->
 	<p class="topics_title">
-	<img src="images/t_topic_title.jpg" alt="最新TOPICS">
-	<a href="index.php?lang={$lang}&mode=g&page_type=topics_list"><img src="images/t_topic_list.jpg" alt="TOPICS一覧"></a>
+	<img src="images/{$lang}/t_topic_title.jpg" alt="最新TOPICS">
+	<a href="index.php?lang={$lang}&mode=g&page_type=topics_list"><img src="images/{$lang}/t_topic_list.jpg" alt="TOPICS一覧"></a>
 	</p>
 	<table class="topics_contents" border="0" summary="最新TOPICS">
 		{* Topic 1件始まり *}
@@ -59,7 +59,7 @@
 		<tr>
 			<td width="80" class="td_date">-{$topic.stime|date_format:"%Y/%m/%d"}</td>
 			<td class="td_topics">{$topic.contents|strip_tags:false|strip|escape}
-			{if $topic.diff_day < 7}<img class="new_icon" src="./images/new.gif" alt="new!">{/if}
+			{if $topic.diff_day < 7}<img class="new_icon" src="./images/common/new.gif" alt="new!">{/if}
 			 </td>
 		</tr>
 		{/foreach}
@@ -71,9 +71,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="304" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
@@ -82,13 +82,13 @@
 <div class="right_contents">   <!-- 右側コンテンツ「ごあいさつ」開始 -->
 <table width="150" border="0" cellpadding="0" cellspacing="0" summary="ごあいさつ">
 <tr>
-	<td width="10" height="30" colspan="3"><img src="./images/t_aisatu01.jpg" alt="ごあいさつ"></td>
+	<td width="10" height="30" colspan="3"><img src="./images/{$lang}/t_aisatu01.jpg" alt="ごあいさつ"></td>
 </tr>
 <tr>
 	<td width="10" class="td_left_r"></td>
 	<td width="130" class="td_center_r">  <!-- コンテンツセル -->
 	<div class="right_contents_picture">
-	<a href="index.php?lang={$lang}&mode=g&page_type=welcome"><img src="./images/pic_sugi.jpg" alt="OCW委員長"></a>
+	<a href="index.php?lang={$lang}&mode=g&page_type=welcome"><img src="./images/common/pic_sugi.jpg" alt="OCW委員長"></a>
 	</div>
 
 	<p class="right_contents_greets">
@@ -109,16 +109,16 @@
 	<td width="10" class="td_right_r"></td>
 </tr>
 <tr>
-	<td width="150" height="9" colspan="3"><img src="./images/sw_gray02.jpg" alt=""></td>
+	<td width="150" height="9" colspan="3"><img src="./images/common/sw_gray02.jpg" alt=""></td>
 
 </tr>
 <tr>
 	<td width="150" colspan="3"><!-- いろいろリンク -->
 
 	<ul class="right_contents_buttons">
-	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus"><img src="./images/b_video.jpg" alt="1分間授業紹介"></a></li>
-	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=top"><img src="./images/b_feedback.jpg" alt="Feedback"></a><li>
-	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=relay"><img src="./images/b_relay.gif" alt="名古屋大学リレーセミナー"></a></li>
+	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus"><img src="./images/{$lang}/b_video.jpg" alt="1分間授業紹介"></a></li>
+	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=top"><img src="./images/{$lang}/b_feedback.jpg" alt="Feedback"></a><li>
+	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=relay"><img src="./images/{$lang}/b_relay.gif" alt="名古屋大学リレーセミナー"></a></li>
 	</ul>
 
 	</td>

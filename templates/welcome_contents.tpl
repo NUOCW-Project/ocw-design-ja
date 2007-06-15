@@ -12,7 +12,7 @@
 
 	<h1 class="welcome">ようこそ名大の授業へ</h1>
 
-	<div class="welcome_img"><img src="./images/pic_sugi_welcome.jpg" alt="OCW委員長 杉山寛行" width="250" height="250"></div>
+	<div class="welcome_img"><img src="./images/common/pic_sugi_welcome.jpg" alt="OCW委員長 杉山寛行" width="250" height="250"></div>
 	<p class="welcome_chairperson">
 	名古屋大学<br>
 	オープンコースウェア委員会<br><br>
