@@ -5,14 +5,14 @@
 <tr>
   <td colspan="3">
 <!-- バックナンバーへのリンク -->
-<div class="pickup_to_bn"><a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/bn.gif" width="70" height="25"></a></div>
+<div class="pickup_to_bn"><a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/{$lang}/bn.gif" width="70" height="25"></a></div>
   </td>
 </tr>
 {/if}
 <tr>
-  <td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+  <td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
   <td width="465" height="15" class="td_top"></td>
-  <td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+  <td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
   <td width="10" class="td_left"></td>
@@ -59,9 +59,9 @@
   <td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
