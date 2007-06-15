@@ -1,9 +1,9 @@
 <div class="center_contents"> 
 <table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="465" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
@@ -20,7 +20,7 @@
 		<li>表示されたページの「本文へのリンク」をクリックすると該当するページが表示されます。</li>
 	</ol>
 	<p>検索する↓<br>
-	<a href="http://akf.nul.nagoya-u.ac.jp/"><img src="./images/akf.jpg" alt="AKF検索"></a>
+	<a href="http://akf.nul.nagoya-u.ac.jp/"><img src="./images/common/akf.jpg" alt="AKF検索"></a>
 	</p>
 	
 	<p><span class="b">詳細1:</span><br>
@@ -54,9 +54,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
