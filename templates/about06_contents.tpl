@@ -25,9 +25,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
@@ -45,9 +45,9 @@
 <div class="about_contents"> 
 <table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
@@ -56,15 +56,15 @@
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
-			<td class="center"><p><img src="./images/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
+			<td class="center"><p><img src="./images/{$lang}/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
 			<td><p><a href="http://www.nagoya-u.ac.jp">名古屋大学</a></p></td>
 		</tr>
 		<tr>
-			<td class="center_gray"><p><img src="./images/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
+			<td class="center_gray"><p><img src="./images/common/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
 			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		<tr>
-			<td class="center"><p><img src="./images/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
+			<td class="center"><p><img src="./images/common/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
 			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		</tbody>
@@ -76,9 +76,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
@@ -90,15 +90,15 @@
 
 <!-- スタッフ紹介開始 -->
 <div class="about_left" id="about03">
-<img src="./images/t_03staff.gif" alt="スタッフ紹介">
+<img src="./images/{$lang}/t_03staff.gif" alt="スタッフ紹介">
 </div>
 <div class="about_center">
 <div class="about_contents"> 
 <table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
@@ -114,24 +114,24 @@
 			<td class="separate" colspan="2"></td>
 		</tr>
 		<tr>
-			<td class="center"><p><img src="./images/i_01cims.gif" alt="情報メディア教育センター"></p></td>
+			<td class="center"><p><img src="./images/common/i_01cims.gif" alt="情報メディア教育センター"></p></td>
 			<td><p><a href="http://www.media.nagoya-u.ac.jp/">情報メディア教育センター</a>は、学習教材の開発支援とその利用環境を提供することで、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
-			<td class="center_gray"><p><img src="./images/i_02cshe.gif" alt="高等教育研究センター"></p></td>
+			<td class="center_gray"><p><img src="./images/common/i_02cshe.gif" alt="高等教育研究センター"></p></td>
 			<td class="left_gray"><p><a href="http://www.cshe.nagoya-u.ac.jp/">高等教育研究センター</a>は、高等教育に関する研究・開発に基づき、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
-			<td class="center"><p><img src="./images/i_03itc.gif" alt="情報連携基盤センター"></p></td>
+			<td class="center"><p><img src="./images/common/i_03itc.gif" alt="情報連携基盤センター"></p></td>
 			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">情報連携基盤センター</a>は、先進的な情報基盤を提供することで、名古屋大学の教育・研究の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
-			<td class="center_gray"><p><img src="./images/i_04nul.gif" alt="附属図書館"></p></td>
+			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="附属図書館"></p></td>
 			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">附属図書館</a>は、従来型図書館機能と電子図書館機能を融合し、その知的資産を提供することで、名古屋大学の教育・研究の質向上に取り組む組織です。</p></td>
 		</tr>
 
 		<tr>
-			<td colspan="2"><p><img src="./images/dot_green.gif"></p></td>
+			<td colspan="2"><p><img src="./images/common/dot_green.gif"></p></td>
 		</tr>
 
 		<tr>
@@ -142,7 +142,7 @@
 		</tr>
 
 		<tr>
-			<td><p><img src="./images/i_staff01.jpg" alt="名古屋大学OCW委員会"></p></td>
+			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="名古屋大学OCW委員会"></p></td>
 			<td>
 			<p>
 			[委員長]副総長 杉山寛行<br>
@@ -163,7 +163,7 @@
 			</p>
 		</tr>
 		<tr>
-			<td class="left_gray"><p><img src="./images/i_staff02.jpg" alt="名古屋大学OCW WG"></p></td>
+			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="名古屋大学OCW WG"></p></td>
 			<td class="left_gray">
 			<p>
 			情報メディア教育センター 助教授 山里敬也<br>
@@ -182,7 +182,7 @@
 			</p>
 		</tr>
 		<tr>
-			<td><p><img src="./images/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
+			<td><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
 			<td>
 			<p>
 			足立真訓<br>
@@ -196,7 +196,7 @@
 			</p>
 		</tr>
 		<tr>
-			<td class="left_gray"><p><img src="./images/i_staff04.jpg" alt="写真撮影"></p></td>
+			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="写真撮影"></p></td>
 			<td class="left_gray">
 			<p>
 			大学院工学研究科 助教授 長谷川浩
@@ -219,9 +219,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
