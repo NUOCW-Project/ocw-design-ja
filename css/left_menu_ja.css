@@ -1,0 +1,728 @@
+@charset "EUC-JP";
+
+/*--------------------左サイドメニュー(学部一覧)--------------------*/
+/* リスト全体 */
+ul.left_menu
+   {
+    width:156px;             /* リスト全体の幅 */
+    /*height:500px;              リスト全体の高さ */
+    list-style:none;         /* リストマークを無しにする */
+    margin: 0;
+    padding: 0;
+   }
+
+/* リンク部分 */
+
+.preload{
+	display:none;
+}
+
+.m00list{
+	height:47px;
+	margin:0;
+}
+   
+.m00list a{
+	background-image:url(../images/ja/mj_00list.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+	width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+	height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+	background-position:0px 0px;
+	background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+	text-indent:0;              /* リストの文字を枠外のずらす */
+	text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m00list a:hover{
+	background-image:url(../images/ja/mj_00list_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_kyoiku-in{
+    height:30px;             /* 項目の高さ */
+}
+
+.m_kyoiku-in a{
+	background-image:url(../images/ja/mj_kyoiku-in.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_kyoiku-in a:hover{
+	background-image:url(../images/ja/mj_kyoiku-in_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_lit{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_lit a{
+	background-image:url(../images/ja/mj_lit.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+.m_lit a:hover{
+	background-image:url(../images/ja/mj_lit_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_educa{
+    height:30px;             /* 項目の高さ */
+}
+
+.m_educa a{
+	background-image:url(../images/ja/mj_educa.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_educa a:hover{
+	background-image:url(../images/ja/mj_educa_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_nomolog{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_nomolog a{
+	background-image:url(../images/ja/mj_nomolog.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_nomolog a:hover{
+	background-image:url(../images/ja/mj_nomolog_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_soec{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_soec a{
+	background-image:url(../images/ja/mj_soec.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_soec a:hover{
+	background-image:url(../images/ja/mj_soec_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_sis{
+    height:30px;             /* 項目の高さ */
+}   
+
+.m_sis a{
+	background-image:url(../images/ja/mj_sis.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_sis a:hover{
+	background-image:url(../images/ja/mj_sis_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_sci{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_sci a{
+	background-image:url(../images/ja/mj_sci.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_sci a:hover{
+	background-image:url(../images/ja/mj_sci_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_med{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_med a{
+	background-image:url(../images/ja/mj_med.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_med a:hover{
+	background-image:url(../images/ja/mj_med_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_eng{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_eng a{
+	background-image:url(../images/ja/mj_eng.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_eng a:hover{
+	background-image:url(../images/ja/mj_eng_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_agr{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_agr a{
+	background-image:url(../images/ja/mj_agr.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_agr a:hover{
+	background-image:url(../images/ja/mj_agr_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_gsid{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_gsid a{
+	background-image:url(../images/ja/mj_gsid.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_gsid a:hover{
+	background-image:url(../images/ja/mj_gsid_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+   
+.m_is{
+    height:30px;             /* 項目の高さ */
+}
+
+.m_is a{
+	background-image:url(../images/ja/mj_is.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_is a:hover{
+	background-image:url(../images/ja/mj_is_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_math{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_math a{
+	background-image:url(../images/ja/mj_math.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_math a:hover{
+	background-image:url(../images/ja/mj_math_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_lang{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_lang a{
+	background-image:url(../images/ja/mj_lang.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_lang a:hover{
+	background-image:url(../images/ja/mj_lang_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_env{
+    height:30px;             /* 項目の高さ */
+}
+
+.m_env a{
+	background-image:url(../images/ja/mj_env.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_env a:hover{
+	background-image:url(../images/ja/mj_env_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.m_ecis{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_ecis a{
+	background-image:url(../images/ja/mj_ecis.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_ecis a:hover{
+	background-image:url(../images/ja/mj_ecis_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+
+
+/*--------------------左サイドメニュー(コースページ一覧, 日本語)--------------------*/
+.cj_index{
+    height:30px;             /* 項目の高さ */
+}
+
+.cj_index a{
+	background-image:url(../images/ja/cj_index.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.cj_index a:hover{
+	background-image:url(../images/ja/cj_index_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+   
+
+.cj_syllabus{
+    height:30px;             /* 項目の高さ */
+}
+
+.cj_syllabus a{
+	background-image:url(../images/ja/cj_syllabus.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+.cj_syllabus a:hover{
+	background-image:url(../images/ja/cj_syllabus_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.cj_calendar{
+    height:30px;             /* 項目の高さ */
+}
+
+.cj_calendar a{
+	background-image:url(../images/ja/cj_calendar.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.cj_calendar a:hover{
+	background-image:url(../images/ja/cj_calendar_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.cj_lecturenotes{
+    height:30px;             /* 項目の高さ */
+}   
+
+.cj_lecturenotes a{
+	background-image:url(../images/ja/cj_lecturenotes.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.cj_lecturenotes a:hover{
+	background-image:url(../images/ja/cj_lecturenotes_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+   
+.cj_assignments{
+    height:30px;             /* 項目の高さ */
+}
+
+.cj_assignments a{
+	background-image:url(../images/ja/cj_assignments.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.cj_assignments a:hover{
+	background-image:url(../images/ja/cj_assignments_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.cj_evaluation{
+    height:30px;             /* 項目の高さ */
+}
+   
+.cj_evaluation a{
+	background-image:url(../images/ja/cj_evaluation.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.cj_evaluation a:hover{
+	background-image:url(../images/ja/cj_evaluation_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+   
+.cj_achievement{
+    height:30px;             /* 項目の高さ */
+}
+
+.cj_achievement a{
+	background-image:url(../images/ja/cj_achievement.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.cj_achievement a:hover{
+	background-image:url(../images/ja/cj_achievement_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.cj_relatedresources{
+    height:30px;             /* 項目の高さ */
+}
+
+   
+.cj_relatedresources a{
+	background-image:url(../images/ja/cj_relatedresources.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.cj_relatedresources a:hover{
+	background-image:url(../images/ja/cj_relatedresources_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.cj_teachingtips{
+    height:30px;             /* 項目の高さ */
+}
+   
+.cj_teachingtips a{
+	background-image:url(../images/ja/cj_teachingtips.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.cj_teachingtips a:hover{
+	background-image:url(../images/ja/cj_teachingtips_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+
+
+
+/*--------------------左サイドメニュー(コースページ一覧, 英語)--------------------*/
+.ce_index{
+    height:30px;             /* 項目の高さ */
+}
+
+.ce_index a{
+	background-image:url(../images/ja/cj_index.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.ce_index a:hover {
+	background-image:url(../images/ja/cj_index_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+   
+
+.ce_syllabus{
+    height:30px;             /* 項目の高さ */
+}
+
+.ce_syllabus a{
+	background-image:url(../images/ja/cj_syllabus.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+.ce_syllabus a:hover {
+	background-image:url(../images/ja/cj_syllabus_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.ce_calendar{
+    height:30px;             /* 項目の高さ */
+}
+
+.ce_calendar a{
+	background-image:url(../images/ja/cj_calendar.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.ce_calendar a:hover {
+	background-image:url(../images/ja/cj_calendar_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.ce_lecturenotes{
+    height:30px;             /* 項目の高さ */
+}   
+
+.ce_lecturenotes a{
+	background-image:url(../images/ja/cj_lecturenotes.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.ce_lecturenotes a:hover {
+	background-image:url(../images/ja/cj_lecturenotes_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+   
+.ce_assignments{
+    height:30px;             /* 項目の高さ */
+}
+
+.ce_assignments a{
+	background-image:url(../images/ja/cj_assignments.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.ce_assignments a:hover {
+	background-image:url(../images/ja/cj_assignments_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.ce_evaluation{
+    height:30px;             /* 項目の高さ */
+}
+   
+.ce_evaluation a{
+	background-image:url(../images/ja/cj_evaluation.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.ce_evaluation a:hover {
+	background-image:url(../images/ja/cj_evaluation_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+   
+.ce_achievement{
+    height:30px;             /* 項目の高さ */
+}
+
+.ce_achievement a{
+	background-image:url(../images/ja/cj_achievement.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.ce_achievement a:hover {
+	background-image:url(../images/ja/cj_achievement_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.ce_relatedresources{
+    height:30px;             /* 項目の高さ */
+}
+
+   
+.ce_relatedresources a{
+	background-image:url(../images/ja/cj_relatedresources.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.ce_relatedresources a:hover{
+	background-image:url(../images/ja/cj_relatedresources_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
+.ce_teachingtips{
+    height:30px;             /* 項目の高さ */
+}
+   
+.ce_teachingtips a{
+	background-image:url(../images/ja/cj_teachingtips.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.ce_teachingtips a:hover{
+	background-image:url(../images/ja/cj_teachingtips_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
+
