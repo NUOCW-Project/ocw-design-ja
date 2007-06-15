@@ -1,14 +1,14 @@
 <!-- このSiteの特徴開始 -->
 <div class="about_left" id="about01">
-<img src="./images/t_01staff.gif" alt="このSiteについて">
+<img src="./images/{$lang}/t_01site.gif" alt="このSiteについて">
 </div>
 <div class="about_center">
 <div class="about_contents"> 
 <table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
