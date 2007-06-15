@@ -1,9 +1,9 @@
 <div class="center_contents"> 
 <table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="465" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
@@ -11,7 +11,7 @@
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 	<p>「名大の授業」についてのお問合せは以下のフォームからお願いします。</p>
 	<p>ご意見・ご質問をお待ちしております。</p>
-	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
+	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	<p>以下のフォームにご記入のうえ、「入力内容の確認」ボタンを押して下さい。</p>
 
 	<form  class="feedback" action="inquiry.php" method="post">
@@ -124,11 +124,11 @@
 	</form>
 
 	</ol>
-	<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
+	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	<p>〒464-8603 名古屋市千種区不老町</p>
 	<p>名古屋大学 情報メディア教育センター内 OCW事務室</p>
 	<p>電話：052-789-3904</p>
-	<p>電子メール：<img src="./images/mail_inq.gif" height="15" width="210"></p>
+	<p>電子メール：<img src="./images/common/mail_inq.gif" height="15" width="210"></p>
 	<p>※スパム対策のため、メールアドレスは画像ファイルになっております。</p>
 
 
@@ -140,9 +140,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
