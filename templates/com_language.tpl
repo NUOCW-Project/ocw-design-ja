@@ -2,11 +2,8 @@
 {literal}{* トップページではロゴ画像なし *}{/literal}
 <div class="logo">
 {if not $on_top}
-{if $lang=="ja"}
-<a href="index.php?mode=g&lang=ja&page_type=top"><img src="./images/{$lang}/toplogo.jpg" width="275" height="54" alt="名大の授業 HOME"></a>
-{elseif $lang=="en"}
-<a href="index.php?mode=g&lang=en&page_type=top"><img src="./images_e/{$lang}/toplogo.gif" width="260" height="55" alt="NU OCW HOME"></a>
-{/if}
+<a href="index.php?mode=g&lang={$lang}&page_type=top"><img src="./images/{$lang}/toplogo.jpg" width="275" height="54" alt="{if $lang=="ja"}名大の授業{else}NU OCW{/if} HOME"></a>
+<!-- <img src="./images_e/{$lang}/toplogo.gif" width="260" height="55" alt="NU OCW HOME"> -->
 {/if}
 </div>
 
