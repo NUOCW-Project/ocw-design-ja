@@ -11,7 +11,7 @@ p.pickup_title{
 td.pickup_contents_title{
 	text-indent: 27px;
 	vertical-align: middle;
-	background: url(../images/t_pickup_contents_title.jpg) no-repeat;
+	background: url(../images/common/t_pickup_contents_title.jpg) no-repeat;
 	color: #693; /* 講義の紹介でないときは、リンク貼らないけど<a>と同じ色 */
 	font-weight: bold;
 	font-size: 13pt;
@@ -226,7 +226,7 @@ table.topics_contents{
 
 /* 右側コンテンツの枠　*/
 .td_left_r{
-	background-image: url(../images/sh_gray02.jpg);
+	background-image: url(../images/common/sh_gray02.jpg);
 	background-repeat: repeat-y;	
 }
 
@@ -235,7 +235,7 @@ table.topics_contents{
 }
 
 .td_right_r{
-	background-image: url(../images/sh_gray01.jpg);
+	background-image: url(../images/common/sh_gray01.jpg);
 	background-repeat: repeat-y;
 }
 
@@ -496,7 +496,7 @@ div.courselist_center{
 }
 
 ul.courselist{
-	list-style-image:url(../images/arrow.gif); /* リストマークを矢印にする */
+	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
 	margin: 0;
 	margin-left: 15px;
 	padding: 0 5px;
