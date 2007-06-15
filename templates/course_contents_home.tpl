@@ -1,9 +1,9 @@
 <div class="center_contents"> 
 <table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="465" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
@@ -21,9 +21,9 @@
 	    <div class="course_home_info">
         <table class="center_contents" width="140" border="0" cellpadding="0" cellspacing="0" summary="">
         <tr>
-                <td width="10" height="15"><img src="./images/gray01_s.gif" alt=""></td>
+                <td width="10" height="15"><img src="./images/common/gray01_s.gif" alt=""></td>
                 <td width="120" height="15" class="td_top_gray"></td>
-                <td width="10" height="15"><img src="./images/gray03_s.gif" alt=""></td>
+                <td width="10" height="15"><img src="./images/common/gray03_s.gif" alt=""></td>
         </tr>
         <tr>
                 <td width="10" class="td_left_gray"></td>
@@ -56,13 +56,13 @@
 
 	                {if $course_info.vsyllabus}
                 	<p class="course_home_b">
-					  <a href="{$course_info.vsyllabus}" title="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë"><img src="./images/b_video_link.jpg" alt="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë" width="120" height="68"></a>
+					  <a href="{$course_info.vsyllabus}" title="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë"><img src="./images/{$lang}/b_video_link.jpg" alt="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë" width="120" height="68"></a>
 					</p>
 					{/if}
 
 					<ul class="course_home_recommended">
-					{if $course_info.wg_recommended eq "t"}<li><img src="./images/nominate_ocw.jpg" alt="OCW WG ¿äÁ¦" width="120" height="29"></li>{/if}
-					{if $course_info.dept_recommended eq "t"}<li><img src="./images/nominate_dep.jpg" alt="Éô¶ÉÄ¹¿äÁ¦" width="120" height="29"></li>{/if}
+					{if $course_info.wg_recommended eq "t"}<li><img src="./images/{$lang}/nominate_ocw.jpg" alt="OCW WG ¿äÁ¦" width="120" height="29"></li>{/if}
+					{if $course_info.dept_recommended eq "t"}<li><img src="./images/{$lang}/nominate_dep.jpg" alt="Éô¶ÉÄ¹¿äÁ¦" width="120" height="29"></li>{/if}
 					</ul>
 					<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
                 	</div>
@@ -70,9 +70,9 @@
                 <td width="10" class="td_right_gray"></td>
         </tr>
         <tr>
-                <td width="10" height="15"><img src="./images/gray06_s.gif" alt=""></td>
+                <td width="10" height="15"><img src="./images/common/gray06_s.gif" alt=""></td>
                 <td width="120" height="15" class="td_under_gray"></td>
-                <td width="10" height="15"><img src="./images/gray08_s.gif" alt=""></td>
+                <td width="10" height="15"><img src="./images/common/gray08_s.gif" alt=""></td>
         </tr>
 
         </table>
@@ -86,9 +86,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
