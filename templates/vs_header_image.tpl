@@ -2,7 +2,7 @@
 <div class="header_image">
 <table class ="header" width="650" border="0" cellPadding="0" cellSpacing="0" summary="¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü">
 <tr>
-	<td><img src="./images/t_vsyllabus.jpg" alt="1Ê¬´Ö¼ø¶È¾Ò²ð"></td>
+	<td><img src="./images/{$lang}/t_vsyllabus.jpg" alt="1Ê¬´Ö¼ø¶È¾Ò²ð"></td>
 </tr>
 </table>
 </div>
