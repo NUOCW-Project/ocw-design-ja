@@ -15,8 +15,6 @@
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 
-    <p class="notice">未完成です。</p>
-
 	<h1 class="about">「名大の授業」</h1>
 	<p><span class="b">-インターネット上への教材の無償公開-</span></p>
 	<p>	名古屋大学(総長 平野眞一)は、授業の一部を選び、そこで実際に使われている教材を電子化しインターネット上で無償公開する事業を行っています。</p>
