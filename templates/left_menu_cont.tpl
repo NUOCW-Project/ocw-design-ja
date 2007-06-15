@@ -2,8 +2,8 @@
 <div class="left_menu">
 <ul class="left_menu">
 <!-- 授業一覧へのリンク -->
-<li class="m00list"><a href="index.php?lang={$lang}&mode=l&page_type=all"><img src="./images/dummy.gif" alt="授業一覧"></a></li>
-<li class="preload"><img src="./images/m00list_on.jpg" alt=""></li>
+<li class="m00list"><a href="index.php?lang={$lang}&mode=l&page_type=all"><img src="./images/common/dummy.gif" alt="授業一覧"></a></li>
+<li class="preload"><img src="./images/{$lang}/m00list_on.jpg" alt=""></li>
 
 <!-- 各コンテンツページへのリンクリスト -->
 {foreach from=$page_list item="page"}
@@ -21,7 +21,7 @@
     {else}
       {* 確認用表示(GET変数display_mode=tempになっている)の場合は、
          引数にdisplay_mode=tempを付ける *}
-      <a href="index.php?mode=c&id={$course_id}&page_type={$page.filename}&lang={$lang}"><img src="./images/dummy.gif" alt="{$page.page_name}"></a>{/if}
+      <a href="index.php?mode=c&id={$course_id}&page_type={$page.filename}&lang={$lang}"><img src="./images/common/dummy.gif" alt="{$page.page_name}"></a>{/if}
   </li>
   <li class="preload"><img src="./images/{$basename}_on.jpg" alt=""></li>
 {/strip}
