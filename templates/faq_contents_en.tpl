@@ -1,9 +1,9 @@
 <div class="center_contents"> 
 <table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/flame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/commonflame01.gif" alt=""></td>
 	<td width="465" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/flame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/commonflame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
@@ -69,8 +69,8 @@
 	<p>To see the course materials, you need Adobe Acrobat Reader. To watch the videos, you need Microsoft's Windows Media Player or RealNetworks' Real Player.</p>
 	<p>You can download Acrobat Reader, Windows Media Player, Real Player from here:</p>
 	<p>
-	<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank"><img src="./images/get_adobe_reader.gif" alt="Get Adobe Reader" border="0" height="31" width="88"></a>
-	<a href="http://www.real.com/realone/indx.html" target="_blank"><img src="./images/realone.gif" alt="Get Real Player" border="0" height="31" width="88"></a>
+	<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank"><img src="./images/common/get_adobe_reader.gif" alt="Get Adobe Reader" border="0" height="31" width="88"></a>
+	<a href="http://www.real.com/realone/indx.html" target="_blank"><img src="./images/common/realone.gif" alt="Get Real Player" border="0" height="31" width="88"></a>
 	</p>
 	
 	</div>
@@ -81,9 +81,9 @@
 	<td width="10" class="td_right"></td>
 </tr>
 <tr>
-	<td width="10" height="15"><img src="./images/flame06.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/flame08.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
