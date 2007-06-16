@@ -1,4 +1,4 @@
-images/en/ の旧デザインのファイル
+images/en/ の旧デザインのファイル --- 新デザイン移行後, 整理すること.
 
 allow.gif
 allow02.gif
