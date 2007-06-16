@@ -83,10 +83,6 @@
 			<td><p><a href="http://www.nagoya-u.ac.jp/">Nagoya University</a></p></td>
 		</tr>
 		<tr>
-			<td class="center_gray"><p><img src="./images/logo_mit.gif"></p></td>
-			<td class="left_gray"><p><a href="http://ocw.mit.edu/">MIT OpenCourseWare</a></p></td>
-		</tr>
-		<tr>
 			<td><p><img src="./images/common/logo_jocw.gif"></p></td>
 			<td><p><a href="http://jocw.jp/">Japan Opencourseware Consortium</a></p></td>
 		</tr>
