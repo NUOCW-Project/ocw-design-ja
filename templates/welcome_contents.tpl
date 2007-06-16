@@ -19,7 +19,7 @@
 	°Ñ°÷Ä¹ ¿ù»³ ´²¹Ô
 	</p>
 	<div class="welcome_vsyllabus">
-	<a href="http://vdbserv.media.nagoya-u.ac.jp/ramgen/vod//OWE/00024521.rm?autostart=true" title="1Ê¬´Ö OCW ¾Ò²ð"><img src="./images/{$lnag}/b_video_ocw.jpg" alt="1Ê¬´ÖOCW¾Ò²ð" width="133" height="75"></a>
+	<a href="http://vdbserv.media.nagoya-u.ac.jp/ramgen/vod//OWE/00024521.rm?autostart=true" title="1Ê¬´Ö OCW ¾Ò²ð"><img src="./images/{$lang}/b_video_ocw.jpg" alt="1Ê¬´ÖOCW¾Ò²ð" width="133" height="75"></a>
 	</div>
 
 	<div class="welcome_cotents">
