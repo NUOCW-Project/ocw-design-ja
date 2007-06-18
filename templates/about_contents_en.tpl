@@ -57,37 +57,19 @@
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
-			<td colspan="2">The Nagoya University OpenCourseWare (NU OCW) project is being implemented with the cooperation of the Center for Information Media Studies, Center for the Studies of Higher Education, Nagoya University Library, and the Information Technology Center.</td>
-		</tr>
-		<tr>
-			<td class="separate" colspan="2"></td>
-		</tr>
-		<tr>
-			<td><p><img src="./images/common/i_01cims.gif" alt="Center for Information Media Studies"></p></td>
-			<td><p><a href="http://www.media.nagoya-u.ac.jp/">The Center for Information Media Studies</a> works to enhance the quality of teaching and learning at Nagoya University by assisting with development of learning materials and creating the optimum environment for their use.</p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_02cshe.gif" alt="Center for the Studies of Higher Education"></p></td>
-			<td class="left_gray"><p><a href="http://www.iar.nagoya-u.ac.jp/">The Center for the Studies of Higher Education</a> works to enhance the quality of teaching and learning at Nagoya University through research and development in the field of higher education.</p></td>
-		</tr>
-		<tr>
-			<td><p><img src="./images/common/i_03itc.gif" alt="Information Technology Center"></p></td>
-			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">The Information Technology Center</a> is the service and research center for campus networking, information systems and supercomputing, playing the role of a hub of campus information systems.</p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="Nagoya University Library"></p></td>
-			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">The Nagoya University Library</a>works to enhance the quality of education and research at Nagoya University by providing access to the wealth of intellectual property in its collections while integrating the functions of a traditional library with those of a digital one.</p></td>
-		</tr>
-		<tr>
-			<td><p><img src="./images/{$lang}/logo_nu.gif"></p></td>
+			<td class="center"><p><img src="./images/{$lang}/logo_nu.gif" alt="Nagoya University"></p></td>
 			<td><p><a href="http://www.nagoya-u.ac.jp/">Nagoya University</a></p></td>
 		</tr>
 		<tr>
-			<td><p><img src="./images/common/logo_jocw.gif"></p></td>
+			<td class="center_gray"><p><img src="./images/common/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
+			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">OpenCourseWare Consortium</a></p></td>
+		</tr>
+		<tr>
+			<td class="center"><p><img src="./images/common/logo_jocw.gif"></p></td>
 			<td><p><a href="http://jocw.jp/">Japan Opencourseware Consortium</a></p></td>
 		</tr>
-		</tbody>
-	</table>
+        </tbody>
+    </table>
 		
 	</div>	<!-- コンテンツセル終了 -->
 
@@ -126,6 +108,33 @@
 	
 	<table class="center_contents" width="435">
 		<tbody>
+		<tr>
+			<td colspan="2">The Nagoya University OpenCourseWare (NU OCW) project is being implemented with the cooperation of the Center for Information Media Studies, Center for the Studies of Higher Education, Nagoya University Library, and the Information Technology Center.</td>
+		</tr>
+		<tr>
+			<td class="separate" colspan="2"></td>
+		</tr>
+		<tr>
+			<td class="center"><p><img src="./images/common/i_01cims.gif" alt="Center for Information Media Studies"></p></td>
+			<td><p><a href="http://www.media.nagoya-u.ac.jp/">The Center for Information Media Studies</a> works to enhance the quality of teaching and learning at Nagoya University by assisting with development of learning materials and creating the optimum environment for their use.</p></td>
+		</tr>
+		<tr>
+			<td class="center_gray"><p><img src="./images/common/i_02cshe.gif" alt="Center for the Studies of Higher Education"></p></td>
+			<td class="left_gray"><p><a href="http://www.iar.nagoya-u.ac.jp/">The Center for the Studies of Higher Education</a> works to enhance the quality of teaching and learning at Nagoya University through research and development in the field of higher education.</p></td>
+		</tr>
+		<tr>
+			<td><p><img src="./images/common/i_03itc.gif" alt="Information Technology Center"></p></td>
+			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">The Information Technology Center</a> is the service and research center for campus networking, information systems and supercomputing, playing the role of a hub of campus information systems.</p></td>
+		</tr>
+		<tr>
+			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="Nagoya University Library"></p></td>
+			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">The Nagoya University Library</a>works to enhance the quality of education and research at Nagoya University by providing access to the wealth of intellectual property in its collections while integrating the functions of a traditional library with those of a digital one.</p></td>
+		</tr>
+
+		<tr>
+			<td colspan="2"><p><img src="./images/common/dot_green.gif"></p></td>
+		</tr>
+		
 		<tr>
 			<td colspan="2"><h2 class="about_committee">-Nagoya University OpenCourseWare Committee-</h2></td>
 		</tr>
