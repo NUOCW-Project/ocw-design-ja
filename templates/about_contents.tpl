@@ -197,7 +197,7 @@
 			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="¼Ì¿¿»£±Æ"></p></td>
 			<td class="left_gray">
 			<p>
-			Âç³Ø±¡¹©³Ø¸¦µæ²Ê ½õ¶µ¼ø Ä¹Ã«Àî¹À
+			Âç³Ø±¡¹©³Ø¸¦µæ²Ê ½Ú¶µ¼ø Ä¹Ã«Àî¹À
 			</p>
 
 			<p>
