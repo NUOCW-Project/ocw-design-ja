@@ -123,7 +123,7 @@
 			<td class="left_gray"><p><a href="http://www.iar.nagoya-u.ac.jp/">The Center for the Studies of Higher Education</a> works to enhance the quality of teaching and learning at Nagoya University through research and development in the field of higher education.</p></td>
 		</tr>
 		<tr>
-			<td><p><img src="./images/common/i_03itc.gif" alt="Information Technology Center"></p></td>
+			<td class="center"><p><img src="./images/common/i_03itc.gif" alt="Information Technology Center"></p></td>
 			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">The Information Technology Center</a> is the service and research center for campus networking, information systems and supercomputing, playing the role of a hub of campus information systems.</p></td>
 		</tr>
 		<tr>
