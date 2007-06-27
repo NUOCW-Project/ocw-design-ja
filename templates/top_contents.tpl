@@ -117,7 +117,7 @@
 
 	<ul class="right_contents_buttons">
 	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus"><img src="./images/{$lang}/b_video.jpg" alt="1分間授業紹介"></a></li>
-	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=top"><img src="./images/{$lang}/b_feedback.jpg" alt="Feedback"></a><li>
+	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=top"><img src="./images/{$lang}/b_feedback.jpg" alt="Feedback"></a></li>
 	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=relay"><img src="./images/{$lang}/b_relay.gif" alt="名古屋大学リレーセミナー"></a></li>
 	</ul>
 
