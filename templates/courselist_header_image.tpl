@@ -10,6 +10,7 @@
 	<!-- ÅÉ¤ê¤Ä¤Ö¤·²èÁü-->
 	<td colspan="3"><img src="./images/common/clist_clist01.jpg" alt=""></td>
 </tr>
+
 <tr>
 	<td><a href="index.php?lang={$lang}&mode=l&page_type=kyoiku-in"><img src="./images/{$lang}/clist_01kyoiku-in.jpg" alt="¶µÍÜ¶µ°é±¡"></a></td>
 	<td><a href="index.php?lang={$lang}&mode=l&page_type=gsid"><img src="./images/{$lang}/clist_11gsid.jpg" alt="¹ñºÝ³«È¯¸¦µæ²Ê"></a></td>
@@ -60,6 +61,10 @@
 	<td><img src="./images/{$lang}/clist_20.jpg" alt=""></a></td>
 	<td><img src="./images/{$lang}/clist_30.jpg" alt=""></a></td>
 </tr>
+
+
+
+
 <tr>
 	<td colspan="4"><img src="./images/common/s_clist04.jpg" alt=""></td>
 </tr>
