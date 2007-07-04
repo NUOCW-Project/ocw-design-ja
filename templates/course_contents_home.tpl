@@ -28,8 +28,8 @@
         <tr>
                 <td width="10" class="td_left_gray"></td>
                 <td class="td_contents_gray">
-					<!-- コンテンツセル開始 -->
-                	<div class="course_home_info_contents">   
+                    <!-- コンテンツセル開始 -->
+                    <div class="course_home_info_contents">   
                 	<p class="course_home_b">{if $lang=='ja'}開講部局{else}Department:{/if}</p>
                 	<p class="course_home">{$course_info.department_name}</p>
 
@@ -41,11 +41,26 @@
                 	{/foreach}
                 	</p>
 
-                	<p class="course_home_b">{if $lang=='ja'}授業時間{else}Course Meeting Times{/if}</p>
+                {if $lang=='ja'} 
+                	<p class="course_home_b">授業時間</p>
                 	<p class="course_home">{$course_info.year}<br>{$course_info.meeting_time|nl2br}</p>
 
-                	<p class="course_home_b">{if $lang=='ja'}対象者{else}Class is for{/if}</p>
+                	<p class="course_home_b">対象者</p>
                 	<p class="course_home">{$course_info.class_is_for_ja|nl2br}</p>
+                {else}
+                	<p class="course_home_b">Course Meeting Times</p>
+                	<p class="course_home"><strong>Term:</strong>{$course_info.year}<br>
+                                           <strong>Day:</strong>{$course_info.meeting_time|nl2br}
+                                           <strong>Lectures:</strong><br>
+                                           {$course_info.lectures|nl2br}
+                    </p>
+
+                	<p class="course_home_b">Class is for:</p>
+                	<p class="course_home">{$course_info.class_is_for_en|nl2br}</p>
+
+                	<p class="course_home_b">Credits:</p>
+                	<p class="course_home">{$course_info.credits|nl2br}</p>
+                {/if}
 
 					<p class="course_home_b">
 					{foreach from=$course_info.instructors item=instructor name=instructor}
