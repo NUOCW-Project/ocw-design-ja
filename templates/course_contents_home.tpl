@@ -49,8 +49,8 @@
                 	<p class="course_home">{$course_info.class_is_for_ja|nl2br}</p>
                 {else}
                 	<p class="course_home_b">Course Meeting Times</p>
-                	<p class="course_home"><strong>Term:</strong>{$course_info.year}<br>
-                                           <strong>Day:</strong>{$course_info.meeting_time|nl2br}
+                	<p class="course_home"><strong>Term: </strong>{$course_info.year}<br>
+                                           <strong>Day: </strong>{$course_info.meeting_time|nl2br}
                                            <strong>Lectures:</strong><br>
                                            {$course_info.lectures|nl2br}
                     </p>

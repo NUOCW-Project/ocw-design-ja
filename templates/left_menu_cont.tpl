@@ -8,11 +8,8 @@
 <!-- 各コンテンツページへのリンクリスト -->
 {foreach from=$page_list item="page"}
 {strip}
-  {* "cj_home"などの値を持つ変数を作る *}
-  {if $lang == "ja"}
-    {assign var="basename" value="cj_`$page.filename`"}
-  {else}
-    {assign var="basename" value="ce_`$page.filename`"}{/if}
+  {* "mc_home"などの値を持つ変数を作る *}
+  {assign var="basename" value="mc_`$page.filename`"}
  
   <li class="{$basename}">
     {* コンテンツ表示時にはボタン画像dummy.gifからチェックマーク付き(hoge_h.gif)に差し替え *}
