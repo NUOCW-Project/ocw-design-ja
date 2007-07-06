@@ -1,7 +1,7 @@
 <!-- バックナンバー 移動ナビ -->
 <div class="pickup_bn_navi">
 {if $bn_index != 1}
-<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index-1}">&lt;&lt; 前へ</a>
+<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index-1}">&lt;&lt; {if $lang=='ja'}前へ{else}Back{/if}</a>
 {/if}
 
 {if $bn_size > 1}
@@ -14,7 +14,7 @@
 {/if}
 
 {if $bn_index != $bn_size}
-<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index+1}"> &gt;&gt; 次へ</a>
+<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index+1}"> &gt;&gt; {if $lang=='ja'}次へ{else}Next{/if}</a>
 {/if}
 </div>
 
