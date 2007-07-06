@@ -2,7 +2,7 @@
 <div class="header_image">
 <table class ="header" width="650" border="0" cellPadding="0" cellSpacing="0" summary="ヘッダー部分画像">
 <tr>
-	<td><img src="./images/p02pickup{ldelim}$time_zone{rdelim}.jpg" alt="今週のPICK UP" width="650" height="165"></td>
+	<td><img src="./images/{$lang}/p02pickup{ldelim}$time_zone{rdelim}.jpg" alt="今週のPICK UP" width="650" height="165"></td>
 </tr>
 </table>
 </div>
