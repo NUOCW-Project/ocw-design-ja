@@ -80,19 +80,23 @@
 </div>  <!-- センターコンテンツ終了 -->
 
 <div class="right_contents">   <!-- 右側コンテンツ「ごあいさつ」開始 -->
-<table width="150" border="0" cellpadding="0" cellspacing="0" summary="ごあいさつ">
+<table width="150" border="0" cellpadding="0" cellspacing="0" summary="{if $lang=='ja'}ごあいさつ{elseif $lang=='en'}Introduction{/if}">
 <tr>
-	<td width="10" height="30" colspan="3"><img src="./images/{$lang}/t_aisatu01.jpg" alt="ごあいさつ"></td>
+	<td width="10" height="30" colspan="3"><img src="./images/{$lang}/t_aisatu01.jpg" alt="{if $lang=='ja'}ごあいさつ{elseif $lang=='en'}Introduction{/if}"></td>
 </tr>
 <tr>
 	<td width="10" class="td_left_r"></td>
 	<td width="130" class="td_center_r">  <!-- コンテンツセル -->
 	<div class="right_contents_picture">
-	<a href="index.php?lang={$lang}&mode=g&page_type=welcome"><img src="./images/common/pic_sugi.jpg" alt="OCW委員長"></a>
+	<a href="index.php?lang={$lang}&mode=g&page_type=welcome"><img src="./images/common/pic_sugi.jpg" alt="{if $lang=='ja'}OCW委員長{elseif $lang=='en'}NU OCW Commissioner{/if}"></a>
 	</div>
 
 	<p class="right_contents_greets">
+	{if $lang=='ja'}
 	ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。授業の内容を見て、教員の言葉を聞いて、名大の授業をぜひ「体験」してください。
+	{elseif $lang=='en'}
+	Here at the OCW website we have gathered notes and materials from lectures given at Nagoya University. Most of the information you see here are usually not seen by anyone but the students of the university. Feel free to see, hear, and experience the classes firsthand.
+	{/if}
 	</p>
 
 	<p class="right_contents_more">
@@ -100,9 +104,14 @@
     </p>
 
 	<p class="right_contents_signature">
+	{if $lang=='ja'}
 	名古屋大学<br>
 	オープンコースウェア<br>
-	委員長 杉山 寛行	
+	委員長 杉山 寛行
+	{elseif $lang=='en'}
+	Hiroyuki Sugiyama<br>
+	NU OCW Commissioner
+	{/if}
 	</p>
 	
 	</td>
