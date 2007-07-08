@@ -1,9 +1,9 @@
 <div class="center_contents"> 
 <table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/commonflame01.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="465" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/commonflame03.gif" alt=""></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
 	<td width="10" class="td_left"></td>
