@@ -18,7 +18,7 @@
 	{assign var="pu" value=$pickup_list[0]}{* TOPでは最初の1個だけ *}
 		<tr>
 		{strip}	<td colspan="2" class="pickup_contents_title">
-			{if $pu.relation_id}<a class="pickup_title" href="index.php?mode=c&id={$pu.relation_id}">{/if}
+			{if $pu.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&mode=c&id={$pu.relation_id}">{/if}
 			{$pu.title|default:"名大OCWについてのお知らせ"|change_font_size:240:14}
 			{if $pu.relation_id}</a>{/if}
 			</td>{/strip}
@@ -30,7 +30,7 @@
 			</td>
 			<td class="pickup_summ_top">
 				{if $pu.relation_id}
-				<a href="index.php?mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt="" width="150" height="108"></a>
+				<a href="index.php?lang={$lang}&mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt="" width="150" height="108"></a>
 				{else}
 				<img src="{$pu.file_name}" alt=""{$pu.img_attribute}>
 				{/if}
