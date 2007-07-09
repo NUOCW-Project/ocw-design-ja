@@ -50,7 +50,7 @@
                 {else}
                 	<p class="course_home_b">Course Meeting Times</p>
                 	<p class="course_home"><strong>Term: </strong>{$course_info.year}<br>
-                                           <strong>Day: </strong>{$course_info.meeting_time|nl2br}
+                                           <strong>Day: </strong>{$course_info.meeting_time|nl2br}<br>
                                            <strong>Lectures:</strong><br>
                                            {$course_info.lectures|nl2br}
                     </p>
