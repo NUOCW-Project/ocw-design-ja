@@ -303,6 +303,16 @@ div.right{
 	
 }
 
+p.center{
+	text-align:center;
+	margin:10px 5px;
+}
+
+p.right{
+	text-align:right;
+	margin:10px 5px;
+}
+
 p.adobe{
 	margin:10px;
 }
@@ -317,10 +327,6 @@ div.center_contents{
 div.course_contents{
 	margin: 5px;
 
-}
-
-div.center{
-	text-align: center;
 }
 
 /* ²Õ¾ò½ñ¤­ */
