@@ -26,9 +26,9 @@
 {else}
   <li>
     {if $curr_page_type_code == $page.page_type}
-      <a href="index.php?mode=c&id={$course_id}&page_type{$page.tplname}&lang={$lang}">{$page.subpage_name}</a>
+      <a href="index.php?mode=c&id={$course_id}&page_type={$page.tplname}&lang={$lang}">{$page.subpage_name}</a>
     {else}
-      <a href="index.php?mode=c&id={$course_id}&page_type{$page.tplname}&lang={$lang}">{$page.subpage_name}</a>
+      <a href="index.php?mode=c&id={$course_id}&page_type={$page.tplname}&lang={$lang}">{$page.subpage_name}</a>
     {/if}
   </li>
 {/if}
