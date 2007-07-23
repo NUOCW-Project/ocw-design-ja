@@ -10,12 +10,12 @@
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 
-	<h1 class="welcome">Welcome to NU  OCW </h1>
+	<h1 class="welcome">Welcome to Nagoya University OpenCourseWare (NUOCW)</h1>
 
-	<div class="welcome_img"><img src="./images/common/pic_sugi_welcome.jpg" alt="Hiroyuki Sugiyama, NU OCW commissioner" width="250" height="250"></div>
+	<div class="welcome_img"><img src="./images/common/pic_sugi_welcome.jpg" alt="Hiroyuki Sugiyama, Chairperson, OpenCourseWare Committee, Nagoya University" width="250" height="250"></div>
 	<p class="welcome_chairperson">
 	Hiroyuki Sugiyama<br>
-	Nagoya University OCW Commissioner<br>
+	Chairperson, OpenCourseWare Committee, Nagoya University<br>
 	
 	</p>
 	<div class="welcome_vsyllabus">
@@ -23,10 +23,10 @@
 	</div>
 
 	<div class="welcome_cotents">
-	<p>Here at the OCW website we have gathered notes and materials from lectures given at Nagoya University. Most of the information you see here are usually not seen by anyone but the students of the university. Feel free to see, hear, and experience the classes firsthand.</p>
+	<p>Here at the NUOCW website we have gathered notes and materials from lectures given at Nagoya University. Most of the information you see here are usually not seen by anyone but the students of the university. Feel free to see, hear, and experience the classes firsthand.</p>
 	<p> Nagoya University is a school with an educational staff of roughly 1800 in number, and a wide variety of courses, from both liberal arts and science. Each day, a massive number of lectures are given, with contents ranging from natural science to sociology, and students from sophomores to graduate school students. Normally, the lessons are accessible only to the students of Nagoya University.</p>
 
-	<p> At this website you can view a part of the lectures and be free to use, for your own purposes, the materials actually used at the university. This movement is the same as those going on in other universities taking part in the JOCW/OCW project.</p>
+	<p> At this website you can view a part of the lectures and be free to use, for your own purposes, the materials actually used at the university. This movement is the same as those going on in other universities taking part in the <a href="http://www.jocw.jp/">Japan OCW Consortium</a> and <a href="http://www.ocwconsortium.org/">OCW Consortium</a> project.</p>
 
 	<p> Two of our original ideas are the `Teaching Tips' and `1-minute Class Introduction'. You can see some of the tricks the professors use to make the lectures more interesting, and watch as they explain about their classes in their own words. We hope that through these efforts we can make the university and its classes a closer existence to all.</p>
 

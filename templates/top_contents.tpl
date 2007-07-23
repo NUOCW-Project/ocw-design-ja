@@ -95,7 +95,7 @@
 	{if $lang=='ja'}
 	ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。授業の内容を見て、教員の言葉を聞いて、名大の授業をぜひ「体験」してください。
 	{elseif $lang=='en'}
-	Here at the OCW website we have gathered notes and materials from lectures given at Nagoya University. Most of the information you see here are usually not seen by anyone but the students of the university. Feel free to see, hear, and experience the classes firsthand.
+	Here at the NUOCW website we have gathered notes and materials from lectures given at Nagoya University. Most of the information you see here are usually not seen by anyone but the students of the university. Feel free to see, hear, and experience the classes firsthand.
 	{/if}
 	</p>
 
@@ -110,8 +110,11 @@
 	委員長 杉山 寛行
 	{elseif $lang=='en'}
 	Hiroyuki Sugiyama<br>
-	NU OCW Commissioner
-	{/if}
+	Chairperson<br>
+    OpenCourseWare
+    Committee<br>
+    Nagoya University
+    {/if}
 	</p>
 	
 	</td>

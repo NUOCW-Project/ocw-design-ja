@@ -11,7 +11,7 @@
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 	
 	<h1 class="akf">-What is `AKF Search'?-</h1>
-	<p>AKF(Academic Knowledge Factory) is a database service provided by the Nagoya University library. With AKF search, you can look up multiple digitalized data at once!
+	<p>AKF (Academic Knowledge Factory) is a database service provided by the Nagoya University library. With AKF search, you can look up multiple digitalized data at once!
 	</p>
 	<p><span class="b">How To Use:</span></p>
 	<ol>
@@ -25,8 +25,8 @@
 	
 	<p><span class="b">Tips</span></p>
 	<ol>
-		<li>If you do not want to search through all databases, put a check in the box next to the database name you want to scan(in default setting, the program will scan all four databases)</li>
-		<li>You can choose the number of items shown per page(20/50/100 items per page)</li>
+		<li>If you do not want to search through all databases, put a check in the box next to the database name you want to scan (in default setting, the program will scan all four databases)</li>
+		<li>You can choose the number of items shown per page (20/50/100 items per page)</li>
 		<li>Clicking on the `clear' button will erase the keyword.</li>
 		<li>The four databases are as follows:
 	
