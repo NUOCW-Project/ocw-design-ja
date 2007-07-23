@@ -109,7 +109,7 @@
 	オープンコースウェア<br>
 	委員長 杉山 寛行
 	{elseif $lang=='en'}
-	Hiroyuki Sugiyama<br>
+	Hiroyuki Sugiyama,<br>
 	Chairperson<br>
     OpenCourseWare
     Committee<br>
