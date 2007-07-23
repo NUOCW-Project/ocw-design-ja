@@ -44,10 +44,15 @@
 
 	<div class="realplayer">
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
-	<p>ビデオの閲覧にはRealNetworks社のReal Playerが必要です。</p>
-	<p>Real Playerは、以下からダウンロードできます。</p>
+	{if $lang=='ja'}
+    <p>ビデオの閲覧にはRealNetworks社のRealPlayerが必要です。</p>
+	<p>RealPlayerは、以下からダウンロードできます。</p>
+    {elseif $lang=='en'}
+    <p>RealPlayer is required to run the videos.</p>
+    <p> RealPlayer can be downloaded from the following URL:
+    {/if}
 	<p>
-	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/common/realone.gif" alt="Real Player ダウンロードサイトへ" border="0" height="31" width="88"></a>
+	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/common/realone.gif" alt="{if $lang=='ja'}RealPlayer ダウンロードサイトへ{elseif $lang=='en'}Download RealPlayer{/if}" border="0" height="31" width="88"></a>
 	</p>
 	</div>
 	

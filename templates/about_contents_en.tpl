@@ -15,11 +15,11 @@
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 
-	<h1 class="about">「名大の授業」</h1>
-	<p><span class="b">-インターネット上への教材の無償公開-</span></p>
-	<p>	名古屋大学(総長 平野眞一)は、授業の一部を選び、そこで実際に使われている教材を電子化しインターネット上で無償公開する事業を行っています。</p>
-	<p>これは、授業教材をインターネット上で公開することで、普段は垣間見ることのできない名古屋大学の教育の一端を、社会へ広く情報発信しようとするものです。学生の自学自習教材としての活用だけでなく、教員と学生、教員と学外者、そして教員同士の交流・インタラクションを期待しています。</p>
-	<p>この事業は、名古屋大学オープンコースウェア委員会が運営しており、日本オープンコースウェア・コンソーシアム(JOCW)と連携しています。</p>
+	<h1 class="about">The Nagoya University OpenCourseWare brings free courseware to the Internet</h1>
+	<p>The President of Nagoya University, Shin-ichi Hirano, has launched a program to convert teaching materials used in selected courses into digital format and make them available to the public at no charge over the Internet.</p>
+	<p>By thus posting course materials on the Web, the University offers the public a rare glimpse into its classrooms. The site will, it is hoped, help enrolled students engaged in self-directed study, plus promote communication and interaction not only between instructors and students and among instructors themselves, but between instructors and non-members of the University community as well.</p>
+	<p>This project is administered by the Nagoya University OpenCourseWare Committee and has been prepared in partnership with the Japan OpenCourseWare Consortium (JOCW), founded in May 2005.</p>
+
 	</div>	<!-- コンテンツセル終了 -->
 
 	</td>
