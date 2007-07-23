@@ -24,7 +24,7 @@
   </li>
   <li class="preload"><img src="./images/{$lang}/{$basename}_on.jpg" alt=""></li>
 {else}
-  <li>
+  <li class="subpage">
     {if $curr_page_type_code == $page.page_type}
       <a href="index.php?mode=c&id={$course_id}&page_type={$page.tplname}&lang={$lang}">{$page.subpage_name}</a>
     {else}
