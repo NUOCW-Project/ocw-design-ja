@@ -138,7 +138,7 @@
 			<td colspan="2"><h1 class="about_committee">-名古屋大学オープンコースウェア委員会-</h1></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">2007年6月1日現在</td>
+			<td class="right" colspan="2">2007年7月1日現在</td>
 		</tr>
 
 		<tr>
@@ -184,22 +184,23 @@
 			<td>
 			<p>
 			足立真訓<br>
-                        綾部賢人<br>
-                        岩下曜子<br>  
+			綾部賢人<br>
+			岩下曜子<br>  
 			内田陽一<br>
-                        佐藤綾香<br>
+			佐藤綾香<br>
 			春原雅志<br>
 			高井一輝<br>
-                        鐘 揚<br>
-                        東郷高浩<br>
+			鐘 揚<br>
+			東郷高浩<br>
 			中島康貴<br>
 			浪川哲彦<br>
 			林由紀子<br>
-                        平原友里恵<br>
-                        本田裕規<br>
+			平原友里恵<br>
+			本田裕規<br>
+			丸地和馬<br>
 			松澤希<br>
-                        蓑島知里<br>
-                        山田昌臣
+			蓑島知里<br>
+			山田昌臣
 			</p>
 		</tr>
 		<tr>
