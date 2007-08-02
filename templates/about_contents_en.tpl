@@ -175,20 +175,36 @@
 			<td>
 			<p>
 			Masanori Adachi<br>
+			Kento Ayabe<br>
+			Yoko Iwashita<br>
 			Yoichi Uchida<br>
+			Ayaka Sato<br>
 			Masashi Sunohara<br>
 			Kazuki Takai<br>
+			Zhong Yang<br>
+			Takahiro Togo<br>
 			Yasunori Nakashima<br>
 			Norihiko Namikawa<br>
 			Yukiko Hayashi<br>
+			Yurie Hirabara<br>
+			Yuki Honda<br>
+			Kazuma Maruchi<br>
 			Nozomi Matsuzawa<br>
+			Chisato Minoshima<br>
+			Masaomi Yamada
 			</p>
 		</tr>
 		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="名古屋大学写真部"></p></td>
+			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="Photography"></p></td>
 			<td class="left_gray">
 			<p>
-			写真部のみなさま：
+			Hiroshi Hasegawa, Associate Professor, Graduate School of Engineering
+			</p>
+
+			<p>
+			[ Nagoya University Photograph Club ]<br>
+			Yoko Okumura<br>
+			Akinobu Kato
 			</p>
 		</tr>
 		
