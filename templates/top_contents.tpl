@@ -10,8 +10,8 @@
 	<td width="300" height="520" class="td_contents">    <!-- コンテンツセル -->
 	<div class="pickup">   	<!-- Pickup コンテンツ -->
 	<p class="pickup_title">
-	<img src="./images/{$lang}/t_pickup.jpg" alt="今週のPICK UP">
-	{if $exist_pickup_bn}<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/{$lang}/bn.gif" alt="バックナンバー"></a>{/if}
+	<img src="./images/{$lang}/t_pickup.jpg" alt="{if $lang=='ja'}今週のPICK UP{else}Weekly Pick Up{/if}">
+	{if $exist_pickup_bn}<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/{$lang}/bn.gif" alt="{if $lang=='ja'}バックナンバー{else}Back Issues{/if}"></a>{/if}
 	</p>
 	<div class="pickup_contents">
 	<table cellspacing="0" summary="PICK UPのタイトルと情報">
@@ -50,10 +50,10 @@
 	
 	<div class="topics">   	<!-- Topicコンテンツ -->
 	<p class="topics_title">
-	<img src="images/{$lang}/t_topic_title.jpg" alt="最新TOPICS">
-	<a href="index.php?lang={$lang}&mode=g&page_type=topics_list"><img src="images/{$lang}/t_topic_list.jpg" alt="TOPICS一覧"></a>
+	<img src="images/{$lang}/t_topic_title.jpg" alt="{if $lang=='ja'}最新TOPICS{else}TOPICS{/if}">
+	<a href="index.php?lang={$lang}&mode=g&page_type=topics_list"><img src="images/{$lang}/t_topic_list.jpg" alt="{if $lang=='ja'}TOPICS一覧{else}Topics List{/if}"></a>
 	</p>
-	<table class="topics_contents" border="0" summary="最新TOPICS">
+	<table class="topics_contents" border="0" summary="{if $lang=='ja'}最新TOPICS{else}TOPICS{/if}">
 		{* Topic 1件始まり *}
 		{foreach from=$topics_list item="topic"}
 		<tr>
@@ -128,7 +128,7 @@
 	<td width="150" colspan="3"><!-- いろいろリンク -->
 
 	<ul class="right_contents_buttons">
-	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus"><img src="./images/{$lang}/b_video.jpg" alt="1分間授業紹介"></a></li>
+	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus"><img src="./images/{$lang}/b_video.jpg" alt="{if $lang=='ja'}1分間授業紹介{else}1 minute video summary{/if}"></a></li>
 	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=top"><img src="./images/{$lang}/b_feedback.jpg" alt="Feedback"></a></li>
 	{if $lang!='en'}
       <li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=relay"><img src="./images/{$lang}/b_relay.gif" alt="名古屋大学リレーセミナー"></a></li>
