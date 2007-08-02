@@ -15,7 +15,7 @@
 {if $lang == "ja"}
   <img src="./images/{$lang}/b_english.jpg" alt="English">
 {elseif $lang == "en"}
-  <img src="./images/{$lang}/b_japanese.jpg" alt="日本語">
+  <img src="./images/{$lang}/b_japanese.jpg" alt="Japanese">
 {/if}
 </a>
 {/if}{/literal}
@@ -24,6 +24,7 @@
 {* 各画像の間にスペースを入れてはいけない（文字サイズを大きくしたときにレイアウトがくずれる） *}
 {literal}
 {strip}
+{if $lang=='ja'}
   <img src="./images/{$lang}/size.gif" alt="文字サイズ">
   {if ! isset($smarty.session.fontsize) || $smarty.session.fontsize == "s"}
     <a href="select_fontsize.php?fontsize=l">
@@ -33,6 +34,17 @@
     <img src="./images/{$lang}/size_l.gif" alt="大">
     <a href="select_fontsize.php?fontsize=s"><img src="./images/{$lang}/size_s.gif" alt="小"></a>
   {/if}
+{else}
+  <img src="./images/{$lang}/size.gif" alt="Text size">
+  {if ! isset($smarty.session.fontsize) || $smarty.session.fontsize == "s"}
+    <a href="select_fontsize.php?fontsize=l"><img src="./images/{$lang}/size_l.gif" alt="Large"></a>
+    <img src="./images/{$lang}/size_s.gif" alt="Small">
+  {/if}
+  {if $smarty.session.fontsize == "l"}
+    <img src="./images/{$lang}/size_l.gif" alt="Large">
+    <a href="select_fontsize.php?fontsize=s"><img src="./images/{$lang}/size_s.gif" alt="Small"></a>
+  {/if}
+{/if}
 {/strip}
 {/literal}
 </div>
