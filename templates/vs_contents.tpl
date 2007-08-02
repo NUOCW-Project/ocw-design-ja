@@ -15,11 +15,19 @@
 
 		<tr>
 			<th></th>
+            {if $lang=='ja'}
 			<th>タイトル<br>静止画</th>
 			<th width="130">コース名</th>
 			<th>視聴ボタン</th>
 			<th width="80">学部・研究科</th>
 			<th>担当講師名</th>
+            {else}
+			<th></th>
+			<th width="130">Course name</th>
+			<th></th>
+			<th width="80">Department</th>
+			<th>Lecturer</th>
+            {/if}
 		</tr>
 		<tr>
 			<td class="separate" colspan="6"></td>
