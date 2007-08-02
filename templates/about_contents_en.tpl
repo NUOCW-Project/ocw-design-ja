@@ -146,30 +146,30 @@
 			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="Nagoya University OpenCourseWare Committee"></p></td>
 			<td>
 			<ul class="stafflist_en">
-			<li>Chairperson: Hiroyuki Sugiyama<br>Vice-President, Nagoya University</li>
-			<li>Ichiro Yamamoto<br>Director, Center for Information Media Studies</li>
-			<li>Takaya Yamazato<br>Associate Professor, Center for Information Media Studies</li>
-			<li>Toshiki Nakai<br>Associate Professor, Center for the Studies of Higher Education</li>
-			<li>Akifumi Goto<br>Associate Professor, Center for Information Media Studies</li>
-			<!-- Keiko Nishimura<br>Administrative Assistant, OCW Administrative Office</li> -->
-			<li>Yoshiko Asano<br>Administrative Assistant, OCW Administrative Office</li>
-			<li>Nobuko Fujii<br>Administrative Assistant, OCW Administrative Office</li>
+			<li>Chairperson: Hiroyuki Sugiyama<br>Vice-President,<br>Nagoya University</li>
+			<li>Ichiro Yamamoto<br>Director,<br>Center for Information Media Studies</li>
+			<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
+			<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
+			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
+			<!-- Keiko Nishimura<br>Administrative Assistant,<br>OCW Administrative Office</li> -->
+			<li>Yoshiko Asano<br>Administrative Assistant,<br>OCW Administrative Office</li>
+			<li>Nobuko Fujii<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 			</p>
 		</tr>
 		<tr>
 			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="Nagoya University OpenCourseWare Work Group"></p></td>
 			<td class="left_gray">
-			<p>
-			Takaya Yamazato, Associate Professor, Center for Information Media Studies<br>
-            Aki Hara, Media Supporter, Studio Management Office<br>
-            Tomoaki Egawa, Media Supporter, Studio Management Office<br>
-			Tomoko Ozawa, Administrative Assistant, Center for Information Media Studies<br>
-			Atsuko Kato, Administrative Assistant, Center for Information Media Studies<br>
-			<!-- Keiko Nishimura, Administrative Assistant, OCW Administrative Office<br> -->
-			Yoshiko Asano, Administrative Assistant, OCW Administrative Office<br>
-			Nobuko Fujii, Administrative Assistant, OCW Administrative Office<br>
-			</p>
+			<ul class="stafflist_en">
+			<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
+			<li>Aki Hara<br>Media Supporter,<br>Studio Management Office</li>
+			<li>Tomoaki Egawa<br>Media Supporter,<br>Studio Management Office</li>
+			<li>Tomoko Ozawa<br>Administrative Assistant,<br>Center for Information Media Studies</li>
+			<li>Atsuko Kato<br>Administrative Assistant,<br>Center for Information Media Studies</li>
+			<li><!-- Keiko Nishimura<br>Administrative Assistant,<br>OCW Administrative Office</li> -->
+			<li>Yoshiko Asano<br>Administrative Assistant,<br>OCW Administrative Office</li>
+			<li>Nobuko Fujii<br>Administrative Assistant,<br>OCW Administrative Office</li>
+			</ul>
 		</tr>
 		<tr>
 			<td><p><img src="./images/{$lang}/i_staff03.jpg" alt="Support Staff"></p></td>
@@ -198,9 +198,9 @@
 		<tr>
 			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="Photography"></p></td>
 			<td class="left_gray">
-			<p>
-			Hiroshi Hasegawa, Associate Professor, Graduate School of Engineering
-			</p>
+			<ul class="stafflist_en">
+			<li>Hiroshi Hasegawa<br>Associate Professor,<br>Graduate School of Engineering</li>
+			</ul>
 
 			<p>
 			[ Nagoya University Photograph Club ]<br>
