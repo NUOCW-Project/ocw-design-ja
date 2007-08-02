@@ -695,6 +695,19 @@ h1.about_committee {
 	padding:0;
 }
 
+ul.stafflist_en {
+	list-style-type: none;
+	margin: 0;
+	padding: 10px;
+}
+
+ul.stafflist_en li {
+	text-indent: -10px;
+	margin: 0;
+	padding: 0;
+}
+
+
 /* ------------------FAQ-------------------- */
 div.faq_normal{
 	padding:5px;

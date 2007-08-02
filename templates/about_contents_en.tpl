@@ -139,21 +139,22 @@
 			<td colspan="2"><h2 class="about_committee">-Nagoya University OpenCourseWare Committee-</h2></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">(As of December 1, 2006)</td>
+			<td class="right" colspan="2">(As of July 1, 2007)</td>
 		</tr>
 
 		<tr>
 			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="Nagoya University OpenCourseWare Committee"></p></td>
 			<td>
-            <p>
-			Chairperson: Hiroyuki Sugiyama, Vice-President, Nagoya University<br>
-            Ichiro Yamamoto, Director, Center for Information Media Studies<br>
-            Takaya Yamazato, Associate Professor, Center for Information Media Studies<br>
-            Toshiki Nakai, Associate Professor, Center for the Studies of Higher Education<br>
-            Akifumi Goto, Associate Professor, Center for Information Media Studies<br>
-			<!-- Keiko Nishimura, Administrative Assistant, OCW Administrative Office<br> -->
-			Yoshiko Asano, Administrative Assistant, OCW Administrative Office<br>
-			Nobuko Fujii, Administrative Assistant, OCW Administrative Office<br>
+			<ul class="stafflist_en">
+			<li>Chairperson: Hiroyuki Sugiyama<br>Vice-President, Nagoya University</li>
+			<li>Ichiro Yamamoto<br>Director, Center for Information Media Studies</li>
+			<li>Takaya Yamazato<br>Associate Professor, Center for Information Media Studies</li>
+			<li>Toshiki Nakai<br>Associate Professor, Center for the Studies of Higher Education</li>
+			<li>Akifumi Goto<br>Associate Professor, Center for Information Media Studies</li>
+			<!-- Keiko Nishimura<br>Administrative Assistant, OCW Administrative Office</li> -->
+			<li>Yoshiko Asano<br>Administrative Assistant, OCW Administrative Office</li>
+			<li>Nobuko Fujii<br>Administrative Assistant, OCW Administrative Office</li>
+			</ul>
 			</p>
 		</tr>
 		<tr>
