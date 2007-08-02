@@ -698,11 +698,11 @@ h1.about_committee {
 ul.stafflist_en {
 	list-style-type: none;
 	margin: 0;
-	padding: 10px;
+	padding: 20px;
 }
 
 ul.stafflist_en li {
-	text-indent: -10px;
+	text-indent: -20px;
 	margin: 0;
 	padding: 0;
 }
