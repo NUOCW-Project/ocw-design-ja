@@ -703,7 +703,7 @@ ul.stafflist_en {
 
 ul.stafflist_en li {
 	text-indent: -20px;
-	margin: 0;
+	margin: 0 0 5px 0;
 	padding: 0;
 }
 
