@@ -50,7 +50,7 @@
 		<td width="10" class="td_left_gray"></td>
 		<td class="td_contents_gray">    
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<p>●関連リンク</p>
+		<p>{if $lang=='ja'}●関連リンク{else}&circ; Related Link{/if}</p>
 		<!-- 関連リンクデータ -->
 		<p>
 		{if $lang == "ja"}<a href="{$dept.department_url}">{$dept.department_name}</a>
