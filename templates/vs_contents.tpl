@@ -67,7 +67,7 @@
 		<td width="10" class="td_left_gray"></td>
 		<td class="td_contents_gray">    
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<p>{if $lang=='ja'}●関連リンク{else}&circ; Related Link{/if}</p>
+		<p>{if $lang=='ja'}●関連リンク{else}&loz; Related Link{/if}</p>
 		<!-- 関連リンクデータ -->
 		<p><a href="http://www.media.nagoya-u.ac.jp/">{if $lang=='ja'}情報メディア教育センター{else}Center for Information Media Studies{/if}</a></p>
 		<!-- 関連リンクデータ -->
