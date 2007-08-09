@@ -8,7 +8,7 @@
 </tr>
 <tr>
 	<!-- 塗りつぶし画像-->
-	<td><img src="./images/common/clist_clist01.jpg" alt=""></td>
+	<td><img src="./images/{$lang}/clist_00.jpg" alt=""></td>
 </tr>
 
 <tr>
