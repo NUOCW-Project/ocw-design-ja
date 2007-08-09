@@ -498,7 +498,7 @@ ul.course_home_recommended li{
 
 
 /* -----------------Course List----------------- */
-div.courselist_left_ja{
+div.courselist_left{
 	text-align:left;
 	float:left;
 	width:155px;
@@ -506,27 +506,13 @@ div.courselist_left_ja{
 	padding:0;
 }
 
-div.courselist_center_ja{
+div.courselist_center{
 	text-align:left;
 	float:left;
 	width:450px;
 	margin:5px 0;
 }
 
-div.courselist_left_en{
-	text-align:left;
-	float:left;
-	width:200px;
-	margin:0 10px;
-	padding:0;
-}
-
-div.courselist_center_en{
-	text-align:left;
-	float:left;
-	width:405px;
-	margin:5px 0;
-}
 ul.courselist{
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
 	margin: 0;
