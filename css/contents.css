@@ -459,6 +459,12 @@ p.course_home_b{
     margin:10px 0 0;
 }
 
+p.course_home_i{
+    margin:0;
+    padding:5px;
+    text-indent:-5px; 
+}
+
 p.course_home{
     margin:0;
 }

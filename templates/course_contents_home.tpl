@@ -49,12 +49,12 @@
                 	<p class="course_home">{$course_info.class_is_for_ja|nl2br}</p>
                 {else}
                 	<p class="course_home_b">Course Meeting Times</p>
-                	<p class="course_home"><span class="i">Term:</span><br>
-                                           {$course_info.year}</p>
-                    <p class="course_home"><span class="i">Day:</span><br>
-                                           {$course_info.meeting_time|nl2br}</p>
-                    <p class="course_home"><span class="i">Lectures:</span><br>
-                                           {$course_info.lectures|nl2br}
+                	<p class="course_home_i"><span class="i">Term:</span><br>
+                                             {$course_info.year}</p>
+                    <p class="course_home_i"><span class="i">Day:</span><br>
+                                             {$course_info.meeting_time|nl2br}</p>
+                    <p class="course_home_i"><span class="i">Lectures:</span><br>
+                                             {$course_info.lectures|nl2br}
                     </p>
 
                 	<p class="course_home_b">Class is for:</p>
