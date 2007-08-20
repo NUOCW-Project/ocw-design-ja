@@ -484,6 +484,13 @@ div.course_home_info_contents {
 	padding: 0;
 }
 
+div.course_home_info_contents_en {
+	width: 120px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
 ul.course_home_recommended {
 	margin: 10px 0 5px;
 	padding: 0;

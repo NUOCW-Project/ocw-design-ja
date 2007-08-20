@@ -29,7 +29,7 @@
                 <td width="10" class="td_left_gray"></td>
                 <td class="td_contents_gray">
                     <!-- コンテンツセル開始 -->
-                    <div class="course_home_info_contents">   
+                    <div class="course_home_info_contents{if $lang=='en'}_en{/if}">   
                 	<p class="course_home_b">{if $lang=='ja'}開講部局{else}Department:{/if}</p>
                 	<p class="course_home">{$course_info.department_name}</p>
 
