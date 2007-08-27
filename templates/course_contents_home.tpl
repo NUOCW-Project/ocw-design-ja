@@ -75,7 +75,7 @@
                 	<p class="course_home_vsyllabus">
 					  <a href="{$course_info.vsyllabus}" title="{if $lang=='ja'}1分間授業紹介（ビデオ）{else}1 minute Video Summary{/if}"><img src="./images/{$lang}/b_video_link.jpg" alt="{if $lang=='ja'}1分間授業紹介（ビデオ）{else}1 minute Video Summary{/if}" width="120" height="68"></a>
                     {if $lang=='en' and $course_info.vsyllabus_lang=='ja'}
-                    <br><span class="i">(recorded in Japanese)</span>
+                    <br><span class="i">* recorded in Japanese</span>
                     {/if}
 					</p>
 					{/if}
