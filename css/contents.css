@@ -513,6 +513,9 @@ ul.course_home_recommended li{
 	padding: 0;
 }
 
+p.course_home_vsyllabus{
+    margin:10px 0 0;
+}
 
 /* -----------------Course List----------------- */
 div.courselist_left{

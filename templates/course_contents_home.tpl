@@ -72,14 +72,17 @@
 	  				</p>
 
 	                {if $course_info.vsyllabus}
-                	<p class="course_home_b">
-					  <a href="{$course_info.vsyllabus}" title="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë"><img src="./images/{$lang}/b_video_link.jpg" alt="1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë" width="120" height="68"></a>
+                	<p class="course_home_vsyllabus">
+					  <a href="{$course_info.vsyllabus}" title="{if $lang=='ja'}1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë{else}1 minute Video Summary{/if}"><img src="./images/{$lang}/b_video_link.jpg" alt="{if $lang=='ja'}1Ê¬´Ö¼ø¶È¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë{else}1 minute Video Summary{/if}" width="120" height="68"></a>
+                    {if $lang=='en' and $course_info.vsyllabus_lang='ja'}
+                    <br><span class="i">(recorded in Japanese)</span>
+                    {/if}
 					</p>
 					{/if}
 
 					<ul class="course_home_recommended">
-					{if $course_info.wg_recommended eq "t"}<li><img src="./images/{$lang}/nominate_ocw.jpg" alt="OCW WG ¿äÁ¦" width="120" height="29"></li>{/if}
-					{if $course_info.dept_recommended eq "t"}<li><img src="./images/{$lang}/nominate_dep.jpg" alt="Éô¶ÉÄ¹¿äÁ¦" width="120" height="29"></li>{/if}
+					{if $course_info.wg_recommended eq "t"}<li><img src="./images/{$lang}/nominate_ocw.jpg" alt="{if $lang=='ja'}OCW WG ¿äÁ¦{else}This course has recommendation by OCW WG.{/if}" width="120" height="29"></li>{/if}
+					{if $course_info.dept_recommended eq "t"}<li><img src="./images/{$lang}/nominate_dep.jpg" alt="{if $lang=='ja'}Éô¶ÉÄ¹¿äÁ¦{else}This course has recommendation by the head of department.{/if}" width="120" height="29"></li>{/if}
 					</ul>
 					<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
                 	</div>
