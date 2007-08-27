@@ -403,9 +403,11 @@ table.basic td{
 }
 
 td.left{
+	text-align: left;
 }
 
 td.left_gray{
+	text-align: left;
 	background-color:#eeeeee;
 }
 

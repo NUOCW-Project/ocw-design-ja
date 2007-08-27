@@ -40,9 +40,9 @@
 		
 			<td>{$smarty.foreach.vs_loop.iteration}</td>
 			<td>{vsyllabus_img id=$vs.vsyllabus_id name=$vs.instructor_name}</td>
-			<td>{$vs.course_name}</td>
+			<td class="left">{$vs.course_name}</td>
 			<td class="center"><a href="{$vs.url}"><img src="./images/common/b_rv.gif"></a></td>
-			<td>{$vs.department_name}</td>
+			<td class="left">{$vs.department_name}</td>
 			<td>{$vs.instructor_name}</td>
 		</tr>
 		{/foreach}
