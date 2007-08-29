@@ -15,7 +15,7 @@ li.subpage {
     font-size: 11pt;
     text-align: left;
     margin: 0;
-    padding: 0 0 0 30px;
+    padding: 2px 0 2px 30px;
 	color: #669933; 
 }
 
@@ -23,7 +23,7 @@ li.subpage_curr {
     font-size: 11pt;
     text-align: left;
     margin: 0;
-    padding: 0 0 0 30px;
+    padding: 2px 0 2px 30px;
 	color: #ff9933;
 	font-weight: bold;
 }
