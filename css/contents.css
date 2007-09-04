@@ -740,6 +740,10 @@ h1.akf{
     padding:0;
 } 
 
+#akf_logo {
+	vertical-align: middle;
+}
+
 /* ------------------お問い合わせ-------------------- */
 h1.inq{
 	background-image:none;
