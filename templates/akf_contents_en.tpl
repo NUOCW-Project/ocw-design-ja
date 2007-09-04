@@ -19,8 +19,7 @@
 		<li>Once search results are displayed, click on a specific link</li>
 		<li>Clicking on `jump to article' will lead you directly to the specified article.</li>
 	</ol>
-	<p>Search? AKF<br>
-	<a href="http://akf.nul.nagoya-u.ac.jp/infolib/search/metdefault?DB_ID=G0000002AKF&GRP_ID=G0000002&DEF_XSL=eng&IS_TYPE=meta&IS_STYLE=eng"><img src="./images/common/akf.jpg" alt="AKF Search"></a>
+	<p>Search <a href="http://akf.nul.nagoya-u.ac.jp/infolib/search/metdefault?DB_ID=G0000002AKF&GRP_ID=G0000002&DEF_XSL=eng&IS_TYPE=meta&IS_STYLE=eng"><img src="./images/common/akf.jpg" alt="AKF Search"></a>
 	</p>
 	
 	<p><span class="b">Tips</span></p>
