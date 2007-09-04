@@ -1,6 +1,6 @@
 <!-- このSiteの特徴開始 -->
 <div class="about_left" id="about01">
-<img src="./images/{$lang}/t_01site.gif" alt="このSiteについて">
+<img src="./images/{$lang}/t_01site.gif" alt="About this site">
 </div>
 <div class="about_center">
 <div class="about_contents"> 

@@ -1,6 +1,6 @@
 <!-- ヘッダー画像(中身はテーブル) -->
 <div class="header_image">
-<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
+<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="{if $lang=='ja'}ヘッダー部分画像{else}header{/if}">
 {assign var="page_header_img" value="./images/`$lang`/c_`$page_data.filename`}
 
 <!-- ページ名。ここの画像はページの内容によって動的に差し替え -->
