@@ -40,7 +40,8 @@
 		
 			<td>{$smarty.foreach.vs_loop.iteration}</td>
 			<td>{vsyllabus_img id=$vs.vsyllabus_id name=$vs.instructor_name}</td>
-			<td class="left">{if $lang=='en' and $vs.lang=='ja'}<span class="i">{$vs.course_name}</span>{else}{$vs.course_name}{/if}</td>
+			<td class="left">{$vs.course_name}
+                             {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span>{/if}</td>
 			<td class="center"><a href="{$vs.url}"><img src="./images/common/b_rv.gif"></a></td>
 			<td class="left">{$vs.department_name}</td>
 			<td>{$vs.instructor_name}</td>
@@ -49,6 +50,10 @@
 
 		</tbody>
 	</table>
+    {if $lang=='en'}
+    <p><span class="b">(E)</span> = Recorded in English.  <span class="b">(J)</span> = Recorded in Japanese.</p>
+    {/if}
+
 
 	<div class="realplayer">
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
