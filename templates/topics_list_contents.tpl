@@ -10,7 +10,7 @@
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 
-	<table class="topics_contents" border="0" summary="最新TOPICS">
+	<table class="topics_contents" border="0" summary="{if $lang=='ja'}最新TOPICS{else}Recent Updates{/if}">
 		{* Topic 1件始まり *}
 		{foreach from=$topics_list item="topic"}
 		<tr>

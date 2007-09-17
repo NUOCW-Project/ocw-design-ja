@@ -19,7 +19,7 @@
 	
 	</p>
 	<div class="welcome_vsyllabus">
-	<a href="http://vdbserv.media.nagoya-u.ac.jp/ramgen/vod//OWE/00024521.rm?autostart=true" title="1Ê¬´Ö OCW ¾Ò²ð"><img src="./images/{$lang}/b_video_ocw.jpg" alt="1Ê¬´ÖOCW¾Ò²ð" width="133" height="75"></a>
+	<a href="http://vdbserv.media.nagoya-u.ac.jp/ramgen/vod//OWE/00024521.rm?autostart=true" title="{if $lang=='ja'}1Ê¬´ÖOCW¾Ò²ð{else}1 minuite introduction of OCW{/if}"><img src="./images/{$lang}/b_video_ocw.jpg" alt="{if $lang=='ja'}1Ê¬´ÖOCW¾Ò²ð{else}1 minuite introduction of OCW{/if}" width="133" height="75"></a>
 	</div>
 
 	<div class="welcome_cotents">
