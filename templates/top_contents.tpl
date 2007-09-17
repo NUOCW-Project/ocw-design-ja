@@ -10,11 +10,11 @@
 	<td width="300" height="520" class="td_contents">    <!-- コンテンツセル -->
 	<div class="pickup">   	<!-- Pickup コンテンツ -->
 	<p class="pickup_title">
-	<img src="./images/{$lang}/t_pickup.jpg" alt="{if $lang=='ja'}今週のPICK UP{else}Weekly Pick Up{/if}">
-	{if $exist_pickup_bn}<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/{$lang}/bn.gif" alt="{if $lang=='ja'}バックナンバー{else}Back Issues{/if}"></a>{/if}
+	<img src="./images/{$lang}/t_pickup.jpg" alt="{if $lang=='ja'}今週のPICK UP{else}TOPICS{/if}">
+	{if $exist_pickup_bn}<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/{$lang}/bn.gif" alt="{if $lang=='ja'}バックナンバー{else}Previous Articles{/if}"></a>{/if}
 	</p>
 	<div class="pickup_contents">
-	<table cellspacing="0" summary="PICK UPのタイトルと情報">
+	<table cellspacing="0" summary="{if $lang=='ja'}PICK UPのタイトルと情報{else}about TOPICS{/if}">
 	{assign var="pu" value=$pickup_list[0]}{* TOPでは最初の1個だけ *}
 		<tr>
 		{strip}	<td colspan="2" class="pickup_contents_title">
@@ -50,10 +50,10 @@
 	
 	<div class="topics">   	<!-- Topicコンテンツ -->
 	<p class="topics_title">
-	<img src="images/{$lang}/t_topic_title.jpg" alt="{if $lang=='ja'}最新TOPICS{else}TOPICS{/if}">
-	<a href="index.php?lang={$lang}&mode=g&page_type=topics_list"><img src="images/{$lang}/t_topic_list.jpg" alt="{if $lang=='ja'}TOPICS一覧{else}Topics List{/if}"></a>
+	<img src="images/{$lang}/t_topic_title.jpg" alt="{if $lang=='ja'}最新TOPICS{else}Recent Updates{/if}">
+	<a href="index.php?lang={$lang}&mode=g&page_type=topics_list"><img src="images/{$lang}/t_topic_list.jpg" alt="{if $lang=='ja'}TOPICS一覧{else}List of Recent Updates{/if}"></a>
 	</p>
-	<table class="topics_contents" border="0" summary="{if $lang=='ja'}最新TOPICS{else}TOPICS{/if}">
+	<table class="topics_contents" border="0" summary="{if $lang=='ja'}最新TOPICS{else}Recent Updates{/if}">
 		{* Topic 1件始まり *}
 		{foreach from=$topics_list item="topic"}
 		<tr>

@@ -5,7 +5,7 @@
 <tr>
   <td colspan="3">
 <!-- バックナンバーへのリンク -->
-<div class="pickup_to_bn"><a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/{$lang}/bn.gif" width="70" height="25"></a></div>
+<div class="pickup_to_bn"><a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/{$lang}/bn.gif" height="25"></a></div>
   </td>
 </tr>
 {/if}
@@ -21,7 +21,7 @@
 
 
   {assign var="pu" value=$pickup_list[0]}{* TOPでは最初の1個だけ *}
-  <table class="center_contents" cellspacing="0" summary="PICK UPのタイトルと情報">
+  <table class="center_contents" cellspacing="0" summary="{if $lang=='ja'}PICK UPのタイトルと情報{else}about TOPICS{/if}">
 <!-- 		<tr>
 			<td colspan="2">
 			{$pu.stime|date_format:"%Y/%m/%d"} Up
