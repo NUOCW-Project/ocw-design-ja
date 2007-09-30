@@ -50,9 +50,9 @@
                 {else}
                 	<p class="course_home_b">Course Meeting Times</p>
                 	<p class="course_home_i"><span class="i">Term:</span><br>
-                                              {if $course_info.term_code=='1'}<span title="Spring Term (April-August)">
-                                              {elseif $course_info.term_code=='2'}<span title="Autumn Term (October-February)">
-                                              {elseif $course_info.term_code=='3'}<span title="Spring & Autumn Term (April-August, October-February)">{/if}
+                                              {if $course_info.term_code=='1'}<span title="Summer Term (April-August)">
+                                              {elseif $course_info.term_code=='2'}<span title="Winter Term (October-February)">
+                                              {elseif $course_info.term_code=='3'}<span title="Summer & Winter Term (April-August, October-February)">{/if}
                                               {$course_info.year}
                                               {if $course_info.term_code=='1'||$course_info.term_code=='2'||$course_info.term_code=='3'}</span>{/if}</p>
                     <p class="course_home_i"><span class="i">Day:</span><br>
