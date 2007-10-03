@@ -1,5 +1,5 @@
 <div class="center_contents"> 
-<table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
+<table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="Recent Updates">
 <tr>
 	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="465" height="15" class="td_top"></td>

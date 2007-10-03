@@ -1,6 +1,6 @@
 <!-- 名大の授業についてleftメニュー -->
 <div class="vsyllabus_left">
-<img src="./images/{$lang}/t_vlist.gif" alt="番組一覧">
+<img src="./images/{$lang}/t_vlist.gif" alt="{if $lang=='ja'}番組一覧{else}List of video clips{/if}">
 
 
 <div class="podcast">
