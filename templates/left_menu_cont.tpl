@@ -19,7 +19,7 @@
     {else}
       {* 確認用表示(GET変数display_mode=tempになっている)の場合は、
          引数にdisplay_mode=tempを付ける *}
-      <a href="index.php?mode=c&id={$course_id}&page_type={$page.filename}&lang={$lang}"><img src="./images/common/dummy.gif" alt="{$page.page_name}"></a>
+      <a href="index.php?lang={$lang}&mode=c&id={$course_id}&page_type={$page.filename}"><img src="./images/common/dummy.gif" alt="{$page.page_name}"></a>
     {/if}
   </li>
   <li class="preload"><img src="./images/{$lang}/{$basename}_on.jpg" alt=""></li>
