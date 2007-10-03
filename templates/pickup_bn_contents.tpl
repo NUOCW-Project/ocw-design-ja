@@ -37,7 +37,7 @@
   <td class="td_contents">
     <div class="course_contents"><!-- コンテンツセル開始 -->
 
-      <table class="center_contents" cellspacing="0" summary="PICK UPのタイトルと情報">
+      <table class="center_contents" cellspacing="0" summary="{if $lang=='ja'}PICK UPのタイトルと情報{else}TOPICS{/if}">
         <tr>
         {strip}
           <td class="pickup_contents_title">

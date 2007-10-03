@@ -3,7 +3,7 @@
   {if $lang!='en' || $dept.course_list}  {* 英語版でコースのない部局はスキップ *}
 	<div class="courselist_left">
 	<!-- 部局名 -->
-	<a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/{$lang}/t_clist_{$dept.department_abbr}.gif" alt="{$dept.department_name}" width="155" height="40"></a>
+	<a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/{$lang}/t_clist_{$dept.department_abbr}.gif" alt="{if $lang=='ja'}{$dept.department_name}{else}{$dept.department_name_e}{/if}" width="155" height="40"></a>
 	</div>
 	<div class="courselist_center">
 		<ul class="courselist">
