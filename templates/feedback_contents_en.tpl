@@ -35,6 +35,7 @@
 
 	<h2 class="feedback">* You live in:</h2>
 		<select name="country" size="1" tabindex="0">
+		<option value="00" selected>-- select one --</option>
 		<option value="JP">Japan</option>
 		<option value="AD">Andorra</option>
 		<option value="AE">United Arab Emirates</option>
