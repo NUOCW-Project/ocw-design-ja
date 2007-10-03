@@ -62,7 +62,7 @@
 	<div class="faq_normal" id="faq06">
 	<p><span class="b">6.「名大の授業」に掲載されている教材について、講義の担当者に直接質問することはできますか？</span></p>
 	<p>「名大の授業」は、名古屋大学での講義情報を公開するものであって、授業そのものではありません。このため、教員との直接のやり取りは提供しておりません。</p>
-	<p>ご意見、ご質問は<a href="index.php?lang={$lang}&mode=g&page_type=feedback">Feedback</a>を通じてお寄せ下さい。</p>
+	<p>ご意見、ご質問は<a href="index.php?lang={$lang}&mode=g&page_type=inquiry">お問合せ</a>もしくは<a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=faq">Feedback</a>を通じてお寄せ下さい。</p>
 	</div>
 
 	<div class="faq_color" id="faq07">

@@ -61,7 +61,10 @@
 	<div class="faq_normal" id="faq06">
 	<p><span class="b">6. If I have a question about something in Nagoya University OpenCourseWare (NU OCW), can I ask the course instructor directly?</span></p>
 	<p>The Nagoya University OpenCourseWare (NU OCW) gives access to the content of University courses, but it does not constitute a course or program in its own right. Therefore, no direct contact is provided with instructors.</p>
-	<p>However, members of the public opinions and questions are welcome to submitted via the <a href="index.php?lang={$lang}&mode=g&page_type=feedback">Feedback</a> link.</p>
+	<p>However, questions and comments can be submitted from the following pages:</p>
+    <ul><li>Questions: <a href="index.php?lang={$lang}&mode=g&page_type=inquiry">Inquiries</a> page.</p>
+        <li>Comments: <a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=faq">Feedback</a> page.</p>
+    </ul>
 	</div>
 
 	<div class="faq_color" id="faq07">
