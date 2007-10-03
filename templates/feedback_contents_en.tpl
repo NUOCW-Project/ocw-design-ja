@@ -29,7 +29,7 @@
 		<option value="03">a faculty member at Nagoya Univ.</option>
 		<option value="04">a faculty member at universities other than Nagoya Univ.</option>
 		<option value="05">a self-directed learner</option>
-		<option value="06">a high school or preparatory school student</option>
+		<option value="06">a high school / preparatory school student</option>
 		<option value="99">other</option>
 		</select>
 
