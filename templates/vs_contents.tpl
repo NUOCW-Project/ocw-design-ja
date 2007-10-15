@@ -16,7 +16,7 @@
 		<tr>
 			<th></th>
             {if $lang=='ja'}
-			<th>タイトル<br>静止画</th>
+			<th></th>
 			<th width="130">コース名</th>
 			<th>視聴ボタン</th>
 			<th width="80">学部・研究科</th>
@@ -42,7 +42,8 @@
 			<td>{vsyllabus_img id=$vs.vsyllabus_id name=$vs.instructor_name}</td>
 			<td class="left">{$vs.course_name}
                              {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span>{/if}</td>
-			<td class="center"><a href="{$vs.url}"><img src="./images/common/b_rv.gif"></a></td>
+			<td class="center"><a href="{$vs.url}"><img src="./images/common/b_rv.gif"></a></br>
+                            　　　　　　　 <a href="{$vs.url}"><img src="./images/common/b_fv.gif"></a></br></td>
 			<td class="left">{$vs.department_name}</td>
 			<td>{$vs.instructor_name}</td>
 		</tr>
