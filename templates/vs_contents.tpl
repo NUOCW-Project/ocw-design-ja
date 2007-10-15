@@ -60,7 +60,7 @@
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	{if $lang=='ja'}
     <p>ビデオの閲覧にはRealNetworks社のRealPlayerか、Adobe社のFlashPlayerが必要です。</p>
-	<p>RealPlayerとflashPlayerは、以下からダウンロードできます。</p>
+	<p>RealPlayerとFlashPlayerは、以下からダウンロードできます。</p>
     {elseif $lang=='en'}
     <p>RealPlayer or FlashPlayer are required to run the videos.</p>
     <p>RealPlayer or FlashPlayer can be downloaded from the following URL:
