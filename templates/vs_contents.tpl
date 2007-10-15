@@ -59,7 +59,7 @@
 	<div class="realplayer">
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	{if $lang=='ja'}
-    <p>ビデオの閲覧にはRealNetworks社のRealPlayerか、Adobe社のFlashPlayerが必要です。</p>
+    <p>ビデオの閲覧にはRealNetworks社のRealPlayerかAdobe社のFlashPlayerが必要です。</p>
 	<p>RealPlayerとFlashPlayerは、以下からダウンロードできます。</p>
     {elseif $lang=='en'}
     <p>RealPlayer or FlashPlayer are required to run the videos.</p>
