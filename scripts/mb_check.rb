@@ -54,7 +54,7 @@ if (!local) then
         # detect a multibyte character
         if (line =~ shift_jis || line =~ euc_jp || line =~ utf8) then
           no_mb = false
-          puts "> file: #{page} line: #{i}"
+          puts "> file: #{page} line: #{i+1}"
           puts "\t" + line.strip
         end
 
