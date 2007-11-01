@@ -8,9 +8,9 @@
 <link rel="stylesheet" type="text/css" href="./css/left_menu_{$lang}.css" media="all">
 <title>
 {if $lang=='ja'}
-名大の授業 Nagoya University OPEN Course Ware
+名大の授業 Nagoya University OpenCourseWare
 {else}
-Nagoya University OPEN Course Ware (NU OCW)
+Nagoya University OpenCourseWare (NU OCW)
 {/if}
 {$title}</title>
 </head>
