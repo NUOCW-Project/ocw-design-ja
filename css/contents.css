@@ -28,6 +28,11 @@ td.pickup_img {
 td.pickup_info_top {
 /*	height: 73px;*/
 }
+
+td.pickup_info_top p{
+    text-align:left;
+}
+
 td.pickup_summ_top {
     text-align:right;
 	vertical-align:middle;
@@ -41,7 +46,7 @@ td.pickup_body{
 }
 
 p.pickup_contents{
-	text-align:justify;
+	text-align:justify; 
 	margin: 0;
 }
 
