@@ -12,7 +12,7 @@
 	<h1 class="feedback">- Thank you for your feedback -</h1>
 
 	<p class="thankyou">
-	
+	Thank you for your cooperation.
 	</p>
 
 	<p class="thankyou">

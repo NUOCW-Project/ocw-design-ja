@@ -306,7 +306,7 @@
 		<input type="hidden" name="target_id" value="{literal}{$smarty.get.ref_id}{/literal}">
 		<input type="hidden" name="target_page_type" value="{literal}{$smarty.get.ref_page_type}{/literal}">
 
-		<input type="submit" name="" value="Click to sent">
+		<input type="submit" name="" value="Click to send">
 		<input type="reset" name="" value="Click to reset">
 	</form>
 
