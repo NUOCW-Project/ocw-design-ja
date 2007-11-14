@@ -128,7 +128,7 @@
 		</tr>
 		<tr>
 			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="Nagoya University Library"></p></td>
-			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">The Nagoya University Library</a>works to enhance the quality of education and research at Nagoya University by providing access to the wealth of intellectual property in its collections while integrating the functions of a traditional library with those of a digital one.</p></td>
+			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">The Nagoya University Library</a> works to enhance the quality of education and research at Nagoya University by providing access to the wealth of intellectual property in its collections while integrating the functions of a traditional library with those of a digital one.</p></td>
 		</tr>
 
 		<tr>
