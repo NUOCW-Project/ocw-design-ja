@@ -17,9 +17,10 @@
 	<table cellspacing="0" summary="{if $lang=='ja'}PICK UPのタイトルと情報{else}about TOPICS{/if}">
 	{assign var="pu" value=$pickup_list[0]}{* TOPでは最初の1個だけ *}
 		<tr>
-		{strip}	<td colspan="2" class="pickup_contents_title">
+		{strip}	<td colspan="2" class="{if $lang=='ja'}pickup_contents_title{else}pickup_contents_title_wide{/if}">
 			{if $pu.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&mode=c&id={$pu.relation_id}">{/if}
-			{$pu.title|default:"名大OCWについてのお知らせ"|change_font_size:240:14}
+			{if $lang=='ja'}{$pu.title|default:"名大OCWについてのお知らせ"|change_font_size:240:14}
+            {else}{$pu.title|default:"Announcement from NU OCW"|change_font_size:480:14}{/if}
 			{if $pu.relation_id}</a>{/if}
 			</td>{/strip}
 		</tr>
