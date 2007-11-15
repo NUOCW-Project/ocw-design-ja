@@ -40,9 +40,10 @@
       <table class="center_contents" cellspacing="0" summary="{if $lang=='ja'}PICK UPのタイトルと情報{else}TOPICS{/if}">
         <tr>
         {strip}
-          <td class="pickup_contents_title">
+          <td class="{if $lang=='ja'}pickup_contents_title{else}pickup_contents_title_wide{/if}">
           {if $bn.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&mode=c&id={$bn.relation_id}">{/if}
-          {$bn.title|default:"名大OCWについてのお知らせ"|change_font_size:240:14}
+            {if $lang=='ja'}{$pu.title|default:"名大OCWについてのお知らせ"|change_font_size:240:14}
+            {else}{$pu.title|default:"Announcement from NU OCW"|change_font_size:450:13}{/if}
           {if $bn.relation_id}</a>{/if}
           </td>
         {/strip}
