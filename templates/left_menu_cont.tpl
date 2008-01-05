@@ -3,7 +3,7 @@
 <ul class="left_menu">
 <!-- 授業一覧へのリンク -->
 <li class="m00list"><a href="index.php?lang={$lang}&mode=l&page_type=all"><img src="./images/common/dummy.gif" alt="{if $lang=='ja'}授業一覧{else}Course List{/if}"></a></li>
-<li class="preload"><img src="./images/{$lang}/m00list_on.jpg" alt=""></li>
+<li class="preload"><img src="./images/{$lang}/md_00list_on.jpg" alt=""></li>
 
 <!-- 各コンテンツページへのリンクリスト -->
 {foreach from=$page_list item="page"}
