@@ -148,11 +148,17 @@
 			<ul class="stafflist_en">
 			<li>Chairperson: Hiroyuki Sugiyama<br>Vice-President,<br>Nagoya University</li>
 			<li>Ichiro Yamamoto<br>Director,<br>Center for Information Media Studies</li>
-			<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
+			<li>Toshiyuki Tonoike<br>Professor,<br>Center for Information Media Studies</li>
+			<li>Masaaki Katayama<br>Professor,<br>Center for Information Media Studies</li>
+			<li>Shoji Kajita<br>Associate Professor,<br>Information Technology Center</li>
 			<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
+			<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
 			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
-			<!-- Keiko Nishimura<br>Administrative Assistant,<br>OCW Administrative Office</li> -->
-			<li>Yoshiko Asano<br>Administrative Assistant,<br>OCW Administrative Office</li>
+			<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
+			<li>Hitoshi Terai<br>Assistant Professor,<br>Nagoya University Library Studies</li>
+			<li>Aki Hara<br>Media Supporter,<br>Studio Management Office</li>
+			<li>Tomoaki Egawa<br>Media Supporter,<br>Studio Management Office</li>
+			<li>Mina Ohigashi<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			<li>Nobuko Fujii<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 			</p>
@@ -161,13 +167,16 @@
 			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="Nagoya University OpenCourseWare Work Group"></p></td>
 			<td class="left_gray">
 			<ul class="stafflist_en">
+			<li>Shoji Kajita<br>Associate Professor,<br>Information Technology Center</li>
+			<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
 			<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
+			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
+			<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
+			<li>Hitoshi Terai<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio Management Office</li>
 			<li>Tomoaki Egawa<br>Media Supporter,<br>Studio Management Office</li>
-			<li>Tomoko Ozawa<br>Administrative Assistant,<br>Center for Information Media Studies</li>
 			<li>Atsuko Kato<br>Administrative Assistant,<br>Center for Information Media Studies</li>
-			<li><!-- Keiko Nishimura<br>Administrative Assistant,<br>OCW Administrative Office</li> -->
-			<li>Yoshiko Asano<br>Administrative Assistant,<br>OCW Administrative Office</li>
+			<li>Mina Ohigashi<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			<li>Nobuko Fujii<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 		</tr>
@@ -184,7 +193,7 @@
 			Kazuki Takai<br>
 			Zhong Yang<br>
 			Takahiro Togo<br>
-			Yasunori Nakashima<br>
+			Yasutaka Nakashima<br>
 			Norihiko Namikawa<br>
 			Yukiko Hayashi<br>
 			Yurie Hirabara<br>
