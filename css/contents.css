@@ -552,7 +552,8 @@ div.courselist_center{
 	margin:5px 0;
 }
 
-ul.courselist{
+ul.courselist,
+ul.relatedlink{
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
 	margin: 0;
 	margin-left: 15px;
@@ -572,7 +573,8 @@ li.no_course{ /* 「公開されている授業はありません」の表示 */
 	padding: 0;
 }
 
-li.rel_courselist{ /* 「以下の授業はXX開講科目です」の表示。リスト項目間の間隔を小さく */
+li.rel_courselist,
+li.relatedlink{ /* 「以下の授業はXX開講科目です」の表示。リスト項目間の間隔を小さく */
 	color: #669933;
 	margin: 0 0 7px 7px;
 	padding: 0;

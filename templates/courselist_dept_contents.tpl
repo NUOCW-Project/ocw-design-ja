@@ -22,12 +22,12 @@
 		<td width="10" class="td_left_gray"></td>
 		<td class="td_contents_gray">    
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<h1>部局長挨拶</h1>
+		<h3>部局長挨拶</h3>
 		{$dept_info.description}
 		<!-- 関連リンクデータ -->
-		<p>
-		<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
-		</p>
+		<ul class="relatedlink">
+		<li class="relatedlink"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></li>
+		</ul>
 		<!-- 関連リンクデータ -->
 		</div><!-- 関連リンクコンテンツセル終了 -->
 		</td>
