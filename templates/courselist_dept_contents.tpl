@@ -22,7 +22,7 @@
 		<td width="10" class="td_left_gray"></td>
 		<td class="td_contents_gray">    
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<h3>部局長挨拶</h3>
+		<p>部局長挨拶</p>
 		{$dept_info.description}
 		<!-- 関連リンクデータ -->
 		<ul class="relatedlink">
