@@ -553,12 +553,13 @@ div.courselist_center{
 }
 
 div.dept_info{
-	padding-left: 30px;
+	padding-left: 25px;
+	padding-top: 15px;
 	background: url(../images/ja/t_dept_info.jpg) no-repeat;
 }
 
 div.dept_info_left{
-	padding-top:40px;
+	padding-top:20px;
 }
 
 div.dept_info_contents{
