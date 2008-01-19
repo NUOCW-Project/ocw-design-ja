@@ -552,6 +552,19 @@ div.courselist_center{
 	margin:5px 0;
 }
 
+div.dept_info{
+	width:460px;
+	height:180px;
+	margin:0;
+	padding:25px 45px; 
+}
+
+div.dept_info_contents{
+}
+
+div.dept_info_video{
+}
+
 ul.courselist,
 ul.relatedlink{
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
