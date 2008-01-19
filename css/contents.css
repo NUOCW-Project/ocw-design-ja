@@ -572,7 +572,7 @@ h1.dept_info_title{
 }
 
 div.dept_info_contents{
-	max-height:110px;
+	max-height:105px;
 	overflow:hidden;
 }
 
