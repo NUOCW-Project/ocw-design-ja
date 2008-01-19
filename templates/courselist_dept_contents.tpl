@@ -8,7 +8,6 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents"> 
-	<div class="course_contents"><!-- コンテンツセル開始 -->
 
 	{if $lang=='ja'}
 	<!-- ------部局紹介部分------ -->
@@ -24,6 +23,7 @@
 	<!-- ------部局紹介部分ここまで------ -->
     {/if}
 
+	<div class="course_contents"><!-- コンテンツセル開始 -->
 	<!-- リスト動的に変化させる部分開始 -->
 	<ul class="courselist">
 		{strip}
