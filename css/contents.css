@@ -575,8 +575,8 @@ div.dept_info_link{
 	display: list-item;
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
 	color: #669933;
-	margin-left: 25px;
-	padding-top: 5px;
+	margin-left: 22px;
+	margin-top: 5px;
 }
 
 div.dept_info_contents{
