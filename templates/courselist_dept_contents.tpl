@@ -13,16 +13,12 @@
 	{if $lang=='ja'}
 	<!-- ------部局紹介部分------ -->
 	<div class="dept_info">
-		<div class="dept_info_contents">
 		{$dept_info.description}
 		<!-- 関連リンクデータ -->
 		<ul class="relatedlink">
 		<li class="relatedlink"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></li>
 		</ul>
 		<!-- 関連リンクデータ -->
-		</div>
-		<div class="dept_info_video">
-		</div>
 	</div>
 	<div class="clear"></div>
 	<!-- ------部局紹介部分ここまで------ -->
