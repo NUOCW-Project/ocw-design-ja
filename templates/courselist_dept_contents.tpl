@@ -13,16 +13,10 @@
 	<!-- ------部局紹介部分------ -->
 	<div class="dept_info">
 		<div class="dept_info_left">
-		<h1 class="dept_info_title">部局長挨拶</h1> <!-- 不可視 -->
-		<div class="dept_info_contents">
-			{$dept_info.description|strip|strip_tags|mb_truncate:150}
+			<h1 class="dept_info_title">部局長挨拶</h1> <!-- 不可視 -->
+			<div class="dept_info_contents">{$dept_info.description|strip|strip_tags|mb_truncate:130}</div>
+			<div class="dept_info_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
-		<!-- 関連リンクデータ -->
-		<ul class="relatedlink">
-		<li class="relatedlink"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></li>
-		</ul>
-		</div>
-		<!-- 関連リンクデータ -->
 	</div>
 	<div class="clear"></div>
 	<!-- ------部局紹介部分ここまで------ -->

@@ -571,16 +571,21 @@ h1.dept_info_title{
 	visibility: hidden;
 }
 
+div.dept_info_link{
+	display: list-item;
+	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
+	color: #669933;
+}
+
 div.dept_info_contents{
-	max-height:120px;
+	max-height:115px;
 	overflow:hidden;
 }
 
 div.dept_info_video{
 }
 
-ul.courselist,
-ul.relatedlink{
+ul.courselist{
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
 	margin: 0;
 	margin-left: 15px;
@@ -600,8 +605,7 @@ li.no_course{ /* 「公開されている授業はありません」の表示 */
 	padding: 0;
 }
 
-li.rel_courselist,
-li.relatedlink{ /* 「以下の授業はXX開講科目です」の表示。リスト項目間の間隔を小さく */
+li.rel_courselist { /* 「以下の授業はXX開講科目です」の表示。リスト項目間の間隔を小さく */
 	color: #669933;
 	margin: 0 0 7px 7px;
 	padding: 0;
