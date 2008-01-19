@@ -12,13 +12,15 @@
 	{if $lang=='ja'}
 	<!-- ------部局紹介部分------ -->
 	<div class="dept_info">
-		<div class="dept_info_contents">
+		<div class="dept_info_left">
+		<p class="dept_info_contents">
 			{$dept_info.description}
-		</div>
+		</p>
 		<!-- 関連リンクデータ -->
 		<ul class="relatedlink">
 		<li class="relatedlink"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></li>
 		</ul>
+		</div>
 		<!-- 関連リンクデータ -->
 	</div>
 	<div class="clear"></div>
@@ -44,7 +46,11 @@
 
 	<!-- 現在表示中の部局に関連した授業  -->
 	{foreach from=$rel_course_list item=rel_dept}
-	<p>以下の授業は<a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。
+	<p>
+		{if $lang=='ja'}
+		以下の授業は<a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。{else}
+		[temporary] Related courses at <a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>	
+		{/if}
 	</p>
 	<ul class="courselist">
 		{foreach from=$rel_dept.course_list item="course"}

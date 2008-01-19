@@ -553,10 +553,15 @@ div.courselist_center{
 }
 
 div.dept_info{
+	padding-left: 30px;
 	background: url(../images/ja/t_dept_info.jpg) no-repeat;
 }
 
-div.dept_info_contents{
+div.dept_info_left{
+	padding-top:40px;
+}
+
+p.dept_info_contents{
 	width:300px;
 	height:110px;
 	overflow: hidden;
