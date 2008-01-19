@@ -558,7 +558,7 @@ div.dept_info{
 	margin:0;
 	padding:45px 25px;
 	vertical-align: top;
-	overflow: hidden;
+	overflow: scroll;
 	background: url(../images/ja/t_dept_info.jpg) no-repeat;
 }
 
