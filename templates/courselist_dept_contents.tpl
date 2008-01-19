@@ -23,7 +23,9 @@
 	<!-- ------部局紹介部分ここまで------ -->
     {/if}
 
-	<div class="course_contents"><!-- コンテンツセル開始 -->
+	<!-- コンテンツセル開始 -->
+	<div class="course_contents">
+
 	<!-- リスト動的に変化させる部分開始 -->
 	<ul class="courselist">
 		{strip}
