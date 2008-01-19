@@ -571,17 +571,17 @@ h1.dept_info_title{
 	visibility: hidden;
 }
 
+div.dept_info_contents{
+	max-height:110px;
+	overflow:hidden;
+}
+
 div.dept_info_link{
 	display: list-item;
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
 	color: #669933;
 	margin-left: 20px;
 	margin-top: 5px;
-}
-
-div.dept_info_contents{
-	max-height:115px;
-	overflow:hidden;
 }
 
 div.dept_info_video{
