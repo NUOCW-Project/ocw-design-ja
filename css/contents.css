@@ -565,7 +565,8 @@ div.dept_info_left{
 }
 
 h1.dept_info_title{
-	margin-bottom:0;
+	margin:0;
+	padding:0;
 	height:20px;
 	visibility: hidden;
 	overflow:hidden;
