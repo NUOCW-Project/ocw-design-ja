@@ -15,6 +15,7 @@
 		<div class="dept_info_left">
 			<h1 class="dept_info_title">Éô¶ÉÄ¹°§»¢</h1> <!-- ÉÔ²Ä»ë -->
 			<div class="dept_info_contents">{$dept_info.description|strip|strip_tags|mb_truncate:130}</div>
+			<div class="dept_info_more"><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></div>
 			<div class="dept_info_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
 	</div>
