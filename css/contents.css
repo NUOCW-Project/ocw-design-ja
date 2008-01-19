@@ -556,14 +556,20 @@ div.dept_info{
 	padding-left: 25px;
 	padding-top: 15px;
 	background: url(../images/ja/t_dept_info.jpg) no-repeat;
+	width: 
 }
 
 div.dept_info_left{
-	padding-top:20px;
+	width:300px;
+	height:165px;
 }
 
+h1.dept_info_title{
+	height:20px;
+	visiblity: hidden;
+	overflow:hidden;
+}
 div.dept_info_contents{
-	width:300px;
 	height:110px;
 	overflow: hidden;
 }
