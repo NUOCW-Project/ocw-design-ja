@@ -13,6 +13,7 @@
 	<!-- ------Éô¶É¾Ò²ðÉôÊ¬------ -->
 	<div class="dept_info">
 		<div class="dept_info_left">
+		<h1 class="dept_info_title">Éô¶ÉÄ¹°§»¢</h1>
 		<div class="dept_info_contents">
 			{$dept_info.description}
 		</div>
