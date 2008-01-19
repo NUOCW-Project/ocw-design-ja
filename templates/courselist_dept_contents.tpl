@@ -13,9 +13,9 @@
 	<!-- ------部局紹介部分------ -->
 	<div class="dept_info">
 		<div class="dept_info_left">
-		<p class="dept_info_contents">
+		<div class="dept_info_contents">
 			{$dept_info.description}
-		</p>
+		</div>
 		<!-- 関連リンクデータ -->
 		<ul class="relatedlink">
 		<li class="relatedlink"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></li>

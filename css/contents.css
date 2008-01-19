@@ -558,10 +558,10 @@ div.dept_info{
 }
 
 div.dept_info_left{
-	margin-top:40px;
+	padding-top:40px;
 }
 
-p.dept_info_contents{
+div.dept_info_contents{
 	width:300px;
 	height:110px;
 	overflow: hidden;
