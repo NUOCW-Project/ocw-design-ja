@@ -13,9 +13,9 @@
 	<!-- ------部局紹介部分------ -->
 	<div class="dept_info">
 		<div class="dept_info_left">
-		<h1 class="dept_info_title">部局長挨拶</h1>
+		<h1 class="dept_info_title">部局長挨拶</h1> <!-- 不可視 -->
 		<div class="dept_info_contents">
-			{$dept_info.description}
+			{$dept_info.description|mb_truncate:150}
 		</div>
 		<!-- 関連リンクデータ -->
 		<ul class="relatedlink">
