@@ -569,10 +569,11 @@ h1.dept_info_title{
 	padding:0;
 	height:25px;
 	visibility: hidden;
-	overflow:hidden;
 }
 
 div.dept_info_contents{
+	max-height:120px;
+	overflow:hidden;
 }
 
 div.dept_info_video{
