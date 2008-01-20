@@ -601,6 +601,8 @@ div.dept_info_link{
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
 	color: #669933;
 	margin-left: 20px;
+	padding-top: 0;
+	margin-top: 0;
 }
 
 div.dept_info_video{
