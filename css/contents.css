@@ -562,6 +562,13 @@ div.dept_info{
 div.dept_info_left{
 	width:300px;
 	height:165px;
+	float:left;
+}
+
+div.dept_info_right{
+	width:160px;
+	height:165px;
+	float:right;
 }
 
 h1.dept_info_title{
