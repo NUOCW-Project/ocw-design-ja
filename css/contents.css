@@ -562,12 +562,15 @@ div.dept_info{
 div.dept_info_left{
 	width:300px;
 	height:165px;
+	float:left;
+	background-color: transparent;
 }
 
 div.dept_info_right{
 	width:160px;
 	height:165px;
-	float:right;
+	float:left;
+	background-color: transparent;
 }
 
 h1.dept_info_title{
