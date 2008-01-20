@@ -20,9 +20,9 @@
 		</div>
 		{if $dept_info.vs_url}
 		<div class="dept_info_right">
-			<a href="{$dept_info.vs_url}">{vsyllabus_img id=$dept_info.vs_id name=$dept_info.department_name}</a><br>
-			<strong>画像をクリックするとビデオが見られます。</strong>
-		{* vsyllabus_img の name は本当は教員名. *}
+			<a href="{$dept_info.vs_url}">{vsyllabus_img id=$dept_info.vs_id name=$dept_info.department_name}</a>
+				{* vsyllabus_img の name は本当は教員名. *} -->
+			<img src="./images/ja/t_dept_info_click_to_see.jpg" alt="画像をクリックするとビデオが見られます。">
 		</div>
 		{/if}
 		<div class="clear"></div>
