@@ -18,7 +18,7 @@
 			<div class="dept_info_more"><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></div>
 			<div class="dept_info_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
-		{if $dept_info.url}
+		{if $dept_info.vs_url}
 		<div class="dept_info_right">
 			<a href="{$dept_info.vs_url}">{vsyllabus_img id=$dept_info.vs_id name=$dept_info.department_name}</a>
 		{* vsyllabus_img の name は本当は教員名. *}
