@@ -580,8 +580,8 @@ h1.dept_info_title{
 }
 
 div.dept_info_contents{
-	font-size: 16px;
-	line-height:21px;
+	font-size: 14px;
+	line-height:18px;
 	padding-right:20px;
 	max-height:105px;
 	overflow:hidden;
