@@ -553,6 +553,7 @@ div.courselist_center{
 }
 
 div.dept_info{
+	width: 100%; /* IE のバグ対策のおまじない */
 	padding-left: 25px;
 	padding-top: 18px;
 	background: url(../images/ja/t_dept_info.jpg) no-repeat;
@@ -572,7 +573,6 @@ div.dept_info_right{
 	height:162px;
 	float:left;
 	background-color: transparent;
-	border-width:0;
 }
 
 h1.dept_info_title{
