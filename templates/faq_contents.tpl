@@ -67,8 +67,8 @@
 
 	<div class="faq_color" id="faq07">
 	<p><span class="b">7.「名大の授業」の閲覧に必要なコンピュータ環境を教えてください。</span></p>
-	<p>講座資料をご覧いただくには、Adobe社のAcrobat Readerが必要です。また、ビデオの閲覧には、Microsoft社のWindows Media PlayerまたはRealNetworks社のReal Playerが必要です。</p>
-	<p>Acrobat Reader、Windows Media Player、Real Playerは、以下からダウンロードできます。</p>
+	<p>講座資料をご覧いただくには、Adobe社のAdobe Readerが必要です。また、ビデオの閲覧には、Microsoft社のWindows Media PlayerまたはRealNetworks社のReal Playerが必要です。</p>
+	<p>Adobe Reader、Windows Media Player、Real Playerは、以下からダウンロードできます。</p>
 	<p>
 	<a href="http://www.adobe.co.jp/products/acrobat/readstep2.html" target="_blank"><img src="./images/common/get_adobe_reader.gif" alt="Adobe社 Adobe Readerダウンロードサイトへ" border="0" height="31" width="88"></a>
 	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/common/realone.gif" alt="Real Player ダウンロードサイトへ" border="0" height="31" width="88"></a>

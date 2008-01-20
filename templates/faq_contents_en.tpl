@@ -69,8 +69,8 @@
 
 	<div class="faq_color" id="faq07">
 	<p><span class="b">7. What software do I need to browse the Nagoya University OpenCourseWare (NU OCW)?</span></p>
-	<p>To see the course materials, you need Adobe Acrobat Reader. To watch the videos, you need Microsoft's Windows Media Player or RealNetworks' Real Player.</p>
-	<p>You can download Acrobat Reader, Windows Media Player, Real Player from here:</p>
+	<p>To see the course materials, you need Adobe Reader. To watch the videos, you need Microsoft's Windows Media Player or RealNetworks' Real Player.</p>
+	<p>You can download Adobe Reader, Real Player from here:</p>
 	<p>
 	<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank"><img src="./images/common/get_adobe_reader.gif" alt="Get Adobe Reader" border="0" height="31" width="88"></a>
 	<a href="http://www.real.com/realone/indx.html" target="_blank"><img src="./images/common/realone.gif" alt="Get Real Player" border="0" height="31" width="88"></a>
