@@ -572,6 +572,7 @@ div.dept_info_right{
 	height:162px;
 	float:left;
 	background-color: transparent;
+	border-width:0;
 }
 
 h1.dept_info_title{
