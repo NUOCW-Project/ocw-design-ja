@@ -563,6 +563,8 @@ div.dept_info_left{
 	height:165px;
 	float:left;
 	background-color: transparent;
+	font-size: 14px;  /* デザインの関係で固定 */
+	line-height:18px;
 }
 
 div.dept_info_right{
@@ -580,29 +582,30 @@ h1.dept_info_title{
 }
 
 div.dept_info_contents{
-	font-size: 14px;
-	line-height:18px;
 	padding-right:20px;
-	max-height:105px;
+	max-height:108px;
 	overflow:hidden;
 }
 
 div.dept_info_more{
+	padding-right:5px;
 	text-align: right;
-	position: relative;
-	font-size: 14px;
-	line-height:15px;
-	top: -15px;
+
+	position: relative; /* 上にずらす */
+	top: -16px;
 	z-index: 1;
 }
 
 div.dept_info_link{
 	display: list-item;
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
-	color: #669933;
 	margin-left: 20px;
-	font-size: 14px;
-	line-height:18px;
+
+	color: #669933;
+
+	position: relative; /* 上にずらす */
+	top: -16px;
+	z-index: 1;
 }
 
 ul.courselist{
