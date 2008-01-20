@@ -12,6 +12,7 @@
 	{if $lang=='ja'}
 	<!-- ------部局紹介部分------ -->
 	<div class="dept_info">
+		<div class="clear"></div>
 		<div class="dept_info_left">
 			<h1 class="dept_info_title">部局長挨拶</h1> <!-- 不可視 -->
 			<div class="dept_info_contents">{$dept_info.description|strip|strip_tags|mb_truncate:130}</div>
@@ -24,8 +25,8 @@
 		{* vsyllabus_img の name は本当は教員名. *}
 		</div>
 		{/if}
+		<div class="clear"></div>
 	</div>
-	<div class="clear"></div>
 	<!-- ------部局紹介部分ここまで------ -->
     {/if}
 
