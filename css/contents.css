@@ -591,7 +591,7 @@ div.dept_info_more{
 	text-align: right;
 	position: relative;
 	font-size: 14px;
-	line-height:18px;
+	line-height:15px;
 	top: -15px;
 	z-index: 1;
 }
@@ -601,11 +601,8 @@ div.dept_info_link{
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
 	color: #669933;
 	margin-left: 20px;
-	padding-top: 0;
-	margin-top: 0;
-}
-
-div.dept_info_video{
+	font-size: 14px;
+	line-height:18px;
 }
 
 ul.courselist{
