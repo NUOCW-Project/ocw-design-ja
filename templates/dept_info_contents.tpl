@@ -13,7 +13,7 @@
 	<div class="course_contents">
 	<h1>Éô¶ÉÄ¹°§»¢</h1>
 
-	<div class="welcome_img"></div>
+	<div class="welcome_img"><img src="./images/common/pic_sugi_welcome.jpg" alt="OCW°Ñ°÷Ä¹ ¿ù»³´²¹Ô" width="250" height="250"></div>
 	<p class="welcome_chairperson">
 	{$dept_info.dean_position|strip}<br>
 	{$dept_info.dean_name|strip}
