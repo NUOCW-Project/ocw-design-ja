@@ -13,8 +13,21 @@
 	<div class="course_contents">
 	<h1>Éô¶ÉÄ¹°§»¢</h1>
 
+	<div class="welcome_img"></div>
+	<p class="welcome_chairperson">
+	{$dept_info.dean_position|strip}<br>
+	{$dept_info.dean_name|strip}
+	</p>
 
+	{if $dept_info.vs_url}
+	<div class="welcome_vsyllabus">
+	<a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð">{vsyllabus_img id=$dept_info.vs_id name=$dept_info.department_name}</a>
+	</div>
+	{/if}
+
+	<div class="welcome_contents">
 	{$dept_info.description|strip}
+	</div>
 
 	<!-- ------ Related Link ÉôÊ¬------ -->
 	<table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
