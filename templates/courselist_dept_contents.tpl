@@ -12,7 +12,6 @@
 	{if $lang=='ja'}
 	<!-- ------Éô¶É¾Ò²ğÉôÊ¬------ -->
 	<div class="dept_info">
-		<div class="clear"></div>
 		<div class="dept_info_left">
 			<h1 class="dept_info_title">Éô¶ÉÄ¹°§»¢</h1> <!-- ÉÔ²Ä»ë -->
 			<div class="dept_info_contents">{$dept_info.description|strip|strip_tags|mb_truncate:130}</div>
