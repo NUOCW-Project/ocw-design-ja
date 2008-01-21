@@ -11,23 +11,23 @@
 
 	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
 	<div class="course_contents">
+	{if $lang=='ja'}
 	<h1>Éô¶ÉÄ¹°§»¢</h1>
 
-	<div class="welcome_img"><img src="./images/common/pic_sugi_welcome.jpg" alt="OCW°Ñ°÷Ä¹ ¿ù»³´²¹Ô" width="250" height="250"></div>
-	<p class="welcome_chairperson">
-	{$dept_info.dean_position|strip}<br>
+	<p class="dept_info_dean">
+	{if $dept_info.vs_url}
+	<a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð">{vsyllabus_img id=$dept_info.vs_id name=$dept_info.department_name}</a>
+	{/if}
+	{$dept_info.dean_position|strip}
+	{if $dept_info.vs_url}<br>{else}¡¡{/if}
 	{$dept_info.dean_name|strip}
 	</p>
 
-	{if $dept_info.vs_url}
-	<div class="welcome_vsyllabus">
-	<a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð">{vsyllabus_img id=$dept_info.vs_id name=$dept_info.department_name}</a>
-	</div>
-	{/if}
-
-	<div class="welcome_contents">
+	<div class="dept_info_contents_all">
 	{$dept_info.description|strip}
 	</div>
+
+	{/if}
 
 	<!-- ------ Related Link ÉôÊ¬------ -->
 	<table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
