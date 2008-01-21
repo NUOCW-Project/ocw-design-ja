@@ -656,6 +656,7 @@ p.dept_info_dean img {
 }
 
 div.dept_info_contents_all {
+	clear: left;
 }
 
 /* ------------------FeedBack-------------------- */
