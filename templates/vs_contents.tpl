@@ -42,8 +42,7 @@
 			<td>{vsyllabus_img id=$vs.vsyllabus_id name=$vs.instructor_name}</td>
 			<td class="left">{$vs.course_name}
                              {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span>{/if}</td>
-			<td class="center"><a href="{$vs.url}"><img src="./images/common/b_rv.gif"></a><br>
-					<a href="{$vs.url}"><img src="./images/common/b_fv.gif"></a><br></td>
+			<td class="center"><a href="{$vs.url}"><img src="./images/common/b_rv.gif"></a></td>
 			<td class="left">{$vs.department_name}</td>
 			<td>{$vs.instructor_name}</td>
 		</tr>
@@ -59,15 +58,14 @@
 	<div class="realplayer">
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	{if $lang=='ja'}
-    <p>ビデオの閲覧にはRealNetworks社のRealPlayerかAdobe社のFlashPlayerが必要です。</p>
-	<p>RealPlayerとFlashPlayerは、以下からダウンロードできます。</p>
+    <p>ビデオの閲覧にはRealNetworks社のRealPlayerが必要です。</p>
+	<p>RealPlayerは、以下からダウンロードできます。</p>
     {elseif $lang=='en'}
-    <p>RealPlayer or FlashPlayer are required to run the videos.</p>
-    <p>RealPlayer or FlashPlayer can be downloaded from the following URL:
+    <p>RealPlayer is required to run the videos.</p>
+    <p> RealPlayer can be downloaded from the following URL:
     {/if}
 	<p>
 	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/common/realone.gif" alt="{if $lang=='ja'}RealPlayer ダウンロードサイトへ{elseif $lang=='en'}Download RealPlayer{/if}" border="0" height="31" width="88"></a>
-        <a href="http://www.adobe.com/go/getflashplayer_jp" target="_blank"><img src="./images/common/get_flash_player.gif" alt="{if $lang=='ja'}FlashPlayer ダウンロードサイトへ{elseif $lang=='en'}Download FlashPlayer{/if}" border="0" height="31" width="88"></a>
 	</p>
 	</div>
 	

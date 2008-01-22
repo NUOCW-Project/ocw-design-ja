@@ -214,7 +214,7 @@ table.header{
 
 /* シャドウ付きフレームを構成　*/
 .td_contents{
-	text-align:justify;
+	text-align:justify; 
 	vertical-align: top;
 }
 
@@ -240,7 +240,7 @@ table.header{
 
 /* grayのシャドウ付きフレームを構成　*/
 .td_contents_gray{
-	text-align:justify;
+	text-align:justify; 
 	vertical-align: top;
 	background-color:#eeeeee;
 }
