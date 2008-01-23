@@ -16,11 +16,13 @@
   {/if}
 
 {strip}
-  {* その学部表示時にはボタン画像dummy.gifからチェックマーク付き(hoge_h.gif)に差し替え *}
+  {* コースリスト表示時に, その学部表示時にはボタン画像dummy.gifからチェックマーク付き(hoge_h.gif)に差し替え *}
   <li class="m_{$dept.department_abbr}">
-  {if $curr_department_abbr == $dept.department_abbr}
-  <img src="./images/{$lang}/{$basename}_h.gif" alt="{$dept_name}">
-  {else}<a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/common/dummy.gif" alt="{$dept_name}"></a>
+  {if !$info_only && $curr_department_abbr == $dept.department_abbr}
+    {* info_only は部局長挨拶本文で true. つまりチェックにならない. *}
+    <img src="./images/{$lang}/{$basename}_h.gif" alt="{$dept_name}">
+  {else}
+    <a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/common/dummy.gif" alt="{$dept_name}"></a>
   {/if}
   </li>
 {/strip}

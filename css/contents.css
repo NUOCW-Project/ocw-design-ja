@@ -552,6 +552,71 @@ div.courselist_center{
 	margin:5px 0;
 }
 
+div.dept_info{
+	width: 100%; /* IE のバグ対策のおまじない */
+	padding-left: 25px;
+	padding-top: 18px;
+	background: url(../images/ja/t_dept_info.jpg) no-repeat;
+}
+
+div.dept_info_left{
+	width:307px;
+	height:162px;
+	float:left;
+	background-color: transparent;
+	font-size: 14px;  /* デザインの関係で固定 */
+	line-height:18px;
+}
+
+div.dept_info_right{
+	width:128px;
+	height:162px;
+	float:left;
+	background-color: transparent;
+}
+
+h1.dept_info_title{
+	margin:0;
+	padding:0;
+	height:25px;
+	visibility: hidden;
+}
+
+div.dept_info_contents{
+	padding-right:20px;
+	max-height:108px;
+	overflow:hidden;
+}
+
+div.dept_info_more{
+	padding-right:5px;
+	text-align: right;
+
+	position: relative; /* 上にずらす */
+	top: -16px;
+	z-index: 1;
+}
+
+div.dept_info_link{
+	display: list-item;
+	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
+	margin-left: 20px;
+
+	color: #669933;
+
+	position: relative; /* 上にずらす */
+	top: -16px;
+	z-index: 1;
+}
+
+div.dept_info_vsyllabus{
+}
+
+div.dept_info_click_to_see{
+}
+
+
+
 ul.courselist{
 	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
 	margin: 0;
@@ -572,13 +637,21 @@ li.no_course{ /* 「公開されている授業はありません」の表示 */
 	padding: 0;
 }
 
-li.rel_courselist{ /* 「以下の授業はXX開講科目です」の表示。リスト項目間の間隔を小さく */
+li.rel_courselist { /* 「以下の授業はXX開講科目です」の表示。リスト項目間の間隔を小さく */
 	color: #669933;
 	margin: 0 0 7px 7px;
 	padding: 0;
 }
 
 
+p.dept_info_dean {
+	margin: 5px;
+	text-align: right;
+}
+
+div.dept_info_contents_all {
+	clear: left;
+}
 
 /* ------------------FeedBack-------------------- */
 div.feedback_contents{
