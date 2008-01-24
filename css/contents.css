@@ -678,8 +678,7 @@ div.dept_info_dean_image {
 
 /* IE のバグ対策のテクニックらしい */
 div.dept_info_dean_image_in {
-	padding-left: 5px;
-	padding-right: 5px;
+	padding-left: 10px;
 }
 
 div.dept_info_dean_text {
