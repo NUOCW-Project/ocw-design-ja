@@ -21,7 +21,7 @@
 			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
 		<div class="dept_info_head_right">
-			<div class="dept_info_head_vsyllabus"><a href="{$dept_info.vs_url}" title="1分間部局紹介">{vsyllabus_img id=$dept_info.vs_id name="`$dept_info.dean_position` `$dept_info.dean_name`"}</a></div>
+			<div class="dept_info_head_vsyllabus"><a href="{$dept_info.vs_url}" title="1分間部局紹介">{vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}</a></div>
 			<div class="dept_info_head_click_to_see"><img src="./images/ja/t_dept_info_click_to_see.gif" alt="画像をクリックするとビデオが見られます。"></div>
 		</div>
 		<div class="clear"></div>

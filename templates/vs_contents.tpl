@@ -39,7 +39,7 @@
 		{else}<tr class="even">{/if}
 		
 			<td>{$smarty.foreach.vs_loop.iteration}</td>
-			<td>{vsyllabus_img id=$vs.vsyllabus_id name=$vs.instructor_name}</td>
+			<td>{vsyllabus_img id=$vs.vsyllabus_id alt=$vs.instructor_name}</td>
 			<td class="left">{$vs.course_name}
                              {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span>{/if}</td>
 			<td class="center"><a href="{$vs.url}"><img src="./images/common/b_rv.gif"></a></td>
