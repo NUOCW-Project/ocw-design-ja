@@ -15,13 +15,13 @@
 	<h1>Éô¶ÉÄ¹°§»¢</h1>
 
 	{if $dept_info.vs_url}
-	<p class="dept_info_dean_image">
+	<div class="dept_info_dean_image">
 	<a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð">{vsyllabus_img id=$dept_info.vs_id name="`$dept_info.dean_position` `$dept_info.dean_name`"}</a>
-	</p>
+	</div>
 	{else}
-	<p class="dept_info_dean_text">
+	<div class="dept_info_dean_text">
 	{$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
-	</p>
+	</div>
 	{/if}
 
 	<div class="dept_info_contents_all">
