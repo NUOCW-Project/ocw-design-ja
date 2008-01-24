@@ -671,9 +671,15 @@ li.rel_courselist { /* ¡Ö°Ê²¼¤Î¼ø¶È¤ÏXX³«¹Ö²ÊÌÜ¤Ç¤¹¡×¤ÎÉ½¼¨¡£¥ê¥¹¥È¹àÌÜ´Ö¤Î´Ö³Ö¤
 
 
 div.dept_info_dean_image {
-	width: 128px;
+	width: 138px;
 	height: 126px;
 	float: right;
+}
+
+/* IE ¤Î¥Ð¥°ÂÐºö¤Î¥Æ¥¯¥Ë¥Ã¥¯¤é¤·¤¤ */
+div.dept_info_dean_image_in {
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 div.dept_info_dean_text {
