@@ -15,7 +15,9 @@
 
 	{if $dept_info.vs_url}
 	<div class="dept_info_dean_image"><div class="dept_info_dean_image_in">
+	<a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">
 	{vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}
+	</a>
 	</div></div>
 	{else}
 	<div class="dept_info_dean_text">
@@ -28,13 +30,6 @@
 	</div>
 
 	<div class="clear"></div>
-
-	{if $dept_info.vs_url}
-	<div class="dept_info_vsyllabus">
-	<a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">
-	<img src="./images/{$lang}/b_video_dep.jpg">
-	</a>
-	{/if}
 
 
 
