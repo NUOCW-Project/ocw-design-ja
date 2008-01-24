@@ -39,7 +39,7 @@
 	<div class="realplayer">
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	{if $lang=='ja'}
-    <p>画像をクリックすると部局長の挨拶がご覧いただけます。</p>
+    <p>画像をクリックするとビデオがご覧いただけます。</p>
 	<p>ビデオの閲覧にはRealNetworks社のRealPlayerが必要です。</p>
 	<p>RealPlayerは、以下からダウンロードできます。</p>
     {elseif $lang=='en'}
