@@ -16,11 +16,10 @@
 
 	<p class="dept_info_dean">
 	{if $dept_info.vs_url}
-	<a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð">{vsyllabus_img id=$dept_info.vs_id name=$dept_info.department_name}</a>
+	<a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð">{vsyllabus_img id=$dept_info.vs_id name="`$dept_info.dean_position` `$dept_info.dean_name`"}</a>
+	{else}
+	{$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
 	{/if}
-	{$dept_info.dean_position|strip}
-	{if $dept_info.vs_url}<br>{else}¡¡{/if}
-	{$dept_info.dean_name|strip}
 	</p>
 
 	<div class="dept_info_contents_all">
