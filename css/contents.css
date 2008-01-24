@@ -610,9 +610,13 @@ div.dept_info_link{
 }
 
 div.dept_info_vsyllabus{
+	height:126px;
+	overflow:hidden;
 }
 
 div.dept_info_click_to_see{
+	height:36px;
+	overflow:hidden;
 }
 
 
