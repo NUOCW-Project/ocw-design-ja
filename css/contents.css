@@ -552,14 +552,15 @@ div.courselist_center{
 	margin:5px 0;
 }
 
-div.dept_info{
+div.dept_info_head{
 	width: 100%; /* IE ¤Î¥Ð¥°ÂÐºö¤Î¤ª¤Þ¤¸¤Ê¤¤ */
 	padding-left: 25px;
 	padding-top: 18px;
+	margin-bottom: 20px;
 	background: url(../images/ja/t_dept_info.jpg) no-repeat;
 }
 
-div.dept_info_left{
+div.dept_info_head_left{
 	width:307px;
 	height:162px;
 	float:left;
@@ -568,27 +569,48 @@ div.dept_info_left{
 	line-height:18px;
 }
 
-div.dept_info_right{
+div.dept_info_head_right{
 	width:128px;
 	height:162px;
 	float:left;
 	background-color: transparent;
 }
 
-h1.dept_info_title{
+div.dept_info_head_novideo{
+	width:435px;
+	height:162px;
+	background-color: transparent;
+	font-size: 14px;  /* ¥Ç¥¶¥¤¥ó¤Î´Ø·¸¤Ç¸ÇÄê */
+	line-height:18px;
+}
+
+h1.dept_info_head_title{
 	margin:0;
 	padding:0;
 	height:25px;
 	visibility: hidden;
 }
 
-div.dept_info_contents{
+div.dept_info_head_contents{
 	padding-right:20px;
 	max-height:108px;
 	overflow:hidden;
 }
 
-div.dept_info_more{
+div.dept_info_head_dean {
+	text-align: right;
+	padding-right:20px;
+	max-height: 18px;
+	overflow: hidden;
+}
+
+div.dept_info_head_contents_with_dean{
+	padding-right:20px;
+	max-height:90px;
+	overflow:hidden;
+}
+
+div.dept_info_head_more{
 	padding-right:5px;
 	text-align: right;
 
@@ -597,7 +619,7 @@ div.dept_info_more{
 	z-index: 1;
 }
 
-div.dept_info_link{
+div.dept_info_head_link{
 	display: list-item;
 	list-style-image:url(../images/common/arrow.gif); /* ¥ê¥¹¥È¥Þ¡¼¥¯¤òÌð°õ¤Ë¤¹¤ë */
 	margin-left: 20px;
@@ -609,12 +631,12 @@ div.dept_info_link{
 	z-index: 1;
 }
 
-div.dept_info_vsyllabus{
+div.dept_info_head_vsyllabus{
 	height:126px;
 	overflow:hidden;
 }
 
-div.dept_info_click_to_see{
+div.dept_info_head_click_to_see{
 	height:36px;
 	overflow:hidden;
 }
@@ -648,13 +670,28 @@ li.rel_courselist { /* ¡Ö°Ê²¼¤Î¼ø¶È¤ÏXX³«¹Ö²ÊÌÜ¤Ç¤¹¡×¤ÎÉ½¼¨¡£¥ê¥¹¥È¹àÌÜ´Ö¤Î´Ö³Ö¤
 }
 
 
-p.dept_info_dean {
-	margin: 5px;
+div.dept_info_dean_image {
+	width: 138px;
+	height: 126px;
+	float: right;
+}
+
+/* IE ¤Î¥Ð¥°ÂÐºö¤Î¥Æ¥¯¥Ë¥Ã¥¯¤é¤·¤¤ */
+div.dept_info_dean_image_in {
+	padding-left: 10px;
+}
+
+div.dept_info_dean_text {
+	margin: 10px;
 	text-align: right;
 }
 
 div.dept_info_contents_all {
-	clear: left;
+}
+
+div.dept_info_vsyllabus {
+	text-align: right;
+	margin:0 20px 10px 0;
 }
 
 /* ------------------FeedBack-------------------- */

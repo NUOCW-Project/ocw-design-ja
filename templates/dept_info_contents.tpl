@@ -11,22 +11,47 @@
 
 	<!-- コンテンツセル開始 -->
 	<div class="course_contents">
-	{if $lang=='ja'}
 	<h1>部局長挨拶</h1>
 
-	<p class="dept_info_dean">
 	{if $dept_info.vs_url}
-	<a href="{$dept_info.vs_url}" title="1分間部局紹介">{vsyllabus_img id=$dept_info.vs_id name="`$dept_info.dean_position` `$dept_info.dean_name`"}</a>
+	<div class="dept_info_dean_image"><div class="dept_info_dean_image_in">
+	<a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">
+	{vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}
+	</a>
+	</div></div>
 	{else}
+	<div class="dept_info_dean_text">
 	{$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
+	</div>
 	{/if}
-	</p>
 
 	<div class="dept_info_contents_all">
 	{$dept_info.description|strip}
 	</div>
 
+	<div class="clear"></div>
+
+
+
+	{if $dept_info.vs_url}
+	<!-- ------ RealPlayer の案内 ------ -->
+	<div class="realplayer">
+	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+	{if $lang=='ja'}
+	<p>画像をクリックすると、1分間部局紹介ビデオがご覧いただけます。</p>
+	<p>ビデオの閲覧にはRealNetworks社のRealPlayerが必要です。</p>
+	<p>RealPlayerは、以下からダウンロードできます。</p>
+    {elseif $lang=='en'}
+    <p>RealPlayer is required to run the videos.</p>
+    <p>RealPlayer can be downloaded from the following URL:
+    {/if}
+	<p>
+	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/common/realone.gif" alt="{if $lang=='ja'}RealPlayer ダウンロードサイトへ{elseif $lang=='en'}Download RealPlayer{/if}" border="0" height="31" width="88"></a>
+	</p>
+	</div>
 	{/if}
+
+
 
 	<!-- ------ Related Link 部分------ -->
 	<table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">

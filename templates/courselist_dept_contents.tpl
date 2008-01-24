@@ -11,21 +11,30 @@
 
 	{if $lang=='ja'}
 	<!-- ------部局紹介部分------ -->
-	<div class="dept_info">
-		<div class="dept_info_left">
-			<h1 class="dept_info_title">部局長挨拶</h1> <!-- 不可視 -->
-			<div class="dept_info_contents">{$dept_info.description|strip|strip_tags|mb_truncate:130}</div>
-			<div class="dept_info_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
-			<div class="dept_info_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
-		</div>
+	<div class="dept_info_head">
 		{if $dept_info.vs_url}
-		<div class="dept_info_right">
-			<div class="dept_info_vsyllabus"><a href="{$dept_info.vs_url}" title="1分間部局紹介">{vsyllabus_img id=$dept_info.vs_id name="`$dept_info.dean_position` `$dept_info.dean_name`"}</a></div>
-				{* vsyllabus_img の name は本当は教員名. *} 
-			<div class="dept_info_click_to_see"><img src="./images/ja/t_dept_info_click_to_see.gif" alt="画像をクリックするとビデオが見られます。"></div>
+		{* ビデオあり *}
+		<div class="dept_info_head_left">
+			<h1 class="dept_info_head_title">部局長挨拶</h1> <!-- 不可視 -->
+			<div class="dept_info_head_contents">{$dept_info.description|strip|strip_tags|mb_truncate:130}</div>
+			<div class="dept_info_head_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
+			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
+		</div>
+		<div class="dept_info_head_right">
+			<div class="dept_info_head_vsyllabus"><a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">{vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}</a></div>
+			<div class="dept_info_head_click_to_see"><img src="./images/ja/t_dept_info_click_to_see.png" alt="画像をクリックするとビデオが見られます。"></div>
+		</div>
+		<div class="clear"></div>
+		{else}
+		{* ビデオなし *}
+		<div class="dept_info_head_novideo">
+			<h1 class="dept_info_head_title">部局長挨拶</h1> <!-- 不可視 -->
+			<div class="dept_info_head_dean">{$dept_info.dean_position} {$dept_info.dean_name}</a></div>
+			<div class="dept_info_head_contents_with_dean">{$dept_info.description|strip|strip_tags|mb_truncate:150}</div>
+			<div class="dept_info_head_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
+			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
 		{/if}
-		<div class="clear"></div>
 	</div>
 	<!-- ------部局紹介部分ここまで------ -->
     {/if}
@@ -63,6 +72,25 @@
 		{/foreach}
 	</ul>
 	{/foreach}	
+
+
+	{if $lang=='ja' && $dept_info.vs_url}
+	<!-- ------ RealPlayer の案内 ------ -->
+	<div class="realplayer">
+	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+	{if $lang=='ja'}
+	<p>ビデオの閲覧にはRealNetworks社のRealPlayerが必要です。</p>
+	<p>RealPlayerは、以下からダウンロードできます。</p>
+    {elseif $lang=='en'}
+    <p>RealPlayer is required to run the videos.</p>
+    <p>RealPlayer can be downloaded from the following URL:
+    {/if}
+	<p>
+	<a href="http://japan.real.com/player/" target="_blank"><img src="./images/common/realone.gif" alt="{if $lang=='ja'}RealPlayer ダウンロードサイトへ{elseif $lang=='en'}Download RealPlayer{/if}" border="0" height="31" width="88"></a>
+	</p>
+	</div>
+	{/if}
+
 
     {if $lang=='en'}
 	<!-- ------ Related Link 部分------ -->
