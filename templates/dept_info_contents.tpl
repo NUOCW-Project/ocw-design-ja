@@ -14,18 +14,21 @@
 	{if $lang=='ja'}
 	<h1>Éô¶ÉÄ¹°§»¢</h1>
 
-	<p class="dept_info_dean">
 	{if $dept_info.vs_url}
+	<p class="dept_info_dean_image">
 	<a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð">{vsyllabus_img id=$dept_info.vs_id name="`$dept_info.dean_position` `$dept_info.dean_name`"}</a>
-	{else}
-	{$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
-	{/if}
 	</p>
+	{else}
+	<p class="dept_info_dean_text">
+	{$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
+	</p>
+	{/if}
 
 	<div class="dept_info_contents_all">
 	{$dept_info.description|strip}
 	</div>
 
+	<div class="clear"></div>
 	{/if}
 
 	<!-- ------ Related Link ÉôÊ¬------ -->
