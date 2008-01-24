@@ -689,6 +689,11 @@ div.dept_info_dean_text {
 div.dept_info_contents_all {
 }
 
+div.dept_info_vsyllabus {
+	text-align: right;
+	margin:0 20px 10px 0;
+}
+
 /* ------------------FeedBack-------------------- */
 div.feedback_contents{
 	text-align:left;

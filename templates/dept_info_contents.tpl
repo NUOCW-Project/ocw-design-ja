@@ -11,15 +11,12 @@
 
 	<!-- コンテンツセル開始 -->
 	<div class="course_contents">
-	{if $lang=='ja'}
 	<h1>部局長挨拶</h1>
 
 	{if $dept_info.vs_url}
-	<div class="dept_info_dean_image">
-	<div class="dept_info_dean_image_in">
-	<a href="{$dept_info.vs_url}" title="1分間部局紹介">{vsyllabus_img id=$dept_info.vs_id name="`$dept_info.dean_position` `$dept_info.dean_name`"}</a>
-	</div>
-	</div>
+	<div class="dept_info_dean_image"><div class="dept_info_dean_image_in">
+	{vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}
+	</div></div>
 	{else}
 	<div class="dept_info_dean_text">
 	{$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
@@ -31,15 +28,21 @@
 	</div>
 
 	<div class="clear"></div>
+
+	{if $dept_info.vs_url}
+	<div class="dept_info_vsyllabus">
+	<a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">
+	<img src="./images/{$lang}/b_video_dep.jpg">
+	</a>
 	{/if}
 
 
-	{if $lang=='ja' && $dept_info.vs_url}
+
+	{if $dept_info.vs_url}
 	<!-- ------ RealPlayer の案内 ------ -->
 	<div class="realplayer">
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	{if $lang=='ja'}
-    <p>画像をクリックするとビデオがご覧いただけます。</p>
 	<p>ビデオの閲覧にはRealNetworks社のRealPlayerが必要です。</p>
 	<p>RealPlayerは、以下からダウンロードできます。</p>
     {elseif $lang=='en'}
