@@ -16,7 +16,7 @@
 		{* ¥Ó¥Ç¥ª¤¢¤ê *}
 		<div class="dept_info_head_left">
 			<h1 class="dept_info_head_title">Éô¶ÉÄ¹°§»¢</h1> <!-- ÉÔ²Ä»ë -->
-			<div class="dept_info_head_contents">{$dept_info.description|replace:"<h3>":"¡Ú"|replace:"</h3>":"¡Û"|strip|strip_tags|mb_truncate:130}</div>
+			<div class="dept_info_head_contents">{$dept_info.description|regex_replace:"/<h.>/":"¡Ú"|regex_replace:"/<\/h.>/":"¡Û"|strip|strip_tags|mb_truncate:130}</div>
 			<div class="dept_info_head_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
 			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
