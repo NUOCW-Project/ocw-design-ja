@@ -9,7 +9,7 @@
 	<td width="10" class="td_left"></td>
 	<td class="td_contents"> 
 
-	{if $lang=='ja'}
+	{if $lang=='ja' && $dept_info.description != ''}
 	<!-- ------部局紹介部分------ -->
 	<div class="dept_info_head">
 		{if $dept_info.vs_url}
@@ -92,7 +92,7 @@
 	{/if}
 
 
-    {if $lang=='en'}
+	{if $lang=='en' || $dept_info.description != ''}
 	<!-- ------ Related Link 部分------ -->
 	<table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
 	<tr>
@@ -104,10 +104,11 @@
 		<td width="10" class="td_left_gray"></td>
 		<td class="td_contents_gray">    
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<p>&loz; Related Link</p>
+		<p>{if $lang=='ja'}●関連リンク{else}&loz; Related Link{/if}</p>
 		<!-- 関連リンクデータ -->
 		<p>
-		<a href="{$dept_info.department_url_e}">{$dept_info.department_name_e}</a>
+		{if $lang == "ja"}<a href="{$dept.department_url}">{$dept.department_name}</a>
+		{else}<a href="{$dept.department_url_e}">{$dept.department_name_e}</a>{/if}
 		</p>
 		<!-- 関連リンクデータ -->
 		</div><!-- 関連リンクコンテンツセル終了 -->
