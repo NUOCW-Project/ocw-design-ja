@@ -214,6 +214,9 @@
   <colgroup class="farewell_place"></colgroup>
   <colgroup class="farewell_inq"></colgroup>
   <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
     <td>3月7日<br>16:30-17:30</td>
     <td>妹尾久雄教授／<br>私の楽しい27年間の内分泌研究</td>
     <td>グリーンサロン東山</td>
@@ -379,6 +382,9 @@
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
   <colgroup class="farewell_inq"></colgroup>
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
   <tr>
     <td>未定<br></td>
     <td>小川忠彦教授／<br>未定</td>
