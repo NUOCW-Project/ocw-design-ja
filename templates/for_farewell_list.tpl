@@ -33,8 +33,7 @@
 <table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
 <tr>
   
-  <td><img src="./images/ja/d_farewell.jpg" alt="名古屋大学 退職記念講義 3月上旬公開予定：
-名大OCWで調査した退職記念講義は以下の通りです。最新情報については各講義の問い合わせ先へご確認ください。"></td>
+  <td><img src="./images/ja/d_farewell.jpg" alt="名古屋大学 退職記念講義 3月上旬公開予定"></td>
 
 </tr>
 </table>
@@ -124,9 +123,10 @@
   <div class="course_contents">
   <h1>平成19年度 退職記念講義</h1>
   <ul>
-    <li>最終講義の一部は「名大の授業」コンテンツとして掲載する予定です。
-    <li>名大OCW事務室で調査した最終講義の一覧は次のとおりです（平成２０年 １月９日現在）．
-    <li>最新情報については、各講義の問い合わせ先へご確認下さい。
+    <li>最終講義の一部は「名大の授業」コンテンツとして掲載する予定です。</li>
+    <li>名大OCW事務室で調査した最終講義の一覧は次のとおりです。（平成20年1月21日現在）</li>
+    <li>最新情報については、各講義の問い合わせ先へご確認下さい。</li>
+	<li>来場については、各講義の問い合わせ先へご確認下さい。</li>
   </ul>
 
   <h2>文学部・文学研究科</h2>
@@ -194,12 +194,6 @@
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
   <tr>
-    <td>3月7日<br>16:30-17:30</td>
-    <td>妹尾久雄教授／<br>私の楽しい27年間の内分泌研究</td>
-    <td>グリーンサロン東山</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>3月11日<br>15:00-16:00</td>
     <td>吉田純教授／<br>未定</td>
     <td>基礎医学研究棟第4講義室</td>
@@ -210,6 +204,23 @@
     <td>島田康弘教授／<br>未定</td>
     <td>基礎医学研究棟第4講義室</td>
     <td>島田研究室<br>（内81-2340）</td>
+  </tr>
+  </table>
+
+  <h2>環境医学研究所</h2>
+  <table class="farewell">
+  <colgroup class="farewell_date"></colgroup>
+  <colgroup class="farewell_title"></colgroup>
+  <colgroup class="farewell_place"></colgroup>
+  <colgroup class="farewell_inq"></colgroup>
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td>3月7日<br>16:30-17:30</td>
+    <td>妹尾久雄教授／<br>私の楽しい27年間の内分泌研究</td>
+    <td>グリーンサロン東山</td>
+    <td></td>
   </tr>
   </table>
 
@@ -318,13 +329,13 @@
     <td>3月14日<br>15:00-16:00</td>
     <td>浪川幸彦教授／<br>未定</td>
     <td>理学部1号館509号室</td>
-    <td></td>
+    <td>浪川教授</td>
   </tr>
   <tr>
     <td>3月14日<br>16:15-17:15</td>
     <td>梅村浩教授／<br>未定</td>
     <td>理学部1号館509号室</td>
-    <td></td>
+    <td>梅村教授</td>
   </tr>
   </table>
 
@@ -342,7 +353,7 @@
     <td>1月25日<br>14:45-16:15</td>
     <td>中井政喜教授 ／<br>魯迅の小説『離婚』について</td>
     <td>全学教育棟S13教室</td>
-    <td>丸尾准教授<!--maruo@lang.nagoya-u.ac.jp--></td>
+    <td>国際言語文化研究科<br>丸尾誠准教授</td>
   </tr>
   </table>
 
@@ -357,22 +368,33 @@
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
   <tr>
-    <td>3月22日<br>13:00-18:00</td>
-    <td>山田功夫教授／<br>未定</td>
-    <td>環境総合館レクチャーホール</td>
+    <td>3月22日<br>17:00頃-</td>
+    <td>山田功夫教授／<br>地球惑星科学における観測</td>
+    <td>環境総合館1Fレクチャーホール</td>
     <td>シンポジウムと併せて実施<br>
         <a href="http://www.seis.nagoya-u.ac.jp/" target="_blank">地震火山・防災研究センター</a></td>
   </tr>
+  </table>
+
+  <h2>太陽地球環境研究所</h2>
+  <table class="farewell">
+  <colgroup class="farewell_date"></colgroup>
+  <colgroup class="farewell_title"></colgroup>
+  <colgroup class="farewell_place"></colgroup>
+  <colgroup class="farewell_inq"></colgroup>
   <tr>
-    <td><br></td>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td>未定<br></td>
     <td>小川忠彦教授／<br>未定</td>
-    <td></td>
+    <td>未定</td>
     <td></td>
   </tr>
   <tr>
-    <td><br></td>
+    <td>未定<br></td>
     <td>小島正宣教授／<br>未定</td>
-    <td></td>
+    <td>未定</td>
     <td></td>
   </tr>
   </table>
