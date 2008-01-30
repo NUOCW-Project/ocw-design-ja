@@ -709,6 +709,14 @@ table.farewell td{
 	border: 1px solid #999999;
 }
 
+colgroup.farewell_date {
+}
+colgroup.farewell_title {
+}
+colgroup.farewell_place {
+}
+colgroup.farewell_inq {
+}
 
 
 /* ------------------FeedBack-------------------- */
