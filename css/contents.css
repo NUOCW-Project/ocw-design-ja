@@ -694,6 +694,12 @@ div.dept_info_vsyllabus {
 	margin:0 20px 10px 0;
 }
 
+table.farewell {
+	margin:0 10px 20px 10px;
+}
+
+
+
 /* ------------------FeedBack-------------------- */
 div.feedback_contents{
 	text-align:left;

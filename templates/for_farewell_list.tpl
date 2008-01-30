@@ -130,7 +130,7 @@
   </ul>
 
   <h2>文学部・文学研究科</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -144,7 +144,7 @@
 
 <!--
   <h2>法学部・法学研究科</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -159,7 +159,7 @@
 
 <!--
   <h2>情報文化学部</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -173,7 +173,7 @@
 -->
 
   <h2>医学部・医学系研究科</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -199,7 +199,7 @@
 
 
   <h2>工学部・工学研究科</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -231,7 +231,7 @@
 
 
   <h2>農学部・生命農学研究科</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -263,7 +263,7 @@
 
 <!--
   <h2>情報科学研究科</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -278,7 +278,7 @@
 
 
   <h2>多元数理科学研究科</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -298,7 +298,7 @@
 
 
   <h2>国際言語文化研究科</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -312,7 +312,7 @@
 
 
   <h2>環境学研究科</h2>
-  <table class="basic">
+  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
