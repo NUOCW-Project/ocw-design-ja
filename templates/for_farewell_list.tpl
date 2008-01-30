@@ -105,6 +105,9 @@
 <li class="m_ecis"><a href="index.php?lang=ja&mode=l&page_type=ecis"><img src="./images/common/dummy.gif" alt="留学生センター"></a></li>
   <li class="preload"><img src="./images/ja/md_ecis_on.jpg" alt=""></li>
 
+
+<li><a href="index.php?lang=ja&mode=l&page_type=farewell"><img src="./images/ja/b_farewell.jpg" alt="退職記念講義"></a></li>
+
 </ul>
 </div><div class="center_contents"> 
 <table class="center_contents" width="480" border="0" cellpadding="0" cellspacing="0" summary="">
@@ -119,21 +122,219 @@
 
   
   <div class="course_contents">
+  <h1>平成19年度 退職記念講義</h1>
+  <ul>
+    <li>最終講義の一部は「名大の授業」コンテンツとして掲載する予定です。
+    <li>名大OCW事務室で調査した最終講義の一覧は次のとおりです（平成２０年 １月９日現在）．
+    <li>最新情報については、各講義の問い合わせ先へご確認下さい。
+  </ul>
 
-  
+  <h2>文学部・文学研究科</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td>1月28日<br>15:00〜16:00</td>
+    <td>山田弘明教授／<br>西洋近世哲学と神</td>
+    <td>文学部237講義室</td>
+    <td>文学部総務：坪井（内2017）</td>
+  </tr>
+  </table>
+
+<!--
+  <h2>法学部・法学研究科</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td>／<br></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+-->
+
+<!--
+  <h2>情報文化学部</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td>／<br></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+-->
+
+  <h2>医学部・医学系研究科</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td>3月7日<br>16:30〜17:30</td>
+    <td>妹尾久雄教授／<br>私の楽しい27年間の内分泌研究</td>
+    <td>グリーンサロン東山</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3月11日<br>15:00〜16:00</td>
+    <td>吉田純教授／未定<br></td>
+    <td>基礎医学研究棟第4講義室</td>
+    <td>吉田研究室（内81-2355）</td>
+  </tr>
+  <tr>
+    <td>3月14日<br>17:00〜18:00</td>
+    <td>島田康弘教授／未定<br></td>
+    <td>基礎医学研究棟第4講義室</td>
+    <td>島田研究室（内81-2340）</td>
+  </tr>
+  </table>
 
 
+  <h2>工学部・工学研究科</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td>2月22日<br>15:30〜17:00</td>
+    <td>沓名宗春教授／<br>溶接ワイヤーからALIMSの開発まで40年</td>
+    <td>工学研究科1号館2F121講義室</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2月29日<br>13:00〜14:30</td>
+    <td>桑原守教授／<br>材料反応工学の道40年</td>
+    <td>工学部4号館中央棟3F講会議室 </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2月29日<br>15:00〜16:30</td>
+    <td>宮田隆司教授／<br>破壊力学と材料―力学屋の材料強度学―</td>
+    <td>工学部4号館中央棟3F講会議室 </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3月11日<br>15:00〜</td>
+    <td>坂田誠教授／<br>海洋観測船・中性子回折・放射光科学・・・</td>
+    <td>工学部研究科1号館2F121講義室 </td>
+    <td></td>
+  </tr>
+  </table>
 
 
+  <h2>農学部・生命農学研究科</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td>2月21日<br>13:35〜14:20</td>
+    <td>福田勝洋教授 ／<br>動物に助けられて</td>
+    <td>農学部講義棟第12講義室</td>
+    <td>農学部庶務：鈴木（内4585） </td>
+  </tr>
+  <tr>
+    <td>2月21日<br>14:25〜15:10</td>
+    <td>山木昭平教授 ／<br>果物そして人との出会い</td>
+    <td>農学部講義棟第12講義室</td>
+    <td>農学部庶務：鈴木（内4585） </td>
+  </tr>
+  <tr>
+    <td>2月21日<br>15:15〜16:00</td>
+    <td>磯部稔教授 ／<br>生物有機化学40年の展開</td>
+    <td>農学部講義棟第12講義室</td>
+    <td>農学部庶務：鈴木（内4585） </td>
+  </tr>
+  <tr>
+    <td>2月21日<br>16:05〜16:50</td>
+    <td>島田清司教授 ／<br>「ニワトリ研究の世界の先達となれ」を目指して</td>
+    <td>農学部講義棟第12講義室</td>
+    <td>農学部庶務：鈴木（内4585） </td>
+  </tr>
+  </table>
+
+<!--
+  <h2>情報科学研究科</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td>／<br></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+-->
 
 
+  <h2>多元数理科学研究科</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td>3月14日<br>15:00〜16:00</td>
+    <td>浪川幸彦教授／未定<br></td>
+    <td>理学部1号館509号室</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3月14日<br>16:15-17:15</td>
+    <td>梅村浩教授／未定<br></td>
+    <td>理学部1号館509号室</td>
+    <td></td>
+  </tr>
+  </table>
 
 
+  <h2>国際言語文化研究科</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td>1月25日<br>14:45〜16:15</td>
+    <td>中井政喜教授 ／<br>魯迅の小説『離婚』について</td>
+    <td>全学教育棟S13教室</td>
+    <td>丸尾准教授 maruo@lang.nagoya-u.ac.jp</td>
+  </tr>
+  </table>
 
 
-
-
-
+  <h2>環境学研究科</h2>
+  <table class="basic">
+  <tr>
+    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+  </tr>
+  <tr>
+    <td>3月22日<br>13:00-18:00</td>
+    <td>山田功夫教授／<br>未定</td>
+    <td>環境総合館レクチャーホール</td>
+    <td>シンポジウムと併せて実施　http://www.seis.nagoya-u.ac.jp/</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td>小川忠彦教授／<br>未定</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td>小島正宣教授／<br>未定</td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
 
   </div>  
 
