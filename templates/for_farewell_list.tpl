@@ -342,7 +342,7 @@
     <td>1月25日<br>14:45-16:15</td>
     <td>中井政喜教授 ／<br>魯迅の小説『離婚』について</td>
     <td>全学教育棟S13教室</td>
-    <td>丸尾准教授 maruo@lang.nagoya-u.ac.jp</td>
+    <td>丸尾准教授<!--maruo@lang.nagoya-u.ac.jp--></td>
   </tr>
   </table>
 
@@ -360,7 +360,8 @@
     <td>3月22日<br>13:00-18:00</td>
     <td>山田功夫教授／<br>未定</td>
     <td>環境総合館レクチャーホール</td>
-    <td>シンポジウムと併せて実施　http://www.seis.nagoya-u.ac.jp/</td>
+    <td>シンポジウムと併せて実施<br>
+        <a href="http://www.seis.nagoya-u.ac.jp/" target="_blank">地震火山・防災研究センター</a></td>
   </tr>
   <tr>
     <td><br></td>
