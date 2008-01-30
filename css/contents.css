@@ -694,6 +694,35 @@ div.dept_info_vsyllabus {
 	margin:0 20px 10px 0;
 }
 
+table.farewell {
+	border:0;
+	margin:0 10px 25px 10px;
+	border-collapse: collapse;
+	white-space:normal;
+}
+
+table.farewell th{
+	border: 1px solid #999999;
+}
+
+table.farewell td{
+	border: 1px solid #999999;
+}
+
+colgroup.farewell_date {
+	width: 90px;
+}
+colgroup.farewell_title {
+	width: 140px;
+}
+colgroup.farewell_place {
+	width: 80px;
+}
+colgroup.farewell_inq {
+	width: 120px;
+}
+
+
 /* ------------------FeedBack-------------------- */
 div.feedback_contents{
 	text-align:left;
