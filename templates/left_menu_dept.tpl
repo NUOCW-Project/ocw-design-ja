@@ -29,5 +29,8 @@
   <li class="preload"><img src="./images/{$lang}/{$basename}_on.jpg" alt=""></li>
 {/foreach}
 
+  {if $lang=='ja'}
+  <li><a href="index.php?lang=ja&mode=l&page_type=farewell"><img src="./images/ja/b_farewell.jpg" alt="Âà¿¦µ­Ç°¹ÖµÁ"></a></li>
+  {/if}
 </ul>
 </div>
