@@ -201,13 +201,13 @@
   </tr>
   <tr>
     <td>3月11日<br>15:00-16:00</td>
-    <td>吉田純教授／未定<br></td>
+    <td>吉田純教授／<br>未定</td>
     <td>基礎医学研究棟第4講義室</td>
     <td>吉田研究室（内81-2355）</td>
   </tr>
   <tr>
     <td>3月14日<br>17:00-18:00</td>
-    <td>島田康弘教授／未定<br></td>
+    <td>島田康弘教授／<br>未定</td>
     <td>基礎医学研究棟第4講義室</td>
     <td>島田研究室（内81-2340）</td>
   </tr>
@@ -251,35 +251,35 @@
 
 
   <h2>農学部・生命農学研究科</h2>
+  <table class="farewell">
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
   <colgroup class="farewell_inq"></colgroup>
-  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
   <tr>
     <td>2月21日<br>13:35-14:20</td>
-    <td>福田勝洋教授 ／<br>動物に助けられて</td>
+    <td>福田勝洋教授／<br>動物に助けられて</td>
     <td>農学部講義棟第12講義室</td>
     <td>農学部庶務：鈴木（内4585） </td>
   </tr>
   <tr>
     <td>2月21日<br>14:25-15:10</td>
-    <td>山木昭平教授 ／<br>果物そして人との出会い</td>
+    <td>山木昭平教授／<br>果物そして人との出会い</td>
     <td>農学部講義棟第12講義室</td>
     <td>農学部庶務：鈴木（内4585） </td>
   </tr>
   <tr>
     <td>2月21日<br>15:15-16:00</td>
-    <td>磯部稔教授 ／<br>生物有機化学40年の展開</td>
+    <td>磯部稔教授／<br>生物有機化学40年の展開</td>
     <td>農学部講義棟第12講義室</td>
     <td>農学部庶務：鈴木（内4585） </td>
   </tr>
   <tr>
     <td>2月21日<br>16:05-16:50</td>
-    <td>島田清司教授 ／<br>「ニワトリ研究の世界の先達となれ」を目指して</td>
+    <td>島田清司教授／<br>「ニワトリ研究の世界の先達となれ」を目指して</td>
     <td>農学部講義棟第12講義室</td>
     <td>農学部庶務：鈴木（内4585） </td>
   </tr>
@@ -306,23 +306,23 @@
 
 
   <h2>多元数理科学研究科</h2>
+  <table class="farewell">
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
   <colgroup class="farewell_inq"></colgroup>
-  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
   <tr>
     <td>3月14日<br>15:00-16:00</td>
-    <td>浪川幸彦教授／未定<br></td>
+    <td>浪川幸彦教授／<br>未定</td>
     <td>理学部1号館509号室</td>
     <td></td>
   </tr>
   <tr>
     <td>3月14日<br>16:15-17:15</td>
-    <td>梅村浩教授／未定<br></td>
+    <td>梅村浩教授／<br>未定</td>
     <td>理学部1号館509号室</td>
     <td></td>
   </tr>
@@ -330,11 +330,11 @@
 
 
   <h2>国際言語文化研究科</h2>
+  <table class="farewell">
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
   <colgroup class="farewell_inq"></colgroup>
-  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>
@@ -348,11 +348,11 @@
 
 
   <h2>環境学研究科</h2>
+  <table class="farewell">
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
   <colgroup class="farewell_inq"></colgroup>
-  <table class="farewell">
   <tr>
     <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
   </tr>

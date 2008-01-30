@@ -710,12 +710,16 @@ table.farewell td{
 }
 
 colgroup.farewell_date {
+	width: 100px;
 }
 colgroup.farewell_title {
+	width: 100px;
 }
 colgroup.farewell_place {
+	width: 100px;
 }
 colgroup.farewell_inq {
+	width: 100px;
 }
 
 
