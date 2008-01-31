@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=EUC-JP">
 <link rel="stylesheet" type="text/css" href="./css/common.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
-<link rel="stylesheet" type="text/css" href="./css/fontsize_s.css" media="all">
+<link rel="stylesheet" type="text/css" href="./css/fontsize_{ldelim}$smarty.session.fontsize|default:s{rdelim}.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/left_menu_ja.css" media="all">
 <title>
 名大の授業 Nagoya University OpenCourseWare || 退職記念講義
@@ -18,10 +18,28 @@
 
 </div>
 
-
-<div class="language"><br>
-<img src="./images/ja/size.gif" alt="文字サイズ"><a href="select_fontsize.php?fontsize=l"><img src="./images/ja/size_l.gif" alt="大"></a><img src="./images/ja/size_s.gif" alt="小">
+{strip}
+<div class="language">
+<br>
+{literal}
+{strip}
+  <img src="./images/ja/size.gif" alt="文字サイズ">
+  {if ! isset($smarty.session.fontsize) || $smarty.session.fontsize == "s"}
+    <a href="select_fontsize.php?fontsize=l">
+    <img src="./images/ja/size_l.gif" alt="大"></a><img src="./images/ja/size_s.gif" alt="小">
+  {/if}
+  {if $smarty.session.fontsize == "l"}
+    <img src="./images/ja/size_l.gif" alt="大">
+    <a href="select_fontsize.php?fontsize=s"><img src="./images/ja/size_s.gif" alt="小"></a>
+  {/if}
+{/strip}
+{/literal}
 </div>
+{/strip}
+
+
+
+
 <div class="header_menu">
 <a href="index.php?lang=ja&mode=g&page_type=about"><img src="./images/ja/01about.gif" alt="|名大の授業について|"></a>
 <a href="index.php?lang=ja&mode=g&page_type=legal"><img src="./images/ja/02legal.gif" alt="|ご利用にあたって|"></a>
@@ -33,7 +51,13 @@
 <table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
 <tr>
   
-  <td><img src="./images/ja/d_farewell.jpg" alt="名古屋大学 退職記念講義 3月上旬公開予定"></td>
+  <td>
+  <img src="./images/ja/d_farewell.jpg"
+       alt="名古屋大学 退職記念講義 3月上旬公開予定：
+    退職記念講義の一部は「名大の授業」コンテンツとして掲載する予定です／
+    最新情報については、各講義の問い合わせ先へご確認下さい／
+	来場については、各講義の問い合わせ先へご確認下さい">
+  </td>
 
 </tr>
 </table>
@@ -121,13 +145,10 @@
 
   
   <div class="course_contents">
-  <h1>平成19年度 退職記念講義</h1>
-  <ul>
-    <li>最終講義の一部は「名大の授業」コンテンツとして掲載する予定です。</li>
-    <li>名大OCW事務室で調査した最終講義の一覧は次のとおりです。（平成20年1月21日現在）</li>
-    <li>最新情報については、各講義の問い合わせ先へご確認下さい。</li>
-	<li>来場については、各講義の問い合わせ先へご確認下さい。</li>
-  </ul>
+  <p>
+    名大OCW事務室で調査した最終講義の一覧は次のとおりです。<br>
+  （平成20年1月21日現在）
+  </p>
 
   <h2>文学部・文学研究科</h2>
   <table class="farewell">
@@ -197,15 +218,16 @@
     <td>3月11日<br>15:00-16:00</td>
     <td>吉田純教授／<br>未定</td>
     <td>基礎医学研究棟第4講義室</td>
-    <td>吉田研究室<br>（内81-2355）</td>
+    <td>脳神経外科教室<br>（内81-2355）</td>
   </tr>
   <tr>
     <td>3月14日<br>17:00-18:00</td>
     <td>島田康弘教授／<br>未定</td>
     <td>基礎医学研究棟第4講義室</td>
-    <td>島田研究室<br>（内81-2340）</td>
+    <td>麻酔・蘇生医学講座<br>（内81-2340）</td>
   </tr>
   </table>
+
 
   <h2>環境医学研究所</h2>
   <table class="farewell">
@@ -327,13 +349,13 @@
   </tr>
   <tr>
     <td>3月14日<br>15:00-16:00</td>
-    <td>浪川幸彦教授／<br>未定</td>
+    <td>浪川幸彦教授／<br>モジュラスの花園―巨人の肩の上で―</td>
     <td>理学部1号館509号室</td>
     <td>浪川教授</td>
   </tr>
   <tr>
     <td>3月14日<br>16:15-17:15</td>
-    <td>梅村浩教授／<br>未定</td>
+    <td>梅村浩教授／<br>射影極限と帰納極限</td>
     <td>理学部1号館509号室</td>
     <td>梅村教授</td>
   </tr>
@@ -398,6 +420,17 @@
     <td></td>
   </tr>
   </table>
+
+
+  <p>
+  学外からの電話については以下の番号をダイヤルしてください。
+  </p>
+
+  <ul>
+    <li>文学部・農学部：052-789-内線番号</li>
+    <li>医学部：052-744-内線番号の下4桁</li>
+  </ul>
+
 
   </div>  
 
