@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=EUC-JP">
 <link rel="stylesheet" type="text/css" href="./css/common.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
-<link rel="stylesheet" type="text/css" href="./css/fontsize_s.css" media="all">
+<link rel="stylesheet" type="text/css" href="./css/fontsize_{ldelim}$smarty.session.fontsize|default:s{rdelim}.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/left_menu_ja.css" media="all">
 <title>
 名大の授業 Nagoya University OpenCourseWare || 退職記念講義
@@ -18,10 +18,28 @@
 
 </div>
 
-
-<div class="language"><br>
-<img src="./images/ja/size.gif" alt="文字サイズ"><a href="select_fontsize.php?fontsize=l"><img src="./images/ja/size_l.gif" alt="大"></a><img src="./images/ja/size_s.gif" alt="小">
+{strip}
+<div class="language">
+<br>
+{literal}
+{strip}
+  <img src="./images/ja/size.gif" alt="文字サイズ">
+  {if ! isset($smarty.session.fontsize) || $smarty.session.fontsize == "s"}
+    <a href="select_fontsize.php?fontsize=l">
+    <img src="./images/ja/size_l.gif" alt="大"></a><img src="./images/ja/size_s.gif" alt="小">
+  {/if}
+  {if $smarty.session.fontsize == "l"}
+    <img src="./images/ja/size_l.gif" alt="大">
+    <a href="select_fontsize.php?fontsize=s"><img src="./images/ja/size_s.gif" alt="小"></a>
+  {/if}
+{/strip}
+{/literal}
 </div>
+{/strip}
+
+
+
+
 <div class="header_menu">
 <a href="index.php?lang=ja&mode=g&page_type=about"><img src="./images/ja/01about.gif" alt="|名大の授業について|"></a>
 <a href="index.php?lang=ja&mode=g&page_type=legal"><img src="./images/ja/02legal.gif" alt="|ご利用にあたって|"></a>
