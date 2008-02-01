@@ -22,7 +22,7 @@
   {foreach from=$navi_list item="navi" name=n}
     {* もっとも細かい項目 *}
     {if !$smarty.foreach.n.first || !$course}	
-    {strip}||{$navi.text}{/strip}
+    {strip}|| {$navi.text}{/strip}
     {/if}
   {/foreach}
 {/if}
