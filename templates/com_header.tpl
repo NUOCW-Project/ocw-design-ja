@@ -8,11 +8,26 @@
 <link rel="stylesheet" type="text/css" href="./css/left_menu_{$lang}.css" media="all">
 <title>
 {if $lang=='ja'}
-名大の授業 Nagoya University OpenCourseWare
-{else}
-Nagoya University OpenCourseWare (NU OCW)
+  名大の授業 Nagoya University OpenCourseWare
+  {else}
+  Nagoya University OpenCourseWare (NU OCW)
 {/if}
-{$title}</title>
+{if $title}
+  {* タイトルが指定されている *}
+  {$title}
+{elseif $on_top}
+  {* トップページ *}
+{else}
+  {* それ以外は自動で生成 *}
+  {foreach from=$navi_list item="navi" name=n}
+
+    {* もっとも細かい項目 *}
+    {if ($navi.mode=='c' && $navi.mode_type=='index') ||$smarty.foreach.n.last}	
+    {strip}{$navi.text}{/strip}
+    {/if}
+  {/foreach}
+{/if}
+</title>
 </head>
 <body>
 <div class="all"><!-- コンテンツ全体を囲むブロック開始 -->

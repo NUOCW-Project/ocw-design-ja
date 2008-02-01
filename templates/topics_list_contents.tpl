@@ -14,7 +14,7 @@
 		{* Topic 1·ï»Ï¤Þ¤ê *}
 		{foreach from=$topics_list item="topic"}
 		<tr>
-			<td width="80" class="td_date">-{$topic.stime|date_format:"%Y/%m/%d"}</td>
+			<td width="90" class="td_date">-{$topic.stime|date_format:"%Y/%m/%d"}</td>
 			<td class="td_topics">{$topic.contents|strip_tags:false|strip|escape}
 			{if $topic.diff_day < 7}<img class="new_icon" src="./images/common/new.gif" alt="new!">{/if}
 			</td>
