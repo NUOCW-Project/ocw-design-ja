@@ -20,10 +20,9 @@
 {else}
   {* それ以外は自動で生成 *}
   {foreach from=$navi_list item="navi" name=n}
-
     {* もっとも細かい項目 *}
-    {if ($navi.mode=='c' && $navi.mode_type=='index') ||$smarty.foreach.n.last}	
-    {strip}{$navi.text}{/strip}
+    {if !$smarty.foreach.n.first || !$course}	
+    {strip}||{$navi.text}{/strip}
     {/if}
   {/foreach}
 {/if}
