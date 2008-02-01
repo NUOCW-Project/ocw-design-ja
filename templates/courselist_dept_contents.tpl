@@ -34,6 +34,7 @@
 			<div class="dept_info_head_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
 			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
+		<div class="clear"></div>
 		{/if}
 	</div>
 	<!-- ------部局紹介部分ここまで------ -->
