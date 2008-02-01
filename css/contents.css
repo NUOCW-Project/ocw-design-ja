@@ -707,6 +707,7 @@ table.farewell th{
 
 table.farewell td{
 	border: 1px solid #999999;
+	text-align: left;
 }
 
 colgroup.farewell_date {
