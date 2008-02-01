@@ -593,7 +593,7 @@ h1.dept_info_head_title{
 
 div.dept_info_head_contents{
 	padding-right:20px;
-	max-height:108px;
+	max-height:90px;
 	overflow:hidden;
 }
 
@@ -606,17 +606,13 @@ div.dept_info_head_dean {
 
 div.dept_info_head_contents_with_dean{
 	padding-right:20px;
-	max-height:90px;
+	max-height:72px;
 	overflow:hidden;
 }
 
 div.dept_info_head_more{
 	padding-right:5px;
 	text-align: right;
-
-	position: relative; /* 上にずらす */
-	top: -16px;
-	z-index: 1;
 }
 
 div.dept_info_head_link{
@@ -625,10 +621,6 @@ div.dept_info_head_link{
 	margin-left: 20px;
 
 	color: #669933;
-
-	position: relative; /* 上にずらす */
-	top: -16px;
-	z-index: 1;
 }
 
 div.dept_info_head_vsyllabus{
