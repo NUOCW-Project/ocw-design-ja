@@ -27,14 +27,13 @@
 		<div class="clear"></div>
 		{else}
 		{* ビデオなし *}
-		<div class="dept_info_head_left">
+		<div class="dept_info_head_novideo">
 			<h1 class="dept_info_head_title">部局長挨拶</h1> <!-- 不可視 -->
 			<div class="dept_info_head_dean">{$dept_info.dean_position}<br>{$dept_info.dean_name}</a></div>
 			<div class="dept_info_head_contents_with_dean">{$dept_info.description|strip|strip_tags}</div>
 			<div class="dept_info_head_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
 			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
-		<div class="clear"></div>
 		{/if}
 	</div>
 	<!-- ------部局紹介部分ここまで------ -->
