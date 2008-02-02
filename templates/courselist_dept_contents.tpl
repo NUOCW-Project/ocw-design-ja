@@ -15,8 +15,10 @@
 		{if $dept_info.vs_url}
 		{* ビデオあり *}
 		<div class="dept_info_head_left">
-			<h1 class="dept_info_head_title">部局長挨拶</h1> <!-- 不可視 -->
-			<div class="dept_info_head_contents">{$dept_info.description|strip|strip_tags|mb_truncate:140}</div>
+			<!-- 不可視 --><h1 class="dept_info_head_title">部局長挨拶</h1> 
+			<div class="dept_info_head_contents">
+				{$dept_info.description|strip|strip_tags|mb_truncate:135} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
+			</div>
 			<div class="dept_info_head_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
 			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
@@ -28,9 +30,11 @@
 		{else}
 		{* ビデオなし *}
 		<div class="dept_info_head_novideo">
-			<h1 class="dept_info_head_title">部局長挨拶</h1> <!-- 不可視 -->
+			<!-- 不可視 --><h1 class="dept_info_head_title">部局長挨拶</h1>
 			<div class="dept_info_head_dean">{$dept_info.dean_position}<br>{$dept_info.dean_name}</a></div>
-			<div class="dept_info_head_contents_with_dean">{$dept_info.description|strip|strip_tags|mb_truncate:120}</div>
+			<div class="dept_info_head_contents_with_dean">
+				{$dept_info.description|strip|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
+			</div>
 			<div class="dept_info_head_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
 			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
 		</div>
@@ -105,7 +109,7 @@
 		<td class="td_contents_gray">    
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
 		<p>{if $lang=='ja'}●関連リンク{else}&loz; Related Link{/if}</p>
-		<!-- 関連リンクデータ -->
+		< !-- 関連リンクデータ -->
 		<p>
 		{if $lang == "ja"}<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
 		{else}<a href="{$dept_info.department_url_e}">{$dept_info.department_name_e}</a>{/if}
