@@ -109,7 +109,7 @@
 		<td class="td_contents_gray">    
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
 		<p>{if $lang=='ja'}●関連リンク{else}&loz; Related Link{/if}</p>
-		< !-- 関連リンクデータ -->
+		<!-- 関連リンクデータ -->
 		<p>
 		{if $lang == "ja"}<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
 		{else}<a href="{$dept_info.department_url_e}">{$dept_info.department_name_e}</a>{/if}
