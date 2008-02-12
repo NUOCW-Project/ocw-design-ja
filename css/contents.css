@@ -58,7 +58,7 @@ td.pickup_body{
 }
 
 p.pickup_contents{
-	text-align:justify; 
+/*	text-align:justify; */
 	margin: 0;
 }
 
@@ -237,7 +237,7 @@ table.topics_contents{
 /*　Topicコンテンツ　*/
 .td_topics{
 	vertical-align: top;
-	text-align: justify;
+/*	text-align: justify;*/
 }
 
 
@@ -279,7 +279,7 @@ span.light_blue{
 }
 
 p{
-	text-align:justify;
+/*	text-align:justify; */
 	margin:10px 5px;
 }
 
