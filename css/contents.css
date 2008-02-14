@@ -21,7 +21,7 @@ td.pickup_contents_title{
 	/* PICKUPそのもののタイトル */
 td.pickup_contents_title_wide{
 	padding-left: 27px;
-	padding-top: 7px;
+	padding-top: 6px;
 	line-height: 20px;
 	vertical-align: top;
 	background: url(../images/common/t_pickup_contents_title_wide.jpg) no-repeat;
