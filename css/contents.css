@@ -22,6 +22,7 @@ td.pickup_contents_title{
 td.pickup_contents_title_wide{
 	padding-left: 27px;
 	padding-top: 7px;
+	line-height: 20px;
 	vertical-align: top;
 	background: url(../images/common/t_pickup_contents_title_wide.jpg) no-repeat;
 	color: #693; /* 講義の紹介でないときは、リンク貼らないけど<a>と同じ色 */
