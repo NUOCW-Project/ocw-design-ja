@@ -20,14 +20,17 @@ td.pickup_contents_title{
 }
 	/* PICKUPそのもののタイトル */
 td.pickup_contents_title_wide{
-	text-indent: 27px;
-	vertical-align: middle;
+	width: 280px;
+	height: 55px;
+	padding-left: 27px;
+	padding-top: 6px;
+	padding-right:5px;
+	line-height: 20px;
+	vertical-align: top;
 	background: url(../images/common/t_pickup_contents_title_wide.jpg) no-repeat;
 	color: #693; /* 講義の紹介でないときは、リンク貼らないけど<a>と同じ色 */
 	font-weight: bold;
 	font-size: 13pt;
-	width: 280px;
-	height: 55px;
 }
 
 td.pickup_img {
