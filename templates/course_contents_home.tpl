@@ -58,11 +58,11 @@
                     <p class="course_home_i"><span class="i">Day:</span><br>
                                              {$course_info.meeting_time|nl2br}</p>
                     <p class="course_home_i"><span class="i">Lectures:</span><br>
-                                             {$course_info.lectures|nl2br}
+                                             {$course_info.lectures|strip|nl2br}
                     </p>
 
                 	<p class="course_home_b">Class is for:</p>
-                	<p class="course_home">{$course_info.class_is_for_en|nl2br}</p>
+                	<p class="course_home">{$course_info.class_is_for_en|strip|nl2br}</p>
 
                 	<p class="course_home_b">Credits:</p>
                 	<p class="course_home">{$course_info.credits|nl2br}</p>
