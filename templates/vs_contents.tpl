@@ -42,9 +42,9 @@
 			<td>{vsyllabus_img id=$vs.vsyllabus_id alt=""}</td>
 			<td class="left">{$vs.course_name}
                              {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span>{/if}</td>
-			<td class="center">{if $vs.url ! 'null'}
+			<td class="center">{if $vs.url != 'null'}
 					   <a href="{$vs.url}"><img src="./images/common/b_rv.gif"></a>{/if}<br>
-					{if $vs.url_flv ! 'null'}
+					{if $vs.url_flv != 'null'}
 					<a href="{$vs.url_flv}"><img src="./images/common/b_fv.gif"></a>{/if}<br></td>
 			<td class="left">{$vs.department_name}</td>
 			<td>{$vs.instructor_name}</td>
