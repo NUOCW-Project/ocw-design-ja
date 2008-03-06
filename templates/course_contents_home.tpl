@@ -75,7 +75,7 @@
 					{/foreach}	
 	  				</p>
 
-	                {if $course_info.vsyllabus}
+	                {if $course_info.vsyllabus_Real && $course_info.vsyllabus_Flash	}
                 	<p class="course_home_vsyllabus">
 			{if $lang=='ja'}
 				 <a href="{$course_info.vsyllabus}" title="1分間授業紹介（ビデオ）"><img src="./images/{$lang}/b_video_head.jpg" alt="1分間授業紹介(ビデオ）" width="120" height="24"></a>
