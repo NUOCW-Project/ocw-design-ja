@@ -78,17 +78,20 @@
 	                {if $course_info.vsyllabus_Real && $course_info.vsyllabus_Flash	}
                 	<p class="course_home_vsyllabus">
 			{if $lang=='ja'}
-				 <a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus" title="1分間授業紹介の一覧表"><img src="./images/{$lang}/b_video_head.jpg" alt="1分間授業紹介(ビデオ）" width="120" height="24"></a>
- <a href="{$course_info.vsyllabus_Real}" title="一分間授業紹介のRealVideoが再生されます"><img src="./images/{$lang}/b_video_r.jpg" alt="RealVideo" width="120" height="20"></a> 
-<a href="{$course_info.vsyllabus_Flash}" title="一分間授業紹介のFlashVideoが再生されます" target="_blank"><img src="./images/{$lang}/b_video_f.jpg" alt="FlashVideo" width="120" height="24"></a>
-               		{elseif $lang=='en'}
-			 	<a href="{$course_info.vsyllabus}" title="1 minute Video Summary"><img src="./images/{$lang}/b_video_link.jpg" alt="1 minute Video Summary" width="120" height="68"></a>
+				 <a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus" title="1分間授業紹介の一覧表"><img src="./images/{$lang}/b_video_head.jpg" alt="1分間授業紹介(ビデオ）" width="120" height="24"></a><br>
+ <a href="{$course_info.vsyllabus_Real}" title="一分間授業紹介のRealVideoが再生されます"><img src="./images/common/b_video_r.jpg" alt="RealVideo" width="120" height="20"></a> <br>
+<a href="{$course_info.vsyllabus_Flash}" title="一分間授業紹介のFlashVideoが再生されます" target="_blank"><img src="./images/common/b_video_f.jpg" alt="FlashVideo" width="120" height="24"></a>
+               	       {/if}
+                       {elseif $lang=='en'}
+				<a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus" title="1 minute Video Summary"><img src="./images/{$lang}/b_video_head.jpg" alt="1 minute Video Summary" width="120" height="24"></a><br>
+ <a href="{$course_info.vsyllabus_Real}" title="Click to play RealVideo Player"><img src="./images/common/b_video_r.jpg" alt="RealVideo" width="120" height="20"></a><br>
+<a href="{$course_info.vsyllabus_Flash}" title="Click to play FlashVideo Player" target="_blank"><img src="./images/common/b_video_f.jpg" alt="FlashVideo" width="120" height="24"></a>
 				{if $course_info.vsyllabus_lang=='ja'}
-               				<br><span class="i">* recorded in Japanese</span>
+               				<br><span class="i">* recorded in japanese</span>
              			{/if}
 			{/if}
 			</p>
-			{/if}
+
 			<ul class="course_home_recommended">
 				{if $course_info.wg_recommended eq "t"}<li><img src="./images/{$lang}/nominate_ocw.jpg" alt="{if $lang=='ja'}OCW WG 推薦{else}This course is recommended by OCW WG.{/if}" width="120" height="29"></li>{/if}
 				{if $course_info.dept_recommended eq "t"}<li><img src="./images/{$lang}/nominate_dep.jpg" alt="{if $lang=='ja'}部局長推薦{else}This course is recommended by the head of department.{/if}" width="120" height="29"></li>{/if}
