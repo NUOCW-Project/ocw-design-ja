@@ -81,7 +81,6 @@
 				 <a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus" title="1分間授業紹介の一覧表"><img src="./images/{$lang}/b_video_head.jpg" alt="1分間授業紹介(ビデオ）" width="120" height="24"></a><br>
  <a href="{$course_info.vsyllabus_Real}" title="一分間授業紹介のRealVideoが再生されます"><img src="./images/common/b_video_r.jpg" alt="RealVideo" width="120" height="20"></a> <br>
 <a href="{$course_info.vsyllabus_Flash}" title="一分間授業紹介のFlashVideoが再生されます" target="_blank"><img src="./images/common/b_video_f.jpg" alt="FlashVideo" width="120" height="24"></a>
-               	       {/if}
                        {elseif $lang=='en'}
 				<a href="index.php?lang={$lang}&mode=g&page_type=vsyllabus" title="1 minute Video Summary"><img src="./images/{$lang}/b_video_head.jpg" alt="1 minute Video Summary" width="120" height="24"></a><br>
  <a href="{$course_info.vsyllabus_Real}" title="Click to play RealVideo Player"><img src="./images/common/b_video_r.jpg" alt="RealVideo" width="120" height="20"></a><br>
