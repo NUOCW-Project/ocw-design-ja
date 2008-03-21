@@ -91,7 +91,6 @@
              			{/if}
 			{/if}
 			</p>
-			{/if}
 
 			<ul class="course_home_recommended">
 				{if $course_info.wg_recommended eq "t"}<li><img src="./images/{$lang}/nominate_ocw.jpg" alt="{if $lang=='ja'}OCW WG ¿äÁ¦{else}This course is recommended by OCW WG.{/if}" width="120" height="29"></li>{/if}
