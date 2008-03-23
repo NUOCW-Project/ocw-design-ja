@@ -41,12 +41,13 @@
                 	{if !$smarty.foreach.instructor.last}<br>{/if}
                 	{/foreach}
 		    	</p>
-
-                	<p class="course_home_b">{if $lang=='ja'}日時{else}Date:{/if}</p>
-                	<p class="course_home">{$course_info.department_name}</p>
+                	
+			<p class="course_home_b">{if $lang=='ja'}日時{else}Date:{/if}</p>
+                	<p class="course_home">{if $lang=='ja'}{$course_info.f_date_ja}<br>{$course_info.f_time_ja}{/if}
+			</p>
 
                 	<p class="course_home_b">{if $lang=='ja'}場所{else}Place:{/if}</p>
-                	<p class="course_home">
+                	<p class="course_home">{if $lang=='ja'}{$course_info.f_place_ja}{/if}
                 	</p>
 
 			<p class="course_home_b">
