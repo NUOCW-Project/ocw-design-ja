@@ -31,7 +31,7 @@
                     <!-- コンテンツセル開始 -->
                     <div class="course_home_info_contents{if $lang=='en'}_en{/if}">
 			<p class="course_home">
-                	{if $lang=='en'}Farewell Lecture {/if}{$course_info.year}{if $lang=='ja'}退職記念講義{/if}
+                	{$course_info.year}
 			</p>
 
                 	<p class="course_home_b">{if $lang=='ja'}担当{else}Instructor:{/if}</p>
