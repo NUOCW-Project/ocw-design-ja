@@ -31,11 +31,16 @@
                     <!-- コンテンツセル開始 -->
                     <div class="course_home_info_contents{if $lang=='en'}_en{/if}">
 			<p class="course_home">
+                	{if $lang=='en'}Farewell Lecture {/if}{$course_info.year}{if $lang=='ja'}退職記念講義{/if}
+			</p>
+
+                	<p class="course_home_b">{if $lang=='ja'}担当{else}Instructor:{/if}</p>
+                	<p class="course_home">
                 	{foreach from=$course_info.instructors item=instructor name=instructor}
                 	{$instructor.name}
                 	{if !$smarty.foreach.instructor.last}<br>{/if}
                 	{/foreach}
-		    	の退職記念講義について</p>
+		    	</p>
 
                 	<p class="course_home_b">{if $lang=='ja'}日時{else}Date:{/if}</p>
                 	<p class="course_home">{$course_info.department_name}</p>
