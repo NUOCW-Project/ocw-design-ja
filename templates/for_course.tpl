@@ -8,6 +8,8 @@
 {include file="left_menu_cont.tpl"}
 {if $curr_page_type_code==51}
   {include file="course_contents_home.tpl"}
+{elseif $curr_page_type_code==71}
+  {include file="course_contents_f_index.tpl"}
 {else}
   {include file="course_contents.tpl"}
 {/if}
