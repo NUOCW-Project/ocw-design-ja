@@ -370,7 +370,7 @@
   </tr>
   <tr>
     <td>1月25日(金)<br>14:45-16:15</td>
-    <td>中井政喜教授 ／<br>魯迅の小説『離婚』について</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=79&amp;page_type=f_index">中井政喜教授 ／<br>魯迅の小説『離婚』について</a></td>
     <td>全学教育棟S13教室</td>
     <td>丸尾誠准教授</td>
   </tr>
