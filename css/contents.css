@@ -689,6 +689,17 @@ div.dept_info_vsyllabus {
 	margin:0 20px 10px 0;
 }
 
+div.farewell_list_left {
+	width: 160px;
+	float: left;
+	text-align: left;
+}
+
+div.farewell_list_right {
+	width: 290px; 
+	float: left;
+}
+
 table.farewell {
 	border:0;
 	margin:0 10px 25px 10px;
