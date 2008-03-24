@@ -161,7 +161,7 @@
   </tr>
   <tr>
     <td>1月28日(月)<br>15:00-16:00</td>
-    <td>山田弘明教授／<br>西洋近世哲学と神</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=80&amp;page_type=f_index">山田弘明教授／<br>西洋近世哲学と神</a></td>
     <td>文学部237講義室</td>
     <td>金山弥平教授<br>052-789-2211</td>
   </tr>
@@ -292,7 +292,7 @@
   </tr>
   <tr>
     <td>2月21日(木)<br>13:35-14:20</td>
-    <td>福田勝洋教授／<br>動物に助けられて</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=81&amp;page_type=f_index">福田勝洋教授／<br>動物に助けられて</a></td>
     <td>農学部講義棟第12講義室</td>
     <td>農学部庶務：<br>鈴木<br>052-789-4585</td>
   </tr>
