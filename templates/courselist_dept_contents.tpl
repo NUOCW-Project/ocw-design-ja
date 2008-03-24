@@ -70,11 +70,24 @@
 		[temporary] Related courses at <a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>	
 		{/if}
 	</p>
+	{if $lang == 'ja' && $rel_dept.department_abbr == 'farewell'}
+	<div class="farewell_list_left">
+		<img src="/images/ja/b_farewell.jpg" alt="Ì¾¸Å²°Âç³ØÂà¿¦µ­Ç°¹ÖµÁ">
+	</div>
+	<div class="farewell_list_right">
+		<ul class="courselist">
+		{foreach from=$rel_dept.course_list item="course"}
+		<li class="rel_courselist"><a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
+		{/foreach}
+		</ul>
+	</div>
+	{else}
 	<ul class="courselist">
 		{foreach from=$rel_dept.course_list item="course"}
 		<li class="rel_courselist"><a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
 		{/foreach}
 	</ul>
+	{/if}
 	{/foreach}	
 
 
