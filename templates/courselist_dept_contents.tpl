@@ -57,20 +57,10 @@
 	</ul>
 	<!-- リスト動的に変化させる部分終了 -->
 	
-{* 関連する授業があるときのみ表示させる *}
-	{if $rel_course_list}
-	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
-	{/if}
-
 	<!-- 現在表示中の部局に関連した授業  -->
-	{foreach from=$rel_course_list item=rel_dept}
-	<p>
-		{if $lang=='ja'}
-		以下の授業は<a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。{else}
-		[temporary] Related courses at <a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>	
-		{/if}
-	</p>
+	{foreach name=rel_departments from=$rel_course_list item=rel_dept}
 	{if $lang == 'ja' && $rel_dept.department_abbr == 'farewell'}
+	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	<div class="farewell_list_left">
 		<img src="./images/ja/b_farewell.jpg" alt="名古屋大学退職記念講義">
 	</div>
@@ -82,6 +72,16 @@
 		</ul>
 	</div>
 	{else}
+	{if $smarty.foreach.rel_departments.first}
+	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+	{/if}
+
+	<p>
+		{if $lang=='ja'}
+		以下の授業は<a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。{else}
+		[temporary] Related courses at <a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>	
+		{/if}
+	</p>
 	<ul class="courselist">
 		{foreach from=$rel_dept.course_list item="course"}
 		<li class="rel_courselist"><a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
