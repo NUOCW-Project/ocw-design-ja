@@ -72,7 +72,7 @@
 	</p>
 	{if $lang == 'ja' && $rel_dept.department_abbr == 'farewell'}
 	<div class="farewell_list_left">
-		<img src="/images/ja/b_farewell.jpg" alt="Ì¾¸Å²°Âç³ØÂà¿¦µ­Ç°¹ÖµÁ">
+		<img src="./images/ja/b_farewell.jpg" alt="Ì¾¸Å²°Âç³ØÂà¿¦µ­Ç°¹ÖµÁ">
 	</div>
 	<div class="farewell_list_right">
 		<ul class="courselist">
