@@ -65,6 +65,7 @@
 	<!-- 現在表示中の部局に関連した授業  -->
 	{foreach from=$rel_course_list item=rel_dept}
 	{if $lang == 'ja' && $rel_dept.department_abbr == 'farewell'}
+	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	<div class="farewell_list_left">
 		<img src="./images/ja/b_farewell.jpg" alt="名古屋大学退職記念講義">
 	</div>
