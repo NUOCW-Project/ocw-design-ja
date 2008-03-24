@@ -298,7 +298,7 @@
   </tr>
   <tr>
     <td>2·î21Æü(ÌÚ)<br>14:25-15:10</td>
-    <td>»³ÌÚ¾¼Ê¿¶µ¼ø¡¿<br>²ÌÊª¤½¤·¤Æ¿Í¤È¤Î½Ð²ñ¤¤</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=82&amp;page_type=f_index">»³ÌÚ¾¼Ê¿¶µ¼ø¡¿<br>²ÌÊª¤½¤·¤Æ¿Í¤È¤Î½Ð²ñ¤¤</a></td>
     <td>ÇÀ³ØÉô¹ÖµÁÅïÂè12¹ÖµÁ¼¼</td>
     <td>ÇÀ³ØÉô½îÌ³¡§<br>ÎëÌÚ<br>052-789-4585</td>
   </tr>
