@@ -53,10 +53,8 @@
   
   <td>
   <img src="./images/ja/d_farewell.jpg"
-       alt="名古屋大学 退職記念講義 3月上旬公開予定：
-    退職記念講義の一部は「名大の授業」コンテンツとして掲載する予定です／
-    最新情報については、各講義の問い合わせ先へご確認下さい／
-	来場については、各講義の問い合わせ先へご確認下さい">
+       alt="名古屋大学 退職記念講義
+    退職記念講義の一部を「名大の授業」コンテンツとしてご覧いただけます。">
   </td>
 
 </tr>
@@ -145,25 +143,20 @@
 
   
   <div class="course_contents">
-  <p>
-    名大OCW事務室で調査した最終講義の一覧は次のとおりです。<br>
-  （平成20年2月1日現在）
-  </p>
 
   <h2>文学部・文学研究科</h2>
   <table class="farewell">
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>1月28日(月)<br>15:00-16:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=80&amp;page_type=f_index">山田弘明教授／<br>西洋近世哲学と神</a></td>
     <td>文学部237講義室</td>
-    <td>金山弥平教授<br>052-789-2211</td>
   </tr>
   </table>
 
@@ -172,57 +165,87 @@
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月8日(土)<br>15:00-17:00</td>
     <td>河野正憲教授／<br>近代的民事訴訟の成立と構造―わが国民事訴訟手続きの比較歴史的考察―</td>
     <td>法学部第3講義室</td>
-    <td>渡部美由紀准教授<br>052-789-4907</td>
   </tr>
   </table>
 
-<!--
   <h2>情報文化学部</h2>
   <table class="farewell">
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
-    <td><br></td>
-    <td>／<br></td>
-    <td></td>
-    <td></td>
+    <td>3月6日(木)<br>15:00-</td>
+    <td>八田武志教授／<br>健やかな老年期のために -住民検診からの提言-</td>
+    <td>全学教育棟2階S2X教室</td>
   </tr>
   </table>
--->
+
+  <h2>理学部・理学研究科</h2>
+  <table class="farewell">
+  <colgroup class="farewell_date"></colgroup>
+  <colgroup class="farewell_title"></colgroup>
+  <colgroup class="farewell_place"></colgroup>
+
+  <tr>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
+  </tr>
+  <tr>
+    <td>2月29日(金)<br>16:30-18:00</td>
+    <td>上村大輔教授／<br>時を超える｢ひと｣、｢もの｣、｢こころ｣</td>
+    <td>野依記念物質科学研究館2階講演室</td>
+  </tr>
+  </table>
 
   <h2>医学部・医学系研究科</h2>
   <table class="farewell">
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
+  </tr>
+  <tr>
+    <td>2月21日(木)<br>15:30-16:30</td>
+    <td>伊藤秀郎教授／<br>院内感染対策と微生物検査室の役割</td>
+    <td>保健学科大講義室(東館4階)</td>
+  </tr>
+  <tr>
+    <td>3月6日(木)<br>14:00-15:00</td>
+    <td>後藤節子教授／<br>死亡ゼロを達成した若年女性のがん -予防的管理と早期治療の軌跡-</td>
+    <td>保健学科大講義室(東館4階)</td>
+  </tr>
+  <tr>
+    <td>3月7日(木)<br>14:00-15:00</td>
+    <td>前田尚利教授／<br>これからの放射線の役割</td>
+    <td>保健学科大講義室(東館4階)</td>
+  </tr>
+  <tr>
+    <td>3月7日(木)<br>15:30-16:30</td>
+    <td>田伏勝義教授／<br>医学物理士としての30年</td>
+    <td>保健学科大講義室(東館4階)</td>
   </tr>
   <tr>
     <td>3月11日(火)<br>15:00-16:00</td>
-    <td>吉田純教授／<br>未定</td>
+    <td>吉田純教授／<br>名大脳外科：過去と今とこれから</td>
     <td>基礎医学研究棟第4講義室</td>
-    <td>脳神経外科教室<br>052-744-2355</td>
   </tr>
   <tr>
     <td>3月14日(金)<br>17:00-18:00</td>
-    <td>島田康弘教授／<br>未定</td>
+    <td>島田康弘教授／<br>私の歩んできた道</td>
     <td>基礎医学研究棟第4講義室</td>
-    <td>麻酔・蘇生医学講座<br>052-744-2340</td>
   </tr>
   </table>
 
@@ -232,15 +255,14 @@
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月7日(金)<br>16:30-17:30</td>
     <td>妹尾久雄教授／<br>環境医学研究所での内分泌学研究</td>
     <td>グリーンサロン東山</td>
-    <td></td>
   </tr>
   </table>
 
@@ -250,33 +272,29 @@
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>2月22日(金)<br>15:30-17:00</td>
     <td>沓名宗春教授／<br>溶接ワイヤーからALIMSの開発まで40年</td>
     <td>工学部1号館2F121講義室</td>
-    <td></td>
   </tr>
   <tr>
     <td>2月29日(金)<br>13:00-14:30</td>
     <td>桑原守教授／<br>材料反応工学の道40年</td>
     <td>工学部4号館中央棟3F講会議室 </td>
-    <td></td>
   </tr>
   <tr>
     <td>2月29日(金)<br>15:00-16:30</td>
     <td>宮田隆司教授／<br>破壊力学と材料―力学屋の材料強度学―</td>
     <td>工学部4号館中央棟3F講会議室 </td>
-    <td></td>
   </tr>
   <tr>
     <td>3月11日(火)<br>15:00-</td>
     <td>坂田誠教授／<br>海洋観測船・中性子回折・放射光科学・・・</td>
     <td>工学部1号館2F121講義室 </td>
-    <td></td>
   </tr>
   </table>
 
@@ -286,33 +304,29 @@
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>2月21日(木)<br>13:35-14:20</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=81&amp;page_type=f_index">福田勝洋教授／<br>動物に助けられて</a></td>
     <td>農学部講義棟第12講義室</td>
-    <td>農学部庶務：<br>鈴木<br>052-789-4585</td>
   </tr>
   <tr>
     <td>2月21日(木)<br>14:25-15:10</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=82&amp;page_type=f_index">山木昭平教授／<br>果物そして人との出会い</a></td>
     <td>農学部講義棟第12講義室</td>
-    <td>農学部庶務：<br>鈴木<br>052-789-4585</td>
   </tr>
   <tr>
     <td>2月21日(木)<br>15:15-16:00</td>
     <td>磯部稔教授／<br>生物有機化学40年の展開</td>
     <td>農学部講義棟第12講義室</td>
-    <td>農学部庶務：<br>鈴木<br>052-789-4585</td>
   </tr>
   <tr>
     <td>2月21日(木)<br>16:05-16:50</td>
     <td>島田清司教授／<br>「ニワトリ研究の世界の先達となれ」を目指して</td>
     <td>農学部講義棟第12講義室</td>
-    <td>農学部庶務：<br>鈴木<br>052-789-4585</td>
   </tr>
   </table>
 
@@ -321,16 +335,14 @@
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月10日(月)<br>15:00-</td>
     <td>廣木詔三教授／<br>火山植生の遷移とブナ科の比較生態の研究―八方美人とあぶはち取らずの人生―</td>
     <td>全学教育棟南館1FS16教室 </td>
-    <td></td>
-    <!-- <td>庶務：<br>中濱<br>（052-789-4716）</td> -->
   </tr>
   </table>
 
@@ -340,21 +352,19 @@
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月14日(金)<br>15:00-16:00</td>
     <td>浪川幸彦教授／<br>モジュラスの花園―巨人の肩の上で―</td>
     <td>理学部1号館509号室</td>
-    <td>浪川幸彦教授</td>
   </tr>
   <tr>
     <td>3月14日(金)<br>16:15-17:15</td>
     <td>梅村浩教授／<br>射影極限と帰納極限</td>
     <td>理学部1号館509号室</td>
-    <td>梅村浩教授</td>
   </tr>
   </table>
 
@@ -364,15 +374,14 @@
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>1月25日(金)<br>14:45-16:15</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=79&amp;page_type=f_index">中井政喜教授 ／<br>魯迅の小説『離婚』について</a></td>
     <td>全学教育棟S13教室</td>
-    <td>丸尾誠准教授</td>
   </tr>
   </table>
 
@@ -382,16 +391,19 @@
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
+
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
+  </tr>
+  <tr>
+    <td>3月17日(月)<br>16:30-17:45</td>
+    <td>河合崇欣教授／<br>環境科学への想い</td>
+    <td>環境総合館3階 講義室3</td>
   </tr>
   <tr>
     <td>3月22日(土)<br>17:00頃-</td>
     <td>山田功夫教授／<br>地球惑星科学における観測</td>
     <td>環境総合館1Fレクチャーホール</td>
-    <td>シンポジウムと併せて実施<br>
-        <a href="http://www.seis.nagoya-u.ac.jp/" target="_blank">地震火山・防災研究センター</a></td>
   </tr>
   </table>
 
@@ -400,21 +412,18 @@
   <colgroup class="farewell_date"></colgroup>
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
-  <colgroup class="farewell_inq"></colgroup>
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th><th>問い合わせ先</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
-    <td>3月19日(水)<br>14:30〜</td>
-    <td>小川忠彦教授／<br>ロードマップは、科学の進展に役立つか</td>
+    <td>3月19日(水)<br>14:30-15:30</td>
+    <td>小島正宣教授／<br>ロードマップは、科学の進展に役立つか</td>
     <td>高等総合教育館6階　カンファレンスホール</td>
-    <td>前澤裕之助教<br>052-747-6314</td>
   </tr>
   <tr>
-    <td>3月19日(水)<br>14:30〜</td>
-    <td>小島正宣教授／<br>電波で電離圏を探る</td>
+    <td>3月19日(水)<br>15:40-16:40</td>
+    <td>小川忠彦教授／<br>電波で電離圏を探る</td>
     <td>高等総合教育館6階　カンファレンスホール</td>
-    <td>前澤裕之助教<br>052-747-6314</td>
   </tr>
   </table>
 
