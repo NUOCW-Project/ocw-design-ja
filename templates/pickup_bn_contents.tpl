@@ -21,7 +21,7 @@
 <!-- Pickup バックナンバー 1件開始 -->
 {foreach from=$bn_list item=bn name=bn_loop}
 <div class="pickup_bn_left">
-<img src="./images/t_pickup0{$bn_list_size-$smarty.foreach.bn_loop.iteration+1}.gif" alt="">
+<img src="./images/common/t_pickup0{$bn_list_size-$smarty.foreach.bn_loop.iteration+1}.gif" alt="">
 <p>{$bn.stime|date_format:"%Y/%m/%d"} Up</p>
 </div>
 <div class="pickup_bn_center">
