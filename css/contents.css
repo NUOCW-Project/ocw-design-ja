@@ -720,13 +720,10 @@ colgroup.farewell_date {
 	width: 90px;
 }
 colgroup.farewell_title {
-	width: 140px;
+	width: 200px;
 }
 colgroup.farewell_place {
-	width: 80px;
-}
-colgroup.farewell_inq {
-	width: 120px;
+	width: 140px;
 }
 
 

@@ -151,7 +151,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>1月28日(月)<br>15:00-16:00</td>
@@ -167,7 +167,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月8日(土)<br>15:00-17:00</td>
@@ -183,7 +183,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月6日(木)<br>15:00-</td>
@@ -199,7 +199,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>2月29日(金)<br>16:30-18:00</td>
@@ -215,7 +215,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>2月21日(木)<br>15:30-16:30</td>
@@ -257,7 +257,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月7日(金)<br>16:30-17:30</td>
@@ -274,7 +274,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>2月22日(金)<br>15:30-17:00</td>
@@ -306,7 +306,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>2月21日(木)<br>13:35-14:20</td>
@@ -337,7 +337,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月10日(月)<br>15:00-</td>
@@ -354,7 +354,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月14日(金)<br>15:00-16:00</td>
@@ -376,7 +376,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>1月25日(金)<br>14:45-16:15</td>
@@ -393,7 +393,7 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月17日(月)<br>16:30-17:45</td>
@@ -413,7 +413,7 @@
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
   <tr>
-    <th>日時</th><th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
     <td>3月19日(水)<br>14:30-15:30</td>
