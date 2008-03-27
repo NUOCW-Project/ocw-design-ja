@@ -296,3 +296,11 @@ p.notice {
 	padding: 1em;
 	color: #00f;
 }
+
+/* float の解除用 */
+div.clear {
+	clear: both;
+	height: 0;
+	margin: 0;
+	padding: 0;
+}
