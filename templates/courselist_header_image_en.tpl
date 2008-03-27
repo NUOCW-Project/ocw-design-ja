@@ -20,12 +20,22 @@
 </tr>
 
 <tr>
+	<td><a href="index.php?lang={$lang}&mode=l&page_type=ecis"><img src="./images/{$lang}/clist_03ecis.jpg" alt="Education Center for International Students"></a></td>
+</tr>
+
+<tr>
+	<td><img src="./images/{$lang}/clist_04.jpg" alt=""></td>
+</tr>
+
+<!--
+<tr>
 	<td><a href="index.php?lang={$lang}&mode=l&page_type=lang"><img src="./images/{$lang}/clist_03lang.jpg" alt="Graguate School of Languages and Cultures"></a></td>
 </tr>
 
 <tr>
 	<td><a href="index.php?lang={$lang}&mode=l&page_type=ecis"><img src="./images/{$lang}/clist_04ecis.jpg" alt="Education Center for International Students"></a></td>
 </tr>
+-->
 
 <tr>
 	<td><img src="./images/{$lang}/clist_05.jpg" alt=""></td>
