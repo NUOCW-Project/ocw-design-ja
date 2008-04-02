@@ -11,7 +11,7 @@
 
 	<!-- コンテンツセル開始 -->
 	<div class="course_contents">
-	<h1>部局長挨拶</h1>
+	<h1>部局紹介</h1>
 
 	{if $dept_info.vs_url}
 	<div class="dept_info_dean_image"><div class="dept_info_dean_image_in">

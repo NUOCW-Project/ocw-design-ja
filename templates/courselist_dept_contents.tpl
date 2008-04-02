@@ -15,7 +15,7 @@
 		{if $dept_info.vs_url}
 		{* ビデオあり *}
 		<div class="dept_info_head_left">
-			<!-- 不可視 --><h1 class="dept_info_head_title">部局長挨拶</h1> 
+			<!-- 不可視 --><h1 class="dept_info_head_title">部局紹介</h1> 
 			<div class="dept_info_head_contents">
 				{$dept_info.description|strip|strip_tags|mb_truncate:135} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
 			</div>
@@ -30,7 +30,7 @@
 		{else}
 		{* ビデオなし *}
 		<div class="dept_info_head_novideo">
-			<!-- 不可視 --><h1 class="dept_info_head_title">部局長挨拶</h1>
+			<!-- 不可視 --><h1 class="dept_info_head_title">部局紹介</h1>
 			<div class="dept_info_head_dean">{$dept_info.dean_position}<br>{$dept_info.dean_name}</a></div>
 			<div class="dept_info_head_contents_with_dean">
 				{$dept_info.description|strip|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
