@@ -71,6 +71,7 @@
 		{/foreach}
 		</ul>
 	</div>
+	<div class="clear"></div>
 	{else}
 	{if $smarty.foreach.rel_departments.first}
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
