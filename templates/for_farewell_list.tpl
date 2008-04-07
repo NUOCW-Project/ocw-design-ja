@@ -14,7 +14,7 @@
 <div class="all">
 
 <div class="logo">
-<a href="index.php?mode=g&lang=ja&page_type=top"><img src="./images/ja/toplogo.jpg" width="275" height="54" alt="名大の授業 HOME"></a>
+<a href="index.php?mode=g&amp;lang=ja&amp;page_type=top"><img src="./images/ja/toplogo.jpg" width="275" height="54" alt="名大の授業 HOME"></a>
 
 </div>
 
@@ -41,11 +41,11 @@
 
 
 <div class="header_menu">
-<a href="index.php?lang=ja&mode=g&page_type=about"><img src="./images/ja/01about.gif" alt="|名大の授業について|"></a>
-<a href="index.php?lang=ja&mode=g&page_type=legal"><img src="./images/ja/02legal.gif" alt="|ご利用にあたって|"></a>
-<a href="index.php?lang=ja&mode=g&page_type=inquiry"><img src="./images/ja/03inq.gif" alt="|お問合わせ|"></a>
-<a href="index.php?lang=ja&mode=g&page_type=faq"><img src="./images/ja/04faq.gif" alt="|ヘルプ(FAQ)|"></a>
-<a href="index.php?lang=ja&mode=g&page_type=akf"><img src="./images/ja/05akf.gif" alt="|AKF検索|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/ja/01about.gif" alt="|名大の授業について|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=legal"><img src="./images/ja/02legal.gif" alt="|ご利用にあたって|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=inquiry"><img src="./images/ja/03inq.gif" alt="|お問合わせ|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=faq"><img src="./images/ja/04faq.gif" alt="|ヘルプ(FAQ)|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=akf"><img src="./images/ja/05akf.gif" alt="|AKF検索|"></a>
 </div>
 <div class="header_image">
 <table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
@@ -61,7 +61,7 @@
 </table>
 </div>
 <div class="navi">
-<a href="index.php?lang=ja&mode=g&page_type=top">HOME</a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
     
     &gt; 退職記念講義
   
@@ -70,64 +70,64 @@
 <div class="left_menu">
 <ul class="left_menu">
 
-<li class="m00list"><a href="index.php?lang=ja&mode=l&page_type=all"><img src="./images/common/dummy.gif" alt="授業一覧"></a></li>
+<li class="m00list"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=all"><img src="./images/common/dummy.gif" alt="授業一覧"></a></li>
 <li class="preload"><img src="./images/ja/md_00list_on.jpg" alt=""></li>
 
 
             
-<li class="m_kyoiku-in"><a href="index.php?lang=ja&mode=l&page_type=kyoiku-in"><img src="./images/common/dummy.gif" alt="教養教育院"></a></li>
+<li class="m_kyoiku-in"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=kyoiku-in"><img src="./images/common/dummy.gif" alt="教養教育院"></a></li>
   <li class="preload"><img src="./images/ja/md_kyoiku-in_on.jpg" alt=""></li>
             
-<li class="m_lit"><a href="index.php?lang=ja&mode=l&page_type=lit"><img src="./images/common/dummy.gif" alt="文学部・文学研究科"></a></li>
+<li class="m_lit"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=lit"><img src="./images/common/dummy.gif" alt="文学部・文学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_lit_on.jpg" alt=""></li>
             
-<li class="m_educa"><a href="index.php?lang=ja&mode=l&page_type=educa"><img src="./images/common/dummy.gif" alt="教育学部・教育発達科学研究科"></a></li>
+<li class="m_educa"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=educa"><img src="./images/common/dummy.gif" alt="教育学部・教育発達科学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_educa_on.jpg" alt=""></li>
             
 
-<li class="m_nomolog"><a href="index.php?lang=ja&mode=l&page_type=nomolog"><img src="./images/common/dummy.gif" alt="法学部・法学研究科"></a></li>
+<li class="m_nomolog"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=nomolog"><img src="./images/common/dummy.gif" alt="法学部・法学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_nomolog_on.jpg" alt=""></li>
             
-<li class="m_soec"><a href="index.php?lang=ja&mode=l&page_type=soec"><img src="./images/common/dummy.gif" alt="経済学部・経済学研究科"></a></li>
+<li class="m_soec"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=soec"><img src="./images/common/dummy.gif" alt="経済学部・経済学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_soec_on.jpg" alt=""></li>
             
-<li class="m_sis"><a href="index.php?lang=ja&mode=l&page_type=sis"><img src="./images/common/dummy.gif" alt="情報文化学部"></a></li>
+<li class="m_sis"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=sis"><img src="./images/common/dummy.gif" alt="情報文化学部"></a></li>
   <li class="preload"><img src="./images/ja/md_sis_on.jpg" alt=""></li>
             
-<li class="m_sci"><a href="index.php?lang=ja&mode=l&page_type=sci"><img src="./images/common/dummy.gif" alt="理学部・理学研究科"></a></li>
+<li class="m_sci"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=sci"><img src="./images/common/dummy.gif" alt="理学部・理学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_sci_on.jpg" alt=""></li>
             
-<li class="m_med"><a href="index.php?lang=ja&mode=l&page_type=med"><img src="./images/common/dummy.gif" alt="医学部・医学系研究科"></a></li>
+<li class="m_med"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=med"><img src="./images/common/dummy.gif" alt="医学部・医学系研究科"></a></li>
 
   <li class="preload"><img src="./images/ja/md_med_on.jpg" alt=""></li>
             
-<li class="m_eng"><a href="index.php?lang=ja&mode=l&page_type=eng"><img src="./images/common/dummy.gif" alt="工学部・工学研究科"></a></li>
+<li class="m_eng"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=eng"><img src="./images/common/dummy.gif" alt="工学部・工学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_eng_on.jpg" alt=""></li>
             
-<li class="m_agr"><a href="index.php?lang=ja&mode=l&page_type=agr"><img src="./images/common/dummy.gif" alt="農学部・生命農学研究科"></a></li>
+<li class="m_agr"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=agr"><img src="./images/common/dummy.gif" alt="農学部・生命農学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_agr_on.jpg" alt=""></li>
             
-<li class="m_is"><a href="index.php?lang=ja&mode=l&page_type=is"><img src="./images/common/dummy.gif" alt="情報科学研究科"></a></li>
+<li class="m_is"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=is"><img src="./images/common/dummy.gif" alt="情報科学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_is_on.jpg" alt=""></li>
             
-<li class="m_gsid"><a href="index.php?lang=ja&mode=l&page_type=gsid"><img src="./images/common/dummy.gif" alt="国際開発研究科"></a></li>
+<li class="m_gsid"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=gsid"><img src="./images/common/dummy.gif" alt="国際開発研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_gsid_on.jpg" alt=""></li>
 
             
-<li class="m_math"><a href="index.php?lang=ja&mode=l&page_type=math"><img src="./images/common/dummy.gif" alt="多元数理科学研究科"></a></li>
+<li class="m_math"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=math"><img src="./images/common/dummy.gif" alt="多元数理科学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_math_on.jpg" alt=""></li>
             
-<li class="m_lang"><a href="index.php?lang=ja&mode=l&page_type=lang"><img src="./images/common/dummy.gif" alt="国際言語文化研究科"></a></li>
+<li class="m_lang"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=lang"><img src="./images/common/dummy.gif" alt="国際言語文化研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_lang_on.jpg" alt=""></li>
             
-<li class="m_env"><a href="index.php?lang=ja&mode=l&page_type=env"><img src="./images/common/dummy.gif" alt="環境学研究科"></a></li>
+<li class="m_env"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=env"><img src="./images/common/dummy.gif" alt="環境学研究科"></a></li>
   <li class="preload"><img src="./images/ja/md_env_on.jpg" alt=""></li>
             
-<li class="m_ecis"><a href="index.php?lang=ja&mode=l&page_type=ecis"><img src="./images/common/dummy.gif" alt="留学生センター"></a></li>
+<li class="m_ecis"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=ecis"><img src="./images/common/dummy.gif" alt="留学生センター"></a></li>
   <li class="preload"><img src="./images/ja/md_ecis_on.jpg" alt=""></li>
 
 
-<li><a href="index.php?lang=ja&mode=l&page_type=farewell"><img src="./images/ja/b_farewell.jpg" alt="退職記念講義"></a></li>
+<li><a href="index.php?lang=ja&amp;mode=l&amp;page_type=farewell"><img src="./images/ja/b_farewell.jpg" alt="退職記念講義"></a></li>
 
 </ul>
 </div><div class="center_contents"> 
@@ -203,7 +203,7 @@
   </tr>
   <tr>
     <td>2月29日(金)<br>16:30-18:00</td>
-    <td>上村大輔教授／<br>時を超える｢ひと｣、｢もの｣、｢こころ｣</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=89&amp;page_type=f_index">上村大輔教授／<br>時を超える｢ひと｣、｢もの｣、｢こころ｣</a></td>
     <td>野依記念物質科学研究館2階講演室</td>
   </tr>
   </table>
@@ -224,17 +224,17 @@
   </tr>
   <tr>
     <td>3月6日(木)<br>14:00-15:00</td>
-    <td>後藤節子教授／<br>死亡ゼロを達成した若年女性のがん -予防的管理と早期治療の軌跡-</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=91&amp;page_type=f_index">後藤節子教授／<br>死亡ゼロを達成した若年女性のがん -予防的管理と早期治療の軌跡-</a></td>
     <td>保健学科大講義室(東館4階)</td>
   </tr>
   <tr>
     <td>3月7日(木)<br>14:00-15:00</td>
-    <td>前田尚利教授／<br>これからの放射線の役割</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=92&amp;page_type=f_index">前田尚利教授／<br>これからの放射線の役割</a></td>
     <td>保健学科大講義室(東館4階)</td>
   </tr>
   <tr>
     <td>3月7日(木)<br>15:30-16:30</td>
-    <td>田伏勝義教授／<br>医学物理士としての30年</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=93&amp;page_type=f_index">田伏勝義教授／<br>医学物理士としての30年</a></td>
     <td>保健学科大講義室(東館4階)</td>
   </tr>
   <tr>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>3月7日(金)<br>16:30-17:30</td>
-    <td>妹尾久雄教授／<br>環境医学研究所での内分泌学研究</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=94&amp;page_type=f_index">妹尾久雄教授／<br>環境医学研究所での内分泌学研究</a></td>
     <td>グリーンサロン東山</td>
   </tr>
   </table>
@@ -278,17 +278,17 @@
   </tr>
   <tr>
     <td>2月22日(金)<br>15:30-17:00</td>
-    <td>沓名宗春教授／<br>溶接ワイヤーから最新レーザ利用生産システムの開発まで40年</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=86&amp;page_type=f_index">沓名宗春教授／<br>溶接ワイヤーから最新レーザ利用生産システムの開発まで40年</a></td>
     <td>工学部1号館2F121講義室</td>
   </tr>
   <tr>
     <td>2月29日(金)<br>13:00-14:30</td>
-    <td>桑原守教授／<br>材料反応工学の道40年</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=87&amp;page_type=f_index">桑原守教授／<br>材料反応工学の道40年</a></td>
     <td>工学部4号館中央棟3F講会議室 </td>
   </tr>
   <tr>
     <td>2月29日(金)<br>15:00-16:30</td>
-    <td>宮田隆司教授／<br>破壊力学と材料―力学屋の材料強度学―</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=88&amp;page_type=f_index">宮田隆司教授／<br>破壊力学と材料―力学屋の材料強度学―</</a></td>
     <td>工学部4号館中央棟3F講会議室 </td>
   </tr>
   <tr>
@@ -320,7 +320,7 @@
   </tr>
   <tr>
     <td>2月21日(木)<br>15:15-16:00</td>
-    <td>磯部稔教授／<br>生物有機化学40年の展開</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=83&amp;page_type=f_index">磯部稔教授／<br>生物有機化学40年の展開</a></td>
     <td>農学部講義棟第12講義室</td>
   </tr>
   <tr>
@@ -441,7 +441,7 @@
 
 </table>
 </div>  <div class="feedback">
-  <a href="index.php?lang=ja&mode=g&page_type=feedback&ref_lang=ja&ref_mode=l&ref_id=&ref_page_type=farewell"><img src="./images/ja/b_feedback.jpg" alt="Feedback" title="ご意見・ご感想のフィードバックページ"></a>
+  <a href="index.php?lang=ja&amp;mode=g&amp;page_type=feedback&amp;ref_lang=ja&amp;ref_mode=l&amp;ref_id=&amp;ref_page_type=farewell"><img src="./images/ja/b_feedback.jpg" alt="Feedback" title="ご意見・ご感想のフィードバックページ"></a>
 </div>
 <div class="footer">
 <a href="http://www.cshe.nagoya-u.ac.jp/stips/" target="_blank"><img src="./images/common/f_studytips.gif" width="100" height="25" alt="名古屋大学新入生のためのスタディティップス"></a>
