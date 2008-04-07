@@ -22,7 +22,7 @@
 	<a href="http://vdbserv.media.nagoya-u.ac.jp/ramgen/vod//OWE/00024521.rm?autostart=true" title="1分間 OCW 紹介"><img src="./images/{$lang}/b_video_ocw.jpg" alt="1分間OCW紹介" width="133" height="75"></a>
 	</div>
 
-	<div class="welcome_cotents">
+	<div class="welcome_contents">
 	<p>ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。授業の内容を見て、教員の言葉を聞いて、名大の授業をぜひ「体験」してください。</p>
 	<p>名古屋大学は文系から理系まで幅広い分野を擁する総合大学です。1800人ほどの教員が在籍し、毎日多くの授業を行っています。授業の内容は自然科学から社会科学まで多岐にわたり、授業の対象も学部1年生から大学院生まで様々です。これらの授業は普段は名古屋大学の学生しか聴講することができません。</p>
 
