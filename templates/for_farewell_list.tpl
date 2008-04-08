@@ -176,22 +176,6 @@
   </tr>
   </table>
 
-  <h2>情報文化学部</h2>
-  <table class="farewell">
-  <colgroup class="farewell_date"></colgroup>
-  <colgroup class="farewell_title"></colgroup>
-  <colgroup class="farewell_place"></colgroup>
-
-  <tr>
-    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
-  </tr>
-  <tr>
-    <td>3月6日(木)<br>15:00-</td>
-    <td>八田武志教授／<br>健やかな老年期のために -住民検診からの提言-</td>
-    <td>全学教育棟2階S2X教室</td>
-  </tr>
-  </table>
-
   <h2>理学部・理学研究科</h2>
   <table class="farewell">
   <colgroup class="farewell_date"></colgroup>
@@ -219,7 +203,7 @@
   </tr>
   <tr>
     <td>2月21日(木)<br>15:30-16:30</td>
-    <td>伊藤秀郎教授／<br>院内感染対策と微生物検査室の役割</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=85&amp;page_type=f_index">伊藤秀郎教授／<br>院内感染対策と微生物検査室の役割</a></td>
     <td>保健学科大講義室(東館4階)</td>
   </tr>
   <tr>
@@ -394,6 +378,11 @@
 
   <tr>
     <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
+  </tr>
+  <tr>
+    <td>3月6日(木)<br>15:00-</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=90&amp;page_type=f_index">八田武志教授／<br>健やかな老年期のために -住民検診からの提言-</a></td>
+    <td>全学教育棟2階S2X教室</td>
   </tr>
   <tr>
     <td>3月17日(月)<br>16:30-17:45</td>
