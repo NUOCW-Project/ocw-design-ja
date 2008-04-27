@@ -143,6 +143,13 @@
 
   
   <div class="course_contents">
+  <p>
+  2007年度退職記念講義の教材を公開しています。
+  教員氏名・講演題目をクリックしていただくことで、
+  各講義のコンテンツがご覧いただけます。
+  </p>
+
+  <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 
   <h2>文学部・文学研究科</h2>
   <table class="farewell">
@@ -187,7 +194,7 @@
   </tr>
   <tr>
     <td>2月29日(金)<br>16:30-18:00</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=89&amp;page_type=f_index">上村大輔教授／<br>時を超える｢ひと｣、｢もの｣、｢こころ｣</a></td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=89&amp;page_type=f_index">上村大輔教授／<br>時を超える「ひと」、「もの」、「こころ」</a></td>
     <td>野依記念物質科学研究館2階講演室</td>
   </tr>
   </table>
@@ -407,14 +414,77 @@
   <tr>
     <td>3月19日(水)<br>14:30-15:30</td>
     <td>小島正宣教授／<br>ロードマップは、科学の進展に役立つか</td>
-    <td>高等総合教育館6階　カンファレンスホール</td>
+    <td>高等総合教育館6階 カンファレンスホール</td>
   </tr>
   <tr>
     <td>3月19日(水)<br>15:40-16:40</td>
     <td>小川忠彦教授／<br>電波で電離圏を探る</td>
-    <td>高等総合教育館6階　カンファレンスホール</td>
+    <td>高等総合教育館6階 カンファレンスホール</td>
   </tr>
   </table>
+
+  <h2>自然科学研究機構 核融合科学研究所</h2>
+  <table class="farewell">
+  <colgroup class="farewell_date"></colgroup>
+  <colgroup class="farewell_title"></colgroup>
+  <colgroup class="farewell_place"></colgroup>
+  <tr>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
+  </tr>
+  <tr>
+    <td>3月17日(月)<br>13:30-</td>
+    <td>渡利徹夫教授／<br>プラズマ加熱電流駆動の時代に生きて</td>
+    <td>核融合科学研究所 管理棟4階 第1講義室</td>
+  </tr>
+  <tr>
+    <td>3月17日(月)<br>15:30-</td>
+    <td>岡良秀准教授／<br>イオン源とNBI-LHDの発展を目指して</td>
+    <td>核融合科学研究所 管理棟4階 第1講義室</td>
+  </tr>
+  <tr>
+    <td>3月18日(火)<br>13:30-</td>
+    <td>佐貫平二教授／<br>プラズマ物理と国際交流 〜恩師、友との出会い、来し方を振り返る〜</td>
+    <td>核融合科学研究所 管理棟4階 第1講義室</td>
+  </tr>
+  <tr>
+    <td>3月18日(火)<br>15:30-</td>
+    <td>野田信明教授／<br>こだわったこと こだわらなかったこと</td>
+    <td>核融合科学研究所 管理棟4階 第1講義室</td>
+  </tr>
+  </table>
+
+  <!-- 関連リンクはじめ -->
+  <table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
+    <tr>
+    <td width="10" height="15"><img src="./images/common/gray01.gif" alt=""></td>
+    <td width="30" height="15" class="td_top_gray"></td>
+    <td width="10" height="15"><img src="./images/common/gray03.gif" alt=""></td>
+    </tr>
+  
+    <tr>
+    <td width="10" class="td_left_gray"></td>
+    <td class="td_contents_gray">    
+    <div class="course_contents">    
+    <p>●関連リンク</p>
+  
+    <p>
+    <a href="http://www.nagoya-u.ac.jp/topics/pdf/no178.pdf#retirement" target="_blank">名大トピックス No.178 「定年退職される教授のことば」</a> (PDF 文書, 7040KB)
+    </p>
+  
+    </div>
+  
+    </td>
+    <td width="10" class="td_right_gray"></td>
+    </tr>
+  
+    <tr>
+    <td width="10" height="15"><img src="./images/common/gray06.gif" alt=""></td>
+    <td width="430" height="15" class="td_under_gray"></td>
+    <td width="10" height="15"><img src="./images/common/gray08.gif" alt=""></td>
+    </tr>
+  </table>
+  <!-- 関連リンクここまで -->
+
 
   </div>  
 
