@@ -133,7 +133,7 @@
 	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=top"><img src="./images/{$lang}/b_feedback.jpg" alt="Feedback"></a></li>
 	{if $lang!='en'}
       <li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=relay"><img src="./images/{$lang}/b_relay.gif" alt="名古屋大学リレーセミナー"></a></li>
-	  <li class="big_button"><a href="http://www.media.nagoya-u.ac.jp/studio/podcast/studiochannel.html" target="_blank"><img src="./images/{$lang}/b_sc.gif" alt="スタジオチャンネル"></a></li>
+	  <li class="big_button"><a href="http://www.media.nagoya-u.ac.jp/sc/" target="_blank"><img src="./images/{$lang}/b_sc.gif" alt="スタジオチャンネル"></a></li>
     {/if}
 	</ul>
 
