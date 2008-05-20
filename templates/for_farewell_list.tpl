@@ -231,12 +231,12 @@
   </tr>
   <tr>
     <td>3月11日(火)<br>15:00-16:00</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=98&amp;page_type=f_index">吉田純教授／<br>名大脳外科：過去と今とこれから</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=98&amp;page_type=f_index">吉田純教授／<br>名大脳外科：過去と今とこれから</a></td>
     <td>基礎医学研究棟第4講義室</td>
   </tr>
   <tr>
     <td>3月14日(金)<br>17:00-18:00</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=101&amp;page_type=f_index">島田康弘教授／<br>私の歩んできた道</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=101&amp;page_type=f_index">島田康弘教授／<br>私の歩んできた道</a></td>
     <td>基礎医学研究棟第4講義室</td>
   </tr>
   </table>
@@ -286,7 +286,7 @@
   <tr>
     <td>3月11日(火)<br>15:00-</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=97&amp;page_type=f_index">坂田誠教授／
-        <br>海洋観測船・中性子回折・放射光科学・・・</td>
+        <br>海洋観測船・中性子回折・放射光科学・・・</a></td>
     <td>工学部1号館2F121講義室 </td>
   </tr>
   </table>
@@ -318,7 +318,7 @@
   </tr>
   <tr>
     <td>2月21日(木)<br>16:05-16:50</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=84&amp;page_type=f_index">島田清司教授／<br>「ニワトリ研究の世界の先達となれ」を目指して</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=84&amp;page_type=f_index">島田清司教授／<br>「ニワトリ研究の世界の先達となれ」を目指して</a></td>
     <td>農学部講義棟第12講義室</td>
   </tr>
   </table>
@@ -335,7 +335,7 @@
   <tr>
     <td>3月10日(月)<br>15:00-</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=96&amp;page_type=f_index">廣木詔三教授／
-        <br>火山植生の遷移とブナ科の比較生態の研究―八方美人とあぶはち取らずの人生―</td>
+        <br>火山植生の遷移とブナ科の比較生態の研究―八方美人とあぶはち取らずの人生―</a></td>
     <td>全学教育棟南館1FS16教室 </td>
   </tr>
   </table>
@@ -352,12 +352,13 @@
   </tr>
   <tr>
     <td>3月14日(金)<br>15:00-16:00</td>
-    <td>浪川幸彦教授／<br>モジュラスの花園―巨人の肩の上で―</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=99&amp;page_type=f_index">浪川幸彦教授／
+        <br>モジュラスの花園―巨人の肩の上で―</a></td>
     <td>理学部1号館509号室</td>
   </tr>
   <tr>
     <td>3月14日(金)<br>16:15-17:15</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=100&amp;page_type=f_index">梅村浩教授／<br>射影極限と帰納極限</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=100&amp;page_type=f_index">梅村浩教授／<br>射影極限と帰納極限</a></td>
     <td>理学部1号館509号室</td>
   </tr>
   </table>
@@ -396,12 +397,12 @@
   </tr>
   <tr>
     <td>3月17日(月)<br>16:30-17:45</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=102&amp;page_type=f_index">河合崇欣教授／<br>環境科学への想い</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=102&amp;page_type=f_index">河合崇欣教授／<br>環境科学への想い</a></td>
     <td>環境総合館3階 講義室3</td>
   </tr>
   <tr>
     <td>3月22日(土)<br>17:00頃-</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=105&amp;page_type=f_index">山田功夫教授／<br>地球惑星科学における観測</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=105&amp;page_type=f_index">山田功夫教授／<br>地球惑星科学における観測</a></td>
     <td>環境総合館1Fレクチャーホール</td>
   </tr>
   </table>
@@ -416,12 +417,12 @@
   </tr>
   <tr>
     <td>3月19日(水)<br>14:30-15:30</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=103&amp;page_type=f_index">小島正宣教授／<br>ロードマップは、科学の進展に役立つか</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=103&amp;page_type=f_index">小島正宣教授／<br>ロードマップは、科学の進展に役立つか</a></td>
     <td>高等総合教育館6階 カンファレンスホール</td>
   </tr>
   <tr>
     <td>3月19日(水)<br>15:40-16:40</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=104&amp;page_type=f_index">小川忠彦教授／<br>電波で電離圏を探る</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=104&amp;page_type=f_index">小川忠彦教授／<br>電波で電離圏を探る</a></td>
     <td>高等総合教育館6階 カンファレンスホール</td>
   </tr>
   </table>
