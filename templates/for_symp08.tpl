@@ -169,7 +169,7 @@ dl#organizer dd{
 <dt>●場所</dt> <dd>名古屋大学野依記念学術交流館　カンファレンスホール</dd>
 <dt>●対象</dt> <dd>どなたでも参加できます。入場無料です。</dd>
 <dt>●申込方法</dt>
-<dd>ただいま準備中です。今しばらくお待ち下さい。</dd>
+<dd><a href="https://www.media.nagoya-u.ac.jp/symp08/regist.php">参加申込フォーム</a>よりお申し込み下さい。</dd>
 </dl>
 
 <div class="line">
