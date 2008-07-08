@@ -42,8 +42,8 @@
         {strip}
           <td class="{if $lang=='ja'}pickup_contents_title{else}pickup_contents_title_wide{/if}">
           {if $bn.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&mode=c&id={$bn.relation_id}">{/if}
-            {if $lang=='ja'}{$bn.title|default:"名大OCWについてのお知らせ"|change_font_size:240:14}
-            {else}{$bn.title|default:"Announcement from NU OCW"|change_font_size:450:13}{/if}
+            {if $lang=='ja'}{$bn.title|default:"名大OCWについてのお知らせ"|change_font_size:240:20}
+            {else}{$bn.title|default:"Announcement from NU OCW"|change_font_size:450:18}{/if}
           {if $bn.relation_id}</a>{/if}
           </td>
         {/strip}
