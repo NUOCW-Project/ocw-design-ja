@@ -138,26 +138,6 @@ tr.table_white a:hover {/*マウスオーバー*/
 {/literal}{ldelim}/literal{rdelim}
 </style>
 
-<script Language="JavaScript">
-<!--
-function playFLV(numItem) {
-    FLVWin = window.open("./FLV.html","sub","width=380,height=330");
-    var XML_URL = 'http://133.6.80.135/StudioChannel.xml';
-    FLVWin.document.open();
-    FLVWin.document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="380" height="330" id="FLVPlayerXML" align="middle">');
-    FLVWin.document.write('<param name="allowScriptAccess" value="sameDomain" />');
-    FLVWin.document.write('<param name="movie" value="http://133.6.80.135/StudioCannel/FLVPlayerXML.swf" />');
-    FLVWin.document.write('<param name="quality" value="high" />');
-    FLVWin.document.write('<param name="bgcolor" value="#ffffff" />')
-    FLVWin.document.write('<param name="FlashVars" value="XML_URL=' + XML_URL + '&numItem=' + numItem + '" />');
-    FLVWin.document.write('<embed src="http://133.6.80.135/StudioCannel/FLVPlayerXML.swf" FlashVars="XML_URL=' + XML_URL + '&numItem=' + numItem + '" quality="high" bgcolor="#ffffff" width="380" height="330" name="FLVPlayerXML" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
-    FLVWin.document.write('</object>');
-    FLVWin.document.close();
-    FLVWin.window.focus();
-    }
-// -->
-</script>
-
 <title>
 名大の授業 Nagoya University OpenCourseWare || 名古屋大学OCWシンポジウム2008
 </title>
@@ -245,21 +225,22 @@ function playFLV(numItem) {
 <li>なぜ MIT は OCW を始めたのでしょうか？
 <br>なぜ無償で教材を公開することになったのでしょうか？<br>
 <table width="360" border="0">
-      <tr class=table_white>
-        <td align="right"><a href="javaScript:playFLV(126)"><img src="./images/ja/symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" /></a></td>
-        <td>　<a href="javaScript:playFLV(126)">Flash</a>
-		<br>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
-	   <br>　（11分13秒）</td>
-      </tr>
+<tr class=table_white>
+<td align="right">
+ <a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">
+ <img src="./symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" /></a></td>
+ <td>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
+ <br>　（11分13秒）</td>
+</tr>
 </table>
 <li>OCW を始めるにあたり，どのようなことが問題になりましたか？
 <br>MITのOCWは，その後どのように展開していったのでしょうか？
 <table width="360" border="0">
       <tr class=table_white>
-        <td align="right"><a href="javaScript:playFLV(127)"><img src="./images/ja/symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" /></a></td>
-        <td>　<a href="javaScript:playFLV(127)">Flash</a>
-        <br>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
-        <br>　（09分02秒）</td>
+        <td align="right"><a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">
+<img src="./symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" /></a></td>
+<td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
+<br>　（09分02秒）</td>
       </tr>
 </ul>
 
@@ -324,9 +305,10 @@ function playFLV(numItem) {
 <dd>名古屋大学オープンコースウェア委員会</dd>
 
 <dt>協賛</dt>
-<dd><a href="http://www.media.nagoya-u.ac.jp" alt="情報メディア教育センター">情報メディア教育センター</a>
-<br><a href="http://www.cshe.nagoya-u.ac.jp/" alt="高等教育研究センター">高等教育研究センター</a>
-<br><a href="http://www.gcoe.lit.nagoya-u.ac.jp/" alt="名古屋大学グローバルCOEプログラム・テクスト布置の解釈学的研究と教育">名古屋大学グローバルCOEプログラム・テクスト布置の解釈学的研究と教育</a>
+<p>・<a href="http://www.media.nagoya-u.ac.jp" alt="情報メディア教育センター">情報メディア教育センター</a>
+<br>・<a href="http://www.cshe.nagoya-u.ac.jp/" alt="高等教育研究センター">高等教育研究センター</a>
+<br>・<a href="http://www.gcoe.lit.nagoya-u.ac.jp/" alt="名古屋大学グローバルCOEプログラム・テクスト布置の解釈学的研究と教育">名古屋大学グローバルCOEプログラム・テクスト布置の解釈学的研究と教育</a>
+</p>
 </dd>
 
 <dt>問合せ先</dt>
@@ -352,5 +334,3 @@ function playFLV(numItem) {
 </div>
 </body>
 </html>
-
-
