@@ -1,5 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
+<!-- Last updated : 2008.07.09 (Wednesday) 19:27:48 by T. Yamazato -->
 <html lang="ja">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=EUC-JP">
@@ -103,8 +104,60 @@ dl#organizer dt{
 dl#organizer dd{
   padding-bottom: 10px;
 }
+
+p{ margin: 0em 2em 0em 2em; padding: 0.5em; text-align: left;
+line-height: 180%; font-size: 90%;
+}
+li{ margin: 0em 2em 0em 2em; padding: 0.5em; text-align: left;
+line-height: 180%; font-size: 90%;
+}
+
+/*--------紫の列用--------*/
+tr.table_purple {/*セルの背景を紫にする。隙間を開ける*/
+    padding: 2px;
+    background-color: #6666aa;
+}
+tr.table_purple td {/*文字を白にする*/
+    color: #FFFFFF
+}
+tr.table_purple a {/*リンクの文字を白にする。下線なし*/
+    text-decoration: none;
+    color: #FFFFFF;
+}
+tr.table_purple a:active {/*クリックの瞬間*/
+    text-decoration: none;
+}
+tr.table_purple a:visited {/*訪問済みリンク*/
+    text-decoration: none;
+    color: #00BBFF
+}
+tr.table_purple a:hover {/*マウスオーバー*/
+    text-decoration: underline;
+}
+
 {/literal}{ldelim}/literal{rdelim}
 </style>
+
+<script Language="JavaScript">
+<!--
+function playFLV(numItem) {
+    FLVWin = window.open("./FLV.html","sub","width=380,height=330");
+    var XML_URL = 'http://133.6.80.135/StudioChannel.xml';
+    FLVWin.document.open();
+    FLVWin.document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="380" height="330" id="FLVPlayerXML" align="middle">');
+    FLVWin.document.write('<param name="allowScriptAccess" value="sameDomain" />');
+    FLVWin.document.write('<param name="movie" value="http://133.6.80.135/StudioCannel/FLVPlayerXML.swf" />');
+    FLVWin.document.write('<param name="quality" value="high" />');
+    FLVWin.document.write('<param name="bgcolor" value="#ffffff" />')
+    FLVWin.document.write('<param name="FlashVars" value="XML_URL=' + XML_URL + '&numItem=' + numItem + '" />');
+    FLVWin.document.write('<embed src="http://133.6.80.135/StudioCannel/FLVPlayerXML.swf" FlashVars="XML_URL=' + XML_URL + '&numItem=' + numItem + '" quality="high" bgcolor="#ffffff" width="380" height="330" name="FLVPlayerXML" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
+    FLVWin.document.write('</object>');
+    FLVWin.document.close();
+    FLVWin.window.focus();
+    }
+// -->
+</script>
+
 <title>
 名大の授業 Nagoya University OpenCourseWare || 名古屋大学OCWシンポジウム2008
 </title>
@@ -166,7 +219,9 @@ dl#organizer dd{
 <div id="symp_contents">
 <dl id="info">
 <dt>●日時</dt> <dd>2008年7月22日（火）10:00〜14:00</dd>
-<dt>●場所</dt> <dd>名古屋大学野依記念学術交流館　カンファレンスホール</dd>
+<dt>●場所</dt> <dd>名古屋大学野依記念学術交流館　カンファレンスホール
+</dd>
+
 <dt>●対象</dt> <dd>どなたでも参加できます。入場無料です。</dd>
 <dt>●申込方法</dt>
 <dd><a href="https://www.media.nagoya-u.ac.jp/symp08/regist.php">参加申込フォーム</a>よりお申し込み下さい。</dd>
@@ -174,7 +229,39 @@ dl#organizer dd{
 
 <div class="line">
 </div>
+<h2>＊名古屋大学OCWシンポジウムを開催します</h2>
+<p>名古屋大学オープンコースウェア委員会では，本学の授業の一部を選び，そこで実際に使われている教材を電子化しインターネット上で無償で公開する「名大の授業」と呼ぶサイトを運営しています．
+このサイトでは，部局長推薦よるものなど５０以上の授業教材が掲載されており，また，各担当教員による「１分間授業紹介ビデオ」や授業に対する工夫・思いが書いてある「授業の工夫」もご覧にいただけます．</p>
+<p>このように，優れた授業教材・教育実践を公開することは，普段は垣間見ることのできない名古屋大学の教育の一端を社会へ広く情報発信できるだけでなく，教育の改善にもつながるものと期待されています．</p>
+<p>このシンポジウムでは「優れた教育実践をどのように公開して共有するのか」をテーマに３名の講師の方々にご講演，また最後にパネルディス化ションを行います．</p>
+<p>たくさんの皆様の参加をお待ちしております．</p>
 
+<h2>＊MIT宮川教授へのインタビュー</h2>
+
+<p>名古屋大学OCWシンポジウムに先立ち，マサチューセッツ工科大学（MIT）の宮川教授へインタビューを行いました．</p>
+<p>宮川先生は，MITのOCWプロジェクト発足当初からの中心メンバーとして活躍されておりオープンコースウェア（OCW）の普及に向けて精力的に活動されています．</p>
+<p>インタビューは２部構成になっております．収録は平成20年7月1日，インタビューアーは名古屋大学情報メディア教育センター・メディアプロデューサーの宇佐美さんです．
+<ul>
+<li>なぜ MIT は OCW をはじめることになったのか？
+<br>なぜ無償で教材を公開することになったのか？
+<table width="430" border="0">
+      <tr class=table_purple>
+        <td align="center"><img src="./images/ja/symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" width="50" height="38" /></td>
+        <td>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
+		<br>　<a href="javaScript:playFLV(126)">Flash</a></td>
+        <td align="center">11分13秒</td>
+      </tr>
+</table>
+<li>OCW を始めるにあたり，どのようなことが問題になったのか？
+<br>MITのOCWは，その後どのように展開されたのか？
+<table width="430" border="0">
+      <tr class=table_purple>
+        <td align="center"><img src="./images/ja/symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" width="50" height="38" /></td>
+        <td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
+        <br>　<a href="javaScript:playFLV(127)">Flash</a></td>
+        <td align="center">9分02秒</td>
+      </tr>
+</ul>
 
 <h2>＊プログラム</h2>
 
@@ -227,15 +314,26 @@ dl#organizer dd{
 
 
 <div id="map">
-<img src="./images/ja/noyori_map.gif" alt="会場地図">
+<img src="./images/ja/noyori_map.gif" alt="会場地図"><br>
+<p>名古屋大学へは
+<a href="http://www.nagoya-u.ac.jp/index3s-4.html" alt="名古屋大学へのアクセス">
+名古屋駅から　地下鉄東山線藤が丘行きに乗車　本山駅で地下鉄名城線右回りに乗り換え　名古屋大学駅下車</a></p>
+<p>野依記念学術交流館カンファレンスホールは
+<a href="http://www.nagoya-u.ac.jp/camp/map_higashiyama/higashiyama_east.html" alt="名古屋大学キャンパスマップ">名古屋大学キャンパスマップ</a>の６８番の建物です．
+</p>
 </div>
+
+
 
 <dl id="organizer">
 <dt>主催</dt>
 <dd>名古屋大学オープンコースウェア委員会</dd>
 
 <dt>協賛</dt>
-<dd>情報メディア教育センター<br>高等教育研究センター</dd>
+<dd><a href="http://www.media.nagoya-u.ac.jp" alt="情報メディア教育センター">情報メディア教育センター</a>
+<br><a href="http://www.cshe.nagoya-u.ac.jp/" alt="高等教育研究センター">高等教育研究センター</a>
+<br><a href="http://www.gcoe.lit.nagoya-u.ac.jp/" alt="名古屋大学グローバルCOEプログラム・テクスト布置の解釈学的研究と教育">名古屋大学グローバルCOEプログラム・テクスト布置の解釈学的研究と教育</a>
+</dd>
 
 <dt>問合せ先</dt>
 <dd>名古屋大学オープンコースウェア事務室<br>
@@ -260,3 +358,5 @@ dl#organizer dd{
 </div>
 </body>
 </html>
+
+
