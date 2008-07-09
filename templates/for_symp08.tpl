@@ -228,7 +228,7 @@ tr.table_white a:hover {/*マウスオーバー*/
 <tr class=table_white>
 <td align="right">
  <a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">
- <img src="./symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" /></a></td>
+ <img src="./images/ja/symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" /></a></td>
  <td>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
  <br>　（11分13秒）</td>
 </tr>
@@ -238,7 +238,7 @@ tr.table_white a:hover {/*マウスオーバー*/
 <table width="360" border="0">
       <tr class=table_white>
         <td align="right"><a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">
-<img src="./symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" /></a></td>
+<img src="./images/ja/symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" /></a></td>
 <td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
 <br>　（09分02秒）</td>
       </tr>
