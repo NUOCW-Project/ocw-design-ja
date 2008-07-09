@@ -224,25 +224,26 @@ tr.table_white a:hover {/*マウスオーバー*/
 <ul>
 <li>なぜ MIT は OCW を始めたのでしょうか？
 <br>なぜ無償で教材を公開することになったのでしょうか？<br>
-<table width="360" border="0">
-<tr class=table_white>
-<td align="right">
- <a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">
- <img src="./images/ja/symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" /></a></td>
- <td>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
- <br>　（11分13秒）</td>
-</tr>
-</table>
+		<table width="360" border="0">
+		<tr class=table_white>
+		<td align="right">
+		 <a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">
+		 <img src="./images/ja/symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" /></a></td>
+		 <td>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
+		 <br>　（11分13秒）</td>
+		</tr>
+		</table>
 <li>OCW を始めるにあたり，どのようなことが問題になりましたか？
 <br>MITのOCWは，その後どのように展開していったのでしょうか？
-<table width="360" border="0">
-      <tr class=table_white>
-        <td align="right"><a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">
-<img src="./images/ja/symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" /></a></td>
-<td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
-<br>　（09分02秒）</td>
-      </tr>
-</table>
+		<table width="360" border="0">
+		      <tr class=table_white>
+		        <td align="right"><a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">
+				<img src="./images/ja/symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" /></a></td>
+				<td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
+				<br>　（09分02秒）</td>
+			</tr>
+		</table>
+</ul>
 
 <h2>＊プログラム</h2>
 
