@@ -242,7 +242,7 @@ tr.table_white a:hover {/*マウスオーバー*/
 <td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
 <br>　（09分02秒）</td>
       </tr>
-</ul>
+</table>
 
 <h2>＊プログラム</h2>
 
