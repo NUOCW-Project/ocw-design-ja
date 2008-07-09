@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
-<!-- Last updated : 2008.07.09 (Wednesday) 19:27:48 by T. Yamazato -->
+<!-- Last updated : 2008.07.09 (Wednesday) 20:59:06 by T. Yamazato -->
 <html lang="ja">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=EUC-JP">
@@ -138,26 +138,6 @@ tr.table_purple a:hover {/*マウスオーバー*/
 {/literal}{ldelim}/literal{rdelim}
 </style>
 
-<script Language="JavaScript">
-<!--
-function playFLV(numItem) {
-    FLVWin = window.open("./FLV.html","sub","width=380,height=330");
-    var XML_URL = 'http://133.6.80.135/StudioChannel.xml';
-    FLVWin.document.open();
-    FLVWin.document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="380" height="330" id="FLVPlayerXML" align="middle">');
-    FLVWin.document.write('<param name="allowScriptAccess" value="sameDomain" />');
-    FLVWin.document.write('<param name="movie" value="http://133.6.80.135/StudioCannel/FLVPlayerXML.swf" />');
-    FLVWin.document.write('<param name="quality" value="high" />');
-    FLVWin.document.write('<param name="bgcolor" value="#ffffff" />')
-    FLVWin.document.write('<param name="FlashVars" value="XML_URL=' + XML_URL + '&numItem=' + numItem + '" />');
-    FLVWin.document.write('<embed src="http://133.6.80.135/StudioCannel/FLVPlayerXML.swf" FlashVars="XML_URL=' + XML_URL + '&numItem=' + numItem + '" quality="high" bgcolor="#ffffff" width="380" height="330" name="FLVPlayerXML" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
-    FLVWin.document.write('</object>');
-    FLVWin.document.close();
-    FLVWin.window.focus();
-    }
-// -->
-</script>
-
 <title>
 名大の授業 Nagoya University OpenCourseWare || 名古屋大学OCWシンポジウム2008
 </title>
@@ -248,8 +228,9 @@ function playFLV(numItem) {
       <tr class=table_purple>
         <td align="center"><img src="./images/ja/symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" width="50" height="38" /></td>
         <td>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
-		<br>　<a href="javaScript:playFLV(126)">Flash</a></td>
+<!--		<br>　<a href="javaScript:playFLV(126)">Flash</a></td> -->
         <td align="center">11分13秒</td>
+
       </tr>
 </table>
 <li>OCW を始めるにあたり，どのようなことが問題になったのか？
@@ -258,7 +239,7 @@ function playFLV(numItem) {
       <tr class=table_purple>
         <td align="center"><img src="./images/ja/symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" width="50" height="38" /></td>
         <td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
-        <br>　<a href="javaScript:playFLV(127)">Flash</a></td>
+<!--        <br>　<a href="javaScript:playFLV(127)">Flash</a></td> -->
         <td align="center">9分02秒</td>
       </tr>
 </ul>
@@ -314,13 +295,7 @@ function playFLV(numItem) {
 
 
 <div id="map">
-<img src="./images/ja/noyori_map.gif" alt="会場地図"><br>
-<p>名古屋大学へは
-<a href="http://www.nagoya-u.ac.jp/index3s-4.html" alt="名古屋大学へのアクセス">
-名古屋駅から　地下鉄東山線藤が丘行きに乗車　本山駅で地下鉄名城線右回りに乗り換え　名古屋大学駅下車</a></p>
-<p>野依記念学術交流館カンファレンスホールは
-<a href="http://www.nagoya-u.ac.jp/camp/map_higashiyama/higashiyama_east.html" alt="名古屋大学キャンパスマップ">名古屋大学キャンパスマップ</a>の６８番の建物です．
-</p>
+<img src="./images/ja/noyori_map.gif" alt="会場地図">
 </div>
 
 
