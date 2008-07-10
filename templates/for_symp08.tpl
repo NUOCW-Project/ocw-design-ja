@@ -105,10 +105,10 @@ dl#organizer dd{
 }
 
 p{ margin: 0em 2em 0em 2em; padding: 0.5em; text-align: left;
-line-height: 180%; font-size: 90%;
+line-height: 180%; font-size: 95%;
 }
 li{ margin: 0em 2em 0em 2em; padding: 0.5em; text-align: left;
-line-height: 180%; font-size: 90%;
+line-height: 180%; font-size: 95%;
 }
 
 /*--------白の列用--------*/
@@ -210,40 +210,42 @@ tr.table_white a:hover {/*マウスオーバー*/
 <div class="line">
 </div>
 <h2>＊名古屋大学OCWシンポジウムを開催します</h2>
-<p>名古屋大学オープンコースウェア委員会では，本学の授業の一部を選び，そこで実際に使われている教材を電子化しインターネット上で無償で公開する「名大の授業」と呼ぶサイトを運営しています．
-このサイトでは，部局長推薦よるものなど５０以上の授業教材が掲載されており，また，各担当教員による「１分間授業紹介ビデオ」や授業に対する工夫・思いが書いてある「授業の工夫」もご覧にいただけます．</p>
+<p>名古屋大学オープンコースウェア委員会では，本学の授業の一部を選び，そこで実際に使われている教材を電子化しインターネット上で無償で公開する「<a href="http://ocw.nagoya-u.jp" alt="名大の授業">名大の授業</a>」と呼ぶサイトを運営しています．
+このサイトでは，部局長推薦よるものなど名古屋大学の優れた授業教材が５０以上も掲載されており，また，各担当教員による「１分間授業紹介ビデオ」や授業に対する工夫・思いが書いてある「授業の工夫」もご覧にいただけます．</p>
 <p>このように，優れた授業教材・教育実践を公開することは，普段は垣間見ることのできない名古屋大学の教育の一端を社会へ広く情報発信できるだけでなく，教育の改善にもつながるものと期待されています．</p>
-<p>このシンポジウムでは「優れた教育実践をどのように公開して共有するのか」をテーマに３名の講師の方々にご講演，また最後にパネルディス化ションを行います．</p>
+<p>このシンポジウムでは「優れた教育実践をどのように公開して共有するのか」をテーマに３名の講師の方々にご講演いただき，最後にパネルディスカッションを行います．</p>
 <p>たくさんの皆様の参加をお待ちしております．</p>
 
 <h2>＊MIT宮川教授へのインタビュー</h2>
 
 <p>名古屋大学OCWシンポジウムに先立ち，マサチューセッツ工科大学（MIT）の宮川教授へインタビューを行いました．</p>
 <p>宮川先生は，MITのOCWプロジェクト発足当初からの中心メンバーとして活躍されておりオープンコースウェア（OCW）の普及に向けて精力的に活動されています．</p>
-<p>インタビューは２部構成になっております．収録は平成20年7月1日，インタビューアーは名古屋大学情報メディア教育センター・メディアプロデューサーの宇佐美さんです．
+<p>インタビューは２部構成になっております．
+収録は平成20年7月1日に行いました，インタビューアーは名古屋大学情報メディア教育センター・メディアプロデューサーの宇佐美さんです．</p>
 <ul>
 <li>なぜ MIT は OCW を始めたのでしょうか？
 <br>なぜ無償で教材を公開することになったのでしょうか？<br>
-		<table width="360" border="0">
-		<tr class=table_white>
-		<td align="right">
-		 <a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">
-		 <img src="./images/ja/symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" /></a></td>
-		 <td>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
-		 <br>　（11分13秒）</td>
-		</tr>
-		</table>
+	 <table width="360" border="0">
+	  <tr class=table_white>
+	   <td align="right">
+		<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">
+		<img src="./symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" /></a></td>
+	   <td>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
+	   <br>　（11分13秒）</td>
+	  </tr>
+	 </table>
 <li>OCW を始めるにあたり，どのようなことが問題になりましたか？
 <br>MITのOCWは，その後どのように展開していったのでしょうか？
-		<table width="360" border="0">
-		      <tr class=table_white>
-		        <td align="right"><a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">
-				<img src="./images/ja/symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" /></a></td>
-				<td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
-				<br>　（09分02秒）</td>
-			</tr>
-		</table>
+	 <table width="360" border="0">
+      <tr class=table_white>
+        <td align="right"><a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">
+		 <img src="./symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" /></a></td>
+	   <td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
+	   <br>　（09分02秒）</td>
+      </tr>
+	 </table>
 </ul>
+
 
 <h2>＊プログラム</h2>
 
