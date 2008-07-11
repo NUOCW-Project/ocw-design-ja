@@ -228,9 +228,10 @@ tr.table_white a:hover {/*マウスオーバー*/
 	 <table width="360" border="0">
 	  <tr class=table_white>
 	   <td align="right">
-		<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">
+		<a href="javaScript:playFLV(126)">
 		<img src="./images/ja/symp08_miyagawa1.jpg" alt="宮川先生インタビュー１" /></a></td>
-	   <td>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
+		<td>　<a href="javaScript:playFLV(126)">Flash</a>
+		<br>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
 	   <br>　（11分13秒）</td>
 	  </tr>
 	 </table>
@@ -238,9 +239,11 @@ tr.table_white a:hover {/*マウスオーバー*/
 <br>MITのOCWは，その後どのように展開していったのでしょうか？
 	 <table width="360" border="0">
       <tr class=table_white>
-        <td align="right"><a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">
+        <td align="right">
+		 <a href="javaScript:playFLV(127)">
 		 <img src="./images/ja/symp08_miyagawa2.jpg" alt="宮川先生インタビュー２" /></a></td>
-	   <td>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
+		<td>　<a href="javaScript:playFLV(127)">Flash</a>
+		<br>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
 	   <br>　（09分02秒）</td>
       </tr>
 	 </table>
