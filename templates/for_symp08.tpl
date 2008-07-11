@@ -218,7 +218,7 @@ function playFLV(numItem) {ldelim}
 
 <dt>●対象</dt> <dd>どなたでも参加できます。入場無料です。</dd>
 <dt>●申込方法</dt>
-<dd><a href="symp08/regist.php">参加申込フォーム</a>よりお申し込み下さい。</dd>
+<dd><a href="https://www.media.nagoya-u.ac.jp/symp08/regist.php">参加申込フォーム</a>よりお申し込み下さい。</dd>
 </dl>
 
 <div class="line">
