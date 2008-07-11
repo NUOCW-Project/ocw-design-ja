@@ -33,7 +33,6 @@ div#symp_contents{
   text-align: left;
 }
 
-
 dl#info {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -56,7 +55,6 @@ dl#info dd {
   margin-left: 10px;
   margin-bottom: 5px;
 }
-
 
 h2{
   font-weight: bold;
@@ -84,9 +82,7 @@ table#program td.talk {
 
 table#program span.title {
   font-size: larger;
-
 }
-
 
 div#map {
   width: 300px;
@@ -94,7 +90,6 @@ div#map {
   float: left;
   margin-right: 10px;
 }
-
 
 dl#organizer dt{
   font-weight: bold;
@@ -136,6 +131,26 @@ tr.table_white a:hover {/*マウスオーバー*/
 
 {/literal}{ldelim}/literal{rdelim}
 </style>
+
+{literal}<script Language="JavaScript">
+<!--
+function playFLV(numItem) {ldelim}
+    FLVWin = window.open("./FLV.html","sub","width=380,height=330");
+    var XML_URL = 'http://133.6.80.135/StudioChannel.xml';
+    FLVWin.document.open();
+    FLVWin.document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="380" height="330" id="FLVPlayerXML" align="middle">');
+    FLVWin.document.write('<param name="allowScriptAccess" value="sameDomain" />');
+    FLVWin.document.write('<param name="movie" value="http://133.6.80.135/StudioCannel/FLVPlayerXML.swf" />');
+    FLVWin.document.write('<param name="quality" value="high" />');
+    FLVWin.document.write('<param name="bgcolor" value="#ffffff" />')
+    FLVWin.document.write('<param name="FlashVars" value="XML_URL=' + XML_URL + '&numItem=' + numItem + '" />');
+    FLVWin.document.write('<embed src="http://133.6.80.135/StudioCannel/FLVPlayerXML.swf" FlashVars="XML_URL=' + XML_URL + '&numItem=' + numItem + '" quality="high" bgcolor="#ffffff" width="380" height="330" name="FLVPlayerXML" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
+    FLVWin.document.write('</object>');
+    FLVWin.document.close();
+    FLVWin.window.focus();
+    {rdelim}
+// -->
+</script>{/literal}
 
 <title>
 名大の授業 Nagoya University OpenCourseWare || 名古屋大学OCWシンポジウム2008
@@ -203,7 +218,7 @@ tr.table_white a:hover {/*マウスオーバー*/
 
 <dt>●対象</dt> <dd>どなたでも参加できます。入場無料です。</dd>
 <dt>●申込方法</dt>
-<dd><a href="https://www.media.nagoya-u.ac.jp/symp08/regist.php">参加申込フォーム</a>よりお申し込み下さい。</dd>
+<dd><a href="symp08/regist.php">参加申込フォーム</a>よりお申し込み下さい。</dd>
 </dl>
 
 <div class="line">
