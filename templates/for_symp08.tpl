@@ -134,7 +134,6 @@ tr.table_white a:hover {/*マウスオーバー*/
     text-decoration: underline;
 }
 
-
 {/literal}{ldelim}/literal{rdelim}
 </style>
 
