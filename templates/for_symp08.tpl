@@ -309,6 +309,61 @@ function playFLV(numItem) {ldelim}
 </tr>
 </table>
 
+<h2>＊講演者プロフィール</h2>
+<h3>宮川繁 教授</h3>
+<p>宮川先生は、マサチューセッツ工科大学でOCWプロジェクト発足当初から中心メンバーとして活躍され、OCWの普及に向けて精力的に活動されています。</p>
+<table id="profile" border="0">
+  <tr>
+   <td class="profile">1991年〜現在　マサチューセッツ工科大学　教授
+               <br>　　　　　　　　（言語学）</td>
+   <td class="picture" rowspan="3"><img src="./images/ja/symp08_miyagawa3.jpg" alt="宮川先生" /></td>
+  </tr>
+  <tr>
+   <td class="profile">1995年〜現在　マサチューセッツ工科大学
+   <br>　　　　　　　　高知ジョン万次郎記念　教授
+   <br>　　　　　　　　（日本語・日本文化）</td>
+  </tr>
+  <tr>
+   <td class="profile">2008年〜現在　名古屋大学文学研究科
+   <br>　　　　　　　グローバルCOE　特任教授</td>
+  </tr>
+</table>
+</p>
+<h3>山田恒夫 教授</h3>
+<p>ご専門は、教育工学、学習心理学、第2言語学習。学習コンテンツの開発流通、コンピュータ支援語学教育の高度化の研究に従事されています。</p>
+<table id="profile" border="0">
+ <tr>
+  <td class="profile">2007年〜現在　独立行政法人メディア教育開発センター
+                  <br>　　　　　　　　（NIME）理事長補佐・教授</td>
+  <td class="picture" rowspan="3"><img src="./images/ja/symp08_yamada.jpg" alt="山田先生" ></td>
+ </tr>
+ <tr>
+  <td class="profile">　　　　　　　総合研究大学院大学文化科学研究科
+                  <br>　　　　　　　　メディア社会文化専攻教授
+                  <br>　　　　　　　　（情報表現内容論）併任</td>
+ </tr>
+ <tr>
+  <td class="profile">　　　　　　　NPO実務能力認定機構理事</td>
+ </tr>
+</table>
+
+<h3>石崎俊子 准教授</h3>
+<p>日本語CALL教材開発研究に従事されています。</p>
+<table id="profile" border="0">
+ <tr>
+  <td class="profile">2004年〜現在　名古屋大学　留学生センター
+                  <br>　　　　　　　日本語教育メディア・システム
+                  <br>　　　　　　　開発部門　准教授</td>
+  <td class="picture" ><img src="./images/ja/symp08_ishizaki.jpg" alt="石崎先生" ></td>
+ </tr>
+</table>
+<br>
+
+<h2>＊本シンポジウムのビデオ記録について</h2>
+
+<p>本シンポジウムはビデオ記録を行っております。</p>
+<p>なお、このシンポジウムの模様は中継され、名古屋大学ＯＣＷ（オープン・コース・ウェア）ＨＰ上で公開される予定です。あらかじめご了承ください。</p>
+
 
 <div class="line">
 </div>
