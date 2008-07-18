@@ -64,7 +64,14 @@ h2{
   background-image: none;
 }
 
-
+h3{
+  font-weight: bold;
+  color:#6666aa;
+  margin:0;
+  padding:0 0 0 20px;
+  background-image: none;
+  line-height: 180%; font-size: 110%;
+}
 
 table#program {
   margin-bottom: 20px;
@@ -184,8 +191,6 @@ function playFLV(numItem) {ldelim}
 {/literal}
 </div>
 {/strip}
-
-
 
 
 <div class="header_menu">
@@ -365,17 +370,14 @@ function playFLV(numItem) {ldelim}
 
 <p>本シンポジウムはビデオ記録を行っております。</p>
 <p>なお、このシンポジウムの模様は中継され、名古屋大学ＯＣＷ（オープン・コース・ウェア）ＨＰ上で公開される予定です。あらかじめご了承ください。</p>
-
+<br>
 
 <div class="line">
 </div>
 
-
 <div id="map">
 <img src="./images/ja/noyori_map.gif" alt="会場地図"><br>
 </div>
-
-
 
 <dl id="organizer">
 <dt>主催</dt>
