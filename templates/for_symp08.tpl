@@ -64,6 +64,7 @@ h2{
   background-image: none;
 }
 
+
 table#program {
   margin-bottom: 20px;
 }
