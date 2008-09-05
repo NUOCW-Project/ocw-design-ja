@@ -42,11 +42,10 @@
 		{/if}
 	</div>
   {else}
-
 	{$dept_info.description}
 
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
-
+  {/if}
 	<!-- ------部局紹介部分ここまで------ -->
   {/if}
 
