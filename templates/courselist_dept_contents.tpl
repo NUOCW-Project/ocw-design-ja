@@ -11,6 +11,7 @@
 
 	{if $lang=='ja' && $dept_info.description != ''}
 	<!-- ------部局紹介部分------ -->
+  {if $dept_info.department_use_template=='t'}
 	<div class="dept_info_head">
 		{if $dept_info.vs_url}
 		{* ビデオあり *}
@@ -40,8 +41,14 @@
 		</div>
 		{/if}
 	</div>
+  {else}
+
+	{$dept_info.description}
+
+	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+
 	<!-- ------部局紹介部分ここまで------ -->
-    {/if}
+  {/if}
 
 	<!-- コンテンツセル開始 -->
 	<div class="course_contents">
