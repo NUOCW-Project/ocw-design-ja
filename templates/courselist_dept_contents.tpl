@@ -133,7 +133,7 @@
 	{/if}
 
 
-	{if $lang=='en' || $dept_info.description == ''}
+	{if ($lang=='en' || $dept_info.description == '') && $dept_info.department_use_template=='t' }
 	<!-- ------ Related Link ÉôÊ¬------ -->
 	<table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
 	<tr>
