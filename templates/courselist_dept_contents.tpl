@@ -9,45 +9,57 @@
 	<td width="10" class="td_left"></td>
 	<td class="td_contents"> 
 
-	{if $lang=='ja' && $dept_info.description != ''}
 	<!-- ------部局紹介部分------ -->
   {if $dept_info.department_use_template=='t'}
-	<div class="dept_info_head">
-		{if $dept_info.vs_url}
-		{* ビデオあり *}
-		<div class="dept_info_head_left">
-			<!-- 不可視 --><h1 class="dept_info_head_title">部局紹介</h1> 
-			<div class="dept_info_head_contents">
-				{$dept_info.description|strip|strip_tags|mb_truncate:135} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
-			</div>
-			<div class="dept_info_head_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
-			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
-		</div>
-		<div class="dept_info_head_right">
-			<div class="dept_info_head_vsyllabus"><a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">{vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}</a></div>
-			<div class="dept_info_head_click_to_see"><img src="./images/ja/t_dept_info_click_to_see.png" alt="画像をクリックするとビデオが見られます。"></div>
-		</div>
-		<div class="clear"></div>
-		{else}
-		{* ビデオなし *}
-		<div class="dept_info_head_novideo">
-			<!-- 不可視 --><h1 class="dept_info_head_title">部局紹介</h1>
-			<div class="dept_info_head_dean">{$dept_info.dean_position}<br>{$dept_info.dean_name}</a></div>
-			<div class="dept_info_head_contents_with_dean">
-				{$dept_info.description|strip|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
-			</div>
-			<div class="dept_info_head_more"><strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong></div>
-			<div class="dept_info_head_link"><a href="{$dept_info.department_url}">{$dept_info.department_name}</a></div>
-		</div>
-		{/if}
-	</div>
+  	{if $lang=='ja' && $dept_info.description != ''}
+  	<div class="dept_info_head">
+  		{if $dept_info.vs_url}
+  		{* ビデオあり *}
+  		<div class="dept_info_head_left">
+  			<!-- 不可視 --><h1 class="dept_info_head_title">部局紹介</h1> 
+  			<div class="dept_info_head_contents">
+  				{$dept_info.description|strip|strip_tags|mb_truncate:135} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
+  			</div>
+  			<div class="dept_info_head_more">
+          <strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong>
+        </div>
+  			<div class="dept_info_head_link">
+          <a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
+        </div>
+  		</div>
+  		<div class="dept_info_head_right">
+  			<div class="dept_info_head_vsyllabus">
+          <a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">
+          {vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}</a>
+        </div>
+  			<div class="dept_info_head_click_to_see">
+          <img src="./images/ja/t_dept_info_click_to_see.png" alt="画像をクリックするとビデオが見られます。">
+        </div>
+  		</div>
+  		<div class="clear"></div>
+  		{else}
+  		{* ビデオなし *}
+  		<div class="dept_info_head_novideo">
+  			<!-- 不可視 --><h1 class="dept_info_head_title">部局紹介</h1>
+  			<div class="dept_info_head_dean">{$dept_info.dean_position}<br>{$dept_info.dean_name}</a></div>
+  			<div class="dept_info_head_contents_with_dean">
+  				{$dept_info.description|strip|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
+  			</div>
+  			<div class="dept_info_head_more">
+          <strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong>
+        </div>
+  			<div class="dept_info_head_link">
+          <a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
+        </div>
+  		</div>
+  		{/if}
+  	</div>
+    {/if}
   {else}
-	{$dept_info.description}
-
-	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+	  {$dept_info.description}
+	  <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
   {/if}
 	<!-- ------部局紹介部分ここまで------ -->
-  {/if}
 
 	<!-- コンテンツセル開始 -->
 	<div class="course_contents">
@@ -133,7 +145,7 @@
 	{/if}
 
 
-	{if ($lang=='en' || $dept_info.description == '') && $dept_info.department_use_template=='t' }
+	{if $dept_info.department_use_template=='t' && ($lang=='en' || $dept_info.description == '')}
 	<!-- ------ Related Link 部分------ -->
 	<table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
 	<tr>
@@ -164,7 +176,7 @@
 
 	</table>
 	<!-- ------Related Link部分ここまで------ -->
-    {/if}
+  {/if}
 
 	</div>	<!-- コンテンツセル終了 -->
 
