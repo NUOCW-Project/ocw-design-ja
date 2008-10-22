@@ -65,6 +65,15 @@ p{
 
 }
 
+/*textareaは、すべて幅400px */
+textarea{
+	width: 400px;
+}
+/*input の幅を固定する。特にtype=text の時に使うとtextareaと幅がそろう  */
+input.fixed_width{
+	width: 400px;
+}
+
 /*　英語日本語切り替え、文字サイズ変更　*/
 
 
