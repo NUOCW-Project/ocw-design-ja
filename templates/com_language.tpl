@@ -11,7 +11,7 @@
 {strip}
 <div class="language">
 {literal}{if $exist_another}
-<a href="index.php?lang={$another_lang}&mode={$mode}&page_type={$page_type}&id={$id}">
+<a href="index.php?lang={$another_lang}&mode={$mode}&id={$id}&page_type={$page_type}">
 {if $lang == "ja"}
   <img src="./images/{$lang}/b_english.jpg" alt="English">
 {elseif $lang == "en"}
