@@ -68,7 +68,11 @@
 	<ul class="courselist">
 		{strip}
 		{foreach from=$course_list item="course"}
-			<li class="courselist"><a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
+			<li class="courselist">
+        <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+          {$course.course_name|default:"null"}
+        </a>
+      </li>
 		{foreachelse}
       <li class="no_course">
       {if $lang=='ja'}
@@ -92,7 +96,11 @@
 	<div class="farewell_list_right">
 		<ul class="courselist">
 		{foreach from=$rel_dept.course_list item="course"}
-		<li class="rel_courselist"><a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
+		  <li class="rel_courselist">
+        <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+          {$course.course_name|default:"null"}
+        </a>
+      </li>
 		{/foreach}
 		</ul>
 	</div>
@@ -113,7 +121,11 @@
 	</p>
 	<ul class="courselist">
 		{foreach from=$rel_dept.course_list item="course"}
-		<li class="rel_courselist"><a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
+		  <li class="rel_courselist">
+        <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+          {$course.course_name|default:"null"}
+        </a>
+      </li>
 		{/foreach}
 	</ul>
 	{/if}

@@ -10,7 +10,11 @@
 			<!-- リスト動的に変化させる部分開始 -->
 			{strip}
 			{foreach from=$dept.course_list item="course"}
-				<li class="courselist"><a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
+				<li class="courselist">
+          <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+            {$course.course_name|default:"null"}
+          </a>
+        </li>
 
 			{foreachelse}
         <li class="no_course">
