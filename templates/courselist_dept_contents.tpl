@@ -69,7 +69,14 @@
 		{strip}
 		{foreach from=$course_list item="course"}
 			<li class="courselist"><a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
-		{foreachelse}<li class="no_course">現在公開されている授業はありません。</li>
+		{foreachelse}
+      <li class="no_course">
+      {if $lang=='ja'}
+        現在公開されている授業はありません。
+      {else}
+        No courses available at this time.
+      {/if}
+      </li>
 		{/foreach}
 		{/strip}
 	</ul>
@@ -97,8 +104,11 @@
 
 	<p>
 		{if $lang=='ja'}
-		以下の授業は<a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。{else}
-		[temporary] Related courses at <a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>	
+		以下の授業は<a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。
+    {else}
+		Following 
+    {if $rel_dept.course_list|@count=1}course is{else}courses are{/if}
+    held under <a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>.
 		{/if}
 	</p>
 	<ul class="courselist">
