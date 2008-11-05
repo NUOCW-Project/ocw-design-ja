@@ -107,7 +107,7 @@
 		以下の授業は<a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。
     {else}
 		Following 
-    {if $rel_dept.course_list|@count=1}course is{else}courses are{/if}
+    {if $rel_dept.course_list|@count==1}course is{else}courses are{/if}
     held under <a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>.
 		{/if}
 	</p>
