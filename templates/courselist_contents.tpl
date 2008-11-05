@@ -1,6 +1,6 @@
 <!-- コースリスト部局一つ分開始 -->
 {foreach from=$deptlist_for_clist item="dept"}
-  {if $lang!='en' || $dept.course_list}  {* 英語版でコースのない部局はスキップ *}
+  {if $dept.course_list}
 	<div class="courselist_left">
 	<!-- 部局名 -->
 	<a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/{$lang}/t_clist_{$dept.department_abbr}.gif" alt="{if $lang=='ja'}{$dept.department_name}{else}{$dept.department_name_e}{/if}" width="155" height="40"></a>
@@ -10,9 +10,20 @@
 			<!-- リスト動的に変化させる部分開始 -->
 			{strip}
 			{foreach from=$dept.course_list item="course"}
-				<li class="courselist"><a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">{$course.course_name}</a></li>
+				<li class="courselist">
+          <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+            {$course.course_name|default:"null"}
+          </a>
+        </li>
 
-			{foreachelse}<li class="no_course">現在公開されている授業はありません。</li>
+			{foreachelse}
+        <li class="no_course">
+        {if $lang=='ja'}
+          現在公開されている授業はありません。
+        {else}
+          No courses available at this time.
+        {/if}
+        </li>
 			{/foreach}
 			{/strip}
 			<!-- リスト動的に変化させる部分終了 -->
