@@ -1,4 +1,4 @@
-
+ 
 @charset "EUC-JP";
 
 
@@ -52,7 +52,8 @@ body{
 	text-align:center;
 	color: #666666;
 	font-size: 10pt;
-	background-image:url(../images/common/bg.gif);
+	background-image:none;  /*delete back grond*/
+	background-color: white; /*the same as above*/
 	margin:0;
 	padding:0;
 }
@@ -90,6 +91,7 @@ ul.right_contents_buttons {
 	padding: 6px 0 0;
 	text-align: center;
 	width: 150px;
+	display:none;
 }
 
 ul.right_contents_buttons li {
@@ -125,6 +127,7 @@ div.all{
 	padding:0;
 	text-align:right;
 	width:650px;
+	display:none;
 }*/
 /*　ロゴ部分 */
 div.logo{
@@ -143,6 +146,7 @@ div.language{
 	width:370px;
 	height:54px;
 	float: left;
+	display:none;
 }
 
 /*　ヘッダー画像　*/
@@ -151,16 +155,16 @@ div.header_image{
 	margin:0 5px;
 	padding: 0;
 	clear: both;
+	display:none;
 }
 
-/*　ヘッダー画像toppage用　*/
+/*　ヘッダー画像　*/
 div.header_image_top{
 	width:650px;
 	margin:0 5px;
 	padding: 0;
 	clear: both;
 }
-
 /*　共通ヘッダーメニュー　*/
 div.header_menu{
 	width:650px;
@@ -168,6 +172,7 @@ div.header_menu{
 	margin:0 5px;
 	padding: 0;
 	clear: both;
+	display:none;
 }
 
 div.header_menu img{
@@ -177,6 +182,8 @@ div.header_menu img{
 
 /*　ナビゲーター(パンくずリスト)　*/
 div.navi{
+	float:left;
+	clear:both;
 	text-align:left;
 	width: 630px;
 	/* height: 20px; */
@@ -190,12 +197,14 @@ div.left_menu{
 	width:156px;
 	margin:0 0 30px 6px;
 	padding:0;
+	display:none;
 }
 
 /*　FeedBackボタン　*/
 div.feedback{
 	text-align: right;
 	margin:0 20px 10px 0;
+	display:none;
 }
 
 /* フッター部分*/
@@ -206,6 +215,7 @@ div.footer{
 	background: url(../images/common/footer.jpg);
 	width: 650px;
 	height: 33px;
+	display:none;
 }
 
 div.footer img{

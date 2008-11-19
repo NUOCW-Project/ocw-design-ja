@@ -6,6 +6,8 @@
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/fontsize_{ldelim}$smarty.session.fontsize|default:s{rdelim}.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/left_menu_ja.css" media="all">
+<link rel="stylesheet" type="text/css" href="./css/common_print.css" media="print">
+<link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
 <title>
 Ì¾Âç¤Î¼ø¶È Nagoya University OpenCourseWare || Âà¿¦µ­Ç°¹ÖµÁ
 </title>

@@ -1,5 +1,5 @@
 <!-- ヘッダー画像(中身はテーブル) -->
-<div class="header_image">
+<div class="header_image_top">
 <table class ="header" width="650" border="0" cellPadding="0" cellSpacing="0" summary="{if $lang=='ja'}ヘッダー部分画像{else}Header{/if}">
 <tr>
 	<!-- 豊田講堂の画像は時間によって変化させる必要あり -->

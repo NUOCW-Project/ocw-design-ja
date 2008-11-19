@@ -1,4 +1,5 @@
 {literal}{* 「名大の授業について」のテンプレート *}{/literal}
+{assign var="use_print_css"  value="true"} {* プリント用cssを使う *}
 {include file="com_header.tpl"}
 {include file="com_language.tpl"}
 {include file="com_header_menu.tpl"}
