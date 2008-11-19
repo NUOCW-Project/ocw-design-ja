@@ -9,7 +9,7 @@
 {if $use_print_css eq  'true'} {*　印刷用cssのための分岐　*}
 <link rel="stylesheet" type="text/css" href="./css/common_print.css" media="print">
 <link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
-{/if}　　　{*　印刷用cssのための分岐終わり　*}
+{/if}{*　印刷用cssのための分岐終わり　*}
 <title>
 {if $lang=='ja'}
 名大の授業 Nagoya University OpenCourseWare
