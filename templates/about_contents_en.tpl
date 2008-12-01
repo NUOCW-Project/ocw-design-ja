@@ -139,7 +139,7 @@
 			<td colspan="2"><h2 class="about_committee">-Nagoya University OpenCourseWare Committee-</h2></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">(As of January 1, 2008)</td>
+			<td class="right" colspan="2">(As of July 1, 2008)</td>
 		</tr>
 
 		<tr>
@@ -155,11 +155,11 @@
 			<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
 			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
 			<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
-			<li>Hitoshi Terai<br>Assistant Professor,<br>Nagoya University Library Studies</li>
+			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio Management Office</li>
 			<li>Tomoaki Egawa<br>Media Supporter,<br>Studio Management Office</li>
-			<li>Mina Ohigashi<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			<li>Nobuko Fujii<br>Administrative Assistant,<br>OCW Administrative Office</li>
+			<li>Keiko Matsumura<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 			</p>
 		</tr>
@@ -172,12 +172,12 @@
 			<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
 			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
 			<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
-			<li>Hitoshi Terai<br>Assistant Professor,<br>Nagoya University Library Studies</li>
+			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio Management Office</li>
 			<li>Tomoaki Egawa<br>Media Supporter,<br>Studio Management Office</li>
 			<li>Atsuko Kato<br>Administrative Assistant,<br>Center for Information Media Studies</li>
-			<li>Mina Ohigashi<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			<li>Nobuko Fujii<br>Administrative Assistant,<br>OCW Administrative Office</li>
+			<li>Keiko Matsumura<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 		</tr>
 		<tr>
@@ -185,23 +185,21 @@
 			<td>
 			<p>
 			Masanori Adachi<br>
-			Kento Ayabe<br>
+			Yuka Ichnose<br>
+      Masanori Ito<br>
 			Yoko Iwashita<br>
-			Yoichi Uchida<br>
+      Tomoko Koie<br>
+      Natsumi Koresawa<br>
 			Ayaka Sato<br>
-			Masashi Sunohara<br>
-			Kazuki Takai<br>
+      Misaki Shiraishi<br>
+      Nao Sumi<br>
+      Tomoyo Takahashi<br>
 			Zhong Yang<br>
-			Takahiro Togo<br>
+      Tetsuro Nagai<br>
 			Yasutaka Nakashima<br>
-			Norihiko Namikawa<br>
-			Yukiko Hayashi<br>
-			Yurie Hirabara<br>
-			Yuki Honda<br>
-			Kazuma Maruchi<br>
-			Nozomi Matsuzawa<br>
-			Chisato Minoshima<br>
-			Masaomi Yamada
+      Shikiko Hirano<br>
+      Reina Fukuzaki<br>
+			Kazuma Maruchi
 			</p>
 		</tr>
 		<tr>
