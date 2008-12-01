@@ -185,7 +185,7 @@
 			<td>
 			<p>
 			Masanori Adachi<br>
-			Yuka Ichnose<br>
+			Yuka Ichinose<br>
       Masanori Ito<br>
 			Yoko Iwashita<br>
       Tomoko Koie<br>
