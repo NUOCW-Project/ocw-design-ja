@@ -6,27 +6,17 @@
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/fontsize_{ldelim}$smarty.session.fontsize|default:s{rdelim}.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/left_menu_{$lang}.css" media="all">
+{if $use_print_css eq  'true'} {*　印刷用cssのための分岐　*}
+<link rel="stylesheet" type="text/css" href="./css/common_print.css" media="print">
+<link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
+{/if}{*　印刷用cssのための分岐終わり　*}
 <title>
 {if $lang=='ja'}
-  名大の授業 Nagoya University OpenCourseWare
-  {else}
-  Nagoya University OpenCourseWare (NU OCW)
-{/if}
-{if $title}
-  {* タイトルが指定されている *}
-  {$title}
-{elseif $on_top}
-  {* トップページ *}
+名大の授業 Nagoya University OpenCourseWare
 {else}
-  {* それ以外は自動で生成 *}
-  {foreach from=$navi_list item="navi" name=n}
-    {* もっとも細かい項目 *}
-    {if !$smarty.foreach.n.first || !$course}	
-    {strip}|| {$navi.text}{/strip}
-    {/if}
-  {/foreach}
+Nagoya University OpenCourseWare (NU OCW)
 {/if}
-</title>
+{$title}</title>
 </head>
 <body>
 <div class="all"><!-- コンテンツ全体を囲むブロック開始 -->

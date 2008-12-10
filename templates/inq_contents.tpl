@@ -108,16 +108,16 @@
 
 		<h1 class="inq">4.<span class="red">（必須）</span>件名をご記入下さい</h1>
 		<p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
-			<input type="text" name="title" size="70"></input>
+			<input type="text" name="title" class="fixed_width" ></input>
 			
 		<h1 class="inq">5.<span class="red">（必須）</span>内容を具体的にご記入ください</h1>
-			<textarea name="content" rows="10" cols="50" tabindex="0"></textarea>	
+			<textarea name="content" rows="10" cols="50" tabindex="0" ></textarea>	
 
 		<h1 class="inq">6.<span class="red">（必須）</span>お名前</h1>
-			<input type="text" name="c_name" size="50"></input>
+			<input type="text" name="c_name"  class="fixed_width"></input>
 
 		<h1 class="inq">7.<span class="red">（必須）</span>連絡可能なＥメールアドレス</h1>		
-			<input type="text" name="c_email" size="70"></input>
+			<input type="text" name="c_email" class="fixed_width"></input>
 		<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
 		<input type="submit" name="submit" value="入力内容の確認">
 		<input type="reset" name="" value="リセット">

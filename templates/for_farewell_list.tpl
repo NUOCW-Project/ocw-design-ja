@@ -6,6 +6,8 @@
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/fontsize_{ldelim}$smarty.session.fontsize|default:s{rdelim}.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/left_menu_ja.css" media="all">
+<link rel="stylesheet" type="text/css" href="./css/common_print.css" media="print">
+<link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
 <title>
 名大の授業 Nagoya University OpenCourseWare || 退職記念講義
 </title>
@@ -143,6 +145,13 @@
 
   
   <div class="course_contents">
+  <p>
+  2007年度退職記念講義の教材を公開しています。
+  教員氏名・講演題目をクリックしていただくことで、
+  各講義のコンテンツがご覧いただけます。
+  </p>
+
+  <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 
   <h2>文学部・文学研究科</h2>
   <table class="farewell">
@@ -171,7 +180,8 @@
   </tr>
   <tr>
     <td>3月8日(土)<br>15:00-17:00</td>
-    <td>河野正憲教授／<br>近代的民事訴訟の成立と構造―わが国民事訴訟手続きの比較歴史的考察―</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=95&amp;page_type=f_index">河野正憲教授／
+        <br>近代的民事訴訟の成立と構造―わが国民事訴訟手続きの比較歴史的考察―</a></td>
     <td>法学部第3講義室</td>
   </tr>
   </table>
@@ -187,7 +197,7 @@
   </tr>
   <tr>
     <td>2月29日(金)<br>16:30-18:00</td>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=89&amp;page_type=f_index">上村大輔教授／<br>時を超える｢ひと｣、｢もの｣、｢こころ｣</a></td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=89&amp;page_type=f_index">上村大輔教授／<br>時を超える「ひと」、「もの」、「こころ」</a></td>
     <td>野依記念物質科学研究館2階講演室</td>
   </tr>
   </table>
@@ -223,12 +233,12 @@
   </tr>
   <tr>
     <td>3月11日(火)<br>15:00-16:00</td>
-    <td>吉田純教授／<br>名大脳外科：過去と今とこれから</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=98&amp;page_type=f_index">吉田純教授／<br>名大脳外科：過去と今とこれから</a></td>
     <td>基礎医学研究棟第4講義室</td>
   </tr>
   <tr>
     <td>3月14日(金)<br>17:00-18:00</td>
-    <td>島田康弘教授／<br>私の歩んできた道</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=101&amp;page_type=f_index">島田康弘教授／<br>私の歩んできた道</a></td>
     <td>基礎医学研究棟第4講義室</td>
   </tr>
   </table>
@@ -277,7 +287,8 @@
   </tr>
   <tr>
     <td>3月11日(火)<br>15:00-</td>
-    <td>坂田誠教授／<br>海洋観測船・中性子回折・放射光科学・・・</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=97&amp;page_type=f_index">坂田誠教授／
+        <br>海洋観測船・中性子回折・放射光科学・・・</a></td>
     <td>工学部1号館2F121講義室 </td>
   </tr>
   </table>
@@ -309,7 +320,7 @@
   </tr>
   <tr>
     <td>2月21日(木)<br>16:05-16:50</td>
-    <td>島田清司教授／<br>「ニワトリ研究の世界の先達となれ」を目指して</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=84&amp;page_type=f_index">島田清司教授／<br>「ニワトリ研究の世界の先達となれ」を目指して</a></td>
     <td>農学部講義棟第12講義室</td>
   </tr>
   </table>
@@ -325,7 +336,8 @@
   </tr>
   <tr>
     <td>3月10日(月)<br>15:00-</td>
-    <td>廣木詔三教授／<br>火山植生の遷移とブナ科の比較生態の研究―八方美人とあぶはち取らずの人生―</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=96&amp;page_type=f_index">廣木詔三教授／
+        <br>火山植生の遷移とブナ科の比較生態の研究―八方美人とあぶはち取らずの人生―</a></td>
     <td>全学教育棟南館1FS16教室 </td>
   </tr>
   </table>
@@ -342,12 +354,13 @@
   </tr>
   <tr>
     <td>3月14日(金)<br>15:00-16:00</td>
-    <td>浪川幸彦教授／<br>モジュラスの花園―巨人の肩の上で―</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=99&amp;page_type=f_index">浪川幸彦教授／
+        <br>モジュラスの花園―巨人の肩の上で―</a></td>
     <td>理学部1号館509号室</td>
   </tr>
   <tr>
     <td>3月14日(金)<br>16:15-17:15</td>
-    <td>梅村浩教授／<br>射影極限と帰納極限</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=100&amp;page_type=f_index">梅村浩教授／<br>射影極限と帰納極限</a></td>
     <td>理学部1号館509号室</td>
   </tr>
   </table>
@@ -386,12 +399,12 @@
   </tr>
   <tr>
     <td>3月17日(月)<br>16:30-17:45</td>
-    <td>河合崇欣教授／<br>環境科学への想い</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=102&amp;page_type=f_index">河合崇欣教授／<br>環境科学への想い</a></td>
     <td>環境総合館3階 講義室3</td>
   </tr>
   <tr>
     <td>3月22日(土)<br>17:00頃-</td>
-    <td>山田功夫教授／<br>地球惑星科学における観測</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=105&amp;page_type=f_index">山田功夫教授／<br>地球惑星科学における観測</a></td>
     <td>環境総合館1Fレクチャーホール</td>
   </tr>
   </table>
@@ -406,15 +419,73 @@
   </tr>
   <tr>
     <td>3月19日(水)<br>14:30-15:30</td>
-    <td>小島正宣教授／<br>ロードマップは、科学の進展に役立つか</td>
-    <td>高等総合教育館6階　カンファレンスホール</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=103&amp;page_type=f_index">小島正宣教授／<br>ロードマップは、科学の進展に役立つか</a></td>
+    <td>高等総合教育館6階 カンファレンスホール</td>
   </tr>
   <tr>
     <td>3月19日(水)<br>15:40-16:40</td>
-    <td>小川忠彦教授／<br>電波で電離圏を探る</td>
-    <td>高等総合教育館6階　カンファレンスホール</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=104&amp;page_type=f_index">小川忠彦教授／<br>電波で電離圏を探る</a></td>
+    <td>高等総合教育館6階 カンファレンスホール</td>
   </tr>
   </table>
+
+  <h2>自然科学研究機構 核融合科学研究所</h2>
+  <table class="farewell">
+  <colgroup class="farewell_date"></colgroup>
+  <colgroup class="farewell_title"></colgroup>
+  <colgroup class="farewell_place"></colgroup>
+  <tr>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
+  </tr>
+  <tr>
+    <td>3月17日(月)<br>13:30-</td>
+    <td>渡利徹夫教授／<br>プラズマ加熱電流駆動の時代に生きて</td>
+    <td>核融合科学研究所 管理棟4階 第1講義室</td>
+  </tr>
+  <tr>
+    <td>3月18日(火)<br>13:30-</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=107&amp;page_type=f_index">佐貫平二教授／<br>プラズマ物理と国際交流 〜恩師、友との出会い、来し方を振り返る〜</a></td>
+    <td>核融合科学研究所 管理棟4階 第1講義室</td>
+  </tr>
+  <tr>
+    <td>3月18日(火)<br>15:30-</td>
+    <td>野田信明教授／<br>こだわったこと こだわらなかったこと</td>
+    <td>核融合科学研究所 管理棟4階 第1講義室</td>
+  </tr>
+  </table>
+
+  <!-- 関連リンクはじめ -->
+  <table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
+    <tr>
+    <td width="10" height="15"><img src="./images/common/gray01.gif" alt=""></td>
+    <td width="30" height="15" class="td_top_gray"></td>
+    <td width="10" height="15"><img src="./images/common/gray03.gif" alt=""></td>
+    </tr>
+  
+    <tr>
+    <td width="10" class="td_left_gray"></td>
+    <td class="td_contents_gray">    
+    <div class="course_contents">    
+    <p>●関連リンク</p>
+  
+    <p>
+    <a href="http://www.nagoya-u.ac.jp/topics/pdf/no178.pdf#retirement" target="_blank">名大トピックス No.178 「定年退職される教授のことば」</a> (PDF 文書, 7040KB)
+    </p>
+  
+    </div>
+  
+    </td>
+    <td width="10" class="td_right_gray"></td>
+    </tr>
+  
+    <tr>
+    <td width="10" height="15"><img src="./images/common/gray06.gif" alt=""></td>
+    <td width="430" height="15" class="td_under_gray"></td>
+    <td width="10" height="15"><img src="./images/common/gray08.gif" alt=""></td>
+    </tr>
+  </table>
+  <!-- 関連リンクここまで -->
+
 
   </div>  
 

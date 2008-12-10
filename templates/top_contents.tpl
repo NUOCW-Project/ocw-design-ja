@@ -31,7 +31,7 @@
 			</td>
 			<td class="pickup_summ_top">
 				{if $pu.relation_id}
-				<a href="index.php?lang={$lang}&mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt="" width="150" height="108"></a>
+				<a href="index.php?lang={$lang}&mode=c&id={$pu.relation_id}&page_type=index"><img class="pickup_image" src="{$pu.file_name}" alt="" width="150" height="108"></a>
 				{else}
 				<img src="{$pu.file_name}" alt=""{$pu.img_attribute}>
 				{/if}
@@ -59,7 +59,7 @@
 		{foreach from=$topics_list item="topic"}
 		<tr>
 			<td width="90" class="td_date">-{$topic.stime|date_format:"%Y/%m/%d"}</td>
-			<td class="td_topics">{$topic.contents|strip_tags:false|strip|escape}
+			<td class="td_topics">{$topic.contents|strip}
 			{if $topic.diff_day < 7}<img class="new_icon" src="./images/common/new.gif" alt="new!">{/if}
 			 </td>
 		</tr>
@@ -133,7 +133,7 @@
 	<li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=top"><img src="./images/{$lang}/b_feedback.jpg" alt="Feedback"></a></li>
 	{if $lang!='en'}
       <li class="big_button"><a href="index.php?lang={$lang}&mode=g&page_type=relay"><img src="./images/{$lang}/b_relay.gif" alt="名古屋大学リレーセミナー"></a></li>
-	  <li class="big_button"><a href="http://www.media.nagoya-u.ac.jp/studio/podcast/studiochannel.html" target="_blank"><img src="./images/{$lang}/b_sc.gif" alt="スタジオチャンネル"></a></li>
+	  <li class="big_button"><a href="http://www.media.nagoya-u.ac.jp/sc/" target="_blank"><img src="./images/{$lang}/b_sc.gif" alt="スタジオチャンネル"></a></li>
     {/if}
 	</ul>
 
