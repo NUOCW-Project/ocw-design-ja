@@ -9,6 +9,9 @@
 {if $use_print_css eq  'true'} {*　印刷用cssのための分岐　*}
 <link rel="stylesheet" type="text/css" href="./css/common_print.css" media="print">
 <link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
+
+<link rel="alternate stylesheet" type="text/css" href="./css/common.css" type="text/css" media="all" title="ブラウザでの表示のまま印刷">
+<link rel="alternate stylesheet" type="text/css" href="./css/contents.css" type="text/css" media="all" title="ブラウザでの表示のまま印刷">
 {/if}{*　印刷用cssのための分岐終わり　*}
 <title>
 {if $lang=='ja'}
