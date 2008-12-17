@@ -10,7 +10,7 @@
 	<td class="td_contents"> 
 
 	<!-- ------部局紹介部分------ -->
-  {if $dept_info.department_use_template=='t'}
+  {if $dept_info.department_use_template=='t'} {* department_use_template *}
   	{if $lang=='ja' && $dept_info.description != ''}
   	<div class="dept_info_head">
   		{if $dept_info.vs_url}
@@ -55,16 +55,19 @@
   		{/if}
   	</div>
     {/if}
-  {else}
+  {else} {* department_use_temlate *}
 	  {$dept_info.description}
-	  <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
-  {/if}
+    {if $dept_info.department_show_list=='t'}
+	    <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+    {/if}
+  {/if} {* department_use_temlate *}
 	<!-- ------部局紹介部分ここまで------ -->
 
 	<!-- コンテンツセル開始 -->
 	<div class="course_contents">
 
 	<!-- リスト動的に変化させる部分開始 -->
+  {if $dept_info.department_show_list=='t'} {* department_show_list *}
 	<ul class="courselist">
 		{strip}
 		{foreach from=$course_list item="course"}
@@ -130,7 +133,7 @@
 	</ul>
 	{/if}
 	{/foreach}	
-
+  {/if} {* department_show_list *}
 
 	{if $lang=='ja' && $dept_info.vs_url}
 	<!-- ----- FlashPlayer の案内 ----- -->
