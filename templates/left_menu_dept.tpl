@@ -32,7 +32,7 @@
 
 {strip}
   <li class="m_farewell">
-  {if !$info_only && $curr_department_abbr == $dept.department_abbr}
+  {if !$info_only && $curr_department_abbr == "farewell"}
     {* info_only は部局長挨拶本文で true. つまりチェックにならない. *}
     <img src="./images/ja/md_farewell_h.gif" alt="退職記念講義">
   {else}
