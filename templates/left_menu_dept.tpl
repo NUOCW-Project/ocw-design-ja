@@ -27,13 +27,28 @@
   </li>
 {/strip}
   <li class="preload"><img src="./images/{$lang}/{$basename}_on.jpg" alt=""></li>
+
 {/foreach}
+
+{strip}
+  <li class="m_farewell">
+  {if !$info_only && $curr_department_abbr == $dept.department_abbr}
+    {* info_only §œ…Ù∂…ƒπ∞ßª¢À‹ ∏§« true. §ƒ§ﬁ§Í•¡•ß•√•Ø§À§ §È§ §§. *}
+    <img src="./images/ja/md_farewell_h.gif" alt="¬‡ø¶µ≠«∞π÷µ¡">
+  {else}
+    <a href="index.php?lang=ja&mode=l&page_type=farewell"><img src="./images/common/dummy.gif" alt="¬‡ø¶µ≠«∞π÷µ¡"></a>
+  {/if}
+  </li>
+{/strip}
+  <li class="preload"><img src="./images/ja/farewell_on.jpg" alt=""></li>
+
 
 <!--
   {if $lang=='ja'}
-  <li><a href="index.php?lang=ja&mode=l&page_type=farewell"><img src="./images/ja/md_f_list.jpg" alt="¬‡ø¶µ≠«∞π÷µ¡"></a></li>
+  <li><a href="index.php?lang=ja&mode=l&page_type=farewell"><img src="./images/ja/md_.jpg" alt="¬‡ø¶µ≠«∞π÷µ¡"></a></li>
   {/if}
 --!>
+
 
 </ul>
 </div>
