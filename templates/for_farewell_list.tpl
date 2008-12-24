@@ -439,7 +439,7 @@
   </tr>
   <tr>
     <td>3月17日(月)<br>13:30-</td>
-    <td>渡利徹夫教授／<br>プラズマ加熱電流駆動の時代に生きて</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=137&amp;page_type=f_index">渡利徹夫教授／<br>プラズマ加熱電流駆動の時代に生きて</td>
     <td>核融合科学研究所 管理棟4階 第1講義室</td>
   </tr>
   <tr>
@@ -449,7 +449,7 @@
   </tr>
   <tr>
     <td>3月18日(火)<br>15:30-</td>
-    <td>野田信明教授／<br>こだわったこと こだわらなかったこと</td>
+    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=108&amp;page_type=f_index">野田信明教授／<br>こだわったこと こだわらなかったこと</td>
     <td>核融合科学研究所 管理棟4階 第1講義室</td>
   </tr>
   </table>
