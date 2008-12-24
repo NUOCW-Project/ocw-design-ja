@@ -160,9 +160,10 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>1月28日(月)<br>15:00-16:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=80&amp;page_type=f_index">山田弘明教授／<br>西洋近世哲学と神</a></td>
     <td>文学部237講義室</td>
   </tr>
@@ -175,9 +176,10 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>3月8日(土)<br>15:00-17:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=95&amp;page_type=f_index">河野正憲教授／
         <br>近代的民事訴訟の成立と構造―わが国民事訴訟手続きの比較歴史的考察―</a></td>
     <td>法学部第3講義室</td>
@@ -191,9 +193,10 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>2月29日(金)<br>16:30-18:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=89&amp;page_type=f_index">上村大輔教授／<br>時を超える「ひと」、「もの」、「こころ」</a></td>
     <td>野依記念物質科学研究館2階講演室</td>
   </tr>
@@ -206,29 +209,35 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>2月21日(木)<br>15:30-16:30</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=85&amp;page_type=f_index">伊藤秀郎教授／<br>院内感染対策と微生物検査室の役割</a></td>
     <td>保健学科大講義室(東館4階)</td>
   </tr>
   <tr>
+    <td>3月6日(木)<br>14:00-15:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=91&amp;page_type=f_index">後藤節子教授／<br>死亡ゼロを達成した若年女性のがん -予防的管理と早期治療の軌跡-</a></td>
     <td>保健学科大講義室(東館4階)</td>
   </tr>
   <tr>
+    <td>3月7日(木)<br>14:00-15:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=92&amp;page_type=f_index">前田尚利教授／<br>これからの放射線の役割</a></td>
     <td>保健学科大講義室(東館4階)</td>
   </tr>
   <tr>
+    <td>3月7日(木)<br>15:30-16:30</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=93&amp;page_type=f_index">田伏勝義教授／<br>医学物理士としての30年</a></td>
     <td>保健学科大講義室(東館4階)</td>
   </tr>
   <tr>
+    <td>3月11日(火)<br>15:00-16:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=98&amp;page_type=f_index">吉田純教授／<br>名大脳外科：過去と今とこれから</a></td>
     <td>基礎医学研究棟第4講義室</td>
   </tr>
   <tr>
+    <td>3月14日(金)<br>17:00-18:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=101&amp;page_type=f_index">島田康弘教授／<br>私の歩んできた道</a></td>
     <td>基礎医学研究棟第4講義室</td>
   </tr>
@@ -242,9 +251,10 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>3月7日(金)<br>16:30-17:30</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=94&amp;page_type=f_index">妹尾久雄教授／<br>環境医学研究所での内分泌学研究</a></td>
     <td>グリーンサロン東山</td>
   </tr>
@@ -258,21 +268,25 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>2月22日(金)<br>15:30-17:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=86&amp;page_type=f_index">沓名宗春教授／<br>溶接ワイヤーから最新レーザ利用生産システムの開発まで40年</a></td>
     <td>工学部1号館2F121講義室</td>
   </tr>
   <tr>
+    <td>2月29日(金)<br>13:00-14:30</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=87&amp;page_type=f_index">桑原守教授／<br>材料反応工学の道40年</a></td>
     <td>工学部4号館中央棟3F講会議室 </td>
   </tr>
   <tr>
+    <td>2月29日(金)<br>15:00-16:30</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=88&amp;page_type=f_index">宮田隆司教授／<br>破壊力学と材料―力学屋の材料強度学―</</a></td>
     <td>工学部4号館中央棟3F講会議室 </td>
   </tr>
   <tr>
+    <td>3月11日(火)<br>15:00-</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=97&amp;page_type=f_index">坂田誠教授／
         <br>海洋観測船・中性子回折・放射光科学・・・</a></td>
     <td>工学部1号館2F121講義室 </td>
@@ -287,21 +301,25 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>2月21日(木)<br>13:35-14:20</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=81&amp;page_type=f_index">福田勝洋教授／<br>動物に助けられて</a></td>
     <td>農学部講義棟第12講義室</td>
   </tr>
   <tr>
+    <td>2月21日(木)<br>14:25-15:10</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=82&amp;page_type=f_index">山木昭平教授／<br>果物そして人との出会い</a></td>
     <td>農学部講義棟第12講義室</td>
   </tr>
   <tr>
+    <td>2月21日(木)<br>15:15-16:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=83&amp;page_type=f_index">磯部稔教授／<br>生物有機化学40年の展開</a></td>
     <td>農学部講義棟第12講義室</td>
   </tr>
   <tr>
+    <td>2月21日(木)<br>16:05-16:50</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=84&amp;page_type=f_index">島田清司教授／<br>「ニワトリ研究の世界の先達となれ」を目指して</a></td>
     <td>農学部講義棟第12講義室</td>
   </tr>
@@ -314,9 +332,10 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>3月10日(月)<br>15:00-</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=96&amp;page_type=f_index">廣木詔三教授／
         <br>火山植生の遷移とブナ科の比較生態の研究―八方美人とあぶはち取らずの人生―</a></td>
     <td>全学教育棟南館1FS16教室 </td>
@@ -331,14 +350,16 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>3月14日(金)<br>15:00-16:00</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=99&amp;page_type=f_index">浪川幸彦教授／
         <br>モジュラスの花園―巨人の肩の上で―</a></td>
     <td>理学部1号館509号室</td>
   </tr>
   <tr>
+    <td>3月14日(金)<br>16:15-17:15</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=100&amp;page_type=f_index">梅村浩教授／<br>射影極限と帰納極限</a></td>
     <td>理学部1号館509号室</td>
   </tr>
@@ -352,9 +373,10 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>1月25日(金)<br>14:45-16:15</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=79&amp;page_type=f_index">中井政喜教授 ／<br>魯迅の小説『離婚』について</a></td>
     <td>全学教育棟S13教室</td>
   </tr>
@@ -368,17 +390,20 @@
   <colgroup class="farewell_place"></colgroup>
 
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>3月6日(木)<br>15:00-</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=90&amp;page_type=f_index">八田武志教授／<br>健やかな老年期のために -住民検診からの提言-</a></td>
     <td>全学教育棟2階S2X教室</td>
   </tr>
   <tr>
+    <td>3月17日(月)<br>16:30-17:45</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=102&amp;page_type=f_index">河合崇欣教授／<br>環境科学への想い</a></td>
     <td>環境総合館3階 講義室3</td>
   </tr>
   <tr>
+    <td>3月22日(土)<br>17:00頃-</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=105&amp;page_type=f_index">山田功夫教授／<br>地球惑星科学における観測</a></td>
     <td>環境総合館1Fレクチャーホール</td>
   </tr>
@@ -390,13 +415,15 @@
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
+    <td>3月19日(水)<br>14:30-15:30</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=103&amp;page_type=f_index">小島正宣教授／<br>ロードマップは、科学の進展に役立つか</a></td>
     <td>高等総合教育館6階 カンファレンスホール</td>
   </tr>
   <tr>
+    <td>3月19日(水)<br>15:40-16:40</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=104&amp;page_type=f_index">小川忠彦教授／<br>電波で電離圏を探る</a></td>
     <td>高等総合教育館6階 カンファレンスホール</td>
   </tr>
@@ -408,18 +435,21 @@
   <colgroup class="farewell_title"></colgroup>
   <colgroup class="farewell_place"></colgroup>
   <tr>
-    <th>氏名／講演題目</th><th>場所</th>
+    <th>開講日時</th><th>氏名／講演題目</th><th>場所</th>
   </tr>
   <tr>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=137&amp;page_type=f_index">渡利徹夫教授／<br>プラズマ加熱電流駆動の時代に生きて</a></td>
+    <td>3月17日(月)<br>13:30-</td>
+    <td>渡利徹夫教授／<br>プラズマ加熱電流駆動の時代に生きて</td>
     <td>核融合科学研究所 管理棟4階 第1講義室</td>
   </tr>
   <tr>
+    <td>3月18日(火)<br>13:30-</td>
     <td><a href="index.php?lang=ja&amp;mode=c&amp;id=107&amp;page_type=f_index">佐貫平二教授／<br>プラズマ物理と国際交流 〜恩師、友との出会い、来し方を振り返る〜</a></td>
     <td>核融合科学研究所 管理棟4階 第1講義室</td>
   </tr>
   <tr>
-    <td><a href="index.php?lang=ja&amp;mode=c&amp;id=108&amp;page_type=f_index">野田信明教授／<br>こだわったこと こだわらなかったこと</a></td>
+    <td>3月18日(火)<br>15:30-</td>
+    <td>野田信明教授／<br>こだわったこと こだわらなかったこと</td>
     <td>核融合科学研究所 管理棟4階 第1講義室</td>
   </tr>
   </table>
