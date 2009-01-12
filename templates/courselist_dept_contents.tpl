@@ -73,6 +73,7 @@
 		{foreach from=$course_list item="course"}
 			<li class="courselist">
         <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+          {if $lang=='ja'}{$course.instructor_name}¡¿{/if}
           {$course.course_name|default:"null"}
         </a>
       </li>
