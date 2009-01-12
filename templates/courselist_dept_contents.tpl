@@ -102,7 +102,7 @@
 		{foreach from=$rel_dept.course_list item="course"}
 		  <li class="rel_courselist">
         <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
-          {if $lang=='ja'}{$course.instructor_name}<br>　{/if}
+          {if $lang=='ja'}{$course.instructor_name}：{/if}
           {$course.course_name|default:"null"}
         </a>
       </li>
@@ -128,7 +128,7 @@
 		{foreach from=$rel_dept.course_list item="course"}
 		  <li class="rel_courselist">
         <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
-          {if $lang=='ja'}{$course.instructor_name}<br>　{/if}
+          {if $lang=='ja'}{$course.instructor_name}：{/if}
           {$course.course_name|default:"null"}
         </a>
       </li>
