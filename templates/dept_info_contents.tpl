@@ -71,8 +71,7 @@
 		<p>{if $lang=='ja'}●関連リンク{else}&loz; Related Link{/if}</p>
 		<!-- 関連リンクデータ -->
 		<p>
-		{if $lang == "ja"}<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
-		{else}<a href="{$dept_info.department_url_e}">{$dept_info.department_name_e}</a>{/if}
+		<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
 		</p>
 		<!-- 関連リンクデータ -->
 		</div><!-- 関連リンクコンテンツセル終了 -->
