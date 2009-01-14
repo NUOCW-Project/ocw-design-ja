@@ -11,10 +11,10 @@
 
 	<!-- ------部局紹介部分------ -->
   {if $dept_info.department_use_template=='t'} {* department_use_template *}
-  	{if $lang=='ja' && $dept_info.description != ''}
+  	{if $dept_info.description != ''}
   	<div class="dept_info_head">
-  		{if $dept_info.vs_url}
-  		{* ビデオあり *}
+  		{if $dept_info.vs_url && $lang=='ja'}
+  		{* 日本語でビデオあり *}
   		<div class="dept_info_head_left">
   			<!-- 不可視 --><h1 class="dept_info_head_title">部局紹介</h1> 
   			<div class="dept_info_head_contents">
@@ -40,7 +40,7 @@
   		{else}
   		{* ビデオなし *}
   		<div class="dept_info_head_novideo">
-  			<!-- 不可視 --><h1 class="dept_info_head_title">部局紹介</h1>
+  			<!-- 不可視 --><h1 class="dept_info_head_title">{if $lang=='ja'}部局紹介{else}About the Department{/if}</h1>
   			<div class="dept_info_head_dean">{$dept_info.dean_position}<br>{$dept_info.dean_name}</a></div>
   			<div class="dept_info_head_contents_with_dean">
   				{$dept_info.description|strip|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
