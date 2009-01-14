@@ -11,7 +11,7 @@
 
 	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
 	<div class="course_contents">
-	<h1>Éô¶É¾Ò²ð</h1>
+	<h1>{if $lang=='ja'}Éô¶É¾Ò²ð{elseif $lang=='en'}About{/if}</h1>
 
 	{if $dept_info.vs_url}
 	<div class="dept_info_dean_image"><div class="dept_info_dean_image_in">
@@ -21,7 +21,12 @@
 	</div></div>
 	{else}
 	<div class="dept_info_dean_text">
-	{$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
+	{if $lang=='ja'}
+    {$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
+  {elseif $lang=='en'}
+    {$dept_info.dean_name|strip},<br>
+    {$dept_info.dean_position|strip}
+  {/if}
 	</div>
 	{/if}
 
