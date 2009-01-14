@@ -24,7 +24,7 @@
 	{if $lang=='ja'}
     {$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
   {elseif $lang=='en'}
-    {$dept_info.dean_name|strip},<br>
+    {$dept_info.dean_name|strip}<br>
     {$dept_info.dean_position|strip}
   {/if}
 	</div>

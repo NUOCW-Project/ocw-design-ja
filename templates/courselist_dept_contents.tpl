@@ -45,7 +45,7 @@
           {if $lang=='ja'}
             {$dept_info.dean_position}<br>{$dept_info.dean_name}
           {elseif $lang=='en'}
-            {$dept_info.dean_name},<br>{$dept_info.dean_position}
+            {$dept_info.dean_name}<br>{$dept_info.dean_position}
           {/if}
         </div>
   			<div class="dept_info_head_contents_with_dean">
