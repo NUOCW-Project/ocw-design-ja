@@ -1,5 +1,14 @@
 @charset "EUC-JP";
 
+/*----------------メニュー項目以外の言語依存項目-------------------*/
+div.dept_info_head{
+	width: 100%; /* IE のバグ対策のおまじない */
+	padding-left: 25px;
+	padding-top: 18px;
+	margin-bottom: 20px;
+	background: url(../images/en/t_dept_info.jpg) no-repeat;
+}
+
 /*--------------------左サイドメニュー(学部一覧)--------------------*/
 /* リスト全体 */
 ul.left_menu
