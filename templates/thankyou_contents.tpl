@@ -16,7 +16,7 @@
 	</p>
 
 	<p class="thankyou">
-	<a href="index.php?lang={literal}{$smarty.get.ref_lang}&mode={$smarty.get.ref_mode}&id={$smarty.get.ref_id}&page_type={$smarty.get.ref_page_type}{/literal}">閲覧していたページに戻る</a>
+	<a href="index.php?lang={literal}{$smarty.get.ref_lang}&amp;mode={$smarty.get.ref_mode}&amp;id={$smarty.get.ref_id}&amp;page_type={$smarty.get.ref_page_type}{/literal}">閲覧していたページに戻る</a>
     </p>
 
 	</td>

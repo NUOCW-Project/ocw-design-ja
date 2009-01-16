@@ -21,7 +21,7 @@
   				{$dept_info.description|strip|strip_tags|mb_truncate:135} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
   			</div>
   			<div class="dept_info_head_more">
-          <strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong>
+          <strong><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info">more...</a></strong>
         </div>
   			<div class="dept_info_head_link">
           <a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
@@ -52,7 +52,7 @@
   				{$dept_info.description|strip|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
   			</div>
   			<div class="dept_info_head_more">
-          <strong><a href="index.php?lang={$lang}&mode=l&page_type={$curr_department_abbr}_info">more...</a></strong>
+          <strong><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info">more...</a></strong>
         </div>
   			<div class="dept_info_head_link">
           <a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
@@ -78,7 +78,7 @@
 		{strip}
 		{foreach from=$course_list item="course"}
 			<li class="courselist">
-        <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+        <a href="index.php?lang={$lang}&amp;mode=c&amp;id={$course.course_id}&amp;page_type=index">
           {if $lang=='ja'}{$course.instructor_name}：{/if}
           {$course.course_name|default:"null"}
         </a>
@@ -107,7 +107,7 @@
 		<ul class="courselist">
 		{foreach from=$rel_dept.course_list item="course"}
 		  <li class="rel_courselist">
-        <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+        <a href="index.php?lang={$lang}&amp;mode=c&amp;id={$course.course_id}&amp;page_type=index">
           {if $lang=='ja'}{$course.instructor_name}：{/if}
           {$course.course_name|default:"null"}
         </a>
@@ -123,17 +123,17 @@
 
 	<p>
 		{if $lang=='ja'}
-		以下の授業は<a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。
+		以下の授業は<a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>開講科目です。
     {else}
 		Following 
     {if $rel_dept.course_list|@count==1}course is{else}courses are{/if}
-    held under <a href="index.php?lang={$lang}&mode=l&page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>.
+    held under <a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$rel_dept.department_abbr}">{$rel_dept.department_name}</a>.
 		{/if}
 	</p>
 	<ul class="courselist">
 		{foreach from=$rel_dept.course_list item="course"}
 		  <li class="rel_courselist">
-        <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+        <a href="index.php?lang={$lang}&amp;mode=c&amp;id={$course.course_id}&amp;page_type=index">
           {if $lang=='ja'}{$course.instructor_name}：{/if}
           {$course.course_name|default:"null"}
         </a>

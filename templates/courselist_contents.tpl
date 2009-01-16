@@ -3,7 +3,7 @@
   {if $dept.course_list}
 	<div class="courselist_left">
 	<!-- Éô¶ÉÌ¾ -->
-	<a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/{$lang}/t_clist_{$dept.department_abbr}.gif" alt="{if $lang=='ja'}{$dept.department_name}{else}{$dept.department_name_e}{/if}" width="155" height="40"></a>
+	<a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$dept.department_abbr}"><img src="./images/{$lang}/t_clist_{$dept.department_abbr}.gif" alt="{if $lang=='ja'}{$dept.department_name}{else}{$dept.department_name_e}{/if}" width="155" height="40"></a>
 	</div>
 	<div class="courselist_center">
 		<ul class="courselist">
@@ -11,7 +11,7 @@
 			{strip}
 			{foreach from=$dept.course_list item="course"}
 				<li class="courselist">
-          <a href="index.php?lang={$lang}&mode=c&id={$course.course_id}&page_type=index">
+          <a href="index.php?lang={$lang}&amp;mode=c&amp;id={$course.course_id}&amp;page_type=index">
             {if $lang=='ja'}{$course.instructor_name}¡§{/if}
             {$course.course_name|default:"null"}
           </a>

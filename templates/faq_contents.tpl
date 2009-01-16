@@ -11,7 +11,7 @@
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 	
 	<div class="faq_normal">
-	<p>以下は名大の授業に関するFAQ(よくある質問)と、その答えです。その他のご質問は、<a href="index.php?lang={$lang}&mode=g&page_type=feedback">Feedback</a>からお送り下さい。</p>
+	<p>以下は名大の授業に関するFAQ(よくある質問)と、その答えです。その他のご質問は、<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=feedback">Feedback</a>からお送り下さい。</p>
 	
 	<p>
 	<ol>
@@ -46,12 +46,12 @@
 	
 	<div class="faq_color" id="faq03">
 	<p><span class="b">3.「名大の授業」の利用条件を教えてください。</span></p>
-	<p>自主学習に用いる場合は、無償でご自由にご利用頂けます。また、非営利的かつ教育的な目的に限り、コピー、配布、翻訳、編集も無償でご自由にご利用頂けます。その際は必ず原著作者のクレジットを明示して下さい。詳しくは<a href="index.php?lang={$lang}&mode=g&page_type=legal">ご利用にあたって</a>を御参照下さい。なお、ご自身のご利用方法が非営利的なものにあたるかどうかがご不明な場合は、<a href="index.php?lang=ja&mode=g&page_type=inquiry">こちら</a>までお問い合わせ下さい。</p>
+	<p>自主学習に用いる場合は、無償でご自由にご利用頂けます。また、非営利的かつ教育的な目的に限り、コピー、配布、翻訳、編集も無償でご自由にご利用頂けます。その際は必ず原著作者のクレジットを明示して下さい。詳しくは<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=legal">ご利用にあたって</a>を御参照下さい。なお、ご自身のご利用方法が非営利的なものにあたるかどうかがご不明な場合は、<a href="index.php?lang=ja&amp;mode=g&amp;page_type=inquiry">こちら</a>までお問い合わせ下さい。</p>
 	</div>
 
 	<div class="faq_normal" id="faq04">
 	<p><span class="b">4.「名大の授業」に掲載されている教材の著作権はどこに帰属していますか？</span></p>
-	<p>「名大の授業」に掲載されている教材の著作権は、名古屋大学及び教材を作成した教員に帰属します。詳しくは、詳しくは<a href="index.php?lang={$lang}&mode=g&page_type=legal">ご利用にあたって</a>をご参照下さい。</p>
+	<p>「名大の授業」に掲載されている教材の著作権は、名古屋大学及び教材を作成した教員に帰属します。詳しくは、詳しくは<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=legal">ご利用にあたって</a>をご参照下さい。</p>
 	</div>
 	
 	<div class="faq_color" id="faq05">
@@ -62,7 +62,7 @@
 	<div class="faq_normal" id="faq06">
 	<p><span class="b">6.「名大の授業」に掲載されている教材について、講義の担当者に直接質問することはできますか？</span></p>
 	<p>「名大の授業」は、名古屋大学での講義情報を公開するものであって、授業そのものではありません。このため、教員との直接のやり取りは提供しておりません。</p>
-	<p>ご意見、ご質問は<a href="index.php?lang={$lang}&mode=g&page_type=inquiry">お問合せ</a>もしくは<a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=faq">Feedback</a>を通じてお寄せ下さい。</p>
+	<p>ご意見、ご質問は<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">お問合せ</a>もしくは<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=feedback&amp;ref_lang={$lang}&amp;ref_mode=g&amp;ref_id=&amp;ref_page_type=faq">Feedback</a>を通じてお寄せ下さい。</p>
 	</div>
 
 	<div class="faq_color" id="faq07">

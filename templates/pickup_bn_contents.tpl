@@ -1,20 +1,20 @@
 <!-- バックナンバー 移動ナビ -->
 <div class="pickup_bn_navi">
 {if $bn_index != 1}
-<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index-1}">&lt;&lt; {if $lang=='ja'}前へ{else}Back{/if}</a>
+<a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id={$bn_index-1}">&lt;&lt; {if $lang=='ja'}前へ{else}Back{/if}</a>
 {/if}
 
 {if $bn_size > 1}
 {section name="bn_navi" loop=$bn_size}
 	{if $smarty.section.bn_navi.iteration != $bn_index}
-	<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$smarty.section.bn_navi.iteration}">{$smarty.section.bn_navi.iteration}</a>
+	<a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id={$smarty.section.bn_navi.iteration}">{$smarty.section.bn_navi.iteration}</a>
 	{else}<span class="b">{$bn_index}</span>
 	{/if}
 {/section}
 {/if}
 
 {if $bn_index != $bn_size}
-<a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id={$bn_index+1}"> &gt;&gt; {if $lang=='ja'}次へ{else}Next{/if}</a>
+<a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id={$bn_index+1}"> &gt;&gt; {if $lang=='ja'}次へ{else}Next{/if}</a>
 {/if}
 </div>
 
@@ -41,7 +41,7 @@
         <tr>
         {strip}
           <td class="{if $lang=='ja'}pickup_contents_title{else}pickup_contents_title_wide{/if}">
-          {if $bn.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&mode=c&id={$bn.relation_id}">{/if}
+          {if $bn.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&amp;mode=c&amp;id={$bn.relation_id}">{/if}
             {if $lang=='ja'}{$bn.title|default:"名大OCWについてのお知らせ"|change_font_size:240:20}
             {else}{$bn.title|default:"Announcement from NU OCW"|change_font_size:450:18}{/if}
           {if $bn.relation_id}</a>{/if}
@@ -49,7 +49,7 @@
         {/strip}
 
           <td class="pickup_img" rowspan="2">
-          {if $bn.relation_id}<a href="index.php?lang={$lang}&mode=c&id={$bn.relation_id}"><img class="pickup_image" src="{$bn.file_name}" alt="{$bn.title}" width="150" height="108"></a>
+          {if $bn.relation_id}<a href="index.php?lang={$lang}&amp;mode=c&amp;id={$bn.relation_id}"><img class="pickup_image" src="{$bn.file_name}" alt="{$bn.title}" width="150" height="108"></a>
           {else}<img src="{$bn.file_name}" alt=""{$bn.img_attribute}>
           {/if}
           </td>

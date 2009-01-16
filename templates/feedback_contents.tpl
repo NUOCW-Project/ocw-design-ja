@@ -97,7 +97,7 @@
 		</select>
 
 	<h2 class="feedback">*ご意見・ご感想：</h2>
-	<p class="feedback">（ここにご記入いただいた内容を公開することはありません。また、原則お答えすることはできません。お問い合わせの場合は<a href="index.php?lang={$lang}&mode=g&page_type=inquiry">こちら</a>から。）</p>
+	<p class="feedback">（ここにご記入いただいた内容を公開することはありません。また、原則お答えすることはできません。お問い合わせの場合は<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">こちら</a>から。）</p>
 
 	<textarea class="feedback" name="comment" rows="5" cols="55" tabindex="0"></textarea>
 

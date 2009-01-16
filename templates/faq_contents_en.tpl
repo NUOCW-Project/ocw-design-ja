@@ -11,7 +11,7 @@
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 	
 	<div class="faq_normal">
-	<p>Here are some frequently asked questions (FAQs) about the Nagoya University Web Classroom, complete with answers. You may send any other questions you have via the <a href="index.php?lang={$lang}&mode=g&page_type=feedback">Feedback</a> link.</p>
+	<p>Here are some frequently asked questions (FAQs) about the Nagoya University Web Classroom, complete with answers. You may send any other questions you have via the <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=feedback">Feedback</a> link.</p>
 
 	<p>
 	<ol>
@@ -45,12 +45,12 @@
 	
 	<div class="faq_color" id="faq03">
 	<p><span class="b">3. What conditions govern use of the Nagoya University OpenCourseWare?</span></p>
-	<p>You are free to use the site at no charge for self-directed study. You are likewise welcome to duplicate, distribute, translate, and edit any of the materials at no charge, as long as it is for non-profit, educational purposes. You must, however, give credit to the original author. Please refer to the <a href="index.php?lang={$lang}&mode=g&page_type=legal">Legal Notices</a> for details. If you are uncertain whether your intended purpose constitutes non-profit use, please contact <a href="index.php?lang={$lang}&mode=g&page_type=inquiry">Inquiries</a>.</p>
+	<p>You are free to use the site at no charge for self-directed study. You are likewise welcome to duplicate, distribute, translate, and edit any of the materials at no charge, as long as it is for non-profit, educational purposes. You must, however, give credit to the original author. Please refer to the <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=legal">Legal Notices</a> for details. If you are uncertain whether your intended purpose constitutes non-profit use, please contact <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">Inquiries</a>.</p>
 	</div>
 
 	<div class="faq_normal" id="faq04">
 	<p><span class="b">4. Who owns the copyright in the courseware posted on the Nagoya University OpenCourseWare site?</span></p>
-	<p>The copyright in the courseware posted on the Nagoya University OpenCourseWare site belongs to Nagoya University and the instructors who compiled it. Please refer to the User Guidelines and the <a href="index.php?lang={$lang}&mode=g&page_type=legal">Legal Notices</a> for details.</p>
+	<p>The copyright in the courseware posted on the Nagoya University OpenCourseWare site belongs to Nagoya University and the instructors who compiled it. Please refer to the User Guidelines and the <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=legal">Legal Notices</a> for details.</p>
 	</div>
 	
 	<div class="faq_color" id="faq05">
@@ -62,8 +62,8 @@
 	<p><span class="b">6. If I have a question about something in Nagoya University OpenCourseWare (NU OCW), can I ask the course instructor directly?</span></p>
 	<p>The Nagoya University OpenCourseWare (NU OCW) gives access to the content of University courses, but it does not constitute a course or program in its own right. Therefore, no direct contact is provided with instructors.</p>
 	<p>However, questions and comments can be submitted from the following pages:</p>
-    <ul><li>Questions: <a href="index.php?lang={$lang}&mode=g&page_type=inquiry">Inquiries</a> page.</p>
-        <li>Comments: <a href="index.php?lang={$lang}&mode=g&page_type=feedback&ref_lang={$lang}&ref_mode=g&ref_id=&ref_page_type=faq">Feedback</a> page.</p>
+    <ul><li>Questions: <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">Inquiries</a> page.</p>
+        <li>Comments: <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=feedback&amp;ref_lang={$lang}&amp;ref_mode=g&amp;ref_id=&amp;ref_page_type=faq">Feedback</a> page.</p>
     </ul>
 	</div>
 

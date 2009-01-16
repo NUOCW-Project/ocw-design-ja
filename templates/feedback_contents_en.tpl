@@ -296,7 +296,7 @@
 		</select>
 
 	<h2 class="feedback">* Please write your comments here:</h2>
-	<p class="feedback">(The contents written here will not be opened to the public. Also, we cannot answer questions on this form. If you would like to ask some questions, go to <a href="index.php?lang={$lang}&mode=g&page_type=inquiry">Inquiry</a> page.)</p>
+	<p class="feedback">(The contents written here will not be opened to the public. Also, we cannot answer questions on this form. If you would like to ask some questions, go to <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">Inquiry</a> page.)</p>
 
 	<textarea class="feedback" name="comment" rows="5" cols="55" tabindex="0"></textarea>
 

@@ -2,7 +2,7 @@
 <div class="left_menu">
 <ul class="left_menu">
 <!-- 授業一覧へのリンク -->
-<li class="m00list"><a href="index.php?lang={$lang}&mode=l&page_type=all{if $smarty.get.display_mode == 'temp'}&display_mode=temp{/if}"><img src="./images/common/dummy.gif" alt="{if $lang=='ja'}授業一覧{else}Course List{/if}"></a></li>
+<li class="m00list"><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=all{if $smarty.get.display_mode == 'temp'}&amp;display_mode=temp{/if}"><img src="./images/common/dummy.gif" alt="{if $lang=='ja'}授業一覧{else}Course List{/if}"></a></li>
 <li class="preload"><img src="./images/{$lang}/md_00list_on.jpg" alt=""></li>
 
 <!-- 各学部ページへのリンクリスト -->
@@ -22,7 +22,7 @@
     {* info_only は部局長挨拶本文で true. つまりチェックにならない. *}
     <img src="./images/{$lang}/{$basename}_h.gif" alt="{$dept_name}">
   {else}
-    <a href="index.php?lang={$lang}&mode=l&page_type={$dept.department_abbr}"><img src="./images/common/dummy.gif" alt="{$dept_name}"></a>
+    <a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$dept.department_abbr}"><img src="./images/common/dummy.gif" alt="{$dept_name}"></a>
   {/if}
   </li>
 {/strip}
@@ -37,7 +37,7 @@
     {* info_only は部局長挨拶本文で true. つまりチェックにならない. *}
     <img src="./images/ja/md_farewell_h.gif" alt="退職記念講義">
   {else}
-    <a href="index.php?lang=ja&mode=l&page_type=farewell"><img src="./images/common/dummy.gif" alt="退職記念講義"></a>
+    <a href="index.php?lang=ja&amp;mode=l&amp;page_type=farewell"><img src="./images/common/dummy.gif" alt="退職記念講義"></a>
   {/if}
   </li>
   -->
@@ -47,7 +47,7 @@
 
 <!--
   {if $lang=='ja'}
-  <li><a href="index.php?lang=ja&mode=l&page_type=farewell"><img src="./images/ja/md_.jpg" alt="退職記念講義"></a></li>
+  <li><a href="index.php?lang=ja&amp;mode=l&amp;page_type=farewell"><img src="./images/ja/md_.jpg" alt="退職記念講義"></a></li>
   {/if}
 --!>
 

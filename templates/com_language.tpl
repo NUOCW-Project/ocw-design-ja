@@ -2,7 +2,7 @@
 {literal}{* トップページではロゴ画像なし *}{/literal}
 <div class="logo">
 {if not $on_top}
-<a href="index.php?mode=g&lang={$lang}&page_type=top"><img src="./images/{$lang}/toplogo.jpg" width="275" height="54" alt="{if $lang=="ja"}名大の授業{else}NU OCW{/if} HOME"></a>
+<a href="index.php?mode=g&amp;lang={$lang}&amp;page_type=top"><img src="./images/{$lang}/toplogo.jpg" width="275" height="54" alt="{if $lang=="ja"}名大の授業{else}NU OCW{/if} HOME"></a>
 <!-- <img src="./images_e/{$lang}/toplogo.gif" width="260" height="55" alt="NU OCW HOME"> -->
 {/if}
 </div>
@@ -11,7 +11,7 @@
 {strip}
 <div class="language">
 {literal}{if $exist_another}
-<a href="index.php?lang={$another_lang}&mode={$mode}&id={$id}&page_type={$page_type}">
+<a href="index.php?lang={$another_lang}&amp;mode={$mode}&amp;id={$id}&amp;page_type={$page_type}">
 {if $lang == "ja"}
   <img src="./images/{$lang}/b_english.jpg" alt="English">
 {elseif $lang == "en"}

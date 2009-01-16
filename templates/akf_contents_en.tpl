@@ -19,7 +19,7 @@
 		<li>Once search results are displayed, click on a specific link</li>
 		<li>Clicking on `jump to article' will lead you directly to the specified article.</li>
 	</ol>
-	<p>Search <a href="http://akf.nul.nagoya-u.ac.jp/infolib/search/metdefault?DB_ID=G0000002AKF&GRP_ID=G0000002&DEF_XSL=eng&IS_TYPE=meta&IS_STYLE=eng"><img src="./images/common/akf.jpg" alt="AKF Search" id="akf_logo"></a>
+	<p>Search <a href="http://akf.nul.nagoya-u.ac.jp/infolib/search/metdefault?DB_ID=G0000002AKF&amp;GRP_ID=G0000002&amp;DEF_XSL=eng&amp;IS_TYPE=meta&amp;IS_STYLE=eng"><img src="./images/common/akf.jpg" alt="AKF Search" id="akf_logo"></a>
 	</p>
 	
 	<p><span class="b">Tips</span></p>
@@ -33,7 +33,7 @@
 		<li><a href="http://ir.nul.nagoya-u.ac.jp/dspace/index.jsp" target="_blank">The Nagoya University Research Institute Repository</a> houses documents, mainly papers on academic research, made by the university's researchers.</li>
 		<li><a href="http://libst1.nul.nagoya-u.ac.jp/eco/index.html" target="_blank">`Eco Collection'</a> is one of Japan's largest systematic water and flood control databases, consisting mainly of  the Takagi Documents, which tell of the history of man-nature relations in stunning detail, and the written works of Keisuke Itoh, the man considered to be the founding father of modern Japanese botany.</li>
 		<li><a href="http://plum.itc.nagoya-u.ac.jp/" target="_blank">PLUM</a> holds the web pages of sites within the university's domain. It is also possible to look up now-erased web pages.</li>
-		<li><a href="http://ocw.nagoya-u.jp/index.php?mode=g&lang=en&page_type=top" target="_blank">Nagoya University Open Course Ware</a> is the main content. A number of classes and the materials used can be viewed on the internet.</li>
+		<li><a href="http://ocw.nagoya-u.jp/index.php?mode=g&amp;lang=en&amp;page_type=top" target="_blank">Nagoya University Open Course Ware</a> is the main content. A number of classes and the materials used can be viewed on the internet.</li>
 	</ul></li>
 	</ol>
 
