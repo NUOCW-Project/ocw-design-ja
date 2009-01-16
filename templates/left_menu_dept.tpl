@@ -49,7 +49,7 @@
   {if $lang=='ja'}
   <li><a href="index.php?lang=ja&amp;mode=l&amp;page_type=farewell"><img src="./images/ja/md_.jpg" alt="Âà¿¦µ­Ç°¹ÖµÁ"></a></li>
   {/if}
---!>
+-->
 
 
 </ul>
