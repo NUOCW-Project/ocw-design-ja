@@ -16,7 +16,7 @@
 	</p>
 
 	<p class="notfound">
-	<a href="index.php?lang={literal}{$smarty.session.prev_lang}&mode={$smarty.session.prev_mode}&id={$smarty.session.prev_id}&page_type={$smarty.session.prev_page_type}{/literal}">{if $lang=='ja'}1つ前のページに戻る{else}Back to previous page{/if}</a>
+	<a href="index.php?lang={literal}{$smarty.session.prev_lang}&amp;mode={$smarty.session.prev_mode}&amp;id={$smarty.session.prev_id}&amp;page_type={$smarty.session.prev_page_type}{/literal}">{if $lang=='ja'}1つ前のページに戻る{else}Back to previous page{/if}</a>
     </p>
 
 	</td>

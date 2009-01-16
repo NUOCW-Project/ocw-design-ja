@@ -5,7 +5,7 @@
 <tr>
   <td colspan="3">
 <!-- バックナンバーへのリンク -->
-<div class="pickup_to_bn"><a href="index.php?lang={$lang}&mode=p&page_type=backnumber&id=1"><img src="./images/{$lang}/bn.gif" height="25"></a></div>
+<div class="pickup_to_bn"><a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id=1"><img src="./images/{$lang}/bn.gif" height="25"></a></div>
   </td>
 </tr>
 {/if}
@@ -31,14 +31,14 @@
   <tr>
   {strip}
     <td class="{if $lang=='ja'}pickup_contents_title{else}pickup_contents_title_wide{/if}">
-      {if $pu.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&mode=c&id={$pu.relation_id}">{/if}
+      {if $pu.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&amp;mode=c&amp;id={$pu.relation_id}">{/if}
         {if $lang=='ja'}{$pu.title|default:"名大OCWについてのお知らせ"|change_font_size:240:20}
         {else}{$pu.title|default:"Announcement from NU OCW"|change_font_size:450:18}{/if}
       {if $pu.relation_id}</a>{/if}
     </td>
   {/strip}
     <td class="pickup_img" rowspan="2">
-      {if $pu.relation_id}<a href="index.php?lang={$lang}&mode=c&id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt="{$pu.title}" width="150" height="108"></a>
+      {if $pu.relation_id}<a href="index.php?lang={$lang}&amp;mode=c&amp;id={$pu.relation_id}"><img class="pickup_image" src="{$pu.file_name}" alt="{$pu.title}" width="150" height="108"></a>
       {else}<img src="{$pu.file_name}" alt=""{$pu.img_attribute}>
       {/if}
     </td>
