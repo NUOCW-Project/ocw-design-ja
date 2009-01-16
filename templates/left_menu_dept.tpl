@@ -31,6 +31,7 @@
 {/foreach}
 
 {strip}
+  <!--
   <li class="m_farewell">
   {if !$info_only && $curr_department_abbr == "farewell"}
     {* info_only は部局長挨拶本文で true. つまりチェックにならない. *}
@@ -39,6 +40,7 @@
     <a href="index.php?lang=ja&mode=l&page_type=farewell"><img src="./images/common/dummy.gif" alt="退職記念講義"></a>
   {/if}
   </li>
+  -->
 {/strip}
   <li class="preload"><img src="./images/ja/farewell_on.jpg" alt=""></li>
 
