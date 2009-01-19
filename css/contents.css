@@ -582,7 +582,7 @@ div.dept_info_head_novideo{
 h1.dept_info_head_title{
 	margin:0;
 	padding:0;
-	height:25px;
+	height:7px;
 	visibility: hidden;
 }
 
@@ -592,13 +592,20 @@ div.dept_info_head_contents{
 	overflow:hidden;
 }
 
-div.dept_info_head_dean {
-	text-align: right;
-	padding-right:20px;
-	max-height: 36px;
+div.dept_info_head_dean_box {
+	width: 400px;
+	height: 54px;
 	color: #444444;
 	font-weight: bold;
 	overflow: hidden;
+	position: relative;
+}
+
+div.dept_info_head_dean {
+	text-align: right;
+	position: absolute;
+	right: 20px;
+	bottom: 0px;
 }
 
 div.dept_info_head_contents_with_dean{
