@@ -40,7 +40,7 @@
   		{else}
   		{* ¥Ó¥Ç¥ª¤Ê¤· *}
   		<div class="dept_info_head_novideo">
-  			<!-- ÉÔ²Ä»ë --><h1 class="dept_info_head_title">{if $lang=='ja'}Éô¶É¾Ò²ð{else}About the Department{/if}</h1>
+  			<!-- ÉÔ²Ä»ë --><h1 class="dept_info_head_title_novideo">{if $lang=='ja'}Éô¶É¾Ò²ð{else}About the Department{/if}</h1>
   			<div class="dept_info_head_dean_box">
           <div class="dept_info_head_dean">
           {if $lang=='ja'}

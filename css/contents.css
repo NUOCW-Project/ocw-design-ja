@@ -582,6 +582,13 @@ div.dept_info_head_novideo{
 h1.dept_info_head_title{
 	margin:0;
 	padding:0;
+	height:25px;
+	visibility: hidden;
+}
+
+h1.dept_info_head_title_novideo{
+	margin:0;
+	padding:0;
 	height:7px;
 	visibility: hidden;
 }
