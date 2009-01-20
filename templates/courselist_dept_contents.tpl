@@ -21,7 +21,7 @@
   				{$dept_info.description|strip|strip_tags|mb_truncate:135} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
   			</div>
   			<div class="dept_info_head_more">
-          <strong><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info">more...</a></strong>
+          <strong><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info">{if $lang=='ja'}more...{else}Read More{/if}</a></strong>
         </div>
   			<div class="dept_info_head_link">
           <a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
@@ -54,7 +54,7 @@
   				{$dept_info.description|strip|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
   			</div>
   			<div class="dept_info_head_more">
-          <strong><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info">more...</a></strong>
+          <strong><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info">{if $lang=='ja'}more...{else}Read More{/if}</a></strong>
         </div>
   			<div class="dept_info_head_link">
           <a href="{$dept_info.department_url}">{$dept_info.department_name}</a>

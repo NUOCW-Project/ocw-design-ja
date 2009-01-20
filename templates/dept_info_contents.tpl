@@ -11,7 +11,7 @@
 
 	<!-- コンテンツセル開始 -->
 	<div class="course_contents">
-	<h1>{if $lang=='ja'}部局紹介{elseif $lang=='en'}About{/if}</h1>
+	<h1>{if $lang=='ja'}部局紹介{elseif $lang=='en'}Faculty Introduction{/if}</h1>
 
 	{if $dept_info.vs_url}
 	<div class="dept_info_dean_image"><div class="dept_info_dean_image_in">
