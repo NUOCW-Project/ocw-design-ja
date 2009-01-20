@@ -586,33 +586,20 @@ h1.dept_info_head_title{
 	visibility: hidden;
 }
 
-h1.dept_info_head_title_novideo{
-	margin:0;
-	padding:0;
-	height:7px;
-	visibility: hidden;
-}
-
 div.dept_info_head_contents{
 	padding-right:20px;
 	max-height:90px;
 	overflow:hidden;
 }
 
-div.dept_info_head_dean_box {
+div.dept_info_head_dean {
 	width: 400px;
-	height: 54px;
+	max-height: 36px;
 	color: #444444;
 	font-weight: bold;
 	overflow: hidden;
-	position: relative;
-}
-
-div.dept_info_head_dean {
 	text-align: right;
-	position: absolute;
-	right: 0px;
-	bottom: 0px;
+  padding-right: 20px;
 }
 
 div.dept_info_head_contents_with_dean{

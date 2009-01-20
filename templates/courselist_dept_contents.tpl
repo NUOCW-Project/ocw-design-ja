@@ -40,15 +40,13 @@
   		{else}
   		{* ビデオなし *}
   		<div class="dept_info_head_novideo">
-  			<!-- 不可視 --><h1 class="dept_info_head_title_novideo">{if $lang=='ja'}部局紹介{else}About the Department{/if}</h1>
-  			<div class="dept_info_head_dean_box">
-          <div class="dept_info_head_dean">
+  			<!-- 不可視 --><h1 class="dept_info_head_title">{if $lang=='ja'}部局紹介{else}About the Department{/if}</h1>
+        <div class="dept_info_head_dean">
           {if $lang=='ja'}
             {$dept_info.dean_position}<br>{$dept_info.dean_name}
           {elseif $lang=='en'}
-            {$dept_info.dean_name}<br>{$dept_info.dean_position}
+            {$dept_info.dean_name}, Dean
           {/if}
-          </div>
         </div>
   			<div class="dept_info_head_contents_with_dean">
   				{$dept_info.description|strip|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
