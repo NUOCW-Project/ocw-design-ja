@@ -425,6 +425,25 @@ li.subpage_curr {
 	background-image:url(../images/ja/md_farewell_on.jpg);    /* マウスが上に来た時の背景画像設定 */
 }
 
+.m_fwarchive{
+    height:30px;             /* 項目の高さ */
+}
+   
+.m_fwarchive a{
+	background-image:url(../images/ja/md_fwarchive.jpg);   /* リンク範囲の背景画像設定 */
+	display:block;            /* リンク範囲をブロックに変換 */
+    width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
+    height:100%;              /* リンク範囲（高さ）をリスト項目範囲全て */
+    background-position:0px 0px;
+    background-repeat:no-repeat;  /* 背景画像繰り返し表示しない */
+    text-indent:0;              /* リストの文字を枠外のずらす */
+    text-decoration:none;             /* リストの下線を表示しない */
+	vertical-align:0;           /*縦方向の位置揃え*/
+}
+
+.m_fwarchive a:hover{
+	background-image:url(../images/ja/md_fwarchive_on.jpg);    /* マウスが上に来た時の背景画像設定 */
+}
 
 /*--------------------左サイドメニュー(コースページ一覧)--------------------*/
 .mc_index{
