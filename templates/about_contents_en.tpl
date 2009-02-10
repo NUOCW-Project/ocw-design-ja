@@ -157,8 +157,6 @@
 			<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
 			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio Management Office</li>
-			<li>Tomoaki Egawa<br>Media Supporter,<br>Studio Management Office</li>
-			<li>Nobuko Fujii<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			<li>Keiko Matsumura<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 			</p>
@@ -174,9 +172,7 @@
 			<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
 			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio Management Office</li>
-			<li>Tomoaki Egawa<br>Media Supporter,<br>Studio Management Office</li>
 			<li>Atsuko Kato<br>Administrative Assistant,<br>Center for Information Media Studies</li>
-			<li>Nobuko Fujii<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			<li>Keiko Matsumura<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 		</tr>
@@ -186,19 +182,20 @@
 			<p>
 			Masanori Adachi<br>
 			Yuka Ichinose<br>
-      Masanori Ito<br>
-			Yoko Iwashita<br>
-      Tomoko Koie<br>
-      Natsumi Koresawa<br>
+     			Masanori Ito<br>
+			Sayo Kobe<br>
+     			Tomoko Koie<br>
+      			Natsumi Koresawa<br>
 			Ayaka Sato<br>
-      Misaki Shiraishi<br>
-      Nao Sumi<br>
-      Tomoyo Takahashi<br>
+      			Misaki Shiraishi<br>
+      			Tomoyo Takahashi<br>
 			Zhong Yang<br>
-      Tetsuro Nagai<br>
+			Sanae Muramatsu<br>
+      			Tetsuro Nagai<br>
 			Yasutaka Nakashima<br>
-      Shikiko Hirano<br>
-      Reina Fukuzaki<br>
+			Yoshihiro Nakayama<br>
+      			Shikiko Hirano<br>
+      			Reina Fukuzaki<br>
 			Kazuma Maruchi
 			</p>
 		</tr>
