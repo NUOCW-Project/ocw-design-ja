@@ -183,20 +183,20 @@
 			Masanori Adachi<br>
 			Yuka Ichinose<br>
      			Masanori Ito<br>
-			Sayo Kobe<br>
      			Tomoko Koie<br>
+			Sayo Kobe<br>
       			Natsumi Koresawa<br>
 			Ayaka Sato<br>
       			Misaki Shiraishi<br>
       			Tomoyo Takahashi<br>
 			Zhong Yang<br>
-			Sanae Muramatsu<br>
       			Tetsuro Nagai<br>
 			Yasutaka Nakashima<br>
 			Yoshihiro Nakayama<br>
       			Shikiko Hirano<br>
       			Reina Fukuzaki<br>
-			Kazuma Maruchi
+			Kazuma Maruchi<br>
+                        Sanae Muramatsu<br>
 			</p>
 		</tr>
 		<tr>
