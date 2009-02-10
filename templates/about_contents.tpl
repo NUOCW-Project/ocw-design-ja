@@ -174,6 +174,8 @@
 			OCW事務室 事務補佐員 松村慶子<br>
 			</p>
 		</tr>
+               <tr>
+                       <td><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
 			<td>
 			<p>
       足立真訓<br>
