@@ -138,7 +138,7 @@
 			<td colspan="2"><h1 class="about_committee">-名古屋大学オープンコースウェア委員会-</h1></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">2008年7月1日現在</td>
+			<td class="right" colspan="2">2009年1月1日現在</td>
 		</tr>
 
 		<tr>

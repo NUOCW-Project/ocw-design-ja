@@ -139,7 +139,7 @@
 			<td colspan="2"><h2 class="about_committee">-Nagoya University OpenCourseWare Committee-</h2></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">(As of July 1, 2008)</td>
+			<td class="right" colspan="2">(As of January 1, 2009)</td>
 		</tr>
 
 		<tr>
