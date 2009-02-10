@@ -156,8 +156,6 @@
 			情報メディア教育センター 助教 西野隆典<br>
 			附属図書館 研究開発室 助教 三根慎二<br>
 			スタジオ管理室 メディアサポータ 原愛樹<br>
-			スタジオ管理室 メディアサポータ 江川智昭<br>
-			OCW事務室 事務補佐員 藤井伸子<br>
 			OCW事務室 事務補佐員 松村慶子<br>
 			</p>
 		</tr>
@@ -172,32 +170,44 @@
 			情報メディア教育センター 助教 西野隆典<br>
 			附属図書館 研究開発室 助教 三根慎二<br>
 			スタジオ管理室 メディアサポータ 原愛樹<br>
-			スタジオ管理室 メディアサポータ 江川智昭<br>
 			情報メディア教育センター 事務補佐員 加藤敦子<br>
-			OCW事務室 事務補佐員 藤井伸子<br>
 			OCW事務室 事務補佐員 松村慶子<br>
 			</p>
 		</tr>
-		<tr>
+"445" height="15" class="td_under"></td>
+        <td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
+</tr>
+
+</table>
+</div>  <!-- センターコンテンツ終了 -->
+
+</div>
+<div class="clear"></div>
+<!-- このSiteの特徴終了 -->
+
+<!-- リンク開始 -->
+<div class="about_left" id="about02">
+<img src="./images/{$lang}/t_02link.gi		<tr>
 			<td><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
 			<td>
 			<p>
       足立真訓<br>
       市之瀬由佳<br>
       伊藤大禮<br>
-      岩下曜子<br>
       鯉江知子<br>
+      光部紗世<br>
       是澤奈津美<br>
       佐藤綾香<br>
       白石美咲<br>
-      鷲見名央<br>
       高橋知世<br>
       鐘 揚<br>
       永井哲郎<br>
       中島康貴<br>
+      中山佳洋<br>
       平野詩紀子<br>
       福崎怜奈<br>
-      丸地和馬
+      丸地和馬<br>
+      村松沙那恵
 			</p>
 		</tr>
 		<tr>
