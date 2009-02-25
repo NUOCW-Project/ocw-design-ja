@@ -15,12 +15,12 @@
 
 	{if $dept_info.vs_url}
 	<div class="dept_info_dean_image">
+  部局の教育紹介
 	<div class="dept_info_dean_image_in">
 	  <a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">
 	  {vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}
 	  </a>
 	</div>
-  ※クリックすると、部局の教育紹介ビデオをご覧頂けます。
   </div>
 	{else}
 	<div class="dept_info_dean_text">
