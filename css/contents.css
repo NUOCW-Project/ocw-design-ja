@@ -662,7 +662,8 @@ div.dept_info_dean_image {
 	width: 138px;
 	float: right;
 	font-weight: bold;
-  background-color: #eeeeee;
+	background-color: #eeeeee;
+	margin: 10px;
 }
 
 /* IE のバグ対策のテクニックらしい */
