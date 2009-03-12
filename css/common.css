@@ -10,6 +10,7 @@ h1{
 	background-position: 0 50%;	
 	margin:0;
 	padding:0 0 0 20px;
+  font-size: 160%;
 }
 
 h2{
@@ -20,6 +21,7 @@ h2{
 	background-position: 3px 50%;	
 	margin:0;
 	padding:0 0 0 20px;
+  font-size: 140%;
 }
 
 h3{
@@ -30,6 +32,7 @@ h3{
 	background-position: 4px 50%;	
 	margin: 1.5em 0 .5em 0;
 	padding:0 0 0 20px;
+  font-size: 120%;
 }
 
 a:link{
