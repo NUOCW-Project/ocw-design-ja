@@ -97,8 +97,9 @@
 		  {/if}
 
 			<ul class="course_home_recommended">
-				{if $course_info.wg_recommended eq "t"}<li><img src="./images/{$lang}/nominate_ocw.jpg" alt="{if $lang=='ja'}OCW WG ¿äÁ¦{else}This course is recommended by OCW WG.{/if}" width="120" height="29"></li>{/if}
-				{if $course_info.dept_recommended eq "t"}<li><img src="./images/{$lang}/nominate_dep.jpg" alt="{if $lang=='ja'}Éô¶ÉÄ¹¿äÁ¦{else}This course is recommended by the head of department.{/if}" width="120" height="29"></li>{/if}
+        {foreach from=$course_info.recommend item=reco name=reco}
+				<li><img src="./images/{$lang}/nominate_{$reco.filename}.jpg" alt="{$reco.name}" width="120" height="29"></li>
+        {/foreach}
 			</ul>
 			<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
                	</div>
