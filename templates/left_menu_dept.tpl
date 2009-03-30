@@ -30,27 +30,5 @@
 
 {/foreach}
 
-{strip}
-  <!--
-  <li class="m_farewell">
-  {if !$info_only && $curr_department_abbr == "farewell"}
-    {* info_only は部局長挨拶本文で true. つまりチェックにならない. *}
-    <img src="./images/ja/md_farewell_h.gif" alt="退職記念講義">
-  {else}
-    <a href="index.php?lang=ja&amp;mode=l&amp;page_type=farewell"><img src="./images/common/dummy.gif" alt="退職記念講義"></a>
-  {/if}
-  </li>
-  -->
-{/strip}
-  <li class="preload"><img src="./images/ja/farewell_on.jpg" alt=""></li>
-
-
-<!--
-  {if $lang=='ja'}
-  <li><a href="index.php?lang=ja&amp;mode=l&amp;page_type=farewell"><img src="./images/ja/md_.jpg" alt="退職記念講義"></a></li>
-  {/if}
--->
-
-
 </ul>
 </div>
