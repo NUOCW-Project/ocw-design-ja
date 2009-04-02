@@ -16,10 +16,18 @@
 <title>
 {if $lang=='ja'}
 名大の授業 Nagoya University OpenCourseWare
+<!-- 山里修正 -->
+{foreach from=$navi_list item="navi" name=n}
+  {if not $smarty.foreach.n.last}	
+    | {$navi.text}
+  {/if}
+{/foreach}
+<!-- ここまで -->
 {else}
 Nagoya University OpenCourseWare (NU OCW)
 {/if}
-{$title}</title>
+{$title}
+</title>
 </head>
 <body>
 <div class="all"><!-- コンテンツ全体を囲むブロック開始 -->
