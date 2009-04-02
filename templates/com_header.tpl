@@ -15,17 +15,17 @@
 {/if}{*　印刷用cssのための分岐終わり　*}
 <title>
 {if $lang=='ja'}
-名大の授業 Nagoya University OpenCourseWare
-<!-- 山里修正 -->
+名大の授業 (NU OCW)
+{else}
+Nagoya University OpenCourseWare (NU OCW)
+{/if}
+<!-- タイトルに講義情報を入れる -->
 {foreach from=$navi_list item="navi" name=n}
   {if not $smarty.foreach.n.last}	
     | {$navi.text}
   {/if}
 {/foreach}
 <!-- ここまで -->
-{else}
-Nagoya University OpenCourseWare (NU OCW)
-{/if}
 {$title}
 </title>
 </head>
