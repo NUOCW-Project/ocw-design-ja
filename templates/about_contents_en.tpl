@@ -156,7 +156,7 @@
 			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
 			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio</li>
-			<li>Shin-ya Hurui<br>Media Supporter,<br>Studio</li>
+			<li>Shin-ya Furui<br>Media Supporter,<br>Studio</li>
 			<li>Keiko Matsumura<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 			</p>
@@ -167,11 +167,11 @@
 			<ul class="stafflist_en">
 			<li>Shoji Kajita<br>Associate Professor,<br>Information and Communication Technology Services</li>
 			<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
-<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
+
 			<li>Takaya Yamazato<br>Associate Professor,<br>EcoTopia Science Institute</li>
-<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
+
 			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
-<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
+
 			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio</li>
 			<li>Atsuko Kato<br>Administrative Assistant,<br>Center for Information Media Studies</li>
@@ -189,6 +189,7 @@
      			Masanori Ito<br>
      			Natsumi Koresawa<br>
 			Kazuma Maruchi<br>
+			Toshio Miyamoto<br>
                         Sanae Muramatsu<br>
 			Tetsuro Nagai<br>
 			Nasutaka Nakashima<br>
