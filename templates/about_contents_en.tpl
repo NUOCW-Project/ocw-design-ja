@@ -156,7 +156,7 @@
 			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
 			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio</li>
-			<li>Shinya Hurui<br>Media Supporter,<br>Studio</li>
+			<li>Shin-ya Hurui<br>Media Supporter,<br>Studio</li>
 			<li>Keiko Matsumura<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 			</p>
