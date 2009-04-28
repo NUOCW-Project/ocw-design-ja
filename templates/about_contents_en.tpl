@@ -16,7 +16,7 @@
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 
 	<h1 class="about">The Nagoya University OpenCourseWare brings free courseware to the Internet</h1>
-	<p>The President of Nagoya University, Shin-ichi Hirano, has launched a program to convert teaching materials used in selected courses into digital format and make them available to the public at no charge over the Internet.</p>
+	<p>The President of Nagoya University, Michinari Hamaguchi, has launched a program to convert teaching materials used in selected courses into digital format and make them available to the public at no charge over the Internet.</p>
 	<p>By thus posting course materials on the Web, the University offers the public a rare glimpse into its classrooms. The site will, it is hoped, help enrolled students engaged in self-directed study, plus promote communication and interaction not only between instructors and students and among instructors themselves, but between instructors and non-members of the University community as well.</p>
 	<p>This project is administered by the Nagoya University OpenCourseWare Committee and has been prepared in partnership with the Japan OpenCourseWare Consortium (JOCW), founded in May 2005.</p>
 
@@ -139,24 +139,24 @@
 			<td colspan="2"><h2 class="about_committee">-Nagoya University OpenCourseWare Committee-</h2></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">(As of January 1, 2009)</td>
+			<td class="right" colspan="2">(As of April 1, 2009)</td>
 		</tr>
 
 		<tr>
 			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="Nagoya University OpenCourseWare Committee"></p></td>
 			<td>
 			<ul class="stafflist_en">
-			<li>Chairperson: Hiroyuki Sugiyama<br>Vice-President,<br>Nagoya University</li>
-			<li>Ichiro Yamamoto<br>Director,<br>Center for Information Media Studies</li>
+			<li>Chairperson: Ichiro Yamamoto<br>Vice-President,<br>Nagoya University</li>
+			<li>Hiroyuki Sugiyama<br>Vice President,<br>Trustee</li>
 			<li>Toshiyuki Tonoike<br>Professor,<br>Center for Information Media Studies</li>
-			<li>Masaaki Katayama<br>Professor,<br>Center for Information Media Studies</li>
-			<li>Shoji Kajita<br>Associate Professor,<br>Information Technology Center</li>
+			<li>Masaaki Katayama<br>Professor,<br>EcoTopia Science Institute</li>
+			<li>Shoji Kajita<br>Associate Professor,<br>Information and Communication Technology Services</li>
 			<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
-			<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
+			<li>Takaya Yamazato<br>Associate Professor,<br>EcoTopia Science Institute</li>
 			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
-			<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
 			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
-			<li>Aki Hara<br>Media Supporter,<br>Studio Management Office</li>
+			<li>Aki Hara<br>Media Supporter,<br>Studio</li>
+			<li>Shinya Hurui<br>Media Supporter,<br>Studio</li>
 			<li>Keiko Matsumura<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 			</p>
@@ -165,15 +165,18 @@
 			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="Nagoya University OpenCourseWare Work Group"></p></td>
 			<td class="left_gray">
 			<ul class="stafflist_en">
-			<li>Shoji Kajita<br>Associate Professor,<br>Information Technology Center</li>
+			<li>Shoji Kajita<br>Associate Professor,<br>Information and Communication Technology Services</li>
 			<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
-			<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
+<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
+			<li>Takaya Yamazato<br>Associate Professor,<br>EcoTopia Science Institute</li>
+<li>Takaya Yamazato<br>Associate Professor,<br>Center for Information Media Studies</li>
 			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
-			<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
+<li>Takanori Nishino<br>Assistant Professor,<br>Center for Information Media Studies</li>
 			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
-			<li>Aki Hara<br>Media Supporter,<br>Studio Management Office</li>
+			<li>Aki Hara<br>Media Supporter,<br>Studio</li>
 			<li>Atsuko Kato<br>Administrative Assistant,<br>Center for Information Media Studies</li>
-			<li>Keiko Matsumura<br>Administrative Assistant,<br>OCW Administrative Office</li>
+			<li>Akie Izumi<br>Administrative Assistant,<br>Center for Information Media Studies</li>
+			<li>Tomoko Matsuda<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 		</tr>
 		<tr>
@@ -181,22 +184,18 @@
 			<td>
 			<p>
 			Masanori Adachi<br>
+      			Reina Fukuzaki<br>
 			Yuka Ichinose<br>
      			Masanori Ito<br>
-     			Tomoko Koie<br>
-			Sayo Kobe<br>
-      			Natsumi Koresawa<br>
+     			Natsumi Koresawa<br>
+			Kazuma Maruchi<br>
+                        Sanae Muramatsu<br>
+			Tetsuro Nagai<br>
+			Nasutaka Nakashima<br>
 			Ayaka Sato<br>
       			Misaki Shiraishi<br>
       			Tomoyo Takahashi<br>
 			Zhong Yang<br>
-      			Tetsuro Nagai<br>
-			Yasutaka Nakashima<br>
-			Yoshihiro Nakayama<br>
-      			Shikiko Hirano<br>
-      			Reina Fukuzaki<br>
-			Kazuma Maruchi<br>
-                        Sanae Muramatsu<br>
 			</p>
 		</tr>
 		<tr>
