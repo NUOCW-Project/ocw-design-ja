@@ -116,19 +116,19 @@
 		</tr>
 		<tr>
 			<td class="center"><p><img src="./images/common/i_01cims.gif" alt="Center for Information Media Studies"></p></td>
-			<td><p><a href="http://www.media.nagoya-u.ac.jp/">The Center for Information Media Studies</a> works to enhance the quality of teaching and learning at Nagoya University by assisting with development of learning materials and creating the optimum environment for their use.</p></td>
+			<td><p><a href="http://www.media.nagoya-u.ac.jp/">Center for Information Media Studies</a> works to enhance the quality of teaching and learning at Nagoya University by assisting with development of learning materials and creating the optimum environment for their use.</p></td>
 		</tr>
 		<tr>
 			<td class="center_gray"><p><img src="./images/common/i_02cshe.gif" alt="Center for the Studies of Higher Education"></p></td>
-			<td class="left_gray"><p><a href="http://www.iar.nagoya-u.ac.jp/">The Center for the Studies of Higher Education</a> works to enhance the quality of teaching and learning at Nagoya University through research and development in the field of higher education.</p></td>
+			<td class="left_gray"><p><a href="http://www.iar.nagoya-u.ac.jp/">Center for the Studies of Higher Education</a> works to enhance the quality of teaching and learning at Nagoya University through research and development in the field of higher education.</p></td>
 		</tr>
 		<tr>
 			<td class="center"><p><img src="./images/common/i_03itc.gif" alt="Information Technology Center"></p></td>
-			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">The Information Technology Center</a> is the service and research center for campus networking, information systems and supercomputing, playing the role of a hub of campus information systems.</p></td>
+			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">Information Technology Center</a> is the service and research center for campus networking, information systems and supercomputing, playing the role of a hub of campus information systems.</p></td>
 		</tr>
 		<tr>
 			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="Nagoya University Library"></p></td>
-			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">The Nagoya University Library</a> works to enhance the quality of education and research at Nagoya University by providing access to the wealth of intellectual property in its collections while integrating the functions of a traditional library with those of a digital one.</p></td>
+			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">Nagoya University Library</a> works to enhance the quality of education and research at Nagoya University by providing access to the wealth of intellectual property in its collections while integrating the functions of a traditional library with those of a digital one.</p></td>
 		</tr>
 
 		<tr>
