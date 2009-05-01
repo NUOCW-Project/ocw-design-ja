@@ -174,6 +174,7 @@
 
 			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio</li>
+			<li>Shin-ya Furui<br>Media Supporter,<br>Studio</li>
 			<li>Atsuko Kato<br>Administrative Assistant,<br>Center for Information Media Studies</li>
 			<li>Akie Izumi<br>Administrative Assistant,<br>Center for Information Media Studies</li>
 			<li>Tomoko Matsuda<br>Administrative Assistant,<br>OCW Administrative Office</li>
