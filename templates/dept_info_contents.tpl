@@ -15,12 +15,15 @@
 
 	{if $dept_info.vs_url}
 	<div class="dept_info_dean_image">
-	<div class="dept_info_dean_image_in">
+
+<!--	<div class="dept_info_dean_image_in">
 	  <a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë">
     <img src="./images/{$lang}/b_play_dept.jpg" alt="Éô¶É¤Î¶µ°é¾Ò²ð¤òºÆÀ¸"><br>
 	  {vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}
 	  </a>
 	</div>
+-->
+
   </div>
 	{else}
 	<div class="dept_info_dean_text">
