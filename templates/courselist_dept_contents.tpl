@@ -49,7 +49,7 @@
           {/if}
         </div>
   			<div class="dept_info_head_contents_with_dean">
-  				{eval var=$dept_info.description|strip|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
+  				{eval var=$dept_info.description|strip|strip_tags|strip_tags|mb_truncate:120} <!-- 文字数はCSS非対応のとき1行はみだす程度 -->
   			</div>
   			<div class="dept_info_head_more">
           <strong><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info">{if $lang=='ja'}more...{else}Read More{/if}</a></strong>
