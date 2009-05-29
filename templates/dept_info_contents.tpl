@@ -37,7 +37,7 @@
 	{/if}
 
 	<div class="dept_info_contents_all">
-	{$dept_info.description|strip}
+	{eval var=$dept_info.description|strip}
 	</div>
 
 	<div class="clear"></div>
