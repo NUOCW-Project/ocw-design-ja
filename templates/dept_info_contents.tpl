@@ -14,17 +14,15 @@
 	<h1>{if $lang=='ja'}Éô¶É¾Ò²ð{elseif $lang=='en'}Faculty Introduction{/if}</h1>
 
 	{if $dept_info.vs_url}
-	<div class="dept_info_dean_image">
-
-<!--	<div class="dept_info_dean_image_in">
+<!--	<div class="dept_info_dean_image">
+	<div class="dept_info_dean_image_in">
 	  <a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë">
     <img src="./images/{$lang}/b_play_dept.jpg" alt="Éô¶É¤Î¶µ°é¾Ò²ð¤òºÆÀ¸"><br>
 	  {vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}
 	  </a>
 	</div>
--->
-
   </div>
+-->
 	{else}
 	<div class="dept_info_dean_text">
 	{if $lang=='ja'}
@@ -37,7 +35,7 @@
 	{/if}
 
 	<div class="dept_info_contents_all">
-	{eval var=$dept_info.description|strip}
+	{$dept_info.description|strip}
 	</div>
 
 	<div class="clear"></div>
