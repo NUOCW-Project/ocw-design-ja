@@ -9,7 +9,9 @@
 	<td width="10" class="td_left"></td>
 	<td class="td_contents"> 
 
-	<!-- コンテンツセル開始 -->
+	<!--
+ コンテンツセル開始
+ -->
 	<div class="course_contents">
 	<h1>{if $lang=='ja'}部局紹介{elseif $lang=='en'}Faculty Introduction{/if}</h1>
 
