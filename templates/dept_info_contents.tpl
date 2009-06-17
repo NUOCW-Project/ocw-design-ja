@@ -12,21 +12,21 @@
 	<!-- コンテンツセル開始　-->
 	<div class="course_contents">
 	<h1>{if $lang=='ja'}部局紹介{elseif $lang=='en'}Faculty Introduction{/if}</h1>
-<!--
-<!--
-	{if $dept_info.vs_url}
-	<div class="dept_info_dean_image">
-	<div class="dept_info_dean_image_in">
-	  <a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">
-    <img src="./images/{$lang}/b_play_dept.jpg" alt="部局の教育紹介を再生"><br>
-	  {vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}
-	  </a>
-	</div>
-  </div>
 
-	{else}
+<!--
+<!--	{if $dept_info.vs_url}
+<!--	<div class="dept_info_dean_image">
+<!--	<div class="dept_info_dean_image_in">
+<!--	  <a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">
+<!--    <img src="./images/{$lang}/b_play_dept.jpg" alt="部局の教育紹介を再生"><br>
+<!--	  {vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}
+<!--	  </a>
+<!--	</div>
+<!--  </div>
+
+<!--	{else}
 	<div class="dept_info_dean_text">
--->
+
 	{if $lang=='ja'}
     {$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
   {elseif $lang=='en'}
