@@ -14,7 +14,7 @@
 	<h1>{if $lang=='ja'}Éô¶É¾Ò²ð{elseif $lang=='en'}Faculty Introduction{/if}</h1>
 
 <!--
-{if $dept_info.vs_url}
+	{if $dept_info.vs_url}
 	<div class="dept_info_dean_image">
 	<div class="dept_info_dean_image_in">
 	  <a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë">
@@ -45,9 +45,9 @@
   {elseif $lang=='en'}
     {$dept_info.dean_name|strip}<br>
     {$dept_info.dean_position|strip}
-  {/if}
+  	{/if}
         </div>
-	{/if}
+	
 -->
 
    	<div class="dept_info_dean_text">
