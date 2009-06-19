@@ -13,7 +13,8 @@
 	<div class="course_contents">
 	<h1>{if $lang=='ja'}Éô¶É¾Ò²ð{elseif $lang=='en'}Faculty Introduction{/if}</h1>
 
-	{if $dept_info.vs_url}
+<!--
+{if $dept_info.vs_url}
 	<div class="dept_info_dean_image">
 	<div class="dept_info_dean_image_in">
 	  <a href="{$dept_info.vs_url}" title="1Ê¬´ÖÉô¶É¾Ò²ð¡Ê¥Ó¥Ç¥ª¡Ë">
@@ -24,6 +25,7 @@
 	</div>
 
 	{else}
+
 	<div class="dept_info_dean_text">
 
 	{if $lang=='ja'}
@@ -34,9 +36,22 @@
   {/if}
 	</div>
 	{/if}
+-->
+
+        <div class="dept_info_dean_text">
+
+        {if $lang=='ja'}
+    {$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
+  {elseif $lang=='en'}
+    {$dept_info.dean_name|strip}<br>
+    {$dept_info.dean_position|strip}
+  {/if}
+        </div>
+	{/if}
+
 
 	<div class="dept_info_contents_all">
-	{$dept_info.description|strip}
+	{eval var=$dept_info.description|strip}
 	</div>
 
 	<div class="clear"></div>
