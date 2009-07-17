@@ -138,7 +138,7 @@
 			<td colspan="2"><h1 class="about_committee">-名古屋大学オープンコースウェア委員会-</h1></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">2009年4月1日現在</td>
+			<td class="right" colspan="2">2009年8月1日現在</td>
 		</tr>
 
 		<tr>
@@ -182,17 +182,23 @@
       足立真訓<br>
       市之瀬由佳<br>
       伊藤大禮<br>
+	江草洋子<br>
+	王 毅駿<br>
       是澤奈津美<br>
+	サイモン ジョンソン<br>
       佐藤綾香<br>
       白石美咲<br>
       高橋知世<br>
+	高橋光成<br>
+	高橋祐人<br>
       鐘 揚<br>
       永井哲郎<br>
       中島康貴<br>
+	林 祐衣<br>
       福崎怜奈<br>
       丸地和馬<br>
-      宮本年男<br>
-	村松沙那恵
+	村松沙那恵<br>
+	吉田映子<br>
 			</p>
 		</tr>
 		<tr>
