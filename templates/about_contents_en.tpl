@@ -139,7 +139,7 @@
 			<td colspan="2"><h2 class="about_committee">-Nagoya University OpenCourseWare Committee-</h2></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">(As of April 1, 2009)</td>
+			<td class="right" colspan="2">(As of August 1, 2009)</td>
 		</tr>
 
 		<tr>
@@ -185,19 +185,25 @@
 			<td>
 			<p>
 			Masanori Adachi<br>
-      			Reina Fukuzaki<br>
+     			Natsumi Koresawa<br>
+			Yui Hayashi<br>
 			Yuka Ichinose<br>
      			Masanori Ito<br>
-     			Natsumi Koresawa<br>
+			Simon Johnson<br>
+			Yoko Egusa<br>
+      			Reina Fukuzaki<br>
 			Kazuma Maruchi<br>
-			Toshio Miyamoto<br>
                         Sanae Muramatsu<br>
 			Tetsuro Nagai<br>
 			Nasutaka Nakashima<br>
+			Kisyun Ou<br>
 			Ayaka Sato<br>
       			Misaki Shiraishi<br>
       			Tomoyo Takahashi<br>
+			Mitsunari Takahashi<br>
+			Yuto Takahashi<br>
 			Zhong Yang<br>
+			Eiko Yoshida<br>
 			</p>
 		</tr>
 		<tr>
