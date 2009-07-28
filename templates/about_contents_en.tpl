@@ -185,13 +185,13 @@
 			<td>
 			<p>
 			Masanori Adachi<br>
-     			Natsumi Koresawa<br>
-			Yui Hayashi<br>
+                        Yoko Egusa<br>
+                        Reina Fukuzaki<br>
+ 			Yui Hayashi<br>
 			Yuka Ichinose<br>
      			Masanori Ito<br>
 			Simon Johnson<br>
-			Yoko Egusa<br>
-      			Reina Fukuzaki<br>
+                        Natsumi Koresawa<br>
 			Kazuma Maruchi<br>
                         Sanae Muramatsu<br>
 			Tetsuro Nagai<br>
