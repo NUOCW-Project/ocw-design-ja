@@ -157,7 +157,7 @@
 			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
 			<li>Aki Hara<br>Media Supporter,<br>Studio</li>
 			<li>Shin-ya Furui<br>Media Supporter,<br>Studio</li>
-			<li>Keiko Matsumura<br>Administrative Assistant,<br>OCW Administrative Office</li>
+			<li>Tomoko Matsuda<br>Administrative Assistant,<br>OCW Administrative Office</li>
 			</ul>
 			</p>
 		</tr>
@@ -195,13 +195,15 @@
 			Kazuma Maruchi<br>
                         Sanae Muramatsu<br>
 			Tetsuro Nagai<br>
-			Nasutaka Nakashima<br>
+			Yasutaka Nakashima<br>
 			Kisyun Ou<br>
 			Ayaka Sato<br>
       			Misaki Shiraishi<br>
       			Tomoyo Takahashi<br>
 			Mitsunari Takahashi<br>
 			Yuto Takahashi<br>
+			Daisuke Yamaoka<br>
+			Jun-ichi Taniguchi<br>
 			Zhong Yang<br>
 			Eiko Yoshida<br>
 			</p>
