@@ -20,8 +20,7 @@
 　	オープンコースウェア委員会<br><br>
 	委員長 山本 一良
 	</p>
-<!--   
-	<div class="welcome_vsyllabus">
+<!--   <div class="welcome_vsyllabus">
  <a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0000680/FLASH-FLV/index.html" title="1分間 OCW 紹介"><img src="./images/{$lang}/b_video_ocw.jpg" alt="1分間OCW紹介" width="133" height="75"></a> 
 	</div>
 -->
