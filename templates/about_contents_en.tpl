@@ -150,6 +150,7 @@
 			<li>Hiroyuki Sugiyama<br>Vice President,<br>Trustee</li>
 			<li>Toshiyuki Tonoike<br>Professor,<br>Center for Information Media Studies</li>
 			<li>Masaaki Katayama<br>Professor,<br>EcoTopia Science Institute</li>
+			<li>Kazuhisa Todayama<br>Professor,<br>Graduate School of Information Science</li>
 			<li>Shoji Kajita<br>Associate Professor,<br>Information and Communication Technology Services</li>
 			<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
 			<li>Takaya Yamazato<br>Associate Professor,<br>EcoTopia Science Institute</li>
