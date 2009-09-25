@@ -146,9 +146,9 @@
 			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="Nagoya University OpenCourseWare Committee"></p></td>
 			<td>
 			<ul class="stafflist_en">
-			<li>Chairperson: Ichiro Yamamoto<br>Vice President,<br>Nagoya University</li>
-			<li>Hiroyuki Sugiyama<br>Vice President,<br>Trustee</li>
-			<li>Kazuhisa Todayama<br>Professor,<br>Graduate School of Information Science</li>
+			<li>Chairperson: Ichiro Yamamoto<br>Vice-President,<br>Nagoya University</li>
+			<li>Hiroyuki Sugiyama<br>Vice-President,<br>Trustee</li>
+			<li>Kazuhisa Todayama<br>Assistant to President,<br>Nagoya University</li>
 			<li>Toshiyuki Tonoike<br>Professor,<br>Center for Information Media Studies</li>
 			<li>Masaaki Katayama<br>Professor,<br>EcoTopia Science Institute</li>
 
