@@ -139,7 +139,7 @@
 			<td colspan="2"><h2 class="about_committee">-Nagoya University OpenCourseWare Committee-</h2></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">(As of August 1, 2009)</td>
+			<td class="right" colspan="2">(As of October 1, 2009)</td>
 		</tr>
 
 		<tr>
@@ -204,6 +204,7 @@
       			Tomoyo Takahashi<br>
 			Mitsunari Takahashi<br>
 			Yuto Takahashi<br>
+			Noboru Terada<br>
 			Daisuke Yamaoka<br>
 			Jun-ichi Taniguchi<br>
 			Zhong Yang<br>
