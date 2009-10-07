@@ -138,7 +138,7 @@
 			<td colspan="2"><h1 class="about_committee">-名古屋大学オープンコースウェア委員会-</h1></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">2009年8月1日現在</td>
+			<td class="right" colspan="2">2009年10月1日現在</td>
 		</tr>
 
 		<tr>
@@ -194,7 +194,8 @@
 	高橋祐人<br>
 	谷口純一<br>
       鐘 揚<br>
-      永井哲郎<br>
+ 	寺田騰<br>
+     永井哲郎<br>
       中島康貴<br>
 	林 祐衣<br>
       福崎怜奈<br>
