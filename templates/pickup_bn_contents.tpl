@@ -16,6 +16,13 @@
   {assign var="id_end" value=$bn_size}
 {/if}
 
+<p>
+size: {$bn_size}<br>
+index: {$bn_index}<br>
+start:{$id_start}<br>
+end:{$id_end}
+</p>
+
 {section name="bn_navi" loop=$id_end start=$id_start}
 	{if $smarty.section.bn_navi.iteration != $bn_index}
 	<a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id={$smarty.section.bn_navi.iteration}">{$smarty.section.bn_navi.iteration}</a>
