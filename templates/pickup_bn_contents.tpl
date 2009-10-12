@@ -5,7 +5,18 @@
 {/if}
 
 {if $bn_size > 1}
-{section name="bn_navi" loop=$bn_size}
+{if $bn_index > 5}
+  {assign var="id_start" value=$bn_index-4}
+{else}
+  {assign var="id_start" value=1}
+{/if}
+{if $bn_size > $bn_index+5}
+  {assign var="id_end" value=$bn_index+5}
+{else}
+  {assign var="id_end" value=$bn_size}
+{/if}
+
+{section name="bn_navi" loop=$id_end start=$id_start}
 	{if $smarty.section.bn_navi.iteration != $bn_index}
 	<a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id={$smarty.section.bn_navi.iteration}">{$smarty.section.bn_navi.iteration}</a>
 	{else}<span class="b">{$bn_index}</span>
