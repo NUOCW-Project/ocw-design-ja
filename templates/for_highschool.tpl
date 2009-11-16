@@ -54,45 +54,25 @@
 
 <div class="header_image">
 <table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
-<tr>
-  
-  <td>
-  <img src="./images/ja/d_farewell.jpg"
-       alt="名古屋大学 退職記念講義
-    退職記念講義の一部を「名大の授業」コンテンツとしてご覧いただけます。">
-  </td>
-
-</tr>
+	<tr>
+		<td><img src="./images/ja/rec_02_02.jpg" alt="高校生向け案内"></td>
+	</tr>
+	<tr>
+		<td><img src="./images/ja/rec_03_03.jpg" alt=""></td>
+		<td rowspan="4"><img src="./images/ja/rec_04_04.jpg" alt=""></td>
+	</tr>
+	<tr>
+		<td><img src="./images/ja/rec_head_05_05.jpg" alt=""></td>
+	</tr>
+	<tr>
+		<td><img src="./images/ja/rec_head_06_06.jpg" alt=""></td>
+	</tr>
+	<tr>
+		<td><img src="./images/ja/rec_07_07.jpg" alt=""></td>
+	</tr>
 </table>
 </div>
 
-<div class="navi">
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
-    
-    &gt; 退職記念講義
-  
-</div> 
-
-
-<div class="header_image">
-<table class="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
-	<tr><td>
-		<img src="./images/ja/rec_02_02.jpg" alt="高校生向け案内">
-	</td></tr>
-	<tr><td>
-		<a href="#rec01"><img src="./images/ja/rec_03_03.jpg" border=0  alt="01.オススメ授業"></a>
-	</td></tr>
-	<tr><td>
-		<img src="./images/ja/rec_head_05_05.jpg" alt="">
-	</td></tr>
-	<tr><td>
-		<img src="./images/ja/rec_head_06_06.jpg" alt="">
-	</td></tr>
-	<tr><td>
-		<img src="./images/ja/rec_07_07.jpg" alt="">
-	</td></tr>
-</table>
-</div>
 
 <div class="navi">
 	<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
