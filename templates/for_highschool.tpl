@@ -54,9 +54,9 @@
 	<div>
 	<a href="#rec01">
 			<img src="./images/ja/rec_03_03.jpg" border=0  alt="01.オススメ授業">
-	</a>
-	<img src="./images/ja/rec_head_05_05.jpg" alt="">
-	<img src="./images/ja/rec_head_06_06.jpg" alt="">
+	</a><br>
+	<img src="./images/ja/rec_head_05_05.jpg" alt=""><br>
+	<img src="./images/ja/rec_head_06_06.jpg" alt=""><br>
 	<img src="./images/ja/rec_07_07.jpg" alt="">
 	</div>
 
