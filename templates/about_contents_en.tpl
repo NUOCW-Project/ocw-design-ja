@@ -198,15 +198,17 @@
                         Sanae Muramatsu<br>
 			Tetsuro Nagai<br>
 			Yasutaka Nakashima<br>
+			Yoshihiro Nakayama<br>
 			Kisyun Ou<br>
 			Ayaka Sato<br>
       			Misaki Shiraishi<br>
       			Tomoyo Takahashi<br>
 			Mitsunari Takahashi<br>
 			Yuto Takahashi<br>
-			Noboru Terada<br>
-			Daisuke Yamaoka<br>
 			Jun-ichi Taniguchi<br>
+			Noboru Terada<br>
+			Mikito Yamamoto<br>
+			Daisuke Yamaoka<br>
 			Zhong Yang<br>
 			Eiko Yoshida<br>
 			</p>
