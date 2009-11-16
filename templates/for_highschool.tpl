@@ -15,12 +15,6 @@
 <link rel="alternate stylesheet" type="text/css" href="./css/contents.css" media="all" title="ブラウザでの表示のまま印刷">
 
 
-<STYLE TYPE="text/css">
-#headerL {
-	float: left;
-	}	
-</STYLE>
-
 <title>
 名大の授業 (NU OCW)
 </title>
