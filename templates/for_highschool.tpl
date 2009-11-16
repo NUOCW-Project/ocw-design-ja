@@ -2,74 +2,88 @@
 <html lang="ja">
 
 <head>
-<!-- <base href="http://ocw.nagoya-u.jp/"> ²èÁEÀ¥¦¥ó¥ú½¼¥É -->
 <meta http-equiv="Content-Type" content="text/html;charset=EUC-JP">
 <link rel="stylesheet" type="text/css" href="./css/common.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/fontsize_s.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/left_menu_ja.css" media="all">
- <link rel="stylesheet" type="text/css" href="./css/common_print.css" media="print">
-<link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
- 
-<link rel="alternate stylesheet" type="text/css" href="./css/common.css" media="all" title="¥Ö¥é¥¦¥¶¤Ç¤ÎÉ½¼¨¤Î¤Þ¤Þ°õºþ">
-<link rel="alternate stylesheet" type="text/css" href="./css/contents.css" media="all" title="¥Ö¥é¥¦¥¶¤Ç¤ÎÉ½¼¨¤Î¤Þ¤Þ°õºþ">
+<link rel="stylesheet" type="text/css" href="./css/common_print.css" media="all">
+<link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="all">
 
+<link rel="alternate stylesheet" type="text/css" href="./css/common.css" media="all" title="a">
+<link rel="alternate stylesheet" type="text/css" href="./css/contents.css" media="all" title="a">
+
+<STYLE TYPE="text/css">
+#headerL {
+	float: left;
+}
+</STYLE>
 
 <title>
-Ì¾Âç¤Î¼ø¶È (NU OCW)
+åå¤§ã®æŽˆæ¥­(NU OCW)
 </title>
 </head>
 
 <body>
 <div class="all">
- 
+
 <div class="logo">
-<a href="index.php?mode=g&amp;lang=ja&amp;page_type=top"><img src="./images/ja/toplogo.jpg" width="275" height="54" alt="Ì¾Âç¤Î¼ø¶È HOME"></a>
- </div>
-
-
-<div class="header_menu">
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/ja/01about.gif" alt="|Ì¾Âç¤Î¼ø¶È¤Ë¤Ä¤¤¤Æ|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=legal"><img src="./images/ja/02legal.gif" alt="|¤´ÍøÍÑ¤Ë¤¢¤¿¤Ã¤Æ|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=inquiry"><img src="./images/ja/03inq.gif" alt="|¤ªÌä¹ç¤E»|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=faq"><img src="./images/ja/04faq.gif" alt="|¥Ø¥E×(FAQ)|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=akf"><img src="./images/ja/05akf.gif" alt="|AKF¸¡º÷|"></a>
+	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=top">
+	<img src="./images/ja/toplaoa.jpg" width="275" height"54" alt="HOME">
+	</a>
 </div>
 
+<div class="header_menu">
+	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=about">
+	<img src="./images/ja/01about.jpg" alt="about">
+	</a>
+	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=legal">
+	<img src="./images/ja/02legal.jpg" alt="legal">
+	</a>
+	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=inquiry">
+	<img src="./images/ja/03inq.jpg" alt="">
+	</a>
+	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=faq">
+	<img src="./images/ja/04faq.jpg" alt="(FAQ)">
+	</a>
+	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=akf">
+	<img src="./images/ja/05akf.jpg" alt="AKFæ¤œç´¢">
+	</a>
+</div>
 
-<img src="./header/rec_02_02.jpg" alt="Ì¾Âç¤Î¼ø¶È ¹â¹»À¸¸þ¤±°ÆÆE>
+<img src="./images/ja/rec_02_02.jpg" alt="é«˜æ ¡ç”Ÿå‘ã‘">
 
 <div>
 	<div id="headerL">
-	<a href="#rec01"><img src="./header/rec_03_03.jpg" border=0 alt="01.¥ª¥¹¥¹¥á¼ø¶È"></a><br>
-	<img src="./header/rec_head_05_05.jpg">	<br>
-	<img src="./header/rec_head_06_06.jpg">	<br>
-	<img src="./header/rec_07_07.jpg">
+	<a href="#rec01">
+			<img src="./images/ja/rec_03_03.jpg" border=0  alt="01.ã‚ªã‚¹ã‚¹ãƒ¡æŽˆæ¥­">
+	</a>
+	<img src="./images/ja/rec_head_05_05.jpg" alt="">
+	<img src="./images/ja/rec_head_06_06.jpg" alt="">
+	<img src="./images/ja/rec_07_07.jpg" alt="">
 	</div>
 
 	<div>
-	<img src="./header/rec_04_04.jpg">
+	<img src="./images/ja/rec_04_04.jpg" alt="">
 	</div>
 </div>
 
 <div class="navi">
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
-      &gt; ¹â¹»À¸¸þ¤±°ÆÆE
-</div>  
+	<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
+	åå¤§ã®æŽˆæ¥­ é«˜æ ¡ç”Ÿå‘ã‘æ¡ˆå†…
+</div>
 
 <div>
-<img src="./header/rec_11_11.jpg" alt="01.¥ª¥¹¥¹¥á¼ø¶È" align="top" id="rec01">
-
-<img src="2rec_contents.jpg" usemap="#contents" border=0 alt="¹â¹»À¸¸þ¤± OCW¥µ¥Ý¡¼¥È¥ª¥¹¥¹¥á¼ø¶È">
-<map name="contents">
-	<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=51&page_type=teachingtips" alt="¥É¥¤¥Ä¸E ¼ø¶È¤Î¹©É×"></area>
-	<area shape=rect coords="321,1042,422,1176" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=56&page_type=achievement" alt="¼«Á³¤ò¸«¤Ä¤á¡¢¹Í¤¨¤E³Ø½¬À®²Ì"></area>
-	<area shape=rect coords="321,1550,422,1670" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=55&page_type=assignments" alt="¿ô³ØÅ¸Ë¾ ²ÝÂE></area>
-	<area shape=rect coords="321,2010,422,2138" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=42&page_type=relatedresources" alt="ÃÏÍý³Ø »²¹Í»ñÎÁ"></area>
-</map>
+	<img src="./images/ja/rec_11_11.jpg" alt="" align="top" id="rec01">
+	<img src="./images/ja/2rec_contents.jpg" usemap="#contents" border=0 alt="">
+	<map name="contents">
+		<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=51&page_type="teachingtips" alt="">
+		<area shape=rect coords="321,1042,422,1176" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=56&page_type="achievement" alt="">
+		<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=55&page_type="assignments" alt="">
+		<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=42&page_type="relatedresources" alt="">
+	</map>
 </div>
-
+	
 </div>
-
 </body>
 </html>
