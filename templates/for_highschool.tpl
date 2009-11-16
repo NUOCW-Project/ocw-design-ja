@@ -10,64 +10,66 @@
 <link rel="stylesheet" type="text/css" href="./css/common_print.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="all">
 
-<link rel="alternate stylesheet" type="text/css" href="./css/common.css" media="all" title="a">
-<link rel="alternate stylesheet" type="text/css" href="./css/contents.css" media="all" title="a">
+{if $use_print_css eq  'true'} {*¡¡°õºşÍÑcss¤Î¤¿¤á¤ÎÊ¬´ô¡¡*}
+<link rel="stylesheet" type="text/css" href="./css/common_print.css" media="print">
+<link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
 
+<link rel="alternate stylesheet" type="text/css" href="./css/common.css" media="all" title="¥Ö¥é¥¦¥¶¤Ç¤ÎÉ½¼¨¤Î¤Ş¤Ş°õºş">
+<link rel="alternate stylesheet" type="text/css" href="./css/contents.css" media="all" title="¥Ö¥é¥¦¥¶¤Ç¤ÎÉ½¼¨¤Î¤Ş¤Ş°õºş">
+{/if}{*¡¡°õºşÍÑcss¤Î¤¿¤á¤ÎÊ¬´ô½ª¤ï¤ê¡¡*}
+
+<!-- ¥¹¥¿¥¤¥ë¤ÎÄÉ²Ã¾ğÊó -->
 <STYLE TYPE="text/css">
 </STYLE>
 
 <title>
-åå¤§ã®æˆæ¥­(NU OCW)
+Ì¾Âç¤Î¼ø¶È(NU OCW)
+<!-- ¥¿¥¤¥È¥ë¤Ë¹ÖµÁ¾ğÊó¤òÆş¤ì¤ë -->
+{foreach from=$navi_list item="navi" name=n}
+  {if not $smarty.foreach.n.last}	
+    | {$navi.text}
+  {/if}
+{/foreach}
+<!-- ¤³¤³¤Ş¤Ç -->
+{$title}
 </title>
 </head>
 
 <body>
-<div class="all">
+<div class="all"><!-- ¥³¥ó¥Æ¥ó¥ÄÁ´ÂÎ¤ò°Ï¤à¥Ö¥í¥Ã¥¯³«»Ï -->
 
-<div class="logo">
-	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=top">
-	<img src="./images/ja/toplaoa.jpg" width="275" height"54" alt="HOME">
-	</a>
+{include file="com_language.tpl"}
+{include file="com_header_menu.tpl"}
+
+
+<div class="header_image">
+<table class="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü">
+	<tr><td>
+		<img src="./images/ja/rec_02_02.jpg" alt="¹â¹»À¸¸ş¤±°ÆÆâ">
+	</td></tr>
+	<tr><td>
+		<a href="#rec01"><img src="./images/ja/rec_03_03.jpg" border=0  alt="01.¥ª¥¹¥¹¥á¼ø¶È"></a>
+	</td></tr>
+	<tr><td>
+		<img src="./images/ja/rec_head_05_05.jpg" alt="">
+	</td></tr>
+	<tr><td>
+		<img src="./images/ja/rec_head_06_06.jpg" alt="">
+	</td></tr>
+	<tr><td>
+		<img src="./images/ja/rec_07_07.jpg" alt="">
+	</td></tr>
+</table>
 </div>
-
-<div class="header_menu">
-	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=about">
-	<img src="./images/ja/01about.jpg" alt="about">
-	</a>
-	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=legal">
-	<img src="./images/ja/02legal.jpg" alt="legal">
-	</a>
-	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=inquiry">
-	<img src="./images/ja/03inq.jpg" alt="">
-	</a>
-	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=faq">
-	<img src="./images/ja/04faq.jpg" alt="(FAQ)">
-	</a>
-	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=akf">
-	<img src="./images/ja/05akf.jpg" alt="AKFæ¤œç´¢">
-	</a>
-</div>
-
-<img src="./images/ja/rec_02_02.jpg" alt="é«˜æ ¡ç”Ÿå‘ã‘">
 
 <div>
-	<div>
-	<a href="#rec01">
-			<img src="./images/ja/rec_03_03.jpg" border=0  alt="01.ã‚ªã‚¹ã‚¹ãƒ¡æˆæ¥­">
-	</a><br>
-	<img src="./images/ja/rec_head_05_05.jpg" alt=""><br>
-	<img src="./images/ja/rec_head_06_06.jpg" alt=""><br>
-	<img src="./images/ja/rec_07_07.jpg" alt="">
-	</div>
-
-	<div>
 	<img src="./images/ja/rec_04_04.jpg" alt="">
-	</div>
 </div>
+
 
 <div class="navi">
 	<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
-	åå¤§ã®æˆæ¥­ é«˜æ ¡ç”Ÿå‘ã‘æ¡ˆå†…
+	&gt;  ¹â¹»À¸¸ş¤±°ÆÆâ
 </div>
 
 <div>
@@ -80,7 +82,6 @@
 		<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=42&page_type="relatedresources" alt="">
 	</map>
 </div>
-	
-</div>
-</body>
-</html>
+
+{include file="feedback.tpl"}
+{include file="com_footer.tpl"}
