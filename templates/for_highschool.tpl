@@ -5,22 +5,10 @@
 <meta http-equiv="Content-Type" content="text/html;charset=EUC-JP">
 <link rel="stylesheet" type="text/css" href="./css/common.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
-<link rel="stylesheet" type="text/css" href="./css/fontsize_s.css" media="all">
+<link rel="stylesheet" type="text/css" href="./css/fontsize_{ldelim}$smarty.session.fontsize|default:s{rdelim}.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/left_menu_ja.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/common_print.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="all">
-
-{if $use_print_css eq  'true'} {*　印刷用cssのための分岐　*}
-<link rel="stylesheet" type="text/css" href="./css/common_print.css" media="print">
-<link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
-
-<link rel="alternate stylesheet" type="text/css" href="./css/common.css" media="all" title="ブラウザでの表示のまま印刷">
-<link rel="alternate stylesheet" type="text/css" href="./css/contents.css" media="all" title="ブラウザでの表示のまま印刷">
-{/if}{*　印刷用cssのための分岐終わり　*}
-
-<!-- スタイルの追加情報 -->
-<STYLE TYPE="text/css">
-</STYLE>
 
 <title>
 名大の授業 Nagoya University OpenCourseWare || 高校生向け案内
@@ -100,4 +88,24 @@
 </div>
 
 
-{include file="com_footer.tpl"}
+<div class="feedback">
+	<a href="index.php?lang=ja&amp;mode=g&amp;page_type=feedback&amp;ref_lang=ja&amp;ref_mode=l&amp;ref_id=&amp;ref_page_type=farewell">
+	<img src="./images/ja/b_feedback.jpg" alt="Feedback" title="ご意見・ご感想のフィードバックページ">
+	</a>
+</div>
+
+<div class="footer">
+	<a href="http://www.cshe.nagoya-u.ac.jp/stips/" target="_blank">
+	<img src="./images/common/f_studytips.gif" width="100" height="25" alt="名古屋大学新入生のためのスタディティップス">
+	</a>
+	<a href="http://jocw.jp/" target="_blank">
+	<img src="./images/common/f_logo_jocw.gif" width="75" height="25" alt="JOCW">
+	</a>
+	<a href="http://www.ocwconsortium.org/" target="_blank">
+	<img src="./images/common/f_logo_ocwc.gif" width="75" height="25" alt="OpenCourseWare Consortium">
+	</a>
+</div>
+
+</div>
+</body>
+</html>
