@@ -41,47 +41,5 @@
 {include file="com_language.tpl"}
 {include file="com_header_menu.tpl"}
 
-
-<div class="header_image">
-<table class="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
-	<tr><td>
-		<img src="./images/ja/rec_02_02.jpg" alt="高校生向け案内">
-	</td></tr>
-	<tr><td>
-		<a href="#rec01"><img src="./images/ja/rec_03_03.jpg" border=0  alt="01.オススメ授業"></a>
-	</td></tr>
-	<tr><td>
-		<img src="./images/ja/rec_head_05_05.jpg" alt="">
-	</td></tr>
-	<tr><td>
-		<img src="./images/ja/rec_head_06_06.jpg" alt="">
-	</td></tr>
-	<tr><td>
-		<img src="./images/ja/rec_07_07.jpg" alt="">
-	</td></tr>
-</table>
-</div>
-
-<div>
-	<img src="./images/ja/rec_04_04.jpg" alt="">
-</div>
-
-
-<div class="navi">
-	<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
-	&gt;  高校生向け案内
-</div>
-
-<div>
-	<img src="./images/ja/rec_11_11.jpg" alt="" align="top" id="rec01">
-	<img src="./images/ja/2rec_contents.jpg" usemap="#contents" border=0 alt="">
-	<map name="contents">
-		<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=51&page_type="teachingtips" alt="">
-		<area shape=rect coords="321,1042,422,1176" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=56&page_type="achievement" alt="">
-		<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=55&page_type="assignments" alt="">
-		<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=42&page_type="relatedresources" alt="">
-	</map>
-</div>
-
 {include file="feedback.tpl"}
 {include file="com_footer.tpl"}
