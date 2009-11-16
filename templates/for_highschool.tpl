@@ -51,6 +51,29 @@
 <a href="index.php?lang=ja&amp;mode=g&amp;page_type=akf"><img src="./images/ja/05akf.gif" alt="|AKF検索|"></a>
 </div>
 
+
+<div class="header_image">
+<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
+<tr>
+  
+  <td>
+  <img src="./images/ja/d_farewell.jpg"
+       alt="名古屋大学 退職記念講義
+    退職記念講義の一部を「名大の授業」コンテンツとしてご覧いただけます。">
+  </td>
+
+</tr>
+</table>
+</div>
+
+<div class="navi">
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
+    
+    &gt; 退職記念講義
+  
+</div> 
+
+
 <div class="header_image">
 <table class="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
 	<tr><td>
@@ -76,16 +99,41 @@
 	&gt;  高校生向け案内
 </div>
 
-<div>
-	<img src="./images/ja/rec_11_11.jpg" alt="" align="top" id="rec01">
-	<img src="./images/ja/2rec_contents.jpg" usemap="#contents" border=0 alt="">
-	<map name="contents">
-		<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=51&page_type=teachingtips" alt="">
-		<area shape=rect coords="321,1042,422,1176" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=56&page_type=achievement" alt="">
-		<area shape=rect coords="321,1550,422,1670" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=55&page_type=assignments" alt="">
-		<area shape=rect coords="321,2010,422,2138" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=42&page_type=relatedresources" alt="">
-	</map>
+<div class="about_left" id="about01">
+<img src="./images/ja/rec_11_11.jpg" alt="オススメ授業">
 </div>
+
+<div class="about_contents"> 
+<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
+<tr>
+	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
+	<td width="445" height="15" class="td_top"></td>
+	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
+</tr>
+<tr>
+	<td width="10" class="td_left"></td>
+	<td class="td_contents">    
+		<div class="course_contents"><!-- コンテンツセル開始 -->
+		<img src="./images/ja/2rec_contents.jpg" usemap="#contents" border=0 alt="">
+		<map name="contents">
+			<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=51&page_type=teachingtips" alt="">
+			<area shape=rect coords="321,1042,422,1176" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=56&page_type=achievement" alt="">
+			<area shape=rect coords="321,1550,422,1670" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=55&page_type=assignments" alt="">
+			<area shape=rect coords="321,2010,422,2138" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=42&page_type=relatedresources" alt="">
+		</map>
+		</div>	<!-- コンテンツセル終了 -->
+	</td>
+	<td width="10" class="td_right"></td>
+</tr>
+<tr>
+	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
+	<td width="445" height="15" class="td_under"></td>
+	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
+</tr>
+
+</table>
+</div>
+<div class="clear"></div>
 
 
 <div class="feedback">
