@@ -14,9 +14,6 @@
 <link rel="alternate stylesheet" type="text/css" href="./css/contents.css" media="all" title="a">
 
 <STYLE TYPE="text/css">
-#headerL {
-	float: left;
-}
 </STYLE>
 
 <title>
@@ -54,7 +51,7 @@
 <img src="./images/ja/rec_02_02.jpg" alt="高校生向け">
 
 <div>
-	<div id="headerL">
+	<div>
 	<a href="#rec01">
 			<img src="./images/ja/rec_03_03.jpg" border=0  alt="01.オススメ授業">
 	</a>
