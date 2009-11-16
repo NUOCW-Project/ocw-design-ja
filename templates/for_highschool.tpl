@@ -40,6 +40,4 @@
 
 {include file="com_language.tpl"}
 {include file="com_header_menu.tpl"}
-
-{include file="feedback.tpl"}
 {include file="com_footer.tpl"}
