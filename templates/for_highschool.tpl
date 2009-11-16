@@ -24,6 +24,23 @@
 	</a>
 </div>
 
+{strip}
+<div class="language"><br>
+	{literal}
+	{strip}
+	  <img src="./images/ja/size.gif" alt="文字サイズ">
+	  {if ! isset($smarty.session.fontsize) || $smarty.session.fontsize == "s"}
+	    <a href="select_fontsize.php?fontsize=l">
+	    <img src="./images/ja/size_l.gif" alt="大"></a><img src="./images/ja/size_s.gif" alt="小">
+	  {/if}
+	  {if $smarty.session.fontsize == "l"}
+	    <img src="./images/ja/size_l.gif" alt="大">
+	    <a href="select_fontsize.php?fontsize=s"><img src="./images/ja/size_s.gif" alt="小"></a>
+	  {/if}
+	{/strip}
+	{/literal}
+</div>
+{/strip}
 
 <div class="header_menu">
 <a href="index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/ja/01about.gif" alt="|名大の授業について|"></a>
