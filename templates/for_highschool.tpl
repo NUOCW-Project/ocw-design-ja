@@ -79,7 +79,7 @@
 </div>
 
 <div class="about_left" id="01zyugyo">
-	<img src="./images/ja/rec_11.jpg" alt="オススメ授業">
+	<img src="./images/ja/rec_11_11.jpg" alt="オススメ授業">
 </div>
 <div class="about_center">
 <div class="center_contents"> 
