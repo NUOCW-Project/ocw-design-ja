@@ -54,11 +54,11 @@
 <div class="header_image">
 <table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
 	<tr>
-		<td><img src="./images/ja/rec_02_02.jpg" alt="高校生向け案内"></td>
+		<td colspan=2><img src="./images/ja/rec_02_02.jpg" alt="高校生向け案内"></td>
 	</tr>
 	<tr>
 		<td><img src="./images/ja/rec_03_03.jpg" alt=""></td>
-		<td rowspan="4"><img src="./images/ja/rec_04_04.jpg" alt=""></td>
+		<td rowspan=4><img src="./images/ja/rec_04_04.jpg" alt=""></td>
 	</tr>
 	<tr>
 		<td><img src="./images/ja/rec_head_05_05.jpg" alt=""></td>
