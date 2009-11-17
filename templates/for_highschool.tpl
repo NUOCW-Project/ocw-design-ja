@@ -7,8 +7,8 @@
 <link rel="stylesheet" type="text/css" href="./css/contents.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/fontsize_{ldelim}$smarty.session.fontsize|default:s{rdelim}.css" media="all">
 <link rel="stylesheet" type="text/css" href="./css/left_menu_ja.css" media="all">
-<link rel="stylesheet" type="text/css" href="./css/common_print.css" media="all">
-<link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="all">
+<link rel="stylesheet" type="text/css" href="./css/common_print.css" media="print">
+<link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
 
 <title>
 名大の授業 Nagoya University OpenCourseWare || 高校生向け案内
