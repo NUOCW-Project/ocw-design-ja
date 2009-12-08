@@ -21,7 +21,7 @@
 
 <tr>
 	<td width="10" class="td_left"></td>
-	<td width="300" height="650" class="td_contents">    <!-- コンテンツセル -->
+	<td width="300" height="520" class="td_contents">    <!-- コンテンツセル -->
 	<div class="pickup">   	<!-- Pickup コンテンツ -->
 	<p class="pickup_title">
 	<img src="./images/{$lang}/t_pickup.jpg" alt="{if $lang=='ja'}今週のPICK UP{else}TOPICS{/if}">
