@@ -9,11 +9,11 @@
 
 <tr>
 	<td width="10" class="td_left"></td>
-	<td width="300" height="520" class="td_contents">    <!-- コンテンツセル -->
+	<td width="300" height="650" class="td_contents">    <!-- コンテンツセル -->
 	
 	{if $lang=='ja'}
 	<div class="pickup">
-		<img src="./images/ja/header_top.jpg" alt="高校生向けオススメ授業">
+		<img src="./images/ja/header_top.jpg" alt="高校生向けオススメ授業" width="300" height="125">
 	</div>
 	{/if}
 
