@@ -1,22 +1,27 @@
 <div class="top_center_contents">   <!-- センターコンテンツ「Pickup」「Topic」開始 -->
 <table class="center_contents" width="326" border="0" cellpadding="0" cellspacing="0" summary="">
+
+{if $lang=='ja'}
+<tr>
+	<td width="10" height="150"></td>
+	<td width="305" height="150">
+	<a href="index.php?lang=ja&amp;mode=g&amp;page_type=highschool"><img src="./images/ja/header_top.jpg" alt="高校生向けオススメ授業"></a>
+	</td>
+	<td width="10" height="150"></td>
+</tr>
+{/if}
+
+
+
 <tr>
 	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
 	<td width="304" height="15" class="td_top"></td>
 	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 
-
 <tr>
 	<td width="10" class="td_left"></td>
 	<td width="300" height="650" class="td_contents">    <!-- コンテンツセル -->
-	
-	{if $lang=='ja'}
-	<div class="pickup">
-		<img src="./images/ja/header_top.jpg" alt="高校生向けオススメ授業" width="93%" height="93%">
-	</div>
-	{/if}
-
 	<div class="pickup">   	<!-- Pickup コンテンツ -->
 	<p class="pickup_title">
 	<img src="./images/{$lang}/t_pickup.jpg" alt="{if $lang=='ja'}今週のPICK UP{else}TOPICS{/if}">
