@@ -13,7 +13,7 @@
 	
 	{if $lang=='ja'}
 	<div class="pickup">
-		<img src="./images/ja/header_top.jpg" alt="高校生向けオススメ授業" width="296" height="123">
+		<img src="./images/ja/header_top.jpg" alt="高校生向けオススメ授業" width="93%" height="93%">
 	</div>
 	{/if}
 
