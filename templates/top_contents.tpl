@@ -3,11 +3,11 @@
 
 {if $lang=='ja'}
 <tr>
-	<td width="10" height="150"></td>
-	<td width="305" height="150">
+	<td width="5" height="150"></td>
+	<td width="315" height="150">
 	<a href="index.php?lang=ja&amp;mode=g&amp;page_type=highschool"><img src="./images/ja/header_top.jpg" alt="高校生向けオススメ授業"></a>
 	</td>
-	<td width="10" height="150"></td>
+	<td width="5" height="150"></td>
 </tr>
 {/if}
 
