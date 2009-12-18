@@ -11,7 +11,7 @@
   {/foreach}
       </div>
       
-      <h2>全学教育科目‐留学生と日本<br>〜異文化を通しての日本理解〜</h2>
+      <h2>{$course_name}</h2>
       
       <div id="data"><!-- 背景灰色のボックス -->
 	<b>授業時間</b>：{$course_info.year}{$course_info.meeting_time|nl2br}<br>
