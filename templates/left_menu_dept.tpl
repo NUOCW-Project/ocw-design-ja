@@ -1,9 +1,5 @@
-<!-- 学部の一覧 -->
-<div class="left_menu">
-<ul class="left_menu">
-<!-- 授業一覧へのリンク -->
-<li class="m00list"><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=all{if $smarty.get.display_mode == 'temp'}&amp;display_mode=temp{/if}"><img src="./images/common/dummy.gif" alt="{if $lang=='ja'}授業一覧{else}Course List{/if}"></a></li>
-<li class="preload"><img src="./images/{$lang}/md_00list_on.jpg" alt=""></li>
+<div id="method2">
+<ul id="departmentslist" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
 
 <!-- 各学部ページへのリンクリスト -->
 {foreach from=$dept_list item="dept"}
