@@ -4,7 +4,7 @@
 {include file="com_topbar.tpl"}
 {include file="course_header_image.tpl"}
 {include file="com_navi.tpl"}
-{include file="left_menu_cont.tpl"}
+{include file="left_menu_dept.tpl"}
 {if $curr_page_type_code==51}
   {include file="course_contents_home.tpl"}
 {elseif $curr_page_type_code==71}
@@ -12,5 +12,4 @@
 {else}
   {include file="course_contents.tpl"}
 {/if}
-{include file="feedback.tpl"}
 {include file="com_footer.tpl"}

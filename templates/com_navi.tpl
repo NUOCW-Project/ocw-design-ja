@@ -15,3 +15,5 @@
 {/foreach}
 </ol>
 
+</div><!-- "coursehome_header" end -->
+

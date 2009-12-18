@@ -1,11 +1,8 @@
-<!-- ヘッダー画像(中身はテーブル) -->
-<div class="header_image">
-<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="{if $lang=='ja'}ヘッダー部分画像{else}header{/if}">
-{assign var="page_header_img" value="./images/`$lang`/c_`$page_data.filename`}
-
-<!-- ページ名。ここの画像はページの内容によって動的に差し替え -->
-<tr>
-	<td><img src="{$page_header_img}{ldelim}$time_zone{rdelim}.jpg" alt="{$page_data.page_name}" width="650" height="215"></td>
-</tr>
-</table>
-</div>
+<div class="main"><!-- 最上部ヘッダー以外 -->
+  <div class="main_back"><!--  右側部分背景 -->
+    <div class="coursehome_header"> 
+    
+    <a href="./index.php?lang=ja&mode=l&page_type=all">
+      <img src="./images/2010/img/courselist.gif" id="courselist_top" 
+	   onMouseOver="this.src='./images/2010/img/courselist_on.gif'"
+	   onMouseOut="this.src='./images/2010/img/courselist.gif'"></a>
