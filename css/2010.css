@@ -2,7 +2,7 @@ body{
 	margin: 0;
 	padding: 0;
 
-	background-image: url(./images/bg.gif); /*グレーの背景*/
+	background-image: url(./images/2010/img/bg.gif); /*グレーの背景*/
 	background-repeat: repeat-x;
 	background-position: 0px 90px; /*  ヘッダー画像の下に白線がある*/
 
@@ -36,7 +36,7 @@ a {
 
 .header{
     height: 90px; 
-    background-image: url(./images/header_2nd.gif);/* 背景画像「名大の授業」 */
+    background-image: url(./images/2010/img/header_2nd.gif);/* 背景画像「名大の授業」 */
     background-repeat: no-repeat;
   /*  border: dotted; */
 }
@@ -111,7 +111,7 @@ a {
 
 .header_edge{
     height: 90px;
-    background-image: url(./images/header_2nd_edge.gif);
+    background-image: url(./images/2010/img/header_2nd_edge.gif);
     background-repeat: repeat-x;
     background-position: 1300px 0px;
     margin:0;
@@ -127,7 +127,7 @@ a {
 }
 
 .main_back {
-    background-image: url(./images/loop.jpg);
+    background-image: url(./images/2010/img/loop.jpg);
     background-repeat: repeat-y;
     background-position: 945px 90px;
     max-width: 1240px; 
@@ -137,7 +137,7 @@ a {
 }
 
 .main_back_url{
-    background-image: url(./images/url.gif);
+    background-image: url(./images/2010/img/url.gif);
     background-repeat: no-repeat;
     width: 20px;
     height: 170px; 
@@ -148,7 +148,7 @@ a {
 }
 
 .main_back_adachi{
-    background-image: url(./images/s01adachi.gif);
+    background-image: url(./images/2010/img/s01adachi.gif);
     background-repeat: no-repeat;
     position: absolute;
     top: 10px; 
@@ -194,7 +194,7 @@ a {
 }
 
 /*.departmentslist li:visited/* 訪問済み *//*{
-    background-images: url(./navi/n02lit_v.gif);
+    background-images: url(./images/2010/navi/n02lit_v.gif);
     background-repeat: no-repeat;
 }
 
@@ -216,7 +216,7 @@ a {
 
 .coursehome_header	{
     height: 230px;
-    background-image: url(./images/header_couesehome.jpg);/* 画像「授業ホーム」 */
+    background-image: url(./images/2010/img/header_couesehome.jpg);/* 画像「授業ホーム」 */
     background-repeat: no-repeat;
 }
 
