@@ -1,18 +1,17 @@
-<!-- 　ナビゲーター(パンくずリスト)　-->
-<div class="navi">
-{if $on_top}HOME
-{else}<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=top">HOME</a>
+<ol class="pankuzu">
+{if $on_top}<li>ホーム</li>
+{else}<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=top">ホーム</a>
 {/if}
 {foreach from=$navi_list item="navi" name=n}
   {if not $smarty.foreach.n.last}	
-    &gt; {strip}<a href="index.php?lang={$lang}
+    &gt;</li> <li>{strip}<a href="index.php?lang={$lang}
     {foreach from=$navi key="key" item="value" name="arg"}
       {if $key != "text"}&{$key}={$value}{/if}
     {/foreach}
   ">{$navi.text}</a>{/strip}
   {else}
-    &gt; {$navi.text}
+    &gt;</li> <li>{$navi.text}</li>
   {/if}
 {/foreach}
+</ol>
 
-</div>
