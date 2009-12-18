@@ -13,6 +13,11 @@
 <link rel="alternate stylesheet" type="text/css" href="./css/common.css" media="all" title="ブラウザでの表示のまま印刷">
 <link rel="alternate stylesheet" type="text/css" href="./css/contents.css" media="all" title="ブラウザでの表示のまま印刷">
 {/if}{*　印刷用cssのための分岐終わり　*}
+
+<link rel="stylesheet" type="text/css" href="css/2010.css" />
+<script type="text/javascript" src="./js/jquery.js"></script>
+<script type="text/javascript" src="./js/toggle.js"></script>
+
 <title>
 {if $lang=='ja'}
 名大の授業 (NU OCW)
@@ -30,8 +35,3 @@ Nagoya University OpenCourseWare (NU OCW)
 </title>
 </head>
 <body>
-<div class="all"><!-- コンテンツ全体を囲むブロック開始 -->
-{* テスト発行時 *}
-{if $preview}
-<p class="notice">テンポラリディレクトリ内の{literal}{$smarty.template}{/literal}を読み込んで表示しています。</p>
-{/if}
