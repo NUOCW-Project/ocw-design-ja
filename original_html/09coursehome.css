@@ -1,0 +1,434 @@
+body{
+	margin: 0;
+	padding: 0;
+
+	background-image: url(./img/bg.gif); /*グレーの背景*/
+	background-repeat: repeat-x;
+	background-position: 0px 90px; /*  ヘッダー画像の下に白線がある*/
+
+	font-size: 12.5px; 
+	/* small指定はブラウザにより異なる */
+	color: #888888;
+
+/*	overflow-x: hidden;
+	min-width: 900px; */
+}
+
+.test{
+    width:100%;
+    min-width: 900px;
+    overflow-x: hidden;
+    border: dotted;
+}
+	
+h2/* 授業タイトルに適用 */{
+	font-size: large;
+	color: #DD0000;
+}
+
+img/*すべての画像にリンクの枠をつけない*/{
+    border-style: none;
+}
+
+a /*すべてのリンクに下線をつけない*/{
+    text-decoration: none;
+}
+
+.header/* 最上部ヘッダー */{
+    height: 90px; 
+    background-image: url(./img/header_2nd.gif);/* 背景画像「名大の授業」 */
+    background-repeat: no-repeat;
+  /*  border: dotted; */
+}
+
+.header_sub/*最上部ヘッダーボタン部分の可動域*/{
+    max-width: 770px;
+    height: 50px;
+   /* position: relative; 
+    left: 200px; */
+    margin-left: 200px;
+  /* border : dotted;   */
+}
+	
+.header_button/*最上部ヘッダーボタン部分*/{
+    margin-top: 10px;
+    width: 450px;
+    height: 50px;
+    /* padding-left: 200px; */
+    float: right;
+/* border: dotted;     */
+}
+
+.header_button_sub/* ボタン部分を２つにわける */{
+    width: 190px;
+    height: 50px;
+   /* float: right; */
+    position: relative;
+    top: -50px;
+    left: 243px;
+ /*   border: dotted;   */
+}
+
+.header_button_english/* Englishボタン部分 */{
+    width: 50px;
+    height: 20px;
+    position: relative;
+    top: 3px;
+    margin: 0px 15px 0px 135px;
+  /*  border: dotted;   */
+}
+
+.header_button_akf/* AKF画像部分 */{
+    width: 50px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+    margin: 0;
+ /*   border: dotted; */
+}
+
+.header_button_input/* AKF検索のform部分 */ {
+    width: 130px; 
+    position: relative;
+    left: 50px;
+    top : -15px;
+    /*border: dotted;  */
+}
+
+.header_button_input input/* AKF検索formの文字サイズ */{
+    font-size: 9px;
+    width: 120px;
+}
+
+.header_button_search/* AKF検索の検索ボタン部分 */{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 175px;
+    top: -33px;
+   /* border: dotted; */
+}
+
+.header_edge/* 最上部ヘッダー右端部分 */{
+    height: 90px;
+    background-image: url(./img/header_2nd_edge.gif);
+    background-repeat: repeat-x;
+    background-position: 1300px 0px;
+    margin:0;
+  /*  border: dotted; */
+}
+
+.main/* ボックス 最上部ヘッダー以外 */{
+    margin-left: 30px;
+    max-width: 1230px;
+    background-color: white;
+    padding: 0;
+  /*  border: dotted;        */
+}
+
+.main_back /* 右側グレー背景  */{
+    background-image: url(./img/loop.jpg);
+    background-repeat: repeat-y;
+    background-position: 945px 90px;
+    max-width: 1240px; 
+    margin: 0px;
+    padding: 0px;
+  /*  border: dotted;  */
+}
+
+.main_back_url/* 名大のURL */{
+    background-image: url(./img/url.gif);
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 170px; 
+    position: fixed;
+    top: 90px;
+    left: 1260px;
+    /*border: dotted; */
+}
+
+.main_back_adachi/* 足立さん */{
+    background-image: url(./img/s01adachi.gif);
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 10px; 
+    left: 1030px;
+    width: 95px; 
+    height: 125px;
+   /* padding-left: 400px;  */
+  /*  position: relative;
+    top: 10px;
+    left: 100px; */
+   /* border: dotted;  */
+}
+ 
+#departmentslist/* 部局リスト */	{
+    float: left;
+    width: 160px;
+    /*   border-collapse: collapse;
+	 border-spacing: 0px;
+*/
+/*	 background-color: white;
+	/* font-size: x-small;*/
+	 
+	/* margin: 0px;
+	 padding-left: 40px;
+	 padding-right: 9px;
+	 padding-bottom: 300px;
+*/	 
+/* 以前書いたもの */
+    margin-left: 40px;
+    margin-right: 5px;
+    padding:0px;
+   /* border:dotted;  */ 
+}
+
+#departmentslist ul	{
+   /* padding: 5px;
+/* border: solid red 1px;*/
+   /* border: dotted; */
+}
+
+#departmentslist li{
+    margin-bottom: -6px; /*画像の隙間をなくしている */
+}
+
+/*.departmentslist li:visited/* 訪問済み *//*{
+    background-img: url(./navi/n02lit_v.gif);
+    background-repeat: no-repeat;
+}
+
+.departmentslist li:hover/* オンマウス時 *//*{
+/*   color: white;
+     background-color: red; */
+/*} */
+
+#Blank/* リストに間を開けている */{
+    border-left: 0px;
+    border-right: 0px;
+    background-color: white;
+} 
+
+#being/* ハイライト表示 */{
+    color: red;
+}
+
+
+.coursehome_header	{
+    height: 230px;
+    background-image: url(./img/header_couesehome.jpg);/* 画像「授業ホーム」 */
+    background-repeat: no-repeat;
+}
+
+#courselist_top/* 画像「授業一覧から探す」 */{	
+    margin-top: 170px;
+    padding-left: 40px;
+  /*  border: dotted; */
+}
+
+.pankuzu/* パンくずリスト */{
+    position: absolute; top: 260px; left: 229px;/* 絶対配置している */
+    list-style-type: none;
+    padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
+ /*   border: dotted;/* 枠を出している 後で削除 */
+}
+
+.pankuzu li{
+    display: inline;
+    color: #996633;
+}
+
+.pankuzu li a:link{
+    margin-right: 6px;
+    color: #888888;
+}
+
+.pankuzu li a:visited{
+    color: #888888;
+    margin-right: 6px;
+}
+
+.pankuzu li a:hover{
+    marigin-right: 6px;
+    color: #dd0000;
+    text-decoration: underline;
+}
+
+
+#line1/*水平線(上)に適用*/{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.course_contents/* 中核のボックス */	{
+    margin-left: 209px;
+    background-color: white;
+    padding: 5px;
+   /* border: dotted;/* 枠を出している 後で削除 */
+    max-width: 726px;
+}
+
+#caption/* ボックス 教員名＋講義名＋灰色のボックス */{
+    padding: 25px 305px 0px 0px; /* 25pxより大きい気がするのは気のせい？ */
+    margin: 0px;
+  /*  border: dotted;/* 枠を出している 後で削除 */
+/* padding-right: 305px; */
+}
+		
+#publisher/* ボックス 開講部局＋教員名 */	{
+    color: #CC9966;
+}
+
+#teacher/* 教員名 */	{
+    font-size: xx-large;
+    font-family: serif;/* 明朝体 */
+}
+
+#occupation/* 肩書 */	{
+    font-size: medium;
+    font-family: serif;/* 明朝体 */
+}
+
+#data/* 灰色のボックス */	{
+    padding: 1em;
+    border: solid 1px gray;
+    background-color: #E0E0E0;
+}
+
+#movie/* 看板画像ダミー */	{
+    padding-left: 5px;
+    padding-top: 25px;
+    margin-bottom: 2em;
+    float: right;
+    width: 300px;
+}
+
+#main_text/* ボックス 本文 */	{
+    clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
+}
+
+.subheading/* 画像「概要」「授業の工夫」「学習成果」に適用 */{
+    float: left;
+}
+
+.e_text/* クラス 本文 */	{
+    margin-left: 110px;
+    margin-bottom: 3em;
+}
+
+#go_to_pagetop/* 画像「ページトップへ」 */ {
+    float: right;
+			}
+
+.footer{	
+    clear: right;
+    text-align: center;
+}
+
+#line2/*水平線(下)に適用*/{
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;　
+
+}
+
+
+.navi {
+    margin-top: 30px;
+    padding-left: 0;
+    padding-right: 3em;
+    text-align: left;
+    float: left;
+    list-style-type: none;
+    /*border: dotted;  */
+}
+ 
+.navi li {
+    margin-bottom: 1ex;
+    color: #CC9966;
+}
+
+.navi a:link{
+    color: #CC9966;
+}
+
+.navi a:visited{
+    color: #996633;
+}
+
+.navi a:hover{
+    color: #EE0000;
+    text-decoration: underline;
+}
+
+.cont {
+    margin-top: 30px;
+    padding-left: 3em;
+    text-align: left;
+    float: left;
+    list-style-type: none;
+    width: 
+  /*  border: dotted;  */
+}
+.cont li {
+    margin-bottom: 1ex;
+    color: #CC9966;
+}
+
+.cont a:link{
+    color: #CC9966;
+}
+
+.cont a:visited{
+    color: #996633;
+}
+
+.cont a:hover{
+    color: #EE0000;
+    text-decoration: underline;
+}
+
+#link {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7em;
+    clear: both;
+}
+
+#link li                   {
+    margin: 1ex;
+    display: inline;
+    margin-right: 6px;
+    color: #DD0100;
+}
+
+#link a{
+    color: #DD0100;
+}
+
+#size_img{
+    margin: -5px; 
+}
+
+#proviso {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+}
+
+.nu{
+    float: left;
+    color: #996633;
+    margin:0px;
+}
+
+div#method2 a{
+    font-weight: 500;
+}
+
+div#method2 a:visited{
+    font-weight: 400;
+}
