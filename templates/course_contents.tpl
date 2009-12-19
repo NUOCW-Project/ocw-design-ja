@@ -24,10 +24,12 @@
 
 <div id="main_text">
   {foreach from=$page_format.order item=page_type}
+    {if $pages.$page_type != ""}
       <img src="./images/2010/img/i01outline.gif" class="subheading" />
       <p class="e_text">
         {eval_strip var=$pages.$page_type}
       </p>
+    {/if}
   {/foreach}
 
   <!-- 「ページトップへ」 -->
