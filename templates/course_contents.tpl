@@ -26,7 +26,7 @@
   {foreach from=page_format.order item=page_type}
       <img src="./images/2010/img/i01outline.gif" class="subheading" />
       <p class="e_text">
-        {eval strip var=$pages.$page_type}
+        {eval_strip var=$pages.$page_type}
       </p>
   {/foreach}
 
