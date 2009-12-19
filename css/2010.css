@@ -308,7 +308,7 @@ a {
   clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
 }
 
-.e_text p {
+.e_text p, .e_text ul {
   margin-left: 110px;
   margin-bottom: 3em;
 }
