@@ -308,7 +308,7 @@ a {
   clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
 }
 
-.e_text p, .e_text ul {
+.e_text p, .e_text ul, .e_text table {
   margin-left: 110px;
   margin-bottom: 3em;
 }
@@ -444,3 +444,22 @@ div#method2 a{
 div#method2 a:visited{
   font-weight: 400;
 }
+
+table.basic{
+	border:0;
+	border-collapse: collapse;
+	white-space:normal;
+}
+
+table.basic th{
+	border: 1px solid #999999;
+}
+
+table.basic td{
+	border: 1px solid #999999;
+}
+
+table.basic ul {
+	padding-left: 1em;
+}
+
