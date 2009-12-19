@@ -6,7 +6,7 @@
   {if not $smarty.foreach.n.last}	
     &gt;</li> <li>{strip}<a href="index.php?lang={$lang}
     {foreach from=$navi key="key" item="value" name="arg"}
-      {if $key != "text"}&{$key}={$value}{/if}
+      {if $key != "text"}&amp;{$key}={$value}{/if}
     {/foreach}
   ">{$navi.text}</a>{/strip}
   {else}
