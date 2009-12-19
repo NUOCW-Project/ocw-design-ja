@@ -313,7 +313,7 @@ a {
   margin-bottom: 3em;
 }
 
-.e_text ul li ul {
+.e_text * ul {
   margin-left: 1em;
   margin-bottom: 0;
 }
