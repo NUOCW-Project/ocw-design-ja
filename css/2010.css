@@ -313,6 +313,11 @@ a {
   margin-bottom: 3em;
 }
 
+.e_text li ul {
+  margin-left: 1em;
+  margin-bottom: 0;
+}
+
 .e_text h3 {
   font-size: 13px;
   font-weight: normal;
