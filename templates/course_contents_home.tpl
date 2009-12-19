@@ -11,7 +11,7 @@
   {/foreach}
       </div>
       
-      <h2>{$course_name}</h2>
+      <h2>{$course_info.course_name}</h2>
       
       <div id="data"><!-- 背景灰色のボックス -->
 	<b>授業時間</b>：{$course_info.year}{$course_info.meeting_time|nl2br}<br>
@@ -35,5 +35,5 @@
       </p>
       
       <a href="#top"><img src="./images/2010/img/pagetop.gif" id="go_to_pagetop" /></a><!-- 「ページトップへ」 -->
-    </div><!--"main_text" end-->
+</div><!--"main_text" end-->
 
