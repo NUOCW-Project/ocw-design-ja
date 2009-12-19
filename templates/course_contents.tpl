@@ -29,7 +29,7 @@
         {$page_type}
       </p>
       <p class="e_text">
-        {$pages.`$page_type`}
+        {$pages.$page_type}
       </p>
   {/foreach}
 
