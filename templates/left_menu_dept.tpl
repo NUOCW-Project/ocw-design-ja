@@ -16,8 +16,8 @@
     <a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$dept.department_abbr}">
       <img src="./images/2010/navi/{$dept.department_abbr}.gif"
            onMouseOver="this.src='./images/2010/navi/{$dept.department_abbr}_on.gif'" 
-           onMouseOut="this.src='./images/2010/navi/{$dept.department_abbr}.gif'
-           alt={$dept_name}">
+           onMouseOut="this.src='./images/2010/navi/{$dept.department_abbr}.gif'"
+           alt="{$dept_name}">
     </a>
   {/if}
   </li>
