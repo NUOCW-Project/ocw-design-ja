@@ -1,442 +1,441 @@
 body{
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 
-	background-image: url(../images/2010/img/bg.gif); /*グレーの背景*/
-	background-repeat: repeat-x;
-	background-position: 0px 90px; /*  ヘッダー画像の下に白線がある*/
+  background-image: url(../images/2010/img/bg.gif); /*グレーの背景*/
+  background-repeat: repeat-x;
+  background-position: 0px 90px; /*  ヘッダー画像の下に白線がある*/
 
-	font-size: 12.5px; 
-	/* small指定はブラウザにより異なる */
-	color: #888888;
+  font-size: 12.5px; 
+  /* small指定はブラウザにより異なる */
+  color: #888888;
 
-/*	overflow-x: hidden;
-	min-width: 900px; */
+/*  overflow-x: hidden;
+  min-width: 900px; */
 }
 
 .test{
-    width:100%;
-    min-width: 900px;
-    overflow-x: hidden;
-    border: dotted;
+  width:100%;
+  min-width: 900px;
+  overflow-x: hidden;
+  border: dotted;
 }
-	
+  
 h2{
-	font-size: large;
-	color: #DD0000;
-}
-
-h3{
-  font-size: 15px;
-  color: rgb(221, 0, 0);
-  background-image: url(../images/2010/img/header3_box.gif);
-  background-repeat: no-repeat;
-  padding-left: 15px;
+  font-size: large;
+  color: #DD0000;
 }
 
 images{
-    border-style: none;
+  border-style: none;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .header{
-    height: 90px; 
-    background-image: url(../images/2010/img/header_2nd.gif);/* 背景画像「名大の授業」 */
-    background-repeat: no-repeat;
+  height: 90px; 
+  background-image: url(../images/2010/img/header_2nd.gif);/* 背景画像「名大の授業」 */
+  background-repeat: no-repeat;
   /*  border: dotted; */
 }
 
 .header_sub{
-    max-width: 770px;
-    height: 50px;
+  max-width: 770px;
+  height: 50px;
    /* position: relative; 
-    left: 200px; */
-    margin-left: 200px;
+  left: 200px; */
+  margin-left: 200px;
   /* border : dotted;   */
 }
-	
+  
 .header_button{
-    margin-top: 10px;
-    width: 450px;
-    height: 50px;
-    /* padding-left: 200px; */
-    float: right;
+  margin-top: 10px;
+  width: 450px;
+  height: 50px;
+  /* padding-left: 200px; */
+  float: right;
 /* border: dotted;     */
 }
 
 .header_button_sub{
-    width: 190px;
-    height: 50px;
+  width: 190px;
+  height: 50px;
    /* float: right; */
-    position: relative;
-    top: -50px;
-    left: 243px;
+  position: relative;
+  top: -50px;
+  left: 243px;
  /*   border: dotted;   */
 }
 
 .header_button_english{
-    width: 50px;
-    height: 20px;
-    position: relative;
-    top: 3px;
-    margin: 0px 15px 0px 135px;
+  width: 50px;
+  height: 20px;
+  position: relative;
+  top: 3px;
+  margin: 0px 15px 0px 135px;
   /*  border: dotted;   */
 }
 
 .header_button_akf{
-    width: 50px;
-    height: 20px;
-    position: relative;
-    top: 5px;
-    margin: 0;
+  width: 50px;
+  height: 20px;
+  position: relative;
+  top: 5px;
+  margin: 0;
  /*   border: dotted; */
 }
 
 .header_button_input{
-    width: 130px; 
-    position: relative;
-    left: 50px;
-    top : -15px;
-    /*border: dotted;  */
+  width: 130px; 
+  position: relative;
+  left: 50px;
+  top : -15px;
+  /*border: dotted;  */
 }
 
 .header_button_input input{
-    font-size: 9px;
-    width: 120px;
+  font-size: 9px;
+  width: 120px;
 }
 
 .header_button_search{
-    width: 20px;
-    height: 20px;
-    position: relative;
-    left: 175px;
-    top: -33px;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  left: 175px;
+  top: -33px;
    /* border: dotted; */
 }
 
 .header_edge{
-    height: 90px;
-    background-image: url(../images/2010/img/header_2nd_edge.gif);
-    background-repeat: repeat-x;
-    background-position: 1300px 0px;
-    margin:0;
+  height: 90px;
+  background-image: url(../images/2010/img/header_2nd_edge.gif);
+  background-repeat: repeat-x;
+  background-position: 1300px 0px;
+  margin:0;
   /*  border: dotted; */
 }
 
 .main{
-    margin-left: 30px;
-    max-width: 1230px;
-    background-color: white;
-    padding: 0;
+  margin-left: 30px;
+  max-width: 1230px;
+  background-color: white;
+  padding: 0;
   /*  border: dotted;        */
 }
 
 .main_back {
-    background-image: url(../images/2010/img/loop.jpg);
-    background-repeat: repeat-y;
-    background-position: 945px 90px;
-    max-width: 1240px; 
-    margin: 0px;
-    padding: 0px;
+  background-image: url(../images/2010/img/loop.jpg);
+  background-repeat: repeat-y;
+  background-position: 945px 90px;
+  max-width: 1240px; 
+  margin: 0px;
+  padding: 0px;
   /*  border: dotted;  */
 }
 
 .main_back_url{
-    background-image: url(../images/2010/img/url.gif);
-    background-repeat: no-repeat;
-    width: 20px;
-    height: 170px; 
-    position: fixed;
-    top: 90px;
-    left: 1260px;
-    /*border: dotted; */
+  background-image: url(../images/2010/img/url.gif);
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 170px; 
+  position: fixed;
+  top: 90px;
+  left: 1260px;
+  /*border: dotted; */
 }
 
 .main_back_adachi{
-    background-image: url(../images/2010/img/s01adachi.gif);
-    background-repeat: no-repeat;
-    position: absolute;
-    top: 10px; 
-    left: 1030px;
-    width: 95px; 
-    height: 125px;
+  background-image: url(../images/2010/img/s01adachi.gif);
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 10px; 
+  left: 1030px;
+  width: 95px; 
+  height: 125px;
    /* padding-left: 400px;  */
   /*  position: relative;
-    top: 10px;
-    left: 100px; */
+  top: 10px;
+  left: 100px; */
    /* border: dotted;  */
 }
  
 #departmentslist{
-    float: left;
-    width: 160px;
-    /*   border-collapse: collapse;
-	 border-spacing: 0px;
+  float: left;
+  width: 160px;
+  /*   border-collapse: collapse;
+   border-spacing: 0px;
 */
-/*	 background-color: white;
-	/* font-size: x-small;*/
-	 
-	/* margin: 0px;
-	 padding-left: 40px;
-	 padding-right: 9px;
-	 padding-bottom: 300px;
-*/	 
+/*   background-color: white;
+  /* font-size: x-small;*/
+   
+  /* margin: 0px;
+   padding-left: 40px;
+   padding-right: 9px;
+   padding-bottom: 300px;
+*/   
 /* 以前書いたもの */
-    margin-left: 40px;
-    margin-right: 5px;
-    padding:0px;
+  margin-left: 40px;
+  margin-right: 5px;
+  padding:0px;
    /* border:dotted;  */ 
 }
 
-#departmentslist ul	{
+#departmentslist ul  {
    /* padding: 5px;
 /* border: solid red 1px;*/
    /* border: dotted; */
 }
 
 #departmentslist li{
-    margin-bottom: -6px; /*画像の隙間をなくしている */
+  margin-bottom: -6px; /*画像の隙間をなくしている */
 }
 
 /*.departmentslist li:visited/* 訪問済み *//*{
-    background-images: url(../images/2010/navi/n02lit_v.gif);
-    background-repeat: no-repeat;
+  background-images: url(../images/2010/navi/n02lit_v.gif);
+  background-repeat: no-repeat;
 }
 
 .departmentslist li:hover/* オンマウス時 *//*{
 /*   color: white;
-     background-color: red; */
+   background-color: red; */
 /*} */
 
 #Blank{
-    border-left: 0px;
-    border-right: 0px;
-    background-color: white;
+  border-left: 0px;
+  border-right: 0px;
+  background-color: white;
 } 
 
 #being{
-    color: red;
+  color: red;
 }
 
 
-.coursehome_header	{
-    height: 230px;
-    background-image: url(../images/2010/img/header_couesehome.jpg);/* 画像「授業ホーム」 */
-    background-repeat: no-repeat;
+.coursehome_header  {
+  height: 230px;
+  background-image: url(../images/2010/img/header_couesehome.jpg);/* 画像「授業ホーム」 */
+  background-repeat: no-repeat;
 }
 
-#courselist_top{	
-    margin-top: 170px;
-    padding-left: 40px;
+#courselist_top{  
+  margin-top: 170px;
+  padding-left: 40px;
   /*  border: dotted; */
 }
 
 .pankuzu{
-    position: absolute; top: 260px; left: 229px;/* 絶対配置している */
-    list-style-type: none;
-    padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
+  position: absolute; top: 260px; left: 229px;/* 絶対配置している */
+  list-style-type: none;
+  padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
  /*   border: dotted;/* 枠を出している 後で削除 */
 }
 
 .pankuzu li{
-    display: inline;
-    color: #996633;
+  display: inline;
+  color: #996633;
 }
 
 .pankuzu li a:link{
-    margin-right: 6px;
-    color: #888888;
+  margin-right: 6px;
+  color: #888888;
 }
 
 .pankuzu li a:visited{
-    color: #888888;
-    margin-right: 6px;
+  color: #888888;
+  margin-right: 6px;
 }
 
 .pankuzu li a:hover{
-    marigin-right: 6px;
-    color: #dd0000;
-    text-decoration: underline;
+  marigin-right: 6px;
+  color: #dd0000;
+  text-decoration: underline;
 }
 
 
 #line1{
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 
 .course_contents{
-    margin-left: 209px;
-    background-color: white;
-    padding: 5px;
+  margin-left: 209px;
+  background-color: white;
+  padding: 5px;
    /* border: dotted;/* 枠を出している 後で削除 */
-    max-width: 726px;
+  max-width: 726px;
 }
 
 #caption{
-    padding: 25px 305px 0px 0px; /* 25pxより大きい気がするのは気のせい？ */
-    margin: 0px;
+  padding: 25px 305px 0px 0px; /* 25pxより大きい気がするのは気のせい？ */
+  margin: 0px;
   /*  border: dotted;/* 枠を出している 後で削除 */
 /* padding-right: 305px; */
 }
-		
+  
 #publisher{
-    color: #CC9966;
+  color: #CC9966;
 }
 
 #teacher{
-    font-size: xx-large;
-    font-family: serif;/* 明朝体 */
+  font-size: xx-large;
+  font-family: serif;/* 明朝体 */
 }
 
 #occupation{
-    font-size: medium;
-    font-family: serif;/* 明朝体 */
+  font-size: medium;
+  font-family: serif;/* 明朝体 */
 }
 
 #data{
-    padding: 1em;
-    border: solid 1px gray;
-    background-color: #E0E0E0;
+  padding: 1em;
+  border: solid 1px gray;
+  background-color: #E0E0E0;
 }
 
 #movie{
-    padding-left: 5px;
-    padding-top: 25px;
-    margin-bottom: 2em;
-    float: right;
-    width: 300px;
+  padding-left: 5px;
+  padding-top: 25px;
+  margin-bottom: 2em;
+  float: right;
+  width: 300px;
 }
 
 #main_text{
-    clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
+  clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
 }
 
 .e_text p {
-    margin-left: 110px;
-    margin-bottom: 3em;
+  margin-left: 110px;
+  margin-bottom: 3em;
 }
 
 .e_text h3 {
-    float: left;
+  font-size: 13px;
+  font-weight: normal;
+  color: rgb(221, 0, 0);
+  background-image: url(../images/2010/img/header3_box.gif);
+  background-repeat: no-repeat;
+  padding-left: 15px;
+  padding-top: 0px;
+  margin: 0;
+  float: left;
 }
 
 #go_to_pagetop{
-    float: right;
-			}
+  float: right;
+}
 
-.footer{	
-    clear: right;
-    text-align: center;
+.footer{  
+  clear: right;
+  text-align: center;
 }
 
 #line2{
-    margin-top: 1em;
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;　
-
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;　
 }
 
 
 .navi {
-    margin-top: 30px;
-    padding-left: 0;
-    padding-right: 3em;
-    text-align: left;
-    float: left;
-    list-style-type: none;
-    /*border: dotted;  */
+  margin-top: 30px;
+  padding-left: 0;
+  padding-right: 3em;
+  text-align: left;
+  float: left;
+  list-style-type: none;
+  /*border: dotted;  */
 }
  
 .navi li {
-    margin-bottom: 1ex;
-    color: #CC9966;
+  margin-bottom: 1ex;
+  color: #CC9966;
 }
 
 .navi a:link{
-    color: #CC9966;
+  color: #CC9966;
 }
 
 .navi a:visited{
-    color: #996633;
+  color: #996633;
 }
 
 .navi a:hover{
-    color: #EE0000;
-    text-decoration: underline;
+  color: #EE0000;
+  text-decoration: underline;
 }
 
 .cont {
-    margin-top: 30px;
-    padding-left: 3em;
-    text-align: left;
-    float: left;
-    list-style-type: none;
-    width: 
+  margin-top: 30px;
+  padding-left: 3em;
+  text-align: left;
+  float: left;
+  list-style-type: none;
+  width: 
   /*  border: dotted;  */
 }
 .cont li {
-    margin-bottom: 1ex;
-    color: #CC9966;
+  margin-bottom: 1ex;
+  color: #CC9966;
 }
 
 .cont a:link{
-    color: #CC9966;
+  color: #CC9966;
 }
 
 .cont a:visited{
-    color: #996633;
+  color: #996633;
 }
 
 .cont a:hover{
-    color: #EE0000;
-    text-decoration: underline;
+  color: #EE0000;
+  text-decoration: underline;
 }
 
 #link {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 7em;
-    clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7em;
+  clear: both;
 }
 
 #link li                   {
-    margin: 1ex;
-    display: inline;
-    margin-right: 6px;
-    color: #DD0100;
+  margin: 1ex;
+  display: inline;
+  margin-right: 6px;
+  color: #DD0100;
 }
 
 #link a{
-    color: #DD0100;
+  color: #DD0100;
 }
 
 #size_images{
-    margin: -5px; 
+  margin: -5px; 
 }
 
 #proviso {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 80%;
 }
 
 .nu{
-    float: left;
-    color: #996633;
-    margin:0px;
+  float: left;
+  color: #996633;
+  margin:0px;
 }
 
 div#method2 a{
-    font-weight: 500;
+  font-weight: 500;
 }
 
 div#method2 a:visited{
-    font-weight: 400;
+  font-weight: 400;
 }
