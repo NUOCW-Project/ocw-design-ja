@@ -26,6 +26,14 @@ h2{
 	color: #DD0000;
 }
 
+h3{
+  font-size: 15px;
+  color: rgb(221, 0, 0);
+  background-image: url(../images/2010/img/header3_box.gif);
+  background-repeat: no-repeat;
+  padding-left: 15px;
+}
+
 images{
     border-style: none;
 }
@@ -308,13 +316,13 @@ a {
     clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
 }
 
-.subheading{
-    float: left;
-}
-
-.e_text{
+.e_text p {
     margin-left: 110px;
     margin-bottom: 3em;
+}
+
+.e_text h3 {
+    float: left;
 }
 
 #go_to_pagetop{
