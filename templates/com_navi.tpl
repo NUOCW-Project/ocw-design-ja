@@ -1,6 +1,6 @@
 {strip}
 <ol class="pankuzu">
-{if $on_top}<li>ホーム</li>
+{if $on_top}<li>{if $lang=="ja"}ホーム{else}HOME{/if}</li>
 {else}<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=top">ホーム</a>
 {/if}
 {foreach from=$navi_list item="navi" name=n}
