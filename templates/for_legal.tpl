@@ -1,8 +1,7 @@
 {literal}{* 「ご利用にあたって」のテンプレート *}{/literal}
 {assign var="use_print_css"  value="true"} {* プリント用cssを使う *}
 {include file="com_header.tpl"}
-{include file="com_language.tpl"}
-{include file="com_header_menu.tpl"}
+{include file="com_topbar.tpl"}
 {include file="legal_header_image.tpl"}
 {include file="com_navi.tpl"}
 {include file="left_menu_dummy.tpl"}
