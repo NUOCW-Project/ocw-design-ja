@@ -1,7 +1,6 @@
 {strip}
 <div class="header_edge"><!-- 最上部ヘッダー右端部分 -->
-  <a name="top"></a>
-  <div class="header"><!-- 最上部ヘッダー -->
+  <div class="header" id="top"><!-- 最上部ヘッダー -->
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
 	    <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=legal">
