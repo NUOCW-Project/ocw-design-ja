@@ -1,3 +1,4 @@
+<div class="course_contents"><!-- 中核のボックス -->
 <div id="main_text">
 	<h1 class="notfound">404 Not Found</h1>
 

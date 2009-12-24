@@ -10,5 +10,4 @@
 {elseif $lang == "en"}
   {include file="legal_contents_en.tpl"}
 {/if}
-{include file="feedback.tpl"}
 {include file="com_footer.tpl"}

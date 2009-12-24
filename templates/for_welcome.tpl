@@ -11,5 +11,4 @@
 {elseif $lang == "en"}
   {include file="welcome_contents_en.tpl"}
 {/if}
-{include file="feedback.tpl"}
 {include file="com_footer.tpl"}
