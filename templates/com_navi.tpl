@@ -5,8 +5,7 @@
 {/if}
 {foreach from=$navi_list item="navi" name=n}
   {if not $smarty.foreach.n.last}	
-    &gt;</li>
-    <li>
+    &gt;</li> <li>
     <a href="
       {if $navi.mode=="l"}courselist{else}index{/if}.php      
       ?lang={$lang}
