@@ -2,7 +2,7 @@
   <div class="main_back"><!--  ±¦Â¦ÉôÊ¬ÇØ·Ê -->
     <div class="coursehome_header"> 
     
-    <a href="./index.php?lang=ja&mode=l&page_type=all">
-      <img src="./images/2010/img/courselist.gif" id="courselist_top" 
+    <a href="./courselist.php?lang=ja&mode=l&page_type=all">
+      <img src="./images/2010/img/courselist.gif" id="courselist_top" alt="{if $lang=="ja"}¼ø¶È°ìÍ÷¤«¤éÃµ¤¹{/if}
 	   onMouseOver="this.src='./images/2010/img/courselist_on.gif'"
 	   onMouseOut="this.src='./images/2010/img/courselist.gif'"></a>
