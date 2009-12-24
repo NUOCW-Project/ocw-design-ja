@@ -13,7 +13,7 @@
     {* info_only は部局長挨拶本文で true. つまりチェックにならない. *}
     <img src="./images/2010/navi/{$dept.department_abbr}_h.gif" alt={$dept_name}">
   {else}
-    <a href="index.php?lang={$lang}&amp;mode=l&amp;page_type={$dept.department_abbr}">
+    <a href="courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$dept.department_abbr}">
       <img src="./images/2010/navi/{$dept.department_abbr}.gif"
            onMouseOver="this.src='./images/2010/navi/{$dept.department_abbr}_on.gif'" 
            onMouseOut="this.src='./images/2010/navi/{$dept.department_abbr}.gif'"
