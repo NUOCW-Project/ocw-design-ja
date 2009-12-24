@@ -1,17 +1,8 @@
-<div class="center_contents"> 
-<table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="465" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
+<div class="course_contents"><!-- 中核のボックス -->
+<div id="main_text">
 	
 	<div class="faq_normal">
-	<p>Here are some frequently asked questions (FAQs) about the Nagoya University Web Classroom, complete with answers. You may send any other questions you have via the <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=feedback">Feedback</a> link.</p>
+	<p>Here are some frequently asked questions (FAQs) about the Nagoya University Web Classroom, complete with answers.</p>
 
 	<p>
 	<ol>
@@ -61,11 +52,9 @@
 	<div class="faq_normal" id="faq06">
 	<p><span class="b">6. If I have a question about something in Nagoya University OpenCourseWare (NU OCW), can I ask the course instructor directly?</span></p>
 	<p>The Nagoya University OpenCourseWare (NU OCW) gives access to the content of University courses, but it does not constitute a course or program in its own right. Therefore, no direct contact is provided with instructors.</p>
-	<p>However, questions and comments can be submitted from the following pages:</p>
-    <ul><li>Questions: <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">Inquiries</a> page.</p>
-        <li>Comments: <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=feedback&amp;ref_lang={$lang}&amp;ref_mode=g&amp;ref_id=&amp;ref_page_type=faq">Feedback</a> page.</p>
-    </ul>
-	</div>
+	<p>However, questions can be submitted from the
+    <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">Inquiries</a> page.</p>
+  </div>
 
 	<div class="faq_color" id="faq07">
 	<p><span class="b">7. What software do I need to browse the Nagoya University OpenCourseWare (NU OCW)?</span></p>
@@ -78,16 +67,4 @@
 	
 	</div>
 
-	</div><!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
 </div>  <!-- センターコンテンツ終了 -->

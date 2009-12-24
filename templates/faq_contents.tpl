@@ -1,6 +1,7 @@
+<div class="course_contents"><!-- 中核のボックス -->
 <div id="main_text">
 	<div class="faq_normal">
-	<p>以下は名大の授業に関するFAQ(よくある質問)と、その答えです。その他のご質問は、<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=feedback">Feedback</a>からお送り下さい。</p>
+	<p>以下は名大の授業に関するFAQ(よくある質問)と、その答えです。</p>
 	
 	<p>
 	<ol>
@@ -51,7 +52,8 @@
 	<div class="faq_normal" id="faq06">
 	<p><span class="b">6.「名大の授業」に掲載されている教材について、講義の担当者に直接質問することはできますか？</span></p>
 	<p>「名大の授業」は、名古屋大学での講義情報を公開するものであって、授業そのものではありません。このため、教員との直接のやり取りは提供しておりません。</p>
-	<p>ご意見、ご質問は<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">お問合せ</a>もしくは<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=feedback&amp;ref_lang={$lang}&amp;ref_mode=g&amp;ref_id=&amp;ref_page_type=faq">Feedback</a>を通じてお寄せ下さい。</p>
+	<p>ご意見、ご質問は<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">お問合せ</a>
+  を通じてお寄せ下さい。</p>
 	</div>
 
 	<div class="faq_color" id="faq07">
