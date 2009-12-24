@@ -20,11 +20,19 @@
 	<div class="header_button_sub"><!-- 最上部ヘッダー部分を２つに分けた -->
 	  <!-- Englishボタン -->
 	  <div class="header_button_english"><!-- 最上部ヘッダーのEnglishボタン -->
-	    <a href="http://ocw.nagoya-u.jp/index.php?lang=en&amp;mode=g&amp;id=&amp;page_type=top">
-	      <img src="./images/2010/img/english.gif" id="english" 
-		   onMouseOver="this.src='./images/2010/img/english_on.gif'" 
-		   onMouseOut="this.src='./images/2010/img/english.gif'"/>
+    {literal}{if $exist_another}
+	    <a href="index.php?lang={$another_lang}&amp;mode={$mode}&amp;id={$id}&amp;page_type={$page_type}">
+      {if $lang=="ja"}
+	      <img src="./images/2010/img/english.gif" id="english" alt="English"
+		      onMouseOver="this.src='./images/2010/img/english_on.gif'" 
+		      onMouseOut="this.src='./images/2010/img/english.gif'"/>
+      {elseif $lang=="en"}
+	      <img src="./images/2010/img/japanese.gif" id="japanese" alt="Japanese"
+		      onMouseOver="this.src='./images/2010/img/japanese_on.gif'" 
+		      onMouseOut="this.src='./images/2010/img/japanese.gif'"/>
+      {/if}
 	    </a>
+    {/if}{/literal}
 	  </div><!-- "header_button_english" end -->
 	  <!-- AKF検索 -->
 	  <div class="header_button_akf"><!-- 最上部ヘッダーのAKF画像部分 -->
