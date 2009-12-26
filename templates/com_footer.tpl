@@ -65,7 +65,7 @@
     <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
       「名大の授業について」の記載条件のもとで利用することができます（仮）</p>
   </div>
-</div><!--"contents" end-->
+</div><!--"#contents" end-->
 
 <!-- 右端URL画像部分 -->
 <div class="main_back_url">

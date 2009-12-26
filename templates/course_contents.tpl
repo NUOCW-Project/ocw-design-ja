@@ -1,4 +1,4 @@
-<div class="course_contents"><!-- 中核のボックス -->
+<div id="contents"><!-- 中核のボックス -->
 {strip}
   <!-- onMouseは作ったがリンクは貼ってない（メモ） -->
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
