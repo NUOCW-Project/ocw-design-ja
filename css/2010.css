@@ -249,7 +249,7 @@ a {
 }
 
 .pankuzu li a:hover{
-  marigin-right: 6px;
+  margin-right: 6px;
   color: #dd0000;
   text-decoration: underline;
 }
@@ -344,9 +344,8 @@ a {
   margin-top: 1em;
   margin-left: auto;
   margin-right: auto;
-  width: 85%;¡¡
+  width: 85%;
 }
-
 
 .navi {
   margin-top: 30px;
@@ -382,9 +381,10 @@ a {
   text-align: left;
   float: left;
   list-style-type: none;
-  width: 
+  /* width:  */
   /*  border: dotted;  */
 }
+
 .cont li {
   margin-bottom: 1ex;
   color: #CC9966;
