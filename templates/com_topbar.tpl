@@ -9,7 +9,7 @@
              onMouseOut="this.src='{$IMGDIR}/{$lang}/h01sitemap.gif'"/>
         </a><!-- お問い合わせのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">
-        <img src="{$IMGDIR}/{$lang}/img/h02inquiry.gif" alt="Inquiry" 
+        <img src="{$IMGDIR}/{$lang}/h02inquiry.gif" alt="Inquiry" 
              onMouseOver="this.src='{$IMGDIR}/{$lang}/h02inquiry_on.gif'"
              onMouseOut="this.src='{$IMGDIR}/{$lang}/h02inquiry.gif'"/>
         </a><!-- ヘルプへのリンク -->
