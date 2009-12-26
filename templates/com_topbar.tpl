@@ -4,17 +4,17 @@
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=legal">
-        <img src="{$IMGDIR}/{$lang}/h01sitemap.gif" alt="Sitemap"
+        <img src="{$IMGDIR}/{$lang}/h01sitemap.gif" alt="Sitemap" 
              onMouseOver="this.src='{$IMGDIR}/{$lang}/h01sitemap_on.gif'" 
              onMouseOut="this.src='{$IMGDIR}/{$lang}/h01sitemap.gif'"/>
         </a><!-- お問い合わせのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">
-        <img src="{$IMGDIR}/{$lang}/img/h02inquiry.gif" alt="Inquiry"
+        <img src="{$IMGDIR}/{$lang}/img/h02inquiry.gif" alt="Inquiry" 
              onMouseOver="this.src='{$IMGDIR}/{$lang}/h02inquiry_on.gif'"
              onMouseOut="this.src='{$IMGDIR}/{$lang}/h02inquiry.gif'"/>
         </a><!-- ヘルプへのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">
-        <img src="{$IMGDIR}/{$lang}/h03help.gif" alt="Help"
+        <img src="{$IMGDIR}/{$lang}/h03help.gif" alt="Help" 
              onMouseOver="this.src='{$IMGDIR}/{$lang}/h03help_on.gif'" 
              onMouseout="this.src='{$IMGDIR}/{$lang}/h03help.gif'"/>
         </a>
