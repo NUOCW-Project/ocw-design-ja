@@ -20,7 +20,7 @@ body{
   overflow-x: hidden;
   border: dotted;
 }
-  
+
 h2{
   font-size: large;
   color: #DD0000;
@@ -214,7 +214,7 @@ a {
 }
 
 
-.coursehome_header  {
+.header_image  {
   height: 230px;
   background-image: url(../images/2010/img/header_couesehome.jpg);/* 画像「授業ホーム」 */
   background-repeat: no-repeat;
@@ -438,11 +438,11 @@ a {
   margin:0px;
 }
 
-div#method2 a{
+ul#departmentslist a{
   font-weight: 500;
 }
 
-div#method2 a:visited{
+ul#departmentslist a:visited{
   font-weight: 400;
 }
 
