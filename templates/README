@@ -1,6 +1,7 @@
-* 発行時, 必ず assign するもの
+* 発行時, assign するもの
 - $lang          : 言語
 - $navi_list     : パンくずリスト情報
+- $on_top        : トップページかどうか
 
 * 表示時, assign するもの (literal 内で使う)
 - $lang          : 言語 (ja, en)
@@ -11,15 +12,15 @@
 - $exist_another : 対応する他言語のページが存在するか
 
 * 全てのページに共通する個々のパーツ
-- com_config.tpl : 定数定義
-- com_header.tpl : DOCTYPE 宣言から <body> まで
-- com_topbar.tpl : 上部バー
-- com_footer.tpl : <div id="contents"> の途中から </html> まで
+- com_config.tpl : 定数定義.
+- com_header.tpl : DOCTYPE 宣言, head を記述. body を開く.
+- com_topbar.tpl : 上部バーを記述. div.main, div.main_back を開く.
+- com_navi.tpl   : 見出し画像と授業一覧リンク, パンくずリスト.
+- com_footer.tpl : フッターを記述し div#contents を閉じる. div.main, div.main_back を閉じ, body も閉じる.
 
 * 個々のページの本文
 - contents_*.tpl : 
 
 * 発行時に読み込むテンプレート
 - for_*.tpl      :
-
 

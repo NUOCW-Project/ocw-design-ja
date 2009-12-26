@@ -3,7 +3,6 @@
 {include file="com_config.tpl"}
 {include file="com_header.tpl"}
 {include file="com_topbar.tpl"}
-{include file="course_header_image.tpl"}
 {include file="com_navi.tpl"}
 {include file="left_menu_dept.tpl"}
 {include file="course_contents.tpl"}
