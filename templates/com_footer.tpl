@@ -65,11 +65,15 @@
     <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
       「名大の授業について」の記載条件のもとで利用することができます（仮）</p>
   </div>
-  </div><!--"course_contents" end-->
-<div class="main_back_url"><!-- 右端URL画像部分 -->
-</div><!-- "main_back_url" end -->
+</div><!--"contents" end-->
+
+<!-- 右端URL画像部分 -->
+<div class="main_back_url">
+</div>
+<!-- 右上の人物 -->
 <div class="main_back_adachi">
 </div>
+
 </div><!-- "main_back" end -->
 </div><!--"main" end-->
 </body>

@@ -1,0 +1,25 @@
+* 発行時, 必ず assign するもの
+- $lang          : 言語
+- $navi_list     : パンくずリスト情報
+
+* 表示時, assign するもの (literal 内で使う)
+- $lang          : 言語 (ja, en)
+- $another_lang  : $lang でない言語 (en, ja)
+- $mode          : ページ分類
+- $id            : ID
+- $page_type     : ページ種別
+- $exist_another : 対応する他言語のページが存在するか
+
+* 全てのページに共通する個々のパーツ
+- com_config.tpl : 定数定義
+- com_header.tpl : DOCTYPE 宣言から <body> まで
+- com_topbar.tpl : 上部バー
+- com_footer.tpl : <div id="contents"> の途中から </html> まで
+
+* 個々のページの本文
+- contents_*.tpl : 
+
+* 発行時に読み込むテンプレート
+- for_*.tpl      :
+
+

@@ -1,4 +1,5 @@
 {literal}{* OCWホームページ用のテンプレート *}{/literal}
+{include file="com_config.tpl"}
 {include file="com_header.tpl"}
 {include file="com_topbar.tpl"}
 {include file="top_header_image.tpl"}

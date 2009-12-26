@@ -21,7 +21,6 @@ Nagoya University OpenCourseWare (NU OCW)
   {/if}
 {/foreach}
 <!-- ここまで -->
-{$title}
 </title>
 {/strip}
 </head>
