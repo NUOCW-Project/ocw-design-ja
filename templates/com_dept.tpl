@@ -1,25 +1,21 @@
 <ul id="departmentslist" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
 <!-- 各学部ページへのリンクリスト -->
+{literal}
 {strip}
-{foreach from=$dept_list item="dept"}
-  {if $lang == "ja"}
-    {assign var="dept_name" value=$dept.department_name}
-  {else}
-    {assign var="dept_name" value=$dept.department_name_e}
-  {/if}
+{foreach from=$dept_list key="abbr" item="dept"}
   <li>
-  {if !$info_only && $curr_department_abbr == $dept.department_abbr}
-    {* info_only は部局長挨拶本文で true. つまりチェックにならない. *}
-    <img src="{$IMGDIR}/navi/{$dept.department_abbr}_h.gif" alt={$dept_name}">
+  {if $mode=="l" && $page_type==$abbr}
+    <img src="{/literal}{$IMGDIR}{literal}/navi/{$abbr}_h.gif" alt={$dept.department_name}">
   {else}
-    <a href="courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$dept.department_abbr}">
-      <img src="{$IMGDIR}/navi/{$dept.department_abbr}.gif"
-           onMouseOver="this.src='{$IMGDIR}/navi/{$dept.department_abbr}_on.gif'" 
-           onMouseOut="this.src='{$IMGDIR}/navi/{$dept.department_abbr}.gif'"
-           alt="{$dept_name}">
+    <a href="courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
+      <img src="{/literal}{$IMGDIR}{literal}/navi/{$abbr}.gif"
+           onMouseOver="this.src='{/literal}{$IMGDIR}{literal}/navi/{$abbr}_on.gif'" 
+           onMouseOut="this.src='{/literal}{$IMGDIR}{literal}/navi/{$abbr}.gif'"
+           alt="{$dept.department_name}">
     </a>
   {/if}
   </li>
 {/foreach}
 {/strip}
+{/literal}
 </ul>
