@@ -42,7 +42,7 @@
           </div><!-- "header_button_akf" end -->
           <form method="post" action="sample.php">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
-              <input type="text" name="AKF" value="ここから授業を検索できます">
+              <input type="text" id="searchbox" name="AKF" value="ここから授業を検索できます">
             </div><!-- "header_button_input" end -->
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
               <input type="image" src="{$IMGDIR}/{$lang}/search.gif" alt="検索する">
