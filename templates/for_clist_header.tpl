@@ -1,6 +1,5 @@
-{* コースリスト共通のヘッダー *}
-{assign var="use_print_css"  value="true"}{* プリント用cssを使う *}
-{include file="com_header.tpl"}
+{assign var="IMGDIR"  value="./images/2010"}
+{include file="com_meta.tpl"}
 {include file="com_topbar.tpl"}
 {include file="com_navi.tpl"}
-{include file="left_menu_dept.tpl"}
+{include file="com_dept.tpl"}
