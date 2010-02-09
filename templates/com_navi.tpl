@@ -1,6 +1,6 @@
 <div class="header_image"> 
 
-<a href="./courselist.php?lang={$lang}&mode=l&page_type=all">
+<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
    <img src="{$IMGDIR}/{$lang}/courselist.gif" id="courselist_top" alt="{if $lang=="ja"}授業一覧から探す{/if}"
      onMouseOver="this.src='{$IMGDIR}/{$lang}/courselist_on.gif'"
 	   onMouseOut="this.src='{$IMGDIR}/{$lang}/courselist.gif'">
