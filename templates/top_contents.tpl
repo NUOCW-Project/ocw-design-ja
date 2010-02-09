@@ -1,3 +1,4 @@
+<div id="contents">
 <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="../img/top/menu01.png" onMouseOver="this.src='../img/top/menu01_on.png'" onMouseout="this.src='../img/top/menu01.png'" class="menu0" /></a>
 <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=legal"><img src="../img/top/menu02.png" onMouseOver="this.src='../img/top/menu02_on.png'" onMouseout="this.src='../img/top/menu02.png'" class="menu0" /></a>
 <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus"><img src="../img/top/menu03.png" onMouseOver="this.src='../img/top/menu03_on.png'" onMouseout="this.src='../img/top/menu03.png'" class="menu0" /></a>
