@@ -8,7 +8,7 @@
   <img src="{$IMGDIR}/top/t_special.png" />
   <img src="{$IMGDIR}/top/backno.png" class="jump" />
   <br />
-  <img src="{$IMGDIR}/redline.gif" class="line" />
+  <img src="./images/common/redline.gif" class="line" />
   <br />
   <img src="{$IMGDIR}/d_sp_feature.JPG" /><!-- 画像「季節の講義　メッセージ」ダミー -->
 </div> <!-- "sp_feature" end -->

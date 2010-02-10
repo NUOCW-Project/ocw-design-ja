@@ -1,5 +1,5 @@
     <div class="footer">
-      <img src="./images/2010/img/redline.gif" id="line2" /><!-- 水平線(下) -->
+      <img src="./images/common/redline.gif" id="line2" /><!-- 水平線(下) -->
     </div>
   <ul class="navi">
     <li>■ナビゲーション</li>
