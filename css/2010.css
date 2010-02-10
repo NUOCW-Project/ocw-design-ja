@@ -36,7 +36,7 @@ a {
 
 .header{
   height: 90px; 
-  background-image: url(../images/2010/img/header_2nd.gif);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
+  background-image: url(../images/ja/topbar.gif);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
   background-repeat: no-repeat;
   /*  border: dotted; */
 }
@@ -111,7 +111,7 @@ a {
 
 .header_edge{
   height: 90px;
-  background-image: url(../images/2010/img/header_2nd_edge.gif);
+  background-image: url(../images/ja/topbar_edge.gif);
   background-repeat: repeat-x;
   background-position: 1300px 0px;
   margin:0;
