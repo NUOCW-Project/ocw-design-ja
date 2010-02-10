@@ -25,7 +25,7 @@
 {* 授業ホームの時のみコース情報を表示 *}
 {if $page_format.tpl_name=="index"}
 <div id="movie">
-   <img src="./images/2010/img/d_movie.JPG" id="movie" /><!-- 看板画像ダミー -->
+   <img src="./images/common/sample_movie.jpg" id="movie" /><!-- 看板画像ダミー -->
 </div><!-- "movie" end -->
     
 <div id="caption">
