@@ -25,7 +25,7 @@
 <div class="topics"><!-- ボックス「アクセスランキング」 -->
   <img src="./images/{$lang}/t_ranking.png" class="subheading" />
   <br />
-  <img src="{$IMGDIR}/top/dot.png" />
+  <img src="./images/common/dottedline.png" />
   <dl id="ranking">
   <dt>順位 講義名</dt>
       <dd>教員名</dd>
@@ -58,7 +58,7 @@
   <img src="./images/{$lang}/t_news.png" class="subheading" />
   <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
-  <img src="{$IMGDIR}/top/dot.png" />
+  <img src="./images/common/dottedline.png" />
     <dl class="notice">
      <dt>-2009/12/24</dt>
      <dd><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a></dd>
@@ -75,7 +75,7 @@
   <img src="./images/{$lang}/t_release.png" class="subheading" />
       <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
-  <img src="{$IMGDIR}/top/dot.png" />
+  <img src="./images/common/dottedline.png" />
     <dl class="notice">
      <dt>-2009/12/24</dt>
     <dd><span>新デザインになりました。</span><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開しました。</a></dd>
