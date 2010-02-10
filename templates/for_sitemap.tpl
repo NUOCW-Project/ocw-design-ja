@@ -1,5 +1,7 @@
 {* 「サイトマップ」のテンプレート *}
-{include file="com_header.tpl"}
+{include file="com_meta.tpl"}
+{include file="com_topbar.tpl"}
+{include file="com_navi.tpl"}
 {if $lang =="ja"}
   {include file="sitemap_contents.tpl"}
 {elseif $lang == "en"}
