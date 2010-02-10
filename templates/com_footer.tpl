@@ -53,10 +53,10 @@
 	<img src="./images/{$lang}/c04sc.gif" id="size_img" alt="スタジオチャンネル"
 	     onMouseOver="this.src='./images/{$lang}/c04sc_on.gif'" 
 	     onMouseOut="this.src='./images/{$lang}/c04sc.gif'"/></a></li>
-    <li>
+    <li><a href="./index.php?lang=ja&amp;mode=g&page_type=link">
       <img src="./images/{$lang}/c05link.gif" id="size_img" alt="リンク"
 	   onMouseOver="this.src='./images/{$lang}/c05link_on.gif'" 
-	   onMouseOut="this.src='./images/{$lang}/c05link.gif'"/></li>
+	   onMouseOut="this.src='./images/{$lang}/c05link.gif'"/></a></li>
   </ul>
   
   <div id="proviso">
