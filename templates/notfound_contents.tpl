@@ -1,5 +1,4 @@
-<div class="course_contents"><!-- 中核のボックス -->
-<div id="main_text">
+<div id="contents"><!-- 中核のボックス -->
 	<h1 class="notfound">404 Not Found</h1>
 
 	<p class="notfound">
@@ -11,4 +10,3 @@
     </p>
 
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" id="go_to_pagetop" alt="{if $lang=="ja"}ページトップへ{/if}"/></a>
-</div><!--"main_text" end-->
