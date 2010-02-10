@@ -4,19 +4,19 @@
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=legal">
-        <img src="{$IMGDIR}/{$lang}/h01sitemap.gif" alt="Sitemap" 
-             onMouseOver="this.src='{$IMGDIR}/{$lang}/h01sitemap_on.gif'" 
-             onMouseOut="this.src='{$IMGDIR}/{$lang}/h01sitemap.gif'"/>
+        <img src="./images/{$lang}/h01sitemap.gif" alt="Sitemap" 
+             onMouseOver="this.src='./images/{$lang}/h01sitemap_on.gif'" 
+             onMouseOut="this.src='./images/{$lang}/h01sitemap.gif'"/>
         </a><!-- お問い合わせのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">
-        <img src="{$IMGDIR}/{$lang}/h02inquiry.gif" alt="Inquiry" 
-             onMouseOver="this.src='{$IMGDIR}/{$lang}/h02inquiry_on.gif'"
-             onMouseOut="this.src='{$IMGDIR}/{$lang}/h02inquiry.gif'"/>
+        <img src="./images/{$lang}/h02inquiry.gif" alt="Inquiry" 
+             onMouseOver="this.src='./images/{$lang}/h02inquiry_on.gif'"
+             onMouseOut="this.src='./images/{$lang}/h02inquiry.gif'"/>
         </a><!-- ヘルプへのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">
-        <img src="{$IMGDIR}/{$lang}/h03help.gif" alt="Help" 
-             onMouseOver="this.src='{$IMGDIR}/{$lang}/h03help_on.gif'" 
-             onMouseout="this.src='{$IMGDIR}/{$lang}/h03help.gif'"/>
+        <img src="./images/{$lang}/h03help.gif" alt="Help" 
+             onMouseOver="this.src='./images/{$lang}/h03help_on.gif'" 
+             onMouseout="this.src='./images/{$lang}/h03help.gif'"/>
         </a>
         <div class="header_button_sub"><!-- 最上部ヘッダー部分を２つに分けた -->
           <!-- Englishボタン -->
@@ -25,27 +25,27 @@
             <a href="index.php?lang={$another_lang}&amp;mode={$mode}&amp;id={$id}&amp;page_type={$page_type}">
             {if $lang=="ja"}
             {/literal}
-              <img src="{$IMGDIR}/{$lang}/english.gif" alt="English"
-                   onMouseOver="this.src='{$IMGDIR}/{$lang}/english_on.gif'" 
-                   onMouseOut="this.src='{$IMGDIR}/{$lang}/english.gif'"/>
+              <img src="./images/{$lang}/english.gif" alt="English"
+                   onMouseOver="this.src='./images/{$lang}/english_on.gif'" 
+                   onMouseOut="this.src='./images/{$lang}/english.gif'"/>
             {literal}{elseif $lang=="en"}{/literal}
-              <img src="{$IMGDIR}/{$lang}/japanese.gif" alt="Japanese"
-                   onMouseOver="this.src='{$IMGDIR}/{$lang}/japanese_on.gif'" 
-                   onMouseOut="this.src='{$IMGDIR}/{$lang}/japanese.gif'"/>
+              <img src="./images/{$lang}/japanese.gif" alt="Japanese"
+                   onMouseOver="this.src='./images/{$lang}/japanese_on.gif'" 
+                   onMouseOut="this.src='./images/{$lang}/japanese.gif'"/>
             {literal}{/if}
             </a>
             {/if}{/literal}
           </div><!-- "header_button_english" end -->
           <!-- AKF検索 -->
           <div class="header_button_akf">
-             <img src="{$IMGDIR}/{$lang}/akf.gif" alt="AKF Search" align="left"/>
+             <img src="./images/{$lang}/akf.gif" alt="AKF Search" align="left"/>
           </div><!-- "header_button_akf" end -->
           <form method="post" action="sample.php">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
               <input type="text" id="searchbox" name="AKF" value="ここから授業を検索できます">
             </div><!-- "header_button_input" end -->
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
-              <input type="image" src="{$IMGDIR}/{$lang}/search.gif" alt="検索する">
+              <input type="image" src="./images/common/search.gif" alt="検索する">
             </div> <!-- "header_button_search" end -->
           </form>
         </div><!-- "header_button_sub" end -->

@@ -7,7 +7,6 @@
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/toggle.js"></script>
 
-{strip}
 <title>
 {if $lang=='ja'}
 名大の授業 (NU OCW)
@@ -22,6 +21,5 @@ Nagoya University OpenCourseWare (NU OCW)
 {/foreach}
 <!-- ここまで -->
 </title>
-{/strip}
 </head>
 <body>
