@@ -56,5 +56,5 @@
   {/foreach}
 
   <!-- 「ページトップへ」 -->
-  <a href="#top"><img src="./images/{$lang}/pagetop.gif" id="go_to_pagetop"  alt="{if $lang="ja"}ページトップへ{/if}" /></a>
+  <a href="#top"><img src="./images/{$lang}/pagetop.gif" id="go_to_pagetop"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
 </div><!--"main_text" end-->
