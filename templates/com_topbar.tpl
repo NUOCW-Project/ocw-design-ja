@@ -3,7 +3,7 @@
   <div class="header" id="top"><!-- 最上部ヘッダー -->
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=legal">
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
         <img src="./images/{$lang}/h01sitemap.gif" alt="Sitemap" 
              onMouseOver="this.src='./images/{$lang}/h01sitemap_on.gif'" 
              onMouseOut="this.src='./images/{$lang}/h01sitemap.gif'"/>
