@@ -1,9 +1,14 @@
-* 発行時, assign するもの
-- $lang          : 言語
-- $navi_list     : パンくずリスト情報
-- $on_top        : トップページかどうか (トップページ発行時のみ)
+* 発行時, どのページでも assign するもの
+- $lang          : 言語 ('ja' または 'en')
+- $navi_list     : パンくずリスト情報 (配列、詳しくは com_navi.tpl で使われている所を見よ)
+
+** for_top.tpl で assign されるもの
+- $on_top        : トップページかどうか (トップページ発行時のみ TRUE になる)
+
+** for_clist.tpl で assign されるもの
 - $curr_department_abbr : 現在のグループ (グループ発行時のみ)
 - $info_only     : 部局長挨拶本文等のグループ情報かどうか (グループ情報発行時のみ)
+
 
 * 表示時, assign するもの (literal 内で使う)
 - $lang          : 言語 (ja, en)
