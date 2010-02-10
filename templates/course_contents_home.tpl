@@ -34,6 +34,6 @@
 	以下は研修後の発表会で実際に学生が研修先ごとの発表に使ったプレゼンテーションファイルです。
       </p>
       
-      <a href="#top"><img src="./images/2010/img/pagetop.gif" id="go_to_pagetop" /></a><!-- 「ページトップへ」 -->
+      <a href="#top"><img src="./images/{$lang}/pagetop.gif" id="go_to_pagetop" alt="{if $lang="ja"}ページトップへ{/if}" /></a><!-- 「ページトップへ」 -->
 </div><!--"main_text" end-->
 
