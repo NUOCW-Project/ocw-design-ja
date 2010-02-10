@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
 
-  background-image: url(../images/2010/img/bg.gif); /*グレーの背景*/
+  background-image: url(../images/common/bg.gif); /*グレーの背景*/
   background-repeat: repeat-x;
   background-position: 0px 90px; /*  ヘッダー画像の下に白線がある*/
 
@@ -127,7 +127,7 @@ a {
 }
 
 .main_back {
-  background-image: url(../images/2010/img/loop.jpg);
+  background-image: url(../images/common/loop.jpg);
   background-repeat: repeat-y;
   background-position: 945px 90px;
   max-width: 1240px; 
@@ -137,7 +137,7 @@ a {
 }
 
 .main_back_url{
-  background-image: url(../images/2010/img/url.gif);
+  background-image: url(../images/common/url.gif);
   background-repeat: no-repeat;
   width: 20px;
   height: 170px; 
