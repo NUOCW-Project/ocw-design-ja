@@ -1,12 +1,12 @@
 <div id="contents">
-<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="{$IMGDIR}/top/menu01.png" onMouseOver="this.src='../{$IMGDIR}/top/menu01_on.png'" onMouseout="this.src='../{$IMGDIR}/top/menu01.png'" class="menu0" /></a>
-<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=legal"><img src="{$IMGDIR}/top/menu02.png" onMouseOver="this.src='../{$IMGDIR}/top/menu02_on.png'" onMouseout="this.src='../{$IMGDIR}/top/menu02.png'" class="menu0" /></a>
-<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus"><img src="{$IMGDIR}/top/menu03.png" onMouseOver="this.src='../{$IMGDIR}/top/menu03_on.png'" onMouseout="this.src='../{$IMGDIR}/top/menu03.png'" class="menu0" /></a>
-<div class="menu0"><a href="http://www.media.nagoya-u.ac.jp/sc/"><img src="{$IMGDIR}/top/menu04.png" onMouseOver="this.src='../{$IMGDIR}/top/menu04_on.png'" onMouseout="this.src='../{$IMGDIR}/top/menu04.png'" /></a><p id="date"><b>2009. 10. 04UP</b></p></div>
+<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/menu01.png" onMouseOver="this.src='./images/{$lang}/menu01_on.png'" onMouseout="this.src='./images/{$lang}/menu01.png'" class="menu0" /></a>
+<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=legal"><img src="./images/{$lang}/menu02.png" onMouseOver="this.src='./images/{$lang}/menu02_on.png'" onMouseout="this.src='./images/{$lang}/menu02.png'" class="menu0" /></a>
+<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus"><img src="./images/{$lang}/menu03.png" onMouseOver="this.src='./images/{$lang}/menu03_on.png'" onMouseout="this.src='./images/{$lang}/menu03.png'" class="menu0" /></a>
+<div class="menu0"><a href="http://www.media.nagoya-u.ac.jp/sc/"><img src="./images/{$lang}/menu04.png" onMouseOver="this.src='./images/{$lang}/menu04_on.png'" onMouseout="this.src='./images/{$lang}/menu04.png'" /></a><p id="date"><b>2009. 10. 04UP</b></p></div>
 
 <div id="sp_feature">
-  <img src="{$IMGDIR}/top/t_special.png" />
-  <img src="{$IMGDIR}/top/backno.png" class="jump" />
+  <img src="./images/{$lang}/t_special.png" />
+  <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
   <img src="./images/common/redline.gif" class="line" />
   <br />
@@ -23,7 +23,7 @@
 
 <div class="waku">
 <div class="topics"><!-- ボックス「アクセスランキング」 -->
-  <img src="{$IMGDIR}/top/t_ranking.png" class="subheading" />
+  <img src="./images/{$lang}/t_ranking.png" class="subheading" />
   <br />
   <img src="{$IMGDIR}/top/dot.png" />
   <dl id="ranking">
@@ -55,8 +55,8 @@
 
 <div class="waku">
 <div class="topics"><!-- ボックス「お知らせ」-->
-  <img src="{$IMGDIR}/top/t_news.png" class="subheading" />
-  <img src="{$IMGDIR}/top/backno.png" class="jump" />
+  <img src="./images/{$lang}/t_news.png" class="subheading" />
+  <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
   <img src="{$IMGDIR}/top/dot.png" />
     <dl class="notice">
@@ -72,8 +72,8 @@
 
 <div class="waku">
 <div class="topics"><!-- ボックス「プレスリリース」-->
-  <img src="{$IMGDIR}/top/t_release.png" class="subheading" />
-      <img src="{$IMGDIR}/top/backno.png" class="jump" />
+  <img src="./images/{$lang}/t_release.png" class="subheading" />
+      <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
   <img src="{$IMGDIR}/top/dot.png" />
     <dl class="notice">
