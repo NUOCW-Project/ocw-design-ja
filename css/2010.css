@@ -120,9 +120,11 @@ a {
 
 .main{
   margin-left: 30px;
-  max-width: 1230px;
+  min-height: 1150px;
+  max-width: 944px;
   background-color: white;
   padding: 0;
+  overflow: hidden;
   /*  border: dotted;        */
 }
 
@@ -155,32 +157,22 @@ a {
   left: 1030px;
   width: 95px; 
   height: 125px;
-   /* padding-left: 400px;  */
-  /*  position: relative;
-  top: 10px;
-  left: 100px; */
-   /* border: dotted;  */
 }
  
 #departmentslist{
+  clear: both;
   float: left;
   width: 160px;
+  position: relative;
+  top: -25px;
+
   /*   border-collapse: collapse;
    border-spacing: 0px;
 */
-/*   background-color: white;
-  /* font-size: x-small;*/
    
-  /* margin: 0px;
-   padding-left: 40px;
-   padding-right: 9px;
-   padding-bottom: 300px;
-*/   
 /* 以前書いたもの */
   margin-left: 40px;
-  margin-right: 5px;
   padding:0px;
-   /* border:dotted;  */ 
 }
 
 #departmentslist ul  {
@@ -214,11 +206,11 @@ a {
 }
 
 
-.header_image  {
+/*.header_image  {
   height: 230px;
-  background-image: url(../images/ja/header_coursehome.jpg);/* 画像「授業ホーム」 */
+  background-image: url(../images/ja/header_coursehome.jpg);/* 画像「授業ホーム」 
   background-repeat: no-repeat;
-}
+}*/
 
 #courselist_top{  
   margin-top: 170px;
@@ -227,7 +219,8 @@ a {
 }
 
 .pankuzu{
-  position: absolute; top: 260px; left: 229px;/* 絶対配置している */
+/*  position: absolute; top: 260px; left: 229px; 絶対配置している */
+  min-height: 60px;
   list-style-type: none;
   padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
  /*   border: dotted;/* 枠を出している 後で削除 */
@@ -254,7 +247,6 @@ a {
   text-decoration: underline;
 }
 
-
 #line1{
   margin-left: auto;
   margin-right: auto;
@@ -263,7 +255,8 @@ a {
 
 #contents{
   margin-left: 209px;
-  background-color: white;
+  position: relative;
+  top: -115px;
   padding: 5px;
    /* border: dotted;/* 枠を出している 後で削除 */
   max-width: 726px;
@@ -336,8 +329,12 @@ a {
 }
 
 .footer{  
-  clear: right;
+  clear: both;
+  font-size: 11px;
   text-align: center;
+  padding-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #line2{

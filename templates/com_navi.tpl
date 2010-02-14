@@ -1,11 +1,3 @@
-<div class="header_image"> 
-
-<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
-   <img src="./images/{$lang}/courselist.gif" id="courselist_top" alt="{if $lang=="ja"}授業一覧から探す{/if}"
-     onMouseOver="this.src='./images/{$lang}/courselist_on.gif'"
-	   onMouseOut="this.src='./images/{$lang}/courselist.gif'">
-</a>
-
 {strip}
 <ol class="pankuzu">
 {if $on_top}<li>{if $lang=="ja"}ホーム{else}HOME{/if}</li>
@@ -27,5 +19,3 @@
 {/foreach}
 </ol>
 {/strip}
-
-</div>

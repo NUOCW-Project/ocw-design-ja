@@ -1,6 +1,7 @@
-    <div class="footer">
+<div class="footer">
+  <!-- 「ページトップへ」 -->
+  <a href="#top"><img src="./images/{$lang}/pagetop.gif" id="go_to_pagetop"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
       <img src="./images/common/redline.gif" id="line2" /><!-- 水平線(下) -->
-    </div>
   <ul class="navi">
     <li>■ナビゲーション</li>
     <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=kyoiku-in">□教養教育院</a></li>
@@ -59,12 +60,13 @@
 	   onMouseOut="this.src='./images/{$lang}/c05link.gif'"/></a></li>
   </ul>
   
-  <div id="proviso">
-    <hr />
-    <img src="./images/common/nu.gif" class="nu" />
-    <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
-      「名大の授業について」の記載条件のもとで利用することができます（仮）</p>
-  </div>
+    <div id="proviso">
+      <hr />
+      <img src="./images/common/nu.gif" class="nu" />
+      <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
+        「名大の授業について」の記載条件のもとで利用することができます（仮）</p>
+    </div>
+  </div><!-- "footer" end -->
 </div><!--"#contents" end-->
 
 <!-- 右端URL画像部分 -->
@@ -74,7 +76,8 @@
 <div class="main_back_adachi">
 </div>
 
-</div><!-- "main_back" end -->
 </div><!--"main" end-->
+</div><!-- "main_back" end -->
+
 </body>
 </html>

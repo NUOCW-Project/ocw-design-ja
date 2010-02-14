@@ -1,4 +1,11 @@
+<img src="./images/{$lang}/header_coursehome.jpg" /><!-- header画像 背景指定をやめて直接描画 -->
+
+{include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->
+
 <div id="contents"><!-- 中核のボックス -->
+
+{include file="com_navi.tpl"}<!-- パンくずリスト com_header.tplから移動 -->
+
 {strip}
   <!-- onMouseは作ったがリンクは貼ってない（メモ） -->
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
@@ -54,7 +61,4 @@
       </div>
     {/if}
   {/foreach}
-
-  <!-- 「ページトップへ」 -->
-  <a href="#top"><img src="./images/{$lang}/pagetop.gif" id="go_to_pagetop"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
 </div><!--"main_text" end-->

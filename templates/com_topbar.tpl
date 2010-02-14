@@ -54,6 +54,6 @@
   </div><!-- "header" end -->
 </div><!-- "header_edge" end -->  
 {/strip}
+<div class="main_back"><!--  右側部分背景 -->
+  <div class="main"><!-- 最上部ヘッダー以外 -->
 
-<div class="main"><!-- 最上部ヘッダー以外 -->
-  <div class="main_back"><!--  右側部分背景 -->
