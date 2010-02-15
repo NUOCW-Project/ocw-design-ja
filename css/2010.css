@@ -164,7 +164,7 @@ a {
   float: left;
   width: 160px;
   position: relative;
-  top: -25px;
+  top: 0px;
 
   /*   border-collapse: collapse;
    border-spacing: 0px;
@@ -254,12 +254,12 @@ xf.pankuzu li{
 }
 
 #contents{
-  margin-left: 209px;
-  position: absolute;
-  top: 200px;
+  margin-left: 190px;
+  position: relative;
+  top: 0px;
   padding: 5px;
-  border: dotted;/* 枠を出している 後で削除 */
-  max-width: 740px;
+  /*border: dotted; 枠を出している 後で削除 */
+  max-width: 729px;
 }
 
 #caption{
@@ -463,6 +463,19 @@ table.basic td{
 table.basic ul {
 	padding-left: 1em;
 }
+
+.menu0{
+	float:left;
+	height: 90px;
+}
+
+	#date{
+		position: relative;
+		top: -70px;
+		left: 76px;
+		color: red;
+		font-size: 11.5px;
+	}
 
 #sp_feature{
   width: 540px;
