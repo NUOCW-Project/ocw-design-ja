@@ -255,11 +255,11 @@ xf.pankuzu li{
 
 #contents{
   margin-left: 209px;
-  position: relative;
-  top: -25px;
+  position: absolute;
+  top: 200px;
   padding: 5px;
-   /* border: dotted;/* 枠を出している 後で削除 */
-  max-width: 726px;
+  border: dotted;/* 枠を出している 後で削除 */
+  max-width: 740px;
 }
 
 #caption{
