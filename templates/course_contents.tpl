@@ -1,4 +1,4 @@
-<img src="./images/common/header_top01.jpg" /><!-- header画像 背景指定をやめて直接描画 -->
+
 
 {include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->
 

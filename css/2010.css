@@ -254,12 +254,13 @@ xf.pankuzu li{
 }
 
 #contents{
-  margin-left: 210px;
-  position: relative;
-  top: 0px;
-  padding: 5px;
-  border: dotted; 枠を出している 後で削除 
-  max-width: 740px;
+	clear: left;
+	margin-left: 210px;
+	position: relative;
+	top: 0px;
+	padding: 5px;
+	border: dotted; 枠を出している 後で削除 
+	max-width: 740px;
 }
 
 #caption{
