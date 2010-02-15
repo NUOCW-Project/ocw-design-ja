@@ -254,12 +254,12 @@ xf.pankuzu li{
 }
 
 #contents{
-  margin-left: 190px;
+  margin-left: 210px;
   position: relative;
   top: 0px;
   padding: 5px;
-  /*border: dotted; 枠を出している 後で削除 */
-  max-width: 729px;
+  border: dotted; 枠を出している 後で削除 
+  max-width: 740px;
 }
 
 #caption{
@@ -467,6 +467,7 @@ table.basic ul {
 .menu0{
 	float:left;
 	height: 90px;
+	width: 185px;
 }
 
 	#date{
