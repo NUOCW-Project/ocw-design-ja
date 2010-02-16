@@ -168,13 +168,13 @@ a:hover{
 #header_for_top{
 	height: 400px;
 	position: relative;/* #menuを絶対配置するため */
-	border: dotted;
+	border-style: dotted;
 }
 
 	#menu{
 		position: absolute;
 		bottom: 25px;
-		left: 180px;
+		left: 160px;
 	}
 
 		.menu0{
@@ -195,8 +195,9 @@ a:hover{
 	top:-25px;
 	margin-left: 200px;
 	background-color: white;
-	paddin: 3px;
-	max-width: 700px;
+	padding: 3px;
+	max-width: 710px;
+	border-style: dashed;
 }
 
 	.pankuzu{
@@ -246,7 +247,7 @@ a:hover{
 	padding: 1ex;
 }
 
-	#waku{
+	.waku{
 		border-style: solid;
 		border-width: thick;
 		border-color: #FFF3E3
