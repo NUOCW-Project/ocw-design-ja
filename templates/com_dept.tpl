@@ -1,10 +1,11 @@
-<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
+
+<br />
+<ul id="departmentslist" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
+<li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
    <img src="./images/{$lang}/courselist.gif" id="courselist_top" alt="{if $lang=="ja"}授業一覧から探す{/if}"
      onMouseOver="this.src='./images/{$lang}/courselist_on.gif'"
 	   onMouseOut="this.src='./images/{$lang}/courselist.gif'">
-</a><!-- class"header_image"から移動 -->
-<br />
-<ul id="departmentslist" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
+</a><!-- class"header_image"から移動 --></li>
 <!-- 各学部ページへのリンクリスト -->
 {literal}
 {strip}

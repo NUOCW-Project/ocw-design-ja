@@ -1,24 +1,34 @@
-<div id="contents">
+<div id="header_for_top">
+	<img src="./images/common/header_top01.jpg" />
+	<div id="menu">	
+		<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/menu01.png" onMouseOver="this.src='./images/{$lang}/menu01_on.png'" onMouseout="this.src='./images/{$lang}/menu01.png'" class="menu0" /></a>
+		<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=glossary"><img src="./images/{$lang}/menu02.png" onMouseOver="this.src='./images/{$lang}/menu02_on.png'" onMouseout="this.src='./images/{$lang}/menu02.png'" class="menu0" /></a>
+		<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus"><img src="./images/{$lang}/menu03.png" onMouseOver="this.src='./images/{$lang}/menu03_on.png'" onMouseout="this.src='./images/{$lang}/menu03.png'" class="menu0" /></a>
+		<div class="menu0"><a href="http://www.media.nagoya-u.ac.jp/sc/"><img src="./images/{$lang}/menu04.png" onMouseOver="this.src='./images/{$lang}/menu04_on.png'" onMouseout="this.src='./images/{$lang}/menu04.png'" /></a><p id="date"><b>2009. 10. 04UP</b></p></div>
+	</div><!-- "menu" end -->
+</div><!-- "header_for_top" end -->
 
 {include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->
 
-{include file="com_navi.tpl"}<!-- パンくずリスト com_header.tplから移動 -->
+<div id="contents">
 
-<div id="sp_feature">
+	{include file="com_navi.tpl"}<!-- パンくずリスト com_header.tplから移動 -->
+
+<div id="feature">
   <img src="./images/{$lang}/t_special.png" />
   <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
   <img src="./images/common/redline.gif" class="line" />
   <br />
   <img src="{$IMGDIR}/d_sp_feature.JPG" /><!-- 画像「季節の講義　メッセージ」ダミー -->
-</div> <!-- "sp_feature" end -->
+</div> <!-- "feature" end -->
     
 <div id="greeting">
   <b>ごあいさつ<br />
   <img src="{$IMGDIR}/d_yamamoto.JPG" id="yamamoto" />
   <p>名古屋大学<br />オープンコースウェア委員長<br />山本一良</p></b>
-     ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。<br />
-      <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a><!-- 後でリンクを張る -->
+     ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。	 <br />
+      <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div><!-- "greeting" end -->
 
 <div class="waku">

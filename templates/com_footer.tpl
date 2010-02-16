@@ -29,7 +29,7 @@
     <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=open">□高校生公開講座</a></li>
   </ul>
   
-  <ul class="cont">
+  <ul class="navi">
     <li>■コンテンツ</li>
     <li>OCWシーズン企画</li>
     <li><a href="./index.php?lang=ja&amp;mode=g&page_type=welcome">ごあいさつ</a></li>
