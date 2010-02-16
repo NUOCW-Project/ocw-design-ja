@@ -148,11 +148,7 @@ a:hover{
 }
 
 #departmentslist{
-<<<<<<< .mine
 	clear: left;
-=======
-	clear: both;
->>>>>>> .r1503
 	float: left;
 	width: 160px;
 	position: relative;
@@ -321,7 +317,7 @@ a:hover{
 
 /* 以下フッター関連 */
 
-#jump{
+.jump{
 	float: right;
 }
 
