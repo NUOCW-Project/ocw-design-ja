@@ -250,7 +250,7 @@ a:hover{
 	.waku{
 		border-style: solid;
 		border-width: thick;
-		border-color: #FFF3E3
+		border-color: #FFF3E3;
 		float: left;
 		margin: 0 0 1ex 1ex;
 	}
