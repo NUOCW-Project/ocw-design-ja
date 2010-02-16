@@ -148,7 +148,7 @@ a:hover{
 }
 
 #departmentslist{
-	clear: left;
+	clear: both;
 	float: left;
 	width: 160px;
 	position: relative;
@@ -196,7 +196,7 @@ a:hover{
 	margin-left: 200px;
 	background-color: white;
 	paddin: 3px;
-	max-width: 650px;
+	max-width: 720px;
 }
 
 	.pankuzu{
@@ -218,6 +218,7 @@ a:hover{
 	float: left;
 	background-color: white;
 	margin: 0 1ex 1ex 1ex;
+	border: dotted;
 }
 
 #greeting{
