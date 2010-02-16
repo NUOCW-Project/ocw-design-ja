@@ -218,7 +218,7 @@ a:hover{
 	float: left;
 	background-color: white;
 	margin: 0 1ex 1ex 1ex;
-	border: dotted;
+	border-style: dotted;
 }
 
 #greeting{
@@ -329,7 +329,7 @@ a:hover{
 	padding-top: 1em;
 	margin-left: auto;
 	margin-right: auto;
-	width: 85px;
+	width: 85%;
 }
 
 .line{
