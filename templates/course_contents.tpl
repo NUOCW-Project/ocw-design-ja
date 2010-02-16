@@ -1,4 +1,4 @@
-
+<img src"./images/{$lang}/header_coursehome.jpg" />
 
 {include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->
 
