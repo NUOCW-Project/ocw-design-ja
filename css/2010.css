@@ -174,7 +174,7 @@ a:hover{
 	#menu{
 		position: absolute;
 		bottom: 25px;
-		left: 190px;
+		left: 180px;
 	}
 
 		.menu0{
@@ -196,7 +196,7 @@ a:hover{
 	margin-left: 200px;
 	background-color: white;
 	paddin: 3px;
-	max-width: 720px;
+	max-width: 700px;
 }
 
 	.pankuzu{
@@ -232,7 +232,7 @@ a:hover{
 }
 
 	#yamamoto{
-		margin: 1ex 0 20px auto;
+		margin: 1ex auto 0 20px;
 		text-align: center;
 	}
 
@@ -333,7 +333,7 @@ a:hover{
 }
 
 .line{
-	margin-top: 0 1ex auto auto;
+	margin: 0 auto 1ex auto;
 	text-align: center;
 	width: 100%;
 }
@@ -351,7 +351,7 @@ a:hover{
 	}
 
 #link {
-	margin: 15em 0 auto auto;
+	margin: 1em 0 auto auto;
 	padding: 0;
 	clear: both;
 	list-style-type: none;
