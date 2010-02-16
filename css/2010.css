@@ -168,7 +168,9 @@ a:hover{
 #header_for_top{
 	height: 400px;
 	position: relative;/* #menuを絶対配置するため */
-	border-style: dotted;
+	border-style: solid;
+	border-width: thin;
+	border-color: blue;
 }
 
 	#menu{
@@ -198,6 +200,8 @@ a:hover{
 	padding: 3px;
 	max-width: 710px;
 	border-style: dashed;
+	border-width: thin;
+	border-color: yellow;
 }
 
 	.pankuzu{
