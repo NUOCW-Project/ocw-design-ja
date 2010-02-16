@@ -224,6 +224,7 @@ a:hover{
 	background-color: white;
 	margin: 0 1ex 1ex 1ex;
 	border-style: dotted;
+	overflow: hidden;
 }
 
 #greeting{
@@ -335,6 +336,7 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	width: 85%;
+	overflow: hidden;
 }
 
 .line{
