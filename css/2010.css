@@ -197,10 +197,10 @@ a:hover{
 #contents{
 	position:relative;
 	top:-25px;
-	margin: 0 0 200px 0;
+	margin-left: 200px;
 	background-color: white;
 	paddin: 3px;
-	max-width: 700px;
+	max-width: 650px;
 }
 
 	.pankuzu{

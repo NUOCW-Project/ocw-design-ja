@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset={if $lang == "ja"}EUC-JP{elseif $lang=="en"}iso-8859-1{/if}">
 
-<link rel="stylesheet" type="text/css" href="../css/2010.css">
+<link rel="stylesheet" type="text/css" href="css/2010.css">
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/toggle.js"></script>
 
