@@ -172,6 +172,7 @@ a:hover{
 #header_for_top{
 	height: 400px;
 	position: relative;/* #menuを絶対配置するため */
+	border: dotted;
 }
 
 	#menu{
