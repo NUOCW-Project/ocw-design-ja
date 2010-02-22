@@ -36,7 +36,30 @@
   <img src="./images/{$lang}/t_ranking.png" class="subheading" />
   <br />
   <img src="./images/common/dots.png" />
-  <dl id="ranking">
+	{literal}
+	<table class="ranking">
+	<tr class="header">
+		<th>順位</th>
+		<th>講義名</th>
+		<th>教員名</th>
+	</tr>
+	{foreach from = $myArray key=k item=v}
+		{if $v.rank == 1 || $v.rank == 3}
+			<tr class="odd">
+		{elseif $v.rank == 2}
+			<tr class="even">
+		{else}
+			<tr class="even">
+		{/if}
+		<td>{$v.rank}</td>
+		<td><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id={$v.course_id}&page_type=index">{$v.course_name}</a></td>
+		<td>{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"教授":"ぷろふぇっさー"}</td>
+		</tr>
+	{/foreach}
+	</table>
+	{/literal}
+
+<!--  <dl id="ranking">
   <dt>順位 講義名</dt>
       <dd>教員名</dd>
    <dt class="pri-tri_l">１<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">海外実地研修</a></dt>
@@ -60,7 +83,7 @@
    <dt>10<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">メディア論</a></dt>
       <dd>山里敬也准教授</dd>
   </dl>
-</div><!-- 「アクセスランキング」end  -->
+</div> -->
 </div>
 
 <div class="waku">
