@@ -191,9 +191,9 @@ a:hover{
 #contents{
 	position:relative;
 	top:-25px;
-	margin-left: 200px;
+	margin-left: 195px;
 	background-color: white;
-	padding: 1em;
+	padding: 1ex;
 	margin-right: 30px;
 /*	max-width: 710px; */
 }
@@ -202,6 +202,8 @@ a:hover{
 		min-height: 60px;
 		list-style-type: none;
 		padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
+		border: dotted;
+		border-color: blue;
 	}
 
 		xf.pankuzu li{
@@ -216,7 +218,7 @@ a:hover{
 	width: 540px;
 	float: left;
 	background-color: white;
-	margin: 0 1ex 1ex 1ex;
+	/*margin: 0 1ex 1ex 1ex;*/
 	border-style: dotted;
 	overflow: hidden;
 }
