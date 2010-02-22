@@ -115,7 +115,6 @@ a:hover{
 	max-width: 1240px; 
 	margin: 0px;
 	padding: 0px;
-	/*	border: dotted;	*/
 }
 
 	.main_back_url{
@@ -168,15 +167,12 @@ a:hover{
 #header_for_top{
 	height: 400px;
 	position: relative;/* #menuを絶対配置するため */
-	border-style: solid;
-	border-width: thin;
-	border-color: blue;
 }
 
 	#menu{
 		position: absolute;
 		bottom: 25px;
-		left: 160px;
+		left: 175px;
 	}
 
 		.menu0{
@@ -197,11 +193,9 @@ a:hover{
 	top:-25px;
 	margin-left: 200px;
 	background-color: white;
-	padding: 3px;
-	max-width: 710px;
-	border-style: dashed;
-	border-width: thin;
-	border-color: yellow;
+	padding: 1em;
+	margin-right: 30px;
+/*	max-width: 710px; */
 }
 
 	.pankuzu{
