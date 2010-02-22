@@ -172,7 +172,7 @@ a:hover{
 	#menu{
 		position: absolute;
 		bottom: 25px;
-		left: 175px;
+		left: 180px;
 	}
 
 		.menu0{
@@ -193,7 +193,7 @@ a:hover{
 	top:-25px;
 	margin-left: 195px;
 	background-color: white;
-	padding: 1ex;
+	padding-left: 1ex;
 	margin-right: 30px;
 /*	max-width: 710px; */
 }
@@ -202,6 +202,7 @@ a:hover{
 		min-height: 60px;
 		list-style-type: none;
 		padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
+		margin: 0px;
 		border: dotted;
 		border-color: blue;
 	}
@@ -219,7 +220,7 @@ a:hover{
 	float: left;
 	background-color: white;
 	/*margin: 0 1ex 1ex 1ex;*/
-	border-style: dotted;
+	/*border-style: dotted;*/
 	overflow: hidden;
 }
 
