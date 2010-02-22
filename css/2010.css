@@ -191,7 +191,7 @@ a:hover{
 #contents{
 	position:relative;
 	top:-25px;
-	margin-left: 195px;
+	margin-left: 200px;
 	background-color: white;
 	padding-left: 1ex;
 	margin-right: 30px;
@@ -203,8 +203,8 @@ a:hover{
 		list-style-type: none;
 		padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
 		margin: 0px;
-		border: dotted;
-		border-color: blue;
+		/*border: dotted;
+		border-color: blue;*/
 	}
 
 		xf.pankuzu li{
@@ -228,10 +228,11 @@ a:hover{
 	font-size: 11px;
 	float: left;
 	margin-top: 15px;
+	margin-left: 1ex;
 	padding: 1ex;
 	border-style: solid;
 	border-width: thin;
-	width:130px;
+	width:150px;
 }
 
 	#yamamoto{
