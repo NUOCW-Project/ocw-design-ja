@@ -49,6 +49,7 @@ a:hover{
 		height: 60px;
 		margin-left: 200px;
 	padding: 0px;
+	border: dotted;
 	}
 
 	html>/**/body .header_button{
