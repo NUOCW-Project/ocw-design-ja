@@ -164,6 +164,14 @@ a:hover{
 		left: 1260px;
 	}
 
+*html .main_back_url{
+			 background-image: url(../images/common/url.gif);
+ 	  	 background-repeat: no-repeat;
+	position: expression('absolute');
+	top: expression(documentElement.scrollTop + 90 + 'px');
+	left: expression(documentElement.scrollLeft + 1260 + 'px');
+}
+
 	.main_back_adachi{
 		background-image: url(../images/common/staff.gif);
 		background-repeat: no-repeat;
@@ -191,13 +199,17 @@ a:hover{
 }
 
 #departmentslist{
-	clear: both;
 	float: left;
 	width: 160px;
-	position: relative;
-	top: -25px;
 	padding:0px;
-	margin: 0 0 0 30px;
+	margin: 0px 5px 0px 40px;
+}
+
+*html #departmentslist{
+	float: left;
+	width: 160px;
+	margin: 0px 2px 0px 20px;
+	padding: 0px;
 }
 
 	#departmentslist li{
