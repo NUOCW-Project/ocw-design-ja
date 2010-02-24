@@ -297,12 +297,12 @@ a:hover{
 		width: 300px;
 	}
 
-/*
+
 #main_text{
 	clear: right;
 }
 
-
+/*
 .e_text p, .e_text ul, .e_text ol, .e_text dl, .e_text table {
 	margin-left: 110px;
 	margin-bottom: 1em;
@@ -312,6 +312,7 @@ a:hover{
 	margin-left: 0;
 	margin-bottom: 0;
 }
+*/
 
 .e_text h3 {
 	font-size: 13px;
@@ -325,7 +326,6 @@ a:hover{
 	margin: 0;
 	float: left;
 }
-*/
 
 /* 以下フッター関連 */
 
