@@ -44,14 +44,22 @@ a:hover{
 }
 
 	.header_sub{
-		max-width: 770px;
+		max-width/**/: 770px;
+	/width: 770px; /* IE6ÂÐºö */
 		height: 50px;
 		margin-left: 200px;
 	}
+
+	html>/**/body .header_button{
+	margin-top: 10px;
+	width:450px;
+	height: 50px;
+	float: right;
+	}	
 	
 		.header_button{
 			margin-top: 10px;
-			width: 450px;
+			width: 500px;
 			height: 50px;
 			float: right;
 		}
