@@ -297,9 +297,11 @@ a:hover{
 		width: 300px;
 	}
 
+/*
 #main_text{
-	clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
+	clear: right;
 }
+*/
 
 .e_text p, .e_text ul, .e_text ol, .e_text dl, .e_text table {
 	margin-left: 110px;
