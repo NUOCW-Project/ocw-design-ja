@@ -175,7 +175,7 @@ a:hover{
 	}
 
 .main{
-	max-width: 945px;
+	max-width: 1230px;
 	overflow: hidden;
 	margin-left: 30px;
 	min-height: 1150px;
@@ -185,7 +185,7 @@ a:hover{
 
 *html .main{
 	margin: -90px 0px 0px 30px;
-	width: 945px;
+	width: 1230px;
 	background-color: white;
 	padding: 0px;
 }
