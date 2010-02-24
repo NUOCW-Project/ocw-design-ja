@@ -302,18 +302,18 @@ a:hover{
 	clear: right;
 }
 
-
+/*
 .e_text p, .e_text ul, .e_text ol, .e_text dl, .e_text table {
 	margin-left: 110px;
 	margin-bottom: 1em;
 }
+*/
 
-/*
 .e_text * ul, .e_text * ol {
 	margin-left: 0;
 	margin-bottom: 0;
 }
-*/
+
 
 .e_text h3 {
 	font-size: 13px;
