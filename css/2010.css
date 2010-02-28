@@ -262,7 +262,7 @@ a:hover{
 }
 
 	.pankuzu{
-		min-height: 60px;
+	/*	min-height: 60px; */
 		list-style-type: none;
 		padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
 		margin: 0px;
@@ -270,7 +270,7 @@ a:hover{
 		border-color: blue;*/
 	}
 
-		.pankuzu li{
+		xf.pankuzu li{
 			display: inline;
 			color: #996633;
 			margin-right: 6px;
