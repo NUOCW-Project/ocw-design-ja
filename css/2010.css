@@ -210,6 +210,8 @@ a:hover{
 	width: 160px;
 	padding:0px;
 	margin: 0px 5px 0px 40px;
+	position: relative;
+	top: -25px;
 }
 
 *html #departmentslist{
@@ -235,7 +237,7 @@ a:hover{
 	#menu{
 		position: absolute;
 		bottom: 25px;
-		left: 180px;
+		left: 190px;
 	}
 
 		.menu0{
@@ -288,7 +290,7 @@ a:hover{
 }
 
 #greeting{
-	font-size: 11px;
+	font-size: 10.5px;
 	float: left;
 	margin-top: 15px;
 	margin-left: 1ex;

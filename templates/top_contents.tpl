@@ -82,8 +82,8 @@
       <dd>╫в└е╣м═║╢╡╝°</dd>
    <dt>10<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">есе╟егев╧└</a></dt>
       <dd>╗│╬д╖╔╠щ╜┌╢╡╝°</dd>
-  </dl>
-</div> -->
+  </dl> -->
+</div>
 </div>
 
 <div class="waku">
