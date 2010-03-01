@@ -43,15 +43,18 @@
 			<td class="left">{$vs.course_name}
                              {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span>{/if}</td>
 			<td class="center">{if $vs.url_flv != NULL}
-<!--
+
+
 <script language="JavaScript" type="text/javascript">
+<!--
 function openWin(){
 1Ê¬´Ö¼ø¶È¾Ò²ð = window.open("{$vs.url_flv}","1Ê¬´Ö¼ø¶È¾Ò²ð","width=200,height=200,resizable=yes");
 1Ê¬´Ö¼ø¶È¾Ò²ð.focus();
 }
-</script>
-					<a href=javascript:void(0);" onclick="openWin()"><img src="./images/common/b_fv.gif"></a>{/if}<br></td>
 -->
+</script>
+                                        <a href=javascript:void(0);" onclick="openWin()"><img src="./images/common/b_fv.gif"></a>{/if}<br></td>
+
 					<a href="{$vs.url_flv}" target="flame"><img src="./images/common/b_fv.gif"></a>{/if}<br></td>
 
 			<td class="left">{$vs.department_name}</td>
