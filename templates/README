@@ -9,6 +9,11 @@
 - $curr_department_abbr : 現在のグループ (グループ発行時のみ)
 - $info_only     : 部局長挨拶本文等のグループ情報かどうか (グループ情報発行時のみ)
 
+** for_course.tpl で assign されるもの
+- $course_info
+
+** for_vs.tpl で assign されるもの
+- $vsyllabus_list: 一分間授業紹介の情報
 
 * 表示時, assign するもの (literal 内で使う)
 - $lang          : 言語 (ja, en)
@@ -18,6 +23,7 @@
 - $page_type     : ページ種別
 - $exist_another : 対応する他言語のページが存在するか
 - $dept_list     : 公開グループ情報(略称がキー、値に ID とグループ名)
+- $ranking       : アクセスランキング情報 (トップページのみ)
 
 * 全てのページに共通する個々のパーツ
 - com_header.tpl
@@ -32,4 +38,3 @@
 
 * 発行時に読み込むテンプレート
 - for_*.tpl      :
-
