@@ -61,11 +61,11 @@
 	<div class="realplayer">
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	{if $lang=='ja'}
-    <p>ビデオの閲覧にはRealNetworks社のRealPlayerかAdobe社のFlashPlayerが必要です。</p>
-	<p>RealPlayerとFlashPlayerは、以下からダウンロードできます。</p>
+    <p>ビデオの閲覧にはAdobe社のFlashPlayerが必要です。</p>
+	<p>FlashPlayerは、以下からダウンロードできます。</p>
     {elseif $lang=='en'}
-    <p>RealPlayer or FlashPlayer are required to run the videos.</p>
-    <p>RealPlayer or FlashPlayer can be downloaded from the following URL:
+    <p>FlashPlayer is required to run the videos.</p>
+    <p>FlashPlayer can be downloaded from the following URL:
     {/if}
 	<p>
 	  <a href="http://japan.real.com/player/" target="_blank"><img src="./images/common/realone.gif" alt="{if $lang=='ja'}RealPlayer ダウンロードサイトへ{elseif $lang=='en'}Download RealPlayer{/if}" border="0" height="31" width="88"></a>
