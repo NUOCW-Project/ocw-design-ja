@@ -1,42 +1,3 @@
-<!-- このSiteの特徴開始 -->
-<div class="about_left" id="about01">
-<img src="./images/{$lang}/t_01site.gif" alt="このSiteについて">
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<h1 class="about">「名大の授業」</h1>
-	<p><span class="b">-インターネット上への教材の無償公開-</span></p>
-	<p>	名古屋大学(総長 &#28661;口道成)は、授業の一部を選び、そこで実際に使われている教材を電子化しインターネット上で無償公開する事業を行っています。</p>
-	<p>これは、授業教材をインターネット上で公開することで、普段は垣間見ることのできない名古屋大学の教育の一端を、社会へ広く情報発信しようとするものです。学生の自学自習教材としての活用だけでなく、教員と学生、教員と学外者、そして教員同士の交流・インタラクションを期待しています。</p>
-	<p>この事業は、名古屋大学オープンコースウェア委員会が運営しており、日本オープンコースウェア・コンソーシアム(JOCW)と連携しています。</p>
-	</div>	<!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
-</div>  <!-- センターコンテンツ終了 -->
-
-</div>
-<div class="clear"></div>
-<!-- このSiteの特徴終了 -->
-
 <!-- リンク開始 -->
 <div class="about_left" id="about02">
 <img src="./images/{$lang}/t_02link.gif" alt="リンク">
@@ -44,11 +5,7 @@
 <div class="about_center">
 <div class="about_contents"> 
 <table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
+
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
@@ -56,16 +13,51 @@
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
-			<td class="center"><p><img src="./images/{$lang}/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
-			<td><p><a href="http://www.nagoya-u.ac.jp">名古屋大学</a></p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
-			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">オープンコースウェア・コンソーシアム</a></p></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
-			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
+			<th class="center"><p>授業関連</p></th>
+		</tr><tr>
+		<td class="center">
+			<p><span class="b">シラバス</span></p>
+			<p>授業で取り扱う内容や到達目標を示した資料。学生はこれを参考にして履修科目を決めることになる。</p>
+			<p><span class="b">単位</span></p>
+			<p>講義を受け、単位の修得条件を満たすことでもらえる。卒業・進級に必要。足りないと留年することになる。</p>
+			<p><span class="b">教養教育院</span></p>
+			<p>従来の教養部に代わり、各学部に共通する基礎教育及び教養教育を全学共通教育で行う組織。</p>
+			<p><span class="b">全学教養科目</span></p>
+			<p>名古屋大学学術憲章の精神に基づく「独創的で自立した豊かな個性を備えた知識人を育成するために、それにふさわしい基礎教育及び教養教育を全学的な責任体制で実施する教育」</p>
+			<p><span class="b">基礎セミナー</span></p>
+			<p>学部・学科に関わらず、個人が興味・関心を持つ内容について学習する講義。資料作成、プレゼンテーションが科せられる講義が多い。</p>
+			<p><span class="b">言語文化科目</span></p>
+			<p>「外国語の能力を高め、異文化理解を深めて、国際社会に相応しい教養を身に付ける科目」</p>
+			<p><span class="b">eラーニング</span></p>
+			<p>パソコンやコンピュータネットワークなどを利用して教育を行うこと。名古屋大学では平成21年度入学生より、英語の家庭学習教材として導入されている。</p>
+		</td>
+		</tr><tr>
+			<th class="center_gray"><p>OCW関連</p></th>
+		</tr><tr>
+		<td class="center_gray">
+			<p><span class="b">OCW</span></p>
+			<p>オープンコースウェア(OpenCourseWare)。大学や大学院などの高等教育機関で正規に提供された講義とその関連情報を、インターネットを通じて無償で公開する活動。日本の大学のものは特にJOCW(Japan OCW)と呼ばれる。</p>
+			<p><span class="b">コースウェア</span></p>
+			<p>授業を行うために必要な</p>
+		</td>
+		</tr><tr>
+			<th class="center"><p>名大OCW関連</p></th>
+		</tr><tr>
+		<td class="center">
+			<p><span class="b">部局長推薦</span></p>
+			<p>各学部、研究科の長が推薦する</p>
+			<p><span class="b">OCW WG推薦</span></p>
+			<p>OCW WGが</p>
+			<p><span class="b">グローバルCOEプログラム</span></p>
+			<p>「21世紀COEプログラム」の評価・検証を踏まえ、その基本的な考え方を継承しつつ、我が国の大学院の教育研究機能を一層充実・強化し、国際的に卓越した研究基盤の下で世界をリードする創造的な人材育成を図るため、国際的に卓越した教育研究拠点の形成を重点的に支援し、もって、国際競争力のある大学づくりを推進することを目的とする事業。</p>
+			<p><span class="b">21世紀COEプログラム</span></p>
+			<p>21世紀COEプログラムは、「大学の構造改革の方針」（平成13年6月）に基づき、平成14年度から文部科学省の事業（研究拠点形成費等補助金）として措置されたもの。</p>
+			<p><span class="b">COE</span></p>
+			<p>Center Of Excellenceの略語。和訳：卓越の中核。</p>
+			<p><span class="b">TEFS</span></p>
+			<p>名古屋大学工学部による高校生を対象とした実験教室。</p>
+			<p><span class="b">数学アゴラ</span></p>
+			</p>名古屋大学多元数理学科研究科で毎年行われている、高校生および高校教員対象の公開講座。</p>
 		</tr>
 		</tbody>
 	</table>
@@ -74,11 +66,6 @@
 
 	</td>
 	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
@@ -87,155 +74,3 @@
 </div>
 <div class="clear"></div>
 <!-- リンク終了 -->
-
-<!-- スタッフ紹介開始 -->
-<div class="about_left" id="about03">
-<img src="./images/{$lang}/t_03staff.gif" alt="スタッフ紹介">
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
-	
-	<table class="center_contents" width="435">
-		<tbody>
-		<tr>
-			<td colspan="2">「名大の授業」は、情報メディア教育システム、高等教育研究センター、情報基盤センター、附属図書館の協力のもと、進めている事業です。</td>
-		</tr>
-		<tr>
-			<td class="separate" colspan="2"></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/i_01cims.gif" alt="情報メディア教育システム"></p></td>
-			<td><p><a href="http://www.media.nagoya-u.ac.jp/">情報メディア教育システム</a>は、学習教材の開発支援とその利用環境を提供することで、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_02cshe.gif" alt="高等教育研究センター"></p></td>
-			<td class="left_gray"><p><a href="http://www.cshe.nagoya-u.ac.jp/">高等教育研究センター</a>は、高等教育に関する研究・開発に基づき、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/i_03itc.gif" alt="情報基盤センター"></p></td>
-			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">情報基盤センター</a>は、先進的な情報基盤を提供することで、名古屋大学の教育・研究の質向上に取り組む組織です。</p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="附属図書館"></p></td>
-			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">附属図書館</a>は、従来型図書館機能と電子図書館機能を融合し、その知的資産を提供することで、名古屋大学の教育・研究の質向上に取り組む組織です。</p></td>
-		</tr>
-
-		<tr>
-			<td colspan="2"><p><img src="./images/common/dot_green.gif"></p></td>
-		</tr>
-
-		<tr>
-			<td colspan="2"><h1 class="about_committee">-名古屋大学オープンコースウェア委員会-</h1></td>
-		</tr>
-		<tr>
-			<td class="right" colspan="2">2009年10月1日現在</td>
-		</tr>
-
-		<tr>
-			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="名古屋大学OCW委員会"></p></td>
-			<td>
-			<p>
-			[委員長]副総長 教授 山本一良<br>
-			理事・副総長 教授 杉山寛行<br>
-			総長補佐 教授 戸田山和久<br>
-			情報基盤センター 教授 外池俊幸<br>
-			エコトピア科学研究所 教授 片山正昭<br>
-			情報連携統括本部 情報戦略室 准教授 梶田将司<br>
-			高等教育研究センター 准教授 中井俊樹<br>
-			エコトピア科学研究所 准教授 山里敬也<br>
-			情報基盤センター 准教授 後藤明史<br>
-			附属図書館 研究開発室 助教 三根慎二<br>
-			スタジオ メディアサポーター 原愛樹<br>
-			スタジオ メディアサポーター 古井慎也<br>
-			OCW事務室 事務補佐員 松田智子
-			</p>
-		</tr>
-		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="名古屋大学OCW WG"></p></td>
-			<td class="left_gray">
-			<p>
-			情報連携統括本部 情報戦略室 准教授 梶田将司<br>
-			高等教育研究センター 准教授 中井俊樹<br>
-			エコトピア科学研究所 准教授 山里敬也<br>
-			情報基盤センター 准教授 後藤明史<br>
-			附属図書館 研究開発室 助教 三根慎二<br>
-			スタジオ メディアサポーター 原愛樹<br>
-			スタジオ メディアサポーター 古井慎也<br>
-			情報メディア教育システム 事務補佐員 加藤敦子<br>
-			情報メディア教育システム 事務補佐員 泉明恵<br>
-			OCW事務室 事務補佐員 松田智子
-			</p>
-		</tr>
-               <tr>
-                       <td><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
-			<td>
-			<p>
-      足立真訓<br>
-      市之瀬由佳<br>
-      伊藤大禮<br>
-	江草洋子<br>
-	王 毅駿<br>
-      是澤奈津美<br>
-	サイモン ジョンソン<br>
-      佐藤綾香<br>
-      白石美咲<br>
-      高橋知世<br>
-	高橋光成<br>
-	高橋祐人<br>
-	谷口純一<br>
-      鐘 揚<br>
- 	寺田騰<br>
-     永井哲郎<br>
-      中島康貴<br>
-	中山佳洋<br>
-	林 祐衣<br>
-      福崎怜奈<br>
-      丸地和馬<br>
-	村松沙那恵<br>
-	山岡大祐<br>
-	山本幹人<br>
-	吉田映子<br>
-			</p>
-		</tr>
-		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="写真撮影"></p></td>
-			<td class="left_gray">
-			<p>
-			大学院工学研究科 准教授 長谷川浩
-			</p>
-
-			<p>
-			[ 名古屋大学写真部 ]<br>
-			奥村陽子<br>
-			加藤昭信
-			</p>
-		</tr>
-		
-		
-		</tbody>
-	</table>
-	
-	</div>	<!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
-</div>  <!-- センターコンテンツ終了 -->
-</div>

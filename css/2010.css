@@ -702,10 +702,16 @@ table.basic th{
 }
 
 th.left{
+	font-size: large;
+	color: #DD0000;
+
 }
 
 th.left_gray{
 	background-color:#eeeeee;
+	font-size: large;
+	color: #DD0000;
+
 }
 
 th.center{
