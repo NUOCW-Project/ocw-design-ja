@@ -1,15 +1,10 @@
 <!-- このSiteの特徴開始 -->
 <div class="about_left" id="about01">
-<img src="./images/{$lang}/t_01site.gif" alt="このSiteについて">
+<h1 class="welcome">このSiteについて</h1>
 </div>
 <div class="about_center">
 <div class="about_contents"> 
 <table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
@@ -24,16 +19,11 @@
 	</td>
 	<td width="10" class="td_right"></td>
 </tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
 </table>
-</div>  <!-- センターコンテンツ終了 -->
 
+</div>  <!-- センターコンテンツ終了 -->
 </div>
+
 <div class="clear"></div>
 <!-- このSiteの特徴終了 -->
 
@@ -180,27 +170,27 @@
                        <td><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
 			<td>
 			<p>
-      足立真訓<br>
-      市之瀬由佳<br>
-      伊藤大禮<br>
+	足立真訓<br>
+	市之瀬由佳<br>
+	伊藤大禮<br>
 	江草洋子<br>
 	王 毅駿<br>
-      是澤奈津美<br>
+	是澤奈津美<br>
 	サイモン ジョンソン<br>
-      佐藤綾香<br>
-      白石美咲<br>
-      高橋知世<br>
+	佐藤綾香<br>
+	白石美咲<br>
+	高橋知世<br>
 	高橋光成<br>
 	高橋祐人<br>
 	谷口純一<br>
-      鐘 揚<br>
- 	寺田騰<br>
-     永井哲郎<br>
-      中島康貴<br>
+	鐘 揚<br>
+	寺田騰<br>
+	永井哲郎<br>
+	中島康貴<br>
 	中山佳洋<br>
 	林 祐衣<br>
-      福崎怜奈<br>
-      丸地和馬<br>
+	福崎怜奈<br>
+	丸地和馬<br>
 	村松沙那恵<br>
 	山岡大祐<br>
 	山本幹人<br>
