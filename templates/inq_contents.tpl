@@ -1,11 +1,6 @@
 <div class="center_contents"> 
 <table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="465" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
@@ -15,7 +10,7 @@
 	<p>以下のフォームにご記入のうえ、「入力内容の確認」ボタンを押して下さい。</p>
 
 	<form  class="feedback" action="inquiry.php" method="post">
-		<h1 class="inq">1.<span class="red">（必須）</span>ご意見・ご質問の種類を１つ選んでください</h1>
+		<h2 class="inq">1.<span class="red">（必須）</span>ご意見・ご質問の種類を１つ選んでください</h2>
 			<div class="inq">
 			<input type="radio" name="toiawase" id="inquiry1" value="このプロジェクトについて">このプロジェクトについて</input><br>
 			<input type="radio" name="toiawase" id="inquiry2" value="公開している教材について">公開している教材について</input><br>
@@ -23,7 +18,7 @@
 			<input type="radio" name="toiawase" id="inquiry4" value="より良くするために">より良くするために</input><br>
 			</div>
 				
-		<h1 class="inq">2.あなたは：</h1>
+		<h2 class="inq">2.あなたは：</h2>
 			<div class="inq">
 			<input name="shokugyo" type="radio" id="job1" value="高校・予備校生"><label for="job1">高校・予備校生</label><br>
 			<input name="shokugyo" type="radio" id="job2" value="名古屋大学・大学院の学生"><label for="job2">名古屋大学・大学院の学生</label><br>
@@ -44,7 +39,7 @@
 			<input type="radio" name="shokugyo" value="">その他</input><br>
 -->	
 		
-		<h1 class="inq">3.お住まいの都道府県：</h1>
+		<h2 class="inq">3.お住まいの都道府県：</h2>
 			<select name="pref" size="1" tabindex="0">
 			<option value="" selected>▼こちらから選択してください</option>
 			<option value="北海道">北海道</option>
@@ -106,17 +101,17 @@
 			<option value="海外">海外</option>
 			</select>
 
-		<h1 class="inq">4.<span class="red">（必須）</span>件名をご記入下さい</h1>
+		<h2 class="inq">4.<span class="red">（必須）</span>件名をご記入下さい</h2>
 		<p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
 			<input type="text" name="title" class="fixed_width" ></input>
 			
-		<h1 class="inq">5.<span class="red">（必須）</span>内容を具体的にご記入ください</h1>
+		<h2 class="inq">5.<span class="red">（必須）</span>内容を具体的にご記入ください</h2>
 			<textarea name="content" rows="10" cols="50" tabindex="0" ></textarea>	
 
-		<h1 class="inq">6.<span class="red">（必須）</span>お名前</h1>
+		<h2 class="inq">6.<span class="red">（必須）</span>お名前</h2>
 			<input type="text" name="c_name"  class="fixed_width"></input>
 
-		<h1 class="inq">7.<span class="red">（必須）</span>連絡可能なＥメールアドレス</h1>		
+		<h2 class="inq">7.<span class="red">（必須）</span>連絡可能なＥメールアドレス</h2>		
 			<input type="text" name="c_email" class="fixed_width"></input>
 		<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
 		<input type="submit" name="submit" value="入力内容の確認">
@@ -138,11 +133,6 @@
 
 	</td>
 	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
 
 </table>
