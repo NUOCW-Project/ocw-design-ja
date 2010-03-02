@@ -1,14 +1,4 @@
-<div class="center_contents"> 
-<table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="465" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
+<div class="course_contents"><!-- コンテンツセル開始 -->
 
 	<h1 class="welcome">ようこそ名大の授業へ</h1>
 
@@ -38,16 +28,5 @@
 	<p>この「名大の授業」を通して、名大の授業を「体験」していただければ幸いです。</p>
 	</div>
 
-	</div>	<!-- コンテンツセル終了 -->
+</div>	<!-- コンテンツセル終了 -->
 
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
-</div>  <!-- センターコンテンツ終了 -->
