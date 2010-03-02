@@ -617,6 +617,19 @@ div.faq_color{
 }
 
 
+/* -----------------Course Contents ---------------*/
+span.i{
+	font-style:italic;
+}
+
+span.u{
+	text-decoration: underline;
+}
+
+span.b{
+	font-weight: bold; 
+}
+
 
 
 */
