@@ -9,7 +9,7 @@
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<h1 class="about">「名大の授業」</h1>
+	<h2 class="about">「名大の授業」</h2>
 	<p><span class="b">-インターネット上への教材の無償公開-</span></p>
 	<p>	名古屋大学(総長 &#28661;口道成)は、授業の一部を選び、そこで実際に使われている教材を電子化しインターネット上で無償公開する事業を行っています。</p>
 	<p>これは、授業教材をインターネット上で公開することで、普段は垣間見ることのできない名古屋大学の教育の一端を、社会へ広く情報発信しようとするものです。学生の自学自習教材としての活用だけでなく、教員と学生、教員と学外者、そして教員同士の交流・インタラクションを期待しています。</p>
@@ -27,69 +27,13 @@
 <div class="clear"></div>
 <!-- このSiteの特徴終了 -->
 
-<!-- リンク開始 -->
-<div class="about_left" id="about02">
-<img src="./images/{$lang}/t_02link.gif" alt="リンク">
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="435">
-		<tbody>
-		<tr>
-			<td class="center"><p><img src="./images/{$lang}/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
-			<td><p><a href="http://www.nagoya-u.ac.jp">名古屋大学</a></p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
-			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">オープンコースウェア・コンソーシアム</a></p></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
-			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
-		</tr>
-		</tbody>
-	</table>
-		
-	</div>	<!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
-</div>  <!-- センターコンテンツ終了 -->
-
-</div>
-<div class="clear"></div>
-<!-- リンク終了 -->
-
 <!-- スタッフ紹介開始 -->
 <div class="about_left" id="about03">
-<img src="./images/{$lang}/t_03staff.gif" alt="スタッフ紹介">
+<h1 class="welcome">スタッフ紹介</h1>
 </div>
 <div class="about_center">
 <div class="about_contents"> 
 <table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
@@ -220,12 +164,6 @@
 	</td>
 	<td width="10" class="td_right"></td>
 </tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
 </table>
 </div>  <!-- センターコンテンツ終了 -->
 </div>
