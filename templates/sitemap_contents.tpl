@@ -4,13 +4,13 @@
 </div>
 <div class="about_center">
 <div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
+<table class="center_contents" width="550" border="0" cellpadding="0" cellspacing="0" summary="">
 
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="435">
+	<table class="center_contents" width="550">
 		<tbody>
 		<tr>
 		<td class="left">
