@@ -631,5 +631,35 @@ span.b{
 }
 
 
+/* 箇条書き */
+ul.none{
+	list-style-type: none;    /*マーカーなし*/
+}
+
+ul.circle{
+	list-style-type: circle;    /*白丸*/
+}
+
+ul.square{
+	list-style-type: square;    /*黒四角*/
+}
+
+
+ol.lower-roman{
+	list-style-type: lower-roman;    /*小文字のローマ数字*/
+}
+
+ol.upper-roman{
+	list-style-type: upper-roman;    /*大文字のローマ数字*/
+}
+
+ol.lower-alpha{
+	list-style-type: lower-alpha;    /*小文字のアルファベット*/
+}
+
+ol.upper-alpha{
+	list-style-type: upper-alpha;    /*大文字のアルファベット*/
+}
+
 
 */
