@@ -669,7 +669,7 @@ h1.welcome {
 
 div.welcome_img{
 	width: 250px;
-	float: left;
+	vertical-align: middle;
 	margin: 0px 20px;
 }
 

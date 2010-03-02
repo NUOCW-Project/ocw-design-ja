@@ -2,7 +2,8 @@
 
 	<h1 class="welcome">¤è¤¦¤³¤½Ì¾Âç¤Î¼ø¶È¤Ø</h1>
 
-<!--	<div class="welcome_img"><img src="./images/common/pic_sugi_welcome.jpg" alt="OCW°Ñ°÷Ä¹ ¿ù»³´²¹Ô" width="250" height="250"></div>
+<!--	
+	<div class="welcome_img"><img src="./images/common/pic_sugi_welcome.jpg" alt="OCW°Ñ°÷Ä¹ ¿ù»³´²¹Ô" width="250" height="250"></div>
 -->
 {flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv"}
 	<p class="welcome_chairperson">
