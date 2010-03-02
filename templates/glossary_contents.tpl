@@ -1,6 +1,6 @@
 <!-- リンク開始 -->
 <div class="about_left" id="about02">
-<img src="./images/{$lang}/t_02link.gif" alt="リンク">
+<h1 class="welcome">用語集</h1>
 </div>
 <div class="about_center">
 <div class="about_contents"> 
@@ -13,9 +13,9 @@
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
-			<th class="center"><p>授業関連</p></th>
+			<th class="left"><h2>授業関連</h2></th>
 		</tr><tr>
-		<td class="center">
+		<td class="left">
 			<p><span class="b">シラバス</span></p>
 			<p>授業で取り扱う内容や到達目標を示した資料。学生はこれを参考にして履修科目を決めることになる。</p>
 			<p><span class="b">単位</span></p>
@@ -32,18 +32,18 @@
 			<p>パソコンやコンピュータネットワークなどを利用して教育を行うこと。名古屋大学では平成21年度入学生より、英語の家庭学習教材として導入されている。</p>
 		</td>
 		</tr><tr>
-			<th class="center_gray"><p>OCW関連</p></th>
+			<th class="left_gray"><h2>OCW関連</h2></th>
 		</tr><tr>
-		<td class="center_gray">
+		<td class="left_gray">
 			<p><span class="b">OCW</span></p>
 			<p>オープンコースウェア(OpenCourseWare)。大学や大学院などの高等教育機関で正規に提供された講義とその関連情報を、インターネットを通じて無償で公開する活動。日本の大学のものは特にJOCW(Japan OCW)と呼ばれる。</p>
 			<p><span class="b">コースウェア</span></p>
 			<p>授業を行うために必要な</p>
 		</td>
 		</tr><tr>
-			<th class="center"><p>名大OCW関連</p></th>
+			<th class="left"><h2>名大OCW関連</h2></th>
 		</tr><tr>
-		<td class="center">
+		<td class="left">
 			<p><span class="b">部局長推薦</span></p>
 			<p>各学部、研究科の長が推薦する</p>
 			<p><span class="b">OCW WG推薦</span></p>
