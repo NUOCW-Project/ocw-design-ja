@@ -603,4 +603,20 @@ table.basic ul {
 }
 	
 
+/* ------------------FAQ-------------------- */
+div.faq_normal{
+	padding:5px;
+	margin-bottom: 2em;
+}
+
+
+div.faq_color{
+	background-color:#eeeeee;
+	padding:5px;
+	margin-bottom: 2em;
+}
+
+
+
+
 */
