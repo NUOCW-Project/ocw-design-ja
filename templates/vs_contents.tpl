@@ -55,7 +55,7 @@ function openWin(){
 </script>
                                         <a href=javascript:void(0);" onclick="openWin()"><img src="./images/common/b_fv.gif"></a>{/if}<br></td>
 
-					<a href="{$vs.url_flv}" target="flame"><img src="./images/common/b_fv.gif"></a>{/if}<br></td>
+					<a href="{$vs.url_flv}" target="flame"><img src="./images/common/play.jpg"></a>{/if}<br></td>
 
 			<td class="left">{$vs.department_name}</td>
 			<td>{$vs.instructor_name}</td>
