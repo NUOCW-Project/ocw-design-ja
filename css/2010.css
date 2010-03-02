@@ -669,12 +669,12 @@ h1.welcome {
 
 div.welcome_img{
 	width: 250px;
-    float: left;
-	margin: 0 10px 10px 0;
+	float: left;
+	margin: 0 20px 20px 0;
 }
 
 p.welcome_chairperson{
-	margin-left: 260px;
+	margin-right: 260px;
     padding: 20px 5px 5px;
 }
 
