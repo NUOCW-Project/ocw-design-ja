@@ -65,11 +65,11 @@
 		</tr>
 
 		<tr>
-			<td colspan="2"><p><img src="./images/common/dot_green.gif"></p></td>
+			<td class="center"><hr width=200 color=red></td>
 		</tr>
 
 		<tr>
-			<td colspan="2"><h1 class="about_committee">-名古屋大学オープンコースウェア委員会-</h1></td>
+			<td colspan="2"><h2 class="about_committee">-名古屋大学オープンコースウェア委員会-</h2></td>
 		</tr>
 		<tr>
 			<td class="right" colspan="2">2009年10月1日現在</td>

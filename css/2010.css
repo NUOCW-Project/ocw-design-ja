@@ -687,4 +687,101 @@ div.welcome_contents {
 	clear: left;
 }
 
+/* ɽ */
+table.basic{
+	border:0;
+/*	border: 1px solid #999999;*/
+	border-collapse: collapse;
+	
+	white-space:normal;
+	
+}
+
+table.basic th{
+	border: 1px solid #999999;
+}
+
+th.left{
+}
+
+th.left_gray{
+	background-color:#eeeeee;
+}
+
+th.center{
+	text-align: center;
+}
+
+th.center_gray{
+	text-align: center;
+	background-color:#eeeeee;
+}
+
+th.right{
+	text-align: right;
+}
+
+th.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+table.basic td{
+	border: 1px solid #999999;
+}
+
+td.left{
+	text-align: left;
+}
+
+td.left_gray{
+	text-align: left;
+	background-color:#eeeeee;
+}
+
+td.center{
+	text-align: center;
+}
+
+td.center p{
+    text-align :center;
+}
+
+td.center_gray{
+	text-align: center;
+	background-color:#eeeeee;
+}
+
+td.center_gray p {
+    text-align: center;
+}
+
+td.right{
+	text-align: right;
+}
+
+td.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+table.basic ul {
+	padding-left: 1em;
+}
+
+td.separate{
+	border: none;
+	text-align: right;
+	background-color:#eeeeee;
+	height:5px;
+}
+
+.even{
+	background-color:#eee;
+}
+.odd{
+	background-color:#fff;
+}
+
+
 */
