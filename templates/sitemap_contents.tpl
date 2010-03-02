@@ -14,7 +14,7 @@
 		<tbody>
 		<tr>
 		<td class="left">
-		<ul>
+		<ul class="navi">
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">ヘルプ(FAQ)</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=about">名大の授業について</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">用語集</a>
@@ -22,7 +22,7 @@
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">お問合せ</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=link">リンク</a>
 		</ul>
-		</td><td class="left">
+		<ul class="navi">
 			<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=kyoiku-in">教養教育院</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=lit">文学部・文学研究科</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=educa">教育学部・教育発達科学研究科</a>
@@ -40,7 +40,7 @@
 			<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=env">環境学研究科</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">留学生センター</a>
 		</ul>
-		</td><td class="left">
+		<ul class="navi">
 			<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=open">高校生向け公開講座</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=tefs">TEFS</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=agora">数学アゴラ</a>
