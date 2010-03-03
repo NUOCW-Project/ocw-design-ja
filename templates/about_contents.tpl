@@ -42,7 +42,7 @@
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 	
-	<table class="center_contents" width="435">
+	<table class="center_contents" width="600">
 		<tbody>
 		<tr>
 			<td colspan="2">「名大の授業」は、情報メディア教育システム、高等教育研究センター、情報基盤センター、附属図書館の協力のもと、進めている事業です。</td>
