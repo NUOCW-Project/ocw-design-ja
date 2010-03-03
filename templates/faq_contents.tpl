@@ -3,6 +3,9 @@
 
 <div class="course_contents"><!-- 中核のボックス -->
 <div id="main_text">
+<table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
+<tr>
+<td>
 	<div class="faq_normal">
 	<p>以下は名大の授業に関するFAQ(よくある質問)と、その答えです。</p>
 	
@@ -75,4 +78,9 @@
 	
 	</div>
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" id="go_to_pagetop" alt="{if $lang=="ja"}ページトップへ{/if}"/></a>
+
+</td>
+</tr>
+</table>
+</div>
 </div>
