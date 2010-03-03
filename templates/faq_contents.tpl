@@ -1,3 +1,6 @@
+{include file="com_navi.tpl"}
+{include file="com_dept.tpl"}
+
 <div class="course_contents"><!-- 中核のボックス -->
 <div id="main_text">
 	<div class="faq_normal">
