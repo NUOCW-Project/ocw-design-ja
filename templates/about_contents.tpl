@@ -1,3 +1,4 @@
+{include file="com_navi.tpl"}
 {include file="com_dept.tpl"}
 
 <!-- このSiteの特徴開始 -->
