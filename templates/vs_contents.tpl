@@ -1,4 +1,7 @@
-<div class="center_contents"> 
+{include file="com_navi.tpl"}
+{include file="com_dept.tpl"}
+
+<div class="center_contents"><!-- 中核のボックス --> 
 <table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
