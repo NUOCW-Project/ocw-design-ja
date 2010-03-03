@@ -1,16 +1,19 @@
+{include file="com_navi.tpl"}
+{include file="com_dept.tpl"}
+
 <!-- リンク開始 -->
 <div class="about_left" id="about02">
 <h1 class="welcome">用語集</h1>
 </div>
 <div class="about_center">
 <div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
+<table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="435">
+	<table class="center_contents" width="600">
 		<tbody>
 		<tr>
 			<th class="left"><h2>授業関連</h2></th>
