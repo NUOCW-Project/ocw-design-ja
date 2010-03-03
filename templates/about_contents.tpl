@@ -1,5 +1,5 @@
-{include file="com_navi.tpl"}
 {include file="com_dept.tpl"}
+{include file="com_navi.tpl"}
 
 <!-- このSiteの特徴開始 -->
 <div class="about_left" id="about01">
