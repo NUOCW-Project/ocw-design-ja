@@ -26,6 +26,10 @@
 			<td class="center"><p><img src="./images/common/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
 			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
+		<tr>
+			<td class="center"><p><img src="./image/{$lang}/logo_nu.gif" alt="StudyTips"></p></td>
+			<td><p><a href="http://www.cshe.nagoya-u.ac.jp/stips">
+		</tr>
 		</tbody>
 	</table>
 		
