@@ -1,3 +1,5 @@
+{include file="com_dept.tpl"}
+
 <!-- このSiteの特徴開始 -->
 <div class="about_left" id="about01">
 <h1 class="welcome">このSiteについて</h1>
