@@ -36,7 +36,7 @@
 </div>
 <div class="about_center">
 <div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
+<table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
