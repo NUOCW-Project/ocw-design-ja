@@ -1,5 +1,8 @@
+{include file="com_navi.tpl"}
+{include file="com_dept.tpl"}
+
 <div class="center_contents"> 
-<table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
+<table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    

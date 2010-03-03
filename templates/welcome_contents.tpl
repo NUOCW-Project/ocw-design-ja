@@ -1,3 +1,6 @@
+{include file="com_navi.tpl"}
+{include file="com_dept.tpl"}
+
 <div class="course_contents"><!-- コンテンツセル開始 -->
 
 	<h1 class="welcome">ようこそ名大の授業へ</h1>
