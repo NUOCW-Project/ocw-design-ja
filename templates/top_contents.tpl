@@ -53,7 +53,7 @@
 		{/if}
 		<td>{$v.rank}</td>
 		<td><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id={$v.course_id}&page_type=index">{$v.course_name}</a></td>
-		<td>{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"¶µ¼ø":"¤×¤í¤Õ¤§¤Ã¤µ¡¼"}</td>
+		<td>{$v.instructor_name}&nbsp;{$v.instructor_position}</td>
 		</tr>
 	{/foreach}
 	</table>
