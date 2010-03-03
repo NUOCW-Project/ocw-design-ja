@@ -4,7 +4,11 @@
 <div class="course_contents"><!-- コンテンツセル開始 -->
 
 	<h1 class="welcome">ようこそ名大の授業へ</h1>
-
+<div class="about_center">
+<div class="about_contents"> 
+<table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
+<tr>
+<td class="left">
 <!--	
 	<div class="welcome_img"><img src="./images/common/pic_sugi_welcome.jpg" alt="OCW委員長 杉山寛行" width="250" height="250"></div>
 -->
@@ -33,5 +37,10 @@
 	<p>この「名大の授業」を通して、名大の授業を「体験」していただければ幸いです。</p>
 	</div>
 
+</td>
+</tr>
+</table>
+</div>
+</div>
 </div>	<!-- コンテンツセル終了 -->
 
