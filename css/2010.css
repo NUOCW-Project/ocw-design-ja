@@ -329,10 +329,12 @@ a:hover{
 
 .rank{
 	min-width: 3em;
+	text-align: center;
 }
 
 .name{
 	min-width: 40%;
+	max-width: 50%;
 }
 
 .prim{
@@ -567,7 +569,7 @@ table.basic ul {
 	border-width: thick;
 	border-color: #FFF3E3;
 	float: left;
-	margin: 0 0 1ex 1ex;
+	margin: 1ex 0 1ex 1ex;
 }
 
 .pri-tri_l{
