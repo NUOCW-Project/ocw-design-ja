@@ -327,10 +327,24 @@ a:hover{
 		margin: 0 0 1ex 1ex;
 	}
 
-.pri{
+.rank{
+	min-width: 2em;
+}
+
+.prim{
 	padding: 1ex 0ex 1ex 0ex;
-	margin: 1ex 0ex 1ex 0ex;
 	background-color: #FFF3E3;
+}
+
+.sec{
+	padding: 1ex 0ex 1ex 0ex;
+	background-color: white;
+}
+
+.quat{
+	padding: 0;
+	margin: 0;
+	background-color: white;
 }
 
 /* 以下コースホーム関連 */
@@ -606,7 +620,7 @@ table.basic ul {
 	background-image:url(../img/top/arrow_on.png);
 	background-repeat: no-repeat;
 	background-position: 0px 4px;
-}
+}*/
 	
 
 /* ------------------FAQ-------------------- */
@@ -794,6 +808,3 @@ td.separate{
 .odd{
 	background-color:#fff;
 }
-
-
-*/

@@ -37,24 +37,24 @@
 	 <br />
  	<img src="./images/common/dots.png" />
 
-	<table class="mytable">
+	<table>
 	<tr>
-		<th>½ç°Ì</th>
-		<th>¹ÖµÁÌ¾</th>
-		<th>¶µ°÷Ì¾</th>
+		<th class="rank">½ç°Ì</th>
+		<th class="name">¹ÖµÁÌ¾</th>
+		<th class="name">¶µ°÷Ì¾</th>
 	</tr>
 	{literal}
 	{foreach from=$ranking key=k item=v}
 		{if $v.rank == 1 || $v.rank == 3}
-			<tr class="pri">
+			<tr class="prim">
 		{elseif $v.rank == 2}
 			<tr class="sec">
 		{else}
-			<tr class="even">
+			<tr class="quat">
 		{/if}
-		<td>{$v.rank}</td>
-		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
-		<td>{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"¶µ¼ø":"Prof."}</td>
+		<td class="rank">{$v.rank}</td>
+		<td class="name"><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
+		<td class="name">{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"¶µ¼ø":"Prof."}</td>
 		</tr>
 	{/foreach}
 	{/literal}
