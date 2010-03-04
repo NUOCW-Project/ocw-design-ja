@@ -43,6 +43,12 @@ a:hover{
 	background-repeat: no-repeat;
 }
 
+.header a{
+	height: 90px;
+	width: 300px;
+	display: block;
+}
+
 	.header_sub{
 		max-width/**/: 770px;
 	/width: 770px; /* IE6ÂÐºö */
