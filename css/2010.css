@@ -324,7 +324,7 @@ a:hover{
 		border-width: thick;
 		border-color: #FFF3E3;
 		float: left;
-		margin: 0 0 1ex 1ex;
+		margin: 1ex 1ex 0 0;
 	}
 
 .rank{
@@ -333,7 +333,6 @@ a:hover{
 }
 
 .name{
-	float: right;
 	width: 40%;
 }
 
