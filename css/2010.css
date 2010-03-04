@@ -328,16 +328,20 @@ a:hover{
 	}
 
 .rank{
-	min-width: 2em;
+	min-width: 3em;
+}
+
+.name{
+	min-width: 40%;
 }
 
 .prim{
-	padding: 1ex 0ex 1ex 0ex;
+	padding: 1em 0em;
 	background-color: #FFF3E3;
 }
 
 .sec{
-	padding: 1ex 0ex 1ex 0ex;
+	padding: 1em 0em;
 	background-color: white;
 }
 
