@@ -43,12 +43,14 @@ a:hover{
 	background-repeat: no-repeat;
 }
 
-/*.header#top #home a{
+.header a#home{
 	height: 90px;
-	width: 300px;
+	width: 250px;
 	display: block;
-	 border: dotted;
-} */
+	position: absolute;	
+	top: 0px;
+	left: 0px;
+}
 
 	.header_sub{
 		max-width/**/: 770px;
