@@ -1,9 +1,7 @@
 {strip}
 <div class="header_edge"><!-- 最上部ヘッダー右端部分 -->
-  <div class="header" id="top" usemap="#top_map"><!-- 最上部ヘッダー -->
-	<map name="top_map">
-	<area sharp=rect coords="0,0,300,90" href="http://ocw.media.nagoya-u.ac.jp/new-design/" >
-	</map>
+  <div class="header" id="top"><!-- 最上部ヘッダー -->
+ 	<a href="http://ocw.media.nagoya-u.ac.jp/new-design/" id="home"></a>
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
