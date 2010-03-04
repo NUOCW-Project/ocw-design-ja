@@ -43,7 +43,7 @@ a:hover{
 	background-repeat: no-repeat;
 }
 
-.header a#home{
+.header#top a#home{
 	height: 90px;
 	width: 250px;
 	display: block;
