@@ -50,6 +50,7 @@ a:hover{
 	position: absolute;	
 	top: 0px;
 	left: 0px;
+	border: dotted;
 }
 
 	.header_sub{
