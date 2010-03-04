@@ -275,7 +275,7 @@ a:hover{
 	.pankuzu{
 		min-height: 36px; 
 		list-style-type: none;
-		padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
+		padding: 1ex 0px 0px 0px; /* paddingの初期化をすることで問題解決（メモ）*/
 		margin: 0px;
 	}
 
@@ -295,14 +295,13 @@ a:hover{
 }
 
 #greeting{
-	font-size: 10.5px;
 	float: left;
 	margin-top: 15px;
 	margin-left: 1ex;
 	padding: 0.5em;
 	border-style: solid;
 	border-width: thin;
-	width:145px;
+	width:100px;
 }
 
 	#yamamoto{
@@ -328,8 +327,9 @@ a:hover{
 		margin: 0 0 1ex 1ex;
 	}
 
-.odd{
+.pri{
 	padding: 1ex 0ex 1ex 0ex;
+	margin: 1ex 0ex 1ex 0ex;
 	background-color: #FFF3E3;
 }
 
