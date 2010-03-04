@@ -9,9 +9,9 @@
 {strip}
   <!-- onMouseは作ったがリンクは貼ってない（メモ） -->
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
-{if $mode=="c" && $page_type=="index"}	
+<!--{if $mode=="c" && $page_type=="index"}	
  <img src="./images/{$lang}/m01coursehome_hi.gif" id="couesehome_tag" ><!--タグ画像「授業ホーム」-->
-{else}
+{else} -->
   <img src="./images/{$lang}/m01coursehome.gif" id="couesehome_tag" 
        onMouseOver="this.src='./images/{$lang}/m01coursehome_on.gif'" 
        onMouseOut="this.src='./images/{$lang}/m01coursehome.gif'"><!--タグ画像「授業ホーム」-->
