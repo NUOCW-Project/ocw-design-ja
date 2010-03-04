@@ -273,12 +273,10 @@ a:hover{
 }
 
 	.pankuzu{
-		min-height: 60px; 
+		min-height: 36px; 
 		list-style-type: none;
 		padding: 0px; /* paddingの初期化をすることで問題解決（メモ）*/
 		margin: 0px;
-		/*border: dotted;
-		border-color: blue;*/
 	}
 
 	 .pankuzu li{
@@ -293,8 +291,6 @@ a:hover{
 	width: 540px;
 	float: left;
 	background-color: white;
-	/*margin: 0 1ex 1ex 1ex;*/
-	/*border-style: dotted;*/
 	overflow: hidden;
 }
 
@@ -332,8 +328,9 @@ a:hover{
 		margin: 0 0 1ex 1ex;
 	}
 
-.ranking{
-	
+.odd{
+	padding: 1ex 0ex 1ex 0ex;
+	background-color: #FFF3E3;
 }
 
 /* 以下コースホーム関連 */
@@ -344,7 +341,7 @@ a:hover{
 }
 	
 	#publisher{
-		color: #CC9966;
+		Color: #CC9966;
 	}
 
 	#teacher{
