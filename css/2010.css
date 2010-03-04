@@ -328,13 +328,13 @@ a:hover{
 	}
 
 .rank{
-	min-width: 3em;
+	min-width: 2.5em;
 	text-align: center;
 }
 
 .name{
-	min-width: 40%;
-	max-width: 50%;
+	float: right;
+	width: 40%;
 }
 
 .prim{

@@ -39,9 +39,9 @@
 
 	<table>
 	<tr>
-		<th class="rank">½ç°Ì</th>
-		<th class="name">¹ÖµÁÌ¾</th>
-		<th class="name">¶µ°÷Ì¾</th>
+		<td class="rank">½ç°Ì</td>
+		<td>¹ÖµÁÌ¾</td>
+		<td class="name">¶µ°÷Ì¾</td>
 	</tr>
 	{literal}
 	{foreach from=$ranking key=k item=v}
@@ -53,7 +53,7 @@
 			<tr class="quat">
 		{/if}
 		<td class="rank">{$v.rank}</td>
-		<td class="name"><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
+		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
 		<td class="name">{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"¶µ¼ø":"Prof."}</td>
 		</tr>
 	{/foreach}
