@@ -33,17 +33,18 @@
 
 <div class="waku">
 <div class="topics"><!-- ボックス「アクセスランキング」 -->
-  <img src="./images/{$lang}/t_ranking.png" class="subheading" />
-  <br />
-  <img src="./images/common/dots.png" />
-	{literal}
-	<table class="ranking">
-	<tr class="header">
+	<img src="./images/{$lang}/t_ranking.png" class="subheading" />
+	 <br />
+ 	<img src="./images/common/dots.png" />
+
+	<table class="mytable">
+	<tr>
 		<th>順位</th>
 		<th>講義名</th>
 		<th>教員名</th>
 	</tr>
-	{foreach from = $myArray key=k item=v}
+	{literal}
+	{foreach from=$ranking key=k item=v}
 		{if $v.rank == 1 || $v.rank == 3}
 			<tr class="odd">
 		{elseif $v.rank == 2}
@@ -52,37 +53,12 @@
 			<tr class="even">
 		{/if}
 		<td>{$v.rank}</td>
-		<td><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id={$v.course_id}&page_type=index">{$v.course_name}</a></td>
-		<td>{$v.instructor_name}&nbsp;{$v.instructor_position}</td>
+		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
+		<td>{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"教授":"ぷろふぇっさー"}</td>
 		</tr>
 	{/foreach}
-	</table>
 	{/literal}
-
-<!--  <dl id="ranking">
-  <dt>順位 講義名</dt>
-      <dd>教員名</dd>
-   <dt class="pri-tri_l">１<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">海外実地研修</a></dt>
-      <dd class="pri-tri_t">前田敬一郎教授</dd>
-   <dt class="secon_l">２<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">フィンランド語</a></dt>
-      <dd class="secon_t">山里敬也准教授</dd>
-   <dt class="pri-tri_l">３<a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">環境行動論</a></dt>
-      <dd class="pri-tri_t">佐久間淳一准教授</dd>
-   <dt>４<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">メディア論</a></dt>
-      <dd>佐久間淳一准教授</dd>
-   <dt>５<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">通信技術</a></dt>
-      <dd>山里敬也准教授</dd>
-   <dt>６<a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">メディア論</a></dt>
-      <dd>廣瀬幸雄教授</dd>
-   <dt>７<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">通信技術</a></dt>
-      <dd>山里敬也准教授</dd>
-   <dt>８<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">通信技術</a></dt>
-      <dd>後藤明史准教授</dd>
-   <dt>９<a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">メディア論</a></dt>
-      <dd>廣瀬幸雄教授</dd>
-   <dt>10<a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">メディア論</a></dt>
-      <dd>山里敬也准教授</dd>
-  </dl> -->
+	</table>
 </div>
 </div>
 
@@ -115,27 +91,4 @@
     </dl>
 </div><!-- 「プレスリリース」end -->
 </div>
-
-<table class="mytable">
-<tr class="header">
-	<th>順位</th>
-	<th>講義名</th>
-	<th>教員名</th>
-</tr>
-{literal}
-{foreach from=$ranking key=k item=v}
-	{if $v.rank == 1 || $v.rank == 3}
-		<tr class="odd">
-	{elseif $v.rank == 2}
-		<tr class="even">
-	{else}
-		<tr class="even">
-	{/if}
-	<td>{$v.rank}</td>
-	<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
-	<td>{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"教授":"ぷろふぇっさー"}</td>
-	</tr>
-{/foreach}
-{/literal}
-</table>
 
