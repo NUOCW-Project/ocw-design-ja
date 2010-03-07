@@ -351,6 +351,18 @@ a:hover{
 	margin: 0;
 	background-color: white;
 }
+	
+.notice td{
+	background:none;
+	display: block;
+	padding-left:11px;
+}
+	
+.notice td a:hover{
+	background-image:url(../img/top/arrow_on.png);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+}
 
 /* 以下コースホーム関連 */
 
@@ -596,36 +608,7 @@ table.basic ul {
 	position: relative;
 	top: -2ex;
 }
-	
-#ranking dd{
-	margin: -1.2em 0 0 15em;
-}
-	
-#ranking dt a{
-	position: absolute;
-	left: 3em;
-}
-	
-.notice dd{
-	background:none;
-	margin: -1.4em 0 0 7em;
-}
-
-.notice dd a{
-	display: block;
-	padding-left:11px;		
-}
-	
-.notice dd span{
-	display: block;
-	padding-left:11px;		
-}
-	
-.notice dd a:hover{
-	background-image:url(../img/top/arrow_on.png);
-	background-repeat: no-repeat;
-	background-position: 0px 4px;
-}*/
+*/
 	
 
 /* ------------------FAQ-------------------- */
