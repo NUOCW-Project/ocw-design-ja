@@ -352,11 +352,6 @@ a:hover{
 	background-color: white;
 }
 
-<!--td{
-	border: dashed;
-	border-width: 1px;
-} test-->
-
 .date2{
 	width: 6em;
 	text-align: top;
@@ -364,12 +359,15 @@ a:hover{
 
 .notice{
 	background: none;
+	padding: 0;
 }
 
 	.notice span{
 		background: none;
 		display: block;
 		padding-left:11px;
+		border: dashed;
+		border-width: 1px;
 	}
 	
 	.notice a:hover{
