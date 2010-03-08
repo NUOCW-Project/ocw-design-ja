@@ -311,7 +311,7 @@ a:hover{
 
 .topics{
 	border-style: solid;
-	border-width: thin;
+	border-width: 1px;
 	border-color: #DDDDDD;
 	overflow: hidden;
 	position: relative;
@@ -354,16 +354,18 @@ a:hover{
 
 td{
 	border: dashed;
+	border-width: 1px;
 }<!-- test-->
 
 .date2{
 	width: 6em;
+	text-align: top;
 }
 	
 .notice{
 	background:none;
 	display: block;
-	padding-left:11px;
+	padding-left:21px;
 }
 	
 .notice a:hover{
