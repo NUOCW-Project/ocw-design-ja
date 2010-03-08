@@ -328,7 +328,7 @@ a:hover{
 	}
 
 .rank{
-	min-width: 2.8em;
+	min-width: 3.8em;
 	text-align: center;
 }
 
@@ -352,6 +352,10 @@ a:hover{
 	background-color: white;
 }
 
+td{
+	border: dashed;
+}<!-- test-->
+
 .date2{
 	width: 6em;
 }
@@ -363,7 +367,7 @@ a:hover{
 }
 	
 .notice a:hover{
-	background-image:url(../img/top/arrow_on.png);
+	background-image:url(../images/common/arrow_on.png);
 	background-repeat: no-repeat;
 	background-position: 0px 4px;
 }
