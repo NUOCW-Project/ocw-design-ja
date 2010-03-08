@@ -355,22 +355,17 @@ a:hover{
 .date2{
 	width: 6em;
 	text-align: top;
-	top: 0;
 }
 
 .notice a{
 	background: none;
 	padding-left: 11px;
 	display: block;
-	border: solid;
-	border-width: 1px;
-	border-color: blue;
 	background: none;
 }
 
 	.notice span{
-		border: dashed;
-		border-width: 1px;
+
 	}
 	
 	.notice a:hover{
