@@ -300,7 +300,7 @@ a:hover{
 	margin-left: 1ex;
 	padding: 0.5em;
 	border-style: solid;
-	border-width: thin;
+	border-width: 2px;
 	width:100px;
 }
 
@@ -352,27 +352,31 @@ a:hover{
 	background-color: white;
 }
 
-td{
+<!--td{
 	border: dashed;
 	border-width: 1px;
-}<!-- test-->
+} test-->
 
 .date2{
 	width: 6em;
 	text-align: top;
 }
-	
+
 .notice{
-	background:none;
-	display: block;
-	padding-left:21px;
+	background: none;
 }
+
+	.notice span{
+		background: none;
+		display: block;
+		padding-left:11px;
+	}
 	
-.notice a:hover{
-	background-image:url(../images/common/arrow_on.png);
-	background-repeat: no-repeat;
-	background-position: 0px 4px;
-}
+	.notice a:hover{
+		background-image:url(../images/common/arrow_on.png);
+		background-repeat: no-repeat;
+		background-position: 0px 4px;
+	}
 
 /* 以下コースホーム関連 */
 
