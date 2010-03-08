@@ -357,15 +357,18 @@ a:hover{
 	text-align: top;
 }
 
-.notice{
+.notice a{
 	background: none;
 	padding: 0;
+	border: solid;
+	border-width: 1px;
+	border-color: blue;
 }
 
 	.notice span{
 		background: none;
 		display: block;
-		padding-left:11px;
+		margin-left:11px;
 		border: dashed;
 		border-width: 1px;
 	}
