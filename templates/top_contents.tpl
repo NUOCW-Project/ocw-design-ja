@@ -68,17 +68,17 @@
   <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
   <img src="./images/common/dots.png" />
-    <table class="notice">
+    <table>
      <tr>
-	<td>-2009/12/24</td>
-	<td><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a></td>
+	<td class="date2">-2009/12/24</td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a></td>
      </tr>
      <tr>
-	<td>-2009/12/24</td>
-	<td><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
+	<td class="date2">-2009/12/24</td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
      </tr>
-	<td>-2009/12/24</td>
-	<td><a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
+	<td class="date2">-2009/12/24</td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
      </tr>
     </table>
 </div><!-- 「お知らせ」end  -->
@@ -90,12 +90,14 @@
       <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
   <img src="./images/common/dots.png" />
-    <table class="notice">
+    <table>
      <tr>
-	<td>-2009/12/24</td>
-	<td>新デザインになりました。<a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開しました。</a></td>
+	<td class="date2">-2009/12/24</td>
+	<td class="notice">新デザインになりました。</td>
+     <tr>
+	<td class="date2"><br /></td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開しました。</a></td>
      </tr>
     </table>
 </div><!-- 「プレスリリース」end -->
 </div>
-
