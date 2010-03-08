@@ -300,7 +300,7 @@ a:hover{
 	margin-left: 1ex;
 	padding: 0.5em;
 	border-style: solid;
-	border-width: 2px;
+	border-width: 1px;
 	width:100px;
 }
 
@@ -355,20 +355,20 @@ a:hover{
 .date2{
 	width: 6em;
 	text-align: top;
+	top: 0;
 }
 
 .notice a{
 	background: none;
-	padding: 0;
+	padding-left: 11px;
+	display: block;
 	border: solid;
 	border-width: 1px;
 	border-color: blue;
+	background: none;
 }
 
 	.notice span{
-		background: none;
-		display: block;
-		margin-left:11px;
 		border: dashed;
 		border-width: 1px;
 	}
