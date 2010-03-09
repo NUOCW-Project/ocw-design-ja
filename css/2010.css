@@ -328,7 +328,7 @@ a:hover{
 	}
 
 .rank{
-	min-width: 3.8em;
+	width: 2.8em;
 	text-align: center;
 }
 
@@ -336,21 +336,25 @@ a:hover{
 	width: 40%;
 }
 
-.prim td{
-	padding: 1em 0em;
-	background-color: #FFF3E3;
+table{
+	border: none;
 }
 
-.sec{
-	padding: 1em 0em;
-	background-color: white;
-}
+	.prim td{
+		padding: 1em 0em;
+		background-color: #FFF3E3;
+	}
 
-.quat{
-	padding: 0;
-	margin: 0;
-	background-color: white;
-}
+	.sec td{
+		padding: 1em 0em;
+		background-color: white;
+	}
+
+	.quat{
+		padding: 0;
+		margin: 0;
+		background-color: white;
+	}
 
 .date2{
 	width: 6em;
@@ -363,16 +367,18 @@ a:hover{
 	display: block;
 	background: none;
 }
-
-	.span{
-
-	}
 	
 	.notice a:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: 0px 4px;
+		background-position: 0px 0px;
 	}
+
+.notice span{
+	padding-left: 11px;
+	display: block;
+	}
+
 
 /* 以下コースホーム関連 */
 
