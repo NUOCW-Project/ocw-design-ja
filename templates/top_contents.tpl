@@ -71,7 +71,7 @@
     <table>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index"><span>数理科学展望I【高橋雅英教授】を公開しました。</span></a></td>
+	<a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index" class="notice"><td><span>数理科学展望I【高橋雅英教授】を公開しました。</span></td></a>
      </tr>
      <tr>
 	<td class="date2">-2009/12/24</td>
