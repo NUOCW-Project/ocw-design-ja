@@ -71,14 +71,14 @@
     <table>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index" class="notice"><td><span>数理科学展望I【高橋雅英教授】を公開しました。</span></td></a>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a></td>
      </tr>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index"><span>グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</span></a></td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
      </tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index"><span>グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</span></a></td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
      </tr>
     </table>
 </div><!-- 「お知らせ」end  -->
@@ -96,7 +96,7 @@
 	<td class="notice"><span>新デザインになりました。</span></td>
      <tr>
 	<td class="date2"><br /></td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index"><span>情報リテラシー【横井茂樹教授】を公開しました。</span></a></td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開しました。</a></td>
      </tr>
     </table>
 </div><!-- 「プレスリリース」end -->

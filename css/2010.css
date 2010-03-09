@@ -357,14 +357,14 @@ a:hover{
 	text-align: top;
 }
 
-.notice{
+.notice a{
 	background: none;
 	padding-left: 11px;
 	display: block;
 	background: none;
 }
 
-	.notice span{
+	.span{
 
 	}
 	
