@@ -32,7 +32,14 @@
 {* 授業ホームの時のみコース情報を表示 *}
 {if $page_format.tpl_name=="index"}
 <div id="movie">
-   <img src="./images/common/sample_movie.jpg" id="movie" /><!-- 看板画像ダミー -->
+  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http:// download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="322" height="280">
+    <param name="movie" value="ocw_test-2.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="transparent" />
+    <param name="FlashVars" value="FLV_URL={$course_info.vsyllabus_rtmp}&IMG_URL={$issuance_web_path}/images/common/sample_movie.jpg" />
+            
+    <embed src="player.swf" FlashVars="FLV_URL={$course_info.vsyllabus_rtmp}&IMG_URL={$issuance_web_path}/images/common/sample_movie.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="322" height="280"></embed>
+  </object>
 </div><!-- "movie" end -->
     
 <div id="caption">
