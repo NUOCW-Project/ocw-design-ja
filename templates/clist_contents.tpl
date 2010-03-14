@@ -14,7 +14,7 @@
 {include file="sort_selection.tpl"}
 
 {* 結果表示 *}
-{literal}{if $sort_selected=="department"} 
+{literal}{if $sort_selected=="department"} {/literal}
   {* 全部局で部局別ソート *}
   {include file="sort_course_table_dep_order.tpl"}
 {literal}{elseif $sort_selected=="certain_department"}{/literal}
