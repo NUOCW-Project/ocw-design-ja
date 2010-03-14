@@ -315,7 +315,7 @@ a:hover{
 	border-color: #DDDDDD;
 	overflow: hidden;
 	position: relative;
-	width: 305px;
+	width: 300px;
 	padding: 1ex;
 }
 
@@ -331,7 +331,7 @@ a:hover{
 		border-style: solid;
 		border-width: thick;
 		border-color: #FFF3E3;
-		margin: 1ex 1ex 0 330px;
+		margin: 1ex 1ex 0 340px;
 	}
 
 .rank{
