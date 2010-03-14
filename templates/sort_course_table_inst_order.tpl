@@ -1,6 +1,6 @@
 {literal}
 <h3>{$title}</h3>
-{if  $num_of_course > 0}
+{if  $result.num_of_course > 0}
 <table  class = "mytable" >
 <tr>
 <th>教員名</th>
@@ -10,8 +10,8 @@
 <th>ビデオ</th>
 <th>その他</th>
 </tr>
-{foreach item = each_course  from = $result name = $title} 
-	<tr class="{cycle name = $title values='odd,even'}">
+{foreach item = each_course  from = $result.courses name = $result.title} 
+	<tr class="{cycle name = $result.title values='odd,even'}">
 	{if $id_old != $each_course.instructor_id }
 		<td id= instructor{$each_course.instructor_id} >{$each_course.instructor_name}</td>
 	{else}
@@ -38,7 +38,7 @@
 	</tr>
 {/foreach}
 </table>
-<p># of course is {$num_of_course}</p>
+<p># of course is {$result.num_of_course}</p>
 {else}
 <p>該当するコースはございません。</p>
 {/if}

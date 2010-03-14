@@ -1,6 +1,6 @@
 {literal}
-<h3>{$dep_and_data[0]}</h3>
-{if  $num_of_course > 0}
+<h3>{$dep_and_data.title}</h3>
+{if  $dep_and_data.num_of_course > 0}
 <table  class = "mytable" >
 <tr>
 <th>コース名</th>
@@ -10,8 +10,8 @@
 <th>ビデオ</th>
 <th>その他</th>
 </tr>
-{foreach item = each_course  from = $dep_and_data[1] }
-	<tr class="{cycle name =$dep_and_data[0]  values='odd,even'}">
+{foreach item = each_course  from = $dep_and_data.courses }
+	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
 
 	<td><a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a></td>
 	<td>{$each_course.year}</td>

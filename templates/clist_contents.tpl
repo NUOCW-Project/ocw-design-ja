@@ -16,11 +16,15 @@
 {* 結果表示 *}
 {literal}{if $sort_selected=="department"} {/literal}
   {* 全部局で部局別ソート *}
-  {include file="sort_course_table_dep_order.tpl"}
+  {literal}{foreach item="dep_and_data" from=$courselist}{/literal}
+    {include file="sort_course_table_dep_order.tpl"}
+  {literal}{/foreach}{/literal}
 {literal}{elseif $sort_selected=="certain_department"}{/literal}
   {* 特定部局 *}
   {include file="sort_course_table_dep_order.tpl"}
 {literal}{elseif $sort_selected=="instructor"}{/literal}
   {* 全部局で教員別ソート *}
-  {include file="sort_course_table_inst_order.tpl"}
+  {literal}{foreach item="result" from=$courselist}{/literal}
+    {include file="sort_course_table_inst_order.tpl"}
+  {literal}{/foreach}{/literal}
 {literal}{/if}{/literal}
