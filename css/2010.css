@@ -324,15 +324,14 @@ a:hover{
 		border-width: thick;
 		border-color: #FFF3E3;
 		margin: 1ex 1ex 0 0;
+		float: left;
 	}
 
 	.waku_r{
 		border-style: solid;
 		border-width: thick;
 		border-color: #FFF3E3;
-		clear: right; /* "プレスりりーす"を"お知らせ"の下に */
-		float: right; /* "プレスりりーす","お知らせ"を右寄せ */
-		margin: 1ex 1ex 0 0;
+		margin: 1ex 320px 0 0;
 	}
 
 .rank{
