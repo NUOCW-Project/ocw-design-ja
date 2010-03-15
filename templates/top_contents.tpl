@@ -62,6 +62,7 @@
 </div>
 </div>
 
+<div id="r_side">
 <div class="waku">
 <div class="topics"><!-- ボックス「お知らせ」-->
   <img src="./images/{$lang}/t_news.png" class="subheading" />
@@ -101,3 +102,13 @@
     </table>
 </div><!-- 「プレスリリース」end -->
 </div>
+</div> <!-- "r_side" end -->
+
+<script type="text/javascript">
+<!--
+
+var Takasa=$("#r_side").outerHeight();
+document.write("「お知らせ」「プレスリリース」の高さの合計は" + Takasa + "pxです.");
+
+// -->
+</script>
