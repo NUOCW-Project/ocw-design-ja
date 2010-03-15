@@ -31,46 +31,6 @@
       <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div><!-- "greeting" end -->
 
-<div class="waku_r">
-<div class="topics"><!-- ボックス「お知らせ」-->
-  <img src="./images/{$lang}/t_news.png" class="subheading" />
-  <img src="./images/{$lang}/backno.png" class="jump" />
-  <br />
-  <img src="./images/common/dots.png" />
-    <table>
-     <tr>
-	<td class="date2">-2009/12/24</td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a></td>
-     </tr>
-     <tr>
-	<td class="date2">-2009/12/24</td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
-     </tr>
-	<td class="date2">-2009/12/24</td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
-     </tr>
-    </table>
-</div><!-- 「お知らせ」end  -->
-</div>
-
-<div class="waku_r">
-<div class="topics"><!-- ボックス「プレスリリース」-->
-  <img src="./images/{$lang}/t_release.png" class="subheading" />
-      <img src="./images/{$lang}/backno.png" class="jump" />
-  <br />
-  <img src="./images/common/dots.png" />
-    <table>
-     <tr>
-	<td class="date2">-2009/12/24</td>
-	<td class="notice"><span>新デザインになりました。</span></td>
-     <tr>
-	<td class="date2"><br /></td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開しました。</a></td>
-     </tr>
-    </table>
-</div><!-- 「プレスリリース」end -->
-</div>
-
 <div class="waku">
 <div class="topics"><!-- ボックス「アクセスランキング」 -->
 	<img src="./images/{$lang}/t_ranking.png" class="subheading" />
@@ -100,4 +60,44 @@
 	{/literal}
 	</table>
 </div>
+</div>
+
+<div class="waku">
+<div class="topics"><!-- ボックス「お知らせ」-->
+  <img src="./images/{$lang}/t_news.png" class="subheading" />
+  <img src="./images/{$lang}/backno.png" class="jump" />
+  <br />
+  <img src="./images/common/dots.png" />
+    <table>
+     <tr>
+	<td class="date2">-2009/12/24</td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a></td>
+     </tr>
+     <tr>
+	<td class="date2">-2009/12/24</td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
+     </tr>
+	<td class="date2">-2009/12/24</td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
+     </tr>
+    </table>
+</div><!-- 「お知らせ」end  -->
+</div>
+
+<div class="waku">
+<div class="topics"><!-- ボックス「プレスリリース」-->
+  <img src="./images/{$lang}/t_release.png" class="subheading" />
+      <img src="./images/{$lang}/backno.png" class="jump" />
+  <br />
+  <img src="./images/common/dots.png" />
+    <table>
+     <tr>
+	<td class="date2">-2009/12/24</td>
+	<td class="notice"><span>新デザインになりました。</span></td>
+     <tr>
+	<td class="date2"><br /></td>
+	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開しました。</a></td>
+     </tr>
+    </table>
+</div><!-- 「プレスリリース」end -->
 </div>

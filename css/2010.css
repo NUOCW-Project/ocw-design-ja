@@ -327,13 +327,6 @@ a:hover{
 		float: left;
 	}
 
-	.waku_r{
-		border-style: solid;
-		border-width: thick;
-		border-color: #FFF3E3;
-		margin: 1ex 1ex 0 340px;
-	}
-
 .rank{
 	width: 2.8em;
 	text-align: center;
