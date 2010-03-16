@@ -328,9 +328,9 @@ a:hover{
 
 #r_side{
 	float: right;
-	border-style: dotted;
+	border-style: dashed;
 	boder-width: 1px;
-	boder-color: yellow;
+	boder-color: blue;
 }
 
 .rank{
