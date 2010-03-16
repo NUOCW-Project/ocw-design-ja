@@ -321,16 +321,17 @@ a:hover{
 
 	.waku{
 		border-style: solid;
-		border-width: thick;
+		border-width: 5px;
 		border-color: #FFF3E3;
+		width: 302px;
 		margin: 1ex 1ex 0 0;
 	}
 
 #r_side{
 	float: right;
 	border-style: dashed;
-	boder-width: 1px;
-	boder-color: blue;
+	border-width: 1px;
+	border-color: blue;
 }
 
 .rank{
