@@ -309,30 +309,42 @@ a:hover{
 		text-align: center;
 	}
 
-.topics{
+.notice{
+	float: right;
 	border-style: solid;
-	border-width: 1px;
-	border-color: #DDDDDD;
-	overflow: hidden;
-	position: relative;
-	width: 300px;
-	padding: 1ex;
+	border-width: 5px;
+	border-color: #FFF3E3;
+	width: 310px;
+	margin: 1ex 1ex 0 0;
+}
+
+.press{
+	clear: right;
+	float: right;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FFF3E3;
+	width: 310px;
+	margin: 1ex 1ex 0 0;
+}
+
+.access{
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FFF3E3;
+	width: 310px;
+	margin: 1ex 1ex 0 0;
 }
 
 	.waku{
 		border-style: solid;
-		border-width: 5px;
-		border-color: #FFF3E3;
-		width: 302px;
-		margin: 1ex 1ex 0 0;
+		border-width: 1px;
+		border-color: #DDDDDD;
+		overflow: hidden;
+		position: relative;
+		width: 300px;
+		padding: 1ex;
 	}
-
-#r_side{
-	float: right;
-	border-style: dashed;
-	border-width: 1px;
-	border-color: blue;
-}
 
 .rank{
 	width: 2.8em;
@@ -368,20 +380,20 @@ table{
 	text-align: top;
 }
 
-.notice a{
+.article a{
 	background: none;
 	padding-left: 11px;
 	display: block;
 	background: none;
 }
 	
-	.notice a:hover{
+	.article a:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
 		background-position: 0px 0px;
 	}
 
-.notice span{
+.article span{
 	padding-left: 11px;
 	display: block;
 	}

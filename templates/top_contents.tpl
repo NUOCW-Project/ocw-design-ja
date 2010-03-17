@@ -31,9 +31,8 @@
       <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div><!-- "greeting" end -->
 
-<div id="r_side">
-<div class="waku">
-<div class="topics"><!-- ボックス「お知らせ」-->
+<div id="notice">
+<div class="waku"><!-- ボックス「お知らせ」-->
   <img src="./images/{$lang}/t_news.png" class="subheading" />
   <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
@@ -41,21 +40,21 @@
     <table>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a></td>
+	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a></td>
      </tr>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
+	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
      </tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
+	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
      </tr>
     </table>
 </div><!-- 「お知らせ」end  -->
 </div>
 
-<div class="waku">
-<div class="topics"><!-- ボックス「プレスリリース」-->
+<div id="press">
+<div class="waku"><!-- ボックス「プレスリリース」-->
   <img src="./images/{$lang}/t_release.png" class="subheading" />
       <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
@@ -63,18 +62,26 @@
     <table>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="notice"><span>新デザインになりました。</span></td>
+	<td class="article"><span>新デザインになりました。</span></td>
      <tr>
 	<td class="date2"><br /></td>
-	<td class="notice"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開しました。</a></td>
+	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開しました。</a></td>
      </tr>
     </table>
 </div><!-- 「プレスリリース」end -->
 </div>
-</div> <!-- "r_side" end -->
 
-<div class="waku">
-<div class="topics"><!-- ボックス「アクセスランキング」 -->
+<script type="text/javascript">
+<!--
+
+var Takasa=$("#notice").outerHeight()+$("#press").outerHeight();
+document.write("「お知らせ」「プレスリリース」の高さの合計は" + Takasa + "pxです.");
+
+// -->
+</script>
+
+<div id="access">
+<div class="waku"><!-- ボックス「アクセスランキング」 -->
 	<img src="./images/{$lang}/t_ranking.png" class="subheading" />
 	 <br />
  	<img src="./images/common/dots.png" />
@@ -103,12 +110,3 @@
 	</table>
 </div>
 </div>
-
-<script type="text/javascript">
-<!--
-
-var Takasa=$("#r_side").outerHeight();
-document.write("「お知らせ」「プレスリリース」の高さの合計は" + Takasa + "pxです.");
-
-// -->
-</script>
