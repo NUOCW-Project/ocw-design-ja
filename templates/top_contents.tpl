@@ -31,8 +31,8 @@
       <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div><!-- "greeting" end -->
 
-<div id="notice">
-<div class="waku"><!-- ボックス「お知らせ」-->
+<div id="notice"><!-- ボックス「お知らせ」-->
+<div class="waku">
   <img src="./images/{$lang}/t_news.png" class="subheading" />
   <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
@@ -50,8 +50,8 @@
 	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=38&amp;page_type=index">グローバルCOE系統講義(医学部)【高橋雅英教授】を公開しました。</a></td>
      </tr>
     </table>
-</div><!-- 「お知らせ」end  -->
 </div>
+</div><!-- 「お知らせ」end  -->
 
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
