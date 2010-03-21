@@ -466,6 +466,7 @@ table{
   margin-bottom: 0;
   width: 110px;
   float: left;
+  border: dotted;
 }
 
 /* 以下フッター関連 */
