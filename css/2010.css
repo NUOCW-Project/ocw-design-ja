@@ -438,8 +438,11 @@ table{
 	clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
 }
 
+.e_text {
+  padding-left: 110px;
+}
+
 .e_text p, .e_text ul, .e_text ol, .e_text dl, .e_text table {
-	margin-left: 110px;
 	margin-bottom: 1em;
 }
 
@@ -457,7 +460,9 @@ table{
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 0px;
-	margin: 0;
+	margin-left: -110px;
+  margin-right: 0;
+  margin-top: 0;
 	float: left;
 }
 
