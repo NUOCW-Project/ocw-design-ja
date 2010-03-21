@@ -28,6 +28,7 @@
 {/strip}
 <br />
 <img src="./images/common/redline.gif" id="line1" /><!-- 水平線(上) -->
+{$course_info.vsyllabus_rtmp}
 
 {* 授業ホームの時のみコース情報を表示 *}
 {if $page_format.tpl_name=="index"}
