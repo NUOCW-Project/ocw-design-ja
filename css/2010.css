@@ -439,7 +439,7 @@ table{
 }
 
 .e_text {
-  padding-left: 120px;
+  padding-left: 150px;
 }
 
 .e_text p, .e_text ul, .e_text ol, .e_text dl, .e_text table {
@@ -460,11 +460,11 @@ table{
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 0px;
-	margin-left: -115px;
+	margin-left: -145px;
   margin-right: 0;
   margin-top: 0;
   margin-bottom: 0;
-  width: 90px;
+  width: 110px;
   float: left;
   border: dotted;
 }
