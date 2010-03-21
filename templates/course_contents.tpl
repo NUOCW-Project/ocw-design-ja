@@ -41,7 +41,7 @@
             
     <embed src="./player.swf" FlashVars="FLV_URL={$course_info.vsyllabus_rtmp}&IMG_URL={$issuance_web_path}/files/{$course_id}/{$course_info.imgfile}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="322" height="280"></embed>
   </object>
-  {elseif $course_info.img_file != ''}
+  {elseif $course_info.imgfile != ''}
     <img src="{$course_info.imgfile}" alt="" width="300" height="187">
   {/if}
 </div><!-- "movie" end -->
