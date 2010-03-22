@@ -13,7 +13,7 @@
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 	
-	<table class="center_contents" width="455">
+	<table class="center_contents" width="555">
 		<tbody>
 
 		<tr>
@@ -23,13 +23,13 @@
 			<th width="130">コース名</th>
 			<th class="center">視聴<br>ボタン</th>
 			<th width="80">学部・研究科</th>
-			<th>担当講師名</th>
+			<th width="80">担当講師名</th>
             {else}
 			<th></th>
 			<th width="130">Course name</th>
 			<th></th>
 			<th width="80">Department</th>
-			<th>Lecturer</th>
+			<th width="80">Lecturer</th>
             {/if}
 		</tr>
 		<tr>
