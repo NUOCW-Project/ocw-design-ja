@@ -42,11 +42,29 @@
 		{else}<tr class="even">{/if}
 		
 			<td>{$smarty.foreach.vs_loop.iteration}</td>
-			<td>{vsyllabus_img id=$vs.vsyllabus_id alt=""}</td>
+			<td>{if $vs.url_flv != NULL}
+				<a href="{$vs.url_flv}" target="flame">
+		 	    {/if}
+			    {vsyllabus_img id=$vs.vsyllabus_id alt=""}
+			    {if $vs.url_flv != NULL}
+				</a>
+		 	    {/if}
+			</td>
 			<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.vsyllabus_id}&amp;page_type=index">{$vs.course_name}
                              {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span></a>{/if}</td>
-			<td class="center">{if $vs.url_flv != NULL}
-					<a href="{$vs.url_flv}" target="flame"><img src="./images/common/play.jpg"></a>{/if}<br></td>
+			<td class="center">
+			　　 {if $vs.url_flv != NULL}
+				<noscript>（新しいウィンドウを開きます）</noscript>
+				<script type="text/javascript" charset="" src="popupwin.js">
+				<a fref="{$vs.url_flv}"
+				 onclick="openWin('{$vs.url_flv}');return false;"
+				 onkeypress="openWin('{$vs.url_flv}');return false;"
+				 title="新しいウィンドウを開きます" target="flame">
+				  <img src="./images/common/play.jpg">
+				</a>
+				</script>
+			     {/if}<br>
+			</td>
 
 			<td class="left">{$vs.department_name}</td>
 			<td class="left">{$vs.instructor_name}</td>
