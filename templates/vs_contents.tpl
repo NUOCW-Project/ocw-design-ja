@@ -21,7 +21,7 @@
             {if $lang=='ja'}
 			<th></th>
 			<th width="130">コース名</th>
-			<th>視聴ボタン</th>
+			<th class="center">視聴<br>ボタン</th>
 			<th width="80">学部・研究科</th>
 			<th>担当講師名</th>
             {else}
@@ -43,7 +43,7 @@
 		
 			<td>{$smarty.foreach.vs_loop.iteration}</td>
 			<td>{vsyllabus_img id=$vs.vsyllabus_id alt=""}</td>
-			<td class="left">{$vs.course_name}
+			<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.vsyllabus_id}&amp;page_type=index>{$vs.course_name}</a>
                              {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span>{/if}</td>
 			<td class="center">{if $vs.url_flv != NULL}
 					<a href="{$vs.url_flv}" target="flame"><img src="./images/common/play.jpg"></a>{/if}<br></td>
@@ -74,33 +74,6 @@
 	</p>
 	</div>
 	
-	<!-- ------関連リンク部分------ -->
-	<table class="center_contents" width="450" border="0" cellpadding="0" cellspacing="0" summary="">
-	<tr>
-		<td width="10" height="15"><img src="./images/common/gray01.gif" alt=""></td>
-		<td width="30" height="15" class="td_top_gray"></td>
-		<td width="10" height="15"><img src="./images/common/gray03.gif" alt=""></td>
-	</tr>
-	<tr>
-		<td width="10" class="td_left_gray"></td>
-		<td class="td_contents_gray">    
-		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<p>{if $lang=='ja'}●関連リンク{else}&loz; Related Link{/if}</p>
-		<!-- 関連リンクデータ -->
-		<p><a href="http://www.media.nagoya-u.ac.jp/">{if $lang=='ja'}情報メディア教育センター{else}Center for Information Media Studies{/if}</a></p>
-		<!-- 関連リンクデータ -->
-		</div>	<!-- 関連リンクコンテンツセル終了 -->
-		</td>
-		<td width="10" class="td_right_gray"></td>
-	</tr>
-	<tr>
-		<td width="10" height="15"><img src="./images/common/gray06.gif" alt=""></td>
-		<td width="430" height="15" class="td_under_gray"></td>
-		<td width="10" height="15"><img src="./images/common/gray08.gif" alt=""></td>
-	</tr>
-
-	</table>
-	<!-- ------関連リンク部分ここまで------ -->
 
 	</div>	<!-- コンテンツセル終了 -->
 
