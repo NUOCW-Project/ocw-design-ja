@@ -4,9 +4,9 @@
 <table  class = "mytable">
 <tr>
 <th width="350">コース名</th>
-<th width="50">開講年度</th>
-<th width="120">教員名</th>
-<th width="40">その他</th>
+<th width="60">開講年度</th>
+<th>教員名</th>
+<th>その他</th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses }
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
