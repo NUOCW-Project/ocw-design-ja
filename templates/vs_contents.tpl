@@ -2,10 +2,10 @@
 {include file="com_dept.tpl"}
 
 <div class="center_contents"><!-- 中核のボックス --> 
-<table class="center_contents" width="485" border="0" cellpadding="0" cellspacing="0" summary="">
+<table class="center_contents" width="585" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="465" height="15" class="td_top"></td>
+	<td width="565" height="15" class="td_top"></td>
 	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
 </tr>
 <tr>
@@ -13,7 +13,7 @@
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 	
-	<table class="center_contents" width="555">
+	<table class="center_contents" width="">
 		<tbody>
 
 		<tr>
@@ -24,7 +24,7 @@
 			<th class="center">視聴<br>ボタン</th>
 			<th width="80">学部・研究科</th>
 			<th width="80">担当講師名</th>
-            {else}
+            {elseif $lang=='en'}
 			<th></th>
 			<th width="130">Course name</th>
 			<th></th>
@@ -43,13 +43,13 @@
 		
 			<td>{$smarty.foreach.vs_loop.iteration}</td>
 			<td>{vsyllabus_img id=$vs.vsyllabus_id alt=""}</td>
-			<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.vsyllabus_id}&amp;page_type=index>{$vs.course_name}</a>
-                             {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span>{/if}</td>
+			<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.vsyllabus_id}&amp;page_type=index">{$vs.course_name}
+                             {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span></a>{/if}</td>
 			<td class="center">{if $vs.url_flv != NULL}
 					<a href="{$vs.url_flv}" target="flame"><img src="./images/common/play.jpg"></a>{/if}<br></td>
 
 			<td class="left">{$vs.department_name}</td>
-			<td>{$vs.instructor_name}</td>
+			<td class="left">{$vs.instructor_name}</td>
 		</tr>
 		{/foreach}
 
