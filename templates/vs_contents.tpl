@@ -20,16 +20,16 @@
 			<th></th>
             {if $lang=='ja'}
 			<th></th>
-			<th width="130">コース名</th>
+			<th width="180">コース名</th>
 			<th class="center">視聴<br>ボタン</th>
-			<th width="80">学部・研究科</th>
-			<th width="80">担当講師名</th>
+			<th width="100">学部・研究科</th>
+			<th width="100">担当講師名</th>
             {elseif $lang=='en'}
 			<th></th>
-			<th width="130">Course name</th>
+			<th width="180">Course name</th>
 			<th></th>
-			<th width="80">Department</th>
-			<th width="80">Lecturer</th>
+			<th width="100">Department</th>
+			<th width="100">Lecturer</th>
             {/if}
 		</tr>
 		<tr>
@@ -70,7 +70,7 @@
     <p>FlashPlayer can be downloaded from the following URL:
     {/if}
 	<p>
-	  <a href="http://www.adobe.com/go/getflashplayer_jp" target="_blank"><img src="./images/common/get_adobe_reader.gif" alt="{if $lang=='ja'}FlashPlayer ダウンロードサイトへ{elseif $lang=='en'}Download FlashPlayer{/if}" border="0" height="31" width="88"></a>
+	  <a href="http://www.adobe.com/go/getflashplayer_jp" target="_blank"><img src="./images/common/get_flash_player.gif" alt="{if $lang=='ja'}FlashPlayer ダウンロードサイトへ{elseif $lang=='en'}Download FlashPlayer{/if}" border="0" height="31" width="88"></a>
 	</p>
 	</div>
 	
