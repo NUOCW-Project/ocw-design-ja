@@ -1,4 +1,4 @@
-<img src="./images/{$lang}/header_coursehome.jpg" />
+<img src="./images/{$lang}/header_courselist.jpg" />
 
 {include file="com_dept.tpl"}
 
