@@ -35,7 +35,7 @@
   <img src="./images/{$lang}/m03resources.gif" 
        onMouseOver="this.src='./images/{$lang}/m03resources_on.gif'" 
        onMouseOut="this.src='./images/{$lang}/m03resources.gif'"><!--¥¿¥°²èÁü¡Ö¹ÖµÁ»ñÎÁ¡×-->
-{if}
+{/if}
   </a>
 {/strip}
 <br />
