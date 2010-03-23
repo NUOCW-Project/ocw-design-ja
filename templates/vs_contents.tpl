@@ -1,5 +1,4 @@
 {include file="com_navi.tpl"}
-{include file="com_dept.tpl"}
 
 <div class="center_contents"><!-- 中核のボックス --> 
 <table class="center_contents" width="585" border="0" cellpadding="0" cellspacing="0" summary="">
