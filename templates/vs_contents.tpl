@@ -66,7 +66,10 @@
 			     {/if}<br>
 			</td>
 
-			<td class="left">{$vs.department_name}</td>
+			<td class="left">
+				<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.dept_abbr}">{$vs.department_name}
+				</a>
+			</td>
 			<td class="left">{$vs.instructor_name}</td>
 		</tr>
 		{/foreach}
