@@ -213,6 +213,7 @@ a:hover{
 	width: 930px;
 	background-color: white;
 	padding: 0px;
+	border:dotted;
 }
 
 #departmentslist{
