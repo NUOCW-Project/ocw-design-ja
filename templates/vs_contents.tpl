@@ -13,16 +13,16 @@
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
 	
-	<table class="center_contents" width="">
+	<table class="center_contents" width="480">
 		<tbody>
 
 		<tr>
-			<th></th>
+			<th width="10" class="center"></th>
             {if $lang=='ja'}
-			<th></th>
+			<th widh="30" class="center"></th>
 			<th width="180">コース名</th>
-			<th class="center">視聴<br>ボタン</th>
-			<th width="100">学部・研究科</th>
+			<th width="20" class="center">視聴<br>ボタン</th>
+			<th width="150">学部・研究科</th>
 			<th width="100">担当講師名</th>
             {elseif $lang=='en'}
 			<th></th>
