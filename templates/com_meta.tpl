@@ -6,6 +6,7 @@
 <link rel="stylesheet" type="text/css" href="css/2010.css">
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/toggle.js"></script>
+<script type="text/javascript" src="./js/openWin.js"></script>
 
 <title>
 {if $lang=='ja'}
