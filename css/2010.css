@@ -598,6 +598,21 @@ span.b{
 	font-weight: bold; 
 }
 
+/* 1Ê¬´Ö¼ø¶È¾Ò²ð&PodCast */
+div.center_contents{
+ float: left;
+ width:480px;
+ margin:0;
+ padding:0;
+}
+
+div.course_contents{
+ margin: 5px
+}
+
+div.realplayer{
+ margin: 40px 0;
+}
 
 /* ²Õ¾ò½ñ¤­ */
 ul.none{
@@ -669,6 +684,11 @@ table.basic th{
 	border: 1px solid #999999;
 }
 
+table.center_contents{
+ margin:0;
+ padding:0;
+}
+
 th.left{
 	font-size: large;
 	color: #DD0000;
@@ -730,8 +750,17 @@ td.center_gray p {
     text-align: center;
 }
 
+td.contents{
+	text-align:left;
+	vertical-align: top;
+}
+
 td.right{
 	text-align: right;
+}
+
+td.left{
+	text-alghn: left
 }
 
 td.right_gray{
