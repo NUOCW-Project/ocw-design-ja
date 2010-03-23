@@ -128,8 +128,9 @@ a:hover{
 	.header_button_input{
 	width: 130px;
 	position: relative;
-	left: 0px;
-	top: 0px;
+	left: 50px;
+	top: 50px;
+	border: dotted;
 	}
 
 				.header_button_input input{
