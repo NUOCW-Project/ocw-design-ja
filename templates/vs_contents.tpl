@@ -1,4 +1,5 @@
 {include file="com_navi.tpl"}
+{include file="left_menu_vs.tpl"}
 
 <div class="center_contents"><!-- 中核のボックス --> 
 <table class="center_contents" width="585" border="0" cellpadding="0" cellspacing="0" summary="">
