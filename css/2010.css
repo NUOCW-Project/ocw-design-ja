@@ -269,13 +269,13 @@ html>/**/body #contents{
 	margin-left: 200px;
 	background-color: white;
 	padding-left: 1ex;
-	margin-right: 25px;
+/*	margin-right: 25px;
 /*	max-width: 710px; */
 }
 
 #contents{
 	position:relative;
-	top: -500px;
+	top: -25px;
 	margin-left: 200px;
 	padding-left: 1ex;
 	margin-right: 25px;
