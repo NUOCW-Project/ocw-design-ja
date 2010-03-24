@@ -274,7 +274,7 @@ html>/**/body #contents{
 }
 
 #contents{
-	positon:relative;
+	position:relative;
 	top: -500px;
 	margin-left: 200px;
 	padding-left: 1ex;
