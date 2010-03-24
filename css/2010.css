@@ -213,7 +213,6 @@ a:hover{
 	width: 930px;
 	background-color: white;
 	padding: 0px;
-	border:dotted;
 }
 
 #departmentslist{
@@ -264,7 +263,7 @@ a:hover{
 				color: red;
 				font-size: 11.5px;
 			}
-#contents{
+html>/**/body #contents{
 	position:relative;
 	top:-25px;
 	margin-left: 200px;
@@ -274,6 +273,16 @@ a:hover{
 /*	max-width: 710px; */
 	border: dotted;
 }
+
+#contents{
+	positon:relative;
+	top: -100px;
+	margin-left: 200px;
+	padding-left: 1ex;
+	margin-right: 25px;
+}
+
+
 
 	.pankuzu{
 		min-height: 30px; 
