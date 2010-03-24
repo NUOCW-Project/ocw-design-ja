@@ -439,7 +439,6 @@ table{
 
 #main_text{
 	clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
-	border: dotted;
 }
 
 .e_text {
