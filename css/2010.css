@@ -271,15 +271,15 @@ html>/**/body #contents{
 	padding-left: 1ex;
 	margin-right: 25px;
 /*	max-width: 710px; */
-	border: dotted;
 }
 
 #contents{
 	positon:relative;
 	top: -100px;
-	margin-left: 200px;
+	margin-left: 210px;
 	padding-left: 1ex;
 	margin-right: 25px;
+	border: dotted;
 }
 
 
