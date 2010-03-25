@@ -339,6 +339,11 @@ a:hover{
 	margin: 6px 6px 0 0;
 }
 
+		#access div table{
+			position: absolute;
+			clip: rect(0px, 210px, 160px, 0px);
+		}
+
 	.waku{
 		border-style: solid;
 		border-width: 1px;
