@@ -87,7 +87,7 @@ document.write("「お知らせ」「プレスリリース」の高さの合計は" + Takasa + "pxです
 	 <br />
  	<img src="./images/common/dots.png" />
 
-	<table>
+	<table id="order">
 	<tr>
 		<td class="rank">順位</td>
 		<td>講義名</td>
