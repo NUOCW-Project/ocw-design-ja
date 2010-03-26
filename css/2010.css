@@ -298,9 +298,9 @@ a:hover{
 }
 
 #greeting{
-	float: left;
+	float: right;
 	margin-top: 15px;
-	margin-left: 1ex;
+	margin-left: 30px;
 	padding: 0.5em;
 	border-style: solid;
 	border-width: 1px;
@@ -332,6 +332,7 @@ a:hover{
 }
 
 #access{
+	clear: right;
 	float: left;
 	border-style: solid;
 	border-width: 6px;
