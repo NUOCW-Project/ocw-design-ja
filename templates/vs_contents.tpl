@@ -1,17 +1,11 @@
 {include file="com_navi.tpl"}
 {include file="left_menu_vs.tpl"}
 
-<div class="center_contents"><!-- 中核のボックス --> 
-<table class="center_contents" width="585" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="565" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
+<div id="contents"><!-- 中核のボックス -->
+
+{include file="com_navi.tpl"}<!-- パンくずリスト -->
+
+<div class="course_contents"><!-- コンテンツセル開始 -->
 	
 	<table class="center_contents" width="100%">
 		<tbody>
@@ -99,16 +93,6 @@
 	</div>
 	
 
-	</div>	<!-- コンテンツセル終了 -->
+</div>	<!-- コンテンツセル終了 -->
 
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="465" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
 </div>  <!-- センターコンテンツ終了 -->

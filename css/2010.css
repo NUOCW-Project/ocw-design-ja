@@ -606,9 +606,9 @@ span.b{
 	font-weight: bold; 
 }
 
-/* 1Ê¬´Ö¼ø¶È¾Ò²ð&PodCast */
+/*------------- 1Ê¬´Ö¼ø¶È¾Ò²ð&PodCast -----------*/
 div.center_contents{
- float: left;
+ float: right;
  width:480px;
  margin:0;
  padding:0;
