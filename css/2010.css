@@ -332,6 +332,7 @@ a:hover{
 }
 
 #access{
+	float: left;
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
