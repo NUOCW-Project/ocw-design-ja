@@ -607,19 +607,44 @@ span.b{
 }
 
 /*------------- 1Ê¬´Ö¼ø¶È¾Ò²ð&PodCast -----------*/
-div.center_contents{
- float: right;
- width:480px;
- margin:0;
- padding:0;
-}
 
 div.course_contents{
- margin: 5px
+	margin: 5px
 }
 
 div.realplayer{
- margin: 40px 0;
+	margin: 40px 0;
+}
+
+div.podcast{
+	margin: 25px 5px;
+	padding: 0;
+}
+
+td.td_left_gray{
+	backgrouond-image: url(../images/common/flame02.gif);
+	backgrouond-repeat: repeat-y;
+}
+
+td.td_right_gray{
+	backgrouond-image: url(../images/common/flame05.gif);
+	backgrouond-repeat: repeat-y;
+}
+
+td.td_top_gray{
+	backgrouond-image: url(../images/common/gray02.gif);
+	backgrouond-repeat: repeat-x;
+	backgrouond-position: top
+	backgrouond-color:#eeeeee;}
+
+td.td_under_gray{
+	backgrouond-image: url(../images/common/gray07.gif);
+	backgrouond-repeat: repeat-x;
+}
+
+td.td_contents_gray{
+	vertical-align: top;
+	backgrouond-color:#eeeeee;
 }
 
 /* ²Õ¾ò½ñ¤­ */
