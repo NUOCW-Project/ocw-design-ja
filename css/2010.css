@@ -314,6 +314,7 @@ a:hover{
 
 #notice{
 	clear: right;
+	float: left;
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
@@ -324,7 +325,7 @@ a:hover{
 
 #press{
 	clear: right;
-	/*float: right;*/
+	float: left;
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
