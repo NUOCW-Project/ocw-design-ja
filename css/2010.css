@@ -342,7 +342,7 @@ a:hover{
 		#order{
 			border: dotted;
 			position: absolute;
-			clip: rect(auto, auto, 560px, auto);
+			clip: rect(auto, auto, auto, auto);
 		}
 
 	.waku{
