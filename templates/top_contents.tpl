@@ -106,8 +106,8 @@
 <!--
 
 var Takasa = $("#notice").outerHeight() + $("#press").outerHeight();
-var Takasa1 = $("#press").outerHeight();
-var Takasa2 = $("#notice").outerHeight();
+var Takasa1 = $("#notice").outerHeight();
+var Takasa2 = $("#press").outerHeight();
 document.write("「お知らせ」「プレスリリース」の高さの合計は" + Takasa + "pxです.");
 document.write("「お知らせ」の高さは" + Takasa1 + "pxです.");
 document.write("「プレスリリース」の高さは" + Takasa2 + "pxです.");
