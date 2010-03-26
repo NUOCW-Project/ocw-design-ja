@@ -77,7 +77,7 @@
 	 <br />
  	<img src="./images/common/dots.png" />
 
-	<table>
+	<table id="rank_table">
 	<tr>
 		<td class="rank">順位</td>
 		<td>講義名</td>
@@ -107,7 +107,7 @@
 
 var Takasa=$("#notice").outerHeight()+$("#press").outerHeight();
 document.write("「お知らせ」「プレスリリース」の高さの合計は" + Takasa + "pxです.");
-var cssValue = $("#access" div).css("height", Takasa + "px");
+var cssValue = $("#access div").css("height", Takasa + "px");
 
 // -->
 </script>
