@@ -313,7 +313,7 @@ a:hover{
 	}
 
 #notice{
-	float: right;
+	clear: right;
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
