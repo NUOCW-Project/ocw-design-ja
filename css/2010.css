@@ -371,12 +371,12 @@ table{
 	border: none;
 }
 
-	#no1 td #no3 td{
+	.no1 td .no3 td{
 		padding: 1em 0em;
 		background-color: #FFF3E3;
 	}
 
-	#no2 td{
+	.no2 td{
 		padding: 1em 0em;
 		background-color: white;
 	}
