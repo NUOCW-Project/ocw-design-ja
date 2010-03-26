@@ -35,37 +35,46 @@
 		<tr>
 			<td class="separate" colspan="6"></td>
 		</tr>
-
 		{foreach from=$vsyllabus_list item="vs" name="vs_loop"}
 		{if $smarty.foreach.vs_loop.iteration is odd}
 		<tr class="odd">
-		{else}<tr class="even">{/if}
-		
-			<td>{$smarty.foreach.vs_loop.iteration}</td>
-			<td>{if $vs.url_flv != NULL}
-				<a href="{$vs.url_flv}" target="flame">
-		 	    {/if}
-			    {vsyllabus_img id=$vs.vsyllabus_id alt=""}
-			    {if $vs.url_flv != NULL}
+			{else}
+		<tr class="even">
+			{/if}
+		<td>{$smarty.foreach.vs_loop.iteration}</td>
+		<td>
+		{if $vs.url_flv != NULL}
+			<a href="{$vs.url_flv}" target="flame">
+		{/if}
+			{vsyllabus_img id=$vs.vsyllabus_id alt=""}
+		{if $vs.url_flv != NULL}
+			</a>
+		{/if}
+		</td>
+		<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.vsyllabus_id}&amp;page_type=index">{$vs.course_name}
+                {if $lang=='en'}
+			<span class="b">
+				{if $vs.lang=='ja'}(J){else}(E){/if}
+			</span>
 				</a>
-		 	    {/if}
-			</td>
-			<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.vsyllabus_id}&amp;page_type=index">{$vs.course_name}
-                             {if $lang=='en'}<span class="b">{if $vs.lang=='ja'}(J){else}(E){/if}</span></a>{/if}</td>
-			<td class="center">
-			　　 {if $vs.url_flv != NULL}
-				<img src="./images/common/play.jpg"
-          onclick="openWin('{$vs.url_flv}');return false;"
-				 onkeypress="openWin('{$vs.url_flv}');return false;"
-				 title="新しいウィンドウを開きます">
-			     {/if}<br>
-			</td>
-
-			<td class="left">
-				<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.dept_abbr}">{$vs.department_name}
-				</a>
-			</td>
-			<td class="left">{$vs.instructor_name}</td>
+		{/if}
+		</td>
+		<td class="center">
+		{if $vs.url_flv != NULL}
+			<noscript>（新しいウィンドウを開きます）</noscript>
+			<a href="{$vs.url_flv}"
+			 onclick="openWin('{$vs.url_flv}');return false;"
+			 onkeypress="openWin('{$vs.url_flv}');return false;"
+			 title="新しいウィンドウを開きます" target="flame">
+			<img src="./images/common/play.jpg">
+			</a>
+		{/if}<br>
+		</td>
+		<td class="left">
+			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.dept_abbr}">{$vs.department_name}
+			</a>
+		</td>
+		<td class="left">{$vs.instructor_name}</td>
 		</tr>
 		{/foreach}
 
@@ -74,7 +83,6 @@
     {if $lang=='en'}
     <p><span class="b">(E)</span> = Recorded in English.  <span class="b">(J)</span> = Recorded in Japanese.</p>
     {/if}
-
 
 	<div class="realplayer">
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
