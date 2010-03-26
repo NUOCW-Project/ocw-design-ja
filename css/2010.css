@@ -313,7 +313,7 @@ a:hover{
 	}
 
 #notice{
-	float: right;
+	/*float: right;*/
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
@@ -322,8 +322,8 @@ a:hover{
 }
 
 #press{
-	clear: right;
-	float: right;
+	/*clear: right;
+	float: right;*/
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
@@ -340,10 +340,9 @@ a:hover{
 	margin: 6px 6px 0 0;
 }
 
-		#order{
-			/*border: dotted;
+		#rank_table{
+			/*border: dotted;*/
 			position: absolute;
-			clip: rect(0px, 190px, 260px, 0px);*/
 		}
 
 	.waku{

@@ -31,6 +31,37 @@
       <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div><!-- "greeting" end -->
 
+<div id="access">
+<div class="waku"><!-- ボックス「アクセスランキング」 -->
+	<img src="./images/{$lang}/t_ranking.png" class="subheading" />
+	 <br />
+ 	<img src="./images/common/dots.png" />
+
+	<table id="rank_table">
+	<tr>
+		<td class="rank">順位</td>
+		<td>講義名</td>
+		<td class="name">教員名</td>
+	</tr>
+	{literal}
+	{foreach from=$ranking key=k item=v}
+		{if $v.rank == 1 || $v.rank == 3}
+			<tr class="prim">
+		{elseif $v.rank == 2}
+			<tr class="sec">
+		{else}
+			<tr class="quat">
+		{/if}
+		<td class="rank">{$v.rank}</td>
+		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
+		<td class="name">{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"教授":"Prof."}</td>
+		</tr>
+	{/foreach}
+	{/literal}
+	</table>
+</div>
+</div>
+
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
   <img src="./images/{$lang}/t_news.png" class="subheading" />
@@ -69,37 +100,6 @@
      </tr>
     </table>
 </div><!-- 「プレスリリース」end -->
-</div>
-
-<div id="access">
-<div class="waku"><!-- ボックス「アクセスランキング」 -->
-	<img src="./images/{$lang}/t_ranking.png" class="subheading" />
-	 <br />
- 	<img src="./images/common/dots.png" />
-
-	<table id="rank_table">
-	<tr>
-		<td class="rank">順位</td>
-		<td>講義名</td>
-		<td class="name">教員名</td>
-	</tr>
-	{literal}
-	{foreach from=$ranking key=k item=v}
-		{if $v.rank == 1 || $v.rank == 3}
-			<tr class="prim">
-		{elseif $v.rank == 2}
-			<tr class="sec">
-		{else}
-			<tr class="quat">
-		{/if}
-		<td class="rank">{$v.rank}</td>
-		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
-		<td class="name">{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"教授":"Prof."}</td>
-		</tr>
-	{/foreach}
-	{/literal}
-	</table>
-</div>
 </div>
 
 <script type="text/javascript">
