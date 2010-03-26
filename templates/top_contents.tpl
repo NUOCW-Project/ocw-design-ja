@@ -105,9 +105,9 @@
 <script type="text/javascript">
 <!--
 
-var Takasa=$("#notice").outerHeight()+$("#press").outerHeight();
+var Takasa = $("#notice").outerHeight()+$("#press").outerHeight();
 document.write("「お知らせ」「プレスリリース」の高さの合計は" + Takasa + "pxです.");
 var cssValue = $("#access div").css("height", Takasa + "px");
-
+var cssValue = $("rank_table").css("clip", "rect(0, auto, " + Takasa + "px, 0)");
 // -->
 </script>
