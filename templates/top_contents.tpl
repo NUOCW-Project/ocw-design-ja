@@ -76,7 +76,7 @@
 
 var Takasa=$("#notice").outerHeight()+$("#press").outerHeight();
 document.write("「お知らせ」「プレスリリース」の高さの合計は" + Takasa + "pxです.");
-
+var cssValue = $("#access" div).css("height", Takasa + "px");
 
 // -->
 </script>
