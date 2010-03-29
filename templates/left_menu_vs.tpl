@@ -1,6 +1,7 @@
 <!-- 名大の授業についてleftメニュー -->
 
-<div class="podcast">
+<div id="aboutpodcast" style="list-style:none">
+
 <table width="140" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
   <td width="10" height="15"><img src="./images/common/gray01.gif" alt=""></td>
