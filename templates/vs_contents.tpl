@@ -3,10 +3,7 @@
 
 <div id="contents"><!-- 中核のボックス -->
 
-{include file="com_navi.tpl"}<!-- パンくずリスト -->
-
 <div class="course_contents"><!-- コンテンツセル開始 -->
-	
 	<table class="center_contents" width="100%">
 		<tbody>
 
@@ -68,7 +65,11 @@
 			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.dept_abbr}">{$vs.department_name}
 			</a>
 		</td>
-		<td class="left">{$vs.instructor_name}</td>
+		<td class="left">
+			<a href="./courselist.php?sort=instructor#{$vs.instructor_id}">
+			{$vs.instructor_name}
+			</a>
+		</td>
 		</tr>
 		{/foreach}
 
