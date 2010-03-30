@@ -26,7 +26,6 @@
 	</tr>
 {/foreach}
 </table>
-<p># of course is {$result.num_of_course}</p>
 {else}
 <p>該当するコースはございません。</p>
 {/if}
