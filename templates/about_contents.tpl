@@ -1,4 +1,4 @@
-<img src="./images/ja/courselist.jpg" alt="名大の授業について">
+<img src="./images/ja/header_courselist.jpg" alt="名大の授業について">
 
 {include file="com_dept.tpl"}
 
@@ -116,31 +116,23 @@
                        <td><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
 			<td>
 			<p>
-	足立真訓<br>
-	市之瀬由佳<br>
-	伊藤大禮<br>
-	江草洋子<br>
-	王 毅駿<br>
-	是澤奈津美<br>
-	サイモン ジョンソン<br>
-	佐藤綾香<br>
-	白石美咲<br>
-	高橋知世<br>
-	高橋光成<br>
-	高橋祐人<br>
-	谷口純一<br>
-	鐘 揚<br>
-	寺田騰<br>
-	永井哲郎<br>
-	中島康貴<br>
-	中山佳洋<br>
-	林 祐衣<br>
-	福崎怜奈<br>
-	丸地和馬<br>
-	村松沙那恵<br>
-	山岡大祐<br>
-	山本幹人<br>
-	吉田映子<br>
+	足立真訓 多元数理科学研究科D1<br>
+	市之瀬由佳 文学部B3<br>
+	伊藤大禮 多元数理科学研究科M1<br>
+	王 毅駿 経済学部B2<br>
+	是澤奈津美 法学部B3<br>
+	サイモン ジョンソン シェフィールド大学<br>
+	佐藤綾香 情報文化学部B4<br>
+	高橋知世 情報文化学部B4<br>
+	高橋光成 理学部B2<br>
+	高橋祐人 多元数理科学研究科M2<br>
+	鐘 揚 工学部B4<br>
+	寺田騰 文学研究科D3<br>
+	永井哲郎 理学研究科D1<br>
+	林 祐衣 工学部B2<br>
+	村松沙那恵 工学部B4<br>
+	山岡大祐 理学部B2<br>
+	山本幹人 理学部B2<br>
 			</p>
 		</tr>
 		<tr>
