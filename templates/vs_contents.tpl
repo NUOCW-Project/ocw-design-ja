@@ -4,7 +4,7 @@
 <div id="contents"><!-- 中核のボックス -->
 
 <div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="80%">
+	<table class="center_contents" width="95%">
 		<tbody>
 
 		<tr>
