@@ -14,6 +14,7 @@ body{
 h2{
 	font-size: large;
 	color: #DD0000;
+	margin: 0px;
 	border: dotted;
 }
 
