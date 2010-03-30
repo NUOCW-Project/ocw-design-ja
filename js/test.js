@@ -46,6 +46,6 @@ $(function(){
 	}
 		i--;
 
-
+//	G = G - $("#no" + i).outerHeight(true); 
 	var cssValue = $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto");
 }

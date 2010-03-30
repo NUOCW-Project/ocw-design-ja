@@ -356,6 +356,10 @@ a:hover{
 			width: 95%;
 		}
 
+			#rank_table tr{
+				width 100%;
+			}
+
 		.rank{
 			width: 2.8em;
 			text-align: center;
