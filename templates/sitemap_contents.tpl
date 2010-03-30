@@ -1,4 +1,4 @@
-<img src="./imags/ja/header_sitemap.jpg" alt="サイトマップ">
+<img src="./images/ja/header_sitemap.jpg" alt="サイトマップ">
 
 <div id="contents">
 
