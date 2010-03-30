@@ -394,13 +394,13 @@ a:hover{
 }
 
 table{
-	border: 0;
+	border-style: none;
 	margin: 0;
 	padding: 0;
 }
 
 	td{
-		border: 0;
+		border-style: none;
 		margin: 0;
 		padding: 0;
 	}
