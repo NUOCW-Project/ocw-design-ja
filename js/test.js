@@ -36,7 +36,7 @@ $(function(){
 	var H = $("#notice").outerHeight() + $("#press").outerHeight() - 22;
 	var cssValue = $("#access div").css("height", H + "px");
 
-	var G = 40;
+	var G = 30;
 	var i = 0;
 
 	while ( (G <= H) && (i<10) ){
@@ -45,6 +45,5 @@ $(function(){
 	}
 
 	G = G - $("#no" + i).outerHeight();
-	G = 200;
 	var cssValue = $("#rank_table").css("clip", "rect(auto, auto, " + G + "px, auto)");
 }
