@@ -2,9 +2,11 @@
 <form  action="./courselist.php?sort={$sort_selected}" method="post">
 <table border = 1 > 
 <tr>
-//{foreach from = $name item=each_name} 
-//<td>{$each_name}</td>
-//{/foreach}
+
+ {* {foreach from = $name item=each_name} 
+<td>{$each_name}</td>
+{/foreach} *}
+
 <td>先生の名前の頭</td>
 <td>開講年度</td>
 <td>授業の種類</td>
