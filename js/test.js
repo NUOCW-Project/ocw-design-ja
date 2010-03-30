@@ -43,8 +43,9 @@ $(function(){
 		G = G + $("#no" + i).outerHeight();
 		i++;
 	}
+		i--;
 
-	G = G - $("#no" + i -1).outerHeight();
+	G = G - $("#no" + i).outerHeight();
 	var cssValue = $("#rank_table").css("clip", "rect(auto, auto, " + G + "px, auto)");
 	
 	document.write("H=" + H);
