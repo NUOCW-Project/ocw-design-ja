@@ -1,12 +1,8 @@
 <img src="./imags/ja/header_sitemap.jpg" alt="サイトマップ">
 
-<div class="contents">
-<h1 class="welcome">サイトマップ</h1>
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="650" border="0" cellpadding="0" cellspacing="0" summary="">
+<div id="contents">
 
+<table class="center_contents" width="650" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
@@ -63,4 +59,3 @@
 
 </table>
 </div>  <!-- センターコンテンツ終了 -->
-</div>
