@@ -119,6 +119,10 @@ var cssValue = $("#access div").css("height", H + "px");
 var G = 0;
 var i = 1;
 
+while ( G < H ) {ldelim}
+H = H + $("#no" + i).outerHeight();
+{rdelim}
+
 
 document.write("「アクセスらんきんぐ」の高さは" + G + "pxです.");
 
@@ -126,11 +130,5 @@ document.write("「アクセスらんきんぐ」の高さは" + G + "pxです.");
 </script>
 <!--
 
-{literal}
-while ( G < H ) {
-H = H + $("#no" + i).outerHeight();
-}
-{/literal}
-
-var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + Hi + "px, auto)");
+var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + H + "px, auto)");
 -->
