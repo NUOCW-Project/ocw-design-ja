@@ -502,6 +502,8 @@ table{
 
 .jump{
 	float: right;
+	display: inline;
+	text-align: right;
 }
 
 .footer{	
