@@ -122,7 +122,7 @@ var i = 1;
 {literal}
 while ( (G < H) && (i<10) ){
 	G = G + $("#no" + i).outerHeight();
-	i++
+	i++;
 }
 {/literal}
 
