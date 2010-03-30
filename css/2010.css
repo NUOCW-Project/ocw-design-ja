@@ -353,7 +353,6 @@ a:hover{
 		#rank_table{
 			/*border: dotted;*/
 			position: absolute;
-			overflow: hidden;
 			width: 95%;
 		}
 
