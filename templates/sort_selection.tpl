@@ -7,11 +7,19 @@
 <td>{$each_name}</td>
 {/foreach} *}
 
+{if $lang = "ja"}
 <td>先生の名前の頭</td>
 <td>開講年度</td>
 <td>授業の種類</td>
 <td></td>
 <td></td>
+{if $lang = "en"}
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+{/if}
 </tr>
 <tr>
 {foreach from = $name item=each_name} 
