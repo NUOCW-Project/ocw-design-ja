@@ -385,7 +385,7 @@ a:hover{
 		border-color: #DDDDDD;
 		overflow: hidden;
 		position: relative;
-		padding: 1ex;
+		padding: 6px;
 	}
 
 .icons{
@@ -394,6 +394,7 @@ a:hover{
 
 table{
 	border: none;
+	margin: 0px;
 }
 
 #conditionbox{
