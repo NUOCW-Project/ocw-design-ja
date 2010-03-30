@@ -13,7 +13,7 @@
 <td>授業の種類</td>
 <td></td>
 <td></td>
-{if $lang == "en"}
+{elseif $lang == "en"}
 <td></td>
 <td></td>
 <td></td>
