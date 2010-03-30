@@ -118,8 +118,8 @@ var cssValue = $("#access div").css("height", Ho + "px");
 
 var Hi = 0;
 var i = 1;
-while(Hi<Ho){
-	Hi = Hi + 10;
+for(var i=0; Hi<Ho; i++){
+	Hi = Hi + $("#no" + i).outerHeight();
 }
 document.write("「アクセスらんきんぐ」の高さは" + Hi + "pxです.");
 
