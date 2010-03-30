@@ -1,7 +1,7 @@
 {include file="left_menu_vs.tpl"}
 
 <div id="contents"><!-- 中核のボックス -->
-
+{$vsyllabus_list|@debug_print_var}
 {include file="com_navi.tpl"}
 
 <div class="course_contents"><!-- コンテンツセル開始 -->
