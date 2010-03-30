@@ -360,17 +360,17 @@ a:hover{
 			width: 40%;
 		}
 
-		#no1{
+		#no1 td{
 			padding: 1em 0em;
 			background-color: #FFF3E3;
 		}	
 
-		#no2{
+		#no2 td{
 			padding: 1em 0em;
 			background-color: white;
 		}
 
-		#no3{
+		#no3 td{
 			padding: 1em 0em;
 			background-color: #FFF3E3;
 		}
@@ -420,7 +420,7 @@ table{
 	.article a:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: 0px 0px;
+		background-position: 2px 0px;
 	}
 
 .article span{
