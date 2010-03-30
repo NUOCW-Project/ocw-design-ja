@@ -124,7 +124,7 @@ while(i<10){
 	i++;
 }
 
-document.write("i=" + i);
+
 
 document.write("「アクセスらんきんぐ」の高さは" + Hi + "pxです.");
 
