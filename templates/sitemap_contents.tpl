@@ -1,6 +1,7 @@
 <img src="./images/ja/header_sitemap.jpg" alt="サイトマップ">
 
 <div id="contents">
+{include file="com_navi.tpl"}
 
 <table class="center_contents" width="650" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
