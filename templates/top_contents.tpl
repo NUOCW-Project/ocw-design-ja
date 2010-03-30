@@ -38,7 +38,7 @@
  	<img src="./images/common/dots.png" />
 
 	<table id="rank_table">
-	<tr>
+	<tr id="no0">
 		<td class="rank">順位</td>
 		<td>講義名</td>
 		<td class="name">教員名</td>

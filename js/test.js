@@ -40,10 +40,10 @@ $(function(){
 	var i = 0;
 
 	while (G <= H){
-		i++;
 		G = G + $("#no" + i).outerHeight();
+		i++;
 	}
 
-	G = G - $("#no" + i).outerHeight();
+	G = G - $("#no" + i -1).outerHeight();
 	var cssValue = $("#rank_table").css("clip", "rect(auto, auto, " + G + "px, auto)");
 }
