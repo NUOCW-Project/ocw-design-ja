@@ -112,14 +112,14 @@
 <script type="text/javascript">
 <!--
 
-var H = $("#notice").outerHeight() + $("#press").outerHeight() - 23;
-document.write("「お知らせ」「プレスリリース」の高さの合計は" + H + "pxです.");
-var cssValue = $("#access div").css("height", H + "px");
+var Ho = $("#notice").outerHeight() + $("#press").outerHeight() - 23;
+document.write("「お知らせ」「プレスリリース」の高さの合計は" + Ho + "pxです.");
+var cssValue = $("#access div").css("height", Ho + "px");
 
-var G = 0;
+var Hi = 0;
 var i = 1;
 
-var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + H + "px, auto)");
+var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + Ho + "px, auto)");
 
 // -->
 </script>
