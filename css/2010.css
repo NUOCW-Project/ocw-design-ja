@@ -388,7 +388,7 @@ table{
 	border: none;
 }
 
-table#conditionbox{
+#conditionbox{
 	background-image:url(../images/common/corselist_lst.png);
 	bacground-repeat: no-repeat;
 	width: 720px;
