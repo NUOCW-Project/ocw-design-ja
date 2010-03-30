@@ -1,5 +1,5 @@
 {include file="left_menu_vs.tpl"}
-{$vsyllabus_list@debug_print_var}
+{$vsyllabus_list|@debug_print_var}
 <div id="contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}
