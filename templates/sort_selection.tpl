@@ -12,6 +12,6 @@
 {/foreach}
 </tr>
 </table>
-<input type="submit" value="refine!!">
+<input type="image" src="./images/{$lang}/sort_on.jpg" name="sort" alt="この条件で絞り込む">
 </form>
 {/literal}
