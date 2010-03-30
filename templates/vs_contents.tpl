@@ -1,5 +1,5 @@
 {include file="left_menu_vs.tpl"}
-{$vsyllabus_list|@debug_print_var}
+
 <div id="contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}
@@ -68,7 +68,7 @@
 		{/if}<br>
 		</td>
 		<td class="left">
-			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.dept_abbr}">{$vs.department_name}
+			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.department_id}">{$vs.department_name}
 			</a>
 		</td>
 		<td class="left">
