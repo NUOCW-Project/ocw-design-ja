@@ -1,11 +1,14 @@
+<img src="./images/ja/courselist.jpg" alt="名大の授業について">
+
 {include file="com_dept.tpl"}
+
+<div id="contents">
 {include file="com_navi.tpl"}
 
 <!-- このSiteの特徴開始 -->
 <div class="about_left" id="about01">
 <h1 class="welcome">このSiteについて</h1>
 </div>
-<div class="about_center">
 <div class="about_contents"> 
 <table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
@@ -23,10 +26,7 @@
 	<td width="10" class="td_right"></td>
 </tr>
 </table>
-
-</div>  <!-- センターコンテンツ終了 -->
 </div>
-
 <div class="clear"></div>
 <!-- このSiteの特徴終了 -->
 
@@ -34,7 +34,6 @@
 <div class="about_left" id="about03">
 <h1 class="welcome">スタッフ紹介</h1>
 </div>
-<div class="about_center">
 <div class="about_contents"> 
 <table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
@@ -168,5 +167,6 @@
 	<td width="10" class="td_right"></td>
 </tr>
 </table>
-</div>  <!-- センターコンテンツ終了 -->
+</div>
+
 </div>
