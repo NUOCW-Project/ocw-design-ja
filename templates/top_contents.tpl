@@ -52,7 +52,7 @@
 		{else}
 			<tr class="quan">
 		{/if} -->
-		<tr class="no{$v.rank}">
+		<tr id="no{$v.rank}">
 		<td class="rank">{$v.rank}</td>
 		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
 		<td class="name">{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"¶µ¼ø":"Prof."}</td>
