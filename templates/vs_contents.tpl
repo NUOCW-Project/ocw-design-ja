@@ -74,7 +74,7 @@
 			</a>
 		</td>
 		<td class="left">
-			<a href="./courselist.php?sort=instructor#{$vs.instructor_id}">
+			<a href="./courselist.php?sort=instructor#instructor{$vs.instructor_id}">
 			{$vs.instructor_name}
 			</a>
 		</td>
