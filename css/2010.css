@@ -385,6 +385,10 @@ a:hover{
 		padding: 1ex;
 	}
 
+.icons{
+	float: left;
+}
+
 table{
 	border: none;
 }
