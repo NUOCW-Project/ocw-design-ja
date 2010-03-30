@@ -119,12 +119,12 @@ var cssValue = $("#access div").css("height", H + "px");
 var G = 0;
 var i = 1;
 
-{literal}
+{literal}{literal}
 while ( (G < H) && (i<10) ){
 	G = G + $("#no" + i).outerHeight();
 	i++;
 }
-{/literal}
+{/literal}{/literal}
 
 document.write("「アクセスらんきんぐ」の高さは" + G + "pxです.");
 
