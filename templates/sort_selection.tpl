@@ -11,11 +11,7 @@
 <td>先生の名前の頭</td>
 <td>開講年度</td>
 <td>授業の種類</td>
-<td> </td>
-<td> </td>
 {elseif $lang == "en"}
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
