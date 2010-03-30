@@ -1,5 +1,5 @@
 {include file="left_menu_vs.tpl"}
-
+{$vsyllabus_list@debug_print_var}
 <div id="contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}
@@ -27,6 +27,7 @@
 		<tr>
 			<td class="separate" colspan="6"></td>
 		</tr>
+
 		{foreach from=$vsyllabus_list item="vs" name="vs_loop"}
 		{if $smarty.foreach.vs_loop.iteration is odd}
 		<tr class="odd">
