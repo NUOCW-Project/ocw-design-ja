@@ -117,13 +117,13 @@ document.write("「お知らせ」「プレスリリース」の高さの合計は" + Ho + "pxです.");
 var cssValue = $("#access div").css("height", Ho + "px");
 
 var Hi;
-var i;
+var qwe;
 Hi = 0;
-i = 1;
-Hi = Hi + $("#no" + i).outerHeight();
+qwe = 1;
+Hi = Hi + $("#no" + qwe).outerHeight();
 
-while ( i < 10 ) {
-      i = i + 2;
+while ( qwe < 10 ) {
+      qwe = qwe + 2;
 }
 
 
