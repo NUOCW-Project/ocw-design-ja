@@ -3,9 +3,9 @@
 <div id="contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}
-
+<?php
 var_dump($vsyllabus_list);
-
+?>
 <div class="course_contents"><!-- コンテンツセル開始 -->
 	<table class="center_contents" width="95%">
 		<tbody>
