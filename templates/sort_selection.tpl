@@ -1,6 +1,6 @@
 {literal}
 <form  action="./courselist.php?sort={$sort_selected}" method="post">
-É½¼¨¤¹¤ë¼ø¶È¤Î¾ò·ï
+<h2>É½¼¨¤¹¤ë¼ø¶È¤Î¾ò·ï</h2>
 <div id="conditionbox">
 <table border = 1> 
 <tr>
