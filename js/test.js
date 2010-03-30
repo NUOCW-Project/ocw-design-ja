@@ -41,7 +41,7 @@ $(function(){
 	var i = 0;
 
 	while (G <= H){
-		G = G + $("#no" + i).outerHeight();
+		G = G + $("#no" + i).outerHeight(true);
 		i++;
 	}
 		i--;
