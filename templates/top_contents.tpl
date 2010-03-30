@@ -112,14 +112,23 @@
 <script type="text/javascript">
 <!--
 
-var Ho = $("#notice").outerHeight() + $("#press").outerHeight() - 23;
+var Ho = $("#notice").outerHeight() + $("#press").outerHeight() - 22;
 document.write("「お知らせ」「プレスリリース」の高さの合計は" + Ho + "pxです.");
 var cssValue = $("#access div").css("height", Ho + "px");
 
 var Hi = 0;
 var i = 1;
 
-var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + Ho + "px, auto)");
+while (Hi < Ho){
+	Hi = Hi + $("#no" + i).outerHeight();
+	i++;
+}
+
+document.write("「アクセスらんきんぐ」の高さは" + Hi + "pxです.");
 
 // -->
 </script>
+
+<!--
+var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + Hi + "px, auto)");
+-->
