@@ -118,12 +118,16 @@ var cssValue = $("#access div").css("height", H + "px");
 
 var G = 0;
 var i = 1;
+
+var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + H + "px, auto)");
+
+// -->
+</script>
+
+<!--
 do {
 	G = G + $("#no" + i).outerHeight();
 	i++;
 } while ((G < H) && (i <= 10));
 G = G - $("#no" + i).outerHeight();
-var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + G + "px, auto)");
-
-// -->
-</script>
+-->
