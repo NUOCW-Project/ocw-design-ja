@@ -1,7 +1,6 @@
 {literal}
 <form  action="./courselist.php?sort={$sort_selected}" method="post">
-<h2>É½¼¨¤¹¤ë¼ø¶È¤Î¾ò·ï</h2>
-<img src="./images/common/redline.gif" id="line1"/ >
+<h2>É½¼¨¤¹¤ë¼ø¶È¤Î¾ò·ï</h2><img src="./images/common/redline.gif" id="line1"/ >
 <div id="conditionbox">
 <table border = 1> 
 <tr>
