@@ -33,11 +33,11 @@ $(function(){
  // 方法3
   function method3() {	
 
-	var H = $("#notice").outerHeight() + $("#press").outerHeight() -22;
+	var H = $("#notice").outerHeight() + $("#press").outerHeight() -21;
 	var cssValue = $("#access div").css("height", H + "px");
 	
-	H = H - 14;
-	var G = 30;
+	H = H - 44;
+	var G = 0;
 	var i = 0;
 
 	while (G <= H){
