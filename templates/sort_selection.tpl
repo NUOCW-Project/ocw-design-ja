@@ -1,6 +1,7 @@
 {literal}
 <form  action="./courselist.php?sort={$sort_selected}" method="post">
-<table border = 1 id="conditionbox"> 
+<div id="conditionbox">
+<table border = 1> 
 <tr>
 
 {*  {foreach from = $name item=each_name} 
@@ -17,6 +18,7 @@
 <td>Class Of lecture</td>
 {/if}
 </tr>
+
 <tr>
 {foreach from = $name item=each_name} 
 <td>	{html_options name = $each_name options=$option_arrays.$each_name selected=$selection.$each_name } </td>
@@ -28,4 +30,5 @@ onMouseOver="this.src='./images/{$lang}/sort_on.jpg'"
 onMouseOut="this.src='./images/{$lang}/sort.jpg'"
 name="sort" alt="¤³¤Î¾ò·ï¤Ç¹Ê¤ê¹þ¤à">
 </form>
+</div>
 {/literal}
