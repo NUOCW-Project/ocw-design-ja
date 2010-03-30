@@ -32,8 +32,8 @@ $(function(){
 
  // 方法3
   function method3() {	
-
-	var H = $("#notice").outerHeight() + $("#press").outerHeight() -21;
+	var H;
+	H = $("#notice").outerHeight() + $("#press").outerHeight() -21;
 	var cssValue = $("#access div").css("height", H + "px");
 	
 	H = H - 44;
@@ -46,7 +46,7 @@ $(function(){
 	}
 		i--;
 
-
+	G = G - $("#no" + i).outerHeight();
 	var cssValue = $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
 	
 	document.write("H=" + H);
