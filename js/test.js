@@ -43,3 +43,6 @@ $(function(){
 		G = G + $("#no" + i).outerHeight();
 		i++;
 	}
+	
+	var cssValue = $("#rank_table").css("height", G + "px");
+}
