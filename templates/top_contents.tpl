@@ -112,23 +112,21 @@
 <script type="text/javascript">
 <!--
 
-var Ho = $("#notice").outerHeight() + $("#press").outerHeight() - 22;
-document.write("「お知らせ」「プレスリリース」の高さの合計は" + Ho + "pxです.");
-var cssValue = $("#access div").css("height", Ho + "px");
+var H = $("#notice").outerHeight() + $("#press").outerHeight() - 22;
+document.write("「お知らせ」「プレスリリース」の高さの合計は" + H + "pxです.");
+var cssValue = $("#access div").css("height", H + "px");
 
-var Hi;
-var qwe;
-Hi = 0;
-qwe = 1;
-Hi = Hi + $("#no" + qwe).outerHeight();
+var G = 0;
+var i = 1;
+
 {literal}
-while ( qwe < 10 ) {
-      qwe = qwe + 2;
+while ( G < H ) {
+H = H + $("#no" + i).outerHeight();
 }
 {/literal}
 
 
-document.write("「アクセスらんきんぐ」の高さは" + Hi + "pxです.");
+document.write("「アクセスらんきんぐ」の高さは" + G + "pxです.");
 
 // -->
 </script>
