@@ -15,7 +15,7 @@
 	<td>{$each_course.year}</td>
 	<td>{$each_course.instructor_name}</td>
 	{if $each_course.date =='t'}
-		<td><img border="0" src="./images/ja/new.png"  alt="NEW"></td>
+		<td><img border="0" src="./images/common/new.png"  alt="NEW"></td>
 	{else}
 		<td>  </td>
 	{/if}
