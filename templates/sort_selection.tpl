@@ -1,6 +1,6 @@
 {literal}
 <form  action="./courselist.php?sort={$sort_selected}" method="post">
-<table border = 1 > 
+<table border = 1 id="conditionbox"> 
 <tr>
 
  {* {foreach from = $name item=each_name} 
