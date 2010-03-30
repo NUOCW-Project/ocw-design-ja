@@ -4,17 +4,17 @@
 <div id="contents"><!-- 中核のボックス -->
 
 <div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="100%">
+	<table class="center_contents" width="80%">
 		<tbody>
 
 		<tr>
 			<th width="10" class="center"></th>
             {if $lang=='ja'}
 			<th width="50" class="center"></th>
-			<th width="55%">コース名</th>
+			<th width="40%">コース名</th>
 			<th width="30" class="center">視聴<br>ボタン</th>
-			<th width="25%">学部・研究科</th>
-			<th width="20%">担当講師名</th>
+			<th width="20%">学部・研究科</th>
+			<th width="15%">担当講師名</th>
             {elseif $lang=='en'}
 			<th width="50" class="center"></th>
 			<th width="180">Course name</th>
