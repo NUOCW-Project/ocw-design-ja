@@ -45,13 +45,6 @@
 	</tr>
 	{literal}
 	{foreach from=$ranking key=k item=v}
-		<!-- {if $v.rank == 1 || $v.rank == 3}
-			<tr class="prim">
-		{elseif $v.rank == 2}
-			<tr class="sec">
-		{else}
-			<tr class="quan">
-		{/if} -->
 		<tr id="no{$v.rank}">
 		<td class="rank">{$v.rank}</td>
 		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>

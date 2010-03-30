@@ -44,5 +44,5 @@ $(function(){
 		i++;
 	}
 	
-	var cssValue = $("#rank_table").css("height", G + "px");
+	var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + G + "px, auto)");
 }
