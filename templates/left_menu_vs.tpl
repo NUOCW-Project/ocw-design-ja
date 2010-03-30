@@ -1,4 +1,5 @@
 <!-- 名大の授業についてleftメニュー -->
+<div id = "podcast">
 <div class = "waku">
 <ol id="aboutpodcast" style="list-style:none">
 <li>
@@ -21,4 +22,5 @@
 </li>
 </table>
 </ol>
+</div>
 </div>
