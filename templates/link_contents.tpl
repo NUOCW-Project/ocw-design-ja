@@ -1,7 +1,8 @@
 <img src="./images/ja/header_link.jpg" alt="リンク">
 
 {include file="com_dept.tpl"}
-<div class="contents"> 
+
+<div id="contents"> 
 {include file="com_navi.tpl"}
 
 <!-- リンク開始 -->

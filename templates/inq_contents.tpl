@@ -2,8 +2,9 @@
 
 {include file="com_dept.tpl"}
 
-<div class="contents"> 
+<div id="contents"> 
 {include file="com_navi.tpl"}
+
 <table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" class="td_left"></td>
@@ -139,6 +140,5 @@
 	</td>
 	<td width="10" class="td_right"></td>
 </tr>
-
 </table>
 </div>  <!-- センターコンテンツ終了 -->
