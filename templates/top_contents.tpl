@@ -95,7 +95,7 @@
     <table>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="article"><span>新デザインになりました。</span></td>
+	<td class="article"><span>新デザインになりました。</span><img src="./images/common/new.png" /></td>
      </tr>
      <tr>
 	<td class="date2">-2009/12/24</td>
@@ -119,6 +119,12 @@ var cssValue = $("#access div").css("height", Ho + "px");
 var Hi = 0;
 var i = 1;
 Hi = Hi + $("#no" + i).outerHeight();
+
+while(i<10){
+	i++;
+}
+
+document.write("i=" + i);
 
 document.write("「アクセスらんきんぐ」の高さは" + Hi + "pxです.");
 
