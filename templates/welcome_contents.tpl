@@ -1,10 +1,10 @@
+<img src="./images/ja/header_courselist.jpg" alt="ごあいさつ">
+
 {include file="com_dept.tpl"}
 
-<div class="contents"><!-- コンテンツセル開始 -->
+<div class="contents">
 {include file="com_navi.tpl"}
 
-	<h1 class="welcome">ようこそ「名大の授業」へ</h1>
-<div class="about_center">
 <div class="about_contents"> 
 <table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
@@ -40,7 +40,8 @@
 </td>
 </tr>
 </table>
+
 </div>
 </div>
-</div>	<!-- コンテンツセル終了 -->
+
 
