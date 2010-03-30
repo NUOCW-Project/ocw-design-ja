@@ -1,4 +1,4 @@
-<img src = "./images/ja/header_faq.jpg">
+<img src = "./images/ja/header_help.jpg">
 
 {include file="com_dept.tpl"}
 {include file="com_navi.tpl"}
