@@ -1,5 +1,7 @@
-{include file="com_navi.tpl"}
+<img src = "./images/ja/header_faq.jpg">
+
 {include file="com_dept.tpl"}
+{include file="com_navi.tpl"}
 
 <div class="course_contents"><!-- 中核のボックス -->
 <div id="main_text">
