@@ -11,8 +11,8 @@
 			<th width="10" class="center"></th>
             {if $lang=='ja'}
 			<th width="50" class="center"></th>
-			<th width="200">コース名</th>
-			<th width="50" class="center">視聴<br>ボタン</th>
+			<th width="55%">コース名</th>
+			<th width="30" class="center">視聴<br>ボタン</th>
 			<th width="25%">学部・研究科</th>
 			<th width="20%">担当講師名</th>
             {elseif $lang=='en'}
@@ -35,7 +35,11 @@
 		<td>{$smarty.foreach.vs_loop.iteration}</td>
 		<td>
 		{if $vs.url_flv != NULL}
-			<a href="{$vs.url_flv}" target="flame">
+			<noscript>（新しいウィンドウを開きます）</noscript>
+			<a href="{$vs.url_flv}"
+			 onclick="openWin('{$vs.url_flv}');return false;"
+			 onkeypress="openWin('{$vs.url_flv}');return false;"
+			 title="新しいウィンドウを開きます" target="flame">
 		{/if}
 			{vsyllabus_img id=$vs.vsyllabus_id alt=""}
 		{if $vs.url_flv != NULL}
@@ -57,7 +61,7 @@
 			 onclick="openWin('{$vs.url_flv}');return false;"
 			 onkeypress="openWin('{$vs.url_flv}');return false;"
 			 title="新しいウィンドウを開きます" target="flame">
-			<img src="./images/common/play.jpg">
+			<img src="./images/common/b_fv.gif">
 			</a>
 		{/if}<br>
 		</td>
