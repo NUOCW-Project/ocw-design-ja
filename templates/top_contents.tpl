@@ -72,7 +72,7 @@
     <table>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a></td>
+	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。</a><img src="./images/common/new.png" /></td>
      </tr>
      <tr>
 	<td class="date2">-2009/12/24</td>
@@ -119,16 +119,11 @@ var cssValue = $("#access div").css("height", Ho + "px");
 var Hi = 0;
 var i = 1;
 
-while (Hi < Ho){
-	Hi = Hi + $("#no" + i).outerHeight();
-	i++;
-}
 
 document.write("「アクセスらんきんぐ」の高さは" + Hi + "pxです.");
 
 // -->
 </script>
-
 <!--
 var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + Hi + "px, auto)");
 -->
