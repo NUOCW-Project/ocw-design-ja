@@ -121,7 +121,7 @@ var i = 1;
 Hi = Hi + $("#no" + i).outerHeight();
 
 while ( i < 10 ){
-      i +=  2;
+      i = i + 2;
 }
 
 
