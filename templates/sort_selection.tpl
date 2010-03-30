@@ -12,6 +12,9 @@
 {/foreach}
 </tr>
 </table>
-<input type="image" src="./images/{$lang}/sort_on.jpg" name="sort" alt="この条件で絞り込む">
+<input type="image" src="./images/{$lang}/sort.jpg" 
+onMouseOver="this.src='./images/{$lang}/sort_on.jpg'" 
+onMouseOut="this.src='./images/{$lang}/sort/jpg'"
+name="sort" alt="この条件で絞り込む">
 </form>
 {/literal}
