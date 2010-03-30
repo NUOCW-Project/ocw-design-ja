@@ -111,6 +111,10 @@
 
 <script type="text/javascript">
 <!--
+	method3();
+// -->
+</script>
+<!--
 
 var H = $("#notice").outerHeight() + $("#press").outerHeight() - 22;
 document.write("「お知らせ」「プレスリリース」の高さの合計は" + H + "pxです.");
@@ -127,10 +131,6 @@ while ( (G < H) && (i<10) ){
 {/literal}{/literal}
 
 document.write("「アクセスらんきんぐ」の高さは" + G + "pxです.");
-
-// -->
-</script>
-<!--
 
 var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + H + "px, auto)");
 -->

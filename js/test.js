@@ -29,3 +29,17 @@ $(function(){
 	  } 
       });
   };
+
+ // 方法3
+  function method3() {	
+
+	var H = $("#notice").outerHeight() + $("#press").outerHeight() - 22;
+	var cssValue = $("#access div").css("height", H + "px");
+
+	var G = 0;
+	var i = 1;
+
+	while ( (G < H) && (i<10) ){
+		G = G + $("#no" + i).outerHeight();
+		i++;
+	}
