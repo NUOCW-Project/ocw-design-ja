@@ -315,6 +315,7 @@ a:hover{
 	}
 
 #notice{
+	float: left;
 	clear: right;
 	border-style: solid;
 	border-width: 6px;
@@ -326,7 +327,7 @@ a:hover{
 
 #press{
 	clear: right;
-	/*float: right;*/
+	float: left;
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
@@ -350,6 +351,30 @@ a:hover{
 			position: absolute;
 		}
 
+		.rank{
+			width: 2.8em;
+			text-align: center;
+		}
+
+		.name{
+			width: 40%;
+		}
+
+		#no1{
+			padding: 1em 0em;
+			background-color: #FFF3E3;
+		}	
+
+		#no2{
+			padding: 1em 0em;
+			background-color: white;
+		}
+
+		#no3{
+			padding: 1em 0em;
+			background-color: #FFF3E3;
+		}
+	
 	.waku{
 		border-style: solid;
 		border-width: 1px;
@@ -359,20 +384,12 @@ a:hover{
 		padding: 1ex;
 	}
 
-.rank{
-	width: 2.8em;
-	text-align: center;
-}
-
-.name{
-	width: 40%;
-}
-
 table{
 	border: none;
 }
 
-	.prim td{
+
+/*	.prim td{
 		padding: 1em 0em;
 		background-color: #FFF3E3;
 	}
@@ -386,10 +403,10 @@ table{
 		padding: 0;
 		margin: 0;
 		background-color: white;
-	}
+	}				*/
 
 .date2{
-	width: 6em;
+	width: 7em;
 	text-align: top;
 }
 
