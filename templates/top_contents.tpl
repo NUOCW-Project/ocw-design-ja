@@ -109,6 +109,8 @@
 	document.write("G=" + G + "px¤Ç¤¹.");	
 // -->
 </script>
+
+
 <!--
 
 var H = $("#notice").outerHeight() + $("#press").outerHeight() - 22;
