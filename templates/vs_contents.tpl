@@ -1,5 +1,5 @@
-{include file="com_navi.tpl"}
 {include file="left_menu_vs.tpl"}
+{include file="com_navi.tpl"}
 
 <div id="contents"><!-- 中核のボックス -->
 
