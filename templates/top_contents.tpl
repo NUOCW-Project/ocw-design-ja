@@ -120,10 +120,11 @@ var G = 0;
 var i = 1;
 
 {literal}
-while ( G < H ){
+while ( (G < H) && (i<10) ){
 	G = G + $("#no" + i).outerHeight();
+	i++
 }
-</litaral}
+{/litaral}
 
 document.write("「アクセスらんきんぐ」の高さは" + G + "pxです.");
 
