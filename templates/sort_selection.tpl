@@ -3,7 +3,7 @@
 <table border = 1 > 
 <tr>
 {foreach from = $name item=each_name} 
-<td>{$each_name}</td>
+<td>{$each_name}aaaa</td>
 {/foreach}
 </tr>
 <tr>
