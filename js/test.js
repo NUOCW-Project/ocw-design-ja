@@ -47,5 +47,5 @@ $(function(){
 		i--;
 
 	G = G - $("#no" + i).outerHeight();
-	var cssValue = $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto"));
+	var cssValue = $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto");
 }
