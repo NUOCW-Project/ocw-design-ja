@@ -385,6 +385,10 @@ a:hover{
 		padding: 1ex;
 	}
 
+.subheading{
+	display: inline;
+}
+
 .icons{
 	float: left;
 }
