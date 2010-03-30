@@ -120,6 +120,10 @@ var Hi = 0;
 var i = 1;
 Hi = Hi + $("#no" + i).outerHeight();
 
+while ( i < 10 ) {
+      i = i + 2;
+}
+
 
 
 document.write("「アクセスらんきんぐ」の高さは" + Hi + "pxです.");
