@@ -120,8 +120,8 @@ var Hi = 0;
 var i = 1;
 Hi = Hi + $("#no" + i).outerHeight();
 
-while (i<10) {
-	i = i + 2;
+while (i<10){
+      i = i + 2;
 }
 
 
