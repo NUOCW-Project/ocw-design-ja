@@ -388,6 +388,10 @@ table{
 	border: none;
 }
 
+table.conditionbox{
+	background-image:url(../images/common/corselist_lst.png);
+	bacground-repeat: no-repeat;
+}
 
 /*	.prim td{
 		padding: 1em 0em;
