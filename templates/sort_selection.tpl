@@ -8,11 +8,11 @@
 {/foreach} *}
 
 {if $lang == "ja"}
-<td>хЕИчФЯуБохРНхЙНуБощан</td>
-<td>щЦЛшмЫх╣┤х║ж</td>
-<td>цОИценуБочиощбЮ</td>
-<td></td>
-<td></td>
+<td>└ш└╕д╬╠╛┴░д╬╞м</td>
+<td>│л╣╓╟п┼┘</td>
+<td>╝°╢╚д╬╝я╬р</td>
+<td> </td>
+<td> </td>
 {elseif $lang == "en"}
 <td></td>
 <td></td>
@@ -30,6 +30,6 @@
 <input type="image" src="./images/{$lang}/sort.jpg" 
 onMouseOver="this.src='./images/{$lang}/sort_on.jpg'" 
 onMouseOut="this.src='./images/{$lang}/sort.jpg'"
-name="sort" alt="уБУуБоцЭбф╗╢уБзч╡ЮуВКш╛╝уВА">
+name="sort" alt="д│д╬╛Є╖яд╟╣╩дъ╣■др">
 </form>
 {/literal}
