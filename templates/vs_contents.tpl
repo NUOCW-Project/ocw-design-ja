@@ -4,6 +4,8 @@
 
 {include file="com_navi.tpl"}
 
+var_dump($vsyllabus_list);
+
 <div class="course_contents"><!-- コンテンツセル開始 -->
 	<table class="center_contents" width="95%">
 		<tbody>
