@@ -1,7 +1,9 @@
-{include file="com_navi.tpl"}
+<img src ="./images/ja/header_inquiry.jpg" alt="お問い合わせ">
+
 {include file="com_dept.tpl"}
 
-<div class="center_contents"> 
+<div class="contents"> 
+{include file="com_navi.tpl"}
 <table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" class="td_left"></td>

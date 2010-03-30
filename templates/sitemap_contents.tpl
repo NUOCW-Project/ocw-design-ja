@@ -1,5 +1,6 @@
-<!-- このSiteの特徴開始 -->
-<div class="about_left" id="about01">
+<img src="./imags/ja/header_sitemap.jpg" alt="サイトマップ">
+
+<div class="contents">
 <h1 class="welcome">サイトマップ</h1>
 </div>
 <div class="about_center">
