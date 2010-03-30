@@ -3,19 +3,19 @@
 <table border = 1 id="conditionbox"> 
 <tr>
 
-  {foreach from = $name item=each_name} 
+{*  {foreach from = $name item=each_name} 
 <td>{$each_name}</td>
-{/foreach} 
+{/foreach} *}
 
-{* {if $lang == "ja"}
+{if $lang == "ja"}
 <td>先生の名前の頭</td>
 <td>開講年度</td>
 <td>授業の種類</td>
 {elseif $lang == "en"}
-<td></td>
-<td></td>
-<td></td>
-{/if} *}
+<td>Head letter Of Instructor</td>
+<td>Year Selected</td>
+<td>Class Of lecture</td>
+{/if}
 </tr>
 <tr>
 {foreach from = $name item=each_name} 
