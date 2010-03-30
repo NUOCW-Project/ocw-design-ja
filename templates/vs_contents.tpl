@@ -6,8 +6,8 @@
 
 {include file="com_navi.tpl"}
 
-<div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="95%">
+<div class = "course_contents"><!-- コンテンツセル開始 -->
+	<table class = "center_contents" width="95%">
 		<tbody>
 
 		<tr>
@@ -17,7 +17,7 @@
 			<th width="40%">コース名</th>
 			<th width="30" class="center">視聴<br>ボタン</th>
 			<th width="25%">学部・研究科</th>
-			<th width="10%">担当講師名</th>
+			<th width="15%">担当講師名</th>
             {elseif $lang=='en'}
 			<th width="30" class="center"></th>
 			<th width="40%">Course name</th>
