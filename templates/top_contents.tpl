@@ -112,13 +112,13 @@
 <script type="text/javascript">
 <!--
 
-var Takasa = $("#notice").outerHeight() + $("#press").outerHeight();
+var Takasa = $("#notice").outerHeight() + $("#press").outerHeight() - 6;
 var Takasa1 = $("#notice").outerHeight();
 var Takasa2 = $("#press").outerHeight();
 document.write("「お知らせ」「プレスリリース」の高さの合計は" + Takasa + "pxです.");
 document.write("「お知らせ」の高さは" + Takasa1 + "pxです.");
 document.write("「プレスリリース」の高さは" + Takasa2 + "pxです.");
-var cssValue = $("#access").css("height", Takasa + "px");
+var cssValue = $("#access div").css("height", Takasa + "px");
 var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + Takasa + "px, auto)");
 // -->
 </script>
