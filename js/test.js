@@ -36,7 +36,7 @@ $(function(){
 	var H = $("#notice").outerHeight() + $("#press").outerHeight() - 22;
 	var cssValue = $("#access div").css("height", H + "px");
 
-	var G = 24;
+	var G = 36;
 	var i = 0;
 
 	while ( (G <= H) && (i<10) ){
