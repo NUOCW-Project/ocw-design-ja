@@ -1,3 +1,5 @@
+<img src="./images/ja/header_link.jpg">
+
 {include file="com_navi.tpl"}
 {include file="com_dept.tpl"}
 
