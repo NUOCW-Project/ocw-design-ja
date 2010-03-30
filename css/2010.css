@@ -413,7 +413,7 @@ table{
 
 .date2{
 	width: 7em;
-	text-align: top;
+	vertical-align: top;
 }
 
 .article a{
