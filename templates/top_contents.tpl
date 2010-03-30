@@ -105,6 +105,8 @@
 <script type="text/javascript">
 <!--
 	method3();
+	document.write("H=" + H + "pxです.");
+	document.write("G=" + G + "pxです.");	
 // -->
 </script>
 <!--

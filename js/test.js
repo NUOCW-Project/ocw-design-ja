@@ -37,12 +37,13 @@ $(function(){
 	var cssValue = $("#access div").css("height", H + "px");
 
 	var G = 40;
-	var i = 1;
+	var i = 0;
 
-	while ( (G < H) && (i<10) ){
-		G = G + $("#no" + i).outerHeight();
+	while ( (G <= H) && (i<10) ){
 		i++;
+		G = G + $("#no" + i).outerHeight();
 	}
-	
+
+	G = G - $("#no" + i).outerHeight();
 	var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + G + "px, auto)");
 }
