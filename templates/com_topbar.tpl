@@ -41,11 +41,12 @@
           <div class="header_button_akf">
              <img src="./images/{$lang}/akf.gif" alt="AKF Search" align="left"/>
           </div><!-- "header_button_akf" end -->
-          <form method="post" action="sample.php">
+          <form method="post" action="http:akf.nul.nagoya-u.ac.jp">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
               <input type="text" id="searchbox" name="AKF" value="ここから授業を検索できます">
             </div><!-- "header_button_input" end -->
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
+		<input type="hidden" name="submit" value="検索する">
               <input type="image" src="./images/common/search.gif" alt="検索する">
             </div> <!-- "header_button_search" end -->
           </form>
