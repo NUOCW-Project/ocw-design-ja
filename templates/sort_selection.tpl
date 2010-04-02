@@ -10,6 +10,7 @@
 <td>{$each_name}</td>
 {/foreach} *}
 
+<div id= "menu_list">
 {if $lang == "ja"}
 <td>先生の名前の頭</td>
 <td>開講年度</td>
@@ -27,10 +28,14 @@
 {/foreach}
 </tr>
 </table>
+</div>
+
+<div id= "menu_submit">
 <input type="image" src="./images/{$lang}/sort.jpg" 
 onMouseOver="this.src='./images/{$lang}/sort_on.jpg'" 
 onMouseOut="this.src='./images/{$lang}/sort.jpg'"
 name="sort" alt="この条件で絞り込む">
 </form>
+</div>
 </div>
 {/literal}
