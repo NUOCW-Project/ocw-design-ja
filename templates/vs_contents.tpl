@@ -7,15 +7,15 @@
 {include file="com_navi.tpl"}
 
 <div class = "course_contents"><!-- コンテンツセル開始 -->
-	<table class = "center_contents" width="99%">
+	<table class = "center_contents" width="98%">
 		<tbody>
 
 		<tr>
-			<th width="10" class="center"></th>
+			<th width="5%" class="center"></th>
             {if $lang=='ja'}
-			<th width="30" class="center"></th>
-			<th width="43%">コース名</th>
-			<th width="30" class="center">視聴<br>ボタン</th>
+			<th width="10%" class="center"></th>
+			<th width="35%">コース名</th>
+			<th width="6%" class="center">視聴<br>ボタン</th>
 			<th width="24%">学部・研究科</th>
 			<th width="18%">担当講師名</th>
             {elseif $lang=='en'}
