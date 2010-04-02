@@ -882,3 +882,15 @@ td.separate{
 #sort {
 	float: right;
 }
+
+#menu_list{
+	position: relative;
+	top: 10px;
+	left: 20px;
+}
+
+#menu_submit{
+	position: relative;
+	top: 10px;
+	left: 70px;
+}
