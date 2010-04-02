@@ -3,6 +3,7 @@
 <h2>表示する授業の条件</h2>
 <img src="./images/common/redline.gif" id="line1"/ >
 <div id="conditionbox">
+<div id= "menu_list">
 <table> 
 <tr>
 
@@ -10,7 +11,6 @@
 <td>{$each_name}</td>
 {/foreach} *}
 
-<div id= "menu_list">
 {if $lang == "ja"}
 <td>先生の名前の頭</td>
 <td>開講年度</td>
