@@ -325,6 +325,9 @@ a:hover{
 	/*height: 400px;*/
 	margin: 6px 6px 0 0;
 }
+		*html #notice{
+			zoom: 1;
+		}
 
 #press{
 	clear: right;
@@ -336,6 +339,9 @@ a:hover{
 	/*height: 300px;*/
 	margin: 6px 6px 0 0;
 }
+		*html #press{
+			zoom: 1;
+		}
 
 #access{
 	clear: right;
@@ -346,18 +352,21 @@ a:hover{
 	width: 310px;
 	margin: 6px 6px 0 0;
 }
+		*html #access{
+			zoom: 1;
+		}
+
 	#access div{
 			height: 200px;
 	}
 
 		#rank_table{
-			/*border: dotted;*/
 			position: absolute;
-			width: 95%;
+			width: 290px;
 		}
 
 			#rank_table tr{
-				width 100%;
+				width 290px;
 			}
 
 		.rank{

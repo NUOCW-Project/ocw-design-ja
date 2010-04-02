@@ -40,7 +40,7 @@ $(function(){
 	var G = 0;
 	var i = 0;
 
-	while (G <= H){
+	while ((G <= H) && (i <= 10)){
 		G = G + $("#no" + i).outerHeight(true);
 		i++;
 	}
