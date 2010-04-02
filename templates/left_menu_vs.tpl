@@ -4,7 +4,7 @@
 <ol id="aboutpodcast" style="list-style:none">
 <li>
   <p>
-  <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
+  <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125" class="center">
   </p>
 </li>
 <li>

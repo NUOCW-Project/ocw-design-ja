@@ -223,7 +223,6 @@ width: 180;
 padding: 0px;
 margin: 0px 5px 0px 5px;
 position: relative;
-top: -25px;
 }
 
 #departmentslist{
@@ -276,7 +275,7 @@ top: -25px;
 			}
 #contents{
 	position:relative;
-	top:-25px;
+	top: -25px;
 	margin-left: 200px;
 	margin-right: 40px;
 	background-color: white;
