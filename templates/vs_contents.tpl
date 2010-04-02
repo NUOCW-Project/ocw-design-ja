@@ -7,7 +7,7 @@
 {include file="com_navi.tpl"}
 
 <div class = "course_contents"><!-- コンテンツセル開始 -->
-	<table class = "center_contents" width="100%">
+	<table class = "center_contents" width="99%">
 		<tbody>
 
 		<tr>
