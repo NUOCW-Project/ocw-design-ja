@@ -6,12 +6,12 @@
 
 {include file="com_navi.tpl"}
 
+{* 絞り込みボックス *}
+{include file="sort_selection.tpl"}
 {* 全部局表示の時はソート方法指定ボックスを出す *}
 {literal}{if $dep_flag != 'true'}{/literal}
   {include file="sort_sort.tpl"}
 {literal}{/if}{/literal}
-{* 絞り込みボックス *}
-{include file="sort_selection.tpl"}
 
 {* 結果表示 *}
 {literal}{if $sort_selected=="department"} {/literal}
