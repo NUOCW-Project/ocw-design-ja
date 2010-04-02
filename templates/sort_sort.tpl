@@ -5,7 +5,10 @@
   {foreach from = $selection key = selection_key item = each_selection }
 	  <input type = "hidden" name = {$selection_key} value={$each_selection}>
   {/foreach}
-  <input type ="submit" value = "{$each_sort2}ソートの実行" >
-  </form>
 {/foreach}
+並び順
+	<input type ="submit" value = "[部局名→講義名]" >
+<input type ="submit" value = "[先生の名前→講義名]" >
+  </form>
+
 {/literal}
