@@ -75,8 +75,8 @@
 		</td>
 		<td class="left">
 			{foreach from = $vs.instructor_name key = "i_id" item = "i_name"} 
-			<a href="./courselist.php?sort=instructor#instructor{$i_id}">
-			{$i_name}
+			<a href="./courselist.php?sort=instructor#instructor{$vs.instructor_name.i_id}">
+			{$vs.instructor_name.i_name}
 			</a>
                         {/foreach} 
 		</td>
