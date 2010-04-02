@@ -274,7 +274,8 @@ a:hover{
 	padding-left: 1ex;
 }
 		*html #contents{
-			width: 960px;
+			width: 984px;
+			border: dotted;
 		}
 
 	.pankuzu{
