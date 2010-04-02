@@ -1,13 +1,10 @@
 <!-- 名大の授業についてleftメニュー -->
 <div id = "podcast">
 <div class = "waku">
-<ol id="aboutpodcast" style="list-style:none">
-<li>
+<div id="aboutpodcast" style="list-style:none">
   <p>
   <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125" class="center">
   </p>
-</li>
-<li>
   {if $lang=='ja'}
   <p>
   <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/b_rss.gif" ></a>
@@ -19,8 +16,6 @@
   To save video clips on iTunes Podcast, drag &amp; drop <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus_en.xml"><img src="./images/common/b_rss.gif" ></a> icon to `podcast'. (Please use current version of iTunes.)
   </p>
   {/if}
-</li>
-</table>
-</ol>
+</div>
 </div>
 </div>
