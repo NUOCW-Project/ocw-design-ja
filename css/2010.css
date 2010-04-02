@@ -877,3 +877,8 @@ td.separate{
 .odd{
 	background-color:#fff;
 }
+
+/** 授業一覧から探す　関連  **/
+#sort {
+	float: right;
+}
