@@ -675,6 +675,14 @@ span.b{
         margin: 6px 4px 0 4px;
 }
 
+#contents_p{
+        position:relative;
+        top: -25px;
+        margin-left: 200px;
+        margin-right: 0px;
+        background-color: white;
+        padding-left: 1ex;
+}
 
 div.course_contents{
 	margin: 0px
