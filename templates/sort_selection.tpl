@@ -23,10 +23,16 @@
 </tr>
 
 <tr>
-{foreach from = $name item=each_name} 
+{*{foreach from = $name item=each_name} 
 <td>	{html_options name = $each_name options=$option_arrays.$each_name selected=$selection.$each_name } </td>
 {$each_name} 
 {/foreach}
+*}
+{*とりあえず手動で表示する*}
+<td>{html_options name = head_letter_of_instructor options=$option_arrays.head_letter_of_instructor selected=$selection.head_letter_of_instructor}</td>
+<td>{html_options name = year_selected options=$option_arrays.year_selected selected=$selection.year_selected }</td>
+<td>{html_options name = class_of_lecture options=$option_arrays.class_of_lecture selected=$selection.class_of_lecture }</td>
+
 </tr>
 </table>
 </div>
