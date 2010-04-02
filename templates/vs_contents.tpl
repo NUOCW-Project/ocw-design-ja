@@ -77,7 +77,7 @@
 			{foreach from=$vs.instructor_names key="i_id" item="i_name"} 
 			<a href="./courselist.php?sort=instructor#instructor{$i_id}">
 			{$i_name}
-			</a>
+			</a><br>
                         {/foreach} 
 		</td>
 		</tr>
