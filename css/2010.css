@@ -217,7 +217,15 @@ a:hover{
 }
 
 
-#aboutpodcast,
+#aboutpodcast{
+float: left;
+width: 180;
+padding: 0px;
+margin: 0px 5px 0px 5px;
+position: relative;
+top: -25px;
+}
+
 #departmentslist{
 	float: left;
 	width: 160px;

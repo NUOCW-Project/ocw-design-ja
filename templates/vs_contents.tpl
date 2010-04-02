@@ -17,13 +17,13 @@
 			<th width="40%">¥³¡¼¥¹Ì¾</th>
 			<th width="30" class="center">»ëÄ°<br>¥Ü¥¿¥ó</th>
 			<th width="25%">³ØÉô¡¦¸¦µæ²Ê</th>
-			<th width="15%">Ã´Åö¹Ö»ÕÌ¾</th>
+			<th width="20%">Ã´Åö¹Ö»ÕÌ¾</th>
             {elseif $lang=='en'}
 			<th width="30" class="center"></th>
 			<th width="40%">Course name</th>
 			<th width="30" class="center"></th>
-			<th width="25%">Department</th>
-			<th width="10%">Lecturer</th>
+			<th width="20%">Department</th>
+			<th width="20%">Lecturer</th>
             {/if}
 		</tr>
 		<tr>
