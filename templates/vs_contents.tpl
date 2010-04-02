@@ -22,7 +22,7 @@
 			<th width="30" class="center"></th>
 			<th width="40%">Course name</th>
 			<th width="30" class="center"></th>
-			<th width="20%">Department</th>
+			<th width="25%">Department</th>
 			<th width="20%">Lecturer</th>
             {/if}
 		</tr>
@@ -70,13 +70,15 @@
 		{/if}<br>
 		</td>
 		<td class="left">
-			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.department_id}">{$vs.department_name}
+        		<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.department_id}">{$vs.department_name}
 			</a>
 		</td>
 		<td class="left">
-			<a href="./courselist.php?sort=instructor#instructor{$vs.instructor_id}">
-			{$vs.instructor_name}
+			{foreach from = {$vs.department_name} key = "i_id" item = "i_name" name = "i"} 
+			<a href="./courselist.php?sort=instructor#instructor{$vs.i.i_id}">
+			{$vs.i.i_name}
 			</a>
+                        {/foreach} 
 		</td>
 		</tr>
 		{/foreach}
