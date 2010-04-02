@@ -269,13 +269,13 @@ a:hover{
 #contents{
 	position:relative;
 	top:-25px;
-	margin-left: 250px;
+	margin-left: 200px;
 	margin-right: 40px;
 	background-color: white;
 	padding-left: 1ex;
 }
 		*html #contents{
-			width: 700px;
+			width: 680px;
 			border: dotted;
 		}
 
