@@ -441,7 +441,7 @@ table{
 	width: 720px;
 	height: 125px;
 	margin: 0px;
-	border: dotted;
+	padding: 0px;
 }
 
 .date2{
