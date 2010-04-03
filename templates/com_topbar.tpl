@@ -48,9 +48,6 @@
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
 		<input type="hidden" name="submit" value="検索する">
               <input type="image" src="./images/common/search.gif" alt="検索する">
-	<input type="hidden" name="SM" value=""MC>
-	<input type="hidden" name="RD" value="DM">
-	<input type="hidden" name="DC" value="50">
             </div> <!-- "header_button_search" end -->
           </form>
         </div><!-- "header_button_sub" end -->
