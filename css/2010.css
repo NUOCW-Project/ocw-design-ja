@@ -257,7 +257,7 @@ position: relative;
 	#menu{
 		position: absolute;
 		bottom: 25px;
-		left: 190px;
+		left: 195px;
 	}
 
 		.menu0{
@@ -282,7 +282,7 @@ position: relative;
 	padding-left: 1ex;
 	max-width: 705px;
 	border-style: dashed;
-	border-width: 1px;
+	/*border-width: 1px;*/
 }
 
 	.pankuzu{
@@ -330,7 +330,7 @@ position: relative;
 	}
 
 .dots{
-	width: 90%;
+	width: 95%;
 }
 
 #notice{
