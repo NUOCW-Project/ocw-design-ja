@@ -37,7 +37,7 @@
 <div class="waku"><!-- ボックス「アクセスランキング」 -->
 	<img src="./images/{$lang}/t_ranking.png" class="subheading" />
 	 <br />
- 	<img src="./images/common/dots.png" />
+ 	<img src="./images/common/dots.png" class="dots" />
 
 	<table id="rank_table">
 	<tr id="no0">
@@ -63,7 +63,7 @@
   <img src="./images/{$lang}/t_news.png" class="subheading" />
   <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
-  <img src="./images/common/dots.png" />
+  <img src="./images/common/dots.png" class="dots" />
     <table>
      <tr>
 	<td class="date2">-2010/03/24</td>
@@ -82,8 +82,12 @@
   <img src="./images/{$lang}/t_release.png" class="subheading" />
       <img src="./images/{$lang}/backno.png" class="jump" />
   <br />
-  <img src="./images/common/dots.png" />
+  <img src="./images/common/dots.png" class="dots" />
     <table>
+     <tr>
+	<td class="date2">-2009/12/24</td>
+	<td class="article"><span>新デザインになりました。<img src="./images/common/new.png" class="icons" /></span></td>
+     </tr>
      <tr>
 	<td class="date2">-2009/12/24</td>
 	<td class="article"><span>新デザインになりました。<img src="./images/common/new.png" class="icons" /></span></td>

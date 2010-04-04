@@ -281,6 +281,8 @@ position: relative;
 	background-color: white;
 	padding-left: 1ex;
 	width: 705px;
+	border-style: dashed;
+	border-width: 1px;
 }
 
 	.pankuzu{
@@ -326,6 +328,10 @@ position: relative;
 		margin: 1ex auto 0 20px;
 		text-align: center;
 	}
+
+.dots{
+	width: 90%;
+}
 
 #notice{
 	float: left;
@@ -374,6 +380,7 @@ position: relative;
 		#rank_table{
 			position: absolute;
 			width: 95%;
+			zoom: 1;
 		}
 
 			#rank_table tr{
