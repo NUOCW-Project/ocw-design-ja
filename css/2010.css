@@ -305,6 +305,7 @@ position: relative;
 
 #feature{
 	width: 540px;
+	height: 250px;
 	float: left;
 	background-color: white;
 	overflow: hidden;
@@ -326,7 +327,6 @@ position: relative;
 
 #notice{
 	float: left;
-	/*clear: right;*/
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
@@ -334,6 +334,9 @@ position: relative;
 	/*height: 400px;*/
 	margin: 6px 6px 0 0;
 }
+		html>/**/body #notice{
+			clear: right;
+		}
 
 #press{
 	/*clear: right;*/
@@ -345,6 +348,9 @@ position: relative;
 	/*height: 300px;*/
 	margin: 6px 6px 0 0;
 }
+		html>/**/body #press{
+			clear: right;
+		}
 
 #access{
 	/*clear: right;*/
@@ -355,6 +361,9 @@ position: relative;
 	width: 310px;
 	margin: 6px 6px 0 0;
 }
+		html>/**/body #access{
+			clear: right;
+		}
 
 	#access div{
 			height: 200px;
