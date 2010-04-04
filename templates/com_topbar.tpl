@@ -43,8 +43,13 @@
           </div><!-- "header_button_akf" end -->
           <form method="get" action="http://akf.nul.nagoya-u.ac.jp/infolib/search/metdefault">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
-              <input type="text" id="searchbox" name="AKF" value="ここから授業を検索できます">
-            </div><!-- "header_button_input" end -->
+              <input type="text" id="searchbox" name="IS_KEY_S1" value="ここから授業を検索できます">
+         <input type="hidden" name="DB_ID" value="G0000002AKF">
+	<input type="hidden" name="GRP_ID" value="G0000002">
+	<input type="hidden" name="DEF_XSL" value="default">
+	<input type="hidden" name="IS_TYPE" value="meta">
+	<input type="hidden" name="IS_STYLE" value="">   
+	</div><!-- "header_button_input" end -->
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
               <input type="image" src="./images/common/search.gif" alt="検索する">
             </div> <!-- "header_button_search" end -->
