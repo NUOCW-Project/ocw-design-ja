@@ -41,7 +41,7 @@
           <div class="header_button_akf">
              <img src="./images/{$lang}/akf.gif" alt="AKF Search" align="left"/>
           </div><!-- "header_button_akf" end -->
-          <form method="get" action="http://akf.nul.nagoya-u.ac.jp/infolib/search">
+          <form method="get" action="http://akf.nul.nagoya-u.ac.jp/infolib/search/metdefault">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
               <input type="text" id="searchbox" name="AKF" value="ここから授業を検索できます">
             </div><!-- "header_button_input" end -->
