@@ -38,7 +38,7 @@
 	<img src="./images/{$lang}/t_ranking.png" class="subheading" />
 	 <br />
  	<img src="./images/common/dots.png" class="dots" />
-
+	 <br />
 	<table id="rank_table">
 	<tr id="no0">
 		<td class="rank">½ç°Ì</td>

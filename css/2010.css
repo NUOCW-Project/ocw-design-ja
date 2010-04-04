@@ -201,7 +201,7 @@ a:hover{
 	}
 
 .main{
-	max-width: 930px;
+	max-width: 945px;
 	overflow: hidden;
 	margin-left: 30px;
 	min-height: 1150px;
@@ -277,10 +277,10 @@ position: relative;
 	position:relative;
 	top: -25px;
 	margin-left: 200px;
-	margin-right: 40px;
+	/*margin-right: 40px;*/
 	background-color: white;
 	padding-left: 1ex;
-	width: 705px;
+	max-width: 705px;
 	border-style: dashed;
 	border-width: 1px;
 }
