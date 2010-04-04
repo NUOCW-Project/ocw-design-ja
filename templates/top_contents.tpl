@@ -13,7 +13,7 @@
 <div id="contents">
 
 	{include file="com_navi.tpl"}<!-- パンくずリスト com_header.tplから移動 -->
-
+<div class="inline">
 <div id="feature">
   <img src="./images/{$lang}/t_special.png" />
   <img src="./images/{$lang}/backno.png" class="jump" />
@@ -30,7 +30,9 @@
      ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。	 <br />
       <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div><!-- "greeting" end -->
+</div><!-- "inline" end -->
 
+<div class="inline">
 <div id="access">
 <div class="waku"><!-- ボックス「アクセスランキング」 -->
 	<img src="./images/{$lang}/t_ranking.png" class="subheading" />
@@ -101,29 +103,9 @@
     </table>
 </div><!-- 「プレスリリース」end -->
 </div>
-
+</div><!-- "inline" -->
 <script type="text/javascript">
 <!--
 	method3();
 // -->
 </script>
-
-
-<!--
-
-var H = $("#notice").outerHeight() + $("#press").outerHeight() - 22;
-document.write("「お知らせ」「プレスリリース」の高さの合計は" + H + "pxです.");
-var cssValue = $("#access div").css("height", H + "px");
-
-var G = 0;
-var i = 1;
-
-while ( (G < H) && (i<10) )
-	G = G + $("#no" + i).outerHeight();
-	i++;
-
-
-document.write("「アクセスらんきんぐ」の高さは" + G + "pxです.");
-
-var cssValue = $("rank_table").css("clip", "rect(auto, auto, " + H + "px, auto)");
--->

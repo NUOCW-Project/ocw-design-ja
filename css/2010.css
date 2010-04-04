@@ -281,10 +281,6 @@ position: relative;
 	background-color: white;
 	padding-left: 1ex;
 }
-		*html #contents{
-			width: 680px;
-			border: dotted;
-		}
 
 	.pankuzu{
 		min-height: 30px; 
@@ -300,6 +296,12 @@ position: relative;
 		}
 
 /* 以下トップページ関連 */
+.inline{
+	display: inline-block;
+}/* IE対策 */
+.inline{
+	display: block;
+}
 
 #feature{
 	width: 540px;
@@ -307,9 +309,6 @@ position: relative;
 	background-color: white;
 	overflow: hidden;
 }
-	*html #feature{
-		float: none;
-	}
 
 #greeting{
 	float: right;
@@ -319,9 +318,6 @@ position: relative;
 	border-width: 1px;
 	width:100px;
 }
-		*html #greeting{
-			float: none;
-		}
 
 	#yamamoto{
 		margin: 1ex auto 0 20px;
@@ -330,7 +326,7 @@ position: relative;
 
 #notice{
 	float: left;
-	clear: right;
+	/*clear: right;*/
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
@@ -338,13 +334,9 @@ position: relative;
 	/*height: 400px;*/
 	margin: 6px 6px 0 0;
 }
-		*html #notice{
-			zoom: 1;
-			float: none;
-		}
 
 #press{
-	clear: right;
+	/*clear: right;*/
 	float: left;
 	border-style: solid;
 	border-width: 6px;
@@ -353,13 +345,9 @@ position: relative;
 	/*height: 300px;*/
 	margin: 6px 6px 0 0;
 }
-		*html #press{
-			zoom: 1;
-			float: none;
-		}
 
 #access{
-	clear: right;
+	/*clear: right;*/
 	float: left;
 	border-style: solid;
 	border-width: 6px;
@@ -367,10 +355,6 @@ position: relative;
 	width: 310px;
 	margin: 6px 6px 0 0;
 }
-		*html #access{
-			zoom: 1;
-			float: none;
-		}
 
 	#access div{
 			height: 200px;
