@@ -7,7 +7,7 @@
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/toggle.js"></script>
 <script type="text/javascript" src="./js/openWin.js"></script>
-<script type="text/javascript" src="./js/test.js"></script>
+<script type="text/javascript" src="./js/setHeight.js"></script>
 <title>
 {if $lang=='ja'}
 名大の授業 (NU OCW)

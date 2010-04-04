@@ -280,6 +280,7 @@ position: relative;
 	margin-right: 40px;
 	background-color: white;
 	padding-left: 1ex;
+	width: 705px;
 }
 
 	.pankuzu{
@@ -301,6 +302,7 @@ position: relative;
 }/* IEÂÐºö */
 .inline{
 	display: block;
+	width: 100%;
 }
 
 #feature{
