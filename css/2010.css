@@ -318,7 +318,7 @@ position: relative;
 	float: left;
 	width: 165px;
 	height: 255px;
-	margin-top: 15px;
+	margin-top: 24px;
 	position: relative;
 	font-size: 11px;
 	font-height: 14px;
@@ -416,7 +416,7 @@ position: relative;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #DDDDDD;
-		/*overflow: hidden;*/
+		overflow: hidden;
 		position: relative;
 		padding: 6px;
 		zoom: 1;
@@ -543,7 +543,8 @@ table{
 
 /* 以下フッター関連 */
 
-.jump{
+.jump
+{
 	float: right;
 }
 
