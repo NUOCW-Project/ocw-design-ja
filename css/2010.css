@@ -307,9 +307,6 @@ position: relative;
 }
 
 .subheading{
-	border-style: dashed;
-	border-width: 1px;
-	border-color: green;
 }
 
 #feature{
@@ -318,6 +315,7 @@ position: relative;
 	float: left;
 	background-color: white;
 	overflow: hidden;
+	position: relative;
 }
 
 #greeting{
@@ -427,11 +425,7 @@ position: relative;
 		padding: 6px;
 		zoom: 1;
 	}
-
-.icons{
-	float: right;
-}
-
+			
 table{
 	border-style: none;
 	margin: 0;
@@ -556,6 +550,7 @@ table{
 }
 
 .footer{	
+	position: relative;
 	clear: both;
 	font-size: 11px;
 	text-align: center;
