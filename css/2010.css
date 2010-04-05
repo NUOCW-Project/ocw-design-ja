@@ -306,6 +306,12 @@ position: relative;
 	width: 100%;
 }
 
+.subheading{
+	border-style: dashed;
+	border-width: 1px;
+	border-color: green;
+}
+
 #feature{
 	width: 540px;
 	height: 250px;
@@ -382,9 +388,6 @@ position: relative;
 		#rank_table{
 			position: absolute;
 			width: 95%;
-			border-style: dashed;
-			border-width: 1px;
-			border-color: green;
 		}
 
 			#rank_table tr{
