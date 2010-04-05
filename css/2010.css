@@ -323,11 +323,13 @@ position: relative;
 	border-width: 1px;
 	width:100px;*/
 	position: relative;
+	font-size: 10px;
 }
 	#greeting p{
 		position: absolute;
-		bottom: 1ex;
+		bottom: 0px;
 		display: block;
+		margin: 0ex 1ex;
 	}
 
 .dots{

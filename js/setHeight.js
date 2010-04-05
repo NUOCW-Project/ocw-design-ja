@@ -1,7 +1,6 @@
   function method3() {	
 	var H;
 	H = $("#notice").outerHeight() + $("#press").outerHeight() -21;
-	var cssValue = $("#access div").css("height", H + "px");
 	
 	H = H - 40;
 	var G = 0;
@@ -16,3 +15,5 @@
 	G = G - $("#no" + i).outerHeight(true) + 17;
 	var cssValue = $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto");
 }
+	H = H + 40;
+	var cssValue = $("#access div").css("height", H + "px");
