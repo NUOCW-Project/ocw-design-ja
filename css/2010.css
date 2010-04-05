@@ -542,11 +542,15 @@ table{
 }
 
 .jump{
-	margin-right: 1ex;
 	margin-left: auto;
-	/*float: right;
-	position: absolute;
-	right: 1em;*/
+}
+		head~/* */body .jump{
+			float: right;
+		}
+
+.icon{
+	display: inline;
+	vertical-align: bottom;
 }
 
 
