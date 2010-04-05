@@ -24,11 +24,11 @@
 </div> <!-- "feature" end -->
     
 <div id="greeting">
-  <b>ごあいさつ<br />
-  <img src="{$IMGDIR}/d_yamamoto.JPG" id="yamamoto" />
-  <p>名古屋大学<br />オープンコースウェア委員長<br />山本一良</p></b>
+  <img src="{$IMGDIR}/goaisatu.png" id="yamamoto" />
+  <p>
      ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。	 <br />
       <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
+  </p>
 </div><!-- "greeting" end -->
 </div><!-- "inline" end -->
 
@@ -90,7 +90,7 @@
      </tr>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="article"><span>新デザインになりました。<img src="./images/common/new.png" class="icons" /></span></td>
+	<td class="article"><span>新デザインになりました。</span></td>
      </tr>
      <tr>
 	<td class="date2">-2009/12/24</td>
