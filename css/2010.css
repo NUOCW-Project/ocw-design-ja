@@ -382,6 +382,9 @@ position: relative;
 		#rank_table{
 			position: absolute;
 			width: 95%;
+			border-style: dashed;
+			border-width: 1px;
+			border-color: green;
 		}
 
 			#rank_table tr{
@@ -545,10 +548,6 @@ table{
 
 .jump{
 	float: right;
-	/width: 85px;
-}
-html:not([lang*=""]) .jump{
-	width: 85px;
 }
 
 .footer{	
