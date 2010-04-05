@@ -280,9 +280,8 @@ position: relative;
 	/*margin-right: 40px;*/
 	background-color: white;
 	padding-left: 1ex;
+	_width: 705px;
 	max-width: 705px;
-	/*border-style: dashed;
-	border-width: 1px;*/
 }
 
 	.pankuzu{
@@ -323,10 +322,12 @@ position: relative;
 	position: relative;
 	font-size: 11px;
 	font-height: 14px;
+	zoom: 1;
 }
 	#greeting p{
 		position: absolute;
 		top: 200px;
+		left: 0px;
 		margin: 0px 1em;
 	}
 
@@ -381,7 +382,6 @@ position: relative;
 		#rank_table{
 			position: absolute;
 			width: 95%;
-			zoom: 1;
 		}
 
 			#rank_table tr{
@@ -416,9 +416,10 @@ position: relative;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #DDDDDD;
-		overflow: hidden;
+		/*overflow: hidden;*/
 		position: relative;
 		padding: 6px;
+		zoom: 1;
 	}
 
 .icons{
@@ -429,6 +430,7 @@ table{
 	border-style: none;
 	margin: 0;
 	padding: 0;
+	zoom: 1;
 }
 
 	td{
