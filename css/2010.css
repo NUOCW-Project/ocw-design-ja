@@ -551,7 +551,7 @@ table{
 
 .jump{
 	/*float: right;*/
-	position: relative;
+	position: absolute;
 	right: 1em;
 }
 
