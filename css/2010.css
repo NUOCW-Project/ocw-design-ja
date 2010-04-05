@@ -543,9 +543,12 @@ table{
 
 /* 以下フッター関連 */
 
-.jump
-{
+.jump{
 	float: right;
+	/width: 85px;
+}
+html:not([lang*=""]) .jump{
+	width: 85px;
 }
 
 .footer{	
