@@ -26,8 +26,8 @@
 <div id="greeting">
   <img src="./images/{$lang}/goaisatu.png" id="yamamoto" />
   <p>
-     ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。	 <br />
-      <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
+     ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。
+     <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
   </p>
 </div><!-- "greeting" end -->
 </div><!-- "inline" end -->
