@@ -71,7 +71,7 @@
      </tr>
      <tr>
 	<td class="date2">-2009/12/24</td>
-	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開</a></td>
+	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開<img src="./images/common/new.png" class="jump" /></a></td>
      </tr>
     </table>
 </div>

@@ -1,7 +1,9 @@
 <div class="footer">
   <!-- 「ページトップへ」 -->
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="jump"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
-      <img src="./images/common/redline.gif" class="line" /><!-- 水平線(下) -->
+  <br />
+  <img src="./images/common/redline.gif" class="line" /><!-- 水平線(下) -->
+  
   <ul class="navi">
     <li>■ナビゲーション</li>
     <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=kyoiku-in">□教養教育院</a></li>
