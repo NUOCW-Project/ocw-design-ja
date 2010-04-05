@@ -1,4 +1,4 @@
-  function method3() {	
+function method3() {	
 	var H;
 	H = $("#notice").outerHeight() + $("#press").outerHeight() -21;
 	
@@ -17,4 +17,4 @@
 
 	H = H + 40;
 	var cssValue = $("#access div").css("height", H + "px");
-  }
+}

@@ -327,7 +327,7 @@ position: relative;
 }
 	#greeting p{
 		position: absolute;
-		bottom: 0px;
+		bottom: 1ex;
 		display: block;
 		margin: 0ex 1ex;
 	}
