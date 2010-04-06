@@ -547,7 +547,7 @@ table{
 		head~/* */body .jump{
 			float: right;
 		}
-		html:not([lang*=""]) .jump{
+		html>/**/body .jump{
 			float: right;
 			margin-top: -1em;
 		}
