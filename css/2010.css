@@ -564,7 +564,8 @@ table{
 /* 以下フッター関連 */
 
 .footer{	
-	position: relative;
+	/*position: relative; */
+	float: left;
 	clear: both;
 	font-size: 11px;
 	text-align: center;
