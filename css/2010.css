@@ -220,13 +220,13 @@ a:hover{
 #aboutpodcast_image{
 padding: 0px;
 margin-top: 10px;
-margin-bottom: 5px;
+margin-bottom: 10px;
 text-align: center;
 position: relative;
 }
 
 #aboutpodcast_sentence{
-padding: 0px 0px 3px 0px;
+padding: 0px;
 margin: 5px 5px 3px 5px;
 text-align: left;
 position: relative;
