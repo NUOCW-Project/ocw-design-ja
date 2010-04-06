@@ -8,28 +8,21 @@
   <ul class="navi">
 {literal}
 {foreach from=$dept_list key=abbr item=dept name=navigation}
-   {assign var='navi_total' value=$smarty.foreach.navigation.total/3}
-   <li>{$smarty.foreach.navigation.index%$navi_total}. <a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢{$dept.department_name}</a></li>
-{/foreach}
-{/literal}
-  </ul>
-  
+  {assign var='navi_total' value=$smarty.foreach.navigation.total/3}
+  {if $smarty.foreach.navigation.first}
   <ul class="navi">
-    <li>¢£¥Ê¥Ó¥²¡¼¥·¥ç¥ó<br></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=med">¢¢°å³ØÉô¡¿°å³Ø¸¦µæ²Ê</a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=eng">¢¢¹©³ØÉô¡¿¹©³Ø¸¦µæ²Ê</a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=agr">¢¢ÇÀ³ØÉô¡¿À¸Ì¿ÇÀ³Ø¸¦µæ²Ê</a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=is">¢¢¾ðÊó²Ê³Ø¸¦µæ²Ê</a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=gsid">¢¢¹ñºÝ³«È¯¸¦µæ²Ê</a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=math">¢¢Â¿¸µ¿ôÍý²Ê³Ø¸¦µæ²Ê</a></li>
+     <li>¢£¥Ê¥Ó¥²¡¼¥·¥ç¥ó<br></li>
+  {elseif $smarty.foreach.navigation.index%$navi_total==0}
   </ul>
-  
   <ul class="navi">
     <li><br></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=gcoetop">¢¢¥°¥í¡¼¥Ð¥ëCOE</a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=farewell">¢¢Âà¿¦µ­Ç°¹ÖµÁ</a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=open">¢¢¹â¹»À¸¸ø³«¹ÖºÂ</a></li>
+  {/if}
+    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢{$dept.department_name}</a></li>
+  {if $smarty.foreach.navigation.last}
   </ul>
+  {/if}
+{/foreach}
+{/literal}
   
   <ul class="navi">
     <li>¢£¥³¥ó¥Æ¥ó¥Ä</li>
