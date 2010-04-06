@@ -293,7 +293,7 @@ position: relative;
 	padding-left: 5px;
 	_width: 705px;
 	max-width: 705px;
-	overflow: hidden;
+	/*overflow: hidden;後で戻すこと*/
 }
 
 	.pankuzu{
@@ -322,7 +322,7 @@ position: relative;
 }
 
 #feature{
-	width: 530px;
+	width: 528px;
 	float: left;
 	background-color: white;
 	overflow: hidden;
