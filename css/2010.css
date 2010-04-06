@@ -312,7 +312,7 @@ position: relative;
 /* Safari4 hack */
 body:first-of-type #contents{
 	width: 720px;
-	overflow: scroll;
+	overflow: visible;
 }
 	.pankuzu{
 		min-height: 28px; 
