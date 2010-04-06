@@ -669,14 +669,14 @@ table{
  #proviso {
 	margin: 1em 0 auto auto;
 	text-align: center;
+	position: relative;
 	border: dotted;
 }
 
 .nu{
 	color: #996633;
 	margin: 0px;
-	position: relative;
-	left: 205px; 
+	float: left; 
 	text-align: left;
 	
 }
