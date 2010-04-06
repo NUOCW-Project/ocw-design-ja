@@ -904,7 +904,6 @@ td.separate{
 
 /** ごあいさつ　関連 **/
 div.welcome_img{
-	position: absolute;
 	width: 250px;
 	vertical-align: middle;
 	margin: 0px 20px;
