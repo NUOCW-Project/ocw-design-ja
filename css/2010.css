@@ -40,8 +40,13 @@ a:hover{
 
 .header{
 	height: 90px; 
-	background-image: url(../images/ja/topbar.gif);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
+	background-image: url(../images/ja/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
 	background-repeat: no-repeat;
+}
+
+.topheader{
+	heighe: 110px;
+	background-image: url(../images/ja/topbar_top.jpg);
 }
 
 .header a#home_header{
