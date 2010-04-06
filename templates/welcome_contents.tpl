@@ -5,7 +5,6 @@
 <div id="contents">
 {include file="com_navi.tpl"}
 
-<div class="welcom_up">
 
 <div class="welcom_img">
 {flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv"}
@@ -16,7 +15,6 @@
 	委員長 山本 一良
 	</p>
 
-</div>
 
 <!--
 	<div class="welcome_vsyllabus">
