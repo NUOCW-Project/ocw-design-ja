@@ -297,7 +297,7 @@ position: relative;
 	padding: 0;
 	_width: 700px;
 	max-width: 740px;
-	width: 740px;
+	width: 730px;
 	overflow: hidden;
 	border-style: dashed;
 	border-width: 1px;
@@ -587,9 +587,11 @@ table{
 	font-size: 11px;	
 	text-align: left;
 	padding-top: 1em;
+
 	margin-left: auto;
+
 	margin-right: auto;
-	width: 150%;
+width: 150%;
 	overflow: hidden;
 	background-color: #e7e7df; 
 }
@@ -616,7 +618,7 @@ table{
 		margin-bottom: 1ex;
 	}
 
-.footer_bottom{
+#footer_bottom{
 	position: relative; 
 	top: 250px;
 	background-color: #ecece6;
