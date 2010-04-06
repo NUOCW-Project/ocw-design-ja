@@ -7,6 +7,8 @@
   <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
   </th>
   </tr>
+</table>
+<table id="aboutpodcast" style="list-style:none">
   <tr>
   {if $lang=='ja'}
   <th class="left">
