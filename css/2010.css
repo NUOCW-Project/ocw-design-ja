@@ -596,7 +596,7 @@ table{
 	text-align: left;
 	float: left;
 	list-style-type: none;
-	border: doted;
+	border: dotted;
 	position: relative;
 	left: 100px;
 }
