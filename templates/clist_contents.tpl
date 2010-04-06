@@ -31,9 +31,8 @@
     {include file="sort_course_table_dep_order.tpl"}
   {literal}{/if}{/literal}
 {literal}{else}{/literal}
-
-show_list が false です.
-
+  {* 該当部局のコンテンツ表示 *}
+  {literal}{include file="${lang}/l/${pagetype}.tpl"}{/literal}
 
 {literal}{/if}{/literal}
 
