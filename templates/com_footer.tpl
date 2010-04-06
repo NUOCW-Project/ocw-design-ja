@@ -32,7 +32,7 @@
 <!--    <li>トピックス</li> -->
   </ul>
 
-<div id="footer_bottom">  
+<div class="footer_bottom">  
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&page_type=about">
 	<img src="./images/{$lang}/c01aboutnu.gif" id="size_img" alt="名大の授業について"
