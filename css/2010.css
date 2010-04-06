@@ -295,10 +295,13 @@ position: relative;
 	margin: 0 0 0 200px;
 	/*margin-right: 40px;*/
 	background-color: white;
-	padding: 0 0 0 2px;
+	padding: 0 0 0 5px;
 	_width: 705px;
 	max-width: 705px;
 	overflow: hidden;
+	border-style: dashed;
+	border-width: 1px;
+	border-color: blue;
 }
 
 	.pankuzu{
