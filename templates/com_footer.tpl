@@ -8,7 +8,7 @@
     <li>¢£¥Ê¥Ó¥²¡¼¥·¥ç¥ó</li>
 {literal}
 {foreach from=$dept_list key=abbr item=dept}
-    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢¶µ$dept.department_name}</a></li>
+    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢{$dept.department_name}</a></li>
 {/foreach}
 {/literal}
   </ul>
