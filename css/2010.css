@@ -620,6 +620,7 @@ width: 150%;
 	}
 
 #footer_bottom{
+	position: relative;
 	background-color: #ecece6;
 	border: dotted;
 	}
