@@ -582,6 +582,7 @@ table{
 	width: 150%;
 	overflow: hidden;
 	/*backgroound-clor: #e7e7df; */
+	border: dotted;
 }
 
 .line{
