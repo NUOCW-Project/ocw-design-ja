@@ -6,12 +6,11 @@
   
   <ul class="navi">
     <li>¢£• •”•≤°º•∑•Á•Û</li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=kyoiku-in">¢¢∂µÕ‹∂µ∞È±°</a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=lit">¢¢ ∏≥ÿ…Ù°ø ∏≥ÿ∏¶µÊ≤ </a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=educa">¢¢∂µ∞È≥ÿ…Ù°ø∂µ∞È»Ø√£≤ ≥ÿ∏¶µÊ≤ </a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=nomolog">¢¢À°≥ÿ…Ù°øÀ°≥ÿ∏¶µÊ≤ </a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=soec">¢¢∑–∫—≥ÿ…Ù°ø∑–∫—≥ÿ∏¶µÊ≤ </a></li>
-    <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=sis">¢¢æ Û ∏≤Ω≥ÿ…Ù</a></li>
+{literal}
+{foreach from=$dept_list key=abbr item=dept}
+    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢∂µ{$dept.department_name}</a></li>
+{/foreach}
+{/literal}
   </ul>
   
   <ul class="navi">
