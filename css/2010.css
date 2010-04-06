@@ -549,8 +549,7 @@ table{
 		}
 		html:not([lang*=""]) .jump{
 			float: right;
-			position: relative;
-			top: -1em;
+			margin-top: -1em;
 		}
 
 .icon{
