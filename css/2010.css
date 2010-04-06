@@ -675,21 +675,21 @@ ul#departmentslist a:visited{
 	font-weight: 400;
 }
 
-table.basic{
+table.basic, table.farewell{
 	border:0;
 	border-collapse: collapse;
 	white-space:normal;
 }
 
-table.basic th{
+table.basic th, table.farewell th{
 	border: 1px solid #999999;
 }
 
-table.basic td{
+table.basic td, table.farewell td{
 	border: 1px solid #999999;
 }
 
-table.basic ul {
+table.basic ul, table.farewell ul{
 	padding-left: 1em;
 }
 
