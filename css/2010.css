@@ -201,7 +201,7 @@ a:hover{
 	}
 
 .main{
-	max-width: 945px;
+	max-width: 930px;
 	overflow: hidden;
 	margin-left: 30px;
 	min-height: 1150px;
@@ -221,9 +221,8 @@ a:hover{
 float: left;
 width: 180;
 padding: 0px;
+text-align: center;
 margin-top: 10px;
-margin-left: auto;
-margin-right: auto;
 position: relative;
 }
 
@@ -259,7 +258,7 @@ position: relative;
 	#menu{
 		position: absolute;
 		bottom: 25px;
-		left: 195px;
+		left: 190px;
 	}
 
 		.menu0{
@@ -279,15 +278,17 @@ position: relative;
 	position:relative;
 	top: -25px;
 	margin-left: 200px;
-	/*margin-right: 40px;*/
+	margin-right: 40px;
 	background-color: white;
 	padding-left: 1ex;
-	_width: 705px;
-	max-width: 705px;
 }
+		*html #contents{
+			width: 680px;
+			border: dotted;
+		}
 
 	.pankuzu{
-		min-height: 28px; 
+		min-height: 30px; 
 		list-style-type: none;
 		padding: 5px 0px 0px 0px; /* paddingの初期化をすることで問題解決（メモ）*/
 		margin: 0px;
@@ -300,92 +301,80 @@ position: relative;
 		}
 
 /* 以下トップページ関連 */
-.inline{
-	display: inline-block;
-}/* IE対策 */
-.inline{
-	display/**/: block;
-	width: 100%;
-}
-
-.subheading{
-}
 
 #feature{
-	width: 660px;
-	height: 254px;
+	width: 540px;
 	float: left;
 	background-color: white;
 	overflow: hidden;
-	position: relative;
 }
-
-#greeting{
-	float: left;
-	width: 165px;
-	/*height: 255px;*/
-	margin-top: 20px;
-	padding-bottom: 1em;
-	font-size: 11px;
-	font-height: 12px;
-	zoom: 1;
-	border-style: solid;
-	border-width: 1px;
-	border-color : #DDDDDD;
-}
-	#greeting p{
-		/*position: absolute;
-		top: 197px;
-		left: 0px;*/
-		margin: 0px 1ex;
+	*html #feature{
+		float: none;
 	}
 
-.dots{
-	width: 100%;
+#greeting{
+	float: right;
+	margin-top: 15px;
+	padding: 0.5em;
+	border-style: solid;
+	border-width: 1px;
+	width:100px;
 }
+		*html #greeting{
+			float: none;
+		}
+
+	#yamamoto{
+		margin: 1ex auto 0 20px;
+		text-align: center;
+	}
 
 #notice{
 	float: left;
+	clear: right;
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
-	width: 330px;
+	width: 310px;
 	/*height: 400px;*/
 	margin: 6px 6px 0 0;
 }
-		html>/**/body #notice{
-			clear: right;
+		*html #notice{
+			zoom: 1;
+			float: none;
 		}
 
 #press{
-	/*clear: right;*/
+	clear: right;
 	float: left;
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
-	width: 330px;
+	width: 310px;
 	/*height: 300px;*/
 	margin: 6px 6px 0 0;
 }
-		html>/**/body #press{
-			clear: right;
+		*html #press{
+			zoom: 1;
+			float: none;
 		}
 
 #access{
-	/*clear: right;*/
+	clear: right;
 	float: left;
 	border-style: solid;
 	border-width: 6px;
 	border-color: #FFF3E3;
-	width: 330px;
+	width: 310px;
 	margin: 6px 6px 0 0;
 }
-		html>/**/body #access{
-			clear: right;
+		*html #access{
+			zoom: 1;
+			float: none;
 		}
 
 	#access div{
-			height: 300px;
+			height: 200px;
 	}
 
 		#rank_table{
@@ -428,14 +417,16 @@ position: relative;
 		overflow: hidden;
 		position: relative;
 		padding: 6px;
-		zoom: 1;
 	}
-			
+
+.icons{
+	float: right;
+}
+
 table{
 	border-style: none;
 	margin: 0;
 	padding: 0;
-	zoom: 1;
 }
 
 	td{
@@ -546,30 +537,20 @@ table{
   float: left;
 }
 
-.jump{
-	margin-left: auto;
-}
-		head~/* */body .jump{
-			float: right;
-		}
-
-.icon{
-	display: inline;
-	vertical-align: bottom;
-}
-
-
 /* 以下フッター関連 */
 
+.jump{
+	float: right;
+}
+
 .footer{	
-	position: relative;
 	clear: both;
 	font-size: 11px;
 	text-align: center;
 	padding-top: 1em;
 	margin-left: auto;
 	margin-right: auto;
-	width: 90%;
+	width: 85%;
 	overflow: hidden;
 }
 
@@ -774,6 +755,31 @@ ol.upper-alpha{
 }
 
 
+/* 一般ページのごあいさつ */
+h1.welcome {
+	margin-bottom: 30px;
+}
+
+div.welcome_img{
+	width: 250px;
+	vertical-align: middle;
+	margin: 0px 20px;
+}
+
+p.welcome_chairperson{
+	margin-left: 300px;
+    padding: 20px 5px 5px;
+}
+
+div.welcome_vsyllabus {
+    text-align: left;
+	padding: 5px 0 10px
+}
+
+div.welcome_contents {
+	clear: left;
+}
+
 /* 表 */
 table.basic{
 	border:0;
@@ -905,46 +911,4 @@ td.separate{
 	position: relative;
 	top: 20px;
 	left: 350px;
-}
-
-/** ごあいさつ　関連 **/
-div.welcome_img{
-	width: 250px;
-	text-align: middle;
-	margin: 0px 20px;
-}
-
-p.welcome_chairperson{
-	text-align: left;
-	padding: 20px 5px 5px;
-}
-
-div.welcome_contents {
-	text-indent: 1em;
-	clear: left;
-}
-
-/** サイトマップ関連 **/
-div.sitemap_contents{
-	position: relative;
-	clear: both;
-	text-align: center;
-	padding-top: 1em;
-	margin-left: auto;
-	margin-right: auto;
-	width: 85%;
-}
-
-/** お問い合わせ **/
-h2.inq {
-	font-size: 130%;
-	font-weight: bold;
-	color: #666666;
-	background-image: none;
-	padding: 0;
-	margin: 10px 0;
-}
-
-span.red{
-	color:#FF3333;
 }
