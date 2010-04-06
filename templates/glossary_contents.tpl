@@ -47,7 +47,7 @@
 			<p><span class="b">部局長推薦</span></p>
 			<p>名古屋大学の各学部長ないし、研究科長が推薦する講義。</p>
 			<p><span class="b">OCW WG推薦</span></p>
-			<p><a href="index.php?lang=ja&amp;mode=g&amp;page_type=about#ocwwg">名古屋大学OCW WG(Working Group)が推薦する講義。</p>
+			<p><a href="index.php?lang=ja&amp;mode=g&amp;page_type=about#ocwwg">名古屋大学OCW WG(Working Group)</a>が推薦する講義。</p>
 			<p><span class="b">COE</span></p>
 			<p>center of excellence：卓越した研究拠点国際的に卓越した教育研究拠点の形成と国際競争力のある大学づくりを推進することを目的として文部科学省が重点的に支援する研究機関、大学とこの研究教育プログラム。</p>
 			<p><span class="b">グローバルCOEプログラム</span></p>
