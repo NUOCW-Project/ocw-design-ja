@@ -904,6 +904,7 @@ td.separate{
 
 /** ごあいさつ　関連 **/
 div.welcome_img{
+	position: absolute;
 	width: 250px;
 	text-align: middle;
 	margin: 0px 20px;
@@ -915,9 +916,9 @@ p.welcome_chairperson{
 	padding: 20px 5px 5px;
 }
 
-div.welcome_vsyllabus {
-	text-align: left;
-	padding: 5px 0 10px
+div.welcom_up{
+
+
 }
 
 div.welcome_contents {
