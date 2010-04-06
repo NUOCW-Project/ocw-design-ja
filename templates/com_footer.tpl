@@ -5,7 +5,6 @@
   <img src="./images/common/redline.gif" class="line" /><!-- 水平線(下) -->
   <br />
 
-  <ul class="navi">
 {literal}
 {foreach from=$dept_list key=abbr item=dept name=navigation}
   {assign var='navi_total' value=`$smarty.foreach.navigation.total/2+1`}
