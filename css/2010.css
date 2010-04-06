@@ -390,7 +390,7 @@ position: relative;
 	float: left;
 	border-style: solid;
 	border-width: 6px;
-	border-color: #FFF3E3;
+	border-color: #e7e7df;
 	width: 330px;
 	margin: 6px 6px 0 0;
 }
@@ -422,7 +422,7 @@ position: relative;
 
 		#no1 td{
 			padding: 1em 0em;
-			background-color: #FFF3E3;
+			background-color: #e7e7df;
 		}	
 
 		#no2 td{
@@ -432,7 +432,7 @@ position: relative;
 
 		#no3 td{
 			padding: 1em 0em;
-			background-color: #FFF3E3;
+			background-color: #e7e7df;
 		}
 	
 	.waku{
@@ -719,7 +719,7 @@ span.b{
         float: left;
         border-style: solid;
         border-width: 6px;
-        border-color: #FFF3E3;
+        border-color: #e7e7df;
         width: 180px;
         margin: 6px 4px 0 4px;
 }
@@ -769,7 +769,7 @@ td.td_under_gray{
 
 td.td_contents_gray{
 	vertical-align: top;
-	backgrouond-color:#FFF3E3;
+	backgrouond-color:#e7e7df;
 }
 
 /* ²Õ¾ò½ñ¤­ */
@@ -887,12 +887,12 @@ td.right_gray{
 td.separate{
 	border: none;
 	text-align: right;
-	background-color:#FFF3E3;
+	background-color:#e7e7df;
 	height:5px;
 }
 
 .even{
-	background-color:#FFF3E3;
+	background-color:#e7e7df;
 }
 .odd{
 	background-color:#fff;
