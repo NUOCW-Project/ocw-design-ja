@@ -1,4 +1,4 @@
-{if $page_format.tpl_name=='index'}
+6c{if $page_format.tpl_name=='index'}
 <img src="./images/{$lang}/header_coursehome.jpg" />
 {/if}
 {if $page_format.tpl_name=='syllabus'}
