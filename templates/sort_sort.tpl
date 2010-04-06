@@ -4,7 +4,7 @@
   <input type = "hidden" value = {$each_sort} name="sort_junk">
   {foreach from = $selection key = selection_key item = each_selection }
 	  <input type = "hidden" name = {$selection_key} value={$each_selection}>
-	{$each=selection}
+	{$each_selection}
   {/foreach}
 {/foreach}
 *}
