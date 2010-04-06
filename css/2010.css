@@ -580,7 +580,6 @@ table{
 
 .footer{	
 	position: relative; 
-	left: -205px;
 	clear: both;
 	font-size: 11px;	
 	text-align: left;
@@ -604,13 +603,13 @@ width: 150%;
 .navi{
 	padding-left: 0px;
 	padding-right: 2em;
-text-align: left;
+	text-align: left;
 	float: left; 
 
 
 	list-style-type: none;
-position: relative;
-left :205px;
+	position: relative;
+	left :205px;
 
 }
  
