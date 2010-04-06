@@ -23,7 +23,7 @@
 		</tr>
 		<tr>
 			<td class="center"><p><img src="./images/common/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
-			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
+			<td><p><a href="http://www.jocw.jp/index_j.htm">日本オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		<tr>
 			<td class="center_gray"><p><img src="./images/common/f_studytips.gif" alt="StudyTips"></p></td>

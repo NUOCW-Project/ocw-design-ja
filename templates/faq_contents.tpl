@@ -35,7 +35,7 @@
 		<li>学生の自学自習教材としての活用だけでなく、教員と学生、教員と学外利用者、そして教員同士の交流を促すこと。</li>
 	</ol>
 	<p>このWebサイトは、名古屋大学オープンコースウェア委員会によって運
-営されています。名古屋大学は<a href="http://jocw.jp">日本オープンコースウェアコンソーシアム(JOCW)</a>のメンバー大学です。</p>
+営されています。名古屋大学は<a href="http://www.jocw.jp/index_j.htm">日本オープンコースウェアコンソーシアム(JOCW)</a>のメンバー大学です。</p>
 	</div>
 	
 	<div class="faq_normal" id="faq02">
@@ -51,7 +51,7 @@
 
 	<div class="faq_normal" id="faq04">
 	<p><span class="b">4.「名大の授業」に掲載されている教材の著作権はどこに帰属していますか？</span></p>
-	<p>「名大の授業」に掲載されている教材の著作権は、名古屋大学及び教材を作成した教員に帰属します。詳しくは、詳しくは<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=legal">ご利用にあたって</a>をご参照下さい。</p>
+	<p>「名大の授業」に掲載されている教材の著作権は、名古屋大学及び教材を作成した教員に帰属します。詳しくは<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=legal">ご利用にあたって</a>をご参照下さい。</p>
 	</div>
 	
 	<div class="faq_color" id="faq05">
