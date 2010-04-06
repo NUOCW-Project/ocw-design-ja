@@ -297,7 +297,7 @@ position: relative;
 	padding-left: 3px;
 	_width: 705px;
 	max-width: 705px;
-	/*overflow: hidden;後で戻すこと*/
+	overflow: hidden;
 }
 
 	.pankuzu{
