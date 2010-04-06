@@ -565,14 +565,14 @@ table{
 
 .footer{	
 	position: relative; 
-	left: -100px;
+	left: -200px;
 	clear: both;
 	font-size: 11px;	
 	text-align: center;
 	padding-top: 1em;
 	margin-left: 0px;
 	margin-right: auto;
-	width: 90%;
+	width: 150%;
 	overflow: hidden;
 	border: dotted;
 }
