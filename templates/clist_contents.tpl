@@ -32,7 +32,7 @@
   {literal}{/if}{/literal}
 {literal}{else}{/literal}
   {* 該当部局のコンテンツ表示 *}
-  {literal}{include file="${lang}/l/${page_type}.tpl"}{/literal}
+  {literal}{include file="$lang/l/$page_type.tpl"}{/literal}
 
 {literal}{/if}{/literal}
 
