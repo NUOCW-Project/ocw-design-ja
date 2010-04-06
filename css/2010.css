@@ -246,7 +246,7 @@ position: relative;
 	position: relative;
 	top: -25px;
 	height: 580px;
-	border: dotted;
+	/*border: dotted;*/
 }
 
 *html #departmentslist{
@@ -297,7 +297,7 @@ position: relative;
 	background-color: white;
 	padding: 0 0 0 2px;
 	_width: 705px;
-	max-width: 710px;
+	max-width: 705px;
 	overflow: hidden;
 }
 
