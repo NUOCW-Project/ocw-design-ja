@@ -3,8 +3,7 @@
 <div class="waku">
 <div id="aboutpodcast" style="list-style:none">
  <p><img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125"></p>
-</div>
-<div class="left">
+<br>
   {if $lang=='ja'}
 <p>
 <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/b_rss.gif" ></a>
