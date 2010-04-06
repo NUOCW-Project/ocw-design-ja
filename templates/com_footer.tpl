@@ -56,7 +56,6 @@
   </ul>
   
     <div id="proviso">
-      <hr />
       <img src="./images/common/nu.gif" class="nu" />
       <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
         「名大の授業について」の記載条件のもとで利用することができます（仮）</p>
