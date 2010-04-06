@@ -1,4 +1,12 @@
+{if $page_format.tpl_name=='index'}
 <img src="./images/{$lang}/header_coursehome.jpg" />
+{/if}
+{if $page_format.tpl_name=='syllabus'}
+<img src="./images/{$lang}/header_syllabus.jpg" />
+{/if}
+{if $page_format.tpl_name=='materials'}
+<img src="./images/{$lang}/header_lecturenote.jpg" />
+{/if}
 
 {include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->
 
