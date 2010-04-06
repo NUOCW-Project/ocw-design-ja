@@ -32,6 +32,7 @@
 <!--    <li>トピックス</li> -->
   </ul>
 
+ </div><!-- "footer" end --> 
 <div class="footer_bottom">  
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&page_type=about">
@@ -62,7 +63,7 @@
         「名大の授業について」の記載条件のもとで利用することができます（仮）</p>
     </div>
 </div><!-- "footer_bottom" end-->
- </div><!-- "footer" end --> 
+
 
 
 <!-- 右端URL画像部分 -->
