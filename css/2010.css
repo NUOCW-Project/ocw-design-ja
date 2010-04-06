@@ -309,6 +309,7 @@ position: relative;
 }
 body:first-of-type #contents{
 	width: 710px;
+	overflow: auto;
 }
 
 	.pankuzu{
