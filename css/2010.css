@@ -325,14 +325,14 @@ position: relative;
 	margin-top: 20px;
 	position: relative;
 	font-size: 11px;
-	font-height: 13px;
+	font-height: 12px;
 	zoom: 1;
 }
 	#greeting p{
 		position: absolute;
-		top: 198px;
+		top: 197px;
 		left: 0px;
-		margin: 0px 1em;
+		margin: 0px 1ex;
 	}
 
 .dots{
@@ -547,7 +547,7 @@ table{
 		head~/* */body .jump{
 			float: right;
 		}
-		html:not([lang*=""]) .jimp{
+		html:not([lang*=""]) .jump{
 			float: right;
 			position: relative;
 			top: -1em;
