@@ -44,6 +44,12 @@ a:hover{
 	background-repeat: no-repeat;
 }
 
+.topheader{
+	height: 110px;
+	background-image: url(../images/common/topbar_top.jpg);
+	background-repeat: no-repeat;
+}
+
 .header a#home_header{
 	display: block;
 	height: 90px;
