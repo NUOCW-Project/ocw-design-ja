@@ -331,9 +331,9 @@ position: relative;
 	border-color : #DDDDDD;
 }
 	#greeting p{
-		position: absolute;
+		/*position: absolute;
 		top: 197px;
-		left: 0px;
+		left: 0px;*/
 		margin: 0px 1ex;
 	}
 
@@ -566,7 +566,7 @@ table{
 	padding-top: 1em;
 	margin-left: auto;
 	margin-right: auto;
-	width: 85%;
+	width: 90%;
 	overflow: hidden;
 }
 

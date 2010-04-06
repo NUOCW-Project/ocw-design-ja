@@ -16,7 +16,7 @@
 <div class="inline">
 <div id="feature">
   <img src="./images/{$lang}/t_special.png" />
-  <img src="./images/{$lang}/backno.png" class="jump" />
+<!--  <img src="./images/{$lang}/backno.png" class="jump" /> -->
   <br />
   <img src="./images/common/redline.gif" class="line" />
   <br />
@@ -61,7 +61,7 @@
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
   <img src="./images/{$lang}/t_news.png" class="subheading" />
-  <img src="./images/{$lang}/backno.png" class="jump" />
+<!--  <img src="./images/{$lang}/backno.png" class="jump" /> -->
   <br />
   <img src="./images/common/dots.png" class="dots" />
     <table>
@@ -80,7 +80,7 @@
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
   <img src="./images/{$lang}/t_release.png" class="subheading" />
-      <img src="./images/{$lang}/backno.png" class="jump" />
+<!--      <img src="./images/{$lang}/backno.png" class="jump" /> -->
   <br />
   <img src="./images/common/dots.png" class="dots" />
     <table>
