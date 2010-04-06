@@ -779,19 +779,6 @@ ol.upper-alpha{
 
 
 /* ɽ */
-table.basic{
-	border:0;
-/*	border: 1px solid #999999;*/
-	border-collapse: collapse;
-	
-	white-space:normal;
-	
-}
-
-table.basic th{
-	border: 1px solid #999999;
-}
-
 table.center_contents{
  margin:0;
  padding:0;
@@ -826,10 +813,6 @@ th.right{
 th.right_gray{
 	text-align: right;
 	background-color:#eeeeee;
-}
-
-table.basic td{
-	border: 1px solid #999999;
 }
 
 td.left{
@@ -874,10 +857,6 @@ td.left{
 td.right_gray{
 	text-align: right;
 	background-color:#eeeeee;
-}
-
-table.basic ul {
-	padding-left: 1em;
 }
 
 td.separate{
