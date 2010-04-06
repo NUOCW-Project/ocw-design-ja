@@ -309,7 +309,7 @@ position: relative;
 }
 body:first-of-type #contents{
 	width: 710px;
-	overflow: scroll;
+	overflow: visible;
 }
 
 	.pankuzu{
