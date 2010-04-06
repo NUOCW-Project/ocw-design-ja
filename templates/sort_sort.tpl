@@ -1,5 +1,5 @@
 {literal}
-{foreach from =  $sort_array item = each_sort2 key = each_sort}
+{* {foreach from =  $sort_array item = each_sort2 key = each_sort}
   <form  action="./courselist.php?sort={$each_sort}" method="post">
   <input type = "hidden" value = {$each_sort} name="sort_junk">
   {foreach from = $selection key = selection_key item = each_selection }
@@ -12,5 +12,8 @@
 <input type ="submit" value = "[先生の名前→講義名]" >
 </div>
   </form>
+*}
+<a herf="./courselist.php?sort=department">[部局名→講義名</a>
+<a herf="./courselist.php?sort=teacher">[先生の名前→講義名</a>
 
 {/literal}
