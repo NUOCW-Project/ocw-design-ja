@@ -298,9 +298,13 @@ position: relative;
 	_width: 700px;
 	max-width: 740px;
 	overflow: hidden;
-	/*border-style: dashed;
+	border-style: dashed;
 	border-width: 1px;
-	border-color: blue;*/
+	border-color: blue;
+}
+/* Safari only \*/
+html:\66irst-child #contents{
+	width: 740px;
 }
 
 	.pankuzu{
