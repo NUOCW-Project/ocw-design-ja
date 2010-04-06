@@ -683,6 +683,10 @@ table.basic, table.farewell{
 	white-space:normal;
 }
 
+table.farewell{
+  margin:0 10px 25px 10px;
+}
+
 table.basic th, table.farewell th{
 	border: 1px solid #999999;
 }
