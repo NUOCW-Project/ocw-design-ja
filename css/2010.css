@@ -619,6 +619,12 @@ width: 150%;
 		margin-bottom: 1ex;
 	}
 
+#footer_bottom{
+	background-color: #ecece6;
+	border: dotted;
+	}
+
+
 #link {
 	margin: 1em 0 auto auto;
 	padding: 0;
@@ -627,7 +633,6 @@ width: 150%;
 /*	text-align: center;*/
 	position: relative;
 	left: 205px;
-	border: dotted;
 }
 
 	#link li{
