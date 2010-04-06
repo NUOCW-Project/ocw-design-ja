@@ -910,12 +910,12 @@ div.welcome_img{
 }
 
 p.welcome_chairperson{
-	margin-left: 300px;
-    padding: 20px 5px 5px;
+	text-align: right;
+	padding: 20px 5px 5px;
 }
 
 div.welcome_vsyllabus {
-    text-align: left;
+	text-align: left;
 	padding: 5px 0 10px
 }
 
