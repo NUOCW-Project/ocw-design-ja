@@ -323,7 +323,8 @@ position: relative;
 
 #greeting{
 	float: left;
-	width: 165px;
+	width: 105px;
+	overflow: hidden;
 	/*height: 255px;*/
 	margin-top: 20px;
 	padding-bottom: 1em;
