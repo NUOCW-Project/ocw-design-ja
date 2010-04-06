@@ -6,29 +6,29 @@
 
 {include file="com_navi.tpl"}
 
-{literal}{if $is_show_list == 't'}{/literal}
-  {* 絞り込みボックス *}
+{* 検索ボックス *}
+{literal}{if $dep_flag != 'true'}{/literal}
   {include file="sort_selection.tpl"}
-  {* 全部局表示の時はソート方法指定ボックスを出す *}
-  {literal}{if $dep_flag != 'true'}{/literal}
-    {include file="sort_sort.tpl"}
-  {literal}{/if}{/literal}
+  {include file="sort_sort.tpl"}
+{literal}{elseif $is_show_list == 't'}{/literal}
+  {include file="sort_selection.tpl"}
+{literal}{/if}{/literal}
 
-
-  {* 結果表示 *}
+{* 結果表示 *}
+{literal}{if $dep_flag != 'true' or $is_show_list == 't'}{/literal}
+  {* 部局別ソート(全部局) *}
   {literal}{if $sort_selected=="department"} {/literal}
-    {* 全部局で部局別ソート *}
     {literal}{foreach item="dep_and_data" from=$courselist}{/literal}
       {include file="sort_course_table_dep_order.tpl"}
     {literal}{/foreach}{/literal}
-  {literal}{elseif $sort_selected=="certain_department"}{/literal}
-    {* 特定部局 *}
-    {include file="sort_course_table_dep_order.tpl"}
+  {* 教員別ソート(全部局) *}
   {literal}{elseif $sort_selected=="instructor"}{/literal}
-    {* 全部局で教員別ソート *}
     {literal}{foreach item="result" from=$courselist}{/literal}
       {include file="sort_course_table_inst_order.tpl"}
     {literal}{/foreach}{/literal}
+  {* 特定部局 *}
+  {literal}{elseif $sort_selected=="certain_department"}{/literal}
+    {include file="sort_course_table_dep_order.tpl"}
   {literal}{/if}{/literal}
 {literal}{else}{/literal}
 
