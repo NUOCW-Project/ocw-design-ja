@@ -236,6 +236,8 @@ a:hover{
 	width: 160px;
 	margin: 0px 2px 0px 20px;
 	padding: 0px;
+	height: 900px;
+	border: dotted;
 }
 
 	#departmentslist li{
@@ -546,7 +548,7 @@ table{
 	padding-top: 1em;
 	margin-left: auto;
 	margin-right: auto;
-	width: 85%;
+	width: 100%;
 	overflow: hidden;
 	border: dotted;
 }
