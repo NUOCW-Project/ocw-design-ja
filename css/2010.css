@@ -590,11 +590,9 @@ table{
 	font-size: 11px;	
 	text-align: left;
 	padding-top: 1em;
-
 	margin-left: auto;
-
 	margin-right: auto;
-width: 150%;
+	width: 150%;
 	overflow: hidden;
 	background-color: #e7e7df; 
 }
@@ -621,7 +619,7 @@ width: 150%;
 		margin-bottom: 1ex;
 	}
 
-#footer_bottom{
+.footer_bottom{
 	position: relative; 
 	top: 300px;
 	background-color: #ecece6;
