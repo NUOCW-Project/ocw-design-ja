@@ -80,7 +80,7 @@
 			<td class="right" colspan="2">2009年10月1日現在</td>
 		</tr>
 
-		<tr id="ocwwg">
+		<tr>
 			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="名古屋大学OCW委員会"></p></td>
 			<td>
 			<p>
@@ -99,7 +99,7 @@
 			OCW事務室 事務補佐員 松田智子
 			</p>
 		</tr>
-		<tr>
+		<tr id="ocwwg">
 			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="名古屋大学OCW WG"></p></td>
 			<td class="left_gray">
 			<p>
