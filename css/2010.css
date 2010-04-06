@@ -821,7 +821,7 @@ td.left{
 
 td.left_gray{
 	text-align: left;
-	background-color:#eeeeee;
+	background-color:#ecece6;
 }
 
 td.center{
@@ -941,4 +941,32 @@ h1.about {
 h2.about {
 	font-size: large;
 	color: #888888;
+}
+
+.a_text {
+  padding-left: 150px;
+}
+
+.a_text p, .a_text ul, .a_text ol, .a_text dl, .a_text table {
+	margin-bottom: 1em;
+}
+
+.a_text * ul, .a_text * ol {
+	margin-left: 0;
+	margin-bottom: 0;
+}
+
+.a_text h3 {
+	font-size: 13px;
+	font-weight: normal;
+	color: rgb(221, 0, 0);
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 0px;
+	margin-left: -145px;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 110px;
+  float: left;
 }
