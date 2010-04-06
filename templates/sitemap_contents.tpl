@@ -1,9 +1,8 @@
 <img src="./images/ja/header_sitemap.jpg" alt="サイトマップ">
-
-<div class="sitemap_contents">
 {include file="com_navi.tpl"}
 
-<table class="center_contents" width="650">
+<div class="sitemap_contents">
+<table class="center_contents" width="900">
 	<tbody>
 	<tr>
 	<td class="left">
