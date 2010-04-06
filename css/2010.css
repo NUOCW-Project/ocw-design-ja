@@ -910,8 +910,7 @@ div.welcome_img{
 }
 
 p.welcome_chairperson{
-	text-align: right;
-	margin-right: 100px;
+	text-align: left;
 	padding: 20px 5px 5px;
 }
 
