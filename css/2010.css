@@ -905,12 +905,13 @@ td.separate{
 /** ごあいさつ　関連 **/
 div.welcome_img{
 	width: 250px;
-	vertical-align: middle;
+	text-align: middle;
 	margin: 0px 20px;
 }
 
 p.welcome_chairperson{
 	text-align: right;
+	margin-right: 300px;
 	padding: 20px 5px 5px;
 }
 
