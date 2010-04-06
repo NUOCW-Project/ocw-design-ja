@@ -2,7 +2,7 @@
 <div id="podcast">
 <div class="waku">
 <div id="aboutpodcast" style="list-style:none">
- <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
+ <p><img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125"></p>
 </div>
  
   {if $lang=='ja'}
