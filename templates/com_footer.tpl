@@ -26,10 +26,10 @@
   
   <ul class="navi">
     <li>■コンテンツ</li>
-    <li>OCWシーズン企画</li>
+<!--    <li>OCWシーズン企画</li> -->
     <li><a href="./index.php?lang=ja&amp;mode=g&page_type=welcome">ごあいさつ</a></li>
-    <li>アクセスランキング</li>
-    <li>トピックス</li>
+<!--    <li>アクセスランキング</li> -->
+<!--    <li>トピックス</li> -->
   </ul>
   
   <ul id="link">

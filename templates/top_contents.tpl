@@ -20,7 +20,7 @@
   <br />
   <img src="./images/common/redline.gif" class="line" />
   <br />
-  <img src="./images/{$lang}/prj10_fl10.jpg" /><!-- 画像「OCW特別企画」 -->
+ <a href="http://ocw.media.nagoya-u.ac.jp/new-design/courselist.php?lang=ja&mode=l&page_type=farewell"> <img src="./images/{$lang}/prj10_fl10.jpg" /></a><!-- 画像「OCW特別企画」 -->
 </div> <!-- "feature" end -->
     
 <div id="greeting">
@@ -50,7 +50,7 @@
 		<tr id="no{$v.rank}">
 		<td class="rank">{$v.rank}</td>
 		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
-		<td class="name">{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"教授":"Prof."}</td>
+		<td class="name"><a href="http://ocw.media.nagoya-u.ac.jp/new-design/courselist.php?sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"教授":"Prof."}</a></td>
 		</tr>
 	{/foreach}
 	{/literal}
