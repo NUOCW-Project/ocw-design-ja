@@ -607,8 +607,6 @@ width: 150%;
 	padding-right: 2em;
 	text-align: left;
 	float: left; 
-
-
 	list-style-type: none;
 	position: relative;
 	left :205px;
@@ -620,10 +618,11 @@ width: 150%;
 	}
 
 #footer_bottom{
-	/*position: relative; */
+	position: relative; 
+	top: 250px;
 	background-color: #ecece6;
 	border: dotted;
-	height: 100px;
+	/*height: 100px; */
 	}
 
 
