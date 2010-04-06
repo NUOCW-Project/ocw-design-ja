@@ -590,7 +590,9 @@ width: 150%;
 
 .line{
 	margin: 0 auto 1ex auto;
-	/*text-align: center; */
+	/*text-align: center ; */
+
+
 	width: 100%;
 }
 
