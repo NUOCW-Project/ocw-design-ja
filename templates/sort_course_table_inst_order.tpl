@@ -3,10 +3,10 @@
 {if  $result.num_of_course > 0}
 <table  class = "mytable" >
 <tr>
-<th>教員名</th>
-<th>コース名</th>
-<th>開講年度</th>
-<th>その他</th>
+<th width="375">教員名</th>
+<th width="60">コース名</th>
+<th width="145">開講年度</th>
+<th width="45">その他</th>
 </tr>
 {foreach item = each_course  from = $result.courses name = $result.title} 
 	<tr class="{cycle name = $result.title values='odd,even'}">
