@@ -596,6 +596,9 @@ table{
 	text-align: left;
 	float: left;
 	list-style-type: none;
+	border: dooted;
+	position: relative;
+	left: 200px;
 }
  
 	.navi li {
