@@ -676,9 +676,9 @@ table{
 	margin: 0px;
 	position: relative;
 	left: 205px;
-	/*border: dotted; */
+	border: dotted; 
 	text-align: left;
-
+	
 }
 
 ul#departmentslist a{
