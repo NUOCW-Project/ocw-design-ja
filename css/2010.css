@@ -296,6 +296,7 @@ position: relative;
 	background-color: white;
 	padding: 0;
 	max-width: 710px;
+	overflow: hidden;
 	border-style: dashed;
 	border-width: 1px;
 	border-color: blue;
