@@ -323,7 +323,7 @@ position: relative;
 
 #greeting{
 	float: left;
-	width: 155px;
+	width: 160px;
 	overflow: hidden;
 	/*height: 255px;*/
 	margin-top: 20px;
@@ -672,24 +672,6 @@ div.faq_color{
 	padding:5px;
 	margin-bottom: 2em;
 }
-
-/* -----------------Course List--------------------*/
-table.farewell {
-  border:0;
-  margin:0 10px 25px 10px;
-  border-collapse: collapse;
-  white-space:normal;
-}
-
-table.farewell th{
-  border: 1px solid #999999;
-}
-
-table.farewell td{
-  border: 1px solid #999999;
-  text-align: left;
-}
-
 
 
 /* -----------------Course Contents ---------------*/
