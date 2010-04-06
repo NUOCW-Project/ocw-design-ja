@@ -216,16 +216,6 @@ a:hover{
 	padding: 0px;
 }
 
-
-#aboutpodcast{
-float: left;
-width: 180;
-padding: 0px;
-text-align: center;
-margin-top: 10px;
-position: relative;
-}
-
 #departmentslist{
 	float: left;
 	width: 160px;
@@ -683,6 +673,22 @@ span.b{
         margin-right: 0px;
         background-color: white;
         padding-left: 1ex;
+}
+
+#aboutpodcast_image{
+width: 180px;
+padding: 0px;
+text-align: center;
+margin-top: 10px;
+position: relative;
+}
+
+#aboutpodcast_sentence{
+width: 180px;
+padding: 0px;
+text-align: left;
+margin: 3px 3px 3px 3px;
+position: relative;
 }
 
 div.course_contents{
