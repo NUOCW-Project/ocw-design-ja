@@ -42,10 +42,10 @@
 		<a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
              <img src="./images/{$lang}/akf.gif" alt="AKF Search" align="left"/></a>
           </div><!-- "header_button_akf" end -->
-          <form method="get" action="http://akf.nul.nagoya-u.ac.jp/infolib/search/metdefault">
+          <form method="get" action="http://akf.nul.nagoya-u.ac.jp/infolib/search/metdefault" accept-charset="UTF-8">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
               <input type="text" id="searchbox" name="IS_KEY_S1" value="ここから授業を検索できます" size="69">
-         <input type="hidden" name="DB_ID" value="G0000002AKF">
+      <input type="hidden" name="DB_ID" value="G0000002AKF">
 	<input type="hidden" name="GRP_ID" value="G0000002">
 	<input type="hidden" name="DEF_XSL" value="default">
 	<input type="hidden" name="IS_TYPE" value="meta">
@@ -53,13 +53,15 @@
 	<input type="hidden" name="SUM_KIND" value="MetaSummary">
 	<input type="hidden" name="SUM_NUMBER" value="20">
 	<input type="hidden" name="META_KIND" value="NOFRAME">
+	<input type="hidden" name="IS_KIND" value="MetaSummary">
 	<input type="hidden" name="IS_SCH" value="META">
-	   <input type="hidden" name="IS_START" value="1">
+	<input type="hidden" name="IS_START" value="1">
 	<input type="hidden" name="IS_EXTSCH" value="">
 	<input type="hidden" name="IS_SORT_KND" value="RANK">
 	<input type="hidden" name="IS_TAG_S99" value="InfoDb">
 	<input type="hidden" name="IS_REG_S99" value="none">
 	<input type="hidden" name="IS_LGC_S99" value="AND">
+	<input type="hidden" name="IS_CND_S99" value="ALL">
 	<input type="hidden" name="IS_CHK_OR_S99" value="ocw">
 	<input type="hidden" name="IS_TAG_S1" value="InfoD">
 	<input type="hidden" name="IS_NUMBER" value="20">
