@@ -19,7 +19,7 @@
 	<td><a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a></td>
 	<td>{$each_course.year}</td>
 	{if $each_course.date =='t'}
-		<td><img border="0" src="./2010/images/common/new.png"  alt="NEW"></td>
+		<td><img border="0" src="./images/common/new.png"  alt="NEW"></td>
 	{else}
 		<td>  </td>
 	{/if}
