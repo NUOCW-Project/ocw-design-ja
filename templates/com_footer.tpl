@@ -1,3 +1,4 @@
+</div><!--"#contents" end-->
 <div class="footer">
   <!-- 「ページトップへ」 -->
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="jump"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
@@ -61,7 +62,7 @@
         「名大の授業について」の記載条件のもとで利用することができます（仮）</p>
     </div>
   </div><!-- "footer" end -->
-</div><!--"#contents" end-->
+
 
 <!-- 右端URL画像部分 -->
 <div class="main_back_url">
