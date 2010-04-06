@@ -580,8 +580,7 @@ table{
 	margin-right: auto;
 	width: 150%;
 	overflow: hidden;
-	border: dotted;
-	backgroound-clor: #e7e7df;
+	/*backgroound-clor: #e7e7df; */
 }
 
 .line{
@@ -600,6 +599,7 @@ table{
  
 	.navi li {
 		margin-bottom: 1ex;
+	border: dooted;
 	}
 
 #link {
