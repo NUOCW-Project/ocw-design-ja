@@ -307,7 +307,7 @@ position: relative;
 *:first-child+html #contents{
 	max-width: 700px;
 }
-html:not(:only-child:only-child) #contents{
+body:last-child:not(:root:root) #contents{
 	width: 710px;
 }
 
