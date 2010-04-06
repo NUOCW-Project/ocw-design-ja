@@ -627,7 +627,7 @@ width: 150%;
 	top: 250px;
 	background-color: #ecece6;
 	border: dotted;	
-	height: 100px; 
+	/*height: 100px; */
 	}
 
 
@@ -668,7 +668,7 @@ width: 150%;
 	margin: 0px;
 	position: relative;
 	left: 205px;
-	border: dotted;
+	/*border: dotted; */
 	text-align: left;
 
 }
