@@ -625,7 +625,7 @@ table{
 		margin-bottom: 1ex;
 	}
 
-#footer_bottom{
+.footer_bottom{
 	position: relative; 
 	top: 250px;
 	background-color: #ecece6;
