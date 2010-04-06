@@ -1,5 +1,5 @@
 {strip}
-<div class="header_edge"><!-- 最上部ヘッダー右端部分 -->
+{*<div class="header_edge"><!-- 最上部ヘッダー右端部分 --> *}
   <div class="topheader" id="top"><!-- 最上部ヘッダー -->
  	<a href="http://ocw.media.nagoya-u.ac.jp/new-design/" id="home_header"></a>
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
@@ -72,7 +72,7 @@
       </div><!-- "header_button" end -->
     </div><!-- "header_sub" end -->
   </div><!-- "header" end -->
-</div><!-- "header_edge" end -->  
+{* </div><!-- "header_edge" end -->   *}
 {/strip}
 <div class="main_back"><!--  右側部分背景 -->
   <div class="main"><!-- 最上部ヘッダー以外 -->
