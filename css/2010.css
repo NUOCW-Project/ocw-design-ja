@@ -295,8 +295,8 @@ position: relative;
 	margin: 0 40px 0 200px;
 	background-color: white;
 	padding: 0 0 0 5px;
-	_width: 705px;
-	/*max-width: 705px;*/
+	/*_width: 705px;
+	max-width: 705px;*/
 	overflow: hidden;
 	border-style: dashed;
 	border-width: 1px;
