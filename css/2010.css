@@ -297,9 +297,9 @@ position: relative;
 	padding: 0;
 	max-width: 740px;
 	overflow: hidden;
-	border-style: dashed;
+	/*border-style: dashed;
 	border-width: 1px;
-	border-color: blue;
+	border-color: blue;*/
 }
 * html #contents{
 	width: 700px;
@@ -309,7 +309,7 @@ position: relative;
 }
 body:first-of-type #contents{
 	width: 710px;
-	overflow: auto;
+	overflow: scroll;
 }
 
 	.pankuzu{
