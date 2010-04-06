@@ -13,7 +13,11 @@
 </div>
   </form>
 *}
-<a herf="./courselist.php?sort=department">[部局名→講義名</a>
-<a herf="./courselist.php?sort=teacher">[先生の名前→講義名</a>
+
+<div id="sort">
+並び順
+<a herf="./courselist.php?sort=department">[部局名→講義名]</a>
+<a herf="./courselist.php?sort=teacher">[先生の名前→講義名]</a>
+</div>
 
 {/literal}
