@@ -314,12 +314,6 @@ body:first-of-type #contents{
 	width: 720px;
 	overflow: scroll;
 }
-/* Safari3 hack */
-body:first-of-type #contents{
-	width: 710px;
-	overflow: visible;
-}
-
 	.pankuzu{
 		min-height: 28px; 
 		list-style-type: none;
