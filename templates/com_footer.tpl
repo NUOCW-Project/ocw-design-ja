@@ -8,7 +8,7 @@
   <ul class="navi">
 {literal}
 {foreach from=$dept_list key=abbr item=dept name=navigation}
-    <li>{$smarty.foreach.navigation.index%($smarty.foreach.navigation.total/3)}<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢{$dept.department_name}</a></li>
+    <li>{$smarty.foreach.navigation.index}<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢{$dept.department_name}</a></li>
 {/foreach}
 {/literal}
   </ul>
