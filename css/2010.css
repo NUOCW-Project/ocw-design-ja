@@ -289,7 +289,7 @@ position: relative;
 	margin-left: 200px;
 	/*margin-right: 40px;*/
 	background-color: white;
-	padding-left: 5px;
+	padding-left: 3px;
 	_width: 705px;
 	max-width: 705px;
 	/*overflow: hidden;後で戻すこと*/
@@ -321,7 +321,7 @@ position: relative;
 }
 
 #feature{
-	width: 528px;
+	width: 530px;
 	float: left;
 	background-color: white;
 	overflow: hidden;
