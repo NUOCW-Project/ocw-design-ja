@@ -1,4 +1,4 @@
-oy{
+body{
 	margin: 0;
 	padding: 0;
 
@@ -297,14 +297,11 @@ position: relative;
 	padding: 0;
 	_width: 700px;
 	max-width: 740px;
+	width: 740px;
 	overflow: hidden;
 	border-style: dashed;
 	border-width: 1px;
 	border-color: blue;
-}
-/* Safari only \*/
-html:\66irst-child #contents{
-	width: 740px;
 }
 
 	.pankuzu{
@@ -621,8 +618,9 @@ table{
 
 .footer_bottom{
 	position: relative; 
-	top: 300px;
+	top: 250px;
 	background-color: #ecece6;
+	border: dotted;
 	/*height: 100px; */
 	}
 
