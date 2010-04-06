@@ -5,8 +5,8 @@
 <tr>
 <th width="350">コース名</th>
 <th width="60">開講年度</th>
-<th width="60">教員名</th>
-<th width="30">その他</th>
+<th width="100">教員名</th>
+<th width="60">その他</th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses }
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
