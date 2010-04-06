@@ -42,7 +42,7 @@
 		<a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
              <img src="./images/{$lang}/akf.gif" alt="AKF Search" align="left"/></a>
           </div><!-- "header_button_akf" end -->
-          <form method="get" action="http://akf.nul.nagoya-u.ac.jp/infolib/search/metdefault" accept-charset="UTF-8">
+          <form method="get" action="http://akf.nul.nagoya-u.ac.jp/infolib/search/metsearch" accept-charset="UTF-8">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
               <input type="text" id="searchbox" name="IS_KEY_S1" value="ここから授業を検索できます" size="69">
       <input type="hidden" name="DB_ID" value="G0000002AKF">
