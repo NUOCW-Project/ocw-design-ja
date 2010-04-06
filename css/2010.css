@@ -951,3 +951,14 @@ h2.inq {
 span.red{
 	color:#FF3333;
 }
+
+/** 名大の授業について **/
+h1.about {
+	font-size: x-large;
+	color: #DD0000;
+}
+
+h2.about {
+	font-size: large;
+	color: #888888;
+}
