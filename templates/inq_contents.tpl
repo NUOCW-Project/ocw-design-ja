@@ -5,11 +5,6 @@
 <div id="contents"> 
 {include file="com_navi.tpl"}
 
-<table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
 	<p>「名大の授業」についてのお問合せは以下のフォームからお願いします。</p>
 	<p>ご意見・ご質問をお待ちしております。</p>
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
@@ -133,12 +128,4 @@
 	<p>※スパム対策のため、メールアドレスは画像ファイルになっております。</p>
 
 
-
-
-	</div>	<!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-</table>
-</div>  <!-- センターコンテンツ終了 -->
+</div>
