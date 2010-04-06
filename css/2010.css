@@ -599,8 +599,8 @@ width: 150%;
 	padding-left: 0px;
 	padding-right: 2em;
 text-align: left;
+	float: left; 
 
-		float: ;
 
 	list-style-type: none;
 position: relative;
