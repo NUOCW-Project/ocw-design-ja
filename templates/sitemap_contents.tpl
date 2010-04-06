@@ -13,9 +13,11 @@
 		<tr>
 		<td class="left">
 		<ul class="navi">
+			<li><a href="index.html">トップページ,ホーム</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">ヘルプ(FAQ)</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=about">名大の授業について</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">用語集</a>
+			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">１分間授業紹介&Podcast</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">ようこそ名大の授業へ</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">お問合せ</a>
 			<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=link">リンク</a>
@@ -54,8 +56,6 @@
 
 	</td>
 	<td width="10" class="td_right"></td>
-
-
 
 
 </table>

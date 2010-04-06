@@ -26,7 +26,7 @@
 			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		<tr>
-			<td class="center_gray"><p><img src="./image/common/f_studytips.gif" alt="StudyTips"></p></td>
+			<td class="center_gray"><p><img src="./images/common/f_studytips.gif" alt="StudyTips"></p></td>
 			<td><p><a href="http://www.cshe.nagoya-u.ac.jp/stips">Study Tips</a></p></td>
 		</tr>
 		</tbody>
