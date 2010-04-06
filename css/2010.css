@@ -676,7 +676,6 @@ span.b{
 }
 
 #aboutpodcast_image{
-width: 180px;
 padding: 0px;
 text-align: center;
 margin-top: 10px;
@@ -684,10 +683,9 @@ position: relative;
 }
 
 #aboutpodcast_sentence{
-width: 180px;
 padding: 0px;
 text-align: left;
-margin: 3px 3px 3px 3px;
+margin: 3px 4px 3px 4px;
 position: relative;
 }
 
