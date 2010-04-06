@@ -618,6 +618,7 @@ table{
 	clear: both;
 	list-style-type: none;
 	text-align: center;
+	border: dotted;
 }
 
 	#link li{
