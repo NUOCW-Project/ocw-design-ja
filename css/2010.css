@@ -599,7 +599,7 @@ table{
 	list-style-type: none;
 	border: dotted;
 	position: relative;
-	l205px;
+	left: 205px;
 }
  
 	.navi li {
