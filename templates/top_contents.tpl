@@ -20,7 +20,7 @@
   <br />
   <img src="./images/common/redline.gif" class="line" />
   <br />
-  <img src="{$IMGDIR}/d_sp_feature.JPG" /><!-- 画像「季節の講義　メッセージ」ダミー -->
+  <img src="./images/{$lang}/prj10_fl10.jpg" /><!-- 画像「OCW特別企画」 -->
 </div> <!-- "feature" end -->
     
 <div id="greeting">
