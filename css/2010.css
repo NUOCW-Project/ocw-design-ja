@@ -547,10 +547,6 @@ table{
 		head~/* */body .jump{
 			float: right;
 		}
-		html>/**/body .jump{
-			float: right;
-			margin-top: -1em;
-		}
 
 .icon{
 	display: inline;
