@@ -46,7 +46,8 @@ a:hover{
 
 .topheader{
 	height: 110px;
-	background-image: url(../images/ja/topbar_top.jpg);
+	background-image: url(../images/ja/tooption topbar_top.jpg);	
+	backgound-repeat: no-repeat;
 }
 
 .header a#home_header{
