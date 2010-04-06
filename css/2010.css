@@ -293,6 +293,7 @@ position: relative;
 	padding-left: 5px;
 	_width: 705px;
 	max-width: 705px;
+	overflow: hidden;
 }
 
 	.pankuzu{
