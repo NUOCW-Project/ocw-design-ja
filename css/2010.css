@@ -295,10 +295,9 @@ position: relative;
 	margin: 0 0px 0 200px;
 	background-color: white;
 	padding: 0;
-	_width: 700px;
-	max-width: 740px;
-	width: 730px;
-	overflow: hidden;
+	/*_width: 700px;
+	max-width: 710px;
+	overflow: hidden;*/
 	border-style: dashed;
 	border-width: 1px;
 	border-color: blue;
