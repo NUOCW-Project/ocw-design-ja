@@ -3,8 +3,8 @@
   <!-- 「ページトップへ」 -->
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="jump"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
   <br />
-  <img src="./images/common/redline.gif" class="line" /><!-- 水平線(下) -->
-  <br />
+ {* <img src="./images/common/redline.gif" class="line" /><!-- 水平線(下) -->
+  <br /> *}
 
 {literal}
 {foreach from=$dept_list key=abbr item=dept name=navigation}
