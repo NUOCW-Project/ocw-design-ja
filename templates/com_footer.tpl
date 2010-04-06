@@ -3,9 +3,9 @@
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="jump"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
   <br />
   <img src="./images/common/redline.gif" class="line" /><!-- 水平線(下) -->
-  
+
+  ■ナビゲーション
   <ul class="navi">
-    <li>■ナビゲーション</li>
 {literal}
 {foreach from=$dept_list key=abbr item=dept}
     <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">□{$dept.department_name}</a></li>
