@@ -1,4 +1,4 @@
-<img src="./images/ja/header_courselist.jpg" alt="名大の授業について">
+<img src="./images/ja/header_about.jpg" alt="名大の授業について">
 
 {include file="com_dept.tpl"}
 

@@ -1,4 +1,4 @@
-<img src="./images/ja/header_courselist.jpg" alt="用語解説">
+<img src="./images/ja/header_glossary.jpg" alt="用語解説">
 
 {include file="com_dept.tpl"}
 

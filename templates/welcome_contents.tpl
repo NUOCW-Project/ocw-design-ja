@@ -1,4 +1,4 @@
-<img src="./images/ja/header_courselist.jpg" alt="ごあいさつ">
+<img src="./images/ja/header_address.jpg" alt="ごあいさつ">
 
 {include file="com_dept.tpl"}
 
