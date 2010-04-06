@@ -77,7 +77,7 @@
 			<td class="right" colspan="2">2009年10月1日現在</td>
 		</tr>
 
-		<tr>
+		<tr id="ocwwg">
 			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="名古屋大学OCW委員会"></p></td>
 			<td>
 			<p>
