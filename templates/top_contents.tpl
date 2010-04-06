@@ -1,5 +1,3 @@
-<img src="./images/common/topbar_top.jpg">
-<div class="main">
 <div id="header_for_top">
 	<img src="./images/common/header_top01.jpg" />
 	<div id="menu">	
