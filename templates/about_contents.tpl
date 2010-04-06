@@ -45,7 +45,7 @@
 
 
 <!-- スタッフ紹介開始 -->
-<div class="course_contents">	
+<div class="course_contents">
 	<table class="center_contents" width="600">
 		<tbody>
 		<tr>
