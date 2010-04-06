@@ -577,7 +577,7 @@ table{
 	font-size: 11px;	
 /*	text-align: center*/
 	padding-top: 1em;
-	margin-left: 0px;
+	margin-left:
 	margin-right: auto;
 	width: 150%;
 	overflow: hidden;
@@ -599,7 +599,7 @@ table{
 	list-style-type: none;
 border: dotted;
 position: relative;
-	left: 205px;
+	leftpx;
 }
  
 	.navi li {
