@@ -951,7 +951,7 @@ h1.about {
 	color: #DD0000;
 }
 
-h2.about {
+.a_text h2 {
 	font-size: large;
 	color: #888888;
 }
@@ -973,8 +973,6 @@ h2.about {
 	font-size: 13px;
 	font-weight: normal;
 	color: rgb(221, 0, 0);
-	background-image: url(../images/common/header3_box.gif);
-	background-repeat: no-repeat;
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 0px;
