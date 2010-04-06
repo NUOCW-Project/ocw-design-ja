@@ -578,16 +578,13 @@ table{
 
 .footer{	
 	position: relative; 
-	left: -205px;
 	clear: both;
 	font-size: 11px;	
 	text-align: left;
 	padding-top: 1em;
-
 	margin-left: auto;
-
 	margin-right: auto;
-width: 150%;
+	width: 100%;	
 	overflow: hidden;
 	/*backgroound-clor: #e7e7df; */
 	border: dotted;
