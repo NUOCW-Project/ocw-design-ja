@@ -312,12 +312,12 @@ position: relative;
 /* Safari4 hack */
 body:first-of-type #contents{
 	width: 710px;
-	overflow: scroll;
+	overflow: visible;
 }
 /* Safari3 hack */
 body:first-of-type #contents{
 	width: 710px;
-	overflow: scroll;
+	overflow: visible;
 }
 
 	.pankuzu{
