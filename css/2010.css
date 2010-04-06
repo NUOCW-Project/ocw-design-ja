@@ -301,15 +301,23 @@ position: relative;
 	border-width: 1px;
 	border-color: blue;*/
 }
+/* IE6 hack */
 * html #contents{
 	width: 700px;
 	}
+/* IE7 hack */
 *:first-child+html #contents{
 	max-width: 700px;
 }
+/* Safari4 hack */
 body:first-of-type #contents{
 	width: 710px;
-	overflow: visible;
+	overflow: scroll;
+}
+/* Safari3 hack */
+body:first-of-type #contents{
+	width: 710px;
+	overflow: scroll;
 }
 
 	.pankuzu{
