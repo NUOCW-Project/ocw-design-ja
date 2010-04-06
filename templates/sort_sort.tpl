@@ -20,4 +20,6 @@
 <a href="./courselist.php?sort=teacher">[先生の名前→講義名]</a>
 </div>
 
+{$sort_array}
+{$sort_sort}
 {/literal}
