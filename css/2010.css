@@ -565,7 +565,7 @@ table{
 
 .footer{	
 	position: relative; 
-	left: -200px;
+	lef1: -200px;
 	clear: both;
 	font-size: 11px;	
 	text-align: center;
@@ -573,8 +573,7 @@ table{
 	margin-left: 0px;
 	margin-right: auto;
 	width: 150%;
-	overflow: hidden;
-	border: dotted;
+	overflow: hi
 	background-color: #e7e7df;
 }
 
