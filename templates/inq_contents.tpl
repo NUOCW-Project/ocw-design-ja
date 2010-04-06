@@ -120,12 +120,12 @@
 	</form>
 
 	</ol>
-	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
-	<p>〒464-8603 名古屋市千種区不老町</p>
-	<p>名古屋大学 情報メディア教育センター内 OCW事務室</p>
-	<p>電話：052-789-3904</p>
-	<p>電子メール：<img src="./images/common/mail_inq.gif" height="15" width="210"></p>
-	<p>※スパム対策のため、メールアドレスは画像ファイルになっております。</p>
+	<p><img src="./images/common/dot_gray.gif" height="10" width="325"><br>
+	〒464-8603 名古屋市千種区不老町<br>
+	名古屋大学 情報メディア教育センター内 OCW事務室<br>
+	電話：052-789-3904<br>
+	電子メール：<img src="./images/common/mail_inq.gif" height="15" width="210"><br>
+	※スパム対策のため、メールアドレスは画像ファイルになっております。</p>
 
 
 </div>
