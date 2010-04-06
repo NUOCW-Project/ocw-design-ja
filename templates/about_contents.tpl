@@ -81,7 +81,7 @@
 		</tr>
 
 		<tr>
-			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="名古屋大学OCW委員会"></p></td>
+			<td class="center"><p><img src="./images/{$lang}/i_staff01.jpg" alt="名古屋大学OCW委員会"></p></td>
 			<td>
 			<p>
 			[委員長]副総長 教授 山本一良<br>
@@ -100,7 +100,7 @@
 			</p>
 		</tr>
 		<tr id="ocwwg">
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="名古屋大学OCW WG"></p></td>
+			<td class="center_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="名古屋大学OCW WG"></p></td>
 			<td class="left_gray">
 			<p>
 			情報連携統括本部 情報戦略室 准教授 梶田将司<br>
@@ -116,7 +116,7 @@
 			</p>
 		</tr>
                <tr>
-                       <td><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
+                       <td class="center"><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
 			<td>
 			<p>
 	多元数理科学研究科D1 足立真訓<br>
@@ -139,7 +139,7 @@
 			</p>
 		</tr>
 		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="写真撮影"></p></td>
+			<td class="center_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="写真撮影"></p></td>
 			<td class="left_gray">
 			<p>
 			大学院工学研究科 准教授 長谷川浩
