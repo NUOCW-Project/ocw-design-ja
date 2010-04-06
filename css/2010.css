@@ -577,9 +577,9 @@ table{
 	font-size: 11px;	
 /*	text-align: center*/
 	padding-top: 1em;
-	margin-left:
+	margin-left: auto;
 	margin-right: auto;
-	width: 150%;
+	wid20%;
 	overflow: hidden;
 	/*backgroound-clor: #e7e7df; */
 	border: dotted;
