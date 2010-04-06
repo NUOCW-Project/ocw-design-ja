@@ -6,7 +6,7 @@
 {include file="com_navi.tpl"}
 
 
-<div class="welcom_img">
+<div class="welcome_img">
 {flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv"}
 </div>
 	<p class="welcome_chairperson">
