@@ -598,8 +598,8 @@ table{
 		float: left;
 	list-style-type: none;
 	border: dotted;
-	position: relative;
-	l205px;
+	position: relati
+	left: 205px;
 }
  
 	.navi li {
