@@ -8,7 +8,7 @@
   <ul class="navi">
 {literal}
 {foreach from=$dept_list key=abbr item=dept name=navigation}
-  {assign var='navi_total' value=$smarty.foreach.navigation.total/3}
+  {assign var='navi_total' value=$smarty.foreach.navigation.total/2}
   {if $smarty.foreach.navigation.first}
   <ul class="navi">
      <li>■ナビゲーション<br></li>
