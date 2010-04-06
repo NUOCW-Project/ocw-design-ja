@@ -644,9 +644,11 @@ position: relative;
 }
 
 .nu{
-	float: left;
 	color: #996633;
 	margin: 0px;
+	position: relative;
+	left: 205px;
+
 }
 
 ul#departmentslist a{
