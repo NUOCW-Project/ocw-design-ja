@@ -217,13 +217,18 @@ a:hover{
 }
 
 
-#aboutpodcast{
-float: left;
-width: 180;
+#aboutpodcast_image{
 padding: 0px;
 margin-top: 10px;
-margin-left: auto;
-margin-right: auto;
+margin-bottom: 5px
+text-align: center;
+position: relative;
+}
+
+#aboutpodcast_sentence{
+padding: 0px;
+margin: 0px 5px 5px 3px
+text-align: left;
 position: relative;
 }
 
