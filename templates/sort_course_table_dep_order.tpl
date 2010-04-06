@@ -3,9 +3,9 @@
 {if  $dep_and_data.num_of_course > 0}
 <table  class = "mytable">
 <tr>
-<th width="360">コース名</th>
+<th width="370">コース名</th>
 <th width="60">開講年度</th>
-<th width="150">教員名</th>
+<th width="145">教員名</th>
 <th width="50">その他</th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses }
