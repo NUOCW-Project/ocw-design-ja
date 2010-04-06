@@ -1,6 +1,6 @@
 function method3() {	
 	var H;
-	H = $("#notice").outerHeight() + $("#press").outerHeight() -21;
+	H = $("#notice").outerHeight() + $("#press").outerHeight() -20;
 	
 	H = H - 40;
 	var G = 0;
