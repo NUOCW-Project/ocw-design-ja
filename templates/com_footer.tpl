@@ -5,17 +5,16 @@
   <img src="./images/common/redline.gif" class="line" /><!-- øÂ ø¿˛(≤º) -->
   <br />
 
-  ¢£• •”•≤°º•∑•Á•Û
   <ul class="navi">
 {literal}
-{foreach from=$dept_list key=abbr item=dept}
-    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢{$dept.department_name}</a></li>
+{foreach from=$dept_list key=abbr item=dept name=navigation}
+    <li>{$smarty.foreach.navigation.index % ($smarty.foreach.navigation.total / 3)}<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢{$dept.department_name}</a></li>
 {/foreach}
 {/literal}
   </ul>
   
   <ul class="navi">
-    <li><br></li>
+    <li>¢£• •”•≤°º•∑•Á•Û<br></li>
     <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=med">¢¢∞Â≥ÿ…Ù°ø∞Â≥ÿ∏¶µÊ≤ </a></li>
     <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=eng">¢¢π©≥ÿ…Ù°øπ©≥ÿ∏¶µÊ≤ </a></li>
     <li><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=agr">¢¢«¿≥ÿ…Ù°ø¿∏Ãø«¿≥ÿ∏¶µÊ≤ </a></li>
