@@ -77,10 +77,10 @@
 {/if}    
 
 <div id="main_text">
-  {foreach from=$page_format.order item=page_type}
-    {if $pages.$page_type != ""}
-      <div class="e_text">
-        {eval_strip var=$pages.$page_type}
+  {foreach from=$page_format.order key=page_type_code item=page_type}
+    {if $pages.$page_type_code != ""}
+      <div class="e_text" id="{$page_type}">
+        {eval_strip var=$pages.$page_type_code}
       </div>
     {/if}
   {/foreach}
