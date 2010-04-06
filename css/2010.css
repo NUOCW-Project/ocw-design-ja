@@ -678,6 +678,24 @@ div.faq_color{
 	margin-bottom: 2em;
 }
 
+/* -----------------Course List--------------------*/
+table.farewell {
+  border:0;
+  margin:0 10px 25px 10px;
+  border-collapse: collapse;
+  white-space:normal;
+}
+
+table.farewell th{
+  border: 1px solid #999999;
+}
+
+table.farewell td{
+  border: 1px solid #999999;
+  text-align: left;
+}
+
+
 
 /* -----------------Course Contents ---------------*/
 span.i{
