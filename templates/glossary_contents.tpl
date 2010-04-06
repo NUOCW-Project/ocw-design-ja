@@ -5,13 +5,8 @@
 <div id="contents">
 {include file="com_navi.tpl"}
 
-<table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="600">
-		<tbody>
+<table class="center_contents" width="600">
+	<tbody>
 		<tr>
 			<th class="left"><h2>授業関連</h2></th>
 		</tr><tr>
@@ -75,14 +70,5 @@
 		</tbody>
 	</table>
 		
-	</div>	<!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-
-</table>
-</div>  <!-- センターコンテンツ終了 -->
-
-<div class="clear"></div>
-<!-- リンク終了 -->
+</div>
+</div> 
