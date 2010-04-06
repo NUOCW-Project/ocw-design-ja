@@ -221,7 +221,8 @@ a:hover{
 padding: 0px;
 margin-top: 10px;
 margin-bottom: 5px
-text-align: center;
+margin-right: auto;
+margin-left: auto;
 position: relative;
 }
 
@@ -570,11 +571,7 @@ table{
 
 .footer{	
 	position: relative; 
-<<<<<<< .mine
 	left: -200px;
-=======
-	left: -205px;
->>>>>>> .r2258
 	clear: both;
 	font-size: 11px;	
 	text-align: center;
@@ -583,12 +580,8 @@ table{
 	margin-right: auto;
 	width: 150%;
 	overflow: hidden;
-<<<<<<< .mine
 	border: dotted;
 	backgroound-clor: #e7e7df;
-=======
-/*	background-color: #e7e7df;*/
->>>>>>> .r2258
 }
 
 .line{
@@ -603,9 +596,6 @@ table{
 	text-align: left;
 	float: left;
 	list-style-type: none;
-	position: relative;
-	left: 205px;
-	border: dotted;
 }
  
 	.navi li {
@@ -690,24 +680,6 @@ div.faq_color{
 	padding:5px;
 	margin-bottom: 2em;
 }
-
-/* -----------------Course List--------------------*/
-table.farewell {
-  border:0;
-  margin:0 10px 25px 10px;
-  border-collapse: collapse;
-  white-space:normal;
-}
-
-table.farewell th{
-  border: 1px solid #999999;
-}
-
-table.farewell td{
-  border: 1px solid #999999;
-  text-align: left;
-}
-
 
 
 /* -----------------Course Contents ---------------*/
