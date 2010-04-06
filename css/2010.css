@@ -769,31 +769,6 @@ ol.upper-alpha{
 }
 
 
-/* 一般ページのごあいさつ */
-h1.welcome {
-	margin-bottom: 30px;
-}
-
-div.welcome_img{
-	width: 250px;
-	vertical-align: middle;
-	margin: 0px 20px;
-}
-
-p.welcome_chairperson{
-	margin-left: 300px;
-    padding: 20px 5px 5px;
-}
-
-div.welcome_vsyllabus {
-    text-align: left;
-	padding: 5px 0 10px
-}
-
-div.welcome_contents {
-	clear: left;
-}
-
 /* 表 */
 table.basic{
 	border:0;
@@ -925,4 +900,26 @@ td.separate{
 	position: relative;
 	top: 20px;
 	left: 350px;
+}
+
+/** ごあいさつ　関連 **/
+div.welcome_img{
+	width: 250px;
+	vertical-align: middle;
+	margin: 0px 20px;
+}
+
+p.welcome_chairperson{
+	margin-left: 300px;
+    padding: 20px 5px 5px;
+}
+
+div.welcome_vsyllabus {
+    text-align: left;
+	padding: 5px 0 10px
+}
+
+div.welcome_contents {
+	text-indent: 1em;
+	clear: left;
 }
