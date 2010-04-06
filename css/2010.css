@@ -572,7 +572,7 @@ table{
 
 .footer{	
 	position: relative; 
-	left: -200px;
+	left5px;
 	clear: both;
 	font-size: 11px;	
 	text-align: center;
@@ -592,13 +592,14 @@ table{
 
 .navi{
 	padding-left: 0;
-	padding-right: 2em;
+	padding-right: 
 	text-align: left;
 	float: left;
 	list-style-type: none;
 	border: dotted;
 	position: relative;
-	left: 100px;
+	left: 205px;
+	margin: 0px;
 }
  
 	.navi li {
