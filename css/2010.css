@@ -947,8 +947,8 @@ td.separate{
 }
 
 .sorttable{
-	postion: relative;
-	left: 15px;
+	position: relative;
+	left: 10px;
 	border: dotted;
 }
 
