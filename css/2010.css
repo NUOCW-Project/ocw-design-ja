@@ -324,7 +324,7 @@ body:first-of-type #contents{
 		min-height: 28px; 
 		list-style-type: none;
 		padding: 5px 0px 0px 0px; /* paddingの初期化をすることで問題解決（メモ）*/
-		margin: 0px 0px 15px 0px;
+		margin: 5px 0px 5px 10px;
 	}
 
 	 .pankuzu li{
