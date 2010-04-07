@@ -301,7 +301,7 @@ position: relative;
 	margin: 0px 0px -25px 200px;
 	background-color: white;
 	padding: 0;
-	max-width: 700px;
+	max-width: 710px;
 	/*overflow: hidden;
 	border-style: dashed;
 	border-width: 1px;
@@ -309,7 +309,7 @@ position: relative;
 }
 /* IE6 hack */
 * html #contents{
-	width: 700px;
+	width: 710px;
 	}
 /* IE7 hack */
 *:first-child+html #contents{
@@ -464,7 +464,7 @@ body:first-of-type #contents{
 		border-color: #DDDDDD;
 		overflow: hidden;
 		position: relative;
-		padding: 6px;
+		padding: 0;
 		zoom: 1;
 	}
 			
