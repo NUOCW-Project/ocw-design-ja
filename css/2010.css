@@ -245,7 +245,7 @@ position: relative;
 	margin: 0px 5px 0px 40px;
 	position: relative;
 	top: -25px;
-	border-style: groove;
+	border-style: ridge;
 	border-width: 6px;
 	border-color: #e7e7df;
 }
