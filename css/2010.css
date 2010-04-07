@@ -1001,3 +1001,8 @@ table.about{
 	padding:0;
 	border-right-width: 5px;
 }
+ 
+td.gray{
+	text-align: left;
+	background-color:#ecece6;
+}
