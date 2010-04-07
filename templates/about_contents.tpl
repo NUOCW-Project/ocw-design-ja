@@ -20,7 +20,7 @@
 
 <!-- 利用について開始 -->
 <table class="about" summary="">
-<tr><td class=""width="105" class="center_gray">掲載資料</td>
+<tr><td width="105" class="center_gray">掲載資料</td>
 	<td class="left_gray"><p>掲載資料は、<span class="b">非営利の教育目的に限って</span>、コピー、配布、翻訳、編集等を含めてご自由にご利用頂けます。</p>
 	<p>「名大の授業」の講義情報のオリジナル、またはそれを改変したものを配布する際は、必ず原著作者のクレジットを明記して下さい。(次項参照)</p>
 	<p>また、<span class="b">頒布・再頒布</span>の際の利用条件は、
