@@ -1,10 +1,9 @@
-</div><!--"#contents" end-->
-<div class="footer">
-  <!-- 「ページトップへ」 -->
+ <!-- 「ページトップへ」 -->
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="jump"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
   <br />
- {* <img src="./images/common/redline.gif" class="line" /><!-- 水平線(下) -->
-  <br /> *}
+</div><!--"#contents" end-->
+<div class="footer">
+ 
 
 {literal}
 {foreach from=$dept_list key=abbr item=dept name=navigation}
@@ -60,7 +59,7 @@
     <div id="proviso">
       <img src="./images/common/nu.gif" class="nu" />
       <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
-        「名大の授業について」の記載条件のもとで利用することができます（仮）</p>
+        「名大の授業について」の記載条件のもとで利用することができます</p>
     </div>
 </div><!-- "footer_bottom" end-->
 
