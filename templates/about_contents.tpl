@@ -39,10 +39,10 @@
 	品質を確保するように努めますが、法的には、本資料の正確性、品質、特定の目的に対する適合性、商業化の可能性、権利の非侵害性、
 	その他一切を保障しないものであり、いかなる損害および障害についてもその責任を負いません。</p></td></tr>
 
-<tr height=50><td colspan=3>　</td></tr>
+<tr height=50><td colspan=3></td></tr>
 <!-- スタッフ紹介開始 -->
-<tr><td colspan=2>
-<h2 class="about">名古屋大学オープンコースウェア委員会</h2></td><<td clign="right"><p>2010年4月1日現在</p></td></tr><tr>
+<tr><td colspan=3>
+<h2 class="about">名古屋大学オープンコースウェア委員会</h2><tpalign="right">2010年4月1日現在</p></td></tr><tr>
 <td class="center">名古屋大学OCW委員会</td><td width=5></td>
 		<td class="left"><p>
 		[委員長]副総長 教授 山本一良<br>
