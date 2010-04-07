@@ -8,7 +8,7 @@
 <!-- このSiteの特徴開始 -->
 <div class="about">
 	<p><h1 class="about">「名大の授業」</h1>
-	<span class="b">インターネット上への教材の無償公開</span></p><p> </p>
+	<span class="b">インターネット上への教材の無償公開</span></p><p> <br></p>
 	<p>名古屋大学(総長 &#28661;口道成)は、授業の一部を選び、そこで実際に使われている教材を
 	電子化しインターネット上で無償公開する事業を行っています。</p>
 	<p>これは、授業教材をインターネット上で公開することで、普段は垣間見ることのできない名古屋大学の教育の一端を、
@@ -42,7 +42,7 @@
 <tr height=50><td colspan=3></td></tr>
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=3>
-<h2 class="about">名古屋大学オープンコースウェア委員会</h2><tpalign="right">2010年4月1日現在</p></td></tr><tr>
+<h2 class="about">名古屋大学オープンコースウェア委員会</h2><tp align="right">2010年4月1日現在</p></td></tr><tr>
 <td class="center">名古屋大学OCW委員会</td><td width=5></td>
 		<td class="left"><p>
 		[委員長]副総長 教授 山本一良<br>
