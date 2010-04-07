@@ -319,7 +319,7 @@ position: relative;
 body:first-of-type #contents{
 	max-width: none;
 	width: 710px;
-	overflow: visible;
+	overflow: hidden;
 }
 	.pankuzu{
 		min-height: 28px; 
