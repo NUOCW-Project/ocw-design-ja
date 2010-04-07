@@ -315,7 +315,8 @@ position: relative;
 /* IE6 hack */
 * html #contents{
 	width: 700px;
-	}
+	margin-right: 20px;
+}
 /* IE7 hack */
 *:first-child+html #contents{
 	max-width: 710px;
