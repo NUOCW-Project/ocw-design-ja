@@ -584,6 +584,7 @@ table{
 .jump{
 	margin-left: auto;
 	margin-right: 30px;
+	margin-top: 20px;
 }
 		head~/* */body .jump{
 			float: right;
