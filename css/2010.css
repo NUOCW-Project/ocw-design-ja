@@ -314,7 +314,7 @@ position: relative;
 }
 /* IE6 hack */
 * html #contents{
-	width: 710px;
+	width: 700px;
 	}
 /* IE7 hack */
 *:first-child+html #contents{
