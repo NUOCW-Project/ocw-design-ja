@@ -261,6 +261,7 @@ position: relative;
 	border-style: solid;
 	border-width: 2px;
 	border-color: #e7e7df;
+	paddiing: -2px -2px -4px 1px; 
 	}
 
 #being{
