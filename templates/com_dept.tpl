@@ -1,3 +1,4 @@
+<div style= "border: 6px solied #e7e7df;" >
 <ul id="departmentslist" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
 <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
    <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}授業一覧から探す{/if}"
@@ -24,3 +25,4 @@
 {/strip}
 {/literal}
 </ul>
+</div>
