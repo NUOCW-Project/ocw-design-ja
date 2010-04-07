@@ -298,7 +298,7 @@ position: relative;
 #contents{
 	position:relative;
 	top: -25px;
-	margin: 0px 0px 0px 200px;
+	margin: 0px 0px -25px 200px;
 	background-color: white;
 	padding: 0;
 	max-width: 700px;
