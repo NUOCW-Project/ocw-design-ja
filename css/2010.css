@@ -245,7 +245,8 @@ position: relative;
 	margin: 0px 5px 0px 40px;
 	position: relative;
 	top: -25px;
-	height: 580px;
+	/* height: 580px; */
+	border : dotted;
 }
 
 *html #departmentslist{
