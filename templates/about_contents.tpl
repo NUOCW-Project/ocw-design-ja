@@ -42,7 +42,7 @@
 <tr height=50><td colspan=2>　</td></tr>
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=2>
-<h2 class="about">名古屋大学オープンコースウェア委員会</h2><td cla/s></tr>
+<h2 class="about">名古屋大学オープンコースウェア委員会</h2></td></tr>
 <tr><td colspan=2 align="right"><p>2010年4月1日現在</p></td></tr><tr>
 <td class="center">名古屋大学OCW委員会</td>
 		<td class="left"><p>
