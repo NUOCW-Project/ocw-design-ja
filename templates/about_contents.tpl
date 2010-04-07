@@ -20,13 +20,13 @@
 
 <!-- 利用について開始 -->
 <table class="center_contents">
-<tr height=10><td colspan=3>　</td></tr>
-<tr><td width="105" class="center_gray">掲載資料</td><td width=3></td>
+<tr height=7><td colspan=3>　</td></tr>
+<tr><td width="105" class="center_gray">掲載資料</td><td width=2></td>
 	<td class="left_gray"><p>掲載資料は、<span class="b">非営利の教育目的に限って</span>、コピー、配布、翻訳、編集等を含めてご自由にご利用頂けます。</p>
 	<p>「名大の授業」の講義情報のオリジナル、またはそれを改変したものを配布する際は、必ず原著作者のクレジットを明記して下さい。(次項参照)</p>
 	<p>また、<span class="b">頒布・再頒布</span>の際の利用条件は、
 	<span class="b">「名大の授業」の利用条件に準拠</span>させて下さい。</p></td></tr>
-<tr><td class="center" id="tyosaku">著作権</td><td width=3></td>
+<tr><td class="center" id="tyosaku">著作権</td><td width=2></td>
 	<td class="left"><p>「名大の授業」に掲載されている全ての講義情報の著作権は、名古屋大学及び教材を作成した教員に帰属します。
 	また、本著作権は、これに改変が加えられたものにおいても、引き続き保持されます。</p>
 	<p>講義情報のオリジナル、またはそれを改変したものを配布する際は、以下のような原著作者のクレジットを明記してください。</p>
@@ -34,7 +34,7 @@
 	(講義の年)をもとに(一部改変して)作成されたものです。</p></div>
 	<div class="indent30"><p>Copyright &copy; 講義の年 教員の氏名」</p></div></td></tr>
 <tr>	
-<td class="center_gray">免責</td><td width=3></td>
+<td class="center_gray">免責</td><td width=2></td>
 	<td class="left_gray"><p>名古屋大学および名古屋大学の教員は、本資料の内容が名古屋大学に求められる学術的水準に見合う正確性、
 	品質を確保するように努めますが、法的には、本資料の正確性、品質、特定の目的に対する適合性、商業化の可能性、権利の非侵害性、
 	その他一切を保障しないものであり、いかなる損害および障害についてもその責任を負いません。</p></td></tr>
@@ -43,7 +43,7 @@
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=3>
 <h2 class="about">名古屋大学オープンコースウェア委員会</h2><p align="right">2010年4月1日現在</p></td></tr><tr>
-<td class="center_gray">名古屋大学OCW委員会</td><td width=3></td>
+<td class="center_gray">名古屋大学OCW委員会</td><td width=2></td>
 		<td class="left_gray"><p>
 		[委員長]副総長 教授 山本一良<br>
 		理事・副総長 教授 杉山寛行<br>
@@ -59,7 +59,7 @@
 		スタジオ メディアサポーター 古井慎也<br>
 		OCW事務室 事務補佐員 松田智子
 		</p></td></tr><tr>
-<td class="center" id="ocwwg">名古屋大学OCW WG</td><td width=3></td>
+<td class="center" id="ocwwg">名古屋大学OCW WG</td><td width=2></td>
 		<td class="left"><p>
 		情報連携統括本部 情報戦略室 准教授 梶田将司<br>
 		高等教育研究センター 准教授 中井俊樹<br>
@@ -72,7 +72,7 @@
 		情報メディア教育システム 事務補佐員 泉明恵<br>
 		OCW事務室 事務補佐員 松田智子
 		</p></td></tr><tr>
-<td class="center_gray">名古屋大学OCWサポートスタッフ</td><td width=3></td>
+<td class="center_gray">名古屋大学OCWサポートスタッフ</td><td width=2></td>
 		<td class="left_gray"><p>
 		多元数理科学研究科D1 足立真訓<br>
 		文学部B3 市之瀬由佳<br>
@@ -92,7 +92,7 @@
 		理学部B2 山岡大祐<br>
 		理学部B2 山本幹人<br>
 		</p></td></tr><tr>
-<td class="center">写真撮影</td><td width=3></td>
+<td class="center">写真撮影</td><td width=2></td>
 		<td class="left"><p>
 		大学院工学研究科 准教授 長谷川浩
 		</p>
