@@ -246,7 +246,6 @@ position: relative;
 	position: relative;
 	top: -25px;
 	height: 580px;
-	border: dotted;
 }
 
 *html #departmentslist{
@@ -259,6 +258,7 @@ position: relative;
 
 	#departmentslist li{
 		margin-bottom: -6px; /*画像の隙間をなくしている */
+	border: dotted;
 	}
 
 #being{
