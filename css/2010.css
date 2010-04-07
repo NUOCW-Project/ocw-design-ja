@@ -179,6 +179,7 @@ a:hover{
 	background-repeat: repeat-x;
 	background-position: 1300px 0px;
 	margin:0;
+	border: dotted;
 }
 
 .main_back {
