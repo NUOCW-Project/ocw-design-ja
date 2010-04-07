@@ -1010,7 +1010,7 @@ h2.about {
 table.about{
 	margin:0;
 	padding:0;
-	border: 5px;
+	border: 5px red;
 }
  
 td.gray{
