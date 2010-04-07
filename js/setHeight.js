@@ -1,6 +1,6 @@
 function method3() {	
 	var H;
-	H = $("#notice").outerHeight() + $("#press").outerHeight() -5;
+	H = $("#notice").outerHeight() + $("#press").outerHeight() -6;
 	var cssValue = $("#access div").css("height", H + "px");
 
 	H = H - 30;
