@@ -19,7 +19,7 @@
 <!-- このSiteの特徴終了 -->
 
 <!-- 利用について開始 -->
-<table>
+<table class="about">
 <tr height=20><td colspan=3>　</td></tr>
 <tr><td width="105" class="center_gray">掲載資料</td><td width=5></td>
 	<td class="left_gray"><p>掲載資料は、<span class="b">非営利の教育目的に限って</span>、コピー、配布、翻訳、編集等を含めてご自由にご利用頂けます。</p>
@@ -43,8 +43,8 @@
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=3>
 <h2 class="about">名古屋大学オープンコースウェア委員会</h2><p align="right">2010年4月1日現在</p></td></tr><tr>
-<td class="center">名古屋大学OCW委員会</td><td width=5></td>
-		<td class="left"><p>
+<td class="center_gray">名古屋大学OCW委員会</td><td width=5></td>
+		<td class="left_gray"><p>
 		[委員長]副総長 教授 山本一良<br>
 		理事・副総長 教授 杉山寛行<br>
 		総長補佐 教授 戸田山和久<br>
@@ -59,8 +59,8 @@
 		スタジオ メディアサポーター 古井慎也<br>
 		OCW事務室 事務補佐員 松田智子
 		</p></td></tr><tr>
-<td class="center_gray" id="ocwwg">名古屋大学OCW WG</td><td width=5></td>
-		<td class="left_gray"><p>
+<td class="center" id="ocwwg">名古屋大学OCW WG</td><td width=5></td>
+		<td class="left"><p>
 		情報連携統括本部 情報戦略室 准教授 梶田将司<br>
 		高等教育研究センター 准教授 中井俊樹<br>
 		エコトピア科学研究所 准教授 山里敬也<br>
@@ -72,8 +72,8 @@
 		情報メディア教育システム 事務補佐員 泉明恵<br>
 		OCW事務室 事務補佐員 松田智子
 		</p></td></tr><tr>
-<td class="center">名古屋大学OCWサポートスタッフ</td><td width=5></td>
-		<td class="left"><p>
+<td class="center_gray">名古屋大学OCWサポートスタッフ</td><td width=5></td>
+		<td class="left_gray"><p>
 		多元数理科学研究科D1 足立真訓<br>
 		文学部B3 市之瀬由佳<br>
 		多元数理科学研究科M1 伊藤大禮<br>
@@ -92,8 +92,8 @@
 		理学部B2 山岡大祐<br>
 		理学部B2 山本幹人<br>
 		</p></td></tr><tr>
-<td class="center_gray">写真撮影</td><td width=5></td>
-		<td class="left_gray"><p>
+<td class="center">写真撮影</td><td width=5></td>
+		<td class="left"><p>
 		大学院工学研究科 准教授 長谷川浩
 		</p>
 		<p>
