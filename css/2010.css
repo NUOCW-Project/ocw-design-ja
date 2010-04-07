@@ -173,6 +173,14 @@ a:hover{
 	margin:0;
 }
 
+.topheader_edge{
+	height: 90px;
+	background-image: url(../images/ja/topbar_top_loop.png);
+	background-repeat: repeat-x;
+	background-position: 1300px 0px;
+	margin:0;
+}
+
 .main_back {
 	background-image: url(../images/common/loop.jpg);
 	background-repeat: repeat-y;
