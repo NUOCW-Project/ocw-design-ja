@@ -610,7 +610,7 @@ table{
 
 .topjump{
 	position: relative;
-	top: 0px;
+	top: 20px;
 	left: 580px;
 	border: dotted;
 }
