@@ -1,7 +1,7 @@
 {literal}
 <h3>{$dep_and_data.title}</h3>
 {if  $dep_and_data.num_of_course > 0}
-<table  class = "mytable">
+<table  class = "sorttable">
 <tr>
 <th width="375">コース名</th>
 <th width="60">開講年度</th>
