@@ -1,8 +1,9 @@
 function method3() {	
 	var H;
-	H = $("#notice").outerHeight() + $("#press").outerHeight() -20;
-	
-	H = H - 40;
+	H = $("#notice").outerHeight() + $("#press").outerHeight() -1;
+	var cssValue = $("#access div").css("height", H + "px");
+
+	H = H - 24;
 	var G = 0;
 	var i = 0;
 
@@ -12,9 +13,6 @@ function method3() {
 	}
 		i--;
 
-	G = G - $("#no" + i).outerHeight(true) + 17;
+	G = G - $("#no" + i).outerHeight(true);
 	var cssValue = $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
-
-	H = H + 40;
-	var cssValue = $("#access div").css("height", H + "px");
 }
