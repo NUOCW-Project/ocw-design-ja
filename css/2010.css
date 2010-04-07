@@ -245,8 +245,9 @@ position: relative;
 	margin: 0px 5px 0px 40px;
 	position: relative;
 	top: -25px;
-	/* height: 580px; */
-	border : dotted;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #e7e7df;
 }
 
 *html #departmentslist{
@@ -259,10 +260,6 @@ position: relative;
 
 	#departmentslist li{
 	margin-bottom: -6px; /*画像の隙間をなくしている */
-	border-style: solid;
-	border-width: 2px;
-	border-color: #e7e7df;
-	paddiing: -2px -2px -4px 1px; 
 	}
 
 #being{
