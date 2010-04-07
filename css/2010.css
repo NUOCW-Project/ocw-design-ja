@@ -46,14 +46,12 @@ a:hover{
 	height: 90px; 
 	background-image: url(../images/common/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
 	background-repeat: no-repeat;
-	border: dotted;
 }
 
 .topheader{
 	height: 110px;
 	background-image: url(../images/common/topbar_top.jpg);	
-	backgound-repeat: no-repeat;
-	border : dotted;
+	background-repeat: no-repeat;
 }
 
 .header a#home_header{
