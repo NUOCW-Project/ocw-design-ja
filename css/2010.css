@@ -42,7 +42,7 @@ a:hover{
 	text-decoration: underline;
 }
 
-#header{
+.header{
 	height: 90px; 
 	background-image: url(../images/common/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
 	background-repeat: no-repeat;
