@@ -318,7 +318,7 @@ position: relative;
 /* Safari hack */
 body:first-of-type #contents{
 	max-width: none;
-	width: 720px;
+	width: 710px;
 	overflow: visible;
 }
 	.pankuzu{
@@ -590,7 +590,7 @@ table{
 }
 
 .jump{
-	margin: 20px 30px 0px auto;
+	margin-left: auto;
 }
 		head~/* */body .jump{
 			float: right;
