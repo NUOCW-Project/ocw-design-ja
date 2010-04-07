@@ -259,8 +259,9 @@ position: relative;
 	#departmentslist li{
 		margin-bottom: -6px; /*画像の隙間をなくしている */
 	border-style: solid;
-	border-width: 1px;
+	border-width: 3px;
 	border-color: #e7e7df;
+	padding: 0px;
 	}
 
 #being{
