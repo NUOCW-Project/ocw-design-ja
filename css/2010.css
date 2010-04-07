@@ -2,18 +2,17 @@ body{
 	margin: 0;
 	padding: 0;
 
-	background-image: url(../images/common/bg.png); /*グレーの背景*/
-	background-repeat: repeat-x;
-	background-position: 0px 90px; /* ヘッダー画像の下に白線がある*/
-
+	background-color: #f6f6f6;
 	font-size: 12.5px; 
 	/* small指定はブラウザにより異なる */
 	color: #888888;
 }
 
 .body_back{
-	background-color: #f6f6f6;
-	border: dotted;
+
+	background-image: url(../images/common/bg.png); /*グレーの背景*/
+	background-repeat: repeat-x;
+	background-position: 0px 90px; /* ヘッダー画像の下に白線がある*/
 	}
 
 h2{
