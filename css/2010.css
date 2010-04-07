@@ -376,7 +376,7 @@ body:first-of-type #contents{
 #notice{
 	float: left;
 	border-style: solid;
-	border-width: 6px;
+	border-width: 3px;
 	border-color: #e7e7df;
 	width: 330px;
 	/*height: 400px;*/
@@ -390,7 +390,7 @@ body:first-of-type #contents{
 	/*clear: right;*/
 	float: left;
 	border-style: solid;
-	border-width: 6px;
+	border-width: 3px;
 	border-color: #e7e7df;
 	width: 330px;
 	/*height: 300px;*/
@@ -404,7 +404,7 @@ body:first-of-type #contents{
 	/*clear: right;*/
 	float: left;
 	border-style: solid;
-	border-width: 1px;
+	border-width: 3px;
 	border-color: #e7e7df;
 	width: 330px;
 	margin: 6px 6px 0 0;
