@@ -175,7 +175,7 @@ a:hover{
 
 .topheader_edge{
 	height: 110px;
-	background-image: url(../images/ja/topbar_top_loop.png);
+	background-image: url(../images/common/topbar_top_loop.png);
 	background-repeat: repeat-x;
 	background-position: 1300px 0px;
 	margin:0;
