@@ -306,7 +306,6 @@ position: relative;
 	/*border-style: dashed;
 	border-width: 1px;
 	border-color: blue;*/
-	border: dotted;
 }
 /* IE6 hack */
 * html #contents{
@@ -612,9 +611,7 @@ table{
 	font-size: 11px;	
 	text-align: left;
 	padding-top: 1em;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 0px;
+	margin: 90px auto 0 auto ;
 	width: 100%;
 	overflow: hidden;
 	background-color: #e7e7df; 
