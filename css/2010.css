@@ -217,6 +217,7 @@ a:hover{
 	min-height: 1150px;
 	background-color: white;
 	padding: 0;
+	border: dotted;
 }
 
 *html .main{
@@ -306,7 +307,6 @@ position: relative;
 	border-style: dashed;
 	border-width: 1px;
 	border-color: blue;*/
-	border: dotted;
 }
 /* IE6 hack */
 * html #contents{
