@@ -19,10 +19,10 @@
 <!-- このSiteの特徴終了 -->
 
 <!-- 利用について開始 -->
-<table class="about">
+<table>
 <tr height=7><td colspan=3>　</td></tr>
 <tr><td width="105" class="center_gray">掲載資料</td><td width=2></td>
-	<td class="left_gray"><p>掲載資料は、<span class="b">非営利の教育目的に限って</span>、コピー、配布、翻訳、編集等を含めてご自由にご利用頂けます。</p>
+	<td class="left_gray" cellpadding=5><p>掲載資料は、<span class="b">非営利の教育目的に限って</span>、コピー、配布、翻訳、編集等を含めてご自由にご利用頂けます。</p>
 	<p>「名大の授業」の講義情報のオリジナル、またはそれを改変したものを配布する際は、必ず原著作者のクレジットを明記して下さい。(次項参照)</p>
 	<p>また、<span class="b">頒布・再頒布</span>の際の利用条件は、
 	<span class="b">「名大の授業」の利用条件に準拠</span>させて下さい。</p></td></tr>
