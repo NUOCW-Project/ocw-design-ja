@@ -612,6 +612,7 @@ table{
 	position: relative;
 	top: 20px;
 	left: 580px;
+	border: dotted;
 }
 
 .icon{
