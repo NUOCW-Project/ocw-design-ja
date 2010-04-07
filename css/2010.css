@@ -944,6 +944,11 @@ td.separate{
 	left: 350px;
 }
 
+#sorttabe{
+	postion: relative;
+	left: 15px;
+}
+
 /** ごあいさつ　関連 **/
 div.welcome_img{
 	width: 250px;
