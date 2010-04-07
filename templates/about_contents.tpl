@@ -6,7 +6,7 @@
 {include file="com_navi.tpl"}
 
 <!-- このSiteの特徴開始 -->
-<div class="course_contents">
+<div class="about">
 	<p><h1 class="about">「名大の授業」</h1>
 	<span class="b">インターネット上への教材の無償公開</span><br></p>
 	<p>名古屋大学(総長 &#28661;口道成)は、授業の一部を選び、そこで実際に使われている教材を
