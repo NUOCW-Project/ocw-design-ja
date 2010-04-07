@@ -44,7 +44,7 @@ a:hover{
 
 #header{
 	height: 90px; 
-	background-image: url(../images/ja/topbar.jpg);/* 背景画像「名大の授業」 */
+	background-image: url(../images/common/topbar.jpg);/* 背景画像「名大の授業」 */
 	background-repeat: no-repeat;
 }
 
