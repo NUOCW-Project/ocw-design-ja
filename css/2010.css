@@ -306,7 +306,6 @@ position: relative;
 	/*border-style: dashed;
 	border-width: 1px;
 	border-color: blue;*/
-	border: dotted;
 }
 /* IE6 hack */
 * html #contents{
@@ -585,7 +584,7 @@ table{
 .jump{
 	margin-left: auto;
 	margin-top: 20px;
-	margin-right: 50px;
+	margin-right: 30px;
 }
 		head~/* */body .jump{
 			float: right;
