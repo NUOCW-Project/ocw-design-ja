@@ -301,7 +301,7 @@ position: relative;
 	margin: 0 0px 0 200px;
 	background-color: white;
 	padding: 0;
-	max-width: 740px;
+	max-width: 700px;
 	overflow: hidden;
 	/*border-style: dashed;
 	border-width: 1px;
@@ -420,12 +420,12 @@ body:first-of-type #contents{
 		}
 
 	#access div{
-			height: 300px;
+			height: 350px;
 	}
 
 		#rank_table{
 			position: absolute;
-			width: 95%;
+			width: 100%;
 		}
 
 			#rank_table tr{
@@ -583,8 +583,6 @@ table{
 
 .jump{
 	margin-left: auto;
-	margin-right: 50px;
-	margin-top: 20px;
 }
 		head~/* */body .jump{
 			float: right;
