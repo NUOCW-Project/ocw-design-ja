@@ -605,6 +605,7 @@ table{
 .topjump{
 	float: right;
 	margin: 20px 30px 0px 0px;
+	border: dotted;
 }
 
 .icon{
