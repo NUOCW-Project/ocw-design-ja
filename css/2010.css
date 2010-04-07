@@ -461,7 +461,7 @@ body:first-of-type #contents{
 	.waku{
 		border-style: solid;
 		border-width: 2px;
-		border-color: #999999;
+		border-color: #bbbbbb;
 		overflow: hidden;
 		position: relative;
 		padding: 5px 0 0 0;
