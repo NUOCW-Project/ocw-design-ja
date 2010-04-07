@@ -1,5 +1,5 @@
  <!-- 「ページトップへ」 -->
-  <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="topjump"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
+  <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="jump"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
 </div><!--"#contents" end-->
 <div class="footer">
 {literal}
