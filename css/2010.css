@@ -315,8 +315,9 @@ position: relative;
 *:first-child+html #contents{
 	max-width: 700px;
 }
-/* Safari4 hack */
+/* Safari hack */
 body:first-of-type #contents{
+	max-width: none;
 	width: 720px;
 	overflow: visible;
 }
@@ -426,6 +427,7 @@ body:first-of-type #contents{
 		#rank_table{
 			position: absolute;
 			width: 100%;
+			border-spacing: 0;
 		}
 
 			#rank_table tr{
@@ -474,6 +476,12 @@ table{
 }
 
 	td{
+		border-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	tr{
 		border-style: none;
 		margin: 0;
 		padding: 0;
