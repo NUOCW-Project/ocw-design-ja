@@ -591,10 +591,17 @@ table{
 
 .jump{
 	margin-left: auto;
+	
 }
+
+
 		head~/* */body .jump{
 			float: right;
 		}
+
+.topjump{
+	margin: 20px 30px 0px auto;
+}
 
 .icon{
 	display: inline;
