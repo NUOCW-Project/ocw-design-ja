@@ -464,9 +464,12 @@ body:first-of-type #contents{
 		border-color: #DDDDDD;
 		overflow: hidden;
 		position: relative;
-		padding: 0;
+		padding: 5px 0 0 0;
 		zoom: 1;
 	}
+		.waku img{
+			margin-left: 5px;
+		}
 			
 table{
 	border-style: none;
