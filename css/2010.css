@@ -11,6 +11,10 @@ body{
 	color: #888888;
 }
 
+.body_back{
+	background-color: #h6h6h6;
+	}
+
 h2{
 	font-size: large;
 	color: #DD0000;
@@ -38,7 +42,7 @@ a:hover{
 	text-decoration: underline;
 }
 
-.header{
+#header{
 	height: 90px; 
 	background-image: url(../images/ja/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
 	background-repeat: no-repeat;
