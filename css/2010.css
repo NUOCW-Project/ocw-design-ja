@@ -298,14 +298,14 @@ position: relative;
 #contents{
 	position:relative;
 	top: -25px;
-	margin: 0px 0px 0px 200px;
+	margin: 0px 30px 0px 200px;
 	background-color: white;
 	padding: 0;
 	max-width: 710px;
-	/*overflow: hidden;
+	overflow: hidden;
 	border-style: dashed;
 	border-width: 1px;
-	border-color: blue;*/
+	border-color: blue;
 }
 /* IE6 hack */
 * html #contents{
@@ -313,7 +313,7 @@ position: relative;
 	}
 /* IE7 hack */
 *:first-child+html #contents{
-	max-width: 700px;
+	max-width: 710px;
 }
 /* Safari hack */
 body:first-of-type #contents{
