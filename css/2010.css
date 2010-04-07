@@ -311,6 +311,7 @@ position: relative;
 	padding: 0;
 	max-width: 710px;
 	overflow: hidden;
+	border: dotted;
 }
 /* IE6 hack */
 * html #contents{
