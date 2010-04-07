@@ -997,39 +997,7 @@ h2.about {
 	color: #888888;
 }
 
-.a_text {
-  padding-left: 150px;
-}
-
-.a_text p {
-	margin-bottom: 1em;
-}
-
-.a_text h3.even {
-	font-size: 13px;
-	font-weight: normal;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-top: 0px;
-	margin-left: -145px;
-  margin-right: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-  width: 110px;
-  float: left;
-}
-
-.a_text h3.odd {
-	font-size: 13px;
-	font-weight: normal;
-	background-color: #ecece6;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-top: 0px;
-	margin-left: -145px;
-  margin-right: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-  width: 110px;
-  float: left;
+table.about{
+ margin:0;
+ padding:0;
 }
