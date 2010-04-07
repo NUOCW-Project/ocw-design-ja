@@ -583,7 +583,7 @@ table{
 
 .jump{
 	margin-left: auto;
-	border: dotted;
+	margin-bottom: 0px;
 }
 		head~/* */body .jump{
 			float: right;
