@@ -15,7 +15,7 @@
              onMouseOut="this.src='./images/common/h02inquiry.png'"/>
         </a><!-- ヘルプへのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">
-        <img src="./images/common/h03help.png" alt="Help" 
+        <img src="./images/{$lang}/h03help.gif" alt="Help" 
              onMouseOver="this.src='./images/common/h03help_on.png'" 
              onMouseout="this.src='./images/common/h03help.png'"/>
         </a>
