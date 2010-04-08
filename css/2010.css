@@ -970,7 +970,6 @@ td.separate{
 table.sorttable{
 	position: relative;
 	left: 10px;	
-	border: dotted;
 	width: 700px;
 }
 
