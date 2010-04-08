@@ -11,7 +11,7 @@
 		<tbody>
 
 		<tr>
-			<th width="3%" class="center"></th>
+			<th width="2%" class="center"></th>
             {if $lang=='ja'}
 			<th width="10%" class="center"></th>
 			<th width="35%">コース名</th>
@@ -36,8 +36,8 @@
 			{else}
 		<tr class="even">
 			{/if}
-		<td>{$smarty.foreach.vs_loop.iteration}</td>
-		<td>
+		<td　class="center">{$smarty.foreach.vs_loop.iteration}</td>
+		<td class="center">
 		{if $vs.url_flv != NULL}
 			<noscript>（新しいウィンドウを開きます）</noscript>
 			<a href="{$vs.url_flv}"

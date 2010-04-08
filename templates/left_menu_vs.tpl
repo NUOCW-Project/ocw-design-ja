@@ -3,9 +3,9 @@
 <div class="waku">
 <table id="aboutpodcast_image">
 <tr>
-<td>
+<th>
 <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
-</td>
+</th>
 </tr>
 <tr>
 <td>
