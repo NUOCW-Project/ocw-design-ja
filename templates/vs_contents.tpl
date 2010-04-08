@@ -65,7 +65,7 @@
 			 onclick="openWin('{$vs.url_flv}');return false;"
 			 onkeypress="openWin('{$vs.url_flv}');return false;"
 			 title="新しいウィンドウを開きます" target="flame">
-			<img src="./images/common/b_fv.gif">
+			<img src="./images/common/play_s.png">
 			</a>
 		{/if}<br>
 		</td>
