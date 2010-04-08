@@ -970,6 +970,7 @@ td.separate{
 .sorttable{
 	position: relative;
 	left: 10px;
+	border: dotted;
 }
 
 /** ごあいさつ　関連 **/
