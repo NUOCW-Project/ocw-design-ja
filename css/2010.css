@@ -310,7 +310,6 @@ position: relative;
 	padding-bottom: 20px;
 	max-width: 710px;
 	overflow: hidden;
-	border : dotted;
 }
 /* IE6 hack */
 * html #contents{
@@ -612,7 +611,6 @@ table{
 	position: relative;
 	top: 20px;
 	left: 580px;
-	border: dotted;
 }
 
 .icon{
