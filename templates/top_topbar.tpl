@@ -74,7 +74,7 @@
       </div><!-- "header_button" end -->
     </div><!-- "header_sub" end -->
   </div><!-- "header" end -->
-{*</div><!-- "topheader_edge" end -->  *}
+</div><!-- "topheader_edge" end --> 
 {/strip}
 <div class="main_back"><!--  右側部分背景 -->
   <div class="main"><!-- 最上部ヘッダー以外 -->
