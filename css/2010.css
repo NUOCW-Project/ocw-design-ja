@@ -237,7 +237,9 @@ a:hover{
 
 #aboutpodcast_image{
 padding: 0px;
-margin: 17.5px 17.5px 10px 17.5px;
+margin-top: 17.5px;
+margin-left: auto;
+margin-right: auto;
 text-align: left;
 position: relative;
 }
