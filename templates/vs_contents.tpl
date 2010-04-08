@@ -11,7 +11,7 @@
 		<tbody>
 
 		<tr>
-			<th width="5%" class="center"></th>
+			<th width="3%" class="center"></th>
             {if $lang=='ja'}
 			<th width="10%" class="center"></th>
 			<th width="35%">コース名</th>

@@ -237,8 +237,7 @@ a:hover{
 
 #aboutpodcast_image{
 padding: 0px;
-margin-top: 10px;
-margin-bottom: 10px;
+margin: 10px 22px 10px 23px;
 text-align: center;
 position: relative;
 }
@@ -463,8 +462,7 @@ body:first-of-type #contents{
 			padding: 1em 0em;
 			background-color: #e7e7df;
 		}
-	
-	.waku{
+	waku{
 		border-style: solid;
 		border-width: 1px;
 		border-color: #bbbbbb;
@@ -770,9 +768,9 @@ span.b{
 #podcast{
         clear: right;
         float: left;
-        border-style: solid;
-        border-width: 6px;
-        border-color: #e7e7df;
+/*        border-style: solid;  */
+/*        border-width: 6px;  */
+/*        border-color: #e7e7df;  */
         width: 180px;
         margin: 6px 4px 0 4px;
 }
