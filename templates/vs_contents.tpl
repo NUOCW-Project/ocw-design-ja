@@ -36,7 +36,7 @@
 			{else}
 		<tr class="even">
 			{/if}
-		<td　class="center">{$smarty.foreach.vs_loop.iteration}</td>
+		<td class="center">{$smarty.foreach.vs_loop.iteration}</td>
 		<td class="center">
 		{if $vs.url_flv != NULL}
 			<noscript>（新しいウィンドウを開きます）</noscript>
