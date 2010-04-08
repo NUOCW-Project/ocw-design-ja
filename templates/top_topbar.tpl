@@ -5,9 +5,9 @@
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
-        <img src="./images/{$lang}/h01sitemap.jpg" alt="Sitemap" 
-             onMouseOver="this.src='./images/{$lang}/h01sitemap_on.jpg'" 
-             onMouseOut="this.src='./images/{$lang}/h01sitemap.jpg'"/>
+        <img src="./images/{$lang}/h01sitemap.gif" alt="Sitemap" 
+             onMouseOver="this.src='./images/{$lang}/h01sitemap_on.gif'" 
+             onMouseOut="this.src='./images/{$lang}/h01sitemap.gif'"/>
         </a><!-- お問い合わせのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">
         <img src="./images/common/h02inquiry.png" alt="Inquiry" 
