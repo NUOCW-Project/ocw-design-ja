@@ -1,7 +1,7 @@
 {literal}
 <h3>{$title}</h3>
 {if  $result.num_of_course > 0}
-<table  class = "mytable" >
+<table  class = "sorttable" >
 <tr>
 <th width="145">教員名</th>
 <th width="385">コース名</th>
