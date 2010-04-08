@@ -971,6 +971,7 @@ table.sorttable{
 	position: relative;
 	left: 10px;	
 	border: dotted;
+	width: 400px;
 }
 
 /** ごあいさつ　関連 **/
