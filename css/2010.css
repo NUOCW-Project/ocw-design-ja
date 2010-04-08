@@ -967,7 +967,7 @@ td.separate{
 	left: 350px;
 }
 
-.sorttable{
+table.sorttable{
 	position: relative;
 	left: 10px;	
 	border: dotted;
