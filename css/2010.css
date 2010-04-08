@@ -191,7 +191,7 @@ a:hover{
 }
 
 	.main_back_url{
-		background-image: url(../images/common/url.png);
+		background-image: url(../images/common/url.gif);
 		background-repeat: no-repeat;
 		width: 20px;
 		height: 170px; 
@@ -201,7 +201,7 @@ a:hover{
 	}
 
 *html .main_back_url{
-			 background-image: url(../images/common/url.png);
+			 background-image: url(../images/common/url.gif);
  	  	 background-repeat: no-repeat;
 	position: expression('absolute');
 	top: expression(documentElement.scrollTop + 90 + 'px');
@@ -209,7 +209,7 @@ a:hover{
 }
 
 	.main_back_adachi{
-		background-image: url(../images/common/staff.png);
+		background-image: url(../images/common/staff.gif);
 		background-repeat: no-repeat;
 		position: absolute;
 		top: 10px; 
@@ -237,7 +237,7 @@ a:hover{
 
 #aboutpodcast_image{
 padding: 0px;
-margin: 22.5px 22.5px 10px 22.5px;
+margin: 17.5px 17.5px 10px 17.5px;
 text-align: left;
 position: relative;
 }
