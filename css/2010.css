@@ -234,21 +234,6 @@ a:hover{
 	padding: 0px;
 }
 
-
-#aboutpodcast_image{
-padding: 0px;
-margin: 17.5px 17.5px 17.5px 17.5px;
-/*text-align: left;*/
-position: relative;
-}
-
-#aboutpodcast_sentence{
-padding: 0px;
-margin: 5px 5px 3px 5px;
-text-align: left;
-position: relative;
-}
-
 #departmentslist{
 	float: left;
 	width: 160px;
@@ -462,11 +447,11 @@ body:first-of-type #contents{
 			padding: 1em 0em;
 			background-color: #e7e7df;
 		}
+
 	.waku{
 		border-style: solid;
 		border-width: 1px;
-		border-color: #cccccc;
-/*		border-color: #bbbbbb; */
+		border-color: #bbbbbb;
 		overflow: hidden;
 		position: relative;
 		padding: 5px 0 0 0;
@@ -766,14 +751,32 @@ span.b{
 
 /*------------- 1Ê¬´Ö¼ø¶È¾Ò²ð&PodCast -----------*/
 
+
 #podcast{
-        clear: right;
         float: left;
-/*        border-style: solid;  */
-/*        border-width: 6px;  */
-/*        border-color: #e7e7df;  */
-        width: 180px;
-        margin: 6px 4px 0 4px;
+        width: 160px;
+        padding: 0px;
+        margin: 0px 5px 0px 40px;
+        position: relative;
+        top: -25px;
+	background-color: white;
+}
+
+#podcast_waku{
+        border-style: solid;
+        border-width: 1px;
+        border-color: #cccccc;
+        overflow: hidden;
+        position: relative;
+        padding: 0px;
+	margin: 2px;
+}
+
+#aboutpodcast_image{
+        padding: 0px;
+        margin: 17.5px 17.5px 17.5px 17.5px;
+        /*text-align: left;*/
+        position: relative;
 }
 
 #contents_p{
