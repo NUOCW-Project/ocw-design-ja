@@ -1,5 +1,5 @@
 <!-- 名大の授業についてleftメニュー -->
-<div id="departmentslist">
+<div id="podcast">
 <div class="waku">
 <table id="aboutpodcast_image">
 <tr>
