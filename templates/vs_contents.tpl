@@ -1,4 +1,4 @@
-<img src="./images/{$lang}/header_courselist.jpg" />
+<img src="./images/{$lang}/header_vs.jpg" />
 
 {include file="left_menu_vs.tpl"}
 
