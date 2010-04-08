@@ -4,7 +4,7 @@
 <div id="aboutpodcast_image">
 <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
 </div>
-<div id="aboutpodcast">
+<div id="aboutpodcast_sentence">
 {if $lang=='ja'}
 	<a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/vs.png" ></a>
 	を iTunes の "Podcast" にドラッグ＆ドロップすると、ポッドキャストが登録されます。
