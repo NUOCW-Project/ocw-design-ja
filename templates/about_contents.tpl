@@ -19,7 +19,7 @@
 <!-- このSiteの特徴終了 -->
 
 <!-- 利用について開始 -->
-<table class=about>
+<table class="about">
 <tr><td colspan=3>　</td></tr>
 <tr><td width="105" class="center_gray">掲載資料</td><td width=2></td>
 	<td class="left_gray"><p>掲載資料は、<span class="b">非営利の教育目的に限って</span>、コピー、配布、翻訳、編集等を含めてご自由にご利用頂けます。</p>
