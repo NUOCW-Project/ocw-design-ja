@@ -963,7 +963,7 @@ td.separate{
 	float: right;
 }
 
-#menu_list{
+table#menu_list{
 	position: relative;
 	top: 20px;
 	left: 30px;
