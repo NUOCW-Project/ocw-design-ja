@@ -32,23 +32,23 @@
 <div class="footer_bottom">  
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&page_type=about">
-	<img src="./images/{$lang}/c01aboutnu.png" id="size_img" alt="名大の授業について"
+	<img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="名大の授業について"
 	     onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"/></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">
-      <img src="./images/{$lang}/c02answer.png" id="size_img" alt="用語解説"
+      <img src="./images/{$lang}/c02answer.png" class="size_img" alt="用語解説"
 	   onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
 	   onMouseOut="this.src='./images/{$lang}/c02answer.png'"/></a></li>
-    <li><a href="./index.php?lang=ja&amp;mode=g&page_type=vsyllabus">
-	<img src="./images/{$lang}/c03vs.png" id="size_img" alt="1分間授業紹介&Podcast"
+    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus">
+	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="1分間授業紹介&Podcast"
 	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"/></a></li>
     <li><a href="http://www.media.nagoya-u.ac.jp/sc/">
-	<img src="./images/{$lang}/c04sc.png" id="size_img" alt="スタジオチャンネル"
+	<img src="./images/{$lang}/c04sc.png" class="size_img" alt="スタジオチャンネル"
 	     onMouseOver="this.src='./images/{$lang}/c04sc_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c04sc.png'"/></a></li>
-    <li><a href="./index.php?lang={$lang}&amp;mode=g&page_type=link">
-      <img src="./images/{$lang}/c05link.png" id="size_img" alt="リンク"
+    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=link">
+      <img src="./images/{$lang}/c05link.png" class="size_img" alt="リンク"
 	   onMouseOver="this.src='./images/{$lang}/c05link_on.png'" 
 	   onMouseOut="this.src='./images/{$lang}/c05link.png'"/></a></li>
   </ul>
@@ -56,7 +56,7 @@
     <div id="proviso">
       <img src="./images/common/nu.png" class="nu" />
       <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br/>
-        <a href="./index.php?lang={$lang}&amp;mode=g&page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます</p>
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます</p>
 	<p><br/>　<br/></p>
     </div>
 </div><!-- "footer_bottom" end-->
