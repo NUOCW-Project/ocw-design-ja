@@ -347,7 +347,7 @@ body:first-of-type #contents{
 	border: dotted;
 }
 
-img #prj10{
+#prj10 img{
 	margin-left: -10px;
 	border: dotted;
 }
