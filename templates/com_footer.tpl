@@ -40,7 +40,7 @@
 	   onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
 	   onMouseOut="this.src='./images/{$lang}/c02answer.png'"/></a></li>
     <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus">
-	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="1Ê¬´Ö¼ø¶È¾Ò²ð&podcast"
+	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="1Ê¬´Ö¼ø¶È¾Ò²ð&amp;Podcast"
 	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"/></a></li>
     <li><a href="http://www.media.nagoya-u.ac.jp/sc/">
