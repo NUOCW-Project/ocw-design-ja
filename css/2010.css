@@ -254,6 +254,8 @@ a:hover{
 
 	#departmentslist li{
 	margin-bottom: -6px; /*画像の隙間をなくしている */
+	width: 156px;
+	height: 25px; 
 	}
 
 	#departmentslist li#dep_border{
