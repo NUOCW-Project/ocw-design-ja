@@ -3,10 +3,11 @@
    <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}授業一覧から探す{/if}"
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
 	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'">
-</a><!-- class"header_image"から移動 --></li>
+</a><!-- class"header_image"から移動 --></li></ul>
 <!-- 各学部ページへのリンクリスト -->
 {literal}
 {strip}
+<ul id="departmentslist" style="list-style:none">
 {foreach from=$dept_list key="abbr" item="dept"}
   <li id= "dep_border">
   {if $mode=="l" && $page_type==$abbr}
