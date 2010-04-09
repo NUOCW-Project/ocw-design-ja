@@ -57,7 +57,7 @@
       <img src="./images/common/nu.png" class="nu" />
       <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
         <a href="./index.php?lang={$lang}&amp;mode=g&page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます</p>
-	<p><br/>aa</p>
+	<p><br/><br/>aa</p>
     </div>
 </div><!-- "footer_bottom" end-->
 
