@@ -1,0 +1,927 @@
+@charset "EUC-JP";
+
+/*　Pickupコンテンツ　*/
+	/* 「今週のPICKUP」 */
+p.pickup_title{
+	text-align: right;
+	margin: 0;
+	padding:0;
+}
+	/* PICKUPそのもののタイトル */
+td.pickup_contents_title{
+	text-indent: 27px;
+	vertical-align: middle;
+	background: url(../images/common/t_pickup_contents_title.jpg) no-repeat;
+	color: #693; /* 講義の紹介でないときは、リンク貼らないけど<a>と同じ色 */
+	font-weight: bold;
+	font-size: 13pt;
+	width: 280px;
+	height: 35px;
+}
+	/* PICKUPそのもののタイトル */
+td.pickup_contents_title_wide{
+	width: 280px;
+	height: 55px;
+	padding-left: 27px;
+	padding-top: 6px;
+	padding-right:5px;
+	line-height: 20px;
+	vertical-align: top;
+	background: url(../images/common/t_pickup_contents_title_wide.jpg) no-repeat;
+	color: #693; /* 講義の紹介でないときは、リンク貼らないけど<a>と同じ色 */
+	font-weight: bold;
+	font-size: 13pt;
+}
+
+td.pickup_img {
+	width: 150px;
+	height: 108px;
+	vertical-align:middle;
+	text-align: center;
+}
+
+td.pickup_info_top {
+/*	height: 73px;*/
+}
+
+td.pickup_info_top p{
+    text-align:left;
+}
+
+td.pickup_summ_top {
+    text-align:right;
+	vertical-align:middle;
+}
+td.pickup_info {
+	width: 280px;
+	height: 73px;
+}
+td.pickup_body{
+	width: 430px;
+}
+
+p.pickup_contents{
+/*	text-align:justify; */
+	margin: 0;
+}
+
+p.pickup_more{
+	text-align:right;
+	margin:0 0 10px 0;
+}
+
+/*a.pickup_title{
+	color: inherit;
+	text-decoration: none;
+}
+a.pickup_title:hover{
+	color: #FF8C00;
+}*/
+img.pickup_image{
+	border: none;
+}
+
+/* 「バックナンバー」へのリンク */
+div.pickup_to_bn {
+	width: 480px; /* div.center_contents と同じ */ 
+	text-align: right;
+	margin: 0;
+	padding: 0 3px;
+}
+
+
+/* -----------------Pickup Backnumber----------------- */
+div.pickup_bn_left{
+    text-align:left;
+    float:left;
+    width:155px;
+    margin:12px 10px;
+    padding:0;
+}
+
+div.pickup_bn_center{
+   text-align:left;
+    float:left;
+    width:465px;
+    margin:5px 0;
+}
+
+div.pickup_bn_contents{
+    width:465px;
+    margin:0;
+    padding:0;
+}
+
+/* 「前へ」「次へ」などのナビ */
+div.pickup_bn_navi {
+	text-align: right;
+	width: 630px;
+	margin:0 10px;
+}
+
+
+
+/*　Topicコンテンツ */
+p.topics_title{
+	text-align: right;
+	margin: 0;
+	padding:0;
+}
+
+p.topics_title img{
+	border: none;
+}
+
+img.new_icon {
+	vertical-align: bottom;
+}
+
+/*　右側コンテンツ「ごあいさつ」　*/
+div.right_contents_picture,
+p.right_contents_greets,
+p.right_contents_signature {
+	text-align: left;
+	width: 130px;
+	margin: 0;
+}
+
+div.right_contents_picture,
+p.right_contents_signature {
+    margin-bottom: 10px;
+}
+
+p.right_contents_more{
+	text-align: right;
+	margin:0 0 10px 0;
+}
+
+
+
+
+/* 一般ページのごあいさつ */
+h1.welcome {
+	margin-bottom: 30px;
+}
+
+div.welcome_img{
+	width: 250px;
+    float: left;
+	margin: 0 10px 10px 0;
+}
+
+p.welcome_chairperson{
+	margin-left: 260px;
+    padding: 20px 5px 5px;
+}
+
+div.welcome_vsyllabus {
+    text-align: left;
+	padding: 5px 0 10px
+}
+
+div.welcome_contents {
+	clear: left;
+}
+
+/* センター部分コンテンツ　*/
+div.top_center_contents{
+	float:left;
+/*	width:324px; */
+	width:324px; 
+	margin:0 4px 0 4px;
+	padding:0;
+}
+
+/*　Pickupコンテンツ　*/
+div.pickup{
+	width:280px;
+	margin: 0 10px;
+}
+
+div.pickup_contents{
+	margin: 0;
+}
+
+/*　Topicコンテンツ */
+div.topics{
+	width:280px;
+	margin: 0 10px;
+}
+
+/*　右側部分コンテンツ　*/
+div.right_contents{
+	margin:0 0 0 400px;
+	padding:80px 0 0 0 ;
+}
+
+/* センターテーブル　*/
+table.center_contents{
+	margin:0;
+	padding:0;
+}
+
+/*　右側テーブル　*/
+table.right_contents{
+	margin:0;
+	padding:0;
+}
+
+/* Topicコンテンツのテーブル　*/
+table.topics_contents{
+	text-align: left;
+	margin:0;
+	padding:0;
+}
+
+/* Topicコンテンツの日付部分*/
+.td_date{
+	vertical-align: top;
+}
+
+/*　Topicコンテンツ　*/
+.td_topics{
+	vertical-align: top;
+/*	text-align: justify;*/
+}
+
+
+/* 右側コンテンツの枠　*/
+.td_left_r{
+	background-image: url(../images/common/sh_gray02.jpg);
+	background-repeat: repeat-y;	
+}
+
+.td_center_r{
+	background-color:#EFEFEF;
+}
+
+.td_right_r{
+	background-image: url(../images/common/sh_gray01.jpg);
+	background-repeat: repeat-y;
+}
+
+
+/* -----------------Course Contents ---------------*/
+span.i{
+	font-style:italic;
+}
+
+span.u{
+	text-decoration: underline;
+}
+
+span.b{
+	font-weight: bold; 
+}
+
+span.red{
+	color:#FF3333;
+}
+
+span.light_blue{
+	color:#0099cc;
+}
+
+p{
+/*	text-align:justify; */
+	margin:10px 5px;
+}
+
+div.indent10{
+	padding:0 10px 0 10px;
+}
+
+div.indent20{
+	padding:0 20px 0 20px;
+}
+
+div.indent30{
+	padding:0 30px 0 30px;
+}
+
+div.whitebox {
+	background-color:#ffffff;
+	padding:5px;
+	margin-bottom: 2em;
+}
+
+div.greenbox {
+	background-color:#eeffee;
+	padding:5px;
+	margin-bottom: 2em;
+}
+
+
+div.left{
+}
+
+div.center{
+	text-align:center;
+}
+
+div.right{
+	text-align:right;
+	
+}
+
+p.center{
+	text-align:center;
+	margin:10px 5px;
+}
+
+p.right{
+	text-align:right;
+	margin:10px 5px;
+}
+
+p.adobe{
+	margin:10px;
+}
+
+div.center_contents{
+	float: left;
+	width:480px;
+	margin:0;
+	padding:0;
+}
+
+div.course_contents{
+	margin: 5px;
+
+}
+
+/* 箇条書き */
+ul.none{
+	list-style-type: none;    /*マーカーなし*/
+}
+
+ul.circle{
+	list-style-type: circle;    /*白丸*/
+}
+
+ul.square{
+	list-style-type: square;    /*黒四角*/
+}
+
+
+ol.lower-roman{
+	list-style-type: lower-roman;    /*小文字のローマ数字*/
+}
+
+ol.upper-roman{
+	list-style-type: upper-roman;    /*大文字のローマ数字*/
+}
+
+ol.lower-alpha{
+	list-style-type: lower-alpha;    /*小文字のアルファベット*/
+}
+
+ol.upper-alpha{
+	list-style-type: upper-alpha;    /*大文字のアルファベット*/
+}
+
+/* 表 */
+table.basic{
+	border:0;
+/*	border: 1px solid #999999;*/
+	border-collapse: collapse;
+	
+	white-space:normal;
+	
+}
+
+table.basic th{
+	border: 1px solid #999999;
+}
+
+th.left{
+}
+
+th.left_gray{
+	background-color:#eeeeee;
+}
+
+th.center{
+	text-align: center;
+}
+
+th.center_gray{
+	text-align: center;
+	background-color:#eeeeee;
+}
+
+th.right{
+	text-align: right;
+}
+
+th.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+table.basic td{
+	border: 1px solid #999999;
+}
+
+td.left{
+	text-align: left;
+}
+
+td.left_gray{
+	text-align: left;
+	background-color:#eeeeee;
+}
+
+td.center{
+	text-align: center;
+}
+
+td.center p{
+    text-align :center;
+}
+
+td.center_gray{
+	text-align: center;
+	background-color:#eeeeee;
+}
+
+td.center_gray p {
+    text-align: center;
+}
+
+td.right{
+	text-align: right;
+}
+
+td.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+table.basic ul {
+	padding-left: 1em;
+}
+
+td.separate{
+	border: none;
+	text-align: right;
+	background-color:#eeeeee;
+	height:5px;
+}
+
+.even{
+	background-color:#eee;
+}
+.odd{
+	background-color:#fff;
+}
+
+/* -----------------Course home----------------- */
+p.course_home_b{
+    font-weight: bold;
+    margin:10px 0 0;
+}
+
+p.course_home_i{
+    margin:0 0 3px;
+    padding:0 0 0 3px ;
+    text-indent:-3px; 
+}
+
+p.course_home{
+    margin:0;
+}
+
+div.course_home_contents{
+    float:left;
+    width:312px;
+	margin:0;
+    padding:0;
+}
+
+
+div.course_home_info{
+	float: left;
+    width:140px;
+    margin:0;
+    padding:0;
+}
+
+div.course_home_info_contents {
+	width: 120px;
+	margin: 0;
+	padding: 0;
+}
+
+div.course_home_info_contents_en {
+	width: 120px;
+	margin: 0;
+	padding: 0;
+}
+
+div.course_home_info_contents_en p{
+	text-align: left;
+}
+ul.course_home_recommended {
+	margin: 10px 0 5px;
+	padding: 0;
+	text-align: center;
+}
+
+ul.course_home_recommended li{
+	list-style-type: none;
+	margin: 1px 0;
+	padding: 0;
+}
+
+p.course_home_vsyllabus{
+    font-size: smaller;
+    text-align: center;
+    margin:10px 0 0;
+}
+
+/* -----------------Course List----------------- */
+div.courselist_left{
+	text-align:left;
+	float:left;
+	width:155px;
+	margin:0 10px;
+	padding:0;
+}
+
+div.courselist_center{
+	text-align:left;
+	float:left;
+	width:450px;
+	margin:5px 0;
+}
+
+div.dept_info_head{
+	width: 100%; /* IE のバグ対策のおまじない */
+	padding-left: 25px;
+	padding-top: 18px;
+	margin-bottom: 20px;
+	background: url(../images/ja/t_dept_info.jpg) no-repeat;
+}
+
+div.dept_info_head_left{
+	width:307px;
+	height:162px;
+	float:left;
+	background-color: transparent;
+	font-size: 14px;  /* デザインの関係で固定 */
+	line-height:18px;
+}
+
+div.dept_info_head_right{
+	width:128px;
+	height:162px;
+	float:left;
+	background-color: transparent;
+}
+
+div.dept_info_head_novideo{
+	width:420px;
+	height:162px;
+	background-color: transparent;
+	font-size: 14px;  /* デザインの関係で固定 */
+	line-height:18px;
+}
+
+h1.dept_info_head_title{
+	margin:0;
+	padding:0;
+	height:25px;
+	visibility: hidden;
+}
+
+div.dept_info_head_contents{
+	padding-right:20px;
+	max-height:90px;
+	overflow:hidden;
+}
+
+div.dept_info_head_dean {
+	text-align: right;
+	padding-right:20px;
+	max-height: 36px;
+	color: #444444;
+	font-weight: bold;
+	overflow: hidden;
+}
+
+div.dept_info_head_contents_with_dean{
+	padding-right:20px;
+	max-height:54px;
+	overflow:hidden;
+}
+
+div.dept_info_head_more{
+	padding-right:5px;
+	text-align: right;
+}
+
+div.dept_info_head_link{
+	display: list-item;
+	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
+	margin-left: 20px;
+
+	color: #669933;
+}
+
+div.dept_info_head_vsyllabus{
+	height:126px;
+	overflow:hidden;
+}
+
+div.dept_info_head_click_to_see{
+	height:36px;
+	overflow:hidden;
+}
+
+
+
+ul.courselist{
+	list-style-image:url(../images/common/arrow.gif); /* リストマークを矢印にする */
+	margin: 0;
+	margin-left: 15px;
+	padding: 0 5px;
+}
+
+li.courselist{
+	color: #669933;
+	height:auto;	
+	margin: 0 0 20px 7px;
+	padding: 0;
+}
+
+li.no_course{ /* 「公開されている授業はありません」の表示 */ 
+	color: #A1A99A;
+	margin: 0 0 20px 7px;
+	padding: 0;
+}
+
+li.rel_courselist { /* 「以下の授業はXX開講科目です」の表示。リスト項目間の間隔を小さく */
+	color: #669933;
+	margin: 0 0 7px 7px;
+	padding: 0;
+}
+
+
+div.dept_info_dean_image {
+	width: 138px;
+	float: right;
+	font-weight: bold;
+	background-color: #eeeeee;
+	margin: 10px;
+	padding-top: 3px;
+}
+
+/* IE のバグ対策のテクニックらしい */
+div.dept_info_dean_image_in {
+	padding-left: 10px;
+}
+
+div.dept_info_dean_text {
+	margin: 10px;
+	text-align: right;
+	color: #444444;
+}
+
+div.dept_info_contents_all {
+}
+
+div.dept_info_vsyllabus {
+	text-align: right;
+	margin:0 20px 10px 0;
+}
+
+div.farewell_list_left {
+	width: 160px;
+	float: left;
+	text-align: left;
+}
+
+div.farewell_list_right {
+	width: 280px; 
+	float: left;
+}
+
+table.farewell {
+	border:0;
+	margin:0 10px 25px 10px;
+	border-collapse: collapse;
+	white-space:normal;
+}
+
+table.farewell th{
+	border: 1px solid #999999;
+}
+
+table.farewell td{
+	border: 1px solid #999999;
+	text-align: left;
+}
+
+colgroup.farewell_date {
+	width: 90px;
+}
+colgroup.farewell_title {
+	width: 220px;
+}
+colgroup.farewell_place {
+	width: 120px;
+}
+
+
+/* ------------------FeedBack-------------------- */
+div.feedback_contents{
+	text-align:left;
+	width: 470;
+	margin: 0 0 0 163px;
+	padding:0;
+}
+
+h1.feedback{
+	background-image:none;
+	color:#999966;
+	font-size:140%;
+	line-height:50%;
+	margin:10px 10px;
+	padding:0;
+}
+
+h2.feedback{
+	background-image:none;
+	font-size:110%;
+	line-height:0;
+	margin:20px 0 10px;
+	padding:0;
+}
+
+p.feedback{
+	width:430px;
+}
+
+form.feedback{
+	margin-left:20px;
+}
+
+textarea.feedback {
+    width:430px;
+}
+
+/* ------------------Thankyou-------------------- */
+p.thankyou {
+   padding: 30px 10px;
+}
+
+/* ------------------Thankyou-------------------- */
+h1.notfound{
+	background-image:none;
+	color:#999966;
+	font-size:140%;
+	line-height:50%;
+	margin:10px 10px;
+	padding:0;
+}
+
+p.notfound {
+   padding: 30px 10px;
+}
+
+
+/* ----------- Visual Syllabus ----------- */
+div.vsyllabus_left {
+	text-align:left;
+	float:left;
+	width:155px;
+	margin: 0 5px;
+	padding: 0;
+}
+
+div.realplayer {
+	margin: 40px 0;
+}
+
+div.podcast {
+	margin: 25px 5px;
+    padding: 0;
+}
+
+div.podcast p {
+	margin: 0;
+	padding: 0 0 10px;
+}
+
+/* ------------- Relay Seminar ----------- */
+h1.relay {
+	text-align: center;
+	font-size: 120%;
+    background-image: none;
+	padding: 0 0 20px 0;
+}
+
+h2.relay {
+	text-align: center;
+    font-size: 100%;
+    background-image: none;
+	padding: 0 0 20px 0;
+}
+
+
+
+
+/* -----------------About----------------- */
+div.about_left{
+	text-align:left;
+	float:left;
+	width:155px;
+	margin:0 10px;
+	padding:0;
+}
+
+div.about_center{
+    text-align:left;
+	float:left;
+	width:465px;
+	margin:5px 0;
+}
+
+div.about_contents{
+	width:465px;
+	margin:0;
+	padding:0;
+}
+
+h1.about{
+    background-image:none;
+    color: #666666;
+    font-size:150%;
+    font-weight: bold;
+    line-height:100%;
+    margin:10px 0;
+    padding:0;
+}
+
+h1.about_committee {
+	background-image:none;
+	color: #0099cc; /* lightblue */
+	font-size: 150%;
+	font-weight: bold;
+	line-height: 100%;
+	margin:10px 0;
+	padding:0;
+}
+
+ul.stafflist_en {
+	list-style-type: none;
+	margin: 0;
+	padding: 20px;
+}
+
+ul.stafflist_en li {
+	text-indent: -20px;
+	margin: 0 0 5px 0;
+	padding: 0;
+}
+
+
+/* ------------------FAQ-------------------- */
+div.faq_normal{
+	padding:5px;
+	margin-bottom: 2em;
+}
+
+
+div.faq_color{
+	background-color:#eeeeee;
+	padding:5px;
+	margin-bottom: 2em;
+}
+
+/* ------------------AKF-------------------- */
+h1.akf{
+    background-image:none;
+    color: #666666;
+    font-size:150%;
+    font-weight: bold;
+    line-height:100%;
+    margin:10px 0;
+    padding:0;
+} 
+
+#akf_logo {
+	vertical-align: middle;
+}
+
+/* ------------------お問い合わせ-------------------- */
+h1.inq{
+	background-image:none;
+	color: #666666;
+	font-size:130%;
+	font-weight: bold; 
+	line-height:100%;
+	margin:10px 0;
+	padding:0;
+}
