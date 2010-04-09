@@ -9,7 +9,7 @@
 <th width="45">¤½¤ÎÂ¾</th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses }
-	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
+	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}" class="sort_title">
 
 	<td><a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a></td>
 	<td>{$each_course.year}</td>
