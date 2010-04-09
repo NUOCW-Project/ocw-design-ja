@@ -3,8 +3,7 @@
 <h2>É½¼¨¤¹¤ë¼ø¶È¤Î¾ò·ï</h2>
 <img src="./images/common/redline.gif" id="line1"/ >
 <div id="conditionbox">
-<div id= "menu_list">
-<table> 
+<table id= "menu_list"> 
 <tr>
 
 {*  {foreach from = $name item=each_name} 
@@ -35,7 +34,6 @@
 
 </tr>
 </table>
-</div>
 
 <div id= "menu_submit">
 <input type="image" src="./images/{$lang}/sort.jpg" 
