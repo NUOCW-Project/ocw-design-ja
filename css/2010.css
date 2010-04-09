@@ -634,9 +634,9 @@ table{
 	float: left; 
 	list-style-type: none;
 	position: relative;
-	/left:100px;
 	left :205px;
 	border: dotted;
+	margin: 0px;
 
 }
  
