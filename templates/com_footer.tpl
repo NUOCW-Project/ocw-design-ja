@@ -23,7 +23,7 @@
   <ul class="navi">
     <li>■コンテンツ</li>
 <!--    <li>OCWシーズン企画</li> -->
-    <li><a href="./index.php?lang=ja&amp;mode=g&page_type=welcome">ごあいさつ</a></li>
+    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome">ごあいさつ</a></li>
 <!--    <li>アクセスランキング</li> -->
 <!--    <li>トピックス</li> -->
   </ul>
@@ -31,7 +31,7 @@
  </div><!-- "footer" end --> 
 <div class="footer_bottom">  
   <ul id="link">
-    <li><a href="./index.php?lang={$lang}&amp;mode=g&page_type=about">
+    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">
 	<img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="名大の授業について"
 	     onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"/></a></li>
@@ -40,7 +40,7 @@
 	   onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
 	   onMouseOut="this.src='./images/{$lang}/c02answer.png'"/></a></li>
     <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus">
-	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="1分間授業紹介&Podcast"
+	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="1分間授業紹介&podcast"
 	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"/></a></li>
     <li><a href="http://www.media.nagoya-u.ac.jp/sc/">
@@ -54,7 +54,7 @@
   </ul>
   
     <div id="proviso">
-      <img src="./images/common/nu.png" class="nu" />
+      <img src="./images/common/nu.png" class="nu" alt="名大"/>
       <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br/>
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます</p>
 	<p><br/>　<br/></p>
