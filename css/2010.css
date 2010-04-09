@@ -267,6 +267,10 @@ a:hover{
 	margin-bottom: -6px; /*画像の隙間をなくしている */
 	}
 
+	#departmentslist_list li{
+	margin-bottom: -6px; /*画像の隙間をなくしている */
+	}
+
 #being{
 	color: red;
 }
