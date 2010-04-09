@@ -963,6 +963,11 @@ td.separate{
 	float: right;
 }
 
+sort_title{
+	position: relative;
+	left: 10px;
+}
+
 table#menu_list{
 	position: relative;
 	top: 20px;
