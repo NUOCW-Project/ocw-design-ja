@@ -32,32 +32,32 @@
 <div class="footer_bottom">  
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&page_type=about">
-	<img src="./images/{$lang}/c01aboutnu.gif" id="size_img" alt="名大の授業について"
-	     onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.gif'" 
-	     onMouseOut="this.src='./images/{$lang}/c01aboutnu.gif'"/></a></li>
+	<img src="./images/{$lang}/c01aboutnu.png" id="size_img" alt="名大の授業について"
+	     onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
+	     onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"/></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">
-      <img src="./images/{$lang}/c02answer.gif" id="size_img" alt="用語解説"
-	   onMouseOver="this.src='./images/{$lang}/c02answer_on.gif'" 
-	   onMouseOut="this.src='./images/{$lang}/c02answer.gif'"/></a></li>
+      <img src="./images/{$lang}/c02answer.png" id="size_img" alt="用語解説"
+	   onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
+	   onMouseOut="this.src='./images/{$lang}/c02answer.png'"/></a></li>
     <li><a href="./index.php?lang=ja&amp;mode=g&page_type=vsyllabus">
-	<img src="./images/{$lang}/c03vs.gif" id="size_img" alt="1分間授業紹介&Podcast"
-	     onMouseOver="this.src='./images/{$lang}/c03vs_on.gif'" 
-	     onMouseOut="this.src='./images/{$lang}/c03vs.gif'"/></a></li>
+	<img src="./images/{$lang}/c03vs.png" id="size_img" alt="1分間授業紹介&Podcast"
+	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
+	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"/></a></li>
     <li><a href="http://www.media.nagoya-u.ac.jp/sc/">
-	<img src="./images/{$lang}/c04sc.gif" id="size_img" alt="スタジオチャンネル"
-	     onMouseOver="this.src='./images/{$lang}/c04sc_on.gif'" 
-	     onMouseOut="this.src='./images/{$lang}/c04sc.gif'"/></a></li>
+	<img src="./images/{$lang}/c04sc.png" id="size_img" alt="スタジオチャンネル"
+	     onMouseOver="this.src='./images/{$lang}/c04sc_on.png'" 
+	     onMouseOut="this.src='./images/{$lang}/c04sc.png'"/></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&page_type=link">
-      <img src="./images/{$lang}/c05link.gif" id="size_img" alt="リンク"
-	   onMouseOver="this.src='./images/{$lang}/c05link_on.gif'" 
-	   onMouseOut="this.src='./images/{$lang}/c05link.gif'"/></a></li>
+      <img src="./images/{$lang}/c05link.png" id="size_img" alt="リンク"
+	   onMouseOver="this.src='./images/{$lang}/c05link_on.png'" 
+	   onMouseOut="this.src='./images/{$lang}/c05link.png'"/></a></li>
   </ul>
   
     <div id="proviso">
       <img src="./images/common/nu.png" class="nu" />
       <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
         <a href="./index.php?lang={$lang}&amp;mode=g&page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます</p>
-	<br/>
+	<p><br/></p>
     </div>
 </div><!-- "footer_bottom" end-->
 
