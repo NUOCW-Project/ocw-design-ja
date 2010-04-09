@@ -6,6 +6,7 @@
 - $on_top        : トップページかどうか (トップページ発行時のみ TRUE になる)
 
 ** for_clist.tpl で assign されるもの
+- $on_clist      : コースリストかどうか
 - $curr_department_abbr : 現在のグループ (グループ発行時のみ)
 - $info_only     : 部局長挨拶本文等のグループ情報かどうか (グループ情報発行時のみ)
 
