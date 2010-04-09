@@ -963,7 +963,7 @@ td.separate{
 	float: right;
 }
 
-.sort_title{
+#sort_title{
 	position: relative;
 	left: 10px;
 	border: dotted;
