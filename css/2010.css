@@ -349,6 +349,7 @@ body:first-of-type #contents{
 
 #prj10{
 	margin-left: -10px;
+	border: dotted;
 }
 
 #greeting{
