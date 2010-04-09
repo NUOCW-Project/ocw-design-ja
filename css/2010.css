@@ -689,9 +689,10 @@ table{
 	margin: -5px; 
 }
 
-#size_img{
+.size_img{
 	margin: -5px; 
 }
+
  #proviso {
 	margin: 1em 0 auto auto;
 	text-align: center;
