@@ -10,12 +10,12 @@
 {foreach from=$dept_list key="abbr" item="dept"}
   <li>
   {if $mode=="l" && $page_type==$abbr}
-    <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.gif" alt={$dept.department_name}">
+    <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt={$dept.department_name}">
   {else}
     <a href="courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
-      <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.gif"
-           onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.gif'" 
-           onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.gif'"
+      <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
+           onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'" 
+           onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
            alt="{$dept.department_name}">
     </a>
   {/if}
