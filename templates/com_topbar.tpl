@@ -48,7 +48,7 @@
               <input type="hidden" name="lang" value="{$lang}">
 	          </div><!-- "header_button_input" end -->
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
-              <input type="image" src="./images/common/search.gif" alt="検索する">
+              <input type="image" src="./images/common/search.png" alt="検索する">
             </div> <!-- "header_button_search" end -->
           </form>
         </div><!-- "header_button_sub" end -->
