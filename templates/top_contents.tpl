@@ -20,7 +20,7 @@
   <br />
   <img src="./images/common/redline.gif" class="line" />
   <br />
- <a href="http://ocw.media.nagoya-u.ac.jp/new-design/courselist.php?lang=ja&mode=l&page_type=farewell"> <img src="./images/{$lang}/prj10_fl10.jpg" / id="prj10"></a><!-- 画像「OCW特別企画」 -->
+ <a href="http://ocw.media.nagoya-u.ac.jp/new-design/courselist.php?lang=ja&mode=l&page_type=farewell"> <img src="./images/{$lang}/prj10_fl10.jpg" id="prj10"/></a><!-- 画像「OCW特別企画」 -->
 </div> <!-- "feature" end -->
     
 <div id="greeting">
