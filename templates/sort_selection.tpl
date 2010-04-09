@@ -38,9 +38,9 @@
 </table>
 
 <div id= "menu_submit">
-<input type="image" src="./images/{$lang}/sort.jpg" 
-onMouseOver="this.src='./images/{$lang}/sort_on.jpg'" 
-onMouseOut="this.src='./images/{$lang}/sort.jpg'"
+<input type="image" src="./images/{$lang}/sort.png" 
+onMouseOver="this.src='./images/{$lang}/sort_on.png'" 
+onMouseOut="this.src='./images/{$lang}/sort.png'"
 name="sort" alt="¤³¤Î¾ò·ï¤Ç¹Ê¤ê¹þ¤à">
 </form>
 </div>
