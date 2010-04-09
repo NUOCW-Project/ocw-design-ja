@@ -1,12 +1,12 @@
-<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
+<ul id="departmentslist" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
+<ul><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
    <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}授業一覧から探す{/if}"
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
 	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'">
-</a><!-- class"header_image"から移動 -->
+</a><!-- class"header_image"から移動 --></ul>
 <!-- 各学部ページへのリンクリスト -->
 {literal}
 {strip}
-<ul id="departmentslist" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
 {foreach from=$dept_list key="abbr" item="dept"}
   <li>
   {if $mode=="l" && $page_type==$abbr}
