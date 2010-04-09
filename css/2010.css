@@ -537,8 +537,8 @@ table{
 
 	#data{
 		padding: 1em;
-		border: solid 1px gray;
-		background-color: #E0E0E0;
+		border: solid 1px #cccccc;
+		background-color: #ecece6;
 	}
 
 	#movie{
