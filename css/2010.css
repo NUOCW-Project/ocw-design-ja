@@ -68,9 +68,7 @@ a:hover{
 	 /width: 770px; /* IE6ÂÐºö */
 		height: 60px;
 		margin-left: 200px;
-	margin-top: 5px;
 	padding: 0px;
-	border: dotted;
 	}
 
 	html>/**/body .header_button{
@@ -85,7 +83,7 @@ a:hover{
 			width: 500px;
 			height: 50px;
 			margin-left: 320px;
-	
+		border: dotted;
 		}
 
 	.header_button img{
