@@ -2,8 +2,7 @@
 <ul><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
    <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}授業一覧から探す{/if}"
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
-	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'">
-</a><!-- class"header_image"から移動 --></ul>
+	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a><!-- class"header_image"から移動 --></ul>
 <!-- 各学部ページへのリンクリスト -->
 {literal}
 {strip}
