@@ -344,11 +344,11 @@ body:first-of-type #contents{
 	overflow: hidden;
 	margin: 0;
 	padding: 0;
-	z-index: 3;
 }
 
 img#prj10{
 	margin-left: -10px;
+	z-index: 3;
 }
 
 #greeting{
