@@ -7,7 +7,7 @@
 <!-- 各学部ページへのリンクリスト -->
 {literal}
 {strip}
-<ul id="departmentslist" style="list-style:none">
+<ul id="departmentslist_list" style="list-style:none">
 {foreach from=$dept_list key="abbr" item="dept"}
   <li id= "dep_border">
   {if $mode=="l" && $page_type==$abbr}
