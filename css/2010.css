@@ -296,7 +296,6 @@ a:hover{
 	padding-left: 10px;
 	max-width: 710px;
 	overflow: hidden;
-	z-index: 1;
 }
 /* IE6 hack */
 * html #contents{
@@ -349,7 +348,6 @@ body:first-of-type #contents{
 
 img#prj10{
 	margin-left: -10px;
-	z-index: 3;
 }
 
 #greeting{
