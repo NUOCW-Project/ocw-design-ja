@@ -83,7 +83,7 @@ a:hover{
 			width: 500px;
 			height: 50px;
 			margin-left: 320px;
-		border: dotted;
+	margin-top: 5px;
 		}
 
 	.header_button img{
