@@ -8,7 +8,7 @@
 {literal}
 {strip}
 {foreach from=$dept_list key="abbr" item="dept"}
-  <li>
+  <li id= "dep_border">
   {if $mode=="l" && $page_type==$abbr}
     <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt={$dept.department_name}">
   {else}
