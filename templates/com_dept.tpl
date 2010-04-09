@@ -9,7 +9,7 @@
 {strip}
 <ul id="departmentslist_list" style="list-style:none">
 {foreach from=$dept_list key="abbr" item="dept"}
-  <li id= "dep_border">
+  <li>
   {if $mode=="l" && $page_type==$abbr}
     <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt={$dept.department_name}">
   {else}
