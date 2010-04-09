@@ -1,4 +1,4 @@
-body{
+qbody{
 	margin: 0;
 	padding: 0;
 
@@ -964,12 +964,6 @@ td.separate{
 	float: right;
 }
 
-.sort_title{
-	position: relative;
-	left: 10px;
-	border: dotted;
-}
-
 table#menu_list{
 	position: relative;
 	top: 20px;
@@ -982,10 +976,6 @@ table#menu_list{
 	left: 350px;
 }
 
-.sorttable{
-	position: relative;
-	left: 10px;
-}
 
 /** ごあいさつ　関連 **/
 div.welcome_img{
