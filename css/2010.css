@@ -572,12 +572,12 @@ table{
   padding-left: 150px;
 }
 
-.e_text p, .e_text ul, .e_text ol, .e_text dl, .e_text table {
+.e_text ul, .e_text ol, .e_text dl, .e_text table {
 	margin-bottom: 1em;
 }
 
 .e_text p{
-	display: block;
+	margin-bottom: 3em;
 }
 
 .e_text * ul, .e_text * ol {
@@ -600,8 +600,7 @@ table{
   margin-bottom: 0;
   width: 110px;
   float: left;
-/*  clear: left;*/
-  display: block;
+  clear: left;
 }
 
 .jump{
