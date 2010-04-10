@@ -577,7 +577,6 @@ table{
 }
 
 .e_text p{
-	clear: left;
 	display: block;
 }
 
@@ -601,7 +600,7 @@ table{
   margin-bottom: 0;
   width: 110px;
   float: left;
-  clear: left;
+/*  clear: left;*/
   display: block;
 }
 
