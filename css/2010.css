@@ -577,6 +577,7 @@ table{
 }
 
 .e_text p{
+	clear: left;
 	display: block;
 }
 
