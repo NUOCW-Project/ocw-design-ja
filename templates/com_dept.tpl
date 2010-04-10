@@ -6,6 +6,7 @@
 <!-- 各学部ページへのリンクリスト -->
 {literal}
 {strip}
+<ul id="departmentslist" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
 {foreach from=$dept_list key="abbr" item="dept"}
   <li>
   {if $mode=="l" && $page_type==$abbr}
@@ -22,4 +23,4 @@
 {/foreach}
 {/strip}
 {/literal}
-</ul>
+</ul></ul>
