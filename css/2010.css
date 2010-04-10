@@ -299,10 +299,10 @@ a:hover{
 #contents{
 	position:relative;
 	top: -25px;
-	margin: 0px 30px 0px 200px;
+	margin: 0px 30px 0px 205px;
 	background-color: white;
 	padding-bottom: 20px;
-	padding-left: 9px;
+	padding-left: 10px;
 	max-width: 710px;
 	overflow: hidden;
 	border: dotted;
