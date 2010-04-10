@@ -253,7 +253,7 @@ a:hover{
 #departmentslist_list{
 	width: 157px;
 	padding:0px;
-	margin: 0px 5px 0px 40px;
+	margin: 0px 5px 0px 0px;
 	position: relative;	
 	border-style: solid;	
 	border-width: 1px;
