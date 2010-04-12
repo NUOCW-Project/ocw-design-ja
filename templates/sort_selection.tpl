@@ -3,6 +3,7 @@
 <h2>É½¼¨¤¹¤ë¼ø¶È¤Î¾ò·ï</h2>
 <img src="./images/common/redline.gif" id="line1"/ >
 <div id="conditionbox">
+</div>
 <table id= "menu_list"> 
 <tr>
 
@@ -41,6 +42,5 @@ onMouseOver="this.src='./images/{$lang}/sort_on.png'"
 onMouseOut="this.src='./images/{$lang}/sort.png'"
 name="sort" alt="¤³¤Î¾ò·ï¤Ç¹Ê¤ê¹þ¤à">
 </form>
-</div>
 </div>
 {/literal}
