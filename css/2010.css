@@ -302,6 +302,7 @@ a:hover{
 	padding-left: 10px;
 	max-width: 705px;
 	overflow: hidden;
+	border : dotted;
 }
 /* IE6 hack */
 * html #contents{
