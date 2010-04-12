@@ -90,6 +90,7 @@ a:hover{
 			width: 500px;
 			height: 50px;
 			margin-left: 320px;
+	border : dotted;
 		}
 
 	.header_button img{
