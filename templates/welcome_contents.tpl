@@ -7,15 +7,17 @@
 
 <table class="welcome">
 	<tr>
-	<td class="welcome"><div class="welcome_img">
+	<td class="welcome">
+	<div class="welcome_img">
 		{flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv"}
 	</div>
-<span class="b">
+	<div class="welcome_n">
+	<span class="b">
 	名古屋大学<br>
 	オープンコースウェア委員会</span>
 	<p class="welcome_name">委員長 山本 一良</p>
-</td><td class="welcome" align="right">
-	
+	</div></td>
+	<td class="welcome" align="right">
 	</td></tr>
 	<tr><td colspan=2>
 <!--
