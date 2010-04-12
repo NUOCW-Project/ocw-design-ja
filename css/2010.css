@@ -1010,6 +1010,7 @@ table#menu_list{
 
 table.sorttable{
 	max-width: 690px;
+	margin-top: -10px;
 	margin-bottom: 50px;	
 }
 
