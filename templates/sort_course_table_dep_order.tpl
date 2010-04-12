@@ -20,7 +20,6 @@
 		<td>  </td>
 	{/if}
 	</tr>
-	<tr></tr>
 {/foreach}
 </table>
 {else}
