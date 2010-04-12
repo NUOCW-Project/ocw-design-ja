@@ -68,7 +68,7 @@
     <table>
     <tr>
       <td class="date2">-2010/03/13</td>
-      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=192&amp;page_type=index"> 発達障害治療学及び実習【辛島千恵子 教授】を公開しました。<img class="icon" src="./images/common/new.png" class="icon" /></a></td>
+      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=192&amp;page_type=index"> 発達障害治療学及び実習【辛島千恵子 教授】を公開しました。<img src="./images/common/new.png" class="icon" /></a></td>
     </tr>
     <tr>
       <td class="date2">-2010/02/27</td>
