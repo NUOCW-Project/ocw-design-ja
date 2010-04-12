@@ -1157,4 +1157,5 @@ div.welcome_name{
 div.welcome_contents{
 	position: absolute;
 	top: 360px;
+	height: 1000px;
 }
