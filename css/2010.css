@@ -1113,7 +1113,9 @@ span.red{
 
 .about h2{
 	font-size: large;
+	color: #888888;
 	margin: 0px;
+	padding: 0px;
 }
 
 .about p{
