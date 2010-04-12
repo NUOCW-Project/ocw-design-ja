@@ -495,7 +495,7 @@ table{
 	bacground-repeat: no-repeat;
 	width: 700px;
 	height: 115px;
-	margin: 0px;
+	margin-left: -10px;
 	padding: 0px;
 }
 
