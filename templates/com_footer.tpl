@@ -55,7 +55,7 @@
   
     <div id="proviso">
       <img src="./images/common/nu.png" class="nu" alt="名大"/>
-      <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br/>
+      <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます</p>
     </div>
 </div><!-- "footer_bottom" end-->
