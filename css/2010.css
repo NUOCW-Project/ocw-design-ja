@@ -990,6 +990,7 @@ table#menu_list{
 .line1{
 	width: 699px;
 	height: 4px;
+	border: dotted;
 }
 
 #menu_submit{
