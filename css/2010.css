@@ -1053,18 +1053,23 @@ span.red{
 }
 
 /** 名大の授業について **/
-h1.about {
+.about {
+	padding: 0;
+	margin-bottom: 50px;
+}
+
+.about h1{
 	font-size: x-large;
 	color: #DD0000;
 	margin: 0px;
 }
 
-h2.about {
+.about h2{
 	font-size: large;
 	color: #888888;
 }
 
-table.about {
+.about table{
 	border-width: 50px;
 }
 
