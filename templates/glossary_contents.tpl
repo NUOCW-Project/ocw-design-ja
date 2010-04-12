@@ -49,7 +49,6 @@
 	<div id="akf"><h3>AKF検索</h3>
 		<p>AKF検索では名古屋大学のデジタル情報をまとめて検索できます。</<br>
 		正式名称はAKF(Academic Knowledge Factory:名古屋大学学術ナレッジ・ファクトリー)といい、名古屋大学附属図書館が提供しています。<br>
-		検索可能なデータベース<br>
 		AKFでは以下のサイトの内容を検索できます。
 		<ul>
 		<li><a href="http://ir.nul.nagoya-u.ac.jp/dspace/index.jsp" target="_blank">名古屋大学学術機関リポジトリ</a>は、学内研究者の研究論文・学会発表資料・教材などを収集し、インターネットにより世界へ向けて発信する仕組みです。</li>

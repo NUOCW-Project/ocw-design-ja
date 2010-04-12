@@ -1081,7 +1081,8 @@ table.about {
 }
 
 .g_text ul{
-	
+	margin: 0;
+	padding: 0px;
 }
 
 .g_text h3 {
