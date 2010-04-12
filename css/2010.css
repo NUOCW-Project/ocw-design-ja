@@ -1080,8 +1080,9 @@ table.about {
 }
 
 .g_text ul{
+	border: 1px;
 	margin: 0;
-	padding: 0px;
+	padding: 0;
 }
 
 .g_text h3 {
