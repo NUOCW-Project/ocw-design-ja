@@ -11,7 +11,7 @@
 <div id="sort">
 並び順
 	<input type ="submit" value = "[部局名→講義名]" >
-<input type ="submit" value = "[先生の名前→講義名]" >
+<input type ="submit" value = "[教員名→講義名]" >
 </div>
   </form>
 *}
