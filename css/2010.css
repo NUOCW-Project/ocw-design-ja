@@ -1122,7 +1122,7 @@ span.red{
 	padding: 0;
 }
 .about td{
-	border-style: none;
+	border-right: 2px solid white;
 	margin: 0;
 	padding: 0;
 }
