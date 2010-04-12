@@ -11,7 +11,8 @@
 	<div class="welcome_name">
 	<span class="b">
 		名古屋大学<br>
-		理事 (教育・情報関係担当)・副総長<br>
+		理事 (教育・情報関係担当)<br>
+		副総長<br>
 		オープンコースウェア委員会</span>
 	<p class="welcome_b">委員長 山本 一良</p>
 	</div>
