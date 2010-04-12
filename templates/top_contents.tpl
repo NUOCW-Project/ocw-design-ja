@@ -68,24 +68,24 @@
     <table>
     <tr>
       <td class="date2">-2010/03/13</td>
-      <td class="article"><a href="index.php?lang=ja&mode=c&id=192&page_type=index"> 発達障害治療学及び実習【辛島千恵子 教授】</a>を公開しました。<img class="icon" src="./images/common/new.gif" alt="new"></td>
+      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=192&amp;page_type=index"> 発達障害治療学及び実習【辛島千恵子 教授】を公開しました。<img class="icon" src="./images/common/new.gif" alt="new"></a></td>
     </tr>
     <tr>
       <td class="date2">-2010/02/27</td>
-      <td class="article"><a href="index.php?lang=ja&mode=c&id=193&page_type=index"> 心理・教育の統計学【石井秀宗 准教授】</a>を公開しました。</td>
+      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=193&amp;page_type=index"> 心理・教育の統計学【石井秀宗 准教授】を公開しました。</a></td>
     </tr>
     <tr>
       <td class="date2">-2010/02/08</td>
-      <td class="article"><a href="index.php?lang=ja&mode=c&id=77&page_type=index">社会行動学講義【高井次郎 教授】</a>を公開しました。</td>
+      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=77&amp;page_type=index">社会行動学講義【高井次郎 教授】を公開しました。</a></td>
     </tr>
     <tr>
       <td class="date2">-2010/02/05</td>
-      <td class="article"><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=187&page_type=index">家族看護学【浅野みどり 教授】</a>を公開しました。</td>
+      <td class="article"><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&amp;mode=c&amp;id=187&amp;page_type=index">家族看護学【浅野みどり 教授】を公開しました。</a></td>
     </tr>
 
     <tr>
       <td class="date2">-2010/02/03</td>
-      <td class="article"><a href="index.php?lang=ja&mode=l&page_type=open">女子中高生理系進学推進セミナー2008</a>を公開しました。</td>
+      <td class="article"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=open">女子中高生理系進学推進セミナー2008を公開しました。</a></td>
     </tr>
     </table>
 </div>
