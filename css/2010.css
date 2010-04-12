@@ -224,6 +224,7 @@ a:hover{
 	min-height: 1150px;
 	background-color: white;
 	padding: 0;
+	border: dotted;
 }
 
 *html .main{
