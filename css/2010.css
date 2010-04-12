@@ -303,8 +303,8 @@ a:hover{
 }
 /* IE6 hack */
 * html #contents{
-	width: 700px;
-	margin-right: 20px;
+	width: 710px;
+	/*margin-right: 10px;*/
 }
 /* IE7 hack */
 *:first-child+html #contents{
