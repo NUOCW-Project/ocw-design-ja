@@ -96,7 +96,5 @@
 		<td class="left"><p>
 		OG ╧╬аПмн╩р
 		</p></td></tr>
-
-
 </table>
 </div>

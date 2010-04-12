@@ -704,8 +704,8 @@ table{
 	margin: 0px;
 	float: left; 
 	text-align: left;
-	
-}
+  padding-bottom: 30px;
+} 
 
 ul#departmentslist a{
 	font-weight: 500;
