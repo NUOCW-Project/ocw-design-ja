@@ -1079,7 +1079,7 @@ table.about {
 }
 
 .g_text ul{
-	border: 1px;
+	border: 1px solid gray	;
 	margin: 0;
 	padding: 0;
 }
