@@ -1154,8 +1154,8 @@ p.welcome_name{
 }
 
 div.welcome_img{
-	width: 300px;
-	float: left;
+	width: 700px;
+	text-align: center;
 	margin: 0;
 }
 
