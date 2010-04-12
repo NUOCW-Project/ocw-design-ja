@@ -1,6 +1,7 @@
 {literal}
+{if $page_type != ""}
 <img src="./images/{$lang}/{$page_type}.jpg" />
-
+{else}<img src="./images/{$lang}/all.jpg" />{/if}
 {/literal}
 
 {include file="com_dept.tpl"}
