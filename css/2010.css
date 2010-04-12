@@ -986,14 +986,14 @@ td.separate{
 
 table#menu_list{
 	position: relative;
-	top: 20px;
+	top: 30px;
 	left: 30px;
 }
 
 #menu_submit{
 	position: relative;
-	top: 20px;
-	left: 350px;
+	top: 0px;
+	left: 400px;
 }
 
 
