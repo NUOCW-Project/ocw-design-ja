@@ -987,7 +987,7 @@ table#menu_list{
 	border-spacing: 10px 0px; 
 }
 
-#sort_title{
+.sort_title{
 	border: dotted;
 	}
 
