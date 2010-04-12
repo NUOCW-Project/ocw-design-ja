@@ -306,10 +306,10 @@ a:hover{
 	border-style: solid;
 	border-width: 1px;
 	border-color: green;
-	margin-right: 0px;
+	margin: 0px;
 	max-width: none;
 	width: 725px;
-	overflow: hidden;
+	float: left;
 }
 /* IE7 hack */
 *:first-child+html #contents{
@@ -1113,13 +1113,7 @@ span.red{
 
 .about h2{
 	font-size: large;
-	color: #888888;
 	margin: 0px;
-	padding: 0px;
-}
-
-.about p{
-	margin: 1em;
 }
 
 .about table{
@@ -1128,8 +1122,12 @@ span.red{
 	padding: 0;
 }
 .about td{
-	border-right: medium solid white;
+	border-right: 2px solid white;
 	margin: 0;
 	padding: 0;
 }
-
+.about tr{
+	border-style: none;
+	margin: 0;
+	padding: 0;
+}
