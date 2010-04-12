@@ -1116,6 +1116,10 @@ span.red{
 	margin: 0px;
 }
 
+.about p{
+	margin: 0;
+}
+
 .about table{
 	border-style: none;
 	margin: 0;
