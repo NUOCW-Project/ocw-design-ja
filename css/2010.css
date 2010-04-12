@@ -993,7 +993,7 @@ table#menu_list{
 	left: 550px;
 }
 
-table#sorttable{
+table.sorttable{
 	width: 700px;
 	border: dotted;
 	}
