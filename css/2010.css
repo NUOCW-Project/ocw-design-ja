@@ -1113,6 +1113,10 @@ span.red{
 	margin: 0px;
 }
 
+.about p{
+	margin: 1em;
+}
+
 .about table{
 	border-style: none;
 	margin: 0;
