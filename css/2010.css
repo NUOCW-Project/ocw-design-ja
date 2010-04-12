@@ -1105,4 +1105,5 @@ table.about {
   margin-bottom: 0;
   width: 110px;
   float: left;
+/*  clear: left;*/
 }
