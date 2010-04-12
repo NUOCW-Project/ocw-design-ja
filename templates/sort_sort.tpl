@@ -19,7 +19,7 @@
 <div id="sort">
 並び順
 <a href="./courselist.php?sort=department">[部局名→講義名]</a>
-<a href="./courselist.php?sort=instructor">[先生の名前→講義名]</a>
+<a href="./courselist.php?sort=instructor">[教員名→講義名]</a>
 </div>
 
 {/literal}
