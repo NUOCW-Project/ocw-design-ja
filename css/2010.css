@@ -706,11 +706,12 @@ table{
 }
 
 .nu{
+	font-size: 11px;
 	color: #996633;
 	margin: 0px;
 	float: left; 
 	text-align: left;
-  padding-bottom: 30px;
+	padding-bottom: 30px;
 } 
 
 ul#departmentslist a{
