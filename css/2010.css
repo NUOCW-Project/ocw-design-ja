@@ -661,7 +661,6 @@ table{
 	position: relative; 
 	overflow: hidden;
 	background-color: #ecece6;
-	border: dotted;
 	}
 
 
@@ -687,6 +686,7 @@ table{
 
 #size_images{
 	margin: -5px; 
+	border: dotted;
 }
 
 .size_img{
