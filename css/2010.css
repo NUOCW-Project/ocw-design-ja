@@ -491,13 +491,11 @@ table{
 	}
 
 #conditionbox{
-	background-image:url(../images/common/courselist_list.png);
-	background-repeat: no-repeat;
+	background:url(../images/common/courselist_list.png) no-repeat;
 	width: 700px;
 	height: 115px;
 	margin-left: -5px;
 	padding: 0px;
-	border: dotted;
 }
 
 .date2{
