@@ -1,5 +1,9 @@
+{include file="com_dept.tpl"}
+
 <div id="contents"><!-- 中核のボックス -->
-	<h1 class="notfound">404 Not Found</h1>
+{include file="com_navi.tpl"}
+
+<h1 class="notfound">404 Not Found</h1>
 
 	<p class="notfound">
 	{if $lang=='ja'}該当するページが見つかりません。{else}The requested page was not found.{/if}
