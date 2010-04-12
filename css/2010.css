@@ -72,14 +72,14 @@ a:hover{
 	}
 
 	html>/**/body .header_button{
-	margin-top: 20px;
+	margin-top: 15px;
 	width:450px;
 	height: 50px;
 	float: right;
 	}	
 	
 		.header_button{
-			margin-top: 20px;
+			margin-top: 15px;
 			width: 500px;
 			height: 50px;
 			margin-left: 320px;
