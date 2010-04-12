@@ -669,7 +669,6 @@ table{
 	padding: 0;
 	clear: both;
 	list-style-type: none;
-/*	text-align: center;*/
 	position: relative;
 	left: 205px;
 }
@@ -706,7 +705,10 @@ table{
 	float: left; 
 	text-align: center;
 	padding-bottom: 30px;
-} 
+}
+
+/** footer …Ù ¨Ω§Œª **/
+ 
 
 ul#departmentslist a{
 	font-weight: 500;
@@ -992,11 +994,6 @@ table.sorttable{
 	/*margin-top: -10px;*/
 	margin-bottom: 50px;	
 }
-
-#courselist{
-	border: dotted;
-}
-
 
 
 
