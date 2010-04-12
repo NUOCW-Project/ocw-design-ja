@@ -1,4 +1,4 @@
-body{
+ody{
 	margin: 0;
 	padding: 0;
 
@@ -686,11 +686,11 @@ table{
 
 #size_images{
 	margin: -5px; 
-	border: dotted;
 }
 
 .size_img{
 	margin: -5px; 
+	border: dotted;
 }
 
  #proviso {
