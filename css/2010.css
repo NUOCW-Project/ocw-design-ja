@@ -1144,10 +1144,11 @@ p.welcome_b{
 div.welcome_img{
 	text-align: center;
 	margin: 0;
+	padding: 0;
 }
 
 div.welcome_name{
 	text-align: right;
-	margin: 0;
-	padding: -50px 0px 0px;
+	padding: 0;
+	margin: -50px 0px 0px;
 }
