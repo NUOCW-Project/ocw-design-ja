@@ -1112,4 +1112,18 @@ span.red{
 	margin: 0px;
 }
 
-
+.about table{
+	border-style: none;
+	margin: 0;
+	padding: 0;
+}
+.about td{
+	border-style: none;
+	margin: 0;
+	padding: 0;
+}
+.about tr{
+	border-style: none;
+	margin: 0;
+	padding: 0;
+}
