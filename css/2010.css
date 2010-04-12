@@ -1126,7 +1126,7 @@ div.welcome_img{
 	width: 120px;
 	vertical-align: middle;
 	margin: 0;
-	padding: 0;
+	padding: 0px ;
 }
 
 table.welcome{
@@ -1140,7 +1140,7 @@ td.welcome{
 }
 
 p.welcome_name{
-	text-align: left;
+	text-align: right;
 	font-size: large;
 	color: #888888;
 	margin: 0px;
