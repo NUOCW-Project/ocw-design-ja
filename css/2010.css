@@ -136,14 +136,14 @@ a:hover{
 	}
 
 				html>/**/body .header_button_input{
-					width: 150px; 
+					width: 130px; 
 					position: relative;
 					left: 50px;
 					top : -12px;
 				}
 
 	.header_button_input{
-	width: 150px;
+	width: 130px;
 	position: relative;
 	left: 50px;
 	top: -38px;
@@ -151,7 +151,7 @@ a:hover{
 
 				.header_button_input input{
 					font-size: 11px;
-					width: 120px;
+					width: 130px;
 				}
 
 				html>/**/body .header_button_search{
