@@ -1001,8 +1001,8 @@ table#menu_list{
 	left: 550px; */
 
 	float: right;
-/*	margin-right: 10px;	
-	margin-top: -60px; */
+/*	margin-right: 10px;	*/
+	margin-top: -100px; 
 }
 
 table.sorttable{
