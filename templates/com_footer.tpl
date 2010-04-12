@@ -64,6 +64,7 @@
 
 <!-- 右端URL画像部分 -->
 <div class="main_back_url">
+<a href="./index.php"></a>
 </div>
 <!-- 右上の人物 -->
 <div class="main_back_adachi">
