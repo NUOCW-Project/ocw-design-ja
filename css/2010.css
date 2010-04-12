@@ -1138,7 +1138,7 @@ table.welcome{
 	padding: 0;
 }
 
-.welcome tr{
+td.welcome{
 	border: 5px solid gray;
 }
 
