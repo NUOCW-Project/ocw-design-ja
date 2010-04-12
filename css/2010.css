@@ -1126,6 +1126,7 @@ span.red{
 
 /* ------------------FAQ-------------------- */
 div.faq_normal{
+	border: thin solid white;
 	padding: 0em 1em;
 	margin: 0px;
 }
@@ -1133,6 +1134,7 @@ div.faq_normal{
 
 div.faq_color{
 	background-color:#eeeeee;
+	border: thin solid white;
 	padding: 0em 1em;
 	margin: 0px;
 }
