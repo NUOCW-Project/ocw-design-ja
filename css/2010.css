@@ -1122,12 +1122,8 @@ span.red{
 	padding: 0;
 }
 .about td{
-	border-right: 2px solid white;
+	border-right: thin solid white;
 	margin: 0;
 	padding: 0;
 }
-.about tr{
-	border-style: none;
-	margin: 0;
-	padding: 0;
-}
+
