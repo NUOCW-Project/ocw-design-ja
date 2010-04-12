@@ -1,7 +1,7 @@
 {strip}
 <div class="topheader_edge"><!-- 最上部ヘッダー右端部分 -->
   <div class="topheader" id="top"><!-- 最上部ヘッダー -->
- 	<a href="http://ocw.media.nagoya-u.ac.jp/new-design/" id="home_header"></a>
+ 	<a href="./index.php?lang={$lang}" id="home_header"></a>
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
