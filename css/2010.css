@@ -979,7 +979,7 @@ td.separate{
 #sort {
 	float: right;
 	margin-right: 15px;
-	margin-top: -85px;
+/*	margin-top: -85px; */
 }
 
 table#menu_list{
@@ -1000,8 +1000,8 @@ table#menu_list{
 	left: 550px; */
 
 	float: right;
-	margin-right: 10px;	
-	margin-bottom: 10px;
+/*	margin-right: 10px;	
+	margin-bottom: 10px; */
 }
 
 table.sorttable{
