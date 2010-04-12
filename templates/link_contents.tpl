@@ -27,7 +27,7 @@
 		</tr>
 		<tr>
 			<td class="center_gray"><p><img src="./images/common/logo_studytips.png" alt="StudyTips"></p></td>
-			<td class="center_gray"><p><a href="http://www.cshe.nagoya-u.ac.jp/stips">名古屋大学新入生のためのスタディティップス</a></p></td>
+			<td class="left_gray"><p><a href="http://www.cshe.nagoya-u.ac.jp/stips">名古屋大学新入生のためのスタディティップス</a></p></td>
 		</tr>
 		</tbody>
 	</table>
