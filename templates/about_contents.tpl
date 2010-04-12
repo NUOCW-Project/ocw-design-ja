@@ -99,7 +99,7 @@
 		</p></td></tr><tr>
 <td class="center">写真撮影</td><td width=2></td>
 		<td class="left"><p>
-		文学部 江草洋子
+		OG 江草洋子
 		</p></td></tr>
 
 

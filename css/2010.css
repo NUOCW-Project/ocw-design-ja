@@ -1052,27 +1052,6 @@ span.red{
 	color:#FF3333;
 }
 
-/** 名大の授業について **/
-.about {
-	padding: 0;
-	margin-bottom: 50px;
-}
-
-.about h1{
-	font-size: x-large;
-	color: #DD0000;
-	margin: 0px;
-}
-
-.about h2{
-	font-size: large;
-	color: #888888;
-}
-
-.about table{
-	border-width: 50px;
-}
-
 /** 用語解説　**/
 .g_text {
 	padding-left: 150px;
@@ -1097,9 +1076,9 @@ span.red{
 	padding-right: 15px;
 	padding-top: 0px;
 	margin: 0px 0px 0px -145px;
-  width: 110px;
-  float: left;
-/*  clear: left;*/
+	width: 110px;
+	float: left;
+	/*  clear: left;*/
 }
 
 .g_text h2 {
@@ -1109,11 +1088,8 @@ span.red{
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 0px;
-	margin-left: -145px;
-  margin-right: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-  width: 110px;
-  float: left;
-/*  clear: left;*/
+	margin: 0px 0px 0px -145px;
+	width: 110px;
+	float: left;
+	/*  clear: left;*/
 }
