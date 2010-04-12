@@ -1072,7 +1072,7 @@ table.about {
 /** 用語解説　**/
 .g_text {
   padding-left: 150px;
-  margin-bottom: 3em;
+  margin-bottom: 150px;
 }
 
 .g_text ul, .g_text ol, .g_text dl, .g_text table {
