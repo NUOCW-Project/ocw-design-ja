@@ -624,6 +624,7 @@ table{
 .topjump{
 	clear: both;
 	display: block;
+	margin-top: 20px;
 /*	position: relative;
 	top: 20px;
 	left: 580px;*/
