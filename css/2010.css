@@ -983,7 +983,7 @@ td.separate{
 
 table#menu_list{
 	position: relative;
-	top: 20px;
+	top: -70px;
 	left: 20px;
 	border-spacing: 10px 0px; 
 }
