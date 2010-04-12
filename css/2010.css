@@ -623,11 +623,11 @@ table{
 
 .topjump{
 	clear: both;
-	margin-top: 20px;
-	float: right;
-	/*position: relative;
+	/*margin-top: 20px;
+	float: right;*/
+	position: relative;
 	top: 20px;
-	left: 580px;*/
+	left: 580px;
 }
 
 .icon{
