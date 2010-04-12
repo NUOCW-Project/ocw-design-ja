@@ -196,9 +196,7 @@ a:hover{
 	padding: 0px;
 }
 
-	.main_back_url{
-		background-image: url(../images/common/url.png);
-		background-repeat: no-repeat;
+	.main_back_url img{
 		width: 20px;
 		height: 170px; 
 		position: fixed;
