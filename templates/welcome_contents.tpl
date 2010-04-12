@@ -5,7 +5,7 @@
 <div id="contents">
 {include file="com_navi.tpl"}
 
-<table>
+<table class="welcome">
 	<tr>
 	<td><div class="welcome_img">
 		{flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv"}
