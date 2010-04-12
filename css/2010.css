@@ -1128,13 +1128,13 @@ span.red{
 div.faq_normal{
 	border-style: none;
 	padding: 0em 1em;
-	margin: 0;
+	margin: 0px;
 }
 
 
 div.faq_color{
 	background-color:#eeeeee;
 	border-style: none;
-	padding: 1em;
-	margin: 0;
+	padding: 0em 1em;
+	margin: 0px;
 }
