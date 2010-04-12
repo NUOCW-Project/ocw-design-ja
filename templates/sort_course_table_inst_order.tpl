@@ -1,6 +1,6 @@
 {literal}
-<h3>{$title}</h3>
 {if  $result.num_of_course > 0}
+<h3>{$title}</h3>
 <table  class = "sorttable" >
 <tr>
 <th width="150">教員名</th>
@@ -26,7 +26,5 @@
 	</tr>
 {/foreach}
 </table>
-{else}
-<p>該当するコースはございません。</p>
 {/if}
 {/literal}
