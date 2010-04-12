@@ -987,7 +987,7 @@ table#menu_list{
 	border-spacing: 10px 0px; 
 }
 
-.line1{
+#line1{
 	width: 699px;
 	height: 4px;
 	border: dotted;
