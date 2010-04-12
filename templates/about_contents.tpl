@@ -42,7 +42,7 @@
 
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=3><h2>名古屋大学オープンコースウェア委員会</h2></td></tr>>
-<tr><td colspan=3 align="right"><p>2010年4月1日現在</p></td></tr>
+<tr><td colspan=3 align="right">2010年4月1日現在</td></tr>
 <tr><td class="center_gray">名古屋大学OCW委員会</td>
 		<td class="left_gray"><p>
 		[委員長]副総長 教授 山本一良<br>
