@@ -581,7 +581,7 @@ table{
 
 .e_text h3 {
 	font-size: 13px;
-	font-weight: normal;
+	font-weight: bold;
 	color: rgb(221, 0, 0);
 	background-image: url(../images/common/header3_box.png);
 	background-repeat: no-repeat;
