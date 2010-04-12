@@ -18,31 +18,31 @@
   <!-- onMouseは作ったがリンクは貼ってない（メモ） -->
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
 {if $page_format.tpl_name=='index'}
-<img src="./images/{$lang}/m01coursehome_hi.gif" id="couesehome_tag">
+<img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag">
 {else}
-  <img src="./images/{$lang}/m01coursehome.gif" id="couesehome_tag" 
-       onMouseOver="this.src='./images/{$lang}/m01coursehome_on.gif'" 
-       onMouseOut="this.src='./images/{$lang}/m01coursehome.gif'"><!--タグ画像「授業ホーム」-->
+  <img src="./images/{$lang}/m01coursehome.png" id="couesehome_tag" 
+       onMouseOver="this.src='./images/{$lang}/m01coursehome_on.png'" 
+       onMouseOut="this.src='./images/{$lang}/m01coursehome.png'"><!--タグ画像「授業ホーム」-->
 {/if}
   </a>
   
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
 {if $page_format.tpl_name=='syllabus'}
-<img src="./images/{$lang}/m02syllabus_hi.gif" id="syllabus_tag">
+<img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag">
 {else}
-  <img src="./images/{$lang}/m02syllabus.gif" 
-       onMouseOver="this.src='./images/{$lang}/m02syllabus_on.gif'" 
-       onMouseOut="this.src='./images/{$lang}/m02syllabus.gif'"><!--タグ画像「シラバス」-->
+  <img src="./images/{$lang}/m02syllabus.png" 
+       onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
+       onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--タグ画像「シラバス」-->
 {/if}
   </a>
        
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=materials">
 {if $page_format.tpl_name=='materials'}
-<img src="./images/{$lang}/m03resources_hi.gif" id="materials_tag">
+<img src="./images/{$lang}/m03resources_hi.png" id="materials_tag">
 {else}
-  <img src="./images/{$lang}/m03resources.gif" 
-       onMouseOver="this.src='./images/{$lang}/m03resources_on.gif'" 
-       onMouseOut="this.src='./images/{$lang}/m03resources.gif'"><!--タグ画像「講義資料」-->
+  <img src="./images/{$lang}/m03resources.png" 
+       onMouseOver="this.src='./images/{$lang}/m03resources_on.png'" 
+       onMouseOut="this.src='./images/{$lang}/m03resources.png'"><!--タグ画像「講義資料」-->
 {/if}
   </a>
 {/strip}
