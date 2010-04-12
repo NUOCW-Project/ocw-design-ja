@@ -228,7 +228,7 @@ a:hover{
 
 *html .main{
 	margin: -90px 0px 0px 30px;
-	width: 930px;
+	width: 945px;
 	background-color: white;
 	padding: 0px;
 }
@@ -303,10 +303,9 @@ a:hover{
 }
 /* IE6 hack */
 * html #contents{
-	margin: 0px 30px 0px 0px;
+	margin: 0px 30px 0px 200px;
 	max-width: none;
 	width: 715px;
-	float: right;
 }
 /* IE7 hack */
 *:first-child+html #contents{
