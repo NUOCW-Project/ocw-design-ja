@@ -309,7 +309,7 @@ a:hover{
 	margin-right: 0px;
 	max-width: none;
 	width: 725px;
-	/*margin-right: 10px;*/
+	overflow: hidden;
 }
 /* IE7 hack */
 *:first-child+html #contents{
