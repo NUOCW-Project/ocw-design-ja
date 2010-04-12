@@ -21,6 +21,12 @@ h2{
 	margin: 0px;
 }
 
+h3{
+	background-image: url(../images/common/header3_box.png);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+}
+
 img{
 	border-style: none;
 }
@@ -1003,13 +1009,7 @@ table#menu_list{
 
 table.sorttable{
 	max-width: 690px;
-	margin-bottom: 30px;	
-}
-
-.sorted_coursename{
-	background-image: url(../images/common/header3_box.png);
-	background-repeat: no-repeat;
-	padding-left: 15px;
+	margin-bottom: 50px;	
 }
 
 #courselist{
