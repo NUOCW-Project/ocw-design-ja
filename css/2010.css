@@ -183,8 +183,8 @@ a:hover{
 .main_back {
 	background-image: url(../images/common/loop.png);
 	background-repeat: repeat-y;
-	background-position: 978px 90px;
-	max-width: 1250px; 
+	background-position: 975px 90px;
+	max-width: 1255px; 
 	margin: 0px;
 	padding: 0px;
 }
