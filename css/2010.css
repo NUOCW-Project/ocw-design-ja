@@ -260,7 +260,7 @@ a:hover{
 	border-color: #e7e7df;
 }
 
-	*+html>/**/body #departmentslist li{
+	head~/* */body #departmentslist li{
 	margin-bottom: -3px; /*ie8*/
 	border: dotted;
 	}
