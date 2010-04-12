@@ -1,4 +1,6 @@
+{literal}
 <img src="./images/{$lang}/{$page_type}.jpg" />
+{/literal}
 
 {include file="com_dept.tpl"}
 
