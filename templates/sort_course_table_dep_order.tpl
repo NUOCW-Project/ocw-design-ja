@@ -3,7 +3,7 @@
 {if  $dep_and_data.num_of_course > 0}
 <table  class = "sorttable">
 <tr>
-<th width="430">コース名</th>
+<th width="435">コース名</th>
 <th width="60">開講年度</th>
 <th width="150">教員名</th>
 <th width="45">その他</th>
