@@ -305,7 +305,7 @@ a:hover{
 * html #contents{
 	margin: 0px 30px 0px 200px;
 	max-width: none;
-	width: 715px;
+	width: 705px;
 }
 /* IE7 hack */
 *:first-child+html #contents{
