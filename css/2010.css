@@ -987,6 +987,10 @@ table#menu_list{
 	border-spacing: 10px 0px; 
 }
 
+#sorttilte{
+	border: dotted;
+	}
+
 #menu_submit{
 	position: relative;
 	top: 10px;
