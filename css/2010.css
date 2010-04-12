@@ -1075,17 +1075,12 @@ table.about {
   margin-bottom: 45px;
 }
 
-.g_text ul, .g_text ol {
+.g_text ul {
 	margin-bottom: 1em;
 }
 
 .g_text p{
 	margin-bottom: 20px;
-}
-
-.g_text * ul, .g_text * ol {
-	margin-left: 0;
-	margin-bottom: 0;
 }
 
 .g_text h3 {
