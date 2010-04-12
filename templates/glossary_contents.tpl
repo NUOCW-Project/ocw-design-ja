@@ -44,15 +44,15 @@
 		<p>名古屋大学多元数理学科研究科で毎年行われている、高校生および高校教員対象の公開講座。詳細は<a href="http://www.math.nagoya-u.ac.jp/ja/public/agora">名古屋大学大学院多元数理科学研究科・理学部数理学科のサイト</a>をご覧下さい。</p>
 	<div id="akf"><h3>AKF検索</h3>
 		<p>AKF検索では名古屋大学のデジタル情報をまとめて検索できます。</<br>
-		正式名称はAKF(Academic Knowledge Factory:名古屋大学学術ナレッジ・ファクトリー)といい、名古屋大学附属図書館が提供しています。</p>
-		<p>検索可能なデータベース<br>
-		AKFでは以下のサイトの内容を検索できます。</p>
+		正式名称はAKF(Academic Knowledge Factory:名古屋大学学術ナレッジ・ファクトリー)といい、名古屋大学附属図書館が提供しています。<br>
+		検索可能なデータベース<br>
+		AKFでは以下のサイトの内容を検索できます。
 		<ul>
 		<li><a href="http://ir.nul.nagoya-u.ac.jp/dspace/index.jsp" target="_blank">名古屋大学学術機関リポジトリ</a>は、学内研究者の研究論文・学会発表資料・教材などを収集し、インターネットにより世界へ向けて発信する仕組みです。</li>
 		<li><a href="http://libst1.nul.nagoya-u.ac.jp/eco/index.html" target="_blank">エココレクション</a>とは、国内最大級の系統的河川・治水史料であり、自然と人間の関係史をリアルに伝える「高木家文書」と、日本における近代植物学の祖とされる伊藤圭介の動植物に関する稿本を集めた「伊藤圭介文庫」を中心としたデータベースです。</li>
 		<li><a href="http://plum.itc.nagoya-u.ac.jp/" target="_blank">プラム(名大Webサイト資源)</a>では名古屋大学内のWebサイトを収集、分類、保管し、検索できるようにしています。現在だけでなく、過去のWebサイトも検索できます。</li>
 		<li><a href="http://ocw.nagoya-u.jp/index.html" target="_blank">名大の授業</a>はこのサイトです。名古屋大学の授業を一部選び、そこで実際に使われている教材を電子化しインターネット上で無償公開しています。</li>
-		</ul>
+		</ul></p>
 	</div>
 </div>
 </div>	
