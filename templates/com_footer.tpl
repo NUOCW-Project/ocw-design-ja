@@ -1,8 +1,7 @@
-
-</div><!--"#contents" end-->
-<div class="footer">
  <!-- 「ページトップへ」 -->
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="topjump"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
+</div><!--"#contents" end-->
+<div class="footer">
 {literal}
 {foreach from=$dept_list key=abbr item=dept name=navigation}
   {assign var='navi_total' value=`$smarty.foreach.navigation.total/3+1`}
