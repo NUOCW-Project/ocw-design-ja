@@ -1097,6 +1097,7 @@ span.red{
 	margin: 0;
 	padding: 0;
 }
+
 .about td{
 	border-right: 2px solid white;
 	margin: 0;
@@ -1131,15 +1132,17 @@ div.welcome_img{
 	padding: 0;
 }
 
+table.welcome{
+	border: middle solid gray;
+	margin: 0;
+	padding: 0;
+}
+
+
 p.welcome_name{
 	text-align: left;
 	padding: 1em;
 	font-size: large;
 	color: #888888;
 	margin: 0px;
-}
-
-div.welcome_contents {
-	
-	clear: left;
 }
