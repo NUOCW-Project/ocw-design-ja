@@ -1133,7 +1133,7 @@ div.welcome_img{
 }
 
 table.welcome{
-	border: middle solid gray;
+	border: 5px solid gray;
 	margin: 0;
 	padding: 0;
 }
