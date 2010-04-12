@@ -159,7 +159,7 @@ a:hover{
 					width: 20px;
 					height: 20px;
 					position: relative;
-					left: 180px;
+					left: 190px;
 					top: -29px;
 				}
 
@@ -167,9 +167,9 @@ a:hover{
 	width: 20px;
 	height: 20px;
 	position: relative;
-	left: 185px;
+	left: 195px;
 	top: -58px;
-	border: dotted;
+	border: none;
 	}	
 
 .header_edge{
