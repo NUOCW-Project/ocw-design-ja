@@ -690,7 +690,6 @@ table{
 
 .size_img{
 	margin: -5px; 
-	border: dotted;
 }
 
  #proviso {
@@ -698,6 +697,7 @@ table{
 	text-align: center;
 	position: relative;
 	left: 205px;
+	border: dotted;
 }
 
 .nu{
