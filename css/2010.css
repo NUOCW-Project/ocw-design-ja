@@ -608,6 +608,7 @@ table{
 		}
 
 .topjump{
+	clear: both;
 /*	position: relative;
 	top: 20px;
 	left: 580px;*/
