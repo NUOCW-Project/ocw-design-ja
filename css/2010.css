@@ -1004,6 +1004,11 @@ table.sorttable{
 	width: 690px;
 	}
 
+.courselist{
+	border: dotted;
+}
+
+
 
 /** ごあいさつ　関連 **/
 div.welcome_img{
