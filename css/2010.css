@@ -1137,8 +1137,7 @@ div.faq_color{
 p.welcome_b{
 	font-size: large;
 	color: #888888;
-	margin: 0px;
-	padding: 0px;
+	font-weight: bold;
 }
 
 div.welcome_img{
@@ -1149,7 +1148,7 @@ div.welcome_img{
 
 div.welcome_name{
 	position: absolute;
-	top: 270px;
+	top: 250px;
 	left: 520px;
 	padding: 0;
 	margin: 0;
