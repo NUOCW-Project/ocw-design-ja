@@ -260,11 +260,6 @@ a:hover{
 	border-color: #e7e7df;
 }
 
-	head~/* */body #departmentslist li{
-	margin-bottom: -3px; /*ie8*/
-	border: dotted;
-	}
-
 	#departmentslist_list li{
 	margin-bottom: -6px; /*画像の隙間をなくしている */
 	}
