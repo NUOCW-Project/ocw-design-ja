@@ -1122,12 +1122,6 @@ div.faq_color{
 }
 
 /** ごあいさつ　関連 **/
-div.welcome_img{
-	width: 460px;
-	text-align: right;
-	margin: 0;
-	float: right;
-}
 
 table.welcome{
 	border: 5px solid gray;
@@ -1145,4 +1139,10 @@ p.welcome_name{
 	color: #888888;
 	margin: 0px;
 	padding: 0px;
+}
+div.welcome_img{
+	width: 460px;
+	poisition: static;
+	margin: 0;
+	float: right;
 }
