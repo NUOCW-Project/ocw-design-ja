@@ -1072,7 +1072,7 @@ table.about {
 /** 用語解説　**/
 .g_text {
   padding-left: 150px;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
 }
 
 .g_text ul, .g_text ol {
@@ -1080,7 +1080,7 @@ table.about {
 }
 
 .g_text p{
-	margin-bottom: 2em;
+	margin-bottom: 3em;
 }
 
 .g_text * ul, .g_text * ol {
