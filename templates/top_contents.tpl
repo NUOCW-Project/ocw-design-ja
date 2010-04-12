@@ -66,14 +66,27 @@
   <br />
   <img src="./images/common/dots.png" class="dots" />
     <table>
-     <tr>
-	<td class="date2">-2010/03/24</td>
-	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=106&amp;page_type=index">数理科学展望I【高橋雅英教授】を公開しました。<img src="./images/common/new.png" class="icon" /></a></td>
-     </tr>
-     <tr>
-	<td class="date2">-2009/12/24</td>
-	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開<img src="./images/common/new.png" class="icon" /></a></td>
-     </tr>
+    <tr>
+      <td class="date2">-2010/03/13</td>
+      <td class="article"><a href="index.php?lang=ja&mode=c&id=192&page_type=index"> 発達障害治療学及び実習【辛島千恵子 教授】</a>を公開しました。<img class="icon" src="./images/common/new.gif" alt="new"></td>
+    </tr>
+    <tr>
+      <td class="date2">-2010/02/27</td>
+      <td class="article"><a href="index.php?lang=ja&mode=c&id=193&page_type=index"> 心理・教育の統計学【石井秀宗 准教授】</a>を公開しました。</td>
+    </tr>
+    <tr>
+      <td class="date2">-2010/02/08</td>
+      <td class="article"><a href="index.php?lang=ja&mode=c&id=77&page_type=index">社会行動学講義【高井次郎 教授】</a>を公開しました。</td>
+    </tr>
+    <tr>
+      <td class="date2">-2010/02/05</td>
+      <td class="article"><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=187&page_type=index">家族看護学【浅野みどり 教授】</a>を公開しました。</td>
+    </tr>
+
+    <tr>
+      <td class="date2">-2010/02/03</td>
+      <td class="article"><a href="index.php?lang=ja&mode=l&page_type=open">女子中高生理系進学推進セミナー2008</a>を公開しました。</td>
+    </tr>
     </table>
 </div>
 </div><!-- 「お知らせ」end  -->
@@ -86,20 +99,8 @@
   <img src="./images/common/dots.png" class="dots" />
     <table>
      <tr>
-	<td class="date2">-2009/12/24</td>
-	<td class="article"><span>新デザインになりました。<img src="./images/common/new.png" class="icon" /></span></td>
-     </tr>
-     <tr>
-	<td class="date2">-2009/12/24</td>
-	<td class="article"><span>新デザインになりました。</span></td>
-     </tr>
-     <tr>
-	<td class="date2">-2009/12/24</td>
-	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">情報リテラシー【横井茂樹教授】を公開しました。</a></td>
-     </tr>
-     <tr>
-	<td class="date2">-2009/12/24</td>
-	<td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=129&amp;page_type=index">ポスト・ローマ期ヨーロッパの表象構造―コミュニケーション行為の歴史的考察(1)―【佐藤彰一教授】を公開しました。</a></td>
+	<td class="date2">-2010/04/12</td>
+	<td class="article"><span>デザインをリニューアルしました。<img src="./images/common/new.png" class="icon" /></span></td>
      </tr>
     </table>
 </div><!-- 「プレスリリース」end -->
