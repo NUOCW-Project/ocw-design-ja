@@ -103,7 +103,7 @@
 	<td class="article"><span>デザインをリニューアルしました。<img src="./images/common/new.png" class="icon" /></span></td>
      </tr>
     </table>
-</div><!-- 「プレスリリース」end -->
+</div><!-- 「プレスリリーす」 -->
 </div>
 </div><!-- "inline" -->
 <script type="text/javascript">
