@@ -1152,7 +1152,7 @@ p.welcome_name{
 	padding: 0px;
 }
 
-span.welcome_img{
+div.welcome_img{
 	width: 300px;
 	float: left;
 	margin: 0;

@@ -5,18 +5,13 @@
 <div id="contents">
 {include file="com_navi.tpl"}
 
-<table class="welcome">
-<tr><td class="welcome">
-	<span class="welcome_img">
+	<div class="welcome_img">
 		{flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv"}
-	</span>
+	</div>
 	<span class="b">
-	名古屋大学<br>
-	オープンコースウェア委員会</span>
+		名古屋大学<br>
+		オープンコースウェア委員会</span>
 	<p class="welcome_name">委員長 山本 一良</p>
-	</p>
-</td></tr>
-<tr><td colspan=2>
 
 <!--
 	<div class="welcome_vsyllabus">
@@ -30,7 +25,6 @@
 	<p>また「名大の授業」独自の取り組みとしては、「授業の工夫」と「1分間授業紹介」とがあります。「授業の工夫」では、よりよい授業を目指して教員が行った創意工夫を見ることができます。「1分間授業紹介」では、授業を担当する教員が自分の言葉で語る授業紹介を視聴することができます。これら独自の取り組みで名大の授業を少しでも身近に感じていただけたらと思います。</p>
 	<p>名古屋大学を目指しておられる方は、入学した後何を学ぶか垣間見ることができます。また教員の方は、ご自身の授業の参考として他の教員の授業がご覧になれます。一般市民の皆様にも名古屋大学の教育の一端がご理解いただけるものと思います。</p>
 	<p>この「名大の授業」を通して、名大の授業を「体験」していただければ幸いです。</p>
-</td></tr>
-</table>
+
 
 
