@@ -20,7 +20,7 @@
   <br />
   <img src="./images/common/redline.gif" class="line" />
   <br />
- <a href="http://ocw.media.nagoya-u.ac.jp/new-design/courselist.php?lang=ja&mode=l&page_type=farewell"> 
+ <a href="./courselist.php?lang=ja&mode=l&page_type=farewell"> 
 <img src="./images/{$lang}/prj10_fl10.jpg" id="prj10"/></a><!-- 画像「OCW特別企画」 -->
 </div> <!-- "feature" end -->
     
@@ -51,7 +51,7 @@
 		<tr id="no{$v.rank}">
 		<td class="rank">{$v.rank}</td>
 		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
-		<td class="name"><a href="http://ocw.media.nagoya-u.ac.jp/new-design/courselist.php?sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position|replace:"教授":"Prof."}</a></td>
+		<td class="name"><a href="./courselist.php?sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a></td>
 		</tr>
 	{/foreach}
 	{/literal}
@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <td class="date2">-2010/02/05</td>
-      <td class="article"><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&amp;mode=c&amp;id=187&amp;page_type=index">家族看護学【浅野みどり 教授】を公開しました。</a></td>
+      <td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=187&amp;page_type=index">家族看護学【浅野みどり 教授】を公開しました。</a></td>
     </tr>
 
     <tr>
