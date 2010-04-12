@@ -154,6 +154,7 @@ a:hover{
 					position: relative;
 					left: 175px;
 					top: -31px;
+	border: dotted;
 				}
 
 	.header_button_search{
