@@ -9,7 +9,7 @@
 	<tr>
 	<td class="welcome"><div class="welcome_img">
 		{flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv"}
-	</div></td><td class="welcome">
+	</div></td><td class="welcome" align="right">
 	<span class="b">
 	名古屋大学<br>
 	オープンコースウェア委員会</span>
