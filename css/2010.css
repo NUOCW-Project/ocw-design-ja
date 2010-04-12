@@ -262,6 +262,7 @@ a:hover{
 
 	*+html>/**/body #departmentslist li{
 	margin-bottom: -3px; /*ie8*/
+	border: dotted;
 	}
 
 	#departmentslist_list li{
