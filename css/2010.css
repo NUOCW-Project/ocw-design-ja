@@ -1137,6 +1137,7 @@ p.welcome_b{
 	font-size: large;
 	color: #888888;
 	font-weight: bold;
+	padding: 0;
 }
 
 div.welcome_img{
