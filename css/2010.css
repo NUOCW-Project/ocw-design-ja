@@ -1093,3 +1093,22 @@ span.red{
 	float: left;
 	/*  clear: left;*/
 }
+
+/** 名大の授業について **/
+.about{
+	padding: 0;
+	margin: 0;
+}
+
+.about h1{
+	font-size: xlarge;
+	color: #DD0000;
+	margin: 0px;
+}
+
+.about h2{
+	font-size: large;
+	margin: 0px;
+}
+
+
