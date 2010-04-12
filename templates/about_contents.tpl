@@ -20,7 +20,7 @@
 
 <!-- このSiteの特徴終了 -->
 
-<tr height=10><td colspan=3></td></tr>
+<tr height=15><td colspan=3></td></tr>
 
 <!-- 利用について開始 -->
 	<tr><td width="105" class="center_gray">掲載資料</td>
