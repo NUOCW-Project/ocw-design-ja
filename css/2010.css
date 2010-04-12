@@ -741,21 +741,6 @@ table.basic ul, table.farewell ul{
 	padding-left: 1em;
 }
 
-	
-
-/* ------------------FAQ-------------------- */
-div.faq_normal{
-	padding:5px;
-	margin-bottom: 2em;
-}
-
-
-div.faq_color{
-	background-color:#eeeeee;
-	padding:5px;
-	margin-bottom: 2em;
-}
-
 
 /* -----------------Course Contents ---------------*/
 span.i{
@@ -1137,4 +1122,17 @@ span.red{
 	border-style: none;
 	margin: 0;
 	padding: 0;
+}
+
+/* ------------------FAQ-------------------- */
+div.faq_normal{
+	padding:1em;
+	margin-bottom: 2em;
+}
+
+
+div.faq_color{
+	background-color:#eeeeee;
+	padding:5px;
+	margin-bottom: 2em;
 }
