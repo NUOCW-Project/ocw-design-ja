@@ -22,8 +22,8 @@
         <div class="header_button_sub"><!-- 最上部ヘッダー部分を２つに分けた -->
           <!-- Englishボタン -->
           <div class="header_button_english">
-            {literal}{if $another_lang_page_type}
-            <a href="index.php?lang={$another_lang}&amp;mode={$mode}&amp;id={$id}&amp;page_type={$page_type}">
+            {literal}{if $another_tpl_path}
+            <a href="index.php?lang={$another_lang}&amp;mode={$mode}&amp;id={$id}&amp;page_type={$another_page_type}">
             {if $lang=="ja"}
             {/literal}
               <img src="./images/{$lang}/english.png" alt="English"
