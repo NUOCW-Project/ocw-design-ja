@@ -993,6 +993,10 @@ table#menu_list{
 	left: 550px;
 }
 
+table#sorttable{
+	width: 700px;
+	}
+
 
 /** ごあいさつ　関連 **/
 div.welcome_img{
