@@ -5,6 +5,7 @@
 <div id="contents">
 {include file="com_navi.tpl"}
 
+<div class="faq_normal">
 	<p>以下は名大の授業に関するFAQ(よくある質問)と、その答えです。</p>
 	<ol>
 		<li><span class="b"><a href="#faq01">「名大の授業(名古屋大学OPENCOURSEWARE)」とは何ですか？</a></span></li>
@@ -14,7 +15,7 @@
 		<li><span class="b"><a href="#faq05">「名大の授業」Webサイトへリンクしても良いですか？</a></span></li>
 		<li><span class="b"><a href="#faq06">「名大の授業」に掲載されている教材について、講義の担当者に直接質問することはできますか？</a></span></li>
 		<li><span class="b"><a href="#faq07">「名大の授業」の閲覧に必要なコンピュータ環境を教えてください。</a></span></li>
-
+</div>
 
 	
 <div class="faq_color" id="faq01">
