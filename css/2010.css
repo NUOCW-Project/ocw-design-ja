@@ -1002,22 +1002,6 @@ table.sorttable{
 
 
 
-/** ごあいさつ　関連 **/
-div.welcome_img{
-	width: 250px;
-	text-align: middle;
-	margin: 0px 20px;
-}
-
-p.welcome_chairperson{
-	text-align: left;
-	padding: 20px 5px 5px;
-}
-
-div.welcome_contents {
-	text-indent: 1em;
-	clear: left;
-}
 
 /** サイトマップ関連 **/
 div.sitemap_contents{
@@ -1124,7 +1108,7 @@ span.red{
 	padding: 0;
 }
 
-/* ------------------FAQ-------------------- */
+/** FAQ **/
 div.faq_normal{
 	border: thin solid white;
 	padding: 5px 20px;
@@ -1137,4 +1121,25 @@ div.faq_color{
 	border: thin solid white;
 	padding: 5px 20px;
 	margin: 0px;
+}
+
+/** ごあいさつ　関連 **/
+div.welcome_img{
+	width: 250px;
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+}
+
+p.welcome_name{
+	text-align: left;
+	padding: 1em;
+	font-size: large;
+	color: #888888;
+	margin: 0px;
+}
+
+div.welcome_contents {
+	
+	clear: left;
 }
