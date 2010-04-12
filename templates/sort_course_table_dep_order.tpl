@@ -11,7 +11,7 @@
 {foreach item = each_course  from = $dep_and_data.courses }
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
 
-	<td><a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a></td>
+	<td class="sorted_coursename"><a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a></td>
 	<td>{$each_course.year}</td>
 	<td>{$each_course.instructor_name}</td>
 	{if $each_course.date =='t'}

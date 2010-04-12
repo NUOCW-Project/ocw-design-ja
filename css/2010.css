@@ -968,10 +968,10 @@ td.separate{
 	height:5px;
 }
 
-.even{
+.odd{
 	background-color:#e7e7df;
 }
-.odd{
+.even{
 	background-color:#fff;
 }
 
@@ -1003,7 +1003,14 @@ table#menu_list{
 
 table.sorttable{
 	max-width: 690px;
-	}
+	margin-bottom: 30px;	
+}
+
+.sorted_coursename{
+	background-image: url(../images/common/header3_box.png);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+}
 
 #courselist{
 	border: dotted;
