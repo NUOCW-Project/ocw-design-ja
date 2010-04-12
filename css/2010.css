@@ -204,9 +204,7 @@ a:hover{
 		left: 1260px;
 	}
 
-*html .main_back_url{
-			 background-image: url(../images/common/url.png);
- 	  	 background-repeat: no-repeat;
+*html .main_back_url img{
 	position: expression('absolute');
 	top: expression(documentElement.scrollTop + 90 + 'px');
 	left: expression(documentElement.scrollLeft + 1260 + 'px');
