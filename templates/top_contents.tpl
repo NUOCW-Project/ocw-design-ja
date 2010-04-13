@@ -20,7 +20,7 @@
   <br />
   <img src="./images/common/redline.gif" class="line" />
   <br />
- <a href="./courselist.php?lang=ja&mode=l&page_type=farewell"> 
+ <a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=farewell"> 
 <img src="./images/{$lang}/prj10_fl10.jpg" id="prj10"/></a><!-- 画像「OCW特別企画」 -->
 </div> <!-- "feature" end -->
     
@@ -51,7 +51,7 @@
 		<tr id="no{$v.rank}">
 		<td class="rank">{$v.rank}</td>
 		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
-		<td class="name"><a href="./courselist.php?sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a></td>
+		<td class="name"><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a></td>
 		</tr>
 	{/foreach}
 	{/literal}
