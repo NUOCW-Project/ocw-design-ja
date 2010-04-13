@@ -838,29 +838,29 @@ div.podcast{
 }
 
 td.td_left_gray{
-	backgrouond-image: url(../images/common/flame02.gif);
-	backgrouond-repeat: repeat-y;
+	background-image: url(../images/common/flame02.gif);
+	background-repeat: repeat-y;
 }
 
 td.td_right_gray{
-	backgrouond-image: url(../images/common/flame05.gif);
-	backgrouond-repeat: repeat-y;
+	background-image: url(../images/common/flame05.gif);
+	background-repeat: repeat-y;
 }
 
 td.td_top_gray{
-	backgrouond-image: url(../images/common/gray02.gif);
-	backgrouond-repeat: repeat-x;
-	backgrouond-position: top
-	backgrouond-color:#eeeeee;}
+	background-image: url(../images/common/gray02.gif);
+	background-repeat: repeat-x;
+	background-position: top
+	background-color:#eeeeee;}
 
 td.td_under_gray{
-	backgrouond-image: url(../images/common/gray07.gif);
-	backgrouond-repeat: repeat-x;
+	background-image: url(../images/common/gray07.gif);
+	background-repeat: repeat-x;
 }
 
 td.td_contents_gray{
 	vertical-align: top;
-	backgrouond-color:#e7e7df;
+	background-color:#e7e7df;
 }
 
 /* ²Õ¾ò½ñ¤­ */
@@ -967,7 +967,7 @@ td.right{
 }
 
 td.left{
-	text-alghn: left
+	text-align: left
 }
 
 td.right_gray{
