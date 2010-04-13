@@ -2,7 +2,7 @@
 
 {include file="left_menu_vs.tpl"}
 
-<div id="contents"><!-- 中核のボックス -->
+<div id="temp_contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}
 
