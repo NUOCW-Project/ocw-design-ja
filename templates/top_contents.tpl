@@ -67,6 +67,11 @@
   <img src="./images/common/dots.png" class="dots" />
     <table>
     <tr>
+      <td class="date2">-2010/04/14</td>
+      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=146&amp;page_type=index">言語文化学方法論【福田眞人 教授】を公開しました。</a></td>
+    </tr>
+
+    <tr>
       <td class="date2">-2010/03/13</td>
       <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=192&amp;page_type=index"> 発達障害治療学及び実習【辛島千恵子 教授】を公開しました。<img src="./images/common/new.png" class="icon" /></a></td>
     </tr>
@@ -83,10 +88,12 @@
       <td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=187&amp;page_type=index">家族看護学【浅野みどり 教授】を公開しました。</a></td>
     </tr>
 
+<!--
     <tr>
       <td class="date2">-2010/02/03</td>
       <td class="article"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=open">女子中高生理系進学推進セミナー2008を公開しました。</a></td>
     </tr>
+-->
     </table>
 </div>
 </div><!-- 「お知らせ」end  -->
