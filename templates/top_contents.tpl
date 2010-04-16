@@ -44,17 +44,31 @@
 	<tr id="no0">
 		<td class="rank">½ç°Ì</td>
 		<td>¹ÖµÁÌ¾</td>
-		<td class="name">¶µ°÷Ì¾</td>
-	</tr>
+		<td class="name">¶µ°÷Ì¾
+
 	{literal}
+	{assign var='before' value=0}
 	{foreach from=$ranking key=k item=v}
-		<tr id="no{$v.rank}">
+
+	{if $v.course_id!=$before}
+		</td>
+	</tr>
+	<tr id="no{$v.rank}">
 		<td class="rank">{$v.rank}</td>
 		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
-		<td class="name"><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a></td>
-		</tr>
+		<td class="name"><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>
+
+	{else}
+		<br />
+			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>		
+	{/if}
+
+	{assign var='before' value=$v.course_id}
+
 	{/foreach}
 	{/literal}
+		</td>
+	</tr>
 	</table>
 </div>
 </div>
