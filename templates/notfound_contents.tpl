@@ -1,4 +1,4 @@
-<div style="height:100px;"></div>
+<img src="./images/ja/header_notfound.jpg" alt="ページが見つかりません">
 
 {include file="com_dept.tpl"}
 
