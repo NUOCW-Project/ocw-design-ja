@@ -295,10 +295,10 @@ a:hover{
 				font-size: 11px;
 			}
 #contents{
-	position:relative;
-	top: -25px;
-/*	left: 200px; */
-	margin: 0px 30px 0px 200px;
+	position: absolute;
+	top: 375px;
+	left: 200px;
+/*	margin: 0px 30px 0px 200px;*/
 	background-color: white;
 	padding-bottom: 20px;
 	padding-left: 10px;
