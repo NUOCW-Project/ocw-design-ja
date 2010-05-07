@@ -1,6 +1,7 @@
  <!-- 「ページトップへ」 -->
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="topjump"  alt="{if $lang=="ja"}ページトップへ{/if}" /></a>
 </div><!--"#contents" end-->
+</div><!--"#package" end -->
 
 <div class="footer">
 {literal}

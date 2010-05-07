@@ -294,9 +294,14 @@ a:hover{
 				color: red;
 				font-size: 11px;
 			}
+
+#package{
+	position: relative;
+}
+
 #contents{
 	position: absolute;
-	top: 475px;
+	top: -25x;
 	left: 230px;
 /*	margin: 0px 30px 0px 200px;*/
 	background-color: white;
