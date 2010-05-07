@@ -297,6 +297,10 @@ a:hover{
 
 #package{
 	position: relative;
+
+	border-style: solid;
+	border-width: 1px;
+	border-color: yellow;
 }
 
 #contents{
@@ -309,6 +313,9 @@ a:hover{
 	padding-left: 10px;
 	max-width: 705px;
 	overflow: hidden;
+	border-style: dotted;
+	border-width: 1px;
+	border-color: blue;
 }
 
 #temp_contents{
