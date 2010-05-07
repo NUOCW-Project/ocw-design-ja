@@ -305,7 +305,7 @@ a:hover{
 
 #contents{
 	position: absolute;
-	top: -25x;
+/*	top: -25x;*/
 	left: 225px;
 /*	margin: 0px 30px 0px 200px;*/
 	background-color: white;
