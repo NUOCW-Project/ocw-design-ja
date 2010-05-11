@@ -221,7 +221,7 @@ a:hover{
 	}
 
 .main{
-	max-width: 945px;
+	width: 945px;
 	overflow: hidden;
 	margin-left: 30px;
 	min-height: 1150px;
@@ -304,18 +304,18 @@ a:hover{
 }
 
 #contents{
-	position: absolute;
-/*	top: -25x;*/
-	left: 225px;
+	position: relative;
+	top: -25x;
+	float: left;
 	margin: -25px 0px 0px 0px;
 	background-color: white;
 	padding-bottom: 20px;
 	padding-left: 10px;
-	max-width: 705px;
-	overflow: hidden;
+	width: 705px;
+	/*overflow: hidden;
 	border-style: dotted;
 	border-width: 1px;
-	border-color: blue;
+	border-color: blue;*/
 }
 
 #temp_contents{
@@ -446,7 +446,7 @@ img#prj10{
 		}
 
 	#access div{
-			height: 400px;
+			height: 700px;
 	}
 
 		#rank_table{
