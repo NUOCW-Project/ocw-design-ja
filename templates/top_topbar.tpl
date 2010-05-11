@@ -1,7 +1,7 @@
 {strip}
 <div class="topheader_edge"><!-- 最上部ヘッダー右端部分 -->
   <div class="topheader" id="top"><!-- 最上部ヘッダー -->
- 	<a href="./index.php?lang={$lang}" id="home_header"></a>
+   <a href="./index.php?lang={$lang}" id="home_header"></a>
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
@@ -24,33 +24,14 @@
           {include file="com_lang.tpl"}
           <!-- AKF検索 -->
           <div class="header_button_akf">
-		<a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
-             <img src="./images/{$lang}/akf.png" alt="AKF Search" align="left"/></a>
+            <a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
+            <img src="./images/{$lang}/akf.png" alt="AKF Search" align="left"/></a>
           </div><!-- "header_button_akf" end -->
-	<form method="get" action="./akfsearch.php">
+          <form method="get" action="./akfsearch.php">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
-<input type="text" id="searchbox" name="query" value="ここから授業を検索できます" size="69">
-      <input type="hidden" name="DB_ID" value="G0000002AKF">
-	<input type="hidden" name="GRP_ID" value="G0000002">
-	<input type="hidden" name="DEF_XSL" value="default">
-	<input type="hidden" name="IS_TYPE" value="meta">
-	<input type="hidden" name="IS_STYLE" value="default">
-	<input type="hidden" name="SUM_KIND" value="MetaSummary">
-	<input type="hidden" name="SUM_NUMBER" value="20">
-	<input type="hidden" name="META_KIND" value="NOFRAME">
-	<input type="hidden" name="IS_KIND" value="MetaSummary">
-	<input type="hidden" name="IS_SCH" value="META">
-	<input type="hidden" name="IS_START" value="1">
-	<input type="hidden" name="IS_EXTSCH" value="">
-	<input type="hidden" name="IS_SORT_KND" value="RANK">
-	<input type="hidden" name="IS_TAG_S99" value="InfoDb">
-	<input type="hidden" name="IS_REG_S99" value="none">
-	<input type="hidden" name="IS_LGC_S99" value="AND">
-	<input type="hidden" name="IS_CND_S99" value="ALL">
-	<input type="hidden" name="IS_CHK_OR_S99" value="ocw">
-	<input type="hidden" name="IS_TAG_S1" value="InfoD">
-	<input type="hidden" name="IS_NUMBER" value="20">
-	</div><!-- "header_button_input" end -->
+              <input type="text" id="searchbox" name="query" value="ここから授業を検索できます" size="69">
+              <input type="hidden" name="lang" value="{$lang}">
+            </div><!-- "header_button_input" end -->
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
               <input type="image" src="./images/common/search.png" alt="検索する">
             </div> <!-- "header_button_search" end -->
