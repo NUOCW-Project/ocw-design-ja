@@ -562,8 +562,8 @@ table{
 	#teacher{
 		font-size: xx-large;
 		font-family: serif;/* люд╚бн */
-		margin-top: 12px;
-		margin-bottom: 5px;
+		padding-top: 12px;
+		padding-bottom: 5px;
 	}
 
 	#occupation{
