@@ -5,7 +5,7 @@ body{
 	background-color: #f6f6f6;
 	font-size: 12.5px; 
 	/* small指定はブラウザにより異なる */
-	line-height: 130%;
+	line-height: 150%;
 	color: #666666;
 }
 
@@ -19,14 +19,14 @@ body{
 h2{
 	font-size: large;
 	color: #DD0000;
-	margin: 0px;
+	margin: 5px;
 }
 
 h3{
 	background-image: url(../images/common/header3_box.png);
 	background-repeat: no-repeat;
 	padding-left: 15px;
-	margin-bottom: 0px;
+	margin-bottom: 5px;
 }
 
 img{
@@ -222,7 +222,7 @@ a:hover{
 
 .main{
 	width: 945px;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	margin-left: 30px;
 	min-height: 1150px;
 	background-color: white;
