@@ -68,11 +68,11 @@
     
 <div id="caption">
   <div id="publisher">
-	  {if $lang=='ja'}³«¹ÖÉô¶É¡§{else}Department: {/if}{$course_info.department_name}<br>
-    {foreach from=$course_info.instructors item=instructor name=instructor}
-   	  <span id="teacher">{$instructor.name}</span> <span id="occupation">{$instructor.position}</span>
+	 <p> {if $lang=='ja'}³«¹ÖÉô¶É¡§{else}Department: {/if}{$course_info.department_name}</p>
+    <p>{foreach from=$course_info.instructors item=instructor name=instructor}
+   	 <span id="teacher">{$instructor.name}</span> <span id="occupation">{$instructor.position}</span>
    	  {if !$smarty.foreach.instructor.last}<br>{/if}
-     {/foreach}
+     {/foreach}</p>
   </div>
       
   <h2>{$course_info.course_name}</h2>
