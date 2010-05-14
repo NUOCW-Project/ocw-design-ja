@@ -81,8 +81,13 @@
   <img src="./images/common/dots.png" class="dots" />
     <table>
     <tr>
+      <td class="date2">-2010/05/14</td>
+      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=206&amp;page_type=index">心理学II【松本真理子 教授】を公開しました。<img src="./images/common/new.png" class="icon"></a></td>
+    </tr>
+
+    <tr>
       <td class="date2">-2010/04/14</td>
-      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=146&amp;page_type=index">言語文化学方法論【福田眞人 教授】を公開しました。<img src="./images/common/new.png" class="icon"></a></td>
+      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=146&amp;page_type=index">言語文化学方法論【福田眞人 教授】を公開しました。</a></td>
     </tr>
 
     <tr>
@@ -97,12 +102,12 @@
       <td class="date2">-2010/02/08</td>
       <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=77&amp;page_type=index">社会行動学講義【高井次郎 教授】を公開しました。</a></td>
     </tr>
+<!--
     <tr>
       <td class="date2">-2010/02/05</td>
       <td class="article"><a href="./index.php?lang=ja&amp;mode=c&amp;id=187&amp;page_type=index">家族看護学【浅野みどり 教授】を公開しました。</a></td>
     </tr>
 
-<!--
     <tr>
       <td class="date2">-2010/02/03</td>
       <td class="article"><a href="index.php?lang=ja&amp;mode=l&amp;page_type=open">女子中高生理系進学推進セミナー2008を公開しました。</a></td>
