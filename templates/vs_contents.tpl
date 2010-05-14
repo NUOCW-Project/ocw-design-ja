@@ -50,7 +50,7 @@
 			</a>
 		{/if}
 		</td>
-		<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.vsyllabus_id}&amp;page_type=index">{$vs.course_name}
+		<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.course_id}&amp;page_type=index">{$vs.course_name}
                 {if $lang=='en'}
 			<span class="b">
 				{if $vs.lang=='ja'}(J){else}(E){/if}
@@ -70,7 +70,7 @@
 		{/if}<br>
 		</td>
 		<td class="left">
-        		<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.department_id}">{$vs.department_name}
+        		<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.department_abbr}">{$vs.department_name}
 			</a>
 		</td>
 		<td class="left">
