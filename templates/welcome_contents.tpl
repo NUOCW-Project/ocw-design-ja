@@ -6,7 +6,15 @@
 {include file="com_navi.tpl"}
 
 	<div class="welcome_img">
-		{flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv"}
+		<object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http:// download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="303" height="259">
+		<param name="movie" value="player.swf" />
+		<param name="quality" value="high" />
+		<param name="wmode" value="transparent" />
+		<param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv">
+            
+		<embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
+  </object>
+  
 	</div>
 	<div class="welcome_name">
 	<span class="b">
@@ -19,6 +27,8 @@
 <!--
 	<div class="welcome_vsyllabus">
 		<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0000680/FLASH-FLV/index.html" title="1Ê¬´Ö OCW ¾Ò²ð"><img src="./images/{$lang}/b_video_ocw.jpg" alt="1Ê¬´ÖOCW¾Ò²ð" width="133" height="75"></a> 
+		{flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv"}
+
 	</div>
 -->
 
