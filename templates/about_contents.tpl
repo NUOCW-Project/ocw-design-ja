@@ -67,7 +67,7 @@
 		</p></td></tr><tr>
 
 <td class="center">名古屋大学OCWサポートスタッフ</td>
-		<td class="left_gray"><p>
+		<td class="left"><p>
 		文学部B3 市之瀬由佳<br>
 		文学研究科D3 寺田騰<br>
 		法学部B3 是澤奈津美<br>
@@ -86,7 +86,7 @@
 		シェフィールド大学 サイモン ジョンソン<br>
 		</p></td></tr>
 <tr><td class="center_gray">写真撮影</td>
-		<td class="left"><p>
+		<td class="left_gray"><p>
 		OG 江草洋子
 		</p></td></tr>
 </table>
