@@ -1,241 +1,103 @@
+<img src="./images/ja/header_about.jpg" alt="名大の授業について">
+
+{include file="com_dept.tpl"}
+
+<div id="contents">
+{include file="com_navi.tpl"}
+
 <!-- このSiteの特徴開始 -->
-<div class="about_left" id="about01">
-<img src="./images/{$lang}/t_01site.gif" alt="このSiteについて">
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<h1 class="about">「名大の授業」</h1>
-	<p><span class="b">-インターネット上への教材の無償公開-</span></p>
-	<p>	名古屋大学(総長 &#28661;口道成)は、授業の一部を選び、そこで実際に使われている教材を電子化しインターネット上で無償公開する事業を行っています。</p>
+<table class="about">
+	<tr><td colspan=3><h1>「名大の授業」</h1></td></tr>
+	<tr><td colspan=3><span class="b">インターネット上への教材の無償公開</span></td></tr>
+
+	<tr height=10><td colspan=3></td></tr>
+	<tr><td colspan=3>
+	<p>名古屋大学(総長 &#28661;口道成)は、授業の一部を選び、そこで実際に使われている教材を
+	電子化しインターネット上で無償公開する事業を行っています。</p>
 	<p>これは、授業教材をインターネット上で公開することで、普段は垣間見ることのできない名古屋大学の教育の一端を、社会へ広く情報発信しようとするものです。学生の自学自習教材としての活用だけでなく、教員と学生、教員と学外者、そして教員同士の交流・インタラクションを期待しています。</p>
 	<p>この事業は、名古屋大学オープンコースウェア委員会が運営しており、日本オープンコースウェア・コンソーシアム(JOCW)と連携しています。</p>
-	</div>	<!-- コンテンツセル終了 -->
+	</td></tr>
 
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
-</div>  <!-- センターコンテンツ終了 -->
-
-</div>
-<div class="clear"></div>
 <!-- このSiteの特徴終了 -->
 
-<!-- リンク開始 -->
-<div class="about_left" id="about02">
-<img src="./images/{$lang}/t_02link.gif" alt="リンク">
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="435">
-		<tbody>
-		<tr>
-			<td class="center"><p><img src="./images/{$lang}/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
-			<td><p><a href="http://www.nagoya-u.ac.jp">名古屋大学</a></p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
-			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">オープンコースウェア・コンソーシアム</a></p></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
-			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
-		</tr>
-		</tbody>
-	</table>
-		
-	</div>	<!-- コンテンツセル終了 -->
+<tr height=15><td colspan=3></td></tr>
 
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
+<!-- 利用について開始 -->
+	<tr><td width="105" class="center_gray">掲載資料</td>
+	<td class="left_gray"><p>掲載資料は、<span class="b">非営利の教育目的に限って</span>、コピー、配布、翻訳、編集等を含めてご自由にご利用頂けます。</p>
+	<p>「名大の授業」の講義情報のオリジナル、またはそれを改変したものを配布する際は、必ず原著作者のクレジットを明記して下さい。(次項参照)</p>
+	<p>また、<span class="b">頒布・再頒布</span>の際の利用条件は、
+	<span class="b">「名大の授業」の利用条件に準拠</span>させて下さい。</p></td></tr>
+<tr><td class="center" id="tyosaku">著作権</td>
+	<td class="left"><p>「名大の授業」に掲載されている全ての講義情報の著作権は、名古屋大学及び教材を作成した教員に帰属します。
+	また、本著作権は、これに改変が加えられたものにおいても、引き続き保持されます。</p>
+	<p>講義情報のオリジナル、またはそれを改変したものを配布する際は、以下のような原著作者のクレジットを明記してください。</p>
+	<div class="indent30"><p>「本資料は、名古屋大学の教員○○○○によって作成され、名大の授業Webサイトに掲載された「コースタイトル」
+	(講義の年)をもとに(一部改変して)作成されたものです。</p></div>
+	<div class="indent30"><p>Copyright &copy; 講義の年 教員の氏名」</p></div></td></tr>
+<tr>	
+<td class="center_gray">免責</td>
+	<td class="left_gray"><p>名古屋大学および名古屋大学の教員は、本資料の内容が名古屋大学に求められる学術的水準に見合う正確性、
+	品質を確保するように努めますが、法的には、本資料の正確性、品質、特定の目的に対する適合性、商業化の可能性、権利の非侵害性、
+	その他一切を保障しないものであり、いかなる損害および障害についてもその責任を負いません。</p></td></tr>
 
-</table>
-</div>  <!-- センターコンテンツ終了 -->
-
-</div>
-<div class="clear"></div>
-<!-- リンク終了 -->
+<tr height=40><td colspan=3></td></tr>
 
 <!-- スタッフ紹介開始 -->
-<div class="about_left" id="about03">
-<img src="./images/{$lang}/t_03staff.gif" alt="スタッフ紹介">
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
-	
-	<table class="center_contents" width="435">
-		<tbody>
-		<tr>
-			<td colspan="2">「名大の授業」は、情報メディア教育システム、高等教育研究センター、情報基盤センター、附属図書館の協力のもと、進めている事業です。</td>
-		</tr>
-		<tr>
-			<td class="separate" colspan="2"></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/i_01cims.gif" alt="情報メディア教育システム"></p></td>
-			<td><p><a href="http://www.media.nagoya-u.ac.jp/">情報メディア教育システム</a>は、学習教材の開発支援とその利用環境を提供することで、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_02cshe.gif" alt="高等教育研究センター"></p></td>
-			<td class="left_gray"><p><a href="http://www.cshe.nagoya-u.ac.jp/">高等教育研究センター</a>は、高等教育に関する研究・開発に基づき、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/i_03itc.gif" alt="情報基盤センター"></p></td>
-			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">情報基盤センター</a>は、先進的な情報基盤を提供することで、名古屋大学の教育・研究の質向上に取り組む組織です。</p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="附属図書館"></p></td>
-			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">附属図書館</a>は、従来型図書館機能と電子図書館機能を融合し、その知的資産を提供することで、名古屋大学の教育・研究の質向上に取り組む組織です。</p></td>
-		</tr>
-
-		<tr>
-			<td colspan="2"><p><img src="./images/common/dot_green.gif"></p></td>
-		</tr>
-
-		<tr>
-			<td colspan="2"><h1 class="about_committee">-名古屋大学オープンコースウェア委員会-</h1></td>
-		</tr>
-		<tr>
-			<td class="right" colspan="2">2009年10月1日現在</td>
-		</tr>
-
-		<tr>
-			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="名古屋大学OCW委員会"></p></td>
-			<td>
-			<p>
-			[委員長]副総長 教授 山本一良<br>
-			理事・副総長 教授 杉山寛行<br>
-			総長補佐 教授 戸田山和久<br>
-			情報基盤センター 教授 外池俊幸<br>
-			エコトピア科学研究所 教授 片山正昭<br>
-			情報連携統括本部 情報戦略室 准教授 梶田将司<br>
-			高等教育研究センター 准教授 中井俊樹<br>
-			エコトピア科学研究所 准教授 山里敬也<br>
-			情報基盤センター 准教授 後藤明史<br>
-			附属図書館 研究開発室 助教 三根慎二<br>
-			スタジオ メディアサポーター 原愛樹<br>
-			スタジオ メディアサポーター 古井慎也<br>
-			OCW事務室 事務補佐員 松田智子
-			</p>
-		</tr>
-		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="名古屋大学OCW WG"></p></td>
-			<td class="left_gray">
-			<p>
-			情報連携統括本部 情報戦略室 准教授 梶田将司<br>
-			高等教育研究センター 准教授 中井俊樹<br>
-			エコトピア科学研究所 准教授 山里敬也<br>
-			情報基盤センター 准教授 後藤明史<br>
-			附属図書館 研究開発室 助教 三根慎二<br>
-			スタジオ メディアサポーター 原愛樹<br>
-			スタジオ メディアサポーター 古井慎也<br>
-			情報メディア教育システム 事務補佐員 加藤敦子<br>
-			情報メディア教育システム 事務補佐員 泉明恵<br>
-			OCW事務室 事務補佐員 松田智子
-			</p>
-		</tr>
-               <tr>
-                       <td><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
-			<td>
-			<p>
-      足立真訓<br>
-      市之瀬由佳<br>
-      伊藤大禮<br>
-	江草洋子<br>
-	王 毅駿<br>
-      是澤奈津美<br>
-	サイモン ジョンソン<br>
-      佐藤綾香<br>
-      白石美咲<br>
-      高橋知世<br>
-	高橋光成<br>
-	高橋祐人<br>
-	谷口純一<br>
-      鐘 揚<br>
- 	寺田騰<br>
-     永井哲郎<br>
-      中島康貴<br>
-	中山佳洋<br>
-	林 祐衣<br>
-      福崎怜奈<br>
-      丸地和馬<br>
-	村松沙那恵<br>
-	山岡大祐<br>
-	山本幹人<br>
-	吉田映子<br>
-			</p>
-		</tr>
-		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="写真撮影"></p></td>
-			<td class="left_gray">
-			<p>
-			大学院工学研究科 准教授 長谷川浩
-			</p>
-
-			<p>
-			[ 名古屋大学写真部 ]<br>
-			奥村陽子<br>
-			加藤昭信
-			</p>
-		</tr>
-		
-		
-		</tbody>
-	</table>
-	
-	</div>	<!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
+<tr><td colspan=3><h2>名古屋大学オープンコースウェア委員会</h2></td></tr>
+<tr><td colspan=3 align="right">2010年4月1日現在</td></tr>
+<tr><td class="center_gray">名古屋大学OCW委員会</td>
+		<td class="left_gray"><p>
+		[委員長]副総長 教授 山本一良<br>
+		理事・副総長 教授 杉山寛行<br>
+		総長補佐 教授 戸田山和久<br>
+		情報基盤センター 教授 外池俊幸<br>
+		エコトピア科学研究所 教授 片山正昭<br>
+		情報連携統括本部 情報戦略室 准教授 梶田将司<br>
+		高等教育研究センター 准教授 中井俊樹<br>
+		エコトピア科学研究所 准教授 山里敬也<br>
+		情報基盤センター 准教授 後藤明史<br>
+		附属図書館 研究開発室 助教 三根慎二<br>
+		スタジオ メディアサポーター 原愛樹<br>
+		スタジオ メディアサポーター 古井慎也<br>
+		OCW事務室 事務補佐員 松田智子
+		</p></td></tr><tr>
+<td class="center" id="ocwwg">名古屋大学OCW WG</td>
+		<td class="left"><p>
+		情報連携統括本部 情報戦略室 准教授 梶田将司<br>
+		高等教育研究センター 准教授 中井俊樹<br>
+		エコトピア科学研究所 准教授 山里敬也<br>
+		情報基盤センター 准教授 後藤明史<br>
+		附属図書館 研究開発室 助教 三根慎二<br>
+		スタジオ メディアサポーター 原愛樹<br>
+		スタジオ メディアサポーター 古井慎也<br>
+		情報メディア教育システム 事務補佐員 加藤敦子<br>
+		情報メディア教育システム 事務補佐員 泉明恵<br>
+		OCW事務室 事務補佐員 松田智子
+		</p></td></tr><tr>
+<td class="center_gray">名古屋大学OCWサポートスタッフ</td>
+		<td class="left_gray"><p>
+		文学部B3 市之瀬由佳<br>
+		文学研究科D3 寺田騰<br>
+		法学部B3 是澤奈津美<br>
+		経済学部B2 王 毅駿<br>
+		情報文化学部B4 佐藤綾香<br>
+		情報文化学部B4 高橋知世<br>
+		理学部B2 高橋光成<br>
+		理学部B2 山岡大祐<br>
+		理学部B2 山本幹人<br>
+		理学研究科D1 永井哲郎<br>
+		工学部B4 鐘 揚<br>
+		工学部B2 林祐衣<br>
+		工学部B4 村松沙那恵<br>
+		多元数理科学研究科D1 足立真訓<br>
+		多元数理科学研究科M1 伊藤大禮<br>
+		多元数理科学研究科M2 高橋祐人<br>
+		シェフィールド大学 サイモン ジョンソン<br>
+		</p></td></tr>
+<tr><td class="center">写真撮影</td>
+		<td class="left"><p>
+		OG 江草洋子
+		</p></td></tr>
 </table>
-</div>  <!-- センターコンテンツ終了 -->
-</div>
+
