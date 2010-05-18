@@ -66,7 +66,7 @@
 		スタジオ メディアサポーター 古井慎也<br>
 		</p></td></tr><tr>
 
-<td class="center_gray">名古屋大学OCWサポートスタッフ</td>
+<td class="center">名古屋大学OCWサポートスタッフ</td>
 		<td class="left_gray"><p>
 		文学部B3 市之瀬由佳<br>
 		文学研究科D3 寺田騰<br>
@@ -85,7 +85,7 @@
 		多元数理科学研究科M2 高橋祐人<br>
 		シェフィールド大学 サイモン ジョンソン<br>
 		</p></td></tr>
-<tr><td class="center">写真撮影</td>
+<tr><td class="center_gray">写真撮影</td>
 		<td class="left"><p>
 		OG 江草洋子
 		</p></td></tr>
