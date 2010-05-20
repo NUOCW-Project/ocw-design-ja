@@ -1191,3 +1191,7 @@ h3.special {
   font-size: large;
 }
 
+td.special_movie {
+  width: 130px;
+}
+
