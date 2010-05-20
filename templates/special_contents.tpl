@@ -10,7 +10,13 @@
 </p>
 
 <p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v01.png" alt="ビデオの再生"></a>
+<noscript>（新しいウィンドウを開きます）</noscript>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html"
+   onclick="openWin('http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001029/FLASH-FLV/index.html');return false;"
+   onkeypress="openWin('http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001029/FLASH-FLV/index.html');return false;"
+   title="新しいウィンドウでビデオを再生します" target="flame">
+   <img src="./images/ja/gra10_v01.png" alt="ビデオの再生">
+</a>
 時に楽しく、時にまじめに。 海をこえてメッセージを送る
 経済学部
 </p>
