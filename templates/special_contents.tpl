@@ -9,7 +9,9 @@
 <img src="./images/ja/prj10_gra10.jpg" alt="卒業生に聞きました！名大の授業　名古屋大学での経験からオススメする、名大の授業と在校生へのメッセージ！未来に思いを馳せる新入生・在校生必見です。">
 </p>
 
-<p>
+<table summary="卒業生からのメッセージビデオ一覧">
+<tr class="odd">
+<td>
 <noscript>（新しいウィンドウを開きます）</noscript>
 <a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html"
    onclick="openWin('http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html');return false;"
@@ -17,42 +19,60 @@
    title="新しいウィンドウでビデオを再生します" target="flame">
    <img src="./images/ja/gra10_v01.png" alt="ビデオの再生">
 </a>
-時に楽しく、時にまじめに。 海をこえてメッセージを送る
+</td>
+<td>
+<span class="special_lead">時に楽しく、時にまじめに。 海をこえてメッセージを送る</span>
 経済学部
-</p>
+</td>
+</tr>
 
-<p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001263/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v02.png" alt="ビデオの再生"></a>
-お別れはちょっと切ないけれど、卒業してもずっと友達だよね！
+<tr class="even">
+<td>
+  <a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001263/FLASH-FLV/index.html" target="_blank">
+    <img src="./images/ja/gra10_v02.png" alt="ビデオの再生">
+  </a>
+</td>
+<td>
+<span class="special_lead">お別れはちょっと切ないけれど、卒業してもずっと友達だよね！</span>
 農学部女子
-</p>
+</td>
+</tr>
 
-<p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001266/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v03.png" alt="ビデオの再生"></a>
-授業は世界へつながっている！ 感謝しています。
+<tr class="odd">
+<td>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001266/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v03.png" alt="ビデオの再生"></a></td><td>
+<span class="special_lead">授業は世界へつながっている！ 感謝しています。</span>
 医学系大学院
-</p>
+</td>
+</tr>
 
-<p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001267/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v04.png" alt="ビデオの再生"></a>
-まじめに授業と大学を語ってます！
+<tr class="even">
+<td>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001267/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v04.png" alt="ビデオの再生"></a></td><td>
+<span class="special_lead">まじめに授業と大学を語ってます！</span>
 法学部、理学部
-</p>
+</td>
+</tr>
 
-<p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001268/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v05.png" alt="ビデオの再生"></a>
-バドミントン大好き！ みんなのおかげで楽しい学生生活が送れました。
+<tr class="odd">
+<td>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001268/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v05.png" alt="ビデオの再生"></a></td><td>
+<span class="special_lead">バドミントン大好き！ みんなのおかげで楽しい学生生活が送れました。</span>
 バドミントンサークル
-</p>
+</td>
+</tr>
 
-<p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001269/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v06.png" alt="ビデオの再生"></a>
-さわやかな笑顔が印象的。笑いの要素だって忘れません！
+<tr class="even">
+<td>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001269/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v06.png" alt="ビデオの再生"></a></td><td>
+<span class="special_lead">さわやかな笑顔が印象的。笑いの要素だって忘れません！</span>
 テニスサークル
-</p>
+</td>
+</tr>
 
-<p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001270/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v07.png" alt="ビデオの再生"></a>
-みんなありがとう！ 氷の上の熱い友情、後輩たちに送り出されて卒業する
-アイスホッケー部
-</p>
+<tr class="odd">
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001270/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v07.png" alt="ビデオの再生"></a></td><td>
+<span class="special_lead">みんなありがとう！ 氷の上の熱い友情、後輩たちに送り出されて卒業する</span>
+<h3>アイスホッケー部</h3>
+</tr>
+</table>

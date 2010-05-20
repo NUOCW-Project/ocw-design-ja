@@ -1178,3 +1178,17 @@ div.welcome_contents{
 	top: 360px;
 	margin-bottom: 1000px;
 }
+
+/* ∆√ Ã¥Î≤Ë */
+span.special_lead {
+  color: rgb(51,112,179); 
+}
+
+h3.special {
+	background-image: none;
+  display: inline;
+	padding-left: 0;
+	margin-bottom: 0;
+  font-size: large;
+}
+
