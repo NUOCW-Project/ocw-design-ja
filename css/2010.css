@@ -1103,7 +1103,7 @@ span.red{
 }
 
 .about h1{
-	font-size: xlarge;
+	font-size: x-large;
 	color: #DD0000;
 	margin: 0px;
 }
@@ -1186,9 +1186,9 @@ span.special_lead {
 
 h3.special {
 	background-image: none;
-	padding-left: 0;
-	margin-bottom: 0;
-  font-size: large;
+	padding: 0;
+	margin: 0;
+  font-size: x-large;
 }
 
 td.special_movie {
