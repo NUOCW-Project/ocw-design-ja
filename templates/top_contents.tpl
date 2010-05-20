@@ -16,13 +16,14 @@
 <div class="inline">
 <div id="feature">
   <img src="./images/{$lang}/t_special.png" />
-<!--  <img src="./images/{$lang}/backno.png" class="jump" /> -->
+  <!--  <img src="./images/{$lang}/backno.png" class="jump" /> -->
   <br />
   <img src="./images/common/redline.gif" class="line" />
   <br />
- <a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=farewell"> 
-<img src="./images/{$lang}/prj10_fl10.jpg" id="prj10"/></a><!-- 画像「OCW特別企画」 -->
-</div> <!-- "feature" end -->
+  <!-- 「OCW特別企画」 -->
+  <a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=special"> 
+    <img src="./images/{$lang}/prj10_gra10.jpg" id="prj10" alt="卒業生に聞きました！名大の授業"/>
+  </a></div> <!-- "feature" end -->
     
 <div id="greeting">
   <img src="./images/{$lang}/goaisatu.png" alt="名古屋大学オープンコースウェア委員長山本一良" id="yamamoto" />
