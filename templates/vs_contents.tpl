@@ -43,7 +43,7 @@
 			<a href="{$vs.url_flv}"
 			 onclick="openWin('{$vs.url_flv}');return false;"
 			 onkeypress="openWin('{$vs.url_flv}');return false;"
-			 title="新しいウィンドウを開きます" target="flame">
+			 title="新しいウィンドウを開きます">
 		{/if}
 			{vsyllabus_img id=$vs.vsyllabus_id alt=""}
 		{if $vs.url_flv != NULL}
