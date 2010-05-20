@@ -10,29 +10,29 @@
 </p>
 
 <p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html" target="_blank"><img src="gra10_v01.png" alt="ビデオの再生"></a>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v01.png" alt="ビデオの再生"></a>
 </p>
 
 <p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001263/FLASH-FLV/index.html" target="_blank"><img src="gra10_v02.png" alt="ビデオの再生"></a>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001263/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v02.png" alt="ビデオの再生"></a>
 </p>
 
 <p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001266/FLASH-FLV/index.html" target="_blank"><img src="gra10_v03.png" alt="ビデオの再生"></a>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001266/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v03.png" alt="ビデオの再生"></a>
 </p>
 
 <p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001267/FLASH-FLV/index.html" target="_blank"><img src="gra10_v04.png" alt="ビデオの再生"></a>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001267/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v04.png" alt="ビデオの再生"></a>
 </p>
 
 <p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001268/FLASH-FLV/index.html" target="_blank"><img src="gra10_v05.png" alt="ビデオの再生"></a>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001268/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v05.png" alt="ビデオの再生"></a>
 </p>
 
 <p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001269/FLASH-FLV/index.html" target="_blank"><img src="gra10_v06.png" alt="ビデオの再生"></a>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001269/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v06.png" alt="ビデオの再生"></a>
 </p>
 
 <p>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001270/FLASH-FLV/index.html" target="_blank"><img src="gra10_v07.png" alt="ビデオの再生"></a>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001270/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v07.png" alt="ビデオの再生"></a>
 </p>
