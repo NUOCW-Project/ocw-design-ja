@@ -1,4 +1,4 @@
-<img src="./images/ja/header_about.jpg" alt="名大の授業について">
+<img src="./images/ja/header_special.jpg" alt="特別企画">
 
 {include file="com_dept.tpl"}
 
