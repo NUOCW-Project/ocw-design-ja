@@ -12,7 +12,6 @@
 <table summary="卒業生からのメッセージビデオ一覧">
 <tr class="odd">
 <td class="special_movie">
-<noscript>（新しいウィンドウを開きます）</noscript>
 <a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html"
    onclick="openWin('http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html');return false;"
    onkeypress="openWin('http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html');return false;"
