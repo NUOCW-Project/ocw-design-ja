@@ -40,7 +40,8 @@
 
 <tr class="odd">
 <td>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001266/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v03.png" alt="ビデオの再生"></a></td><td>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001266/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v03.png" alt="ビデオの再生"></a></td>
+<td>
 <span class="special_lead">授業は世界へつながっている！ 感謝しています。</span>
 医学系大学院
 </td>
@@ -48,7 +49,8 @@
 
 <tr class="even">
 <td>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001267/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v04.png" alt="ビデオの再生"></a></td><td>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001267/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v04.png" alt="ビデオの再生"></a></td>
+<td>
 <span class="special_lead">まじめに授業と大学を語ってます！</span>
 法学部、理学部
 </td>
@@ -56,7 +58,8 @@
 
 <tr class="odd">
 <td>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001268/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v05.png" alt="ビデオの再生"></a></td><td>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001268/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v05.png" alt="ビデオの再生"></a></td>
+<td>
 <span class="special_lead">バドミントン大好き！ みんなのおかげで楽しい学生生活が送れました。</span>
 バドミントンサークル
 </td>
@@ -64,15 +67,17 @@
 
 <tr class="even">
 <td>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001269/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v06.png" alt="ビデオの再生"></a></td><td>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001269/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v06.png" alt="ビデオの再生"></a></td>
+<td>
 <span class="special_lead">さわやかな笑顔が印象的。笑いの要素だって忘れません！</span>
 テニスサークル
 </td>
 </tr>
 
 <tr class="odd">
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001270/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v07.png" alt="ビデオの再生"></a></td><td>
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001270/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v07.png" alt="ビデオの再生"></a></td>
+<td>
 <span class="special_lead">みんなありがとう！ 氷の上の熱い友情、後輩たちに送り出されて卒業する</span>
-<h3>アイスホッケー部</h3>
+<h3 class="special">アイスホッケー部</h3>
 </tr>
 </table>
