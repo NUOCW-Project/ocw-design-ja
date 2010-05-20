@@ -74,9 +74,11 @@
 </tr>
 
 <tr class="odd">
+<td class="special_movie">
 <a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001270/FLASH-FLV/index.html" target="_blank"><img src="./images/ja/gra10_v07.png" alt="ビデオの再生"></a></td>
 <td class="special_description">
 <span class="special_lead">みんなありがとう！ 氷の上の熱い友情、後輩たちに送り出されて卒業する</span>
 <h3 class="special">アイスホッケー部</h3>
+</td>
 </tr>
 </table>
