@@ -1195,3 +1195,7 @@ td.special_movie {
   width: 130px;
 }
 
+td.special_description {
+  width: 580px;
+}
+
