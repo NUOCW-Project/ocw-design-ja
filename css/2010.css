@@ -1197,5 +1197,6 @@ td.special_movie {
 
 td.special_description {
   width: 580px;
+  vertical-align: bottom;
 }
 
