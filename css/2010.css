@@ -1182,11 +1182,13 @@ div.welcome_contents{
 /* ∆√ Ã¥Î≤Ë */
 td.special_movie {
   width: 130px;
+  margin: 0;
 }
 
 td.special_description {
   width: 580px;
   vertical-align: bottom;
+  margin: 0;
 }
 
 span.special_lead {
