@@ -1001,7 +1001,6 @@ td.separate{
 	float: right;
 	margin-right: 15px;
 	margin-top: -35px; 
-	border: dotted;
 }
 
 table#menu_list{
@@ -1026,6 +1025,7 @@ table.sorttable{
 	max-width: 690px;
 	/*margin-top: -10px;*/
 	margin-bottom: 50px;	
+	border: dotted;
 }
 
 #dep_introduce{
