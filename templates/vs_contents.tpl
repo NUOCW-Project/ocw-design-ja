@@ -39,7 +39,6 @@
 		<td class="center">{$smarty.foreach.vs_loop.iteration}</td>
 		<td class="center">
 		{if $vs.url_flv != NULL}
-			<noscript>（新しいウィンドウを開きます）</noscript>
 			<a href="{$vs.url_flv}"
 			 onclick="openWin('{$vs.url_flv}');return false;"
 			 onkeypress="openWin('{$vs.url_flv}');return false;"
@@ -60,7 +59,6 @@
 		</td>
 		<td class="center">
 		{if $vs.url_flv != NULL}
-			<noscript>（新しいウィンドウを開きます）</noscript>
 			<a href="{$vs.url_flv}"
 			 onclick="openWin('{$vs.url_flv}');return false;"
 			 onkeypress="openWin('{$vs.url_flv}');return false;"
