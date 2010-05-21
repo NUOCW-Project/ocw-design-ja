@@ -15,6 +15,7 @@
   {include file="sort_selection.tpl"}
   {include file="sort_sort.tpl"}
 {literal}{elseif $is_show_list == 't'}{/literal}
+	aaaaaaaaaaaa test
   {include file="sort_dep_introduce.tpl"}
   {include file="sort_selection.tpl"}
 {literal}{/if}{/literal}
