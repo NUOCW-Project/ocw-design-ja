@@ -9,7 +9,7 @@
 <img src="./images/ja/prj10_gra10.jpg" alt="卒業生に聞きました！名大の授業　名古屋大学での経験からオススメする、名大の授業と在校生へのメッセージ！未来に思いを馳せる新入生・在校生必見です。">
 </p>
 
-<table summary="卒業生からのメッセージビデオ一覧">
+<table summary="卒業生からのメッセージビデオ一覧" class="special">
 <tr class="odd">
 <td class="special_movie">
 <a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001265/FLASH-FLV/index.html"
