@@ -1001,6 +1001,7 @@ td.separate{
 	float: right;
 	margin-right: 15px;
 	margin-top: -35px; 
+	border: dotted;
 }
 
 table#menu_list{
