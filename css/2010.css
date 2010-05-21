@@ -815,7 +815,7 @@ span.b{
         position: relative;
 }
 
-#aboutpodcast_sentence{
+#Aboutpodcast_sentence{
 	padding: 0px;
 	margin: 0px 15.5px 15.5px;
 	position: relative;
@@ -1027,6 +1027,10 @@ table.sorttable{
 	margin-bottom: 50px;	
 }
 
+#dep_introduce{
+	background-image: url("../images/ja/devision.png");
+	background-repeat: no-repeat;
+}
 
 
 /** サイトマップ関連 **/
