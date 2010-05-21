@@ -1007,7 +1007,8 @@ table#menu_list{
 	position: relative;
 	top: -90px;
 	left: 10px;
-	border-spacing: 10px 0px; 
+	border-spacing: 10px 0px
+	border: dotted;; 
 }
 
 #line1{
@@ -1025,7 +1026,6 @@ table.sorttable{
 	max-width: 690px;
 	/*margin-top: -10px;*/
 	margin-bottom: 50px;	
-	border: dotted;
 }
 
 #dep_introduce{
