@@ -1180,18 +1180,6 @@ div.welcome_contents{
 }
 
 /* ∆√ Ã¥Î≤Ë */
-span.special_lead {
-  color: rgb(51,112,179); 
-}
-
-h3.special {
-	background-image: none;
-	padding: 0;
-  padding-top: 3px;
-	margin: 0;
-  font-size: x-large;
-}
-
 td.special_movie {
   width: 130px;
 }
@@ -1200,4 +1188,18 @@ td.special_description {
   width: 580px;
   vertical-align: bottom;
 }
+
+span.special_lead {
+  color: rgb(51,112,179); 
+}
+
+h3.special {
+	background-image: none;
+	padding: 0;
+  padding-top: 3px;
+  padding-bottom: 3px;
+	margin: 0;
+  font-size: x-large;
+}
+
 
