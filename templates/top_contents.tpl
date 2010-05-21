@@ -131,8 +131,12 @@
   <img src="./images/common/dots.png" class="dots" />
     <table>
      <tr>
+	<td class="date2">-2010/05/21</td>
+	<td class="article"><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=special">特別企画「卒業生に聞きました！名大の授業」を公開しました。期間限定の公開です。<img src="./images/common/new.png" class="icon" /></td>
+     </tr>
+     <tr>
 	<td class="date2">-2010/04/12</td>
-	<td class="article"><span>デザインをリニューアルしました。<img src="./images/common/new.png" class="icon" /></span></td>
+	<td class="article">デザインをリニューアルしました。</td>
      </tr>
     </table>
 </div><!-- 「プレスリリーす」 -->
