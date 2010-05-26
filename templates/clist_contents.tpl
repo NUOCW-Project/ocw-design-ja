@@ -15,7 +15,7 @@
   {include file="sort_selection.tpl"}
   {include file="sort_sort.tpl"}
 {literal}{elseif $is_show_list == 't'}{/literal}
-  {include file="sort_dep_introduce.tpl"}
+  {include file="clist_dept_contents.tpl"}
   {include file="sort_selection.tpl"}
 {literal}{/if}{/literal}
 
