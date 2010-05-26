@@ -1,6 +1,6 @@
 {literal}
 <div id="dep_introduce">
-{$depaprtment_abbr}
+{$curr_depaprtment_abbr}
 </div>
 
 {/literal}
