@@ -1,7 +1,8 @@
 <div id="dep_introduce">
 {$curr_department_abbr}
 
-{$department_name}
+{literal}{$department_name}{/literal}
 {$department_url}
+{$description}
 
 </div>
