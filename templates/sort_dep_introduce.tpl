@@ -1,4 +1,4 @@
 <div id="dep_introduce">
-{literal}{$curr_department_abbr}{/literal}
+{$curr_department_abbr}
 {literal}{$on_clist}{/literal}
 </div>
