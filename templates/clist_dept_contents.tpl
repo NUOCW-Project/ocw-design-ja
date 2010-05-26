@@ -2,7 +2,7 @@
 
 <div id="dep_introduce">
 {$lang}
-{$dept_info.description}
+{$dept_info.description.contents}
 {$curr_department_abbr}
 {$dept_info.department_url}
 </div>
