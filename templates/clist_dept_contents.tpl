@@ -1,5 +1,6 @@
 {eval_strip var=$dept_info.description}
 
 <div id="dep_introduce">
-{literal}{$dept_info.description}{/literal}
+{$dept_info.description}
+{$curr_department_abbr}
 </div>
