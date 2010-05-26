@@ -9,8 +9,9 @@
 <td>{$each_name}</td>
 {/foreach} 
 </tr>
-{/literal}
+
 
 {$dept_info.description}
 {$curr_department_abbr}
+{/literal}
 </div>
