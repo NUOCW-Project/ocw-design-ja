@@ -42,7 +42,7 @@
 
 {* 特定部局、コースリスト自動生成 *}
 {literal}
-{elseif $show_list}
+{elseif $is_show_list}
 {/literal}
   {* 部局紹介を掲載する場合 *}
   {if $use_template}
