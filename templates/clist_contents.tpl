@@ -10,6 +10,12 @@
 
 {include file="com_navi.tpl"}
 
+<ul>
+<li>is_show_list: {$is_show_list}
+<li>use_template: {$use_template}
+<li>all_dept: {$all_dept}
+</ul>
+
 {* 全部局、部局別ソート *}
 {literal}
 {if $all_dept and $sort_selected=="all_department"}
