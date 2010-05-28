@@ -46,7 +46,7 @@
 {/literal}
   {* Éô¶É¾Ò²ð¤ò·ÇºÜ¤¹¤ë¾ì¹ç *}
   {if $use_template}
-    {literal}{include file="${lang}/l/${page_type}.tpl"}{/literal}
+    {literal}{include file="$lang/l/$page_type.tpl"}{/literal}
   {/if}
 
   {include file="sort_selection.tpl"}
@@ -56,7 +56,7 @@
 {literal}
 {else}
 {/literal}
-  {literal}{include file="${lang}/l/${page_type}.tpl"}{/literal}
+  {literal}{include file="$lang/l/$page_type.tpl"}{/literal}
 
 {literal}
 {/if}
