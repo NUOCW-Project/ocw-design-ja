@@ -45,9 +45,11 @@
 {elseif $is_show_list}
 {/literal}
   {* Éô¶É¾Ò²ð¤ò·ÇºÜ¤¹¤ë¾ì¹ç *}
+  {literal}
   {if $use_template}
-    {literal}{include file="$lang/l/$page_type.tpl"}{/literal}
+    {include file="$lang/l/$page_type.tpl"}
   {/if}
+  {/literal}
 
   {include file="sort_selection.tpl"}
   {include file="sort_course_table_dep_order.tpl"}
@@ -57,7 +59,6 @@
 {else}
 {/literal}
   {literal}{include file="$lang/l/$page_type.tpl"}{/literal}
-
 {literal}
 {/if}
 {/literal}
