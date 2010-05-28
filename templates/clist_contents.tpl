@@ -10,11 +10,13 @@
 
 {include file="com_navi.tpl"}
 
+{literal}
 <ul>
 <li>is_show_list: {$is_show_list}
 <li>use_template: {$use_template}
 <li>all_dept: {$all_dept}
 </ul>
+{/literal}
 
 {* 全部局、部局別ソート *}
 {literal}
