@@ -55,7 +55,7 @@
   {* Éô¶É¾Ò²ð¤ò·ÇºÜ¤¹¤ë¾ì¹ç *}
   {literal}
   {if $use_template}
-    {include file="$lang/l/$page_type.tpl"}
+    {include file="$lang/l/$page_type_info_short.tpl"}
   {/if}
   {/literal}
 
