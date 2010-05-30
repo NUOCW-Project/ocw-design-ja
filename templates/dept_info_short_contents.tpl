@@ -1,4 +1,6 @@
 <div id="dep_introduce">
-{eval_strip var=$dept_info.description}
+aaaaaaaaa
+{*{eval_strip var=$dept_info.description} *}
 {$dept_info.department_url}
+
 </div>
