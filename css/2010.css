@@ -1049,7 +1049,7 @@ table.sorttable{
 a#dep_url{
 	position: relative;
 	top: 50px; left: 0px;
-	border : dotted;
+	margin: none;
 }
 
 /** サイトマップ関連 **/
