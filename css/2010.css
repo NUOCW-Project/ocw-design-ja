@@ -1007,8 +1007,7 @@ table#menu_list{
 	position: relative;
 	top: -90px;
 	left: 10px;
-	border-spacing: 10px 0px
-	border: dotted; 
+	border-spacing: 10px 0px;
 }
 
 #line1{
@@ -1037,6 +1036,9 @@ table.sorttable{
 	height: 300px;
 }
 
+#dep_txt{
+	border:dotted;
+}
 
 /** サイトマップ関連 **/
 div.sitemap_contents{
