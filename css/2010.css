@@ -1038,6 +1038,10 @@ table.sorttable{
 	height: 300px;
 }
 
+#dep_introduce h3{
+	display : none;
+}
+
 #dep_txt{
 	position: relative;
 	top: 90px; left: 35px;
