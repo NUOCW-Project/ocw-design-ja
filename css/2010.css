@@ -1039,6 +1039,8 @@ table.sorttable{
 }
 
 #dep_txt{
+	position: relative;
+	top: 30px; left: 50px;
 	border:dotted;
 }
 
