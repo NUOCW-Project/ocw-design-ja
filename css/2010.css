@@ -1047,6 +1047,7 @@ table.sorttable{
 a#dep_url{
 	position: relative;
 	top: 50px; left: 0px;
+	border : dotted;
 }
 
 /** サイトマップ関連 **/
