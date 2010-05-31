@@ -82,6 +82,11 @@
   <img src="./images/common/dots.png" class="dots" />
     <table>
     <tr>
+      <td class="date2">-2010/05/31</td>
+      <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=185&amp;page_type=index">先端文化思想論ab【越智和弘 教授】を公開しました。<img src="./images/common/new.png" class="icon"></a></td>
+    </tr>
+
+    <tr>
       <td class="date2">-2010/05/18</td>
       <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=205&amp;page_type=index">ドイツ語2【西川智之 教授】を公開しました。<img src="./images/common/new.png" class="icon"></a></td>
     </tr>
@@ -100,11 +105,11 @@
       <td class="date2">-2010/03/13</td>
       <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=192&amp;page_type=index"> 発達障害治療学及び実習【辛島千恵子 教授】を公開しました。</a></td>
     </tr>
+<!--
     <tr>
       <td class="date2">-2010/02/27</td>
       <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=193&amp;page_type=index"> 心理・教育の統計学【石井秀宗 准教授】を公開しました。</a></td>
     </tr>
-<!--
     <tr>
       <td class="date2">-2010/02/08</td>
       <td class="article"><a href="index.php?lang=ja&amp;mode=c&amp;id=77&amp;page_type=index">社会行動学講義【高井次郎 教授】を公開しました。</a></td>
