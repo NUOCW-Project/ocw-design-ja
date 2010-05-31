@@ -1040,7 +1040,8 @@ table.sorttable{
 
 #dep_txt{
 	position: relative;
-	top: 30px; left: 50px;
+	top: 70px; left: 40px;
+	width: 100px;
 	border:dotted;
 }
 
