@@ -2,7 +2,8 @@
 <div id="dep_txt">
 {eval_strip var=$dept_info.description|mb_substr:0:100}
 more...
-<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
 
+
+<a href="{$dept_info.department_url}" id="dep_url">{$dept_info.department_name}</a>
 </div>
 </div>
