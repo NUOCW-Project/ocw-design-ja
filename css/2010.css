@@ -53,11 +53,13 @@ a:hover{
 .header{
 	height: 90px; 
 	background-image: url(../images/common/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
+	width: 1300px;
 	background-repeat: no-repeat;
 }
 
 .topheader{
 	height: 110px;
+	width: 1300px;
 	background-image: url(../images/common/topbar_top.jpg);	
 	background-repeat: no-repeat;
 }
