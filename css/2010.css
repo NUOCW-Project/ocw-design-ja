@@ -1044,6 +1044,11 @@ table.sorttable{
 	width: 300px;
 }
 
+a#dep_url{
+	position: relative;
+	top: 50px; left: 0px;
+}
+
 /** サイトマップ関連 **/
 div.sitemap_contents{
 	position: relative;
