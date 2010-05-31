@@ -26,11 +26,10 @@
   </a></div> <!-- "feature" end -->
     
 <div id="greeting">
-  <img src="./images/{$lang}/goaisatu.png" alt="名古屋大学オープンコースウェア委員長山本一良" id="yamamoto" />
-  <p>
-     ここでは普段名大生しか見ることのできない講義資料をたくさん公開しています。
+  <img src="./images/{$lang}/goaisatu.png" 
+		alt="名古屋大学オープンコースウェア委員長山本一良, 
+		     ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。" id="yamamoto" />
      <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
-  </p>
 </div><!-- "greeting" end -->
 </div><!-- "inline" end -->
 
