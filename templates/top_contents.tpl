@@ -22,7 +22,7 @@
   <br />
   <!-- 「OCW特別企画」 -->
   <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=special"> 
-    <img src="./images/{$lang}/prj10_gra10_read.jpg" id="prj10" alt="卒業生に聞きました！名大の授業"/>
+    <img src="./images/{$lang}/prj10_hs10_read.jpg" id="prj10" alt="高校生向けオススメ授業" />
   </a></div> <!-- "feature" end -->
     
 <div id="greeting">
