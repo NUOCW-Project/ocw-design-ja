@@ -99,7 +99,7 @@
   <br />
   <img src="./images/common/dots.png" class="dots" />
     <table>
-    {foreach from=$news_list item="topic"}
+    {foreach from=$pressrelease_list item="topic"}
     <tr>
       <td class="date2">-{$topic.stime|date_format:"%Y/%m/%d"}</td>
       <td class="article">{$topic.contents|strip}
