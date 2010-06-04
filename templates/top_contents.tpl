@@ -84,7 +84,7 @@
     <tr>
       <td class="date2">-{$topic.stime|date_format:"%Y/%m/%d"}</td>
       <td class="article">{$topic.contents|strip}
-      {if $topic.diff_day < 7}<img class="icon" src="./images/common/new.png" alt="new!">{/if}
+      {if $topic.diff_day < 14}<img class="icon" src="./images/common/new.png" alt="new!">{/if}
       </td>
     </tr>
     {/foreach}
@@ -103,7 +103,7 @@
     <tr>
       <td class="date2">-{$topic.stime|date_format:"%Y/%m/%d"}</td>
       <td class="article">{$topic.contents|strip}
-      {if $topic.diff_day < 7}<img class="icon" src="./images/common/new.png" alt="new!">{/if}
+      {if $topic.diff_day < 14}<img class="icon" src="./images/common/new.png" alt="new!">{/if}
       </td>
     </tr>
     {/foreach}
