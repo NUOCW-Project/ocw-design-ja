@@ -524,13 +524,14 @@ table{
 }
 
 .article {
-	padding-left: 11px;
+	margin-left: 11px;
 }
 
 .article a{
 	background: none;
 	display: block;
 	background: none;
+	padding-left: 11px;
 }
 	
 	.article a:hover{
