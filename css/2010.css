@@ -523,11 +523,15 @@ table{
 	vertical-align: top;
 }
 
+.article {
+	padding-left: 11px;
+}
+
 .article a{
 	background: none;
-	padding-left: 11px;
 	display: block;
 	background: none;
+	text-indent: -11px;
 }
 	
 	.article a:hover{
