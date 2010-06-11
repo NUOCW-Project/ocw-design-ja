@@ -13,7 +13,7 @@
 
 	<td><a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a></td>
 	<td>{$each_course.year}</td>
-	<td>{$each_course.instructor_name}</td>
+	<td><a href="index.php?lang=ja&amp;mode=c&amp;">{$each_course.instructor_name}</a></td>
 
 	<td>{$each_course.instructor_id}</td>
 	<td>{$each_course.vsyllabus_id}</td>
