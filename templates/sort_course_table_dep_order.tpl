@@ -16,6 +16,9 @@
 	<td>{$each_course.instructor_name}</td>
 
 	<td>{$each_course.instructor_id}</td>
+	<td>{$each_course.vsyllabus_id}</td>
+	<td>{$each_course.url_flv}</td>
+	
 
 	{if $each_course.date =='t'}
 		<td><img border="0" src="./images/common/new.png"  alt="NEW"></td>
