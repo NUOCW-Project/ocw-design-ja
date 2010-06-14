@@ -516,22 +516,26 @@ table{
 	vertical-align: top;
 }
 
-.article a{
-	background: none;
-	display: block;
-	background: none;
-	padding-left: 11px;
+.article{
+	padding-left: 12px;
 }
+
+	.article a{
+		background: none;
+	/*	display: block;
+		background: none;
+		padding-left: 11px;*/
+	}
 	
 	.article a:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: 0px 3px;
+		background-position: -11px 3px;
 	}
 
 .article span{
-	padding-left: 11px;
-	display: block;
+/*	padding-left: 11px;
+	display: block;*/
 	}
 
 
