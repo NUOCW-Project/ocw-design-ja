@@ -645,10 +645,10 @@ table{
 }
 
 .icon{
-	float: right;
+/*	float: right;
 	display: inline;
 	vertical-align: middle;
-	vertical-align: text-bottom;
+	vertical-align: text-bottom;*/
 }
 
 
