@@ -7,7 +7,7 @@ function method3() {
 	var G = 0;
 	var i = 0;
 
-	while (G <= H){
+	while ((G <= H) && (i<=20)){
 		G = G + $("#no" + i).outerHeight(true);
 		i++;
 	}
