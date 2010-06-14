@@ -4,9 +4,9 @@
 <table  class = "sorttable">
 <tr>
 <th width="50"></th>
-<th width="385">コース名</th>
+<th width="405">コース名</th>
 <th width="60">開講年度</th>
-<th width="150">教員名</th>
+<th width="130">教員名</th>
 <th width="45"></th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses }
@@ -24,10 +24,16 @@
 	{/if}
 	</td>
 	<td>
-	{if $each_course.date =='t'}	
-		<img border="0" src="./images/common/new.png"  alt="NEW">
+{*
+Newのマークをコース名の前か後ろどちらにおこうか。
+	{if $each_course.date =='t'}
+		<img border="0" src="./images/common/new.png" alt="NEW" width="30" height="15">
 	{/if}
+*}
 	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a>
+	{if $each_course.date =='t'}
+		<img border="0" src="./images/common/new.png" alt="NEW" width="30" height="15">
+	{/if}
 	</td>
 	<td>{$each_course.year}</td>
 	<td><a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instructor_name}</a></td>
