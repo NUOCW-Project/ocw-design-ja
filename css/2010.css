@@ -517,11 +517,12 @@ table{
 }
 
 .article{
-	padding-left: 12px;
+
 	background: none;
 }
 
 	.article a{
+		padding-left: 12px;
 		background: none;
 	/*	display: block;
 		background: none;
