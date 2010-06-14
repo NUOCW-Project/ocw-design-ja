@@ -532,7 +532,7 @@ table{
 	.article a:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: -11px 3px;
+		background-position: 0px 3px;
 	}
 
 .article span{
@@ -650,7 +650,7 @@ table{
 
 .icon{
 	width: 30px;
-	height: 12.5px;
+	height: 15px;
 	float: right;
 	display: inline;
 	vertical-align: middle;
