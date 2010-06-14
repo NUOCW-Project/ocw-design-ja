@@ -18,7 +18,7 @@
 		onkeypress="openWin('{$each_course.url_flv}');return false;"
 		title="新しいウィンドウを開きます">
 	{/if}
-//	{vsyllabus_img id=$each_course.vsyllabus_id alt=""}
+{*	{vsyllabus_img id=$each_course.vsyllabus_id alt=""} *}
 	{if $each_course.url_flv != NULL}
 		</a>
 	{/if}
