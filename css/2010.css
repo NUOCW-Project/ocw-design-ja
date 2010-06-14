@@ -645,6 +645,8 @@ table{
 }
 
 .icon{
+	width: 30px;
+	height: 15px;
 	float: right;
 /*	display: inline;
 	vertical-align: middle;
