@@ -298,11 +298,13 @@ a:hover{
 
 #contents{
 /*	float: left;*/
+	border-style: solid;
+	border-width:1px;
 	display: inline;
-	margin: 0px 30px 0px 200px;
+	margin: 0px 30px 0px 0px;
 	background-color: white;
 	padding-bottom: 20px;
-	padding-left: 10px;
+	padding-left: 200px;
 	width: 705px;
 }
 
