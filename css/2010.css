@@ -298,6 +298,7 @@ a:hover{
 
 #contents{
 /*	float: left;*/
+	display: inline;
 	margin: 0px 0px 0px 0px;
 	background-color: white;
 	padding-bottom: 20px;
