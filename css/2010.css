@@ -305,10 +305,6 @@ a:hover{
 	width: 705px;
 }
 
-#contents *{
-	display: inline;
-}
-
 #temp_contents{
 	float: left;
 	position:relative;
