@@ -8,9 +8,9 @@
 <img src="./images/{$lang}/header_lecturenote.jpg" />
 {/if}
 
-<div id="contents"><!-- 中核のボックス -->
-
 {include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->
+
+<div id="contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}<!-- パンくずリスト com_header.tplから移動 -->
 
