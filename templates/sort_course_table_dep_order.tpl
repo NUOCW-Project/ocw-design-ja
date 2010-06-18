@@ -39,12 +39,12 @@
 	<img border="0" src="./images/common/list_note.png" alt="notes" width="20" height="20">
 	</a>
 	{/if}
-	{if $each_course.vsyllabus_id != NULL}
+	{if $each_course.vsyllabus_id !== NULL}
 	<a href="{$each_course.url_flv}"
 	onclick="openWin('{$each_course.url_flv}');return false;"
 	onkeypress="openWin('{$each_course.url_flv}');return false;"
 	title="新しいウィンドウを開きます">
-<img border="0" src="./images/common/list_video.png" alt="notes" width="20" height="20">
+<img border="0" src="./images/common/list_video.png" alt="video" width="20" height="20">
 	</a>
 	{/if}
 	</td>
