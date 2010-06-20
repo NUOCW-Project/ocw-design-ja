@@ -1065,7 +1065,7 @@ a#more{
 	border: dotted;
 }
 
-a#dep_url{
+#dept_txt a#dep_url{
 	position: relative;
 	top: 50px; left: 0px;
 	margin: none;
