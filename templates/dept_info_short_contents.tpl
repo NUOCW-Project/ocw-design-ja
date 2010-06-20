@@ -11,13 +11,10 @@
     <param name="movie" value="player.swf" />
     <param name="quality" value="high" />
     <param name="wmode" value="transparent" />
-    <param name="FlashVars" value="FLV_URL={$dept_info.vs_url}&IMG_URL={$issuance_web_path}/files/{$course_id}/{$course_info.imgfile}" />
+    <param name="FlashVars" value="FLV_URL={$dept_info.vs_url}" />
             
-    <embed src="./player.swf" FlashVars="FLV_URL={$dept_info.vs_url}&IMG_URL={$issuance_web_path}/files/{$course_id}/{$course_info.imgfile}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
+    <embed src="./player.swf" FlashVars="FLV_URL={$dept_info.vs_url}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
   </object>
-  {elseif $course_info.imgfile != ''}
-    <img src="./files/{$course_id}/{$course_info.imgfile}" alt="">
-  {/if}
 </div><!-- "movie" end -->
 
 
