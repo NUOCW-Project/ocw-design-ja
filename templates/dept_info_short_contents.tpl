@@ -14,6 +14,7 @@
     <param name="FlashVars" value="FLV_URL={$dept_info.vs_url}" />
             
     <embed src="./player.swf" FlashVars="FLV_URL={$dept_info.vs_url}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
+{/if}
   </object>
 </div><!-- "movie" end -->
 
