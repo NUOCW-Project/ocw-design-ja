@@ -46,12 +46,6 @@
 {literal}
 {elseif $is_show_list}
 {/literal}
-  {* Éô¶É¾Ò²ð¤ò·ÇºÜ¤¹¤ë¾ì¹ç *}
-  {literal}
-  {if $use_template}
-     {include file="$lang/l/`$page_type`_info_short.tpl"} 
-  {/if}
-  {/literal}
 
   {include file="sort_selection.tpl"}
   {include file="sort_course_table_dep_order.tpl"}
