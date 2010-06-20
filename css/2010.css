@@ -1058,6 +1058,13 @@ table.sorttable{
 	border : dotted;
 }
 
+a#more{
+	position: relative;
+	top: 0px;
+	left: 50px;
+	border: dotted;
+}
+
 a#dep_url{
 	position: relative;
 	top: 50px; left: 0px;
