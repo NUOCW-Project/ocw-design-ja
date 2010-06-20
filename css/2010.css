@@ -1055,10 +1055,10 @@ table.sorttable{
 	top: 90px; left: 35px;
 	width: 300px;
 	height: 100px;
-	border : dotted;
+/**	border : dotted; **/
 }
 
-a#more{
+#dept_txt a#more{
 	position: relative;
 	top: 0px;
 	left: 50px;
