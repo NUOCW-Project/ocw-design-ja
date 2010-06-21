@@ -3,19 +3,26 @@
 <div id="contents">
 {include file="com_navi.tpl"}
 <!-- コンテンツセル開始　-->
-{if $dept_info.vs_url}
-	<div class="dept_info_dean_image">
-	<div class="dept_info_dean_image_in">
-	<a href="{$dept_info.vs_url}" title="1分間部局紹介（ビデオ）">
-    	<img src="./images/{$lang}/b_play_dept.jpg" alt="部局の教育紹介を再生"><br>
-		  {vsyllabus_img id=$dept_info.vs_id alt="`$dept_info.dean_position` `$dept_info.dean_name`"}
-	 	 </a>
-		</div>
-		</div>
-
-	{else}
-
-	<div class="dept_info_dean_text">
+{if $dept_info.vs_url != ''}
+<div class="welcome_img">
+  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http:// download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="303" height="259">
+    <param name="movie" value="player.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="transparent" />
+    <param name="FlashVars" value="FLV_URL={$dept_info.vs_url}" />
+            
+    <embed src="./player.swf" FlashVars="FLV_URL={$dept_info.vs_url}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
+{/if}
+  </object>
+  </div>
+<div class="welcome_name">
+<span class="b">
+		名古屋大学<br>
+		理事 (教育・情報関係担当)<br>
+		副総長<br>
+		オープンコースウェア委員会</span>
+	<p class="welcome_b">委員長 山本 一良</p>
+	</div>
 
 	{if $lang=='ja'}
     {$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
