@@ -26,34 +26,9 @@
   {/if}
 	</div>
 
+{eval var=$dept_info.description|strip}
 
-        <div class="dept_info_dean_text">
-
-        {if $lang=='ja'}
-    {$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
-  {elseif $lang=='en'}
-    {$dept_info.dean_name|strip}<br>
-    {$dept_info.dean_position|strip}
-  	{/if}
-        </div>
-	
-
-   	<div class="dept_info_dean_text">
-
-	{if $lang=='ja'}
-    {$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
-  {elseif $lang=='en'}
-    {$dept_info.dean_name|strip}<br>
-    {$dept_info.dean_position|strip}
-  {/if}
-        </div>
-
-
-	<div class="dept_info_contents_all">
-	{eval var=$dept_info.description|strip}
-	</div>
-
-	<div class="clear"></div>
+<div class="clear"></div>
 
 
 
