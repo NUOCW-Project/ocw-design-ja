@@ -1069,6 +1069,11 @@ a#dep_url{
 	margin: none;
 }
 
+#dep_movie{
+	border: dotted;
+
+}
+
 /** サイトマップ関連 **/
 div.sitemap_contents{
 	position: relative;
