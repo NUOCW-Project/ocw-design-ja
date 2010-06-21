@@ -1040,7 +1040,7 @@ table.sorttable{
 	background-repeat: no-repeat;
 	width: 710px;
 	height: 300px;
-}
+}	
 
 #dep_introduce h2{
 	display : none;
@@ -1053,7 +1053,7 @@ table.sorttable{
 #dep_txt{
 	position: relative;
 	top: 90px; left: 35px;
-	width: 0px;
+	width: 300px;
 	height: 100px;
 	border : dotted; 
 }
