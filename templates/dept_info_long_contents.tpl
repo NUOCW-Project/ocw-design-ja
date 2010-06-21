@@ -24,14 +24,13 @@
 	<p class="welcome_b">委員長 山本 一良</p>
 	</div>
 
-	{if $lang=='ja'}
+{if $lang=='ja'}
     {$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
   {elseif $lang=='en'}
     {$dept_info.dean_name|strip}<br>
     {$dept_info.dean_position|strip}
   {/if}
 	</div>
-	{/if}
 
 
         <div class="dept_info_dean_text">
