@@ -298,9 +298,9 @@ a:hover{
 
 #contents{
 	float: left;
-	border-style: solid;
+	/*border-style: solid;
 	border-width:1px;
-	display: inline;
+	display: inline;*/
 	margin: -25px 0px 0px;
 	background-color: white;
 	padding-bottom: 20px;
