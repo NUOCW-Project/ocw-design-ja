@@ -1055,7 +1055,7 @@ table.sorttable{
 	top: 90px; left: 35px;
 	width: 300px;
 	height: 100px;
-/**	border : dotted; **/
+	border : dotted; 
 }
 
 #dept_txt a#more{
