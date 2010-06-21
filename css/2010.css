@@ -1065,9 +1065,8 @@ a#more{
 
 a#dep_url{
 	position: relative;
-	top: 30px; left: -30px;
+	top: 50px; left: -40px;
 	margin: none;
-	border: dotted;
 }
 
 /** サイトマップ関連 **/
