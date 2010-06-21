@@ -3,7 +3,7 @@
 <div id="contents">
 {include file="com_navi.tpl"}
 
-<div class="center_contents"> 
+<!--<div class="center_contents"> --> 
 <table class="center_contents" width="480" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
@@ -134,4 +134,4 @@
 </tr>
 
 </table>
-</div>  <!-- センターコンテンツ終了 -->
+<!--</div>  <!-- センターコンテンツ終了 -->
