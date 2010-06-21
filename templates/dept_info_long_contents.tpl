@@ -1,3 +1,4 @@
+{include file-"com=dept.tpl"}
 <div class="center_contents"> 
 <table class="center_contents" width="480" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
