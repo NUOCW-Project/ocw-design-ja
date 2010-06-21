@@ -1061,13 +1061,13 @@ table.sorttable{
 a#more{
 	position: relative;
 	top: 0px;
-	left: 0px;
+	left: 700px;
 	border: dotted;
 }
 
 a#dep_url{
 	position: relative;
-	top: 0px; left: 100px;
+	top: 0px; left: 0px;
 	margin: none;
 	border: dotted;
 }
