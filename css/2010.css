@@ -1058,7 +1058,7 @@ table.sorttable{
 	border : dotted; 
 }
 
-#dept_txt a#more{
+a#more{
 	position: relative;
 	top: 0px;
 	left: 50px;
