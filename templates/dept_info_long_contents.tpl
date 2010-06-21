@@ -1,4 +1,4 @@
-{include file-"com=dept.tpl"}
+{include file="com_dept.tpl"}
 <div id="contents">
 {include file="com_navi.tpl"}
 <div class="center_contents"> 
