@@ -1070,8 +1070,9 @@ a#dep_url{
 }
 
 #dep_movie{
-	border: dotted;
-
+	position: absolute;
+	top: 500px;
+	left: 400px;
 }
 
 /** サイトマップ関連 **/
