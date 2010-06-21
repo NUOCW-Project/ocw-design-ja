@@ -1055,12 +1055,13 @@ table.sorttable{
 	top: 90px; left: 35px;
 	width: 300px;
 	height: 100px;
+	border: dotted;
 }
 
 a#more{
 	position: relative;
 	top: -20px;
-	left: 280px;
+	left: 265px;
 }
 
 a#dep_url{
