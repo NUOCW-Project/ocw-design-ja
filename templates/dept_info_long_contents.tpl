@@ -17,18 +17,12 @@
   </div>
 <div class="welcome_name">
 <span class="b">
-		名古屋大学<br>
-		理事 (教育・情報関係担当)<br>
-		副総長<br>
-		オープンコースウェア委員会</span>
-	<p class="welcome_b">委員長 山本 一良</p>
-	</div>
-
 {if $lang=='ja'}
-    {$dept_info.dean_position|strip} {$dept_info.dean_name|strip}
+    {$dept_info.dean_position|strip} <br>
+<p class="welcome_b">{$dept_info.dean_name|strip}</p>
   {elseif $lang=='en'}
     {$dept_info.dean_name|strip}<br>
-    {$dept_info.dean_position|strip}
+   <p class="welcome_b"> {$dept_info.dean_position|strip}</p>
   {/if}
 	</div>
 
