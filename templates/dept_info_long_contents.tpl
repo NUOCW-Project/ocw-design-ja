@@ -1,4 +1,4 @@
-{literal}<img src="./images/{$lang}/{$page_type|regrex_replace:"_info)":""}.jpg">{/literal}
+{literal}<img src="./images/{$lang}/{$page_type|regex_replace:"_info)":""}.jpg">{/literal}
 {include file="com_dept.tpl"}
 <div id="contents">
 {include file="com_navi.tpl"}
