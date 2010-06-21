@@ -1,4 +1,4 @@
-<img src="./images/{$lang}/`$dept_info.vs_id`.jpg">
+{literal}<img src="./images/{$lang}/{$page_type|regret_replace:"_info":""}.jpg">{/literal}
 {include file="com_dept.tpl"}
 <div id="contents">
 {include file="com_navi.tpl"}
