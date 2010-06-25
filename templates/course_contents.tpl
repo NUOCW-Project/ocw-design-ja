@@ -1,5 +1,3 @@
-var_dump($page_format);
-
 {if $page_format.tpl_name=='index'}
 <img src="./images/{$lang}/header_coursehome.jpg" />
 {/if}
