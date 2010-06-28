@@ -297,6 +297,9 @@ a:hover{
 			}
 
 #contents{
+	position: relative;
+	top: -20px;
+
 	float: left;
 	/*border-style: solid;
 	border-width:1px;
