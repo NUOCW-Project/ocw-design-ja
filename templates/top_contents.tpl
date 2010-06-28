@@ -76,7 +76,7 @@
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
   <img src="./images/{$lang}/t_news.png" class="subheading" />
-<!--  <img src="./images/{$lang}/backno.png" class="jump" /> -->
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" /></a>
   <br />
   <img src="./images/common/dots.png" class="dots" />
     <table>
@@ -95,7 +95,7 @@
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
   <img src="./images/{$lang}/t_release.png" class="subheading" />
-<!--      <img src="./images/{$lang}/backno.png" class="jump" /> -->
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" /></a>
   <br />
   <img src="./images/common/dots.png" class="dots" />
     <table>
