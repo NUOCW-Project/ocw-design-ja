@@ -2,7 +2,8 @@
 {include file="com_dept.tpl"}
 <div id="contents">
 {include file="com_navi.tpl"}
-<!-- コンテンツセル開始　-->
+
+<!-- 部局紹介のビデオ　-->
 {* {if $dept_info.vs_url != ''}
 <div class="welcome_img">
   <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http:// download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="303" height="259">
@@ -26,6 +27,8 @@
   {/if}
 	</div>
 *}
+<!-- 部局紹介のビデオ終了 -->
+
 {eval var=$dept_info.description|strip}
 
 <div class="clear"></div>
