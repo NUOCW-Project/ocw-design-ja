@@ -522,22 +522,20 @@ table{
 }
 
 .article{
-
+	padding-left: 12px;
 	background: none;
 }
 
 	.article a{
-		padding-left: 12px;
+/*		padding-left: 12px;*/
+		display: block;
 		background: none;
-	/*	display: block;
-		background: none;
-		padding-left: 11px;*/
 	}
 	
 	.article a:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: 0px 3px;
+		background-position: -12px 1px;
 	}
 
 .article span{
