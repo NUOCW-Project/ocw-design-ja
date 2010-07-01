@@ -519,10 +519,10 @@ table{
 .date2{
 	width: 7em;
 	vertical-align: top;
+	margin-right: 12px;
 }
 
 .article{
-	margin-left: 12px;
 	background: none;
 }
 
