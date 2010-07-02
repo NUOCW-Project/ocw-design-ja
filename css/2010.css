@@ -242,8 +242,8 @@ a:hover{
 	width: 160px;
 	padding:0px;
 	margin: 0px 5px 0px 30px;
-	/*position: relative;
-	top: -25px;*/
+	position: relative;
+	top: -25px;
 }
 
 *html #departmentslist{
@@ -279,7 +279,7 @@ a:hover{
 	#menu{
 		position: absolute;
 		bottom: 25px;
-		left: 200px;
+		left: 190px;
 	}
 
 		.menu0{
