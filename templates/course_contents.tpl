@@ -72,18 +72,20 @@
     
 <div id="caption">
   <div id="publisher">
-	 <p> {if $lang=='ja'}開講部局：{else}Department: {/if}{$course_info.department_name}</p>
+   <p> {if $lang=='ja'}開講部局：{else}Department: {/if}{$course_info.department_name}</p>
     <p>{foreach from=$course_info.instructors item=instructor name=instructor}
-   	 <span id="teacher">{$instructor.name}</span> <span id="occupation">{$instructor.position}</span>
-   	  {if !$smarty.foreach.instructor.last}<br>{/if}
+      <span id="teacher">{$instructor.name}</span> <span id="occupation">{$instructor.position}</span>
+       {if !$smarty.foreach.instructor.last}<br>{/if}
      {/foreach}</p>
   </div>
       
   <h2>{$course_info.course_name}</h2>
       
   <div id="data"><!-- 背景灰色のボックス -->
-	  <b>授業時間</b>：{$course_info.year}{$course_info.meeting_time|nl2br}<br>
-	  <b>対象者</b>：{$course_info.class_is_for_ja|nl2br}
+    <b>授業時間</b>：{$course_info.year}{$course_info.f_date_ja} {$course_info.f_time_ja}{$course_info.meeting_time|nl2br}
+    {if $course_info.class_for_ja}<br><b>対象者</b>：{$course_info.class_is_for_ja|nl2br}{/if}
+    {if $course_info.f_place_ja}<br><b>場所</b>：{$course_info.f_place_ja}{/if}
+
   </div>
 </div><!--"caption" end-->
 {/if}    
