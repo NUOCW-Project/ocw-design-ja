@@ -304,7 +304,7 @@ a:hover{
 	/*border-style: solid;
 	border-width:1px;
 	display: inline;*/
-	margin: -25px 0px 0px;
+	margin: 0px;
 	background-color: white;
 	padding-bottom: 20px;
 	padding-left: 10px;
@@ -460,7 +460,7 @@ img#prj10{
 			width: 40%;
 		}
 
-		#no1 td{
+		#no1 td, #no3 td{
 			padding: 1em 0em;
 			background-color: #e7e7df;
 		}	
@@ -470,9 +470,12 @@ img#prj10{
 			background-color: white;
 		}
 
-		#no3 td{
-			padding: 1em 0em;
+		#no5 td, #no7 td, #no9 td, #no11 td, #no13 td, #no15 td, #no17 td, #no19 td{
 			background-color: #e7e7df;
+		}
+
+		#no4 td, #no6 td, #no8 td, #no10 td, #no12 td, #no14 td, #no16 td, #no18 td{
+			background-color: white;
 		}
 
 	.waku{
@@ -527,15 +530,15 @@ table{
 }
 
 	.article a{
-/*		padding-left: 12px;
-		display: block;*/
+		padding-left: 12px;
+		/*display: block;*/
 		background: none;
 	}
 	
 	.article a:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: -6px 1px;
+		background-position: 0px 1px;
 	}
 
 .article span{
