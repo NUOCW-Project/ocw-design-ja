@@ -24,14 +24,13 @@
 	{/if}
 	</td>
 	<td>
-	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a>
+	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}({$each_course.year})</a>
 	{if $each_course.date =='t'}
 		<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">
 		<img border="0" src="./images/common/new.png" alt="NEW" width="30" height="15">
 		</a>
 	{/if}
 	</td>
-	<td>{$each_course.year}</td>
 	<td><a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instructor_name}</a></td>
 	<td>
 	{if $each_course.lectnotes == 't'}
