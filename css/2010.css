@@ -1051,7 +1051,7 @@ a#more{
 	left: 265px;
 }
 
-a#dep_url{
+#dep_url{
 	position: relative;
 	top: 40px; left: -50px;
 	margin: 0px; 
