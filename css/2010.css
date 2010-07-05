@@ -1043,6 +1043,7 @@ table.sorttable{
 	top: 90px; left: 35px;
 	width: 300px;
 	height: 100px;
+	border: dotted;
 }
 
 a#more{
@@ -1055,6 +1056,7 @@ a#dep_url{
 	position: relative;
 	top: 50px; left: -40px;
 	margin: none;
+	border: dotted;
 }
 
 #dep_movie{
