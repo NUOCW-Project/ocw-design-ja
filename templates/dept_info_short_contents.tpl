@@ -3,8 +3,10 @@
 {eval_strip var=$dept_info.description|mb_substr:0:150}
 </p>
 <a href="./index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info" id="more">more...</a>
-<a href="{$dept_info.department_url}" id="dep_url">{$dept_info.department_name}のホームページへ</a>
+<div id="dep_url">
+<a href="{$dept_info.department_url}">{$dept_info.department_name}のホームページへ</a>
 </div>
+</div> <!-- "dep_txt" end -->
 
 <div id="dep_movie">
   {if $dept_info.vs_url != ''}
