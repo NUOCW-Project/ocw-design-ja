@@ -1043,7 +1043,6 @@ table.sorttable{
 	top: 90px; left: 35px;
 	width: 300px;
 	height: 200px;
-	border : dotted;
 }
 
 a#more{
@@ -1055,7 +1054,7 @@ a#more{
 a#dep_url{
 	position: relative;
 	top: 40px; left: -50px;
-	margin: none;
+/*	margin: none; */
 	border: dotted;
 }
 
