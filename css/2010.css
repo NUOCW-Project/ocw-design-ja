@@ -1054,7 +1054,7 @@ a#more{
 
 a#dep_url{
 	position: relative;
-	top: 50px; left: -30px;
+	top: 50px; left: 0px;
 	margin: none;
 	border: dotted;
 }
