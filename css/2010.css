@@ -1054,10 +1054,8 @@ a#more{
 a#dep_url{
 	position: relative;
 	top: 40px; left: -50px;
-/*	margin: none; */
-	padding : 0px;
+	margin: 0px; 
 	border: dotted;
-	display: inline;
 }
 
 #dep_movie{
