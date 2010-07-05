@@ -1057,6 +1057,7 @@ a#dep_url{
 /*	margin: none; */
 	padding : 0px;
 	border: dotted;
+	display: inline;
 }
 
 #dep_movie{
