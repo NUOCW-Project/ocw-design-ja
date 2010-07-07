@@ -1193,6 +1193,10 @@ p.welcome_b{
 	margin: 0;
 }
 
+div.welcome_box{
+  position: relative;
+}
+
 div.welcome_img{
 	text-align: center;
 	margin: 0;
@@ -1201,7 +1205,7 @@ div.welcome_img{
 
 div.welcome_name{
 	position: absolute;
-	top: 230px;
+	top: 210px;
 	left: 520px;
 	padding: 0;
 	margin: 0;
