@@ -45,7 +45,7 @@
 
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=3><h2>名古屋大学オープンコースウェア委員会</h2></td></tr>
-<tr><td colspan=3 align="right">2010年4月1日現在</td></tr>
+<tr><td colspan=3 align="right">2010年7月1日現在</td></tr>
 <tr><td class="center_gray">名古屋大学OCW委員会</td>
 		<td class="left_gray"><p>
 		[委員長]副総長 教授 山本一良<br>
@@ -64,6 +64,8 @@
 
 		スタジオ メディアサポーター 原愛樹<br>
 		スタジオ メディアサポーター 古井慎也<br>
+
+    OCW事務室 事務補佐員 後藤綾子<br>
 		</p></td></tr><tr>
 
 <td class="center">名古屋大学OCWサポートスタッフ</td>
@@ -74,15 +76,16 @@
 		情報文化学部B4 佐藤綾香<br>
 		情報文化学部B4 高橋知世<br>
 		理学部B2 高橋光成<br>
-		理学部B2 山岡大祐<br>
 		理学部B2 山本幹人<br>
 		理学研究科D1 永井哲郎<br>
 		工学部B4 鐘 揚<br>
 		工学部B2 林祐衣<br>
 		工学部B4 村松沙那恵<br>
+    工学研究科M1 白木康建<br>
 		多元数理科学研究科D1 足立真訓<br>
 		多元数理科学研究科M1 伊藤大禮<br>
 		多元数理科学研究科M2 高橋祐人<br>
+    NUPACE短期留学生 アリス ウォルサー<br> 
 		シェフィールド大学 サイモン ジョンソン<br>
 		</p></td></tr>
 <tr><td class="center_gray">写真撮影</td>
