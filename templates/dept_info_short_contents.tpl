@@ -1,6 +1,6 @@
 <div id="dep_introduce">
 <div id="dep_txt">
-{eval_strip var=$dept_info.description tags=TRUE trunc=150}...
+{eval_strip var=$dept_info.description del_ptag=TRUE trunc=150}...
 </p>
 <a href="./index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info" id="more">more...</a>
 <div id="dep_url">
