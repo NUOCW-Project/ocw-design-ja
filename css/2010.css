@@ -1030,11 +1030,7 @@ table.sorttable{
 	height: 300px;
 }	
 
-#dep_introduce h2{
-	display : none;
-}
-
-#dep_introduce h3{
+#dep_introduce h2, h3, h4{
 	display : none;
 }
 
