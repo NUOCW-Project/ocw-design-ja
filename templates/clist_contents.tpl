@@ -4,6 +4,8 @@
 {else}<img src="./images/{$lang}/all.jpg" />{/if}
 {/literal}
 
+    <div id="package2"><!-- #contents配置調整 firefox対応" -->
+
 
 {include file="com_dept.tpl"}
 {*
@@ -66,3 +68,4 @@
 {/if}
 {/literal}
 
+</div> <!-- "package2" end -->

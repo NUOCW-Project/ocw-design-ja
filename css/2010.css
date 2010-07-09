@@ -278,7 +278,7 @@ a:hover{
 	position: relative;/* #menuを絶対配置するため */
 }
 
-#package{
+#package2{
 	overflow: hidden; /* Firefox, Safari対策 */
 	border-style: solid;
 	border-width: 1px;
