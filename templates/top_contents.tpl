@@ -114,6 +114,6 @@
 </div><!-- "inline" -->
 <script type="text/javascript">
 <!--
-	method3();/
-/ -->
+	method3();
+// -->
 </script>
