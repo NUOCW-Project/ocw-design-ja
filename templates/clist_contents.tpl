@@ -4,6 +4,7 @@
 {else}<img src="./images/{$lang}/all.jpg" />{/if}
 {/literal}
 
+
 {include file="com_dept.tpl"}
 {*
 {include file="left_menu_vs.tpl"}
