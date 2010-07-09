@@ -225,9 +225,11 @@ a:hover{
 .main{
 	width: 945px;
 	margin-left: 30px;
-	min-height: 1150px;
+	/* min-height: 1150px; */
 	background-color: white;
 	padding: 0;
+	overflow: hidden; /* floatのクリア */
+	position: relative; /* DWで正常にプレビューできるようにする */
 }
 
 *html .main{
