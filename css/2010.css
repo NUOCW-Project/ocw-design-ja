@@ -244,8 +244,8 @@ a:hover{
 	width: 160px;
 	padding:0px;
 	margin: 0px 5px 0px 30px;
-	position: relative;
-	top: -25px;
+/*	position: relative;
+	top: -25px;			*/
 }
 
 *html #departmentslist{
@@ -280,6 +280,8 @@ a:hover{
 
 #package2{
 	overflow: hidden; /* Firefox, SafariÂÐºö */
+	position: relative;
+	top: -25px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: green;
@@ -306,8 +308,8 @@ a:hover{
 			}
 
 #contents{
-	position: relative;
-	top: -25px;
+/*	position: relative;
+	top: -25px;		*/
 	float: left;
 	margin: 0px;
 	background-color: white;
