@@ -266,7 +266,8 @@ a:hover{
 }
 
 #departmentslist_list li{
-	margin-bottom: -6px; /*画像の隙間をなくしている */
+	/* margin-bottom: -6px; */ /*画像の隙間をなくしている */
+  margin: 0;
   height: 23px;
 }
 
