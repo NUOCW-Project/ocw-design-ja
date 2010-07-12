@@ -54,7 +54,12 @@
 		</td>
 	</tr>
 	<tr id="no{$v.rank}">
-		<td class="rank">{$v.rank}</td>
+		<td class="rank">
+		{if $v.rank<=3}
+			<img src="./images/common/rank0{$v.rank}.png">
+		{else}{$v.rank}
+		{/if}
+		</td>
 		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
 		<td class="name"><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>
 
