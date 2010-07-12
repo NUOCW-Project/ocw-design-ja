@@ -19,8 +19,6 @@
 
 </td></tr>
 
-<tr height=5><td colspan=2></td></tr>
-
 <tr><td colspan=2>
 <h3>公開されている授業教材について</h3>
 
