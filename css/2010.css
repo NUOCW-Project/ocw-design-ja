@@ -265,9 +265,10 @@ a:hover{
 	border-color: #e7e7df;
 }
 
-	#departmentslist_list li{
+#departmentslist_list li{
 	margin-bottom: -6px; /*画像の隙間をなくしている */
-	}
+  height: 23px;
+}
 
 #being{
 	color: red;
