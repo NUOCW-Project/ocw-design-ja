@@ -21,7 +21,7 @@
         <img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="{$each_course.vsyllabus_id}" width="50" height="37">
                 </a>
         {else}
-                <img src="./files/vsyllabus/noimage.png" alt="no_image" width="50" height="37">
+                <img src="./images/common/noimage.png" alt="no_image" width="50" height="37">
         {/if}
 	</td>
         <td>
@@ -32,7 +32,9 @@
         </td>
 
 	{if $id_old !== $each_course.instructor_id }
-		<td id = instructor{$each_course.instructor_id}>{$each_course.instructor_name}</td>
+		<td id = instructor{$each_course.instructor_id} class="center">
+		<a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instructor_name}</a>
+		</td>
 	{else}
 		<td>
 		<a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instructor_name}</a>
@@ -40,7 +42,13 @@
 	{/if}
 	{assign var = 'id_old' value = $each_course.instructor_id}
 
-	<td></td>
+        <td>
+        {if $each_course.exist_lectnotes == 't'}
+        <a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=materials">
+        <img border="0" src="./images/common/list_note.png" alt="notes" width="20" height="20">
+        </a>
+        {/if}
+	</td>
 	</tr>
 {/foreach}
 </table>
