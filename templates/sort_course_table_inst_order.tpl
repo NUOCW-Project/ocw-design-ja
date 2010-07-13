@@ -24,7 +24,7 @@
                 <img src="./files/vsyllabus/no_image.jpg" alt="no_image" width="50" height="37">
         {/if}
 		</td>
-	{if $id_old ! = $each_course.instructor_id }
+	{if $id_old !== $each_course.instructor_id }
 		<td id = instructor{$each_course.instructor_id}>{$each_course.instructor_name}</td>
 	{else}
 		<td>
@@ -35,7 +35,7 @@
 	{assign var = 'id_old' value = $each_course.instructor_id}
 		<td><a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a>({$each_course.year})
 
-	{if $each_course.date =='t'}
+	{if $each_course.date == 't'}
 		<img border="0" src="./images/common/new.png" alt="NEW">
 	{/if}
 	</td>
