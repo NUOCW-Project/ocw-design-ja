@@ -8,9 +8,7 @@
 
 
 {include file="com_dept.tpl"}
-{*
-{include file="left_menu_vs.tpl"}
-*}
+
 <div id="contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}

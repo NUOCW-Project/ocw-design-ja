@@ -28,6 +28,11 @@
 		<td id= instructor{$each_course.instructor_id} >{$each_course.instructor_name}</td>
 	{else}
 		<td>{$each_course.instructor_name}</td>
+{*
+<a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instr\
+uctor_name}</a>
+*}
+
 	{/if}
 	{assign var = 'id_old' value = $each_course.instructor_id}
 		<td><a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a>({$each_course.year})
