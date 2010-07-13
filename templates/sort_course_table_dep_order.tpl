@@ -19,7 +19,7 @@
 	<img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="{$each_course.vsyllabus_id}" width="50" height="37">
 		</a>
 	{else}
-		<img src="./files/vsyllabus/no_image.jpg" alt="no_image" width="50" height="37">
+		<img src="./files/vsyllabus/noimage.png" alt="no_image" width="50" height="37">
 	{/if}
 	</td>
 	<td>
