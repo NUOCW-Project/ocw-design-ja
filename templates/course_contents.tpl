@@ -36,8 +36,9 @@
 {/if}
   </a>
 
-{* 講義資料に表示する情報が無いコースについては、講義資料のタグを表示しない 
+{* 講義資料に表示する情報が無いコースについては、講義資料のタグを表示しない *}
 {if $courselist['courses']['course_id']=={$course_id}}
+{*
 {if $courselist['courses']['exist_lectnotes'] == 't'}
 *}
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=materials">
@@ -51,8 +52,9 @@
   </a>
 {*
 {/if}
-{/if}
 *}
+{/if}
+
 
 {/strip}
 <br />
