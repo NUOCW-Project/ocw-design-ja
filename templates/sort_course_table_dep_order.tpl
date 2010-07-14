@@ -15,15 +15,15 @@
 		<a href="{$each_course.url_flv}"
 		onclick="openWin('{$each_course.url_flv}');return false;"
 		onkeypress="openWin('{$each_course.url_flv}');return false;"
-		title="新しいウィンドウを開きます">
-	<img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="{$each_course.vsyllabus_id}" width="50" height="37">
+		title="新しいウィンドウでビデオを開きます">
+	<img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="video" width="50" height="37">
 		</a>
 	{else}
-		<img src="./images/common/noimage.png" alt="no_image" width="50" height="37">
+		<img src="./images/common/noimage.png" alt="no video" width="50" height="37">
 	{/if}
 	</td>
 	<td>
-	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a>({$each_course.year})
+	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a> ({$each_course.year})
 	{if $each_course.date =='t'}
 		<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">
 		<img border="0" src="./images/common/new.png" alt="NEW" width="30" height="15">
@@ -38,16 +38,6 @@
 	</a>
 	{/if}
 
-{*
-	{if $each_course.vsyllabus_id !== NULL}
-	<a href="{$each_course.url_flv}"
-	onclick="openWin('{$each_course.url_flv}');return false;"
-	onkeypress="openWin('{$each_course.url_flv}');return false;"
-	title="新しいウィンドウを開きます">
-<img border="0" src="./images/common/list_video.png" alt="video" width="20" height="20">
-	</a>
-	{/if}
-*}
 	</td>
 	</tr>
 {/foreach}
