@@ -15,7 +15,11 @@
   <ul class="navi">
     <li><br></li>
   {/if}
+
+  {if $abbr!="empty"}
     <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">¢¢{$dept.department_name}</a></li>
+  {/if}
+
   {if $smarty.foreach.navigation.last}
   </ul>
   {/if}
