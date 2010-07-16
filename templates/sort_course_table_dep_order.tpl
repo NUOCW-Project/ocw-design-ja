@@ -4,8 +4,8 @@
 <table  class = "sorttable">
 <tr>
 <th width="50">1分間<br>紹介</th>
-<th width="405">コース名(開講年度)</th>
-<th width="130">教員名</th>
+<th width="475">コース名(開講年度)</th>
+<th width="150">教員名</th>
 <th width="45">講義<br>資料</th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses}
