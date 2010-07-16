@@ -4,8 +4,8 @@
 <table  class = "sorttable">
 <tr>
 <th width="50">1分間<br>紹介</th>
-<th width="455">コース名(開講年度)</th>
-<th width="140">教員名</th>
+<th width="425">コース名(開講年度)</th>
+<th width="135">教員名</th>
 <th width="45">講義<br>資料</th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses}
@@ -22,15 +22,15 @@
 		<img src="./images/common/noimage.png" alt="no video" width="50" height="37">
 	{/if}
 	</td>
-	<td width="455">
+	<td width="425">
 	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a> ({$each_course.year})
 	{if $each_course.date =='t'}
 		<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">
 		<img border="0" src="./images/common/new.png" alt="NEW" width="30" height="15">
 		</a>
 	{/if}
-	</td width="140">
-	<td><a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#{$each_course.instructor_id}">{$each_course.instructor_name}</a></td>
+	</td width="135">
+	<td><a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instructor_name}</a></td>
 	<td width="45" class = "center">
 	{if $each_course.exist_lectnotes == 't'}
 	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=materials">

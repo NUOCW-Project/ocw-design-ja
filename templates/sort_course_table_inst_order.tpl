@@ -4,15 +4,15 @@
 <table class = "sorttable" >
 <tr>
 <th width="50">1分間<br>紹介</th>
-<th width="405">コース名(開講年度)</th>
-<th width="130">教員名</th>
+<th width="425">コース名(開講年度)</th>
+<th width="135">教員名</th>
 <th width="45">講義<br>資料</th>
 </tr>
 
 {foreach item = each_course  from = $result.courses name = $result.title} 
 	<tr class="{cycle name = $result.title values='odd,even'}">
 
-        <td>
+        <td width="50">
         {if $each_course.vsyllabus_id != NULL}
                 <a href="{$each_course.url_flv}"
                 onclick="openWin('{$each_course.url_flv}');return false;"
@@ -24,7 +24,7 @@
                 <img src="./images/common/noimage.png" alt="no video" width="50" height="37">
         {/if}
 	</td>
-        <td>
+        <td width="425">
 	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a> ({$each_course.year})
         {if $each_course.date == 't'}
                 <img border="0" src="./images/common/new.png" alt="NEW">
@@ -32,11 +32,11 @@
         </td>
 
 	{if $id_old !== $each_course.instructor_id }
-		<td id = instructor{$each_course.instructor_id}>
+		<td width="135" id = instructor{$each_course.instructor_id}>
 		<a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instructor_name}</a>
 		</td>
 	{else}
-		<td>
+		<td width="45">
 		<a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instructor_name}</a>
 		</td>
 	{/if}
