@@ -452,8 +452,10 @@ img#prj10{
 		}
 
 		.name{
-			width: 40%;
+			width: 30%;
 			padding-left: 1em;
+			border-style: dashed;
+			boeder-width: 1px;
 		}
 
 		#no1 td, #no3 td{
