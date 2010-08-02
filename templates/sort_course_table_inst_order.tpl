@@ -6,7 +6,7 @@
 <th width="50">1分間<br>紹介</th>
 <th width="425">コース名(開講年度)</th>
 <th width="135">教員名</th>
-<th width="45">講義<br>資料</th>
+<th width="45">講義<br>ノート</th>
 </tr>
 
 {foreach item = each_course  from = $result.courses name = $result.title} 
