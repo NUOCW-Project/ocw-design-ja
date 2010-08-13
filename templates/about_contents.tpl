@@ -1,11 +1,13 @@
+<!--
 <img src="./images/ja/header_about.jpg" alt="名大の授業について">
 
-    <div id="package2"><!-- #contents配置調整 firefox対応" -->
+    <div id="package2"><!-- #contents配置調整 firefox対応" 
 
 {include file="com_dept.tpl"}
 
 <div id="contents">
 {include file="com_navi.tpl"}
+-->
 
 <!-- このSiteの特徴開始 -->
 <table class="about">

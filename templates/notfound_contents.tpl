@@ -1,9 +1,11 @@
+<!--
 <img src="./images/ja/header_notfound.jpg" alt="ページが見つかりません">
 
 {include file="com_dept.tpl"}
 
-<div id="contents"><!-- 中核のボックス -->
+<div id="contents"><!-- 中核のボックス 
 {include file="com_navi.tpl"}
+-->
 
 <h1 class="notfound">404 Not Found</h1>
 

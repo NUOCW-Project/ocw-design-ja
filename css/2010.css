@@ -272,10 +272,10 @@ a:hover{
 	color: red;
 }
 
-#header_for_top{
+/*#header_for_top{
 	height: 400px;
-	position: relative;/* #menuを絶対配置するため */
-}
+	position: relative; #menuを絶対配置するため 
+}*/
 
 #package2{
 	overflow: hidden; /* Firefox, Safari対策 */
@@ -288,7 +288,7 @@ a:hover{
 
 	#menu{
 		position: absolute;
-		bottom: 25px;
+		top: 310px;
 		left: 190px;
 	}
 
@@ -557,14 +557,14 @@ table{
 
 	#teacher{
 		font-size: xx-large;
-		font-family: serif;/* 明朝体 */
+		font-family: "MS 明朝",serif;/* 明朝体 */
 		padding-top: 12px;
 		padding-bottom: 5px;
 	}
 
 	#occupation{
 		font-size: medium;
-		font-family: serif;/* 明朝体 */
+		font-family: "MS 明朝",serif;/* 明朝体 */
 	}
 
 	#data{
