@@ -1,6 +1,5 @@
 {* 「名大の授業について」のテンプレート *}
 {include file="com_header.tpl"}
-{include file="com_subheader.tpl"}
 {if $lang =="ja"}
   {include file="about_contents.tpl"}
 {elseif $lang == "en"}

@@ -1,4 +1,3 @@
-<--
 <div id="header_for_top">
 	<img src="./images/{$lang}/header_top01.jpg" />
 	<div id="menu">	
@@ -10,7 +9,6 @@
 </div><!-- "header_for_top" end -->
 
 {include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->
--->
 
 <div id="contents">
 

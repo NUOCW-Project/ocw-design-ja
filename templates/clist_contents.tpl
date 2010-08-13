@@ -1,4 +1,3 @@
-<!--
 {literal}
 {if $page_type != ""}
 <img src="./images/{$lang}/{$page_type}.jpg" />
@@ -13,7 +12,6 @@
 <div id="contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}
--->
 
 {* 全部局、部局別ソート *}
 {literal}

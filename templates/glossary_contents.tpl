@@ -1,11 +1,9 @@
-<!--
 <img src="./images/ja/header_glossary.jpg" alt="用語解説">
 
 {include file="com_dept.tpl"}
 
 <div id="contents">
 {include file="com_navi.tpl"}
--->
 
 <div id="main_text">
 	<h2>授業関連</h2>
