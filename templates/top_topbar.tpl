@@ -44,4 +44,4 @@
 {/strip}
 <div class="main_back"><!--  右側部分背景 -->
   <div class="main"><!-- 最上部ヘッダー以外 -->
-
+    <div id="package"> <!-- #contents配置調整 firefox対応" -->
