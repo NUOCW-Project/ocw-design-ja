@@ -1,11 +1,9 @@
-<!--
 <img src="./images/ja/header_glossary.jpg" alt="用語解説">
 
 {include file="com_dept.tpl"}
 
 <div id="contents">
 {include file="com_navi.tpl"}
--->
 
 <div id="main_text">
 	<h2>授業関連</h2>
@@ -53,5 +51,5 @@
 		<li><a href="http://ocw.nagoya-u.jp/index.html" target="_blank">名大の授業</a>はこのサイトです。名古屋大学の授業を一部選び、そこで実際に使われている教材を電子化しインターネット上で無償公開しています。</li>
 		</ul></p>
 	</div>
-	</div>
+</div>
 </div>	

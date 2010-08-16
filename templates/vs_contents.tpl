@@ -1,4 +1,3 @@
-<!--
 <img src="./images/{$lang}/header_vs.jpg" />
 
 {include file="left_menu_vs.tpl"}
@@ -6,7 +5,6 @@
 <div id="contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}
--->
 
 <div class = "course_contents"><!-- コンテンツセル開始 -->
 	<table class = "center_contents" width="98%">
