@@ -1,11 +1,9 @@
-<!--
 <img src="./images/ja/header_special.jpg" alt="特別企画">
 
 {include file="com_dept.tpl"}
 
 <div id="contents">
 {include file="com_navi.tpl"}
--->
 
 <p>
 <img src="./images/ja/prj10_hs10.jpg" alt="高校生向けオススメ授業　高校生の方でも楽しんでもらえる教材をOCWサポートスタッフ(学生制作スタッフ)が紹介します。">

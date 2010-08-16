@@ -67,4 +67,4 @@
 
 	<!-- ------Related Link部分ここまで------ -->
 	</div>	<!-- コンテンツセル終了 -->
-<!-- </div> "package2" end -->
+</div><!-- "package2" end -->
