@@ -1,3 +1,4 @@
+<!--
 {if $page_format.tpl_name=='index'}
 <img src="./images/{$lang}/header_coursehome.jpg" />
 {/if}
@@ -8,13 +9,14 @@
 <img src="./images/{$lang}/header_lecturenote.jpg" />
 {/if}
 
-    <div id="package2"><!-- #contents配置調整 firefox対応" -->
+    <div id="package2"><!-- #contents配置調整 firefox対応" 
 
-{include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->
+{include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 
 
-<div id="contents"><!-- 中核のボックス -->
+<div id="contents"><!-- 中核のボックス 
 
-{include file="com_navi.tpl"}<!-- パンくずリスト com_header.tplから移動 -->
+{include file="com_navi.tpl"}<!-- パンくずリスト com_header.tplから移動 
+-->
 
 {strip}
   <!-- onMouseは作ったがリンクは貼ってない（メモ） -->
@@ -101,4 +103,4 @@
     {/if}
   {/foreach}
 </div><!--"main_text" end-->
-</div><!-- "package2" end -->
+<!-- </div> "package2" end -->
