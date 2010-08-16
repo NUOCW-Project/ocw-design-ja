@@ -1,9 +1,11 @@
+<!--
 <img src = "./images/ja/header_help.jpg" alt="ヘルプ">
 
 {include file="com_dept.tpl"}
 
 <div id="contents">
 {include file="com_navi.tpl"}
+-->
 
 <div class="faq_normal">
 	<p>以下は名大の授業に関するFAQ(よくある質問)と、その答えです。</p>

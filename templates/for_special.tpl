@@ -1,5 +1,6 @@
 {* 「特別企画」のテンプレート *}
 {include file="com_header.tpl"}
+{include file="com_subheader.tpl"}
 {if $lang =="ja"}
   {include file="special_contents.tpl"}
 {elseif $lang == "en"}

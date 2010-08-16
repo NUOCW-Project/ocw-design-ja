@@ -1,10 +1,11 @@
+<!--
 <img src ="./images/ja/header_inquiry.jpg" alt="お問い合わせ">
 
 {include file="com_dept.tpl"}
 
 <div id="contents"> 
 {include file="com_navi.tpl"}
-
+-->
 	<p>「名大の授業」についてのお問合せは以下のフォームからお願いします。</p>
 	<p>ご意見・ご質問をお待ちしております。</p>
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>

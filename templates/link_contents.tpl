@@ -1,9 +1,11 @@
+<!--
 <img src="./images/ja/header_link.jpg" alt="リンク">
 
 {include file="com_dept.tpl"}
 
 <div id="contents"> 
 {include file="com_navi.tpl"}
+-->
 
 <!-- リンク開始 -->
 <table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
