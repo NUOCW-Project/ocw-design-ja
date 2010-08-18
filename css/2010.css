@@ -293,7 +293,7 @@ a:hover{
 
 	#menu{
 		position: absolute;
-		top: 0px;
+		top: 285px;
 		left: 190px;
 	}
 
@@ -1076,7 +1076,7 @@ a#more{
 #dep_movie{
 	position: absolute;
 	top: 80px;
-	left: 390px;
+	left: 500px;
 }
 
 /** サイトマップ関連 **/
