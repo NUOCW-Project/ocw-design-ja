@@ -287,9 +287,9 @@ a:hover{
 }
 
 	#menu{
-		position: absolute;
+		position: relative;/*
 		bottom: 25px;
-		left: 190px;
+		left: 190px;*/
 	}
 
 		.menu0{
