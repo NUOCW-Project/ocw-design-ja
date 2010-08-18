@@ -281,6 +281,7 @@ a:hover{
 	overflow: hidden; /* Firefox, SafariÂÐºö */
 	position: relative;
 	top: -25px;
+	float: left;
 	border-style: solid;
 	border-width: 1px;
 	border-color: green;
