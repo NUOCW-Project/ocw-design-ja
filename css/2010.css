@@ -274,7 +274,11 @@ a:hover{
 
 #header_for_top{
 	height: 400px;
-	position: relative;/* #menuを絶対配置するため */
+	position: relative;
+}
+
+#package{
+	position:relative;/* #menuを絶対配置するため */
 }
 
 #package2{
@@ -288,8 +292,8 @@ a:hover{
 }
 
 	#menu{
-		position: relative;
-		top: -115px;
+		position: absolute;
+		top: 0px;
 		left: 190px;
 	}
 
