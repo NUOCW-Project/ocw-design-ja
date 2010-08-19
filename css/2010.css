@@ -223,7 +223,8 @@ a:hover{
 	}
 
 .main{
-	width: 945px;
+	/*width: 945px;*/
+	margin-right: 30px;
 	margin-left: 30px;
 	/* min-height: 1150px; */
 	background-color: white;
@@ -282,11 +283,10 @@ a:hover{
 }
 
 #package2{
-	overflow: hidden;  /*Firefox, SafariÂÐºö */
+	overflow: hidden; /* Firefox, SafariÂÐºö */
 	position: relative;
 	top: -25px;
 	float: left;
-	margin-right: 30px;
 	/*border-style: solid;
 	border-width: 1px;
 	border-color: green;*/
@@ -313,14 +313,14 @@ a:hover{
 			}
 
 #contents{
+/*	position: relative;
+	top: -25px;		*/
 	float: left;
+	margin: 0px;
 	background-color: white;
 	padding-bottom: 20px;
 	padding-left: 10px;
 	min-width: 705px;
-	border-style: solid;
-	border-width: 1px;
-	border-color: green;
 }
 
 /* IE6 hack */
