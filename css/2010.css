@@ -282,7 +282,7 @@ a:hover{
 }
 
 #package2{
-	overflow: hidden; /* Firefox, SafariÂĞºö */
+	/*overflow: hidden;  Firefox, SafariÂĞºö */
 	position: relative;
 	top: -25px;
 	float: left;
