@@ -4,7 +4,7 @@
   {if $page_type != "*_info"}
     <img src="./images/{$lang}/header_{$page_type}.jpg" />
   {else}	<!-- Éô¶ÉÄ¹¾Ò²ð¤Î¾ì¹ç -->
-    <img src="./images/{$lang}/header_{$page_type|replace:'_info':''}.jpg">
+    <img src="./images/{$lang}/header_{$page_type|replace:'_info':''}.jpg" />
   {/if}
 {else}<img src="./images/{$lang}/header_all.jpg" />{/if}
 
