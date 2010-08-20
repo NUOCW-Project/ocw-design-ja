@@ -357,10 +357,14 @@ body:first-of-type #contents{
 /* 以下トップページ関連 */
 .inline{
 	display: inline-block;
-}/* IE対策 */
+	border-style: dotted;
+	border-width: 1px;
+	border-color: green;
+}
+/* IE対策 */
 .inline{
 	display/**/: block;
-	width: 90%;
+	width: 100%;
 }
 
 #feature{
