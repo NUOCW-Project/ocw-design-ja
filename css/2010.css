@@ -810,12 +810,22 @@ span.b{
 
 /*------------- 1Ê¬´Ö¼ø¶È¾Ò²ð&PodCast -----------*/
 #podcast{
-        float: left;
-        width: 160px;
-        padding: 0px;
-        margin: 0px 5px 0px 40px;
-        position: relative;
-        top: -25px;
+	float: left;
+	width: 160px;
+	padding: 0px;
+	margin: 0px 5px 0px 40px;
+	position: relative;
+	top: -25px;
+	background-color: white;
+}
+
+#podcast_right{
+	float: right;
+	width: 160px;
+	padding: 0px;
+	margin: 0px 5px 0px 40px;
+	position: relative;
+	top: -25px;
 	background-color: white;
 }
 
