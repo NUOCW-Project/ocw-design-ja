@@ -772,25 +772,29 @@ ul#departmentslist a:visited{
 	font-weight: 400;
 }
 
-table.basic, table.farewell{
+table.basic, table.farewell, table.relay {
 	border:0;
 	border-collapse: collapse;
 	white-space:normal;
 }
 
-table.farewell{
+table.relay {
+  clear: right;
+}
+
+table.farewell, table.relay{
   margin:0 10px 25px 0px;
 }
 
-table.basic th, table.farewell th{
+table.basic th, table.farewell, table.relay th{
 	border: 1px solid #999999;
 }
 
-table.basic td, table.farewell td{
+table.basic td, table.farewell, table.relay td{
 	border: 1px solid #999999;
 }
 
-table.basic ul, table.farewell ul{
+table.basic ul, table.farewell, table.relay ul{
 	padding-left: 1em;
 }
 
