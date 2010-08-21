@@ -456,7 +456,7 @@ img#prj10{
 		}
 
 			#rank_table tr{
-				width 100%;
+				width: 100%;
 			}
 
 		.rank{
@@ -890,8 +890,9 @@ td.td_right_gray{
 td.td_top_gray{
 	background-image: url(../images/common/gray02.gif);
 	background-repeat: repeat-x;
-	background-position: top
-	background-color:#eeeeee;}
+	background-position: top;
+	background-color:#eeeeee;
+}
 
 td.td_under_gray{
 	background-image: url(../images/common/gray07.gif);
