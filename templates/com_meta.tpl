@@ -15,10 +15,8 @@
 Nagoya University OpenCourseWare (NU OCW)
 {/if}
 <!-- タイトルに講義情報を入れる -->
-{foreach from=$navi_list item="navi" name=n}
-  {if not $smarty.foreach.n.last}	
+{foreach from=$navi_list item="navi" name=n}	
     | {$navi.text}
-{else}{$navi.text}{/if}
 {/foreach}
 <!-- ここまで -->
 </title>
