@@ -40,7 +40,9 @@
 
 {* 講義資料に表示する情報が無いコースについては、講義資料のタグを表示しない *}
 
-{if $lectnotes == "t"}
+{if $lectnotes == "f"}
+
+{else}
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=materials">
 {if $page_format.tpl_name=='materials'}
 <img src="./images/{$lang}/m03resources_hi.png" id="materials_tag">
