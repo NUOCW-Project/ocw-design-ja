@@ -9,11 +9,6 @@
 <script type="text/javascript" src="./js/openWin.js"></script>
 {if $on_top}<script type="text/javascript" src="./js/setHeight.js"></script>{/if}
 <title>
-{if $lang=='ja'}
-名大の授業 (NU OCW)
-{else}
-Nagoya University OpenCourseWare (NU OCW)
-{/if}
 <!-- タイトルに講義情報を入れる -->
 {* {foreach from=$navi_list item="navi" name=n}	
     | {$navi.text}
@@ -22,7 +17,13 @@ Nagoya University OpenCourseWare (NU OCW)
 | {$navi_list[n].text}
 {/section}
 
+{if $lang=='ja'}
+名大の授業 (NU OCW)
+{else}
+Nagoya University OpenCourseWare (NU OCW)
+{/if}
 <!-- ここまで -->
+
 </title>
 </head>
 <body>
