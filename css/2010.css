@@ -334,7 +334,7 @@ a:hover{
 }
 /* IE7 hack */
 *:first-child+html #contents{
-	max-width: 720px;
+	max-width: 710px;
 }
 /* Safari hack */
 body:first-of-type #contents{
