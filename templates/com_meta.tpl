@@ -19,7 +19,7 @@ Nagoya University OpenCourseWare (NU OCW)
     | {$navi.text}
 {/foreach} *}
 {section name=n loop=$navi_list step=-1}
-| {$navi_list.text}
+| {$navi_list[n].text}
 {/section}
 
 <!-- ここまで -->
