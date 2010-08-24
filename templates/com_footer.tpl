@@ -93,7 +93,7 @@ var pageTracker = _gat._getTracker("UA-nuocw");
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
-*}
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -107,6 +107,7 @@ pageTracker._trackPageview();
   })();
 
 </script>
+*}
 <!-- google analytics end -->
 
 </body>
