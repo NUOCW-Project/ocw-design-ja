@@ -9,13 +9,13 @@
 {/if}
 
     <div id="package2"><!-- #contents配置調整 firefox対応" -->
-{*
+
 {include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->
 
 <div id="contents"><!-- 中核のボックス -->
 
 {include file="com_navi.tpl"}<!-- パンくずリスト com_header.tplから移動 -->
-*}
+
 {strip}
   <!-- onMouseは作ったがリンクは貼ってない（メモ） -->
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
