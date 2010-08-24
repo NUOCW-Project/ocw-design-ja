@@ -9,18 +9,21 @@
 <script type="text/javascript" src="./js/openWin.js"></script>
 {if $on_top}<script type="text/javascript" src="./js/setHeight.js"></script>{/if}
 <title>
+<!-- タイトルに講義情報を入れる -->
+{* {foreach from=$navi_list item="navi" name=n}	
+    | {$navi.text}
+{/foreach} *}
+{section name=n loop=$navi_list step=-1}
+{$navi_list[n].text} |
+{/section}
+
 {if $lang=='ja'}
 名大の授業 (NU OCW)
 {else}
 Nagoya University OpenCourseWare (NU OCW)
 {/if}
-<!-- タイトルに講義情報を入れる -->
-{foreach from=$navi_list item="navi" name=n}
-  {if not $smarty.foreach.n.last}	
-    | {$navi.text}
-  {/if}
-{/foreach}
 <!-- ここまで -->
+
 </title>
 </head>
 <body>
