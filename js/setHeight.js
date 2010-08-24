@@ -1,4 +1,4 @@
-function method3() {	
+window.onload = function() {	
 	var H;
 	H = $("#notice").outerHeight() + $("#press").outerHeight() -8;
 	var cssValue = $("#access div").css("height", H + "px");
