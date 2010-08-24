@@ -1,13 +1,3 @@
-{if $page_format.tpl_name=='index'}
-<img src="./images/{$lang}/header_coursehome.jpg" />
-{/if}
-{if $page_format.tpl_name=='syllabus'}
-<img src="./images/{$lang}/header_syllabus.jpg" />
-{/if}
-{if $page_format.tpl_name=='materials'}
-<img src="./images/{$lang}/header_lecturenote.jpg" />
-{/if}
-
     <div id="package2"><!-- #contents配置調整 firefox対応" -->
 
 <div id="contents"><!-- 中核のボックス -->
