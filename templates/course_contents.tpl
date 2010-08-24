@@ -12,8 +12,6 @@
 
 <div id="contents"><!-- 中核のボックス -->
 
-{include file="com_navi.tpl"}<!-- パンくずリスト com_header.tplから移動 -->
-
 {strip}
   <!-- onMouseは作ったがリンクは貼ってない（メモ） -->
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
