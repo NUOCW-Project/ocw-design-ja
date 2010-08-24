@@ -1,10 +1,8 @@
-<!--
 {literal}<img src="./images/{$lang}/{$page_type|replace:'_info':''}.jpg">{/literal}
     <div id="package2"><!-- #contents配置調整 firefox対応" -->
 {include file="com_dept.tpl"}
 <div id="contents">
 {include file="com_navi.tpl"}
--->
 
 <!-- 部局紹介のビデオ　-->
 {* {if $dept_info.vs_url != ''}
@@ -69,4 +67,4 @@
 
 	<!-- ------Related Link部分ここまで------ -->
 	</div>	<!-- コンテンツセル終了 -->
-<!-- </div> "package2" end -->
+</div><!-- "package2" end -->

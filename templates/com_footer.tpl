@@ -1,7 +1,6 @@
  <!-- 「ページトップへ」 -->
   <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="topjump"  alt="{if $lang=="ja"}ページトップへ{/if}" ></a>
 </div><!--"#contents" end-->
-</div><!-- "package2" end -->
 </div> <!-- "#package" end -->
 
 <div class="footer">
@@ -50,7 +49,7 @@
 	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="1分間授業紹介&amp;Podcast"
 	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a></li>
-    <li><a href="http://www.media.nagoya-u.ac.jp/sc/" target="_blank">
+    <li><a href="http://www.media.nagoya-u.ac.jp/sc/">
 	<img src="./images/{$lang}/c04sc.png" class="size_img" alt="スタジオチャンネル"
 	     onMouseOver="this.src='./images/{$lang}/c04sc_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c04sc.png'"></a></li>
@@ -61,7 +60,7 @@
   </ul>
   
     <div id="proviso"> 
-      <a href="http://www.nagoya-u.ac.jp/" target="_blank"><img src="./images/common/nu.png" class="nu" alt="名大"></a>
+      <a href="http://www.nagoya-u.ac.jp/"><img src="./images/common/nu.png" class="nu" alt="名大"></a>
       <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます</p>
     </div>

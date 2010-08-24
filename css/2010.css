@@ -224,7 +224,6 @@ a:hover{
 
 .main{
 	width: 945px;
-	margin-right: 30px;
 	margin-left: 30px;
 	/* min-height: 1150px; */
 	background-color: white;
@@ -275,26 +274,21 @@ a:hover{
 
 #header_for_top{
 	height: 400px;
-	position: relative;
-}
-
-#package{
-	position:relative;/* #menuを絶対配置するため */
+	position: relative;/* #menuを絶対配置するため */
 }
 
 #package2{
 	overflow: hidden; /* Firefox, Safari対策 */
 	position: relative;
 	top: -25px;
-	float: left;
-	/*border-style: solid;
+	border-style: solid;
 	border-width: 1px;
-	border-color: green;*/
+	border-color: green;
 }
 
 	#menu{
 		position: absolute;
-		top: 285px;
+		bottom: 25px;
 		left: 190px;
 	}
 
@@ -320,10 +314,7 @@ a:hover{
 	background-color: white;
 	padding-bottom: 20px;
 	padding-left: 10px;
-	min-width: 705px;
-	border-style: solid;
-	border-width: 1px;
-	border-color: blue;
+	width: 705px;
 }
 
 /* IE6 hack */
@@ -357,11 +348,7 @@ body:first-of-type #contents{
 /* 以下トップページ関連 */
 .inline{
 	display: inline-block;
-	border-style: dotted;
-	border-width: 1px;
-	border-color: green;
-}
-/* IE対策 */
+}/* IE対策 */
 .inline{
 	display/**/: block;
 	width: 100%;
@@ -456,7 +443,7 @@ img#prj10{
 		}
 
 			#rank_table tr{
-				width: 100%;
+				width 100%;
 			}
 
 		.rank{
@@ -772,29 +759,25 @@ ul#departmentslist a:visited{
 	font-weight: 400;
 }
 
-table.basic, table.farewell, table.relay {
+table.basic, table.farewell{
 	border:0;
 	border-collapse: collapse;
 	white-space:normal;
 }
 
-table.relay {
-  clear: right;
-}
-
-table.farewell, table.relay{
+table.farewell{
   margin:0 10px 25px 0px;
 }
 
-table.basic th, table.farewell, table.relay th{
+table.basic th, table.farewell th{
 	border: 1px solid #999999;
 }
 
-table.basic td, table.farewell, table.relay td{
+table.basic td, table.farewell td{
 	border: 1px solid #999999;
 }
 
-table.basic ul, table.farewell, table.relay ul{
+table.basic ul, table.farewell ul{
 	padding-left: 1em;
 }
 
@@ -814,22 +797,12 @@ span.b{
 
 /*------------- 1分間授業紹介&PodCast -----------*/
 #podcast{
-	float: left;
-	width: 160px;
-	padding: 0px;
-	margin: 0px 5px 0px 40px;
-	position: relative;
-	top: -25px;
-	background-color: white;
-}
-
-#podcast_right{
-	float: right;
-	width: 160px;
-	padding: 0px;
-	margin: 10px 10px 10px 10px;
-	position: relative;
-	top: -25px;
+        float: left;
+        width: 160px;
+        padding: 0px;
+        margin: 0px 5px 0px 40px;
+        position: relative;
+        top: -25px;
 	background-color: white;
 }
 
@@ -890,9 +863,8 @@ td.td_right_gray{
 td.td_top_gray{
 	background-image: url(../images/common/gray02.gif);
 	background-repeat: repeat-x;
-	background-position: top;
-	background-color:#eeeeee;
-}
+	background-position: top
+	background-color:#eeeeee;}
 
 td.td_under_gray{
 	background-image: url(../images/common/gray07.gif);
@@ -1099,7 +1071,7 @@ a#more{
 #dep_movie{
 	position: absolute;
 	top: 80px;
-	left: 560px;
+	left: 390px;
 }
 
 /** サイトマップ関連 **/
