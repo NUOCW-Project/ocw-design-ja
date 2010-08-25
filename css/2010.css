@@ -321,9 +321,6 @@ a:hover{
 	padding-bottom: 20px;
 	padding-left: 10px;
 	min-width: 705px;
-	border-style: solid;
-	border-width: 1px;
-	border-color: blue;
 }
 
 /* IE6 hack */
@@ -357,9 +354,6 @@ body:first-of-type #contents{
 /* 以下トップページ関連 */
 .inline{
 	display: inline-block;
-	border-style: dotted;
-	border-width: 1px;
-	border-color: green;
 }
 /* IE対策 */
 .inline{
@@ -649,7 +643,6 @@ table{
 
 .jump{
 	margin-left: auto;
-	
 }
 
 
