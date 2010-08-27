@@ -1,7 +1,7 @@
 <!-- header画像 page_typeごとに表示 -->
 {literal}
 {if $page_type != ""}
-  {if $page_type|regex_replace:'/^.*_info$/':'' eq ''}
+  {if $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="header_image_info">
   {else}
     <img src="./images/{$lang}/header_{$page_type}.jpg" alt="header_image">
