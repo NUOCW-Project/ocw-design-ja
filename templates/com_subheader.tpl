@@ -2,7 +2,9 @@
 {literal}
 {if $page_type != ""}
   {if $page_type|regex_replace:'/^.*_info$/':'' eq ''}
-    <img src="./images/{$lang}/header_{$page_type}.jpg" />
+    <img src="./images/{$lang}/header_{$page_type|replace:'_info':''}.jpg">
+  {else}
+    <img src="./images/{$lang}/header_{$page_type}.jpg">
   {/if}
 {else}<img src="./images/{$lang}/header_all.jpg" />{/if}
 
