@@ -37,7 +37,11 @@
 	<img border="0" src="./images/common/list_note.png" alt="notes" width="20" height="20">
 	</a>
 	{/if}
-
+	{if $each_course.exist_video == 't'}
+	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=materials">
+	<img border="0" src="./images/common/list_video.png" alt="video" width="20" height="20">
+	</a>
+	{/if}	
 	</td>
 	</tr>
 {/foreach}
