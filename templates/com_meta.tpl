@@ -8,7 +8,7 @@
 <script type="text/javascript" src="./js/toggle.js"></script>
 <script type="text/javascript" src="./js/openWin.js"></script>
 {if $on_top}<script type="text/javascript" src="./js/setHeight.js"></script>{/if}
-{* <script type="text/javascript" src="./js/googleAnalytics.js"></script> *}
+
 <title>
 <!-- タイトルに講義情報を入れる -->
 {* {foreach from=$navi_list item="navi" name=n}	
