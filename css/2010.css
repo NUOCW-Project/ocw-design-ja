@@ -1244,9 +1244,6 @@ div.welcome_name{
 	left: 710px;*/
 	padding: 0;
 	margin: 0;
-	border-style: dotted;
-	border-width: 1px;
-	border-color: green;
 }
 
 div.welcome_contents{
