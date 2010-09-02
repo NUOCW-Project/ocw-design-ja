@@ -1242,6 +1242,7 @@ div.welcome_name{
 	/*position: absolute;
 	top: 210px;
 	left: 710px;*/
+	float: left;
 	padding: 0;
 	margin: 0;
 }
