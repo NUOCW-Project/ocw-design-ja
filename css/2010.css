@@ -1243,6 +1243,9 @@ div.welcome_name{
 	top: 210px;
 	left: 710px;
 	float: left;*/
+	border-style: dotted;
+	border-color: green;
+	border-width: 1px;
 	padding: 0;
 	margin: 0;
 }
