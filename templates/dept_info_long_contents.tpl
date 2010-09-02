@@ -32,6 +32,8 @@
 *}
 <!-- Éô¶É¾Ò²ð¤Î¥Ó¥Ç¥ª½ªÎ» -->
 
+<div class="clear"></div>
+
 {eval var=$dept_info.description|strip}
 
 <div class="clear"></div>
