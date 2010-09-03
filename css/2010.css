@@ -1234,7 +1234,6 @@ div.welcome_img{
 /*	position: absolute;
 	top: 10px;
 	left: 410px;*/
-	float: left;
 	margin-left: 25%;
 	padding: 0;
 }
@@ -1243,7 +1242,6 @@ div.welcome_name{
 	/*position: absolute;
 	top: 210px;
 	left: 710px;*/
-	float: left;
 	width: 30%;
 	border-style: dotted;
 	border-color: green;
