@@ -1239,7 +1239,8 @@ div.welcome_img{
 
 div.welcome_name{
 	position: relative;
-	top: -80px;
+	margin-top: -80px;
+	margin-bottom: 20px;
 	left: 500px;
 	padding: 0;
 }
