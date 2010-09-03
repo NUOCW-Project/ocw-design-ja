@@ -354,6 +354,10 @@ body:first-of-type #contents{
 /* 以下トップページ関連 */
 .inline{
 	display: inline-block;
+	position: relative;
+	border-style: dotted;
+	border-color: green;
+	border-width: 1px;
 }
 /* IE対策 */
 .inline{
@@ -1231,19 +1235,16 @@ div.welcome_box{
 
 div.welcome_img{
 /*	text-align: center;*/
-	position: relative;
-	left: 100px;
+	position: absolute;
+	left: 180px;
 	margin: 0;
 	padding: 0;
 }
 
 div.welcome_name{
-	position: relative;
-	top: -40px;
+	position: absolute;
+	bottom: 0px;
 	left: 500px;
-	border-style: dotted;
-	border-color: green;
-	border-width: 1px;
 	padding: 0;
 	margin: 0;
 }
