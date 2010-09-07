@@ -4,8 +4,8 @@
   {if $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="header_image_info">
 	{if $page_type == "top"}
-	{assign var=img_num value=1|rand:3}
-	<img src="./images/{$lang}/header_top0{imgnum}.jpg" alt="header_top">
+	{assign var=img_num value=1|rand:3} 
+	<img src="./images/{$lang}/header_top0{$img_num}.jpg" alt="header_top">
 	{/if}	
   {else}
     <img src="./images/{$lang}/header_{$page_type}.jpg" alt="header_image">
