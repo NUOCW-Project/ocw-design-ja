@@ -3,7 +3,7 @@
 {if $page_type != ""}
   {if $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="header_image_info">
-  {elseif $is_show_list}
+  {else if $is_show_list}
     <img src="./images/{$lang}/header_{$page_type}.jpg" alt="header_image">
   {else}
   {assign var=img_num value=1|rand:4} 
