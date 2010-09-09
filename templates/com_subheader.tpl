@@ -4,10 +4,10 @@
   {if $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="header_image_info">
   {elseif $is_show_list}
-    <img src="./images/{$lang}/header_{$page_type}.jpg" alt="header_image">
-  {else}
-  {assign var=img_num value=1|rand:4} 
+ {assign var=img_num value=1|rand:4} 
     <img src="./images/{$lang}/header_{$page_type}0{$img_num}.jpg" alt="header_image">
+  {else}
+  <img src="./images/{$lang}/header_{$page_type}.jpg" alt="header_image">
   {/if}
 {else}<img src="./images/{$lang}/header_all.jpg">{/if}
 
