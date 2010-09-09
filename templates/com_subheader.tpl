@@ -3,12 +3,12 @@
 {if $page_type != ""}
   {if $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="header_image_info">
-  {else if $is_show_list}
+  {elseif $is_show_list}
     <img src="./images/{$lang}/header_{$page_type}.jpg" alt="header_image">
   {else}
   {assign var=img_num value=1|rand:4} 
     <img src="./images/{$lang}/header_{$page_type}0{$img_num}.jpg" alt="header_image">
-  {/if}{/if}
+  {/if}
 {else}<img src="./images/{$lang}/header_all.jpg">{/if}
 
 {if $page_type == "top"}
