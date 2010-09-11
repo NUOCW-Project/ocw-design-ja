@@ -287,9 +287,9 @@ a:hover{
 	position: relative;
 	top: -25px;
 	float: left;
-	border-style: solid;
+	/*border-style: solid;
 	border-width: 1px;
-	border-color: green;
+	border-color: green;*/
 }
 
 	#menu{
@@ -322,9 +322,9 @@ a:hover{
 	padding-left: 10px;
 	min-width: 705px;
 	overflow: visible;
-	border-style: solid;
+	/*border-style: solid;
 	border-width: 1px;
-	border-color: blue;
+	border-color: blue;*/
 }
 
 /* IE6 hack */

@@ -1,20 +1,3 @@
-<!--
-{literal}
-{if $page_type != ""}
-<img src="./images/{$lang}/{$page_type}.jpg" />
-{else}<img src="./images/{$lang}/all.jpg" />{/if}
-{/literal}
-
-    <div id="package2"><!-- #contents配置調整 firefox対応" -->
-
-
-{include file="com_dept.tpl"}
-
-<div id="contents"><!-- 中核のボックス -->
-
-{include file="com_navi.tpl"}
--->
-
 {* 全部局、部局別ソート *}
 {literal}
 {if $all_dept and $sort_selected=="all_department"}
