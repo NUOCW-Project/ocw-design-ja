@@ -319,7 +319,7 @@ a:hover{
 	padding-left: 10px;
 	/*margin-right: 20px;*/
 	width: 705px;
-	overflow: hidden;
+	overflow: visible;
 	/*border-style: solid;
 	border-width: 1px;
 	border-color: blue;*/
@@ -406,7 +406,7 @@ img#prj10{
 	border-style: solid;
 	border-width: 3px;
 	border-color: #e7e7df;
-	width: 332px;
+	width: 340px;
 	/*height: 400px;*/
 	margin: 6px 6px 0 0;
 }
