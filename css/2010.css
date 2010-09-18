@@ -1100,12 +1100,13 @@ a#more{
 
 /** サイトマップ関連 **/
 div.sitemap_contents{
-	position: relative;
+	position: absolute;
+	left: 200px;
 	clear: both;
 	/*text-align: center;*/
 	padding-top: 1em;
-	margin-left: 200px;
-	/*margin-right: auto;*/
+	/*margin-left: 0px;
+	margin-right: auto;*/
 	width: 85%;
 }
 
