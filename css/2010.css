@@ -317,7 +317,7 @@ a:hover{
 	background-color: white;
 	padding-bottom: 20px;
 	padding-left: 10px;
-	/*margin-right: 20px;*/
+	margin-right: 20px;
 	width: 705px;
 	overflow: visible;
 	/*border-style: solid;
@@ -1100,12 +1100,11 @@ a#more{
 /** サイトマップ関連 **/
 div.sitemap_contents{
 	position: relative;
-	left: 0px;
 	clear: both;
-	/*text-align: center;*/
+	text-align: center;
 	padding-top: 1em;
-	/*margin-left: 0px;
-	margin-right: auto;*/
+	margin-left: auto;
+	margin-right: auto;
 	width: 85%;
 }
 
