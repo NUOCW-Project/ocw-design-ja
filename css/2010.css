@@ -1100,9 +1100,8 @@ a#more{
 
 /** サイトマップ関連 **/
 div.sitemap_contents{
-	position: absolute;
-	left: 200px;
-	overflow; hidden;
+	position: relative;
+	left: -200px;
 	clear: both;
 	/*text-align: center;*/
 	padding-top: 1em;
