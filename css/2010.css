@@ -280,16 +280,18 @@ a:hover{
 
 #package{
 	position:relative;/* #menuを絶対配置するため */
+	border-style: solid;
+	border-width: 1px;
+	border-color: green;
+	overflow: hidden;
 }
 
 #package2{
-	overflow: hidden; /* Firefox, Safari対策 */
+	overflow: vidible; /* Firefox, Safari対策 */
 	position: relative;
 	top: -25px;
 	float: left;
-	/*border-style: solid;
-	border-width: 1px;
-	border-color: green;*/
+	/**/
 }
 
 	#menu{
