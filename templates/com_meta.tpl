@@ -12,9 +12,6 @@
 
 <title>
 <!-- タイトルに講義情報を入れる -->
-{* {foreach from=$navi_list item="navi" name=n}	
-    | {$navi.text}
-{/foreach} *}
 {section name=n loop=$navi_list step=-1}
 {$navi_list[n].text} |
 {/section}
