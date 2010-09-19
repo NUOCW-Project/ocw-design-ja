@@ -693,12 +693,13 @@ td.topics_date{
 }
 
 .navi{
-	padding-left: 200px;
+	padding-left: 2em;
 	padding-right: 2em;
 	text-align: left;
 	float: left; 
 	list-style-type: none;
 	position: relative;
+	left: 200px;
 	margin: 0px;
 
 }
@@ -1110,7 +1111,7 @@ div.sitemap_contents{
 }
 
 .sitemap_navi{
-	padding-left: 100px;
+	padding-left: 0px;
 	padding-right: 2em;
 	text-align: left;
 	float: left;
