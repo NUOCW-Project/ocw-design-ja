@@ -1110,10 +1110,10 @@ div.sitemap_contents{
 }
 
 .sitemap_navi{
-	padding-left: 0px;
+	padding-left: 100px;
 	padding-right: 2em;
 	text-align: left;
-	float: right;
+	float: left;
 	list-style-type: none;
 	position: relative;
 	margin: 0px;
