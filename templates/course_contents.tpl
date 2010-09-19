@@ -3,12 +3,11 @@
 <div id="contents"><!-- 中核のボックス -->
 
 {strip}
-  <!-- onMouseは作ったがリンクは貼ってない（メモ） -->
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
 {if $page_format.tpl_name=='index'}
-<img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag">
+<img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag" alt="授業ホーム">
 {else}
-  <img src="./images/{$lang}/m01coursehome.png" id="couesehome_tag" 
+  <img src="./images/{$lang}/m01coursehome.png" id="couesehome_tag" alt="授業ホーム" 
        onMouseOver="this.src='./images/{$lang}/m01coursehome_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m01coursehome.png'"><!--タグ画像「授業ホーム」-->
 {/if}
@@ -16,9 +15,9 @@
   
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
 {if $page_format.tpl_name=='syllabus'}
-<img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag">
+<img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
 {else}
-  <img src="./images/{$lang}/m02syllabus.png" 
+  <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
        onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--タグ画像「シラバス」-->
 {/if}
@@ -31,9 +30,9 @@
 {else}
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=materials">
 {if $page_format.tpl_name=='materials'}
-<img src="./images/{$lang}/m03resources_hi.png" id="materials_tag">
+<img src="./images/{$lang}/m03resources_hi.png" id="materials_tag" alt="講義資料">
 {else}
-  <img src="./images/{$lang}/m03resources.png" 
+  <img src="./images/{$lang}/m03resources.png" alt="講義資料"
        onMouseOver="this.src='./images/{$lang}/m03resources_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m03resources.png'"><!--タグ画像「講義資料」-->
 {/if}
@@ -42,7 +41,7 @@
 
 {/strip}
 <br>
-<img src="./images/common/redline.gif" id="line1"><!-- 水平線(上) -->
+<img src="./images/common/redline.gif" id="line1" alt=""><!-- 水平線(上) -->
 
 {* 授業ホームの時のみコース情報を表示 *}
 {if $page_format.tpl_name=="index"}

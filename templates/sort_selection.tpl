@@ -1,7 +1,7 @@
 {literal}
 <form  action="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$page_type}&amp;sort={$sort_selected}" method="post">
 <h2>É½¼¨¤¹¤ë¼ø¶È¤Î¾ò·ï</h2>
-<img src="./images/common/redline.gif" id="line1"/ >
+<img src="./images/common/redline.gif" id="line1" alt="">
 <div id="conditionbox">
 </div>
 <table id= "menu_list"> 
