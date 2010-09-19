@@ -1,19 +1,19 @@
 <div class="inline">
 <div id="feature">
-  <img src="./images/{$lang}/t_special.png" />
-  <!--  <img src="./images/{$lang}/backno.png" class="jump" /> -->
-  <br />
-  <img src="./images/common/redline.gif" class="line" />
-  <br />
+  <img src="./images/{$lang}/t_special.png">
+  <!--  <img src="./images/{$lang}/backno.png" class="jump"> -->
+  <br>
+  <img src="./images/common/redline.gif" class="line">
+  <br>
   <!-- 「OCW特別企画」 -->
   <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=special"> 
-    <img src="./images/{$lang}/prj10_hs10_read.jpg" id="prj10" alt="高校生向けオススメ授業" />
+    <img src="./images/{$lang}/prj10_hs10_read.jpg" id="prj10" alt="高校生向けオススメ授業">
   </a></div> <!-- "feature" end -->
     
 <div id="greeting">
   <img src="./images/{$lang}/goaisatu.png" 
 		alt="名古屋大学オープンコースウェア委員長山本一良, 
-		     ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。" id="yamamoto" />
+		     ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。" id="yamamoto">
      <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div><!-- "greeting" end -->
 </div><!-- "inline" end -->
@@ -21,10 +21,10 @@
 <div class="inline">
 <div id="access">
 <div class="waku"><!-- ボックス「アクセスランキング」 -->
-	<img src="./images/{$lang}/t_ranking.png" class="subheading" />
-	 <br />
- 	<img src="./images/common/dots.png" class="dots" />
-	 <br />
+	<img src="./images/{$lang}/t_ranking.png" class="subheading">
+	 <br>
+ 	<img src="./images/common/dots.png" class="dots">
+	 <br>
 	<table id="rank_table">
 	<tr id="no0">
 		<td class="rank">順位</td>
@@ -49,7 +49,7 @@
 		<td class="name"><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>
 
 	{else}
-		<br />
+		<br>
 			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>		
 	{/if}
 
@@ -65,10 +65,10 @@
 
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
-  <img src="./images/{$lang}/t_news.png" class="subheading" />
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" /></a>
-  <br />
-  <img src="./images/common/dots.png" class="dots" />
+  <img src="./images/{$lang}/t_news.png" class="subheading">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump"></a>
+  <br>
+  <img src="./images/common/dots.png" class="dots">
     <table>
     {foreach from=$news_list item="topic"}
     <tr>
@@ -84,10 +84,10 @@
 
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
-  <img src="./images/{$lang}/t_release.png" class="subheading" />
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" /></a>
-  <br />
-  <img src="./images/common/dots.png" class="dots" />
+  <img src="./images/{$lang}/t_release.png" class="subheading">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump"></a>
+  <br>
+  <img src="./images/common/dots.png" class="dots">
     <table>
     {foreach from=$pressrelease_list item="topic"}
     <tr>

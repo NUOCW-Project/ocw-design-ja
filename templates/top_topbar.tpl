@@ -7,17 +7,17 @@
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
         <img src="./images/common/h01sitemap.png" alt="Sitemap" 
              onMouseOver="this.src='./images/common/h01sitemap_on.png'" 
-             onMouseOut="this.src='./images/common/h01sitemap.png'"/>
+             onMouseOut="this.src='./images/common/h01sitemap.png'">
         </a><!-- お問い合わせのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">
         <img src="./images/common/h02inquiry.png" alt="Inquiry" 
              onMouseOver="this.src='./images/common/h02inquiry_on.png'"
-             onMouseOut="this.src='./images/common/h02inquiry.png'"/>
+             onMouseOut="this.src='./images/common/h02inquiry.png'">
         </a><!-- ヘルプへのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">
         <img src="./images/common/h03help.png" alt="Help" 
              onMouseOver="this.src='./images/common/h03help_on.png'" 
-             onMouseout="this.src='./images/common/h03help.png'"/>
+             onMouseout="this.src='./images/common/h03help.png'">
         </a>
         <div class="header_button_sub"><!-- 最上部ヘッダー部分を２つに分けた -->
           <!-- Englishボタン -->
@@ -25,7 +25,7 @@
           <!-- AKF検索 -->
           <div class="header_button_akf">
             <a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
-            <img src="./images/{$lang}/akf.png" alt="AKF Search" align="left"/></a>
+            <img src="./images/{$lang}/akf.png" alt="AKF Search" align="left"></a>
           </div><!-- "header_button_akf" end -->
           <form method="get" action="./akfsearch.php">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->

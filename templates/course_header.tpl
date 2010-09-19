@@ -1,1 +1,0 @@
-<img src="./images/common/header_top01.jpg" /><!-- header画像 背景指定をやめて直接描画 -->
