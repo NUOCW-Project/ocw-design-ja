@@ -526,8 +526,9 @@ table{
 	padding: 0px;
 }
 
-.date2{
-	width: 7em;
+td.topics_date{
+	width: 14em;
+  padding-left: 2em;
 	vertical-align: top;
 }
 
@@ -1277,15 +1278,5 @@ h3.special {
   padding-bottom: 3px;
 	margin: 0;
   font-size: x-large;
-}
-
-
-/** おしらせ、プレスリリース **/
-table.topics_contents td{
-  vertical-align: top;
-}
-
-td.topics_date {
-  padding-right: 20px;
 }
 

@@ -72,7 +72,7 @@
     <table>
     {foreach from=$news_list item="topic"}
     <tr>
-      <td class="date2">{$topic.stime|date_format:"%Y-%m-%d"}</td>
+      <td class="topics_date">{$topic.stime|date_format:"%Y-%m-%d"}</td>
       <td class="article">{$topic.contents|strip}
       {if $topic.diff_day < 14}<img class="icon" src="./images/common/new.png" alt="new!">{/if}
       </td>

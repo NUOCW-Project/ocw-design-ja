@@ -1,4 +1,4 @@
- <table class="topics_contents" border="0" summary="{if $lang=='ja'}おしらせ{else}Recent Updates{/if}">
+ <table summary="{if $lang=='ja'}おしらせ{else}Recent Updates{/if}">
     {foreach from="$news_list" item="topic"}
       {assign var=stime_last value=$stime}
       {assign var=stime value=$topic.stime|date_format:"%Y-%m-%d"}
