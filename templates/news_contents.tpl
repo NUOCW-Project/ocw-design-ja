@@ -7,6 +7,6 @@
 			      {if $topic.diff_day < 7}<img class="new_icon" src="./images/common/new.gif" alt="new!">{/if}
 			  </td>
 		  </tr>
-      {assign var=stime_last value=$topics.stime}
+      {assign var=stime_last value=$topic.stime}
 		{/foreach}
 	</table>
