@@ -1,8 +1,7 @@
- <table class="topics_contents" border="0" summary="{if $lang=='ja'}最新TOPICS{else}Recent Updates{/if}">
+ <table class="topics_contents" border="0" summary="{if $lang=='ja'}おしらせ{else}Recent Updates{/if}">
     {foreach from="$news_list" item="topic"}
       {assign var=stime_last value=$stime}
       {assign var=stime value=$topic.stime|date_format:"%Y-%m-%d"}
-      {if $stime_last != $stime}<tbody>{/if}
       <tr>
         <td class="topics_date">{if $stime_last != $stime}{$stime}{/if}</td>
         <td>{$topic.contents|strip}
