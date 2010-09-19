@@ -1281,6 +1281,10 @@ h3.special {
 
 
 /** おしらせ、プレスリリース **/
+table.topics_contents tbody{
+  padding-bottom: 10px;
+}
+
 table.topics_contents td{
   vertical-align: top;
 }
