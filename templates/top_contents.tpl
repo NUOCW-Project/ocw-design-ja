@@ -1,9 +1,9 @@
 <div class="inline">
 <div id="feature">
-  <img src="./images/{$lang}/t_special.png">
+  <img src="./images/{$lang}/t_special.png" alt="特別企画">
   <!--  <img src="./images/{$lang}/backno.png" class="jump"> -->
   <br>
-  <img src="./images/common/redline.gif" class="line">
+  <img src="./images/common/redline.gif" class="line" alt="">
   <br>
   <!-- 「OCW特別企画」 -->
   <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=special"> 
@@ -21,9 +21,9 @@
 <div class="inline">
 <div id="access">
 <div class="waku"><!-- ボックス「アクセスランキング」 -->
-	<img src="./images/{$lang}/t_ranking.png" class="subheading">
+	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="月間ランキング">
 	 <br>
- 	<img src="./images/common/dots.png" class="dots">
+ 	<img src="./images/common/dots.png" class="dots" alt="">
 	 <br>
 	<table id="rank_table">
 	<tr id="no0">
@@ -41,7 +41,7 @@
 	<tr id="no{$v.rank}">
 		<td class="rank">
 		{if $v.rank<=3}
-			<img src="./images/common/rank0{$v.rank}.png">
+			<img src="./images/common/rank0{$v.rank}.png" alt="{$v.rank}">
 		{else}{$v.rank}
 		{/if}
 		</td>
@@ -65,10 +65,10 @@
 
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
-  <img src="./images/{$lang}/t_news.png" class="subheading">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump"></a>
+  <img src="./images/{$lang}/t_news.png" class="subheading" alt="おしらせ">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="バックナンバー"></a>
   <br>
-  <img src="./images/common/dots.png" class="dots">
+  <img src="./images/common/dots.png" class="dots" alt="">
     <table>
     {foreach from=$news_list item="topic"}
     <tr>
@@ -84,10 +84,10 @@
 
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
-  <img src="./images/{$lang}/t_release.png" class="subheading">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump"></a>
+  <img src="./images/{$lang}/t_release.png" class="subheading" alt="プレスリリース">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="バックナンバー"></a>
   <br>
-  <img src="./images/common/dots.png" class="dots">
+  <img src="./images/common/dots.png" class="dots" alt="">
     <table>
     {foreach from=$pressrelease_list item="topic"}
     <tr>
