@@ -31,7 +31,7 @@
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=env">環境学研究科</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">留学生センター</a>
 	</ul>
-	<ul class="navi">
+	<ul class="sitemap_navi">
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=open">高校生向け公開講座</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=tefs">TEFS</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=agora">数学アゴラ</a>

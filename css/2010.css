@@ -693,7 +693,7 @@ td.topics_date{
 }
 
 .navi{
-	padding-left: 0px;
+	padding-left: 200px;
 	padding-right: 2em;
 	text-align: left;
 	float: left; 
@@ -1107,6 +1107,16 @@ div.sitemap_contents{
 	margin-left: auto;
 	margin-right: auto;
 	width: 85%;
+}
+
+.sitemap_navi{
+	padding-left: 0px;
+	padding-right: 2em;
+	text-align: left;
+	float: right;
+	list-style-type: none;
+	position: relative;
+	margin: 0px;
 }
 
 /** お問い合わせ **/
