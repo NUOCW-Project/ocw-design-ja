@@ -5,7 +5,7 @@
       <tr>
         <td class="topics_date">{if $stime_last != $stime}{$stime}{/if}</td>
         <td>{$topic.contents|strip}
-            {if $topic.diff_day < 7}<img class="new_icon" src="./images/common/new.gif" alt="new!">{/if}
+            {if $topic.diff_day < 7}<img class="new_icon" src="./images/common/new.png" alt="new!">{/if}
         </td>
       </tr>
     {/foreach}
