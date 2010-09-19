@@ -1120,6 +1120,14 @@ div.sitemap_contents{
 	margin: 0px;
 }
 
+#sitemap_link {
+	margin: 1em 0 auto auto;
+	padding: 0;
+	clear: both;
+	list-style-type: none;
+}
+
+
 /** お問い合わせ **/
 h2.inq {
 	font-size: 130%;
