@@ -1,7 +1,3 @@
-    <div id="package2"><!-- #contents配置調整 firefox対応" -->
-
-<div id="contents"><!-- 中核のボックス -->
-
 {strip}
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
 {if $page_format.tpl_name=='index'}
