@@ -327,7 +327,7 @@ a:hover{
 
 /* IE6 hack */
 * html #contents{
-	margin: 0px 0px 0px 200px;
+	margin: 0px 0px 0px 0px;
 	max-width: none;
 	width: 705px;
 }
