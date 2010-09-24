@@ -6,7 +6,7 @@
 <th width="50">1分間<br>紹介</th>
 <th width="425">コース名(開講年度)</th>
 <th width="135">教員名</th>
-<th width="45">講義ノート</th>
+<th width="45">講義<br>ノート</th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses}
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
@@ -19,7 +19,7 @@
 	<img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="video" width="50" height="37">
 		</a>
 	{else}
-		<img src="./images/common/noimage.png" alt="no video" width="50" height="37">
+		<img src="./images/common/n_a.png" alt="no video" width="50" height="37">
 	{/if}
 	</td>
 	<td width="425">
