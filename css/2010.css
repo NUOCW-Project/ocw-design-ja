@@ -325,6 +325,10 @@ a:hover{
 	border-color: blue;*/
 }
 
+/* IE6 hack */
+* html #contents{
+
+}
 /* IE7 hack */
 *:first-child+html #contents{
 	max-width: 710px;
