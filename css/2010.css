@@ -662,7 +662,8 @@ td.topics_date{
 .icon{
 	width: 30px;
 	height: 15px;
-	float: right;
+	margin-right: 0;
+	margin-left: auto;
 	display: inline;
 	vertical-align: middle;
 	vertical-align: text-bottom;
