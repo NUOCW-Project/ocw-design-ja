@@ -96,7 +96,8 @@
 		</p></td></tr>
 <tr><td class="center_gray">写真撮影</td>
 		<td class="left_gray"><p>
-		OG 江草洋子
+		情報文化学部3年 吉川遼<br>
+		OG 江草洋子<br>
 		</p></td></tr>
 </table>
 
