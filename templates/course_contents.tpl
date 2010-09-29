@@ -85,4 +85,3 @@
     {/if}
   {/foreach}
 </div><!--"main_text" end-->
-</div><!-- "package2" end -->
