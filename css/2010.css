@@ -565,7 +565,7 @@ td.topics_date{
 
 	#teacher{
 		font-size: xx-large;
-		font-family: serif;/* 明朝体 */
+		font-family: 'MS　P明朝', 'MS　明朝', serif;/* 明朝体 */
 		padding-top: 12px;
 		padding-bottom: 5px;
 	}
