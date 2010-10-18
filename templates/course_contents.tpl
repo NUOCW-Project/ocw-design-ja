@@ -15,11 +15,11 @@
 <img src="./images/{$lang}/m04_profile_hi.png" id="syllabus_tag" alt="シラバス">
 {elseif $page_format.tpl_name=='syllabus'}
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
-{elseif $course_info.department_abbr == ("extension" || "fw2008")}
+{elseif $course_info.department_abbr == ("extension" || "fw20"^[0-9] }
  <img src="./images/{$lang}/m04_profile.png" alt="講師紹介" 
        onMouseOver="this.src='./images/{$lang}/m04_profile_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m04_profile.png'"><!--タグ画像「講師紹介」-->
-{elseif $course_info.department_abbr != ("agora" || "tefs") && $course_info.department_abbr != "sem"}
+{elseif $course_info.department_abbr != "agora" && $course_info.department_abbr != "tefs" && $course_info.department_abbr != "sem"}
   <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
        onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--タグ画像「シラバス」-->
