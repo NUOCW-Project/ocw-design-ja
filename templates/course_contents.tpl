@@ -11,9 +11,9 @@
   
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
 
-{if ($page_format.tpl_name=='syllabus' && $course_info.department_abbr != "agora") }
+{if $page_format.tpl_name=='syllabus' }
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
-{else}
+{elseif $course_info.department_abbr != "agora"}
   <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
        onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--タグ画像「シラバス」-->
