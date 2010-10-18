@@ -16,7 +16,7 @@
 {elseif $page_format.tpl_name=='syllabus'}
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="¥·¥é¥Ð¥¹">
 {elseif $course_info.department_abbr == "extension"}
- <img src="./images/{$lang}/m02syllabus.png" alt="¹Ö»Õ¾Ò²ð" 
+ <img src="./images/{$lang}/m04_profile.png" alt="¹Ö»Õ¾Ò²ð" 
        onMouseOver="this.src='./images/{$lang}/m04_profile_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m04_profile.png'"><!--¥¿¥°²èÁü¡Ö¹Ö»Õ¾Ò²ð¡×-->
 {elseif $course_info.department_abbr != "agora" && $course_info.department_abbr != "tefs" && $course_info.department_abbr != "sem"}
