@@ -22,6 +22,7 @@
 
 {* 講義資料に表示する情報が無いコースについては、講義資料のタグを表示しない *}
 
+{$course_info.department_abbr}
 {$department_abbr}
 
 {if $course_info.lectnotes == "f"}
