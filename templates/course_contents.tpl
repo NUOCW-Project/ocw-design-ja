@@ -11,7 +11,6 @@
   
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
 
-echo {$dept_list}
 {if $page_format.tpl_name=='syllabus'}
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
 {else}
@@ -22,6 +21,11 @@ echo {$dept_list}
   </a>
 
 {* 講義資料に表示する情報が無いコースについては、講義資料のタグを表示しない *}
+
+{$dept_list}
+{$page_type}
+{$navi_list}
+
 
 {if $course_info.lectnotes == "f"}
 
