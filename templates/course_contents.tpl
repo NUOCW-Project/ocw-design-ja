@@ -13,7 +13,7 @@
 
 {if $page_format.tpl_name=='syllabus' }
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
-{elseif $course_info.department_abbr != "agora"}
+{elseif $course_info.department_abbr != "agora" && $course_info.department_abbr != "tefs"}
   <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
        onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--タグ画像「シラバス」-->
