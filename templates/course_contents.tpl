@@ -22,11 +22,6 @@
 
 {* 講義資料に表示する情報が無いコースについては、講義資料のタグを表示しない *}
 
-
-{$department_name}
-{$department_id}
-{$course_info.department_id}
-{$department_abbr}
 {$course_info.department_abbr}
 
 {if $course_info.lectnotes == "f"}
