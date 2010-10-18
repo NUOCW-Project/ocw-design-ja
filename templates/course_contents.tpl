@@ -19,7 +19,7 @@
  <img src="./images/{$lang}/m04_profile.png" alt="¹Ö»Õ¾Ò²ğ" 
        onMouseOver="this.src='./images/{$lang}/m04_profile_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m04_profile.png'"><!--¥¿¥°²èÁü¡Ö¹Ö»Õ¾Ò²ğ¡×-->
-{elseif $course_info.department_abbr != "agora" && $course_info.department_abbr != "tefs" && $course_info.department_abbr != "sem"}
+{elseif $course_info.department_abbr != ("agora" || "tefs") && $course_info.department_abbr != "sem"}
   <img src="./images/{$lang}/m02syllabus.png" alt="¥·¥é¥Ğ¥¹" 
        onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--¥¿¥°²èÁü¡Ö¥·¥é¥Ğ¥¹¡×-->
