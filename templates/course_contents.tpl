@@ -10,9 +10,8 @@
   </a>
   
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
-{if $dept_list="open"}
 
-{elseif $page_format.tpl_name=='syllabus'}
+{if $page_format.tpl_name=='syllabus' && $dept_list!="open"}
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
 {else}
   <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
