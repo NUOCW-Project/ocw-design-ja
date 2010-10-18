@@ -11,7 +11,7 @@
   
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
 
-{if $page_format.tpl_name=='syllabus' && $course_info.department_abbr != "open" }
+{if $page_format.tpl_name=='syllabus' && $course_info.department_abbr != "agora" }
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
 {else}
   <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
@@ -21,9 +21,6 @@
   </a>
 
 {* 講義資料に表示する情報が無いコースについては、講義資料のタグを表示しない *}
-
-{$course_info.department_abbr}
-
 
 {if $course_info.lectnotes == "f"}
 
@@ -42,6 +39,8 @@
 {/strip}
 <br>
 <img src="./images/common/redline.gif" id="line1" alt=""><!-- 水平線(上) -->
+
+{$course_info.department_abbr}
 
 {* 授業ホームの時のみコース情報を表示 *}
 {if $page_format.tpl_name=="index"}
