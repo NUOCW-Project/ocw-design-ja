@@ -4,9 +4,9 @@
 <table  class = "sorttable">
 <tr>
 <th width="50">1分間<br>紹介</th>
-<th width="405">コース名(開講年度)</th>
+<th width="400">コース名(開講年度)</th>
 <th width="135">教員名</th>
-<th width="65">講義資料<br>講義ビデオ</th>
+<th width="70">講義資料<br>講義ビデオ</th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses}
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
