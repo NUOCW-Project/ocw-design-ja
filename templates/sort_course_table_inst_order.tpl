@@ -6,7 +6,7 @@
 <th width="50">1分間<br>紹介</th>
 <th width="425">コース名(開講年度)</th>
 <th width="135">教員名</th>
-<th width="45">講義<br>ノート</th>
+<th width="45">講義資料<br>講義ビデオ</th>
 </tr>
 
 {foreach item = each_course  from = $result.courses name = $result.title} 
@@ -46,7 +46,7 @@
         {if $each_course.exist_lectnotes == 't'}
         <a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=materials">
         <img border="0" src="./images/common/list_note.png" alt="notes" width="20" height="20">
-        </a>
+        </a><br>
         {/if}
 	{if $each_course.exist_video == 't'}
         <a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=materials">
