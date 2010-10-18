@@ -22,10 +22,9 @@
 
 {* 講義資料に表示する情報が無いコースについては、講義資料のタグを表示しない *}
 
-{$dept_list}
-{$page_type}
-{$navi_list}
 
+{$department_name}
+{$department_id}
 
 {if $course_info.lectnotes == "f"}
 
