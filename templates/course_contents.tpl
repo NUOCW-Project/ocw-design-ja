@@ -13,8 +13,7 @@
 
 {if $page_format.tpl_name=='syllabus' && $course_info.department == "extension"}
 <img src="./images/{$lang}/m04_profile_hi.png" id="syllabus_tag" alt="¥·¥é¥Ð¥¹">
-{/if}
-{if $page_format.tpl_name=='syllabus' && $course_info.department != "extension"}
+{elseif $page_format.tpl_name=='syllabus'}
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="¥·¥é¥Ð¥¹">
 {elseif $course_info.department_abbr == "extension"}
  <img src="./images/{$lang}/m02syllabus.png" alt="¹Ö»Õ¾Ò²ð" 
