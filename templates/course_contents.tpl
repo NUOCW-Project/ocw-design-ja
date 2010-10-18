@@ -25,6 +25,7 @@
 
 {$department_name}
 {$department_id}
+{$course_info.department_id}
 
 {if $course_info.lectnotes == "f"}
 
