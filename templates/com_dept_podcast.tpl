@@ -23,7 +23,7 @@
 {/foreach}
 {/strip}
 {/literal}
-</ul>
+
 <!-- Podcastの案内を付け加える。-->
 
 <!-- <div id="podcast"> -->
@@ -45,4 +45,4 @@
 </div>
 <!-- </div> -->
 
-</ul>
+</ul></ul>
