@@ -9,9 +9,9 @@
     <img src="./images/{$lang}/header_{$page_type}0{$img_num}.jpg" alt="{if $page_type=="top"}勇気ある知識人{else}{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}{/if}">
 
  {* {else}  
-  <img src="./images/{$lang}/header_{$page_type}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> *}
-{/if} 
+  <img src="./images/{$lang}/header_{$page_type}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> *} 
 {else}<img src="./images/{$lang}/header_all.jpg" alt="授業一覧から探す"> 
+{/if}
 {/if}
 
 {if $page_type == "top"}
