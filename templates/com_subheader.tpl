@@ -10,7 +10,9 @@
  {* {else}  
   <img src="./images/{$lang}/header_{$page_type}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
   {/if} 
-{else}<img src="./images/{$lang}/header_all.jpg" alt="授業一覧から探す"> *}{/if}
+{else}<img src="./images/{$lang}/header_all.jpg" alt="授業一覧から探す"> *}
+{/if}
+{/if}
 
 {if $page_type == "top"}
 	<div id="menu">	
