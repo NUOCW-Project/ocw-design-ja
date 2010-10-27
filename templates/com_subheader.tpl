@@ -5,16 +5,16 @@
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-2 max=1}{$navi_list[n].text}{/section}{literal}">
 {elseif $page_type|regex_replace:"/^(relay)[0-9]+$/":'relay'}
   {assign var=img_num value=1|rand:4}
-bbbbbbbbbbbbbb
   <img src="./images/{$lang}/header_{$page_type|regex_replace:'/(relay)[0-9]+/':'(relay)'}0{$img_num}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
+bbbbbbbbbbbbbb
 {elseif $page_type|regex_replace:'/(fw)[0-9]+/':'fwarchive'}
   {assign var=img_num value=1|rand:4}
-cccccccccccccc 
   <img src="./images/{$lang}/header_{$page_type|regex_replace:'/(fw)[0-9]+/':'fwarchive'}0{$img_num}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
+cccccccccccccc 
 {elseif $page_type!="all"}
   {assign var=img_num value=1|rand:4} 
-aaaaaaaaaaaa
     <img src="./images/{$lang}/header_{$page_type}0{$img_num}.jpg" alt="{if $page_type=="top"}勇気ある知識人{else}{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}{/if}">
+aaaaaaaaaaaa
 {else}dddddddddddd<img src="./images/{$lang}/header_all.jpg" alt="授業一覧から探す"> 
 {/if}
 {/if}
