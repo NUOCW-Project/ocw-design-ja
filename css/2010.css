@@ -781,15 +781,15 @@ table.farewell, table.relay{
   margin:0 10px 25px 0px;
 }
 
-table.basic th, table.farewell, table.relay th{
+table.basic th, table.farewell th, table.relay th{
 	border: 1px solid #999999;
 }
 
-table.basic td, table.farewell, table.relay td{
+table.basic td, table.farewell td, table.relay td{
 	border: 1px solid #999999;
 }
 
-table.basic ul, table.farewell, table.relay ul{
+table.basic ul, table.farewell ul, table.relay ul{
 	padding-left: 1em;
 }
 
