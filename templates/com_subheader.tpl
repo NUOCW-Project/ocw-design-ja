@@ -9,6 +9,9 @@
 
  {* {else}  
   <img src="./images/{$lang}/header_{$page_type}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> *} 
+{elseif $page_type|regex_replace:'/^(relay)[0-9]*/':''}
+ {assign var=img_num value=1|rand:4} 
+{elseif $page_type|regex_replace:'/^(fw)[0-9]*/':''}
 {else}<img src="./images/{$lang}/header_all.jpg" alt="授業一覧から探す"> 
 {/if}
 {/if}
