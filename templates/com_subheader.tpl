@@ -3,7 +3,7 @@
 {if $page_type != ""}
   {if $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-2 max=1}{$navi_list[n].text}{/section}{literal}">
-{elseif $page_type|regex_replace:'/(relay)[0-9]+/':'relay'}
+{elseif $page_type|regex_replace:"/(relay)[0-9]+/":"relay"}
   {assign var=img_num value=1|rand:4}
 bbbbbbbbbbbbbb
   <img src="./images/{$lang}/header_{$page_type|regex_replace:'/relay[0-9]+/':'relay'}0{$img_num}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
