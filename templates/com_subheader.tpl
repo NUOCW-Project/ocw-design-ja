@@ -5,6 +5,7 @@
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-2 max=1}{$navi_list[n].text}{/section}{literal}">
 {elseif $page_type!="all" && $page_type|regex_replace:'/^(relay)[0-9]*/':'' && $page_type|regex_replace:'/^(fw)[0-9]*/':''}
   {assign var=img_num value=1|rand:4} 
+aaaaaaaaaaaaa
     <img src="./images/{$lang}/header_{$page_type}0{$img_num}.jpg" alt="{if $page_type=="top"}勇気ある知識人{else}{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}{/if}">
 {elseif $page_type|regex_replace:'/^(relay)[0-9]*/':''}
   {assign var=img_num value=1|rand:4}
