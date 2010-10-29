@@ -536,7 +536,7 @@ td.topics_date{
 }
 
 	.article a{
-
+		position: relative;
 		/*display: block;*/
 		background: none;
 	}
@@ -544,7 +544,7 @@ td.topics_date{
 	.article a:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: -12px 1px;
+		background-position: 0px 1px;
 	}
 
 .article span{
