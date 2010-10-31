@@ -21,7 +21,7 @@
 <div class="inline">
 <div id="access">
 <div class="waku"><!-- ボックス「アクセスランキング」 -->
-	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="月間ランキング">
+	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="月間ランキング" width="180" height="20">
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="">
 	 <br>
@@ -65,8 +65,8 @@
 
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
-  <img src="./images/{$lang}/t_news.png" class="subheading" alt="おしらせ">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="バックナンバー"></a>
+  <img src="./images/{$lang}/t_news.png" class="subheading" alt="おしらせ" width="180" height="20">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="バックナンバー" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="">
     <table>
@@ -84,8 +84,8 @@
 
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
-  <img src="./images/{$lang}/t_release.png" class="subheading" alt="プレスリリース">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="バックナンバー"></a>
+  <img src="./images/{$lang}/t_release.png" class="subheading" alt="プレスリリース" width="180" height="20">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="バックナンバー" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="">
     <table>
