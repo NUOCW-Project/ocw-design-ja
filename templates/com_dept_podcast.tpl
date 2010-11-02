@@ -24,7 +24,9 @@
 {/strip}
 {/literal}
 
-<!-- Podcastの案内 -->
+<!-- Podcastの案内を付け加える。-->
+
+<!-- <div id="podcast"> -->
 <div id="podcast_waku">
 <div id="aboutpodcast_image">
 <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
@@ -41,4 +43,6 @@
 {/if}
 </div>
 </div>
+<!-- </div> -->
+
 </ul></ul>
