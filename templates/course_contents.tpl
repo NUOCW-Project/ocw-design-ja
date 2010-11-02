@@ -11,7 +11,7 @@
   
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
 
-{if $page_format.tpl_name=='syllabus' && page_type!="extension"}
+{if $page_format.tpl_name=='syllabus' && course_info.department_abbr!="extension"}
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
 {else}
   <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
@@ -19,7 +19,7 @@
        onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--タグ画像「シラバス」-->
 {/if}
 
-{if $page_format.tpl_name=='f_intro' && page_type=="extension"}
+{if $page_format.tpl_name=='f_intro' && course_info.department_abbr=="extension"}
 <img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="シラバス">
 {else}
  <img src="./images/{$lang}/m04_profile.png" alt="講師紹介" 
