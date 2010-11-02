@@ -19,7 +19,7 @@
 {/if}
 {/if}
 
-$mode
+{$mode}
 
 {if $page_type == "top"}
 	<div id="menu">	
