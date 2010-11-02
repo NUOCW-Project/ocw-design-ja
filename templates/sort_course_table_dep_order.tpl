@@ -32,7 +32,7 @@
 	</td>
 
 	<td width="135"><a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instructor_name}</a></td>
-	<td width="45" class="center">
+	<td width="45" style="padding-right:15;padding-left:15;">
 	{if $each_course.exist_lectnotes == 't'}
 	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=materials">
 	<img border="0" align="left" src="./images/common/list_note.png" alt="notes" width="20" height="20">
