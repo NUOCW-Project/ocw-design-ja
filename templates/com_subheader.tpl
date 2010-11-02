@@ -19,6 +19,8 @@
 {/if}
 {/if}
 
+$mode
+
 {if $page_type == "top"}
 	<div id="menu">	
 		<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/menu01.png" onMouseOver="this.src='./images/{$lang}/menu01_on.png'" onMouseout="this.src='./images/{$lang}/menu01.png'" class="menu0" alt="「名大の授業」について"></a>
