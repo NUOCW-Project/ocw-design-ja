@@ -8,6 +8,7 @@
        onMouseOut="this.src='./images/{$lang}/m01coursehome.png'"><!--¥¿¥°²èÁü¡Ö¼ø¶È¥Û¡¼¥à¡×-->
 {/if}
   </a>
+
 {if $course_info.department_abbr!='extension'}  
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
    {if $page_format.tpl_name=='syllabus'}
@@ -20,13 +21,15 @@
 {/if}
 </a>
 
-{if $page_format.tpl_name=='f_intro' && $course_info.department_abbr=='extension'}
+{if $course_info.department_abbr=='extension'}
  <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=f_intro">
+{if $page_format.tpl_name=='f_intro'}
 <img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="¹Ö»Õ¾Ò²ð">
-{elseif $course_info.department_abbr=='extension'}
+{elseif}
  <img src="./images/{$lang}/m04_profile.png" alt="¹Ö»Õ¾Ò²ð" 
        onMouseOver="this.src='./images/{$lang}/m04_profile_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m04_profile.png'"><!--¥¿¥°²èÁü¡Ö¹Ö»Õ¾Ò²ð¡×-->
+{/if}
 {/if}
   </a>
 
