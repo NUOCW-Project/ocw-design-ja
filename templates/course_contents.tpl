@@ -8,19 +8,19 @@
        onMouseOut="this.src='./images/{$lang}/m01coursehome.png'"><!--タグ画像「授業ホーム」-->
 {/if}
   </a>
-  
+{if $page_format.tpl_name=='syllabus' && $course_info.department_abbr!='extension'}  
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
-
-{if $page_format.tpl_name=='syllabus' && $course_info.department_abbr!='extension'}
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
-{else}
+{elseif $course_info.department_abbr!='extension'}
   <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
        onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--タグ画像「シラバス」-->
 {/if}
+</a>
 
 {if $page_format.tpl_name=='f_intro' && $course_info.department_abbr=='extension'}
-<img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="シラバス">
+ <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=f_intro">
+<img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="講師紹介">
 {else}
  <img src="./images/{$lang}/m04_profile.png" alt="講師紹介" 
        onMouseOver="this.src='./images/{$lang}/m04_profile_on.png'" 
