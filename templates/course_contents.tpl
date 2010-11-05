@@ -9,7 +9,7 @@
 {/if}
   </a>
 
-{if $course_info.department_abbr!='extension'}  
+{if $course_info.department_abbr!='extension' || $couse_info.syllabus == "f"}  
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
    {if $page_format.tpl_name=='syllabus'}
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
