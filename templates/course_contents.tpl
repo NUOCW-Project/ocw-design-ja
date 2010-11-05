@@ -24,7 +24,6 @@
   </a>
 
 {* 高校生公開講座はシラバスなし *}
-{$course_info.department_abbr}
 {if $course_info.department_abbr!='extension' && $course_info.department_abbr!='sem' && $course_info.department_abbr!='farewell' &&
 	$course_info.department_abbr!='tefs' && $course_info.department_abbr!='agora' &&
 	 !($course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq '')}  
