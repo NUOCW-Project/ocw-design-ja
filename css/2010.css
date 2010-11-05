@@ -537,7 +537,7 @@ td.topics_date{
 	.article a{
 		margin-left: 20px;
 		position: relative;
-		/*display: block;*/
+		display: block;
 		background: none;
 	}
 	
