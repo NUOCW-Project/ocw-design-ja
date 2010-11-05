@@ -87,6 +87,7 @@
   <h2>{$course_info.course_name}</h2>
       
   <div id="data"><!-- 背景灰色のボックス -->
+	testtest
     <b>授業時間</b>：{$course_info.year}{$course_info.meeting_time|nl2br}
     {if $course_info.class_is_for_ja}<br><b>対象者</b>：{$course_info.class_is_for_ja|nl2br}{/if}
     {if $course_info.f_date_ja}<br><b>日時</b>：aaaa
