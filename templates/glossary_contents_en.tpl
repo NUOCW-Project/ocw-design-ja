@@ -1,247 +1,49 @@
-<!-- このSiteの特徴開始 -->
-<div class="about_left" id="about01">
-<img src="./images/{$lang}/t_01site.gif" alt="About this site">
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
+<div id="main_text">
+	<h2>Course-Related</h2>
+	<div class="g_text">
+		<h3>Syllabus:</h3>
+		<p>This is a document that outlines a course’s lectures, assessment, and any academic regulations, and is very important for students who are currently choosing which courses to take. As well as being distributed in printed form, there are also electronic versions available on the web and through using each faculty’s touchpanel.</p>
+		<h3>Credit:</h3>
+		<p>A numerical value which constitutes the basis of graduation. Normally, a one-term course is awarded 2 credits, while a year-long course is 4 credits. The number of credits required to graduate differs depending on your academic department, but if you do not acquire the requirement amount of credits you will not be able to graduate from this university.</p>
+		<h3>Institute of Liberal Arts and Sciences:</h3>
+		<p>An organization which conducts both common basic education and training and also liberal education in each academic department, and similar to equivalent organizations in other universities. For specific details please see <a href="http://www.kyoiku-in.nagoya-u.ac.jp">their website (Japanese)</a>.</p>
+		<h3>Universal Basic Courses:</h3>
+		<p>Courses which encourage common fundamental literary and technical skills in the arts and sciences along with self-study skills necessary for new students entering university education. For specific details please see <a href="http://www.kyoiku-in.nagoya-u.ac.jp">the Institute of Liberal Arts and Sciences website (Japanese)</a>.</p>
+		<h3>Foundation Seminars:</h3>
+		<p>Unrelated to department or subject, these are lecture-based courses which students can elect to take independently in the area of their chosen topic. Many of these involve writing reports or presentations.</p>
+		<h3>Language & Culture courses:</h3>
+		<p>Courses which aim to strengthen foreign language ability, deepen understanding of foreign cultures through such languages, and emphasize education compliant to an international society.</p>
+		<h3>E-Learning:</h3>
+		<p>Long-distance learning courses, conducted over the internet or similar telecommunicative means. This was introduced to Nagoya University by new students in 2009, along with exchanging English home learning materials. </p>
+	</div>
 
-	<h1 class="about">The Nagoya University OpenCourseWare brings free courseware to the Internet</h1>
-	<p>The President of Nagoya University, Michinari Hamaguchi, has launched a program to convert teaching materials used in selected courses into digital format and make them available to the public at no charge over the Internet.</p>
-	<p>By thus posting course materials on the Web, the University offers the public a rare glimpse into its classrooms. The site will, it is hoped, help enrolled students engaged in self-directed study, plus promote communication and interaction not only between instructors and students and among instructors themselves, but between instructors and non-members of the University community as well.</p>
-	<p>This project is administered by the Nagoya University OpenCourseWare Committee and has been prepared in partnership with the Japan OpenCourseWare Consortium (JOCW), founded in May 2005.</p>
-
-	</div>	<!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
-</div>  <!-- センターコンテンツ終了 -->
-
-</div>
-<div class="clear"></div>
-<!-- このSiteの特徴終了 -->
-
-<!-- リンク開始 -->
-<div class="about_left" id="about02">
-<img src="./images/{$lang}/t_02link.gif" alt="Link">
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="435">
-		<tbody>
-		<tr>
-			<td class="center"><p><img src="./images/{$lang}/logo_nu.gif" alt="Nagoya University"></p></td>
-			<td><p><a href="http://www.nagoya-u.ac.jp/">Nagoya University</a></p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
-			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">OpenCourseWare Consortium</a></p></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/logo_jocw.gif"></p></td>
-			<td><p><a href="http://jocw.jp/">Japan Opencourseware Consortium</a></p></td>
-		</tr>
-        </tbody>
-    </table>
-		
-	</div>	<!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
-</div>  <!-- センターコンテンツ終了 -->
-
-</div>
-<div class="clear"></div>
-<!-- リンク終了 -->
-
-<!-- スタッフ紹介開始 -->
-<div class="about_left" id="about03">
-<img src="./images/{$lang}/t_03staff.gif" alt="About the Site Staff">
-</div>
-<div class="about_center">
-<div class="about_contents"> 
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame01.gif" alt=""></td>
-	<td width="445" height="15" class="td_top"></td>
-	<td width="10" height="15"><img src="./images/common/flame03.gif" alt=""></td>
-</tr>
-<tr>
-	<td width="10" class="td_left"></td>
-	<td class="td_contents">    
-	<div class="course_contents"><!-- コンテンツセル開始 -->
-	
-	<table class="center_contents" width="435">
-		<tbody>
-		<tr>
-			<td colspan="2">The Nagoya University OpenCourseWare (NU OCW) project is being implemented with the cooperation of the Center for Information Media Studies, Center for the Studies of Higher Education, Nagoya University Library, and the Information Technology Center.</td>
-		</tr>
-		<tr>
-			<td class="separate" colspan="2"></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/i_01cims.gif" alt="Center for Information Media Studies"></p></td>
-			<td><p><a href="http://www.media.nagoya-u.ac.jp/">Center for Information Media Studies</a> works to enhance the quality of teaching and learning at Nagoya University by assisting with development of learning materials and creating the optimum environment for their use.</p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_02cshe.gif" alt="Center for the Studies of Higher Education"></p></td>
-			<td class="left_gray"><p><a href="http://www.iar.nagoya-u.ac.jp/">Center for the Studies of Higher Education</a> works to enhance the quality of teaching and learning at Nagoya University through research and development in the field of higher education.</p></td>
-		</tr>
-		<tr>
-			<td class="center"><p><img src="./images/common/i_03itc.gif" alt="Information Technology Center"></p></td>
-			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">Information Technology Center</a> is the service and research center for campus networking, information systems and supercomputing, playing the role of a hub of campus information systems.</p></td>
-		</tr>
-		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="Nagoya University Library"></p></td>
-			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">Nagoya University Library</a> works to enhance the quality of education and research at Nagoya University by providing access to the wealth of intellectual property in its collections while integrating the functions of a traditional library with those of a digital one.</p></td>
-		</tr>
-
-		<tr>
-			<td colspan="2"><p><img src="./images/common/dot_green.gif"></p></td>
-		</tr>
-		
-		<tr>
-			<td colspan="2"><h2 class="about_committee">-Nagoya University OpenCourseWare Committee-</h2></td>
-		</tr>
-		<tr>
-			<td class="right" colspan="2">(As of October 1, 2009)</td>
-		</tr>
-
-		<tr>
-			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="Nagoya University OpenCourseWare Committee"></p></td>
-			<td>
-			<ul class="stafflist_en">
-			<li>Chairperson: Ichiro Yamamoto<br>Vice-President,<br>Nagoya University</li>
-			<li>Hiroyuki Sugiyama<br>Vice-President,<br>Trustee</li>
-			<li>Kazuhisa Todayama<br>Assistant to President,<br>Nagoya University</li>
-			<li>Toshiyuki Tonoike<br>Professor,<br>Center for Information Media Studies</li>
-			<li>Masaaki Katayama<br>Professor,<br>EcoTopia Science Institute</li>
-
-			<li>Shoji Kajita<br>Associate Professor,<br>Information and Communication Technology Services</li>
-			<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
-			<li>Takaya Yamazato<br>Associate Professor,<br>EcoTopia Science Institute</li>
-			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
-			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
-			<li>Aki Hara<br>Media Supporter,<br>Studio</li>
-			<li>Shin-ya Furui<br>Media Supporter,<br>Studio</li>
-			<li>Tomoko Matsuda<br>Administrative Assistant,<br>OCW Administrative Office</li>
-			</ul>
-			</p>
-		</tr>
-		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="Nagoya University OpenCourseWare Work Group"></p></td>
-			<td class="left_gray">
-			<ul class="stafflist_en">
-			<li>Shoji Kajita<br>Associate Professor,<br>Information and Communication Technology Services</li>
-			<li>Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education</li>
-
-			<li>Takaya Yamazato<br>Associate Professor,<br>EcoTopia Science Institute</li>
-
-			<li>Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies</li>
-
-			<li>Shinji Mine<br>Assistant Professor,<br>Nagoya University Library Studies</li>
-			<li>Aki Hara<br>Media Supporter,<br>Studio</li>
-			<li>Shin-ya Furui<br>Media Supporter,<br>Studio</li>
-			<li>Atsuko Kato<br>Administrative Assistant,<br>Center for Information Media Studies</li>
-			<li>Akie Izumi<br>Administrative Assistant,<br>Center for Information Media Studies</li>
-			<li>Tomoko Matsuda<br>Administrative Assistant,<br>OCW Administrative Office</li>
-			</ul>
-		</tr>
-		<tr>
-			<td><p><img src="./images/{$lang}/i_staff03.jpg" alt="Support Staff"></p></td>
-			<td>
-			<p>
-			Masanori Adachi<br>
-                        Yoko Egusa<br>
-                        Reina Fukuzaki<br>
- 			Yui Hayashi<br>
-			Yuka Ichinose<br>
-     			Masanori Ito<br>
-			Simon Johnson<br>
-                        Natsumi Koresawa<br>
-			Kazuma Maruchi<br>
-                        Sanae Muramatsu<br>
-			Tetsuro Nagai<br>
-			Yasutaka Nakashima<br>
-			Yoshihiro Nakayama<br>
-			Kisyun Ou<br>
-			Ayaka Sato<br>
-      			Misaki Shiraishi<br>
-      			Tomoyo Takahashi<br>
-			Mitsunari Takahashi<br>
-			Yuto Takahashi<br>
-			Jun-ichi Taniguchi<br>
-			Noboru Terada<br>
-			Mikito Yamamoto<br>
-			Daisuke Yamaoka<br>
-			Zhong Yang<br>
-			Eiko Yoshida<br>
-			</p>
-		</tr>
-		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="Photography"></p></td>
-			<td class="left_gray">
-			<ul class="stafflist_en">
-			<li>Hiroshi Hasegawa<br>Associate Professor,<br>Graduate School of Engineering</li>
-			</ul>
-
-			<p>
-			[ Nagoya University Photograph Club ]<br>
-			Yoko Okumura<br>
-			Akinobu Kato
-			</p>
-		</tr>
-		
-		
-		</tbody>
-	</table>
-	
-	</div>	<!-- コンテンツセル終了 -->
-
-	</td>
-	<td width="10" class="td_right"></td>
-</tr>
-<tr>
-	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
-	<td width="445" height="15" class="td_under"></td>
-	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
-</tr>
-
-</table>
-</div>  <!-- センターコンテンツ終了 -->
+	<h2>OCW-Related</h2>
+	<div class="g_text">
+		<h3>OCW:</h3>
+		<p>Open Course Ware is a higher-education organization that takes the details of regularly offered courses at the university and makes them available on the internet free of charge. In recent years, this kind of organization is spreading across the world.</p>
+		<h3>Courseware:</h3>
+		<p>Teaching materials used in lectures, classes etc.</p>
+	</div>
+	<h2>Nagoya University OCW-Related</h2>
+	<div class="g_text">
+		<h3>COE</h3>
+		<p>Center of Excellence, a research institution that receives support from the Ministry of Education, Culture, Sports, Science and Technology (MEXT), aiming to promote international competitiveness and formation of internationally outstanding universities and research programs.</p>
+		<h3>Global COE Program:</h3>
+		<p>A program from MEXT of the same basic idea as the “21st Century COE Program”, with the aim of promoting formation of internationally competitive universities, mainly helping internationally excellent research institutions to strengthen and enhance Japanese research institutions in order to foster world-leading creative talent. With this program, as with the “21st Century COE Program”, Nagoya University has many qualifying departments and fields. For more information please visit <a href="http://www.jsps.go.jp/j-globalcoe/index.html">the Japan Society for the Promotion of Sciences (JSPS) website</a>.</p>
+		<h3>21st Century Center of Excellence (COE) Program</h3>
+		<p>An educational programme based on a report entitled "A Policy for the Structural Reform of Universities" (June 2001) and established in 2002 as a result of a MEXT project (Research Center Formation Grant). Nagoya University has many departments becoming "Centres of Excellence" through this program. For further information, please look at <a href="http://www.jsps.go.jp/j-21coe/">the Japan Society for the Promotion of Science (JSPS) website.</a></p>
+		<h3>TEFS:</h3>
+		<p>Techo-Frontier Seminars, labs-based lectures held every year in summer by Nagoya University’s Engineering Department aimed at high-school students across the whole of the Aichi-Tokai area. For details please see<a href="http://www.echo.nuee.nagoya-u.ac.jp/tefs/">this website</a>.</p>
+		<h3>Mathematics Agora:</h3>
+		<p>Public lectures organized and held every year by Nagoya University’s Graduate School of Mathematics, aimed at high-school students and their teachers. Details can be found at<a href="http://www.math.nagoya-u.ac.jp/ja/public/agora"> the Graduate School of Mathematics’ website</a>.</p>
+	<div id="akf"><h3>AFK Search:</h3>
+		<p>Formally known as the Academic Knowledge Factory, and supported by Nagoya University’s libraries, is a system by which you can search information from any of the sites listed below:
+		<ul>
+		<li><a href="http://ir.nul.nagoya-u.ac.jp/dspace/index.jsp" target="_blank">The Nagoya Repository</a>, which holds teaching materials, academic presentations and research papers created by scholars within the university, and makes them available to the world through the internet.</li>
+		<li><a href="http://libst1.nul.nagoya-u.ac.jp/eco/index.html" target="_blank">Eco-Collection</a>, a historical archive of flood control and Japan’s largest rivers, conveys the historical relationship between nature and humanity in a real and up-to-date way with its “Document Tree House”, also contains a database of gathered manuscripts of Ito Keisuke, the godfather of modern Japanese botany.</li>
+		<li><a href="http://plum.itc.nagoya-u.ac.jp/" target="_blank">PLUM</a>, a resource which allows you to search through the contents of all Nagoya University webpages, including past websites that may not be accessible any more.</li>
+		<li><a href="http://ocw.nagoya-u.jp/index.html" target="_blank">Nagoya University Courses</a>, I.E. this website. This takes a selection of courses offered at Nagoya University, and then makes the teaching materials currently being used available free of charge on the internet.</li>
+		</ul></p>
+	</div>
+	</div>
 </div>
