@@ -541,10 +541,10 @@ td.topics_date{
 		background: none;
 	}
 	
-	.article a:hover{
+	.article a{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: 0px 1px;
+		background-position: -12px 1px;
 	}
 
 .article span{
