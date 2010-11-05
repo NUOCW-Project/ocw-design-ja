@@ -53,8 +53,6 @@
 <br>
 <img src="./images/common/redline.gif" id="line1" alt=""><!-- 水平線(上) -->
 
-{$course_info.department_abbr}
-
 {* 授業ホームの時のみコース情報を表示 *}
 {if $page_format.tpl_name=="index"}
 <div id="movie">
