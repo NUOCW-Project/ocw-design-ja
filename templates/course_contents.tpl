@@ -9,19 +9,9 @@
 {/if}
   </a>
 
-{if $course_info.department_abbr!=('extension'||'open')}  
-  <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
-   {if $page_format.tpl_name=='syllabus'}
-<img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
-   {else}
-  <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
-       onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
-       onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--タグ画像「シラバス」-->
-{/if}
-{/if}
-</a>
-
-{if $course_info.department_abbr=='extension'}
+{* 名古屋大学公開講座と最終講義は講師紹介 *}
+{if $course_info.department_abbr=='extension' || 
+	 $page_type|regex_replace:'/^fw[0-9]+/':'' eq ''}
  <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=f_intro">
 {if $page_format.tpl_name=='f_intro'}
 <img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="講師紹介">
@@ -32,6 +22,22 @@
 {/if}
 {/if}
   </a>
+
+{* 高校生公開講座はシラバスなし *}
+{if $course_info.department_abbr!=('extension'||'open') &&
+	 !($page_type|regex_replace:'/^fw[0-9]+/':'' eq '')}  
+  <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
+   {if $page_format.tpl_name=='syllabus'}
+<img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="シラバス">
+   {else}
+  <img src="./images/{$lang}/m02syllabus.png" alt="シラバス" 
+       onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
+       onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--タグ画像「シラバス」-->
+   {/if}
+{/if}
+</a>
+
+
 
 {* 講義資料に表示する情報が無いコースについては、講義資料のタグを表示しない *}
 
