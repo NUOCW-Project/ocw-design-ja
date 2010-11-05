@@ -582,6 +582,10 @@ td.topics_date{
 		background-color: #ecece6;
 	}
 
+	#f_data{
+	border:dotted;
+	}
+
 	#movie{
 		padding-left: 5px;
 		padding-top: 25px;
