@@ -10,8 +10,8 @@
   </a>
 
 {* Ì¾¸Å²°Âç³Ø¸ø³«¹ÖºÂ¤ÈºÇ½ª¹ÖµÁ¤Ï¹Ö»Õ¾Ò²ð *}
-{if $course_info.department_abbr=='extension' || 
-	 $page_type|regex_replace:'/^fw[0-9]+/':'' eq ''}
+{if $course_info.department_abbr=='extension'|| $course_info.department_abbr=='farewell' || 
+	 $course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq ''}
  <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=f_intro">
 {if $page_format.tpl_name=='f_intro'}
 <img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="¹Ö»Õ¾Ò²ð">
@@ -24,8 +24,9 @@
   </a>
 
 {* ¹â¹»À¸¸ø³«¹ÖºÂ¤Ï¥·¥é¥Ð¥¹¤Ê¤· *}
-{if $course_info.department_abbr!=('extension'||'open') &&
-	 !($page_type|regex_replace:'/^fw[0-9]+/':'' eq '')}  
+{if $course_info.department_abbr!='extension' && $course_info.department_abbr!='sem' && $course_info.department_abbr!='farewell' &&
+	$course_info.department_abbr!='tefs' && $course_info.department_abbr!='agora' &&
+	 !($course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq '')}  
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
    {if $page_format.tpl_name=='syllabus'}
 <img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="¥·¥é¥Ð¥¹">
