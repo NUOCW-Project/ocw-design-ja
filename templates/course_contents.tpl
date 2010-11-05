@@ -24,7 +24,7 @@
   </a>
 
 {* 高校生公開講座はシラバスなし *}
-{if $course_info.department_abbr!=('extension'||'open'||'farewell') &&
+{if $course_info.department_abbr!=('extension' || 'open' || 'farewell') &&
 	 !($course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq '')}  
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
    {if $page_format.tpl_name=='syllabus'}
