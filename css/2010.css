@@ -525,7 +525,7 @@ table{
 }
 
 td.topics_date{
-	width: 7em;
+	width: 6.5em;
   padding-left: 0.5em;
 	vertical-align: top;
 }
@@ -535,16 +535,16 @@ td.topics_date{
 }
 
 	.article a{
-		padding-left: 12px;
+		padding-left: 20px;
 		position: relative;
-		display: block;
+		/*display: block;*/
 		background: none;
 	}
 	
 	.article a{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: -12px 1px;
+		background-position: 0px 1px;
 	}
 
 .article span{
