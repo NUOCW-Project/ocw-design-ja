@@ -10,7 +10,7 @@
   </a>
 
 {* 名古屋大学公開講座と最終講義は講師紹介 *}
-{if $course_info.department_abbr=='extension' || 
+{if $course_info.department_abbr==('extension'||'farewell') || 
 	 $course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq ''}
  <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=f_intro">
 {if $page_format.tpl_name=='f_intro'}
@@ -24,7 +24,7 @@
   </a>
 
 {* 高校生公開講座はシラバスなし *}
-{if $course_info.department_abbr!=('extension'||'open') &&
+{if $course_info.department_abbr!=('extension'||'open'||'farewell') &&
 	 !($course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq '')}  
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
    {if $page_format.tpl_name=='syllabus'}
