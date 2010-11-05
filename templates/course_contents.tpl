@@ -10,7 +10,8 @@
   </a>
 
 {* Ì¾¸Å²°Âç³Ø¸ø³«¹ÖºÂ¤ÈºÇ½ª¹ÖµÁ¤Ï¹Ö»Õ¾Ò²ð *}
-{if $course_info.department_abbr=='extension' || 
+{$course_info.department_abbr}
+{if $course_info.department_abbr==('extension'||'farewell') || 
 	 $course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq ''}
  <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=f_intro">
 {if $page_format.tpl_name=='f_intro'}
