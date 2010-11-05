@@ -535,7 +535,7 @@ td.topics_date{
 }
 
 	.article a{
-		padding-left: 20px;
+		padding-left: 12px;
 		position: relative;
 		display: block;
 		background: none;
@@ -544,7 +544,7 @@ td.topics_date{
 	.article a{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: 0px 1px;
+		background-position: 0px 3px;
 	}
 
 .article span{
