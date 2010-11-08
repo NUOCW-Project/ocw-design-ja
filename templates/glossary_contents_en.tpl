@@ -37,7 +37,7 @@
 		<h3>Mathematics Agora:</h3>
 		<p>Public lectures organized and held every year by Nagoya University's Graduate School of Mathematics, aimed at high-school students and their teachers. Details can be found at<a href="http://www.math.nagoya-u.ac.jp/ja/public/agora"> the Graduate School of Mathematics' website</a>.</p>
 	<div id="akf"><h3>AFK Search:</h3>
-		<p>Formally known as the Academic Knowledge Factory, and supported by Nagoya University¡Çs libraries, is a system by which you can search information from any of the sites listed below:
+		<p>Formally known as the Academic Knowledge Factory, and supported by Nagoya University's libraries, is a system by which you can search information from any of the sites listed below:
 		<ul>
 		<li><a href="http://ir.nul.nagoya-u.ac.jp/dspace/index.jsp" target="_blank">The Nagoya Repository</a>, which holds teaching materials, academic presentations and research papers created by scholars within the university, and makes them available to the world through the internet.</li>
 		<li><a href="http://libst1.nul.nagoya-u.ac.jp/eco/index.html" target="_blank">Eco-Collection</a>, a historical archive of flood control and Japan's largest rivers, conveys the historical relationship between nature and humanity in a real and up-to-date way with its "Document Tree House", also contains a database of gathered manuscripts of Ito Keisuke, the godfather of modern Japanese botany.</li>
