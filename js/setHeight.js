@@ -4,7 +4,7 @@ $(function(){
   H = $("#notice").outerHeight() + $("#press").outerHeight() - 8;
   $("#access div").css("height", H + "px");
 
-  H = H -35;
+  H = H -30;
   var G = 0;
   var i = 0;
 
