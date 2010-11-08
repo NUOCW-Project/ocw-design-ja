@@ -477,12 +477,13 @@ img#prj10{
 
 		#no5 td, #no7 td, #no9 td, #no11 td, #no13 td, #no15 td, #no17 td, #no19 td{
 			background-color: #e7e7df;
+			visibility: visible;
 		}
 
 		#no4 td, #no6 td, #no8 td, #no10 td, #no12 td, #no14 td, #no16 td, #no18 td{
 			background-color: white;
+			visibility: visible;
 		}
-
 	.waku{
 		border-style: solid;
 		border-width: 1px;

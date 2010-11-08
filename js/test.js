@@ -32,7 +32,7 @@ $(function(){
 
  // 方法3
   function method3() {	
-	var H;
+xc	var H;
 	H = $("#notice").outerHeight() + $("#press").outerHeight() -21;
 	var cssValue = $("#access div").css("height", H + "px");
 	
