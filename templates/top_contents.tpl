@@ -1,6 +1,6 @@
 <div class="inline">
 <div id="feature">
-  <img src="./images/{$lang}/t_special.png" alt="特別企画">
+  <img src="./images/ja/t_special.png" alt="特別企画">
   <!--  <img src="./images/{$lang}/backno.png" class="jump"> -->
   <br>
   <img src="./images/common/redline.gif" class="line" alt="">
@@ -11,7 +11,7 @@
   </a></div> <!-- "feature" end -->
     
 <div id="greeting">
-  <img src="./images/{$lang}/goaisatu.png" 
+  <img src="./images/ja/goaisatu.png" 
 		alt="名古屋大学オープンコースウェア委員長山本一良, 
 		     ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。" id="yamamoto">
      <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
@@ -21,15 +21,15 @@
 <div class="inline">
 <div id="access">
 <div class="waku"><!-- ボックス「アクセスランキング」 -->
-	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="月間ランキング" width="180" height="20">
+	<img src="./images/ja/t_ranking.png" class="subheading" alt="Ranking" width="180" height="20">
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
 	<table id="rank_table">
 	<tr id="no0">
-		<td class="rank">順位</td>
-		<td>講義名</td>
-		<td class="name">教員名
+		<td class="rank">number</td>
+		<td>Course</td>
+		<td class="name">Teacher
 
 	{literal}
 	{assign var='before' value=0}
@@ -46,11 +46,11 @@
 		{/if}
 		</td>
 		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
-		<td class="name"><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>
+		<td class="name"><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>
 
 	{else}
 		<br>
-			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>		
+			<a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>		
 	{/if}
 
 	{assign var='before' value=$v.course_id}
@@ -65,8 +65,8 @@
 
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
-  <img src="./images/{$lang}/t_news.png" class="subheading" alt="おしらせ" width="180" height="20">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="バックナンバー" width="65" height="15"></a>
+  <img src="./images/ja/t_news.png" class="subheading" alt="news" width="180" height="20">
+  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=news"><img src="./images/ja/backno.png" class="jump" alt="バックナンバー" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
     <table>
@@ -84,8 +84,8 @@
 
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
-  <img src="./images/{$lang}/t_release.png" class="subheading" alt="プレスリリース" width="180" height="20">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="バックナンバー" width="65" height="15"></a>
+  <img src="./images/ja/t_release.png" class="subheading" alt="pressrelease" width="180" height="20">
+  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=pressrelease"><img src="./images/ja/backno.png" class="jump" alt="バックナンバー" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
     <table>
