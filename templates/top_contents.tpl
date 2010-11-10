@@ -14,7 +14,7 @@
   <img src="./images/ja/goaisatu.png" 
 		alt="Ichiro Yamamoto, Chairperson, OpenCourseWare Committee, Nagoya University,
 		     Here at the NU OCW website we have gathered notes and materials from lectures given at Nagoya University." id="yamamoto">
-     <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
+     <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div><!-- "greeting" end -->
 </div><!-- "inline" end -->
 
