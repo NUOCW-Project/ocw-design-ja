@@ -29,11 +29,11 @@
           </div><!-- "header_button_akf" end -->
           <form method="get" action="./akfsearch.php">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
-              <input type="text" id="searchbox" name="query" value="ここから授業を検索できます" size="69">
+              <input type="text" id="searchbox" name="query" value="Search OCW" size="69">
               <input type="hidden" name="lang" value="{$lang}">
             </div><!-- "header_button_input" end -->
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
-              <input type="image" src="./images/common/search.png" alt="検索する">
+              <input type="image" src="./images/common/search.png" alt="search">
             </div> <!-- "header_button_search" end -->
           </form>
         </div><!-- "header_button_sub" end -->
