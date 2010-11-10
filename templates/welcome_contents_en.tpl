@@ -11,7 +11,8 @@
 <div class="welcome_name">
 	<p class="welcome_b">Hiroyuki Sugiyama</p>
 	<span class="b">
-	Chairperson, OpenCourseWare Committee,<br>
+	Chairperson,<br>
+	OpenCourseWare Committee,<br>
 	Nagoya University<span>
 </div>
 
