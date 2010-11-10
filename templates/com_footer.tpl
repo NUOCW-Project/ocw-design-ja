@@ -10,7 +10,7 @@
   {assign var='navi_total' value=`$smarty.foreach.navigation.total/3+1`}
   {if $smarty.foreach.navigation.first}
   <ul class="navi">
-     <li>■ナビゲーション<br></li>
+     <li>■Naigation<br></li>
   {elseif $smarty.foreach.navigation.index%$navi_total==0}
   </ul>
   <ul class="navi">
@@ -18,7 +18,7 @@
   {/if}
 
   {if $abbr!="empty"}
-    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">□{$dept.department_name}</a></li>
+    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">*{$dept.department_name}</a></li>
   {/if}
 
   {if $smarty.foreach.navigation.last}
@@ -28,37 +28,37 @@
 {/literal}
   
   <ul class="navi">
-    <li>■コンテンツ</li>
+    <li>*Contents</li>
 <!--    <li>OCWシーズン企画</li> -->
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome">ごあいさつ</a></li>
+    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome">Introduction</a></li>
 <!--    <li>アクセスランキング</li> -->
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=news">おしらせ</a></li>
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=pressrelease">プレスリリース</a></li>
+    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=news">News</a></li>
+    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=pressrelease">Pressrelease</a></li>
   </ul>
 
  </div><!-- "footer" end --> 
 <div class="footer_bottom">  
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">
-	<img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="名大の授業について"
-	     onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
-	     onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"></a></li>
+	<img src="./images/ja/c01aboutnu.png" class="size_img" alt="名大の授業について"
+	     onMouseOver="this.src='./images/ja/c01aboutnu_on.png'" 
+	     onMouseOut="this.src='./images/ja/c01aboutnu.png'"></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">
-      <img src="./images/{$lang}/c02answer.png" class="size_img" alt="用語解説"
-	   onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
-	   onMouseOut="this.src='./images/{$lang}/c02answer.png'"></a></li>
+      <img src="./images/ja/c02answer.png" class="size_img" alt="用語解説"
+	   onMouseOver="this.src='./images/ja/c02answer_on.png'" 
+	   onMouseOut="this.src='./images/ja/c02answer.png'"></a></li>
     <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus">
-	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="1分間授業紹介&amp;Podcast"
-	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
-	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a></li>
+	<img src="./images/ja/c03vs.png" class="size_img" alt="1分間授業紹介&amp;Podcast"
+	     onMouseOver="this.src='./images/ja/c03vs_on.png'" 
+	     onMouseOut="this.src='./images/ja/c03vs.png'"></a></li>
     <li><a href="http://www.media.nagoya-u.ac.jp/sc/" target="_blank">
-	<img src="./images/{$lang}/c04sc.png" class="size_img" alt="スタジオチャンネル"
-	     onMouseOver="this.src='./images/{$lang}/c04sc_on.png'" 
-	     onMouseOut="this.src='./images/{$lang}/c04sc.png'"></a></li>
+	<img src="./images/ja/c04sc.png" class="size_img" alt="スタジオチャンネル"
+	     onMouseOver="this.src='./images/ja/c04sc_on.png'" 
+	     onMouseOut="this.src='./images/ja/c04sc.png'"></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=link">
-      <img src="./images/{$lang}/c05link.png" class="size_img" alt="リンク"
-	   onMouseOver="this.src='./images/{$lang}/c05link_on.png'" 
-	   onMouseOut="this.src='./images/{$lang}/c05link.png'"></a></li>
+      <img src="./images/ja/c05link.png" class="size_img" alt="リンク"
+	   onMouseOver="this.src='./images/ja/c05link_on.png'" 
+	   onMouseOut="this.src='./images/ja/c05link.png'"></a></li>
   </ul>
   
     <div id="proviso"> 
