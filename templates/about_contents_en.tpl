@@ -71,17 +71,18 @@
 	<tr><td class="center">Support Staff</td>
 		<td class="left"><p>
 		Masanori Adachi<br>
+		Lucy Glasspool<br>
 		Yui Hayashi<br>
 		Yuka Ichinose<br>
 		Masanori Ito<br>
 		Simon Johnson<br>
                 Natsumi Koresawa<br>
-		Syun Kuthina<br>
+		Shun Kutsuna<br>
                 Sanae Muramatsu<br>
 		Tetsuro Nagai<br>
 		Ayaka Sato<br>
 		Yasutaka Shiraki<br>
-		Yuhei Suzuki<br>
+		Yuuhei Suzuki<br>
 		Tomoyo Takahashi<br>
 		Mitsunari Takahashi<br>
 		Yuto Takahashi<br>
