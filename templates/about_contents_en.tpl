@@ -89,6 +89,7 @@
 		Noboru Terada<br>
 		Mikito Yamamoto<br>
 		Zhong Yang<br>
+		Megumi Yoshida<br>
 	</p></td></tr>
 	<tr><td class="center_gray">photography</td>
         <td class="left_gray"><p>
