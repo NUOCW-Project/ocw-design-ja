@@ -50,7 +50,7 @@
 
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=2><h2>名古屋大学オープンコースウェア委員会</h2></td></tr>
-<tr><td colspan=2 align="right">2010年11月11日現在</td></tr>
+<tr><td colspan=2 align="right">2010年11月18日現在</td></tr>
 <tr><td class="center_gray">名古屋大学OCW委員会</td>
 		<td class="left_gray"><p>
 		[委員長]副総長 教授 山本一良<br>
@@ -93,7 +93,7 @@
 		多元数理科学研究科M1 伊藤大禮<br>
 		多元数理科学研究科M2 高橋祐人<br>
 		多元数理科学研究科D1 足立真訓<br>
-		NUPACE短期留学生 ルーシー グラスプール<br> 
+		国際言語文化研究科研究生 ルーシー グラスプール<br> 
 		シェフィールド大学 サイモン ジョンソン<br>
 		</p></td></tr>
 <tr><td class="center_gray">写真撮影</td>
