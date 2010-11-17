@@ -50,7 +50,7 @@
 
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=2><h2>名古屋大学オープンコースウェア委員会</h2></td></tr>
-<tr><td colspan=2 align="right">2010年10月1日現在</td></tr>
+<tr><td colspan=2 align="right">2010年11月18日現在</td></tr>
 <tr><td class="center_gray">名古屋大学OCW委員会</td>
 		<td class="left_gray"><p>
 		[委員長]副総長 教授 山本一良<br>
@@ -77,21 +77,23 @@
 		<td class="left"><p>
 		文学部B3 市之瀬由佳<br>
 		文学研究科D3 寺田騰<br>
+		法学部B2 朽名駿<br>
+		法学部B2 鈴木悠平<br>
 		法学部B3 是澤奈津美<br>
 		情報文化学部B4 佐藤綾香<br>
 		情報文化学部B4 高橋知世<br>
 		理学部B2 高橋光成<br>
 		理学部B2 山本幹人<br>
 		理学研究科D1 永井哲郎<br>
-		工学部B4 鐘 揚<br>
 		工学部B2 林祐衣<br>
+		工学部B4 鐘 揚<br>
 		工学部B4 村松沙那恵<br>
-    工学研究科M1 白木康建<br>
+		工学研究科M1 白木康建<br>
+		生命農学研究科M2 吉田恵<br>
 		多元数理科学研究科M1 伊藤大禮<br>
 		多元数理科学研究科M2 高橋祐人<br>
 		多元数理科学研究科D1 足立真訓<br>
-    NUPACE短期留学生 アリス ウォルサー<br> 
-    NUPACE短期留学生 トーマス ベン<br> 
+		国際言語文化研究科研究生 ルーシー グラスプール<br> 
 		シェフィールド大学 サイモン ジョンソン<br>
 		</p></td></tr>
 <tr><td class="center_gray">写真撮影</td>
@@ -101,4 +103,3 @@
 		</p></td></tr>
 </table>
 
-<!-- </div> "package2" end -->
