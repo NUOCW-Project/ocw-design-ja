@@ -34,3 +34,4 @@
 そのレポートにエクセルでつくった表や図を加えられたら、きっともっと分かりやすくていいレポートになりますよ。エクセルは就職してからのオフィスでは必須ツール。この使い方を学習できる講義です。</p>
 		<a href="./index.php?lang=ja&mode=c&id=71&page_type=index"><img src="./images/ja/topics_msg/msg_06kita_pic.png" alt="教養教育院 北英輔教授 【図情報とコンピュータ】" /></a>
 	</li>
+</ul>
