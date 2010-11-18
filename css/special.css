@@ -22,8 +22,8 @@
 
 #msg01 img{
 	position: absolute;
+	top: 100px;
 
-	right: 10px;
 }
 
 #msg02{
