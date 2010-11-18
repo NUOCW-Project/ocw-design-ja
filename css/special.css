@@ -1,5 +1,6 @@
 #msg_top_image{
-
+	width: 700px;
+	height: 400px;
 }
 
 #msgs{
@@ -8,29 +9,33 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: green;
-	margin-top: -30px;
+}
+
+#msgs li{
+	overflow: visible;
 }
 
 #msg01{
-
-	position: absolute;
-	top: -30px;
+	width: 700px;
+	height: 300px;
+	position: relative;
 }
 
 #msg01 p{
 	position: absolute;
 	top: 100px;
-
 	width: 300px;
 }
 
 #msg01 img{
 	position: absolute;
 	top: 100px;
-
+	width: 233px;
+	height: 84px;
 }
 
 #msg02{
-	position: absolute;
-	top: 300px;
+	width: 700px;
+	height: 500px;
+	position: relative;
 }
