@@ -8,7 +8,7 @@
 #msgs{
 	list-style-type: none;
 	position: relative;
-	top: -60px;
+	top: -75px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: green;
@@ -50,14 +50,14 @@
 #msg02 p{
 	position: absolute;
 	top: 180px;
-	left: 150px;
-	width: 250px;
+	left: 100px;
+	width: 220px;
 }
 
 #msg02 a{
 	position: absolute;
-	top: 450px;
-	left: 150px;
+	top: 380px;
+	left: 100px;
 	width: 233px;
 	height: 84px;
 }
