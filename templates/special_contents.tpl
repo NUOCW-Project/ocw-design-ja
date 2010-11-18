@@ -32,5 +32,5 @@
 		<img src="./images/ja/topics_msg/msg_06kita.png" alt="06 messageにもうひと工夫" />
 		<p>ワードで文章を書けるから大学でのレポート提出は大丈夫、なんて思っていませんか？<br />
 そのレポートにエクセルでつくった表や図を加えられたら、きっともっと分かりやすくていいレポートになりますよ。エクセルは就職してからのオフィスでは必須ツール。この使い方を学習できる講義です。</p>
-		<a href=""><img src="./images/ja/topics_msg/msg_06kita_pic.png" alt="教養教育院 北英輔教授 【図情報とコンピュータ】" /></a>
+		<a href="./index.php?lang=ja&mode=c&id=71&page_type=index"><img src="./images/ja/topics_msg/msg_06kita_pic.png" alt="教養教育院 北英輔教授 【図情報とコンピュータ】" /></a>
 	</li>
