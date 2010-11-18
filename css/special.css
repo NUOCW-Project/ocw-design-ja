@@ -17,13 +17,14 @@
 
 #msg01{
 	width: 700px;
-	height: 300px;
+	height: 500px;
 	position: relative;
 }
 
 #msg01 p{
 	position: absolute;
-	top: 100px;
+	top: 200px;
+	left: 180px;
 	width: 300px;
 }
 
@@ -36,6 +37,6 @@
 
 #msg02{
 	width: 700px;
-	height: 500px;
+	height: 550px;
 	position: relative;
 }
