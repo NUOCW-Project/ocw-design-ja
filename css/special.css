@@ -2,14 +2,14 @@
 
 }
 
-ul{
+#msgs{
 	list-style-type: none;
-
+	position: relative;
 }
 
 #msg01{
 	position: absolute;
-	top: 380px;
+	top: -20px;
 	z-index: 1;
 }
 
@@ -29,5 +29,5 @@ ul{
 #msg02{
 	z-index: 2;
 	position: absolute;
-	top: 680px;
+	top: 300px;
 }
