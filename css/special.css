@@ -27,7 +27,7 @@
 	width: 300px;
 }
 
-#msg01 img{
+#msg01 a img{
 	position: absolute;
 	top: 100px;
 	width: 233px;
