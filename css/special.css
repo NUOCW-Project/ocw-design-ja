@@ -13,7 +13,8 @@
 
 #msg01{
 
-	position: relative;
+	position: absolute;
+	top: 0px;
 }
 
 #msg01 p{
@@ -30,6 +31,6 @@
 }
 
 #msg02{
-	position: relative;
-	
+	position: absolute;
+	top: 300px;
 }
