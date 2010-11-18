@@ -1,0 +1,32 @@
+#msg_top_image{
+	z-index: 2;
+}
+
+ul{
+	list-style-type: none;
+	z-index: 1;
+}
+
+#msg01{
+	margin-top: -30px;
+	position: relative;
+	z-index: 0;
+}
+
+#msg01 p{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	width: 300px;
+}
+
+#msg01 img{
+	position: absolute;
+	top:100px;
+	right: 10px;
+}
+
+#msg02{
+	z-index: 1;
+	margin-top: -1500px;
+}

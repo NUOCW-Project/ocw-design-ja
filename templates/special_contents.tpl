@@ -1,7 +1,7 @@
-<img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" />
+<img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" id="msg_top_image" />
 
 <ul>
-	<li id="msg0">
+	<li id="msg01">
 		<img src="./images/ja/topics_msg/msg_01haga.png" alt="01 先輩たちからのmessage" />
 		<p>もっと知ってください！　名古屋大学について。<br />先輩たちが積み重ねた名大の歴史から伝わるメッセージ。<br />名大の歴史を知れば授業に出席するモチベーションもアップする?!<br />この講義は受験生、在校生ともに受講してみる価値アリです。</p>
 		<a href="./index.php?lang=ja&mode=c&id=57&page_type=index"><img src="./images/ja/topics_msg/msg_01haga_pic.png" alt="教養教育院 羽賀祥二教授 【全学教養科目-名大の歴史をたどる】" /></a>
