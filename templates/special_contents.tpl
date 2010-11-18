@@ -11,12 +11,12 @@
 		<p>とどまることなく変化してゆくこの世界。<br />「過去」と「現在」そして「未来」の間にはどんなつながりがあるのでしょうか？<br />この講義は自然現象や社会現象を数学的に表現する「微分方程式」がテーマです。<br />すべての「今、この瞬間」が「次の瞬間」へとつないできたメッセージを読み解くカギをこの講義で見つけられるかもしれません。</p>
 		<a href="./index.php?lang=ja&mode=c&id=32&page_type=index"><img src="./images/ja/topics_msg/msg_02nakamura_pic.png" alt="情報文化学部 中村泰之准教授 【物質情報学2】" /></a>
 	</li>
-<!--	<li id="msg03">
+	<li id="msg03">
 		<img src="./images/ja/topics_msg/msg_03ono.png" alt="03 DNAからのmessage" />
 		<p>「私とは何か？」「私はどこから来たのか？」<br />人間の身体を構成する物質についての知識を元にこの疑問へのアプローチを試みるのがこの講義。遺伝学の知識は医学研究においても医療現場においても重要度は増すばかり。将来、世界の遺伝学研究を背負って立つのはあなたかもしれない?!</p>
 		<a href="./index.php?lang=ja&mode=c&id=120&page_type=index"><img src="./images/ja/topics_msg/msg_03ono_pic.png" alt="医学部医学系研究科 大野欽司教授 【遺伝と遺伝子】" /></a>
 	</li>
-	<li id="msg04">
+<!--	<li id="msg04">
 		<img src="./images/ja/topics_msg/msg_04motoyama.png" alt="04 messageの新しい表現方法" />
 		<p>メディアアートって知ってますか？<br />
 インターネットやパソコン、映像など<br />新しい電子メディアを使った芸術表現と作品がメディアアートです。もしかしたら、いつもあなたが楽しんでいる<br />ゲームやアニメーションも芸術かもしれませんよ。名大にも現代芸術について考える<br />こんな講義があるんです。</p>
