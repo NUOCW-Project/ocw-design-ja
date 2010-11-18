@@ -5,10 +5,6 @@
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
 <link rel="stylesheet" type="text/css" href="css/2010.css">
-
-{literal}{if $page_type="special"}{/literal}
-<link rel="stylesheet" type="text/css" href="css/special.css">
-{literal}{/if}{/literal}
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/toggle.js"></script>
 <script type="text/javascript" src="./js/openWin.js"></script>
