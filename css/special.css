@@ -75,11 +75,11 @@
 }
 
 #msg03{
-	width: 360px;
-	height: 350px;
+	width: 400px;
+	height: 370px;
 	position: relative;
 	left: 340px;
-	overflow: visible;
+	overflow: hidden;
 }
 
 #msg03 img{
