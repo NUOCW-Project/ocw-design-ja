@@ -64,6 +64,7 @@
 	-webkit-transform: rotate(-2deg);
 	-o-transform: rotate(-2deg);
 	-ms-transform: rotate(-2deg);
+	z-index: 2;
 }
 
 #msg02 a{
@@ -72,19 +73,13 @@
 	left: 100px;
 	width: 177px;
 	height: 77px;
+	z-index: 2;
 }
 
 #msg03{
 	width: 430px;
 	height: 390px;
 	position: relative;
-	left: 340px;
-	overflow: hidden;
-}
-
-#msg03 img{
-	position: absolute;
-	right: 0px;
 }
 
 #msg03 p{
@@ -112,7 +107,6 @@
 	width: 700px;
 	height: 270px;
 	position: relative;
-	margin-top: -30px;
 }
 
 
