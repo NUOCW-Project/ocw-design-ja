@@ -78,6 +78,8 @@
 	width: 360px;
 	height: 350px;
 	position: relative;
+	left: 340px;
+	overflow: visible;
 }
 
 #msg03 img{
