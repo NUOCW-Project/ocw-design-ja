@@ -103,7 +103,7 @@
 
 #msg04{
 	width: 700px;
-	height: 400px;
+	height: 270px;
 	position: relative;
 }
 
@@ -112,7 +112,7 @@
 	position: absolute;
 	top: 120px;
 	left: 130px;
-	width: 500px;
+	width: 400px;
 	transform: rotate(4deg);
 	-moz-transform: rotate(4deg);
 	-webkit-transform: rotate(4deg);
@@ -123,23 +123,23 @@
 #msg04 a{
 	position: absolute;
 	top: 220px;
-	right: 30px;
+	right: 50px;
 	width: 206px;
 	height: 81px;
 }
 
 #msg05{
 	width: 700px;
-	height: 450px;
+	height: 300px;
 	position: relative;
 }
 
 
 #msg05 p{
 	position: absolute;
-	top: 120px;
-	left: 130px;
-	width: 500px;
+	top: 150px;
+	left: 150px;
+	width: 300px;
 	transform: rotate(-3deg);
 	-moz-transform: rotate(-3deg);
 	-webkit-transform: rotate(-3deg);
@@ -150,7 +150,7 @@
 #msg05 a{
 	position: absolute;
 	top: 220px;
-	right: 20px;
+	right: 40px;
 	width: 186px;
 	height: 76px;
 }
@@ -166,7 +166,7 @@
 	position: absolute;
 	top: 120px;
 	left: 130px;
-	width: 500px;
+	width: 300px;
 	transform: rotate(1deg);
 	-moz-transform: rotate(1deg);
 	-webkit-transform: rotate(1deg);
@@ -177,7 +177,7 @@
 #msg06 a{
 	position: absolute;
 	top: 250px;
-	right: 20px;
+	right: 50px;
 	width: 234px;
 	height: 78px;
 }
