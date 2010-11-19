@@ -122,7 +122,7 @@
 
 #msg04 a{
 	position: absolute;
-	top: 220px;
+	top: 200px;
 	right: 50px;
 	width: 206px;
 	height: 81px;
@@ -130,7 +130,7 @@
 
 #msg05{
 	width: 700px;
-	height: 300px;
+	height: 320px;
 	position: relative;
 }
 
@@ -139,7 +139,7 @@
 	position: absolute;
 	top: 150px;
 	left: 150px;
-	width: 300px;
+	width: 330px;
 	transform: rotate(-3deg);
 	-moz-transform: rotate(-3deg);
 	-webkit-transform: rotate(-3deg);
@@ -149,7 +149,7 @@
 
 #msg05 a{
 	position: absolute;
-	top: 220px;
+	top: 240px;
 	right: 40px;
 	width: 186px;
 	height: 76px;
@@ -166,7 +166,7 @@
 	position: absolute;
 	top: 120px;
 	left: 130px;
-	width: 300px;
+	width: 330px;
 	transform: rotate(1deg);
 	-moz-transform: rotate(1deg);
 	-webkit-transform: rotate(1deg);
@@ -177,7 +177,7 @@
 #msg06 a{
 	position: absolute;
 	top: 250px;
-	right: 50px;
+	right: 60px;
 	width: 234px;
 	height: 78px;
 }
