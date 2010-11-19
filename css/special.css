@@ -9,7 +9,7 @@
 	list-style-type: none;
 	position: relative;
 	top: -95px;
-	margin-left: -20px;
+	margin-left: -40px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: green;
@@ -75,9 +75,10 @@
 }
 
 #msg03{
-	width: 700px;
+	width: 360px;
 	height: 350px;
 	position: relative;
+	left: 340px;
 }
 
 
