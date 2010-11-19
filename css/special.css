@@ -78,9 +78,12 @@
 	width: 360px;
 	height: 350px;
 	position: relative;
-	left: 340px;
 }
 
+#msg03 img{
+	position: absolute;
+	right: 0px;
+}
 
 #msg03 p{
 	position: absolute;
