@@ -28,7 +28,7 @@
 #msg01 p{
 	position: absolute;
 	top: 200px;
-	left: 130px;
+	left: 110px;
 	width: 350px;
 	transform: rotate(-5deg);
 	-moz-transform: rotate(-5deg);
@@ -86,11 +86,11 @@
 	right: 20px;
 	width: 325px;
 	text-align: right;
-	transform: rotate(4deg);
-	-moz-transform: rotate(4deg);
-	-webkit-transform: rotate(4deg);
-	-o-transform: rotate(4deg);
-	-ms-transform: rotate(4deg);
+	transform: rotate(3deg);
+	-moz-transform: rotate(3deg);
+	-webkit-transform: rotate(3deg);
+	-o-transform: rotate(3deg);
+	-ms-transform: rotate(3deg);
 }
 
 #msg03 a{
