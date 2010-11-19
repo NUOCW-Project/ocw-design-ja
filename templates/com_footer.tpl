@@ -79,7 +79,7 @@
 </div>
 
 </div><!--"main" end-->
-<div><!-- "main_back" end -->
+</div><!-- "main_back" end -->
 
 </div> <!--  "body_back" end -->
 
