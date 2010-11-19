@@ -30,7 +30,7 @@
 	top: 200px;
 	left: 130px;
 	width: 350px;
-	transform: rotate(15deg);
+	transform: rotate(45deg);
 }
 
 #msg01 a{
@@ -53,6 +53,7 @@
 	top: 150px;
 	left: 90px;
 	width: 200px;
+	transform: rotate(45deg);
 }
 
 #msg02 a{
