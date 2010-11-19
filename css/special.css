@@ -30,11 +30,11 @@
 	top: 200px;
 	left: 130px;
 	width: 350px;
-	transform: rotate(-15deg);
-	-moz-transform: rotate(-15deg);
-	-webkit-transform: rotate(-15deg);
-	-o-transform: rotate(-15deg);
-	-ms-transform: rotate(-15deg);
+	transform: rotate(-5deg);
+	-moz-transform: rotate(-5deg);
+	-webkit-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
+	-ms-transform: rotate(-5deg);
 }
 
 #msg01 a{
@@ -57,7 +57,12 @@
 	top: 150px;
 	left: 75px;
 	width: 210px;
-	transform: rotate(45deg);
+	transform: rotate(-2deg);
+	transform: rotate(-2deg);
+	-moz-transform: rotate(-2deg);
+	-webkit-transform: rotate(-2deg);
+	-o-transform: rotate(-2deg);
+	-ms-transform: rotate(-2deg);
 }
 
 #msg02 a{
@@ -66,11 +71,6 @@
 	left: 100px;
 	width: 233px;
 	height: 84px;
-	transform: rotate(-5deg);
-	-moz-transform: rotate(-5deg);
-	-webkit-transform: rotate(-5deg);
-	-o-transform: rotate(-5deg);
-	-ms-transform: rotate(-5deg);
 }
 
 #msg03{
@@ -86,11 +86,11 @@
 	right: 20px;
 	width: 325px;
 	text-align: right;
-	transform: rotate(10deg);
-	-moz-transform: rotate(10deg);
-	-webkit-transform: rotate(10deg);
-	-o-transform: rotate(10deg);
-	-ms-transform: rotate(10deg);
+	transform: rotate(4deg);
+	-moz-transform: rotate(4deg);
+	-webkit-transform: rotate(4deg);
+	-o-transform: rotate(4deg);
+	-ms-transform: rotate(4deg);
 }
 
 #msg03 a{
