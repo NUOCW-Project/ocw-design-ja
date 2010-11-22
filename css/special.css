@@ -66,7 +66,7 @@
 
 #msg02 a{
 	position: absolute;
-	top: 370px;
+	top: 390px;
 	left: 100px;
 	width: 177px;
 	height: 77px;
@@ -75,7 +75,7 @@
 
 #msg03{
 	width: 700px;
-	height: 360px;
+	height: 380px;
 	position: relative;
 }
 
@@ -112,11 +112,11 @@
 	top: 120px;
 	left: 130px;
 	width: 400px;
-	transform: rotate(4deg);
-	-moz-transform: rotate(4deg);
-	-webkit-transform: rotate(4deg);
-	-o-transform: rotate(4deg);
-	-ms-transform: rotate(4deg);
+	transform: rotate(5deg);
+	-moz-transform: rotate(5deg);
+	-webkit-transform: rotate(5deg);
+	-o-transform: rotate(5deg);
+	-ms-transform: rotate(5deg);
 }
 
 #msg04 a{
@@ -138,12 +138,12 @@
 	position: absolute;
 	top: 150px;
 	left: 150px;
-	width: 330px;
-	transform: rotate(-3deg);
-	-moz-transform: rotate(-3deg);
-	-webkit-transform: rotate(-3deg);
-	-o-transform: rotate(-3deg);
-	-ms-transform: rotate(-3deg);
+	width: 340px;
+	transform: rotate(-2deg);
+	-moz-transform: rotate(-2deg);
+	-webkit-transform: rotate(-2deg);
+	-o-transform: rotate(-2deg);
+	-ms-transform: rotate(-2deg);
 }
 
 #msg05 a{
@@ -165,12 +165,12 @@
 	position: absolute;
 	top: 120px;
 	left: 130px;
-	width: 330px;
-	transform: rotate(1deg);
-	-moz-transform: rotate(1deg);
-	-webkit-transform: rotate(1deg);
-	-o-transform: rotate(1deg);
-	-ms-transform: rotate(1deg);
+	width: 340px;
+	transform: rotate(1.5deg);
+	-moz-transform: rotate(1.5deg);
+	-webkit-transform: rotate(1.5deg);
+	-o-transform: rotate(1.5deg);
+	-ms-transform: rotate(1.5deg);
 }
 
 #msg06 a{
