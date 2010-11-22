@@ -7,7 +7,7 @@
   <br>
   <!-- 「OCW特別企画」 -->
   <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=special"> 
-    <img src="./images/ja/topics_msg/prj10_msg_header.jpg" id="prj10" alt="Topics 第１回目 message">
+    <img src="./images/ja/topics_msg/prj10_msg_headder.jpg" id="prj10" alt="Topics 第１回目 message">
   </a></div> <!-- "feature" end -->
     
 <div id="greeting">
