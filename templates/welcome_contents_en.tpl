@@ -3,8 +3,8 @@
 	<param name="movie" value="player.swf" >
 	<param name="quality" value="high" >
 	<param name="wmode" value="transparent" >
-	<param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv">
-	<embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0000684/FLASH-FLV/yamamoyo_ocw.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
+	<param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001090/FLASH-FLV/2009_yamamoyo_ocw_eng.flv">
+	<embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001090/FLASH-FLV/2009_yamamoyo_ocw_eng.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
 	</object>
 </div>
 
