@@ -75,7 +75,7 @@
       <td class="topics_date">{$topic.stime|date_format:"%Y-%m-%d"}</td>
       <td class="article">
       {if $topic.diff_day < 14}{$topic.contents|strip}
-	{else}{$topic.contents|strip|replace:'</a>':<img class="icon" src="./images/common/new.png" alt="new!"></a>'}{/if}
+	{else}{$topic.contents|strip|replace:'</a>':'<img class="icon" src="./images/common/new.png" alt="new!"></a>'}{/if}
       </td>
     </tr>
     {/foreach}
