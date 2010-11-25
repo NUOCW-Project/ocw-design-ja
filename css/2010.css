@@ -672,6 +672,7 @@ td.topics_date{
 	height: 15px;
 	margin-right: 0;
 	margin-left: auto;
+	float: right;
 	display: inline;
 	vertical-align: middle;
 	vertical-align: text-bottom;
