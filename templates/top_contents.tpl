@@ -73,9 +73,8 @@
     {foreach from=$news_list item="topic"}
     <tr>
       <td class="topics_date">{$topic.stime|date_format:"%Y-%m-%d"}</td>
-      <td class="article">
-      {if $topic.diff_day < 14}{$topic.contents|strip}
-	{else}{$topic.contents|strip|replace:'</a>':'<img class="icon" src="./images/common/new.png" alt="new!"></a>'}{/if}
+      <td class="article">{$topic.contents|strip}
+      {if $topic.diff_day < 14}<img class="icon" src="./images/common/new.png" alt="new!">{/if}
       </td>
     </tr>
     {/foreach}
