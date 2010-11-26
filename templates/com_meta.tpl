@@ -5,6 +5,7 @@
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
 <link rel="stylesheet" type="text/css" href="css/2010.css">
+<link rel="stylesheet" type="text/css" href="css/special.css">
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/toggle.js"></script>
 <script type="text/javascript" src="./js/openWin.js"></script>

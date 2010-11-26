@@ -477,12 +477,13 @@ img#prj10{
 
 		#no5 td, #no7 td, #no9 td, #no11 td, #no13 td, #no15 td, #no17 td, #no19 td{
 			background-color: #e7e7df;
+			visibility: visible;
 		}
 
 		#no4 td, #no6 td, #no8 td, #no10 td, #no12 td, #no14 td, #no16 td, #no18 td{
 			background-color: white;
+			visibility: visible;
 		}
-
 	.waku{
 		border-style: solid;
 		border-width: 1px;
@@ -525,7 +526,7 @@ table{
 }
 
 td.topics_date{
-	width: 7em;
+	width: 6em;
   padding-left: 0.5em;
 	vertical-align: top;
 }
@@ -536,14 +537,15 @@ td.topics_date{
 
 	.article a{
 		padding-left: 12px;
-		/*display: block;*/
+		position: relative;
+		display: block;
 		background: none;
 	}
 	
 	.article a:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
-		background-position: 0px 1px;
+		background-position: 0px 3px;
 	}
 
 .article span{
@@ -667,7 +669,8 @@ td.topics_date{
 .icon{
 	width: 30px;
 	height: 15px;
-	float: right;
+	margin-right: 0;
+	margin-left: auto;
 	display: inline;
 	vertical-align: middle;
 	vertical-align: text-bottom;
