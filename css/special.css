@@ -112,11 +112,11 @@
 	top: 120px;
 	left: 120px;
 	width: 410px;
-	transform: rotate(5.5deg);
-	-moz-transform: rotate(5.5deg);
-	-webkit-transform: rotate(5.5deg);
-	-o-transform: rotate(5.5deg);
-	-ms-transform: rotate(5.5deg);
+	transform: rotate(5deg);
+	-moz-transform: rotate(5deg);
+	-webkit-transform: rotate(5deg);
+	-o-transform: rotate(5deg);
+	-ms-transform: rotate(5deg);
 }
 
 #msg04 a{
@@ -166,11 +166,11 @@
 	top: 120px;
 	left: 120px;
 	width: 360px;
-	transform: rotate(2deg);
+	/*transform: rotate(2deg);
 	-moz-transform: rotate(2deg);
 	-webkit-transform: rotate(2deg);
 	-o-transform: rotate(2deg);
-	-ms-transform: rotate(2deg);
+	-ms-transform: rotate(2deg);*/
 }
 
 #msg06 a{
@@ -179,4 +179,9 @@
 	right: 55px;
 	width: 234px;
 	height: 78px;
+	transform: rotate(-4deg);
+	-moz-transform: rotate(-4deg);
+	-webkit-transform: rotate(-4deg);
+	-o-transform: rotate(-4deg);
+	-ms-transform: rotate(-4deg);
 }

@@ -533,16 +533,17 @@ td.topics_date{
 
 .article{
 	background: none;
-}
-
-	.article a{
 		padding-left: 12px;
-		position: relative;
 		display: block;
+}
+	.article a{
+
+		position: relative;
+
 		background: none;
 	}
 	
-	.article a:hover{
+	.article:hover{
 		background-image:url(../images/common/arrow_on.png);
 		background-repeat: no-repeat;
 		background-position: 0px 3px;
@@ -671,6 +672,7 @@ td.topics_date{
 	height: 15px;
 	margin-right: 0;
 	margin-left: auto;
+	float: right;
 	display: inline;
 	vertical-align: middle;
 	vertical-align: text-bottom;
