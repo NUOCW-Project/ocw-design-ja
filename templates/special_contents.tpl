@@ -12,7 +12,7 @@
 		<a href="./index.php?lang=ja&amp;mode=c&amp;id=32&amp;page_type=index"><img src="./images/ja/topics_msg/msg_02nakamura_pic.png" alt="情報文化学部 中村泰之准教授 【物質情報学2】"></a>
 	</li>
 	<li id="msg03">
-		<img src="./images/ja/topics_msg/msg_03ono.png" alt="03 DNAからindex.php?lang=ja&mode=c&id=32&page_type=indexindex.php?lang=ja&mode=c&id=32&page_type=indexのmessage">
+		<img src="./images/ja/topics_msg/msg_03ono.png" alt="03 DNAからのmessage">
 		<p>「私とは何か？」「私はどこから来たのか？」<br>人間の身体を構成する物質についての知識を元に<br>この疑問へのアプローチを試みるのがこの講義。<br>遺伝学の知識は医学研究においても<br>医療現場においても重要度は増すばかり。<br>将来、世界の遺伝学研究を背負って立つのは<br>あなたかもしれない?!</p>
 		<a href="./index.php?lang=ja&amp;mode=c&amp;id=120&amp;page_type=index"><img src="./images/ja/topics_msg/msg_03ono_pic.png" alt="医学部医学系研究科 大野欽司教授 【遺伝と遺伝子】"></a>
 	</li>
