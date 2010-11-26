@@ -27,9 +27,9 @@
 	 <br>
 	<table id="rank_table">
 	<tr id="no0">
-		<td class="rank">number</td>
-		<td>Course</td>
-		<td class="name">Teacher
+		<td class="rank">½ç°Ì</td>
+		<td>¹ÖµÁÌ¾</td>
+		<td class="name">¶µ°÷Ì¾
 
 	{literal}
 	{assign var='before' value=0}
