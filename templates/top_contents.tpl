@@ -6,7 +6,7 @@
   <img src="./images/common/redline.gif" class="line" alt="">
   <br>
   <!-- 「TOPICS」 -->
-  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=special"> 
+  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics"> 
     <img src="./images/ja/topics_msg/prj10_msg_headder.jpg" id="prj10" alt="Topics 第１回目 message">
   </a></div> <!-- "feature" end -->
     
