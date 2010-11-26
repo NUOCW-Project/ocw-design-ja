@@ -1,11 +1,11 @@
 <div class="inline">
 <div id="feature">
-  <img src="./images/ja/t_special.png" alt="Special Events">
+  <img src="./images/common/t_topics.png" alt="Topics">
   <!--  <img src="./images/{$lang}/backno.png" class="jump"> -->
   <br>
   <img src="./images/common/redline.gif" class="line" alt="">
   <br>
-  <!-- 「OCW特別企画」 -->
+  <!-- 「TOPICS」 -->
   <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=special"> 
     <img src="./images/ja/topics_msg/prj10_msg_headder.jpg" id="prj10" alt="Topics 第１回目 message">
   </a></div> <!-- "feature" end -->
