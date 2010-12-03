@@ -1,4 +1,4 @@
-<ul id="departmentslist" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
+<ul id="departmentslist"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
 <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
    <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}授業一覧から探す{/if}"
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
@@ -6,7 +6,7 @@
 <!-- 各学部ページへのリンクリスト -->
 {literal}
 {strip}
-<ul id="departmentslist_list" style="list-style:none"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
+<ul id="departmentslist_list"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
 {foreach from=$dept_list key="abbr" item="dept"}
   <li>
   {if $mode=="l" && $page_type==$abbr}
