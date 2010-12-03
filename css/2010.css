@@ -245,6 +245,7 @@ a:hover{
 	width: 160px;
 	padding:0px;
 	margin: 0px 5px 0px 30px;
+	list-style:none;
 /*	position: relative;
 	top: -25px;			*/
 }
@@ -254,6 +255,7 @@ a:hover{
 	width: 160px;
 	margin: 0px 2px 0px 20px;
 	padding: 0px;
+	list-style:none;
 }
 
 #departmentslist_list{
@@ -261,6 +263,7 @@ a:hover{
 	padding:0px;
 	margin: 0px 5px 0px 0px;
 	position: relative;	
+	list-style:none;
 }
 
 #departmentslist_list li{
