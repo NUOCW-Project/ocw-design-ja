@@ -820,7 +820,12 @@ span.b{
 	font-weight: bold; 
 }
 
-#release_date{
+#release_date {
+  text-align: left;
+  float: left;
+}
+
+#release_disclaimer{
   text-align: right;
 }
 

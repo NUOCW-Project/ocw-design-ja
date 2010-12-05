@@ -108,7 +108,10 @@
 <img src="./images/common/redline.gif" id="line1" alt=""><!-- 水平線(下) -->
 
 <div id="release_date">
-最終更新日：{$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1年$2月$3日'}<br>
+最終更新日：{$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1年$2月$3日'}
+</div>
+
+<div id="release_disclaimer">
 公開内容は最終更新日時点の内容です。<br>
 最新年度の講義内容と異なる可能性がありますのでご注意ください。
 </div>
