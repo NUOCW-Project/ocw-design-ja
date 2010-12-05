@@ -106,7 +106,7 @@
 </div><!--"main_text" end-->
 
 <div id="release_date">
-(このコースは{$release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1年$2月$3日'}に更新されました。
+(このコースは{$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1年$2月$3日'}に更新されました。
 最新年度の内容ではない可能性がありますのでご注意ください）
 </div>
 
