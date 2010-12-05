@@ -820,6 +820,10 @@ span.b{
 	font-weight: bold; 
 }
 
+#release_date{
+  text-align: right;
+}
+
 /*------------- 1Ê¬´Ö¼ø¶È¾Ò²ð&PodCast -----------*/
 #podcast{
 	float: left;
