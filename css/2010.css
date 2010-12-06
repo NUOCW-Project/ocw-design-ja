@@ -825,6 +825,16 @@ span.b{
 	font-weight: bold; 
 }
 
+#release_date {
+  text-align: left;
+  float: left;
+}
+
+#release_disclaimer{
+  text-align: right;
+  margin-bottom: 30px;
+}
+
 /*------------- 1Ê¬´Ö¼ø¶È¾Ò²ð&PodCast -----------*/
 #podcast{
 	float: left;
