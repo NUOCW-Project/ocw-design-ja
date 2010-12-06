@@ -105,6 +105,9 @@
   {/foreach}
 </div><!--"main_text" end-->
 
+{* 名古屋大学公開講座と最終講義以外では、更新日と注意書きを表示 *}
+{if $course_info.department_abbr!='extension' && $course_info.department_abbr!='farewell' &&
+    $course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' != ''}
 <img src="./images/common/redline.gif" id="line1" alt=""><!-- 水平線(下) -->
 
 <div id="release_date">
@@ -115,5 +118,5 @@
 最終更新日の時点の講義内容で公開を行っております。<br>
 最新年度の講義と内容が異なる可能性がありますのでご注意ください。
 </div>
-
+{/if}
 
