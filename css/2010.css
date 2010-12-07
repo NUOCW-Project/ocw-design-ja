@@ -51,10 +51,6 @@ a:hover{
 }
 
 
-p{
-border:dotted;
-}
-
 .header{
 	height: 90px; 
 	background-image: url(../images/common/topbar.jpg);/* 背景画像「名大の授業」 */
