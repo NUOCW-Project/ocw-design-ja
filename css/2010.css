@@ -26,8 +26,8 @@ h3{
 	background-image: url(../images/common/header3_box.png);
 	background-repeat: no-repeat;
 	padding-left: 15px;
-	margin-bottom: 5px;
-	border: dotted;
+	/* margin-bottom: 5px; */
+	margin-bottom: 15px;
 }
 
 img{
