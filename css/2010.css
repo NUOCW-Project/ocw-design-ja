@@ -649,7 +649,9 @@ td.topics_date{
 	padding-top: 0px;
 	margin-left: -145px;
   margin-right: 0;
-  margin-top: 0;
+/*  margin-top: 0; */
+margin-top:3em;
+
 /*  margin-bottom: 0; */
 	margin-bottom: 3em;
    width: 110px;
