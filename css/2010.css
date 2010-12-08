@@ -615,8 +615,8 @@ td.topics_date{
 }
 
 .e_text p{
-	margin-bottom: 3em; 
-	/* margin-bottom: 0em; */
+/*	margin-bottom: 3em; */
+	 margin-bottom: 0em; 
 }
 
 .e_text * ul, .e_text * ol {
