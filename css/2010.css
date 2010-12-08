@@ -658,6 +658,7 @@ td.topics_date{
   float: left;
 	height : 30px;
 	border:dotted;
+	clear: left;
 }
 
 e_text h4 {
