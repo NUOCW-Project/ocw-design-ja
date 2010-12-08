@@ -607,7 +607,7 @@ td.topics_date{
 
 .e_text {
   padding-left: 150px;
-   margin-bottom: 3em; 
+   margin-bottom: 3em;
 }
 
 .e_text ul, .e_text ol, .e_text dl, .e_text table {
@@ -618,7 +618,7 @@ td.topics_date{
 	margin-bottom: 1em; 
 	margin-top: 0em;
 	float:left;
-	clear: left;
+/*	clear: left; */
 }
 
 .e_text * ul, .e_text * ol {
@@ -655,7 +655,7 @@ td.topics_date{
   margin-bottom: 0em; 
    width: 110px;
   float: left;
-	clear: left;
+/*	clear: left; */
 }
 
 e_text h4 {
