@@ -615,7 +615,6 @@ td.topics_date{
 }
 
 .e_text p{
-/*	margin-bottom: 3em; */
 	 margin-bottom: 0em; 
 }
 
@@ -653,7 +652,6 @@ td.topics_date{
 
 
   margin-bottom: 0; 
-/*	margin-bottom: 3em; */
    width: 110px;
   float: left;
 	clear: left;
