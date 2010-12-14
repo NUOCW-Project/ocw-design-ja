@@ -612,6 +612,7 @@ td.topics_date{
 
 .e_text ul, .e_text ol, .e_text dl, .e_text table {
 	margin-bottom: 1.5em;
+	margin-top: 1.5em;
 }
 
 .e_text p{
