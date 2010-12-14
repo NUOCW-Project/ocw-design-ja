@@ -654,6 +654,7 @@ td.topics_date{
   margin-right: 0;
   margin-top: 0; 
 /*  margin-bottom: 5em;  */
+	border:dotted;
    width: 110px;
    float: left;
 ¡¡ clear: left; 
