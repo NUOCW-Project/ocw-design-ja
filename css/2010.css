@@ -607,6 +607,7 @@ td.topics_date{
 
 .e_text {
   padding-left: 150px;
+ float: left;
 }
 
 .e_text ul, .e_text ol, .e_text dl, .e_text table {
