@@ -111,7 +111,7 @@
 <img src="./images/common/redline.gif" id="line1" alt=""><!-- 水平線(下) -->
 
 <div id="release_date">
-最終更新日：{$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1年$2月$3日'}
+最終更新日：{$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1年$2月$3日'|default:'未公開'}
 </div>
 
 <div id="release_disclaimer">
