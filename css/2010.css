@@ -618,7 +618,7 @@ td.topics_date{
 .e_text p{
 	margin-bottom: 1.5em; 
 	margin-top: 0em;
-	float:left;
+	/*float:left; */
 	width:555px; 
 }
 
@@ -635,10 +635,10 @@ td.topics_date{
 	padding-right: 15px;
 	padding-top: 0px;
 	margin-left: -145px;
-  margin-right: 0;
-  margin-top: 10px;
-  margin-bottom: 0;
-  width: 700px;
+  	margin-right: 0;
+  	margin-top: 10px;
+  	margin-bottom: 0;
+  	width: 700px;
 }
 
 .e_text h3 {
@@ -651,8 +651,8 @@ td.topics_date{
 	padding-right: 15px;
 	padding-top: 0px;
 	margin-left: -145px;
-  margin-right: 0;
-  margin-top: 0; 
+  	margin-right: 0;
+  	margin-top: 0; 
 /*  margin-bottom: 5em;  */
    width: 110px;
    float: left;
