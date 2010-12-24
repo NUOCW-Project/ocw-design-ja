@@ -620,7 +620,7 @@ td.topics_date{
 .e_text p{
 	margin-bottom: 1.5em; 
 	margin-top: 0em;
-	/* float:left;*/ 
+	 float:left; 
 	width:555px; 
 	border: 1px solid red;
 }
@@ -660,7 +660,6 @@ td.topics_date{
    width: 110px;
    float: left;
 ¡¡ clear: left; 
-	/*border:dotted; */
 	border: 1px solid green;
 }
 
