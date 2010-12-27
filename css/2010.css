@@ -618,8 +618,9 @@ td.topics_date{
 }
 
 .e_text p{
-	margin-bottom: 1.5em; 
-	margin-top: 0em;
+	/* margin-bottom: 1.5em; 
+	margin-top: 0em; */
+	
 	 float:left; 
 	width:555px; 
 	border: 1px solid red;
