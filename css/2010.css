@@ -623,7 +623,7 @@ td.topics_date{
 	
 	float:left; 
 	width:555px; 
-	border: 1px solid red;
+/*	border: 1px solid red; */
 }
 
 .e_text * ul, .e_text * ol {
@@ -657,7 +657,7 @@ td.topics_date{
 	margin-left: -145px;
   	margin-right: 0;
   	margin-top: 0; 
-/*  margin-bottom: 5em;  */
+   margin-bottom: 5em; 
  /*  width: 110px; */
    float: left;
    clear: left; 
