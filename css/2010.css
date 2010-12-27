@@ -608,7 +608,7 @@ td.topics_date{
 .e_text {
   padding-left: 150px;
  /* float: left; */
-¡¡border: 1px solid blue;
+ border: 1px solid blue;
 }
 
 .e_text ul, .e_text ol, .e_text dl, .e_text table {
@@ -660,7 +660,7 @@ td.topics_date{
 /*  margin-bottom: 5em;  */
  /*  width: 110px; */
    float: left;
-¡¡ clear: left; 
+  clear: left; 
 	border: 1px solid green;
 }
 
