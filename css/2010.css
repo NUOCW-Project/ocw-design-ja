@@ -1,4 +1,4 @@
-body{
+]body{
 	margin: 0;
 	padding: 0;
 
@@ -621,7 +621,7 @@ td.topics_date{
 	/* margin-bottom: 1.5em; 
 	margin-top: 0em; */
 	
-	 float:left; 
+	float:left; 
 	width:555px; 
 	border: 1px solid red;
 }
@@ -658,7 +658,7 @@ td.topics_date{
   	margin-right: 0;
   	margin-top: 0; 
 /*  margin-bottom: 5em;  */
-   width: 110px;
+ /*  width: 110px; */
    float: left;
 ¡¡ clear: left; 
 	border: 1px solid green;
