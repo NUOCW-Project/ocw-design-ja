@@ -1083,6 +1083,7 @@ table#menu_list{
 #line1{
 	width: 690px;
 	height: 4px;
+	margin-top:1.5em;
 }
 
 #menu_submit{
