@@ -25,13 +25,13 @@
       {/if}
     </description>
     <language>{$lang}</language>
-{*  {foreach from = $item_list item = "item"}*}
+  {foreach from = $item_list item = "item"}
     <item>
       <title>ダミータイトルです</title>
       <link>http://www.foobar.com/</link>
       {* <description></description> タイトルがあるのでとりあえずコメントアウト *}
       <guid>00000</guid>
     </item>
-{*  {/foreach}*}
+  {/foreach}
   </channel>
 </rss>
