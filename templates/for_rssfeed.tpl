@@ -28,9 +28,9 @@
   {foreach from = $item_list item = "item"}
     <item>
       <title>{$item.text}</title>
-      <link>http://www.foobar.com/</link>
+      <link>{$item.url}</link>
       {* <description></description> タイトルがあるのでとりあえずコメントアウト *}
-      <guid>00000</guid>
+      <guid>{$item.pid}</guid>
     </item>
   {/foreach}
   </channel>
