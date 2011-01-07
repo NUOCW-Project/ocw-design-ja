@@ -27,7 +27,7 @@
     <language>{$lang}</language>
   {foreach from = $item_list item = "item"}
     <item>
-      <title>ダミータイトルです</title>
+      <title>{$item.text}</title>
       <link>http://www.foobar.com/</link>
       {* <description></description> タイトルがあるのでとりあえずコメントアウト *}
       <guid>00000</guid>
