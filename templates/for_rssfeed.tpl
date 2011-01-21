@@ -28,7 +28,7 @@
   {foreach from = $item_list item = "item"}
     <item>
       <title>{$item.text}</title>
-      {* <link>{$item.url}</link> *}
+      <link>{$item.url}</link>
       {* <description></description> タイトルがあるのでとりあえずコメントアウト *}
       <guid isPermaLink="false">{$item.pid}</guid>
     </item>
