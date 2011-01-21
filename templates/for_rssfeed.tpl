@@ -30,6 +30,7 @@
       <title>{$item.text}</title>
       <link>{$item.url}</link>
       {* <description></description> タイトルがあるのでとりあえずコメントアウト *}
+      <pubDate>{$item.pubdate}</pubDate>
       <guid isPermaLink="false">{$item.pid}</guid>
     </item>
   {/foreach}
