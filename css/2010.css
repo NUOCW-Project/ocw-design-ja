@@ -633,6 +633,10 @@ td.topics_date{
 	float:left;
 }
 
+.e_text * ul li {
+    display: list-item;
+}
+
 .e_text h2 {
 	font-size: large;
 	color: #DD0000;
