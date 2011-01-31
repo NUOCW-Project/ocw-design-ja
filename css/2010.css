@@ -635,6 +635,8 @@ td.topics_date{
 
 .e_text * ul li {
     display: list-item;
+    float: clear;
+    margin: 0;
 }
 
 .e_text h2 {
