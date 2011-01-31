@@ -21,7 +21,7 @@
 <div class="inline">
 <div id="access">
 <div class="waku"><!-- ボックス「アクセスランキング」 -->
-	<img src="./images/ja/t_ranking.png" class="subheading" alt="Most Accessed" width="180" height="20">
+	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="Most Accessed" width="180" height="20">
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
@@ -65,8 +65,8 @@
 
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
-  <img src="./images/ja/t_news.png" class="subheading" alt="News" width="180" height="20">
-  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=news"><img src="./images/ja/backno.png" class="jump" alt="back number" width="65" height="15"></a>
+  <img src="./images/{$lang}/t_news.png" class="subheading" alt="News" width="180" height="20">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="back number" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
     <table>
@@ -84,8 +84,8 @@
 
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
-  <img src="./images/ja/t_release.png" class="subheading" alt="Press Releases" width="180" height="20">
-  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=pressrelease"><img src="./images/ja/backno.png" class="jump" alt="back number" width="65" height="15"></a>
+  <img src="./images/{$lang}/t_release.png" class="subheading" alt="Press Releases" width="180" height="20">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="back number" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
     <table>
