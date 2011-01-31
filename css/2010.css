@@ -611,15 +611,11 @@ td.topics_date{
   margin: 0px;
 }
 
-.e_text ul, .e_text ol, .e_text dl, .e_text table{
+.e_text ul, .e_text ol, .e_text dl, .e_text table, .e_text li{
 	margin-bottom: 0em;
 	margin-top: 1.5em;
 	float:left;
 	/*  border: 1px solid blue; */
-}
-
-.e_text li{
-    margin: 0em;
 }
 
 .e_text p{
@@ -636,11 +632,6 @@ td.topics_date{
 	margin-bottom: 0;
 	clear: left;
 }
-
-/*.e_text * ul li {
-    clear: left;
-    margin: 0;
-}*/
 
 .e_text h2 {
 	font-size: large;
