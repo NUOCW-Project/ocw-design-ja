@@ -627,14 +627,13 @@ td.topics_date{
 /*	border: 1px solid red; */
 }
 
-.e_text * ul, .e_text * ol {
+.e_text * ul, .e_text * ol, .e_text * li {
 	margin-left: 0;
 	margin-bottom: 0;
 	float:left;
 }
 
 .e_text * ul li {
-    display: list-item;
     clear: left;
     margin: 0;
 }
