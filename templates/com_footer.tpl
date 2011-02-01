@@ -51,10 +51,12 @@
 	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="One-minute Course Introductions &amp;PodCast"
 	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a></li>
+{if $lang=="ja"}
     <li><a href="http://www.media.nagoya-u.ac.jp/sc/" target="_blank">
-	<img src="./images/{$lang}/c04sc.png" class="size_img" alt="Stuio Channel"
-	     onMouseOver="this.src='./images/{$lang}/c04sc_on.png'" 
-	     onMouseOut="this.src='./images/{$lang}/c04sc.png'"></a></li>
+	<img src="./images/ja/c04sc.png" class="size_img" alt="Stuio Channel"
+	     onMouseOver="this.src='./images/ja/c04sc_on.png'" 
+	     onMouseOut="this.src='./images/ja/c04sc.png'"></a></li>
+{/if}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=link">
       <img src="./images/{$lang}/c05link.png" class="size_img" alt="Link"
 	   onMouseOver="this.src='./images/{$lang}/c05link_on.png'" 
