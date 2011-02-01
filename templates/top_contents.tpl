@@ -6,12 +6,12 @@
   <img src="./images/common/redline.gif" class="line" alt="">
   <br>
   <!-- 「TOPICS」 -->
-  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics"> 
-    <img src="./images/ja/topics_msg/prj10_msg_headder.jpg" id="prj10" alt="Topics 第１回目 message">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics"> 
+    <img src="./images/{$lang}/topics_msg/prj10_msg_headder.jpg" id="prj10" alt="Topics 第１回目 message">
   </a></div> <!-- "feature" end -->
     
 <div id="greeting">
-  <img src="./images/ja/goaisatu.png" 
+  <img src="./images/{$lang}/goaisatu.png" 
 		alt="Ichiro Yamamoto, Chairperson, OpenCourseWare Committee, Nagoya University,
 		     Here at the NU OCW website we have gathered notes and materials from lectures given at Nagoya University." id="yamamoto">
      <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
@@ -45,12 +45,12 @@
 		{else}{$v.rank}
 		{/if}
 		</td>
-		<td><a href="./index.php?lang=ja&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
-		<td class="name"><a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>
+		<td><a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$v.course_id}&amp;page_type=index">{$v.course_name}</a></td>
+		<td class="name"><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>
 
 	{else}
 		<br>
-			<a href="./courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>		
+			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>		
 	{/if}
 
 	{assign var='before' value=$v.course_id}

@@ -25,7 +25,7 @@
           <!-- AKF検索 -->
           <div class="header_button_akf">
             <a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
-            <img src="./images/ja/akf.png" alt="AKF Search" align="left"></a>
+            <img src="./images/{$lang}/akf.png" alt="AKF Search" align="left"></a>
           </div><!-- "header_button_akf" end -->
           <form method="get" action="./akfsearch.php">
             <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->

@@ -2,30 +2,30 @@
 {literal}
 {if $page_type != ""}
   {if $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
-    <img src="./images/ja/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-2 max=1}{$navi_list[n].text}{/section}{literal}">
+    <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-2 max=1}{$navi_list[n].text}{/section}{literal}">
 {* リレーセミナー *}
 {elseif $page_type|regex_replace:'/^relay[0-9]+$/':'' eq ''} 
   {assign var=img_num value=1|rand:4}
-  <img src="./images/ja/header_{$page_type|regex_replace:'/[0-9]+/':''}0{$img_num}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
+  <img src="./images/{$lang}/header_{$page_type|regex_replace:'/[0-9]+/':''}0{$img_num}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
 {* 最終講義 *}
 {elseif $page_type|regex_replace:'/^fw[0-9]+/':'' eq ''}
   {assign var=img_num value=1|rand:4}
-  <img src="./images/ja/header_{$page_type|regex_replace:'/(fw)[0-9]+/':'fwarchive'}0{$img_num}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
+  <img src="./images/{$lang}/header_{$page_type|regex_replace:'/(fw)[0-9]+/':'fwarchive'}0{$img_num}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
 {* リスト発行 *}
 {elseif $page_type!="all" &&  $mode=="l"}
   {assign var=img_num value=1|rand:4} 
-    <img src="./images/ja/header_{$page_type}0{$img_num}.jpg" alt="{if $page_type=="top"}Courageous Scholars{else}{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}{/if}">
+    <img src="./images/{$lang}/header_{$page_type}0{$img_num}.jpg" alt="{if $page_type=="top"}Courageous Scholars{else}{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}{/if}">
 {else}
-<img src="./images/ja/header_{$page_type}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
+<img src="./images/{$lang}/header_{$page_type}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
 {/if}
 {/if}
 
 {if $page_type == "top"}
 	<div id="menu">	
-		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about"><img src="./images/ja/menu01.png" onMouseOver="this.src='./images/ja/menu01_on.png'" onMouseout="this.src='./images/ja/menu01.png'" class="menu0" alt="About NU OCW"></a>
-		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary"><img src="./images/ja/menu02.png" onMouseOver="this.src='./images/ja/menu02_on.png'" onMouseout="this.src='./images/ja/menu02.png'" class="menu0" alt="Glossary"></a>
-		<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus"><img src="./images/ja/menu03.png" onMouseOver="this.src='./images/ja/menu03_on.png'" onMouseout="this.src='./images/ja/menu03.png'" class="menu0" alt="1minute Video Summary&amp;Podcast"></a>
-		<div class="menu0"><a href="http://www.media.nagoya-u.ac.jp/sc/"><img src="./images/ja/menu04.png" onMouseOver="this.src='./images/ja/menu04_on.png'" onMouseout="this.src='./images/ja/menu04.png'" alt="Studio Channel"></a><p id="studio_channel_date"><b>{include file="common/studiochannel.tpl"}UP</b></p></div>
+		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/menu01.png" onMouseOver="this.src='./images/{$lang}/menu01_on.png'" onMouseout="this.src='./images/{$lang}/menu01.png'" class="menu0" alt="About NU OCW"></a>
+		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary"><img src="./images/{$lang}/menu02.png" onMouseOver="this.src='./images/{$lang}/menu02_on.png'" onMouseout="this.src='./images/{$lang}/menu02.png'" class="menu0" alt="Glossary"></a>
+		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus"><img src="./images/{$lang}/menu03.png" onMouseOver="this.src='./images/{$lang}/menu03_on.png'" onMouseout="this.src='./images/{$lang}/menu03.png'" class="menu0" alt="1minute Video Summary&amp;Podcast"></a>
+		<div class="menu0"><a href="http://www.media.nagoya-u.ac.jp/sc/"><img src="./images/{$lang}/menu04.png" onMouseOver="this.src='./images/{$lang}/menu04_on.png'" onMouseout="this.src='./images/{$lang}/menu04.png'" alt="Studio Channel"></a><p id="studio_channel_date"><b>{include file="common/studiochannel.tpl"}UP</b></p></div>
 	</div><!-- "menu" end -->
 {/if}
 
