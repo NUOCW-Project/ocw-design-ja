@@ -578,6 +578,10 @@ div.dept_info_head_novideo{
 	line-height:18px;
 }
 
+.dept_info_head_contents_with_dean h3 {
+  display: none;
+}
+
 h1.dept_info_head_title{
 	margin:0;
 	padding:0;
