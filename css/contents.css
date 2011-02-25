@@ -578,7 +578,9 @@ div.dept_info_head_novideo{
 	line-height:18px;
 }
 
-.dept_info_head_contents_with_dean h3 {
+.dept_info_head_contents_with_dean h3, 
+.dept_info_head_contents_with_dean h4, 
+{
   display: none;
 }
 
