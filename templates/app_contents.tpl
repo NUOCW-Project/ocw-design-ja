@@ -1,4 +1,4 @@
-<div id="main_text">
+<div id="main_text" class="e_text">
 
 <h1>みなさんの技術とアイデアを求めています！</h1>
 
