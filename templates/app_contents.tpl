@@ -26,8 +26,12 @@
 
 <h3>応募方法</h3>
 <div>OCW事務室へメールでご連絡下さい。メールアドレスは<img src="/images/common/mail_inq.gif" alt="事務室メールアドレス">です。</div>
-
 </div>
+
+<p>
+みなさまのご応募お待ちしております。
+</p>
+
 
 <img src="./images/common/redline.gif" id="line2" alt="">
 
