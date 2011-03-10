@@ -68,13 +68,12 @@ html、CSS、Javascript の経験者を求めています。
 
 <h3>応募方法</h3>
 <p>
-2011-04-20(水)正午までにOCW事務室(<img src="./images/common/mail_inq.gif" alt="事務室メールアドレス">)へ
-メールで以下の内容をご連絡下さい。
+2011-04-20(水)正午までにOCW事務室(<img src="./images/common/mail_inq.gif" alt="事務室メールアドレス">)へメールで以下の内容をご連絡下さい。
 </p>
 
 <ul>
 <li>氏名
-<li>所属
+<li>所属・学年
 <li>電話番号・携帯電話番号
 <li>希望する仕事内容
 </ul>
