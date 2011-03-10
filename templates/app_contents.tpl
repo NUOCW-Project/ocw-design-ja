@@ -1,4 +1,4 @@
-<div id="main_text" class="e_text">
+<div class="e_text">
 
 <h1>みなさんの技術とアイデアを求めています！</h1>
 
@@ -27,6 +27,7 @@
 <h3>応募方法</h3>
 <p>OCW事務室へメールでご連絡下さい。メールアドレスは<img src="/images/common/mail_inq.gif" alt="事務室メールアドレス">です。</p>
 
+</div>
 
 <img src="./images/common/redline.gif" id="line2" alt="">
 
