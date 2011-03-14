@@ -1,3 +1,5 @@
+<html>
+<head>
 <SCRIPT TYPE="text/javascript">
 <!-- 
 kisetu = new Image();
@@ -7,10 +9,9 @@ function natu(){document.on-off.src="./images/ja/topics2/pagelink_on.png";}
 function fuyu(){document.on-off.src="./images/ja/topics2/pagelink.png";}
 //-->
 </SCRIPT> 
+</head>
 
-
-
-
+<body>
 <img src="./images/ja/topics2/topics2_lead.png" alt="">
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
 <IMG SRC="./images/ja/topics2/pagelink.png" NAME="on-off" onmouseover="on" onmouseout="off"> 
@@ -35,4 +36,5 @@ function fuyu(){document.on-off.src="./images/ja/topics2/pagelink.png";}
 ④最後に先生がゲームの解説・<br>まとめをする。
 </p>
 <img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」>
-
+</body>
+</html>
