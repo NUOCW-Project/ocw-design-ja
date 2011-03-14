@@ -1,4 +1,8 @@
-<img src="./images/ja/topics2/topics2_lead.png" alt="「ボードゲームを究める」" id="msg_top_image">
+<img src="./images/ja/topics2/topics2_lead.png" alt="「ボードゲームを究める」" id="bg_top_image">
+
+
+
+<img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」" id="bgk_image">
 
 <ul id="msgs">
 	<li id="msg01">
