@@ -1,8 +1,20 @@
+<SCRIPT TYPE="text/javascript">
+<!-- 
+kisetu = new Image();
+kisetu.src = "natu.jpg";
+function natu(){document.on-off.src="./images/ja/topics2/pagelink_on.png";}
+";}
+function fuyu(){document.on-off.src="./images/ja/topics2/pagelink.png";}
+//-->
+</SCRIPT> 
+
+
+
 
 <img src="./images/ja/topics2/topics2_lead.png" alt="">
-
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
-<img src="./images/ja/topics2/pagelink_on.png" alt=""></a>
+<IMG SRC="./images/ja/topics2/pagelink.png" NAME="on-off" onmouseover="on" onmouseout="off"> 
+</a>
 <p>①事前に担当を決められた<br>学生がゲームのルールを<br>解説。
 <img src="./images/ja/topics2/img/nagare01.png" alt="" align="right">
 </p>
