@@ -1,13 +1,11 @@
 <img src="./images/ja/topics2/topics2_lead.png" alt="「ボードゲームを究める」" id="bg_top_image">
 <img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」" id="bgk_image">
 
-<ul id="msgs">
-<li id="msg01">
-<img src="./images/ja/img/pic01_kougi.png" alt="01 先輩たちからのmessage">
-<p></p>
-<a href="./index.php?lang=ja&amp;mode=c&amp;id=57&amp;page_type=index">
-
-<img src="./images/ja/topics_msg/msg_01haga_pic.png" alt="教養教育院 羽賀祥二教授 【全学教養科目-名大の歴史をたどる】"></a>
+<ul id="bg">
+<li id="bg1">
+<img src="./images/ja/img/pagelink_on.png" alt="01 先輩たちからのmessage">
+<a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
+<img src="./images/ja/topics2/pagelink_on.png" alt="有田先生のページへ"></a>
 </li>
 <li id="msg02">
 <img src="./images/ja/topics_msg/msg_02nakamura.png" alt="02 時と時とをつなぐmessage">
