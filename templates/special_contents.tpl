@@ -7,17 +7,17 @@
 <img src="./images/ja/topics_msg/msg_02nakamura.png" alt="">
 <p>1,</p>
 
-<img src="./images/ja/topics/msg_03ono.png" alt="">
+<img src="./images/ja/topics2/img/nagare01.png" alt="">
 
 <p>2,</p>
 
 
-<p>3,える。</p>
-<img src="./images/ja/topics2/nagare02.png" alt="">
+<p>3,</p>
+<img src="./images/ja/topics2/img/nagare02.png" alt="">
 <img src="./images/ja/topics2/img/fukidasi03.png" alt="">
 
-<img src="./images/ja/topics2/nagare04.png" alt="">
-<p>4,最後に先生がゲームの解説・ まとめをする</p>
+<img src="./images/ja/topics2/img/nagare04.png" alt="">
+<p>4,</p>
 
 <img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」>
 
