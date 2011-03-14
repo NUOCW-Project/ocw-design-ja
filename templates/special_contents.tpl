@@ -1,3 +1,4 @@
+<html>
 <img src="./images/ja/topics2/topics2_lead.png" alt="">
 
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
@@ -22,3 +23,4 @@
 
 <img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」>
 
+</html>
