@@ -17,7 +17,7 @@
 <br>
 <img src="./images/ja/topics2/img/nagare04.png" alt="" align="left">
 
-<ul id="bg" align="middle">
+<ul id="bg" align="top">
 <li id="bg1">
 <img src="./images/ja/topics2/img/pic01_kougi.png">
 </li><li id="bg2">
