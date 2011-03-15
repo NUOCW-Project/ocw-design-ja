@@ -16,7 +16,7 @@
 <img src="./images/ja/topics2/img/nagare03.png" alt="" >
 <img src="./images/ja/topics2/img/fukidasi03.png" alt="">
 <br>
-<img src="./images/ja/topics2/img/nagare04.png" alt="" align="left">
+<img src="./images/ja/topics2/img/nagare04.png" alt="" align=>
 <br>
 <ul id="bg">
 <li id="bg1">
