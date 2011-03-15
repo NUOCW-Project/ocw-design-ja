@@ -1,4 +1,4 @@
-#msg_top_image{
+#bg_top_image{
 	width: 700px;
 	height: 400px;
 	position: relative;
@@ -28,11 +28,7 @@
 	top: 200px;
 	left: 100px;
 	width: 370px;
-	transform: rotate(-5deg);
-	-moz-transform: rotate(-5deg);
-	-webkit-transform: rotate(-5deg);
-	-o-transform: rotate(-5deg);
-	-ms-transform: rotate(-5deg);
+	
 }
 
 #bg1 a{
@@ -55,13 +51,7 @@
 	top: 150px;
 	left: 75px;
 	width: 210px;
-	transform: rotate(-2deg);
-	transform: rotate(-2deg);
-	-moz-transform: rotate(-2deg);
-	-webkit-transform: rotate(-2deg);
-	-o-transform: rotate(-2deg);
-	-ms-transform: rotate(-2deg);
-	z-index: 2;
+
 }
 
 #bg2 a{
@@ -85,11 +75,7 @@
 	right: 20px;
 	width: 325px;
 	text-align: right;
-	transform: rotate(3deg);
-	-moz-transform: rotate(3deg);
-	-webkit-transform: rotate(3deg);
-	-o-transform: rotate(3deg);
-	-ms-transform: rotate(3deg);
+
 }
 
 #bg3 a{
@@ -112,11 +98,6 @@
 	top: 120px;
 	left: 120px;
 	width: 410px;
-	transform: rotate(5deg);
-	-moz-transform: rotate(5deg);
-	-webkit-transform: rotate(5deg);
-	-o-transform: rotate(5deg);
-	-ms-transform: rotate(5deg);
 }
 
 #bg4 a{
@@ -139,11 +120,6 @@
 	top: 150px;
 	left: 140px;
 	width: 355px;
-	transform: rotate(-1.5deg);
-	-moz-transform: rotate(-1.5deg);
-	-webkit-transform: rotate(-1.5deg);
-	-o-transform: rotate(-1.5deg);
-	-ms-transform: rotate(-1.5deg);
 }
 
 #bg5 a{
