@@ -5,7 +5,7 @@
 	z-index: 1;
 }
 
-#msgs{
+#bg{
 	list-style-type: none;
 	position: relative;
 	top: -95px;
@@ -13,7 +13,7 @@
 	z-index: 0;
 }
 
-#msgs li{
+#bg li{
 	overflow: visible;
 }
 
@@ -23,7 +23,7 @@
 	position: relative;
 }
 
-#msg01 p{
+#bg1 p{
 	position: absolute;
 	top: 200px;
 	left: 100px;
@@ -35,7 +35,7 @@
 	-ms-transform: rotate(-5deg);
 }
 
-#msg01 a{
+#bg1 a{
 	position: absolute;
 	top: 220px;
 	left: 450px;
@@ -43,14 +43,14 @@
 	height: 84px;
 }
 
-#msg02{
+#bg2{
 	width: 700px;
 	height: 100px;
 	position: relative;
 }
 
 
-#msg02 p{
+#bg2 p{
 	position: absolute;
 	top: 150px;
 	left: 75px;
@@ -64,7 +64,7 @@
 	z-index: 2;
 }
 
-#msg02 a{
+#bg2 a{
 	position: absolute;
 	top: 390px;
 	left: 100px;
@@ -73,13 +73,13 @@
 	z-index: 2;
 }
 
-#msg03{
+#bg3{
 	width: 700px;
 	height: 380px;
 	position: relative;
 }
 
-#msg03 p{
+#bg3 p{
 	position: absolute;
 	top: 140px;
 	right: 20px;
@@ -92,7 +92,7 @@
 	-ms-transform: rotate(3deg);
 }
 
-#msg03 a{
+#bg3 a{
 	position: absolute;
 	top: 300px;
 	right: 10px;
@@ -100,14 +100,14 @@
 	height: 78px;
 }
 
-#msg04{
+#bg4{
 	width: 700px;
 	height: 270px;
 	position: relative;
 }
 
 
-#msg04 p{
+#bg4 p{
 	position: absolute;
 	top: 120px;
 	left: 120px;
@@ -119,7 +119,7 @@
 	-ms-transform: rotate(5deg);
 }
 
-#msg04 a{
+#bg4 a{
 	position: absolute;
 	top: 200px;
 	right: 50px;
@@ -127,14 +127,14 @@
 	height: 81px;
 }
 
-#msg05{
+#bg5{
 	width: 700px;
 	height: 320px;
 	position: relative;
 }
 
 
-#msg05 p{
+#bg5 p{
 	position: absolute;
 	top: 150px;
 	left: 140px;
@@ -146,7 +146,7 @@
 	-ms-transform: rotate(-1.5deg);
 }
 
-#msg05 a{
+#bg5 a{
 	position: absolute;
 	top: 240px;
 	right: 40px;
@@ -154,34 +154,3 @@
 	height: 76px;
 }
 
-#msg06{
-	width: 641px;
-	height: 398px;
-	position: relative;
-}
-
-
-#msg06 p{
-	position: absolute;
-	top: 120px;
-	left: 120px;
-	width: 360px;
-	/*transform: rotate(2deg);
-	-moz-transform: rotate(2deg);
-	-webkit-transform: rotate(2deg);
-	-o-transform: rotate(2deg);
-	-ms-transform: rotate(2deg);*/
-}
-
-#msg06 a{
-	position: absolute;
-	top: 250px;
-	right: 55px;
-	width: 234px;
-	height: 78px;
-	transform: rotate(-4deg);
-	-moz-transform: rotate(-4deg);
-	-webkit-transform: rotate(-4deg);
-	-o-transform: rotate(-4deg);
-	-ms-transform: rotate(-4deg);
-}
