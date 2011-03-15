@@ -24,4 +24,5 @@
 ④最後に先生がゲームの解説・<br>まとめをする。
 <img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」">
 
-<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png">
+<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" alt="">
+<img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" alt="" align="right">
