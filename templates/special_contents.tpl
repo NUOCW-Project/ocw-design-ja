@@ -10,9 +10,9 @@
 <img src="./images/ja/topics2/img/fukidasi01.png" alt="">
 <ul id="bg">
 <li id="bg1">
-<img src="./images/ja/topics2/img/pic01_kougi.png">
+<img src="./images/ja/topics2/img/pic01_kougi.png" align="right">
 </li><li id="bg2">
-<img src="./images/ja/topics2/img/pic02_kougi.png">
+<img src="./images/ja/topics2/img/pic02_kougi.png" algin="right">
 </li>
 <br>
 <img src="./images/ja/topics2/img/fukidasi02.png" alt="">
