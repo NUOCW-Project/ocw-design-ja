@@ -8,6 +8,12 @@
 <img src="./images/ja/topics2/img/student01.png">
 <img src="./images/ja/topics2/img/nagare01.png">
 <img src="./images/ja/topics2/img/fukidasi01.png" alt="">
+<ul id="bg">
+<li id="bg1">
+<img src="./images/ja/topics2/img/pic01_kougi.png">
+</li><li id="bg2">
+<img src="./images/ja/topics2/img/pic02_kougi.png">
+</li>
 <br>
 <img src="./images/ja/topics2/img/fukidasi02.png" alt="">
 <img src="./images/ja/topics2/img/nagare02.png">
@@ -16,14 +22,10 @@
 <img src="./images/ja/topics2/img/nagare03.png" alt="" >
 <img src="./images/ja/topics2/img/fukidasi03.png" alt="">
 <br>
-<img src="./images/ja/topics2/img/nagare04.png" alt="" align=>
+<img src="./images/ja/topics2/img/nagare04.png" alt="" >
 <br>
-<ul id="bg">
-<li id="bg1">
-<img src="./images/ja/topics2/img/pic01_kougi.png">
-</li><li id="bg2">
-<img src="./images/ja/topics2/img/pic02_kougi.png">
-</li><li id="bg3">
+
+<li id="bg3">
 <img src="./images/ja/topics2/img/pic03_kougi.png">
 </li><li id="bg4">
 <img src="./images/ja/topics2/img/pic04_kougi.png">
