@@ -12,6 +12,7 @@
 <li id="bg1">
 <img src="./images/ja/topics2/img/pic01_kougi.png" align="right">
 </li><li id="bg2">
+<clear=all>
 <img src="./images/ja/topics2/img/pic02_kougi.png" algin="right">
 </li>
 <br>
