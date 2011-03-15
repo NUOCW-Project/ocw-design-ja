@@ -1,5 +1,6 @@
 
-<img src="./images/ja/topics2/topics2_lead.png" alt="">
+<img src="./images/ja/topics2/topics2_lead.png" alt="" id="bg_top_image">
+
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
 <IMG SRC="./images/ja/topics2/pagelink.png" NAME="on-off" onmouseover="on" onmouseout="off"> 
 </a>
