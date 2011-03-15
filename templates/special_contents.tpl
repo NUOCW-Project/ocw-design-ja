@@ -34,5 +34,5 @@
 <img src="./images/ja/topics2/img_i/pic06_enquete.png" alt="">
 <img src="./images/ja/topics2/img_i/title01_kangaeru.png" alt="">
 <br>
-<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" alt="">
-<img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" alt="" align="right">
+<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" align="left">
+<img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" align="right">
