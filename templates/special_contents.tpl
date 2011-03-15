@@ -1,9 +1,13 @@
-
+<ul id="top">
+<li id="top1">
 <img src="./images/ja/topics2/topics2_lead.png" alt="" id="bg_top_image">
-
+</li><li id="top2">
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
-<IMG SRC="./images/ja/topics2/pagelink.png"> 
+<img src="./images/ja/topics2/pagelink.png"> 
 </a>
+</li>
+</ul>
+
 <ul id="bg">
 <li id="bg1">
 <img src="./images/ja/topics2/img/pic01_kougi.png" align="right">
@@ -19,18 +23,18 @@
 <img src="./images/ja/topics2/img/fukidasi02.png" alt="">
 <img src="./images/ja/topics2/img/nagare02.png">
 <img src="./images/ja/topics2/img/student02_ichinose.png" alt="">
+<li id="bg3">
+<img src="./images/ja/topics2/img/pic03_kougi.png">
+</li>
 <br>
 <img src="./images/ja/topics2/img/nagare03.png" alt="" >
 <img src="./images/ja/topics2/img/fukidasi03.png" alt="">
+<li id="bg4">
+<img src="./images/ja/topics2/img/pic04_kougi.png">
+</li>
 <br>
 <img src="./images/ja/topics2/img/nagare04.png" alt="" >
-<br>
-
-<li id="bg3">
-<img src="./images/ja/topics2/img/pic03_kougi.png">
-</li><li id="bg4">
-<img src="./images/ja/topics2/img/pic04_kougi.png">
-</li><li id="bg5">
+<br><li id="bg5">
 <img src="./images/ja/topics2/img/pic05_kougi.png">
 </li>
 </ul>
