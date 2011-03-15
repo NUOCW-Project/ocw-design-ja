@@ -5,7 +5,7 @@
 </a>
 <ul id="bg" align="right">
 <li id="bg1">
-<img src="./images/ja/topics2/img/pic01_kougi.png" align="right">
+<img src="./images/ja/topics2/img/pic01_kougi.png">
 </li><li id="bg2">
 <img src="./images/ja/topics2/img/pic02_kougi.png">
 </li><li id="bg3">
@@ -15,6 +15,7 @@
 </li><li id="bg5">
 <img src="./images/ja/topics2/img/pic05_kougi.png">
 </li>
+</ul>
 
 <img src="./images/ja/topics2/img/nagare01.png" alt="" >
 
