@@ -3,14 +3,22 @@
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
 <IMG SRC="./images/ja/topics2/pagelink.png" NAME="on-off" onmouseover="on" onmouseout="off"> 
 </a>
-<img src="./images/ja/topics2/img/nagare01.png" alt="" align="right">
+<ul align="left">
+<li><img src="./images/ja/topics2/img/pic01_kougi.png">
+<li><img src="./images/ja/topics2/img/pic02_kougi.png">
+<li><img src="./images/ja/topics2/img/pic03_kougi.png">
+<li><img src="./images/ja/topics2/img/pic04_kougi.png">
+<li><img src="./images/ja/topics2/img/pic05_kougi.png">
+</ul>
+
+<img src="./images/ja/topics2/img/nagare01.png" alt="" >
 
 <br>
 <br>
 <br>
-<img src="./images/ja/topics2/img/nagare02.png" alt="" align="left">
+<img src="./images/ja/topics2/img/nagare02.png" alt="">
 
-<img src="./images/ja/topics2/img/nagare03.png" alt="" align="right">
+<img src="./images/ja/topics2/img/nagare03.png" alt="" >
 
 <img src="./images/ja/topics2/img/fukidasi03.png" alt="">
 <br>
