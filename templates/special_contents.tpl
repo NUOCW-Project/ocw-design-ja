@@ -2,17 +2,17 @@
 <img src="./images/ja/topics2/topics2_lead.png" alt="" id="bg_top_image">
 
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
-<IMG SRC="./images/ja/topics2/pagelink.png" NAME="on-off" onmouseover="on" onmouseout="off"> 
+<IMG SRC="./images/ja/topics2/pagelink.png"> 
 </a>
+<ul id="bg">
+<li id="bg1">
+<img src="./images/ja/topics2/img/pic01_kougi.png" align="right">
+</li>
 <br>
 <img src="./images/ja/topics2/img/student01.png">
 <img src="./images/ja/topics2/img/nagare01.png">
 <img src="./images/ja/topics2/img/fukidasi01.png" alt="">
-<ul id="bg">
-<li id="bg1">
-<img src="./images/ja/topics2/img/pic01_kougi.png" align="right">
-</li><li id="bg2">
-<clear=all>
+<li id="bg2">
 <img src="./images/ja/topics2/img/pic02_kougi.png" algin="right">
 </li>
 <br>
