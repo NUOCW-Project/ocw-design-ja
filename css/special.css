@@ -103,7 +103,7 @@
 #bg4{
 	width: 700px;
 	height: 270px;
-	position: relative;
+	position: absolute;
 }
 
 
@@ -130,7 +130,7 @@
 #bg5{
 	width: 700px;
 	height: 320px;
-	position: relative;
+	position: absolute;
 }
 
 
