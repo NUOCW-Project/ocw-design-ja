@@ -3,12 +3,15 @@
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
 <IMG SRC="./images/ja/topics2/pagelink.png" NAME="on-off" onmouseover="on" onmouseout="off"> 
 </a>
+<br>
 <img src="./images/ja/topics2/img/student01.png">
 <img src="./images/ja/topics2/img/nagare01.png">
 <img src="./images/ja/topics2/img/fukidasi01.png" alt="">
+<br>
 <img src="./images/ja/topics2/img/fukidasi02.png" alt="">
 <img src="./images/ja/topics2/img/nagare02.png">
 <img src="./images/ja/topics2/img/student02_ichinose.png" alt="">
+<br>
 <img src="./images/ja/topics2/img/nagare03.png" alt="" >
 <img src="./images/ja/topics2/img/fukidasi03.png" alt="">
 <br>
