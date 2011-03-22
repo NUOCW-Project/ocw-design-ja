@@ -40,30 +40,28 @@ z-index: 1;
 
 #bg2{
 	position: relative;
-        top: 5px
+        top: 5px;
         z-index: 2 
 }
 
 
 
 #bg3{
-	width: 700px;
-	height: 380px;
+	
+	top: 5px;
 	position: relative;
 }
 
 
 #bg4{
-	width: 700px;
-	height: 270px;
+	top: 5px;
 	position: relative;
 }
 
 
 #bg5{
-	width: 700px;
-	height: 320px;
-	position: absolute;
+	top: 5px;
+	position: relative;
 }
 
 
