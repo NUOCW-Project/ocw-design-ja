@@ -13,7 +13,7 @@
 <img src="./images/ja/topics2/img/pic01_kougi.png" align="right">
 </li>
 <br>
-<img src="./images/ja/topics2/img/student01.png">
+<img src="./images/ja/topics2/student/student01.png">
 <img src="./images/ja/topics2/img/nagare01.png">
 <img src="./images/ja/topics2/img/fukidasi01.png" alt="">
 <li id="bg2">
@@ -22,7 +22,7 @@
 <br>
 <img src="./images/ja/topics2/img/fukidasi02.png" alt="">
 <img src="./images/ja/topics2/img/nagare02.png">
-<img src="./images/ja/topics2/img/student02_ichinose.png" alt="">
+<img src="./images/ja/topics2/student/student02_ichinose.png" alt="">
 <li id="bg3">
 <img src="./images/ja/topics2/img/pic03_kougi.png" align="middle">
 </li>
