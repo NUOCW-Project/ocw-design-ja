@@ -22,22 +22,20 @@ position: absolute;
 }
 
 #top2{
-top:400px;
-right: 10px;
+top:350px;
+right: 60px;
 z-index: 1;
 position: absolute;
 }
 
 
 #bg li{
-position: absolute;
-top: 500;
 	overflow: visible;
 }
 
 #bg1{
 	position: absolute;
-        top: 105px;
+        top: 500px;
         right: 20px;
         z-index: 1
 
@@ -45,7 +43,7 @@ top: 500;
 
 #bg2{
 	position: absolute;
-        top: 110px;
+        top: 550px;
         right: 20px;
         z-index: 2 
 }
@@ -54,7 +52,7 @@ top: 500;
 
 #bg3{
 	
-	top: 115px;
+	top: 600px;
         right: 20px;	
         position: absolute;
 z-index: 3;
@@ -62,7 +60,7 @@ z-index: 3;
 
 
 #bg4{
-	top: 140px;
+	top: 650px;
 right: 20px;	
 position: relative;
 z-index: 4;
@@ -70,7 +68,7 @@ z-index: 4;
 
 
 #bg5{
-	top: 145px;
+	top: 700px;
 right: 20px;	
 position: absorute;
 z-index: 5;
