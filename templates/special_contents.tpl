@@ -7,33 +7,34 @@
 </a>
 </li>
 </ul>
+<img src="./images/ja/topics2/student/student01.png">
+<img src="./images/ja/topics2/img/nagare01.png">
+<img src="./images/ja/topics2/img/fukidasi01.png" alt="">
+<img src="./images/ja/topics2/img/fukidasi02.png" alt="">
+<img src="./images/ja/topics2/img/nagare02.png">
+<img src="./images/ja/topics2/student/student02_ichinose.png" alt="">
+<img src="./images/ja/topics2/img/nagare03.png" alt="" >
+<img src="./images/ja/topics2/img/fukidasi03.png" alt="">
 
 <ul id="bg">
 <li id="bg1">
 <img src="./images/ja/topics2/img/pic01_kougi.png" align="right">
 </li>
 <br>
-<img src="./images/ja/topics2/student/student01.png">
-<img src="./images/ja/topics2/img/nagare01.png">
-<img src="./images/ja/topics2/img/fukidasi01.png" alt="">
 <li id="bg2">
 <img src="./images/ja/topics2/img/pic02_kougi.png" algin="middle">
 </li>
 <br>
-<img src="./images/ja/topics2/img/fukidasi02.png" alt="">
-<img src="./images/ja/topics2/img/nagare02.png">
-<img src="./images/ja/topics2/student/student02_ichinose.png" alt="">
 <li id="bg3">
 <img src="./images/ja/topics2/img/pic03_kougi.png" align="middle">
 </li>
 <br>
-<img src="./images/ja/topics2/img/nagare03.png" alt="" >
-<img src="./images/ja/topics2/img/fukidasi03.png" alt="">
+
 <li id="bg4">
 <img src="./images/ja/topics2/img/pic04_kougi.png" align="middle">
 </li>
 <br>
-<img src="./images/ja/topics2/img/nagare04.png" alt="" >
+
 <br><li id="bg5">
 <img src="./images/ja/topics2/img/pic05_kougi.png" align="middle">
 </li>
