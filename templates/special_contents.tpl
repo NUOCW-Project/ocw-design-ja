@@ -8,7 +8,6 @@
 </a>
 </li>
 </ul>
-
 <img src="./images/ja/topics2/student/student01.png">
 <img src="./images/ja/topics2/img/nagare01.png">
 <img src="./images/ja/topics2/img/fukidasi01.png" alt="">
