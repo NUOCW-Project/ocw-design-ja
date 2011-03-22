@@ -15,14 +15,14 @@ z-index: 1;
 	overflow: visible;
 }
 #top1{
-top: 0px;
+top: 200px;
 left: 175px;
 z-index: 0;
 position: absolute;
 }
 
 #top2{
-top: 450px;
+top:400px;
 right: 10px;
 z-index: 1;
 position: absolute;
