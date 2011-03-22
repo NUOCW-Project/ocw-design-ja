@@ -16,13 +16,13 @@ z-index: 1;
 }
 #top1{
 top: 0px;
-left: 20px;
+left: 150px;
 z-index: 0;
 position: absolute;
 }
 
 #top2{
-top: 100px;
+top: 500px;
 right: 10px;
 z-index: 1;
 position: absolute;
