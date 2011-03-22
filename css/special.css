@@ -16,14 +16,14 @@ z-index: 1;
 }
 #top1{
 top: 0px;
-left: 0px;
+left: 20px;
 z-index: 0;
 position: absolute;
 }
 
 #top2{
-top: 20px;
-right: 5px;
+top: 100px;
+right: 10px;
 z-index: 1;
 position: absolute;
 }
@@ -35,7 +35,7 @@ position: absolute;
 
 #bg1{
 	position: absolute;
-        top: 20px;
+        top: 105px;
         right: 20px;
         z-index: 1
 
@@ -43,7 +43,7 @@ position: absolute;
 
 #bg2{
 	position: absolute;
-        top: 25px;
+        top: 110px;
         right: 20px;
         z-index: 2 
 }
@@ -52,7 +52,7 @@ position: absolute;
 
 #bg3{
 	
-	top: 30px;
+	top: 115px;
         right: 20px;	
         position: absolute;
 z-index: 3;
@@ -60,7 +60,7 @@ z-index: 3;
 
 
 #bg4{
-	top: 35px;
+	top: 140px;
 right: 20px;	
 position: relative;
 z-index: 4;
@@ -68,7 +68,7 @@ z-index: 4;
 
 
 #bg5{
-	top: 38px;
+	top: 145px;
 right: 20px;	
 position: absorute;
 z-index: 5;
