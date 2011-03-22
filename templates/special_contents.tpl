@@ -1,6 +1,6 @@
 <ul id="top">
 <li id="top1">
-<img src="./images/ja/topics2/topics2_lead.png" alt="" id="bg_top_image" width="600" height="300">
+<img src="./images/ja/topics2/topics2_lead.png" alt="" id="bg_top_image" width="760" height="525">
 </li>
 <li id="top2">
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
