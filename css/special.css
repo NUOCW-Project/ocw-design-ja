@@ -11,20 +11,21 @@ z-index: 1;
 
 
 
-#bg_top_image{
-	width: 700px;
-	height: 400px;
-	position: relative;
-	z-index: 1;
+#top li{
+	overflow: visible;
+}
+#top1{
+top: 0px;
+right: 0px;
+z-index: 0;
 }
 
-#bg{
-	list-style-type: none;
-	position: relative;
-	top: -95px;
-	margin-left: -41px;
-	z-index: ;
+#top2{
+top: 20px;
+right: 5px;
+z-index: 1;
 }
+
 
 #bg li{
 	overflow: visible;
