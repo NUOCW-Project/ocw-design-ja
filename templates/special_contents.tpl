@@ -1,12 +1,14 @@
 <ul id="top">
 <li id="top1">
-<img src="./images/ja/topics2/topics2_lead.png" alt="" id="bg_top_image">
-</li><li id="top2">
+<img src="./images/ja/topics2/topics2_lead.png" alt="" id="bg_top_image" width="1500" height="750">
+</li>
+<li id="top2">
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
 <img src="./images/ja/topics2/pagelink.png"> 
 </a>
 </li>
 </ul>
+
 <img src="./images/ja/topics2/student/student01.png">
 <img src="./images/ja/topics2/img/nagare01.png">
 <img src="./images/ja/topics2/img/fukidasi01.png" alt="">
