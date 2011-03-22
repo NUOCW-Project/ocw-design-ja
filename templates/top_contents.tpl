@@ -7,7 +7,7 @@
   <br>
   <!-- 「TOPICS」 -->
   <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics"> 
-    <img src="./images/{$lang}/topics_msg/prj10_msg_headder.jpg" id="prj10" alt="Topics 第１回目 message">
+    <img src="./images/ja/topics2/prj10_arita_headder.jpg" id="prj10" alt="Topics 第2回目 ボードゲームを究める">
   </a></div> <!-- "feature" end -->
     
 <div id="greeting">
