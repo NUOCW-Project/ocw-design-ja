@@ -23,33 +23,21 @@ z-index: 1;
 	position: relative;
 	top: -95px;
 	margin-left: -41px;
-	z-index: 0;
+	z-index: ;
 }
 
 #bg li{
 	overflow: visible;
 }
 
-#msg01{
+#bg1{
 	width: 700px;
 	height: 340px;
 	position: relative;
+
 }
 
-#bg1 p{
-	position: absolute;
-	top: 200px;
-	left: 100px;
-	width: 370px;
-	
-}
 
-#bg1 a{
-	position: absolute;
-	top: 220px;
-	left: 450px;
-	width: 233px;
-	height: 84px;
 }
 
 #bg2{
@@ -59,22 +47,6 @@ z-index: 1;
 }
 
 
-#bg2 p{
-	position: absolute;
-	top: 150px;
-	left: 75px;
-	width: 210px;
-
-}
-
-#bg2 a{
-	position: absolute;
-	top: 390px;
-	left: 100px;
-	width: 177px;
-	height: 77px;
-	z-index: 2;
-}
 
 #bg3{
 	width: 700px;
@@ -82,22 +54,6 @@ z-index: 1;
 	position: relative;
 }
 
-#bg3 p{
-	position: absolute;
-	top: 140px;
-	right: 20px;
-	width: 325px;
-	text-align: right;
-
-}
-
-#bg3 a{
-	position: absolute;
-	top: 300px;
-	right: 10px;
-	width: 208px;
-	height: 78px;
-}
 
 #bg4{
 	width: 700px;
@@ -106,40 +62,10 @@ z-index: 1;
 }
 
 
-#bg4 p{
-	position: absolute;
-	top: 120px;
-	left: 120px;
-	width: 410px;
-}
-
-#bg4 a{
-	position: relative;
-	top: 200px;
-	right: 50px;
-	width: 206px;
-	height: 81px;
-}
-
 #bg5{
 	width: 700px;
 	height: 320px;
 	position: absolute;
 }
 
-
-#bg5 p{
-	position: absolute;
-	top: 150px;
-	left: 140px;
-	width: 355px;
-}
-
-#bg5 a{
-	position: absolute;
-	top: 240px;
-	right: 40px;
-	width: 186px;
-	height: 76px;
-}
 
