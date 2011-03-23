@@ -22,8 +22,8 @@ position: absolute;
 }
 
 #top2{
-top:215px;
-right: 50px;
+top:200px;
+right: 40px;
 z-index: 1;
 position: absolute;
 }
@@ -66,17 +66,17 @@ z-index: 3;
 
 #bg4{
 	top: 650px;
-right: 20px;	
-position: relative;
-z-index: 2;
+        right: 20px;	
+        position: relative;
+        z-index: 2;
 }
 
 
 #bg5{
 	top: 700px;
-right: 20px;	
-position: absorute;
-z-index: 1;
+        right: 20px;	
+        position: absorute;
+        z-index: 1;
 }
 
 
