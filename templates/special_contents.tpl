@@ -16,24 +16,11 @@
 
 
 <img src="./images/ja/topics2/img/pic01_kougi.png" id="bg1">
-<li id="bg2">
-<img src="./images/ja/topics2/img/pic02_kougi.png">
-</li>
-<br>
-<li id="bg3">
-<img src="./images/ja/topics2/img/pic03_kougi.png">
-</li>
-<br>
+<img src="./images/ja/topics2/img/pic02_kougi.png" id="bg2">
+<img src="./images/ja/topics2/img/pic03_kougi.png" id="bg3">
+<img src="./images/ja/topics2/img/pic04_kougi.png" id="bg4">
+<img src="./images/ja/topics2/img/pic05_kougi.png "id="bg5">
 
-<li id="bg4">
-<img src="./images/ja/topics2/img/pic04_kougi.png" align=>
-</li>
-<br>
-
-<br><li id="bg5">
-<img src="./images/ja/topics2/img/pic05_kougi.png" >
-</li>
-</ul>
 
 
 <img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」">
