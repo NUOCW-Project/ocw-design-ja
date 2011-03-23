@@ -1,13 +1,10 @@
-<ul id="top">
 <img src="./images/ja/topics2/topics2_lead.png" id ="top1" width="720" height="500">
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index" id="top2">
-<img src="./images/ja/topics2/pagelink.png" id="top2"> 
+<img src="./images/ja/topics2/pagelink.png" id="top2" width="720" height="500">
 </a>
 <img src="./images/ja/topics2/img/bg.png" id="top3">
-</ul>
 
-<ul>
-<img src="./images/ja/topics2/student/student01.png">
+<img src="./images/ja/topics2/student/student01.png" id= >
 <img src="./images/ja/topics2/img/nagare01.png">
 <img src="./images/ja/topics2/img/fukidasi01.png" alt="">
 <img src="./images/ja/topics2/img/fukidasi02.png" alt="">
