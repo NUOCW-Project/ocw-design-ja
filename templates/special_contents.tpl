@@ -1,11 +1,9 @@
 <ul id="top">
 <img src="./images/ja/topics2/topics2_lead.png" id ="top1" width="720" height="500">
-</li>
-<li id="top2">
-<a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
-<img src="./images/ja/topics2/pagelink.png"> 
+<a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index" id="top2">
+<img src="./images/ja/topics2/pagelink.png" id="top2"> 
 </a>
-</li>
+<img src="./images/ja/topics2/img/bg.png" id="top3">
 </ul>
 
 <ul>
