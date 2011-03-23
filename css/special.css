@@ -15,8 +15,8 @@ z-index: 1;
 	overflow: visible;
 }
 #top1{
-top: 0px;
-left: 200px;
+top: 50px;
+left: 150px;
 z-index: 0;
 position: absolute;
 }
@@ -28,6 +28,11 @@ z-index: 1;
 position: absolute;
 }
 
+top3{
+top: 550;
+reft:150; 
+z-index: 0;
+}
 
 #bg li{
 	overflow: visible;
