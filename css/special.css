@@ -16,21 +16,21 @@ z-index: 1;
 }
 #top1{
 top: 25px;
-left: 175px;
+left: 190px;
 z-index: 0;
 position: absolute;
 }
 
 #top2{
-top:400px;
+top:200px;
 right: 60px;
 z-index: 1;
 position: absolute;
 }
 
 top3{
-top: 200;
-left:175; 
+top: 500;
+left:190; 
 z-index: 0;
 position: absolute;
 }
