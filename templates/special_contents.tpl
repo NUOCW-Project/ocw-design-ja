@@ -14,6 +14,7 @@
 <img src="./images/ja/topics2/img/nagare03.png" id="k7" >
 <img src="./images/ja/topics2/img/fukidasi03.png" id="k8">
 <img src="./images/ja/topics2/img/nagare04.png"id="k9">
+<img src="./images/ja/topics2/img/hata01_kougi.png" id="k10">
 
 <img src="./images/ja/topics2/img/pic01_kougi.png" id="bg1">
 <img src="./images/ja/topics2/img/pic02_kougi.png" id="bg2">
