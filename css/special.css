@@ -50,31 +50,31 @@ position: absolute;
 #bg2{
 	position: relative;
         top: 140px;
-        right: 20px;
+        right: 0px;
         z-index: 4;  
 }
 
 
 
 #bg3{	
-	top: 800px;
-        right: 20px;	
-        position: absolute;
+	top: 150px;
+        right: 0px;	
+        position: relative;
         z-index: 3;
 }
 
 
 #bg4{
-	top: 950px;
-        right: 20px;	
-        position: absolute;
+	top: 150px;
+        right: 0px;	
+        position: relative;
         z-index: 2;
 }
 
 #bg5{
-	top: 1100px;
-        right: 20px;	
-        position: absorute;
+	top: 100px;
+        right: 0px;	
+        position: relative;
         z-index: 1;
 }
 
