@@ -49,7 +49,7 @@ position: absolute;
 
 #bg2{
 	position: absolute;
-        top: 550px;
+        top: 600px;
         right: 20px;
         z-index: 4;  
 }
@@ -57,7 +57,7 @@ position: absolute;
 
 
 #bg3{	
-	top: 600px;
+	top: 700px;
         right: 20px;	
         position: absolute;
 z-index: 3;
@@ -65,18 +65,36 @@ z-index: 3;
 
 
 #bg4{
-	top: 650px;
+	top: 800px;
         right: 20px;	
-        position: relative;
+        position: absolute;
         z-index: 2;
 }
 
 
 #bg5{
-	top: 700px;
+	top: 900px;
         right: 20px;	
         position: absorute;
         z-index: 1;
 }
 
 
+#k1{
+}
+#k2{
+}
+#k3{
+}
+#k4{
+}
+#k5{
+}
+#k6{
+}
+#k7{
+}
+#k8{
+}
+#k9{
+}
