@@ -17,14 +17,14 @@ z-index: 1;
 #top1{
 top: 25px;
 left: 195px;
-z-index: 0;
+z-index: 6;
 position: absolute;
 }
 
 #top2{
-top:200px;
-right: 40px;
-z-index: 1;
+top:210px;
+right: 30px;
+z-index: 7;
 position: absolute;
 }
 
@@ -48,8 +48,8 @@ position: absolute;
 }
 
 #bg2{
-	position: absolute;
-        top: 650px;
+	position: relative;
+        top: 140px;
         right: 20px;
         z-index: 4;  
 }
@@ -70,7 +70,6 @@ position: absolute;
         position: absolute;
         z-index: 2;
 }
-
 
 #bg5{
 	top: 1100px;
