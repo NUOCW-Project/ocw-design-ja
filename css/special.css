@@ -48,33 +48,33 @@ position: absolute;
 }
 
 #bg2{
-	position: relative;
-        top: 140px;
-        right: 0px;
+	position: absolute;
+        top: 600px;
+        right: 20px;
         z-index: 4;  
 }
 
 
 
 #bg3{	
-	top: 150px;
-        right: 0px;	
-        position: relative;
+	top: 700px;
+        right: 20px;	
+        position: absolute;
         z-index: 3;
 }
 
 
 #bg4{
-	top: 150px;
-        right: 0px;	
-        position: relative;
+	top: 800px;
+        right: 20px;	
+        position: absolute;
         z-index: 2;
 }
 
 #bg5{
-	top: 100px;
-        right: 0px;	
-        position: relative;
+	top: 900px;
+        right: 20px;	
+        position: absolute;
         z-index: 1;
 }
 
