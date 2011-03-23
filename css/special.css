@@ -71,38 +71,41 @@ position: absolute;
         z-index: 1;
 }
 
-
-
 #k1{
         top: 600;
         left: 190;
         position: absolute;
         z-index: 2;
 }
+
 #k2{
  top: 650;
         left: 300;
         position: absolute;
 	z-index: 1;
 }
+
 #k3{
  top: 525;
         left: 350;
         position: absolute;
 	z-index: 3;
 }
+
 #k4{
  top: ;
         left: ;
         position: absolute;
 	z-index: 3;
 }
+
 #k5{
  top: ;
         left: ;
         position: absolute;
 	z-index: 1;
 }
+
 #k6{
  top: ;
         left: ;
