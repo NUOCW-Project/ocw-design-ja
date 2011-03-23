@@ -1,23 +1,21 @@
 <img src="./images/ja/topics2/topics2_lead.png" id ="top1" width="720" height="500">
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index" id="top2">
-<img src="./images/ja/topics2/pagelink.png" id="top2" width="720" height="500">
+<img src="./images/ja/topics2/pagelink.png" id="top2" 
 </a>
-<img src="./images/ja/topics2/img/bg.png" id="top3">
 
-<img src="./images/ja/topics2/student/student01.png" id= >
-<img src="./images/ja/topics2/img/nagare01.png">
-<img src="./images/ja/topics2/img/fukidasi01.png" alt="">
-<img src="./images/ja/topics2/img/fukidasi02.png" alt="">
-<img src="./images/ja/topics2/img/nagare02.png">
-<img src="./images/ja/topics2/student/student02_ichinose.png" alt="">
-<img src="./images/ja/topics2/img/nagare03.png" alt="" >
-<img src="./images/ja/topics2/img/fukidasi03.png" alt="">
+<img src="./images/ja/topics2/img/bg.png" id="top3" width="720" height="500" >
 
-<ul id="bg">
-<li id="bg1">
-<img src="./images/ja/topics2/img/pic01_kougi.png" >
-</li>
-<br>
+<img src="./images/ja/topics2/student/student01.png" id="k1" >
+<img src="./images/ja/topics2/img/nagare01.png" id="k2">
+<img src="./images/ja/topics2/img/fukidasi01.png" id="k3">
+<img src="./images/ja/topics2/img/fukidasi02.png" id="k4">
+<img src="./images/ja/topics2/img/nagare02.png" id="k5">
+<img src="./images/ja/topics2/student/student02_ichinose.png" id="k6">
+<img src="./images/ja/topics2/img/nagare03.png" id="k7" >
+<img src="./images/ja/topics2/img/fukidasi03.png" id="k8">
+
+
+<img src="./images/ja/topics2/img/pic01_kougi.png" id="bg1">
 <li id="bg2">
 <img src="./images/ja/topics2/img/pic02_kougi.png">
 </li>
