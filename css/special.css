@@ -16,23 +16,23 @@ z-index: 1;
 }
 #top1{
 top: 25px;
-left: 190px;
+left: 195px;
 z-index: 0;
 position: absolute;
 }
 
 #top2{
-top:200px;
-right: 60px;
+top:215px;
+right: 80px;
 z-index: 1;
 position: absolute;
 }
 
 #top3{
-top: 500;
-left:190; 
+top: 1000;
+left:180; 
 z-index: 0;
-position: relative;
+position: absolute;
 }
 
 #bg li{
