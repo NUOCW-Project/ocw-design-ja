@@ -32,7 +32,7 @@ position: absolute;
 top: 500;
 left:190; 
 z-index: 0;
-position: absolute;
+position: relative;
 }
 
 #bg li{
