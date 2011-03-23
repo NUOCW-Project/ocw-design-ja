@@ -30,8 +30,9 @@ position: absolute;
 
 top3{
 top: 550;
-reft:150; 
+left:150; 
 z-index: 0;
+position: absolute;
 }
 
 #bg li{
