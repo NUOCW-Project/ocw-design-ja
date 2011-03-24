@@ -11,12 +11,11 @@ z-index: 0;
 } 
 
 
-
-#top li{
+div#top{
 	overflow: visible;
-top: 25px;
-left:195px;
-position: relative;
+        top: 25px;
+        left:195px;
+        position: relative;
 }
 
 #top1{
