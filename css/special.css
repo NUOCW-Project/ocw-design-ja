@@ -98,21 +98,21 @@ position: absolute;
 }
 
 #kn4{
- top: 300px;
+ top: 700px;
         left: 200px;
         position: absolute;
 	z-index: 3;
 }
 
 #kn5{
-        top: 350px;
+        top: 750px;
         left: 250px;
         position: absolute;
 	z-index: 1;
 }
 
 #kn6{
-        top: 350;
+        top: 750;
         left: 300;
         position: absolute;
 	z-index: 2;
