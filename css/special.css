@@ -54,7 +54,7 @@ position: absolute;
 }
 #bg3{	
 	top: 735px;
-        right: 20px;	
+        right: 30px;	
         position: absolute;
         z-index: 3;
 }
@@ -105,7 +105,7 @@ position: absolute;
 }
 
 #kn5{
-        top: 7500px;
+        top: 750px;
         left: 250px;
         position: absolute;
 	z-index: 1;
@@ -113,7 +113,7 @@ position: absolute;
 
 #kn6{
         top: 750px;
-        left: 400px;
+        left: 550px;
         position: absolute;
 	z-index: 2;
 }
