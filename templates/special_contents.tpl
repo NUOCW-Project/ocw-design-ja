@@ -5,6 +5,7 @@
 <img src="./images/ja/topics2/pagelink.png"> 
 </a>
 <img src="./images/ja/topics2/img/bg.png" id="top3" width="720" height="500" >
+< id="top4">
 </div>
 
 <div id="bg">
@@ -30,9 +31,9 @@
 <img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」" id="kn11">
 </div>
 
-
-<img src="./images/ja/topics2/img_i/pic06_enquete.png" alt="">
-<img src="./images/ja/topics2/img_i/title01_kangaeru.png" alt="">
-<br>
-<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" align="left">
-<img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" align="right">
+<div id="int">
+<img src="./images/ja/topics2/img_i/pic06_enquete.png" id="int1">
+<img src="./images/ja/topics2/img_i/title01_kangaeru.png" id="int2">
+<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" id="int3">
+<img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" id="int4">
+</div>
