@@ -43,6 +43,7 @@ div#bg{
 	overflow: visible;
 top: 400px;
 right:0px;
+position: relative;
 }
 
 #bg1{
@@ -82,6 +83,7 @@ div#kn{
  overflow: visible;
 top: 500px;
 left: 190px;
+position: relative;
 }
 
 #kn1{
