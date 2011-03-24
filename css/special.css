@@ -71,70 +71,71 @@ position: absolute;
         z-index: 1;
 }
 
-#k li{
+
+#kn li{
  overflow: visible;
 }
 
-#k1{
+#kn1{
         top: 600;
         left: 190;
         position: absolute;
         z-index: 2;
 }
 
-#k2{
+#kn2{
  top: 650;
         left: 300;
         position: absolute;
 	z-index: 1;
 }
 
-#k3{
+#kn3{
  top: 525;
         left: 350;
         position: absolute;
 	z-index: 3;
 }
 
-#k4{
+#kn4{
  top: ;
         left: ;
         position: absolute;
 	z-index: 3;
 }
 
-#k5{
+#kn5{
  top: ;
         left: ;
         position: absolute;
 	z-index: 1;
 }
 
-#k6{
+#kn6{
  top: ;
         left: ;
         position: absolute;
 	z-index: 2;
 }
-#k7{
+#kn7{
  top: ;
         left: ;
         position: absolute;
 	z-index: 1;
 }
-#k8{
+#kn8{
  top: ;
         left: ;
         position: absolute;
 	z-index: 3;
 }
-#k9{
+#kn9{
  top: ;
         left: ;
         position: absolute;
 	z-index: 1;
 }
-#k10{
+#kn10{
  top: ;
         left: 180;
         position: absolute;
