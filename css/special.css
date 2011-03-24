@@ -41,7 +41,7 @@ position: absolute;
 
 #bg1{
 	position: absolute;
-        top: 500px;
+        top: 450px;
         right: 20px;
         z-index: 5;
 }
@@ -59,7 +59,7 @@ position: absolute;
         z-index: 3;
 }
 #bg4{
-	top: 800px;
+	top: 850px;
         right: 20px;	
         position: absolute;
         z-index: 2;
@@ -85,35 +85,35 @@ position: absolute;
 
 #kn2{
  top: 650px;
-        left: 300px;
+        left: 450px;
         position: absolute;
 	z-index: 1;
 }
 
 #kn3{
-    top: 525px;
-        left: 350px;
+    top: 550px;
+        left: 500px;
         position: absolute;
 	z-index: 3;
 }
 
 #kn4{
- top: px;
-        left: px;
+ top: 300px;
+        left: 200px;
         position: absolute;
 	z-index: 3;
 }
 
 #kn5{
- top: px;
-        left: ;
+        top: 350px;
+        left: 250px;
         position: absolute;
 	z-index: 1;
 }
 
 #kn6{
- top: ;
-        left: ;
+        top: 350;
+        left: 300;
         position: absolute;
 	z-index: 2;
 }
