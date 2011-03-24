@@ -48,18 +48,18 @@ position: absolute;
 
 #bg2{
 	position: absolute;
-        top: 600px;
+        top: 610px;
         right: 20px;
         z-index: 4;  
 }
 #bg3{	
-	top: 725px;
+	top: 735px;
         right: 20px;	
         position: absolute;
         z-index: 3;
 }
 #bg4{
-	top: 825px;
+	top: 845px;
         right: 15px;	
         position: absolute;
         z-index: 2;
