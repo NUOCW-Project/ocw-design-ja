@@ -30,6 +30,20 @@
 
 
 <img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 <img src="./images/ja/topics2/img_i/pic06_enquete.png" alt="">
 <img src="./images/ja/topics2/img_i/title01_kangaeru.png" alt="">
