@@ -143,8 +143,8 @@ position: absolute;
 }
 
 #kn11{
-top: px;
-left: px;
+top: 1000px;
+left: 200px;
 position: absolute;
 z-index: 1;
 }
