@@ -12,14 +12,12 @@ z-index: 0;
 
 
 div#top{
-top: 190;
-left: 25;	
 overflow: visible;
         position: relative;
 }
 
 #top1{
-top: 0px;
+top: 190px;
 left: 0px;
 z-index: 6;
 position: absolute;
