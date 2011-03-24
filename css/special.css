@@ -39,8 +39,10 @@ z-index: 0;
 position: absolute;
 }
 
-#bg li{
+div#bg{
 	overflow: visible;
+top: 400px;
+right:0px;
 }
 
 #bg1{
@@ -76,12 +78,14 @@ position: absolute;
 }
 
 
-#kn li{
+div#kn{
  overflow: visible;
+top: 500px;
+left: 190px;
 }
 
 #kn1{
-        top: 550px;
+        top: 50px;
         left: 200px;
         position: absolute;
         z-index: 8;
