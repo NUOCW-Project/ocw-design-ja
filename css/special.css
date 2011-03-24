@@ -1,7 +1,7 @@
 
 
 #contents{
-
+height: ;
 background-image: url(../images/ja/topics2/img/blueline.png);
 background-repeat: repeat-y;
 background-position: 23% 20%;
@@ -14,7 +14,11 @@ z-index: 0;
 
 #top li{
 	overflow: visible;
+top: 25px;
+left:195px;
+position: relative;
 }
+
 #top1{
 top: 25px;
 left: 195px;
