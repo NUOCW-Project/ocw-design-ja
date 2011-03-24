@@ -77,7 +77,7 @@ position: absolute;
 }
 
 #kn1{
-        top: 600px;
+        top: 525px;
         left: 190px;
         position: absolute;
         z-index: 2;
@@ -98,8 +98,8 @@ position: absolute;
 }
 
 #kn4{
- top: 750px;
-        left: 200px;
+ top: 770px;
+        left: 190px;
         position: absolute;
 	z-index: 3;
 }
@@ -113,25 +113,25 @@ position: absolute;
 
 #kn6{
         top: 750px;
-        left: 300px;
+        left: 400px;
         position: absolute;
 	z-index: 2;
 }
 #kn7{
- top: ;
-        left: ;
+        top: 820px;
+        left: 400px;
         position: absolute;
 	z-index: 1;
 }
 #kn8{
- top: ;
-        left: ;
+        top: 800px;
+        left: 400px;
         position: absolute;
 	z-index: 3;
 }
 #kn9{
- top: ;
-        left: ;
+        top: 100px;
+        left: 200px;
         position: absolute;
 	z-index: 1;
 }
@@ -139,5 +139,5 @@ position: absolute;
         top: 500px;
         left: 180px;
         position: absolute;
-	z-index: 1;
+	z-index: 2;
 }
