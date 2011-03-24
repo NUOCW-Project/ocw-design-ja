@@ -27,11 +27,7 @@
 <img src="./images/ja/topics2/img/fukidasi03.png" id="kn8">
 <img src="./images/ja/topics2/img/nagare04.png"id="kn9">
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10">
-
-
-
-
-<img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」">
+<img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」" id="kn11">
 <br>
 <br>
 <br>
