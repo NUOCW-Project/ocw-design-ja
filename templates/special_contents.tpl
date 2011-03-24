@@ -1,5 +1,5 @@
 <img src="./images/ja/topics2/topics2_lead.png" id="top1" width="720" height="500">
-<a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index" id="top2">
+<a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
 <img src="./images/ja/topics2/pagelink.png" id="top2"> 
 </a>
 
@@ -13,16 +13,17 @@
 <img src="./images/ja/topics2/img/pic05_kougi.png" id="bg5">
 
 
-<img src="./images/ja/topics2/student/student01.png" id="k1" >
-<img src="./images/ja/topics2/img/nagare01.png" id="k2">
-<img src="./images/ja/topics2/img/fukidasi01.png" id="k3">
-<img src="./images/ja/topics2/img/fukidasi02.png" id="k4">
-<img src="./images/ja/topics2/img/nagare02.png" id="k5">
-<img src="./images/ja/topics2/student/student02_ichinose.png" id="k6">
-<img src="./images/ja/topics2/img/nagare03.png" id="k7" >
-<img src="./images/ja/topics2/img/fukidasi03.png" id="k8">
-<img src="./images/ja/topics2/img/nagare04.png"id="k9">
-<img src="./images/ja/topics2/img/hata01_kougi.png" id="k10">
+<img src="./images/ja/topics2/student/student01.png" id="kn1" >
+<img src="./images/ja/topics2/img/nagare01.png" id="kn2">
+<p>1,事前に担当を決められた学生がゲームのルールを解説。</p>
+<img src="./images/ja/topics2/img/fukidasi01.png" id="kn3">
+<img src="./images/ja/topics2/img/fukidasi02.png" id="kn4">
+<img src="./images/ja/topics2/img/nagare02.png" id="kn5">
+<img src="./images/ja/topics2/student/student02_ichinose.png" id="kn6">
+<img src="./images/ja/topics2/img/nagare03.png" id="kn7" >
+<img src="./images/ja/topics2/img/fukidasi03.png" id="kn8">
+<img src="./images/ja/topics2/img/nagare04.png"id="kn9">
+<img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10">
 
 
 
