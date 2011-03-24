@@ -12,9 +12,9 @@ z-index: 0;
 
 
 div#top{
-	overflow: visible;
-        top: 0px;
-        left: 0px;
+top: 190;
+left: 25;	
+overflow: visible;
         position: relative;
 }
 
