@@ -162,28 +162,10 @@ top: 1200px;
 left: 0px;
 position: relative;
 }
-div#int1{
-overflow: visible;
-top: 1200px;
-left: 0px;
-position: relative;
-}
-div#int2{
-overflow: visible;
-top: 1200px;
-left: 0px;
-position: relative;
-}
-div#int3{
-overflow: visible;
-top: 1200px;
-left: 0px;
-position: relative;
-}
 
-
-#in1{
+#int1{
 top:0px;
 left:20px;
 z-index:0;
 }
+
