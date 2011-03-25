@@ -1,7 +1,7 @@
 
 
 #contents{
-height: 3000;
+height: 3000px;
 background-image: url(../images/ja/topics2/img/blueline.png);
 background-repeat: repeat-y;
 background-position: 20% 20%;
@@ -154,4 +154,36 @@ top: 670px;
 left: -11px;
 position: absolute;
 z-index: 1;
+}
+
+div#int{
+overflow: visible;
+top: 1200px;
+left: 0px;
+position: relative;
+}
+div#int{
+overflow: visible;
+top: 1200px;
+left: 0px;
+position: relative;
+}
+div#int{
+overflow: visible;
+top: 1200px;
+left: 0px;
+position: relative;
+}
+div#int{
+overflow: visible;
+top: 1200px;
+left: 0px;
+position: relative;
+}
+
+
+#int1{
+top:;
+left:;
+z-index:;
 }
