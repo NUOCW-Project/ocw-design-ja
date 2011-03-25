@@ -32,8 +32,8 @@
 </div>
 
 <div id="int">
-<img src="./images/ja/topics2/img_i/pic06_enquete_hata.png" id="in1">
-<img src="./images/ja/topics2/img_i/title01_kangaeru.png" id="in2">
-<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" id="in3">
-<img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" id="in4">
+<img src="./images/ja/topics2/img_i/pic06_enquete_hata.png" id="int1">
+<img src="./images/ja/topics2/img_i/title01_kangaeru.png" id="int2">
+<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" id="int3">
+<img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" id="int4">
 </div>
