@@ -1,10 +1,10 @@
 
 
 #contents{
-height: ;
+height: 3000;
 background-image: url(../images/ja/topics2/img/blueline.png);
 background-repeat: repeat-y;
-background-position: 23% 20%;
+background-position: 20% 20%;
 background-attachment: fixed;
 z-index: 0;
 
@@ -13,12 +13,11 @@ z-index: 0;
 
 div#top{
 overflow: visible;
-        position: relative;
 }
 
 #top1{
-top: 190px;
-left: 0px;
+top: 25px;
+left: 190px;
 z-index: 6;
 position: absolute;
 }
@@ -31,46 +30,46 @@ position: absolute;
 }
 
 #top3{
-top: 525px;
-left:195px; 
+top: 517px;
+left:218px; 
 z-index: 0;
 position: absolute;
 }
 
 div#bg{
 	overflow: visible;
-top: 400px;
-right:0px;
+top: 390px;
+right:34px;
 position: relative;
 }
 
 #bg1{
 	position: absolute;
-        top: 475px;
-        right: 20px;
+        top: 0px;
+        right: 30px;
         z-index: 5;
 }
 
 #bg2{
 	position: absolute;
-        top: 610px;
-        right: 20px;
+        top: 142px;
+        right: 27px;
         z-index: 4;  
 }
 #bg3{	
-	top: 735px;
-        right: 30px;	
+	top: 274px;
+        right:40px;	
         position: absolute;
         z-index: 3;
 }
 #bg4{
-	top: 845px;
+	top: 388px;
         right: 15px;	
         position: absolute;
         z-index: 2;
 }
 #bg5{
-	top: 900px;
+	top: 430px;
         right: 20px;	
         position: absolute;
         z-index: 1;
@@ -79,80 +78,80 @@ position: relative;
 
 div#kn{
  overflow: visible;
-top: 500px;
-left: 190px;
+top: 350px;
+left: 0px;
 position: relative;
 }
 
 #kn1{
-        top: 50px;
-        left: 200px;
+        top: 124px;
+        left: 38px;
         position: absolute;
         z-index: 8;
 }
 
 #kn2{
- top: 650px;
-        left: 450px;
+ top: 180px;
+        left: 242px;
         position: absolute;
 	z-index: 1;
 }
 
 #kn3{
-    top: 550px;
-        left: 500px;
+    top: 97px;
+        left: 300px;
         position: absolute;
 	z-index: 3;
 }
 
 #kn4{
-        top: 700px;
-        left: 210px;
+        top: 260px;
+        left: 55px;
         position: absolute;
 	z-index: 9;
 }
 
 #kn5{
-        top: 750px;
-        left: 250px;
+        top: 338px;
+        left: 82px;
         position: absolute;
 	z-index: 1;
 }
 
 #kn6{
-        top: 750px;
-        left: 550px;
+        top: 287px;
+        left: 212px;
         position: absolute;
 	z-index: 2;
 }
 #kn7{
-        top: 820px;
-        left: 450px;
+        top: 444px;
+        left: 250px;
         position: absolute;
 	z-index: 1;
 }
 #kn8{
-        top: 800px;
-        left: 400px;
+        top: 379px;
+        left: 338px;
         position: absolute;
 	z-index: 3;
 }
 #kn9{
-        top: 900px;
-        left: 210px;
+        top: 553px;
+        left: 85px;
         position: absolute;
 	z-index: 1;
 }
 #kn10{
-        top: 500px;
-        left: 180px;
+        top: 50px;
+        left: 0px;
         position: absolute;
 	z-index: 7;
 }
 
 #kn11{
-top: 1200px;
-left: 200px;
+top: 670px;
+left: -11px;
 position: absolute;
 z-index: 1;
 }
