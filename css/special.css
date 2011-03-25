@@ -159,13 +159,36 @@ z-index: 1;
 div#int{
 overflow: visible;
 top: 1200px;
-left: 0px;
+left:-160px;
 position: relative;
 }
 
 #int1{
 top:0px;
-left:20px;
-z-index:0;
+left:9px;
+z-index:1;
+position: absolute;
 }
 
+#int2 {
+    left: 89px;
+    top: 334px;
+    z-index: 1;
+    position: absolute;
+}
+
+#int3 {
+    left: 8px;
+    top: 800px;
+    position: absolute;
+    z-index: 1;
+}
+
+
+
+#int4 {
+    left: 400px;
+    top: 900px;
+    position: absolute;
+    z-index: 1;
+}
