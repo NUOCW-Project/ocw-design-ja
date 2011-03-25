@@ -183,7 +183,7 @@ position: relative;
 
 
 #int1{
-top:;
-left:;
-z-index:;
+top:0px;
+left:20px;
+z-index:0;
 }
