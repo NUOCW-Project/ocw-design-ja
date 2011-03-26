@@ -4,7 +4,7 @@
 height: 2357px;
 background-image: url(../images/ja/topics2/img/blueline.png);
 background-repeat: repeat-y;
-background-position: 19%;
+background-position: 27%;
 background-attachment: fixed;
 z-index: 0;
 
@@ -85,13 +85,13 @@ position: relative;
 
 #kn1{
         top: 124px;
-        left: 38px;
+        left: 21px;
         position: absolute;
         z-index: 8;
 }
 p.p1{
 top: 180px;
-left: 200px;
+left: 97px;
 position: absolute;
 z-index: 1;
 }
@@ -132,22 +132,22 @@ z-index: 1;
 }
 
 p.p2 {
-    left: 98px;
+    left: 286px;
     position: absolute;
-    top: 180px;
+    top: 298px;
     z-index: 1;
 }
 p.pi {
-    left: 98px;
+    left: 301px;
     position: absolute;
-    top: 180px;
+    top: 341px;
     z-index: 1;
 }
 
 p.p3 {
-    left: 98px;
+    left: 65px;
     position: absolute;
-    top: 180px;
+    top: 457px;
     z-index: 1;
 }
 
@@ -165,9 +165,9 @@ p.p3 {
 }
 
 p.p4 {
-    left: 98px;
+    left: 261px;
     position: absolute;
-    top: 180px;
+    top: 569px;
     z-index: 1;
 }
 #kn9{
