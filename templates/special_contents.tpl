@@ -19,8 +19,8 @@
 <div id="kn">
 <img src="./images/ja/topics2/student/student01.png" id="kn1" >
 <p class="p1">
-1,事前に担当を決められた
-学生がゲームのルールを
+1,事前に担当を決められた<br>
+学生がゲームのルールを<br>
 解説。
 </p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2">
@@ -28,9 +28,25 @@
 <img src="./images/ja/topics2/img/fukidasi02.png" id="kn4">
 <img src="./images/ja/topics2/img/nagare02.png" id="kn5">
 <img src="./images/ja/topics2/student/student02_ichinose.png" id="kn6">
+<p class="p2">
+2,グループにわかれてプレイ、<br>
+中盤にグループ交代。</p>
+<p class="pi">
+OCWサポーター<br>
+市之瀬さん
+</p>
+<p class="p3">
+担当の学生はプレイに参加せず、<br>
+サポートを行う。<br>
+途中でグループを入れ替える。
+</p>
 <img src="./images/ja/topics2/img/nagare03.png" id="kn7" >
 <img src="./images/ja/topics2/img/fukidasi03.png" id="kn8">
 <img src="./images/ja/topics2/img/nagare04.png"id="kn9">
+<p class="p4">
+最後に先生がゲームの解説・<br>
+まとめをする。
+</p>
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10">
 <img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」" id="kn11">
 </div>
