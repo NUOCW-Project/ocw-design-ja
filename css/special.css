@@ -243,35 +243,35 @@ bckground-color: #AAEEDD;
 }
 
 p.ik1{
-top: 1122px;
-left: 272px;
+top: 1121px;
+left: 276px;
 position: absolute;
 z-index: 1;
 text-align: justify;
 text-justify: inter-ideograph;
-font-size: 80%;
+font-size: 95%;
 
 }
 
 
 p.ik2{
 top: 1121px;
-left: 500px;
+left: 496px;
 position: absolute;
 z-index: 1;
 text-align: justify;
 text-justify: inter-ideograph;
-font-size: 80%;
+font-size: 95%;
 
 }
 
 p.ik3{
-top: 1119px;
-left: 711px;
+top: 1121px;
+left: 726px;
 position: absolute;
 z-index: 1;
 text-align: justify;
 text-justify: inter-ideograph;
-font-size: 80%;
+font-size: 95%;
 
 }
