@@ -21,7 +21,7 @@
 <p class="p1">
 <br>
 <br>
-„ÅÇ
+§¢
 </p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2">
 <img src="./images/ja/topics2/img/fukidasi01.png" id="kn3">
@@ -32,7 +32,7 @@
 <img src="./images/ja/topics2/img/fukidasi03.png" id="kn8">
 <img src="./images/ja/topics2/img/nagare04.png"id="kn9">
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10">
-<img src="./images/ja/topics2/t2_kansou_y.png" alt="„ÄåÊÑüÊÉ≥„Äç" id="kn11">
+<img src="./images/ja/topics2/t2_kansou_y.png" alt="°÷¥∂¡€°◊" id="kn11">
 </div>
 
 <div id="int">
