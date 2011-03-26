@@ -296,7 +296,7 @@ font-size: 95%;
 div#ik{
 left: 0px;
 top: 1000px;
-position: relative;
+position: absolute;
 z-index: 0;
 bckground-color: #AAEEDD;
 
