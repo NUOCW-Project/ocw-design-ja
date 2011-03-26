@@ -234,31 +234,29 @@ position: absolute;
 }
 
 div#ik{
-left: 400px;
-top: 900px;
+left: 0px;
+top: 1000px;
 position: relative;
 z-index: 0;
-width: 300px
-highte: 100px
-color: #FFBB55;
+bckground-color: #FFBB55;
 
 }
 
 p.ik1{
-top: 900px;
-left: 400px;
+top: 1044px;
+left: 74px;
 position: absolute;
 z-index: 1;
 }
 p.ik2{
-top: 900px;
-left: 400px;
+top: 1115px;
+left: 147px;
 position: absolute;
 z-index: 1;
 }
 p.ik3{
-top: 900px;
-left: 400px;
+top: 1044px;
+left: 490px;
 position: absolute;
 z-index: 1;
 }
