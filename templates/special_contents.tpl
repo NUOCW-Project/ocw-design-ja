@@ -30,13 +30,13 @@
 <img src="./images/ja/topics2/student/student02_ichinose.png" id="kn6">
 <p class="p2">
 2,グループにわかれてプレイ、<br>
-中盤にグループ交代。</p>
+　中盤にグループ交代。</p>
 <p class="pi">
 OCWサポーター<br>
 市之瀬さん
 </p>
 <p class="p3">
-担当の学生はプレイに参加せず、<br>
+3,担当の学生はプレイに参加せず、<br>
 サポートを行う。<br>
 途中でグループを入れ替える。
 </p>
@@ -44,7 +44,7 @@ OCWサポーター<br>
 <img src="./images/ja/topics2/img/fukidasi03.png" id="kn8">
 <img src="./images/ja/topics2/img/nagare04.png"id="kn9">
 <p class="p4">
-最後に先生がゲームの解説・<br>
+4,最後に先生がゲームの解説・<br>
 まとめをする。
 </p>
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10">
