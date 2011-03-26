@@ -247,16 +247,28 @@ top: 1044px;
 left: 74px;
 position: absolute;
 z-index: 1;
+text-align: justify;
+text-justify: inter-ideograph;
+}
+
 }
 p.ik2{
 top: 1115px;
 left: 147px;
 position: absolute;
 z-index: 1;
+text-align: justify;
+text-justify: inter-ideograph;
+}
+
 }
 p.ik3{
 top: 1044px;
 left: 490px;
 position: absolute;
 z-index: 1;
+text-align: justify;
+text-justify: inter-ideograph;
+}
+
 }
