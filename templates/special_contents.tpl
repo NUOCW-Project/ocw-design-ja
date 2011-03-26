@@ -19,9 +19,9 @@
 <div id="kn">
 <img src="./images/ja/topics2/student/student01.png" id="kn1" >
 <p class="p1">
-<br>
-<br>
-��
+①事前に担当を決められた<br>
+学生がゲームのルールを<br>
+解説。
 </p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2">
 <img src="./images/ja/topics2/img/fukidasi01.png" id="kn3">
@@ -32,7 +32,7 @@
 <img src="./images/ja/topics2/img/fukidasi03.png" id="kn8">
 <img src="./images/ja/topics2/img/nagare04.png"id="kn9">
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10">
-<img src="./images/ja/topics2/t2_kansou_y.png" alt="�ִ��ۡ�" id="kn11">
+<img src="./images/ja/topics2/t2_kansou_y.png" alt="「感想」" id="kn11">
 </div>
 
 <div id="int">
