@@ -58,8 +58,18 @@ OCWサポーター<br>
 <img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" id="int4">
 </div>
 
-<div="">
-
+<div id="ia">
+<p class="ia1">
+授業を終えてのアンケート
+</p>
+<p class="ia2">
+</p>
+<p class="ia3">
+</p>
+<p class="ia4">
+</p>
+<p class="ia5">
+</p>
 </div>
 
 <div id="ik">
