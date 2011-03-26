@@ -233,6 +233,66 @@ position: absolute;
     z-index: 1;
 }
 
+div#ia{
+left: 0px;
+top: 600px;
+position: relative;
+z-index: 0;
+bckground-color: #AAEEDD;
+}
+
+
+p.ia1{
+top: 0px;
+left: 276px;
+position: absolute;
+z-index: 1;
+text-align: justify;
+text-justify: inter-ideograph;
+font-size: 95%;
+}
+
+p.ia2{
+top: 1121px;
+left: 276px;
+position: absolute;
+z-index: 1;
+text-align: justify;
+text-justify: inter-ideograph;
+font-size: 95%;
+}
+p.ia3{
+top: 1121px;
+left: 276px;
+position: absolute;
+z-index: 1;
+text-align: justify;
+text-justify: inter-ideograph;
+font-size: 95%;
+}
+p.ia4{
+top: 1121px;
+left: 276px;
+position: absolute;
+z-index: 1;
+text-align: justify;
+text-justify: inter-ideograph;
+font-size: 95%;
+}
+
+p.ia5{
+top: 1121px;
+left: 276px;
+position: absolute;
+z-index: 1;
+text-align: justify;
+text-justify: inter-ideograph;
+font-size: 95%;
+}
+
+
+
+
 div#ik{
 left: 0px;
 top: 1000px;
