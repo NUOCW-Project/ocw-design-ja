@@ -89,7 +89,7 @@ position: relative;
         position: absolute;
         z-index: 8;
 }
-p#p1{
+p.p1{
 top: 180px;
 left: 200px;
 position: absolute;
