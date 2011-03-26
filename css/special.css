@@ -1,10 +1,10 @@
 
 
 #contents{
-height: 3000px;
+height: 2379px;
 background-image: url(../images/ja/topics2/img/blueline.png);
 background-repeat: repeat-y;
-background-position: 20% 20%;
+background-position: 24%;
 background-attachment: fixed;
 z-index: 0;
 
@@ -39,7 +39,7 @@ position: absolute;
 div#bg{
 	overflow: visible;
 top: 390px;
-right:34px;
+right:-39px;
 position: relative;
 }
 
