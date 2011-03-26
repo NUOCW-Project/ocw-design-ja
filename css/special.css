@@ -89,6 +89,12 @@ position: relative;
         position: absolute;
         z-index: 8;
 }
+p#p1{
+top: 180px;
+left: 200px;
+position: absolute;
+z-index: 1;
+}
 
 #kn2{
  top: 180px;
