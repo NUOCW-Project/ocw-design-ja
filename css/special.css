@@ -297,7 +297,8 @@ left: 0px;
 top: 1092px;
 position: relative;
 z-index: 0;
-
+padding:1000px 200px;
+background-color: #FFBB55; 
 }
 
 p.ik1{
