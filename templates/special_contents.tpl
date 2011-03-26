@@ -19,9 +19,9 @@
 <div id="kn">
 <img src="./images/ja/topics2/student/student01.png" id="kn1" >
 <p class="p1">
-①事前に担当を決められた<br>
-学生がゲームのルールを<br>
-解説。
+<br>
+<br>
+あ
 </p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2">
 <img src="./images/ja/topics2/img/fukidasi01.png" id="kn3">
