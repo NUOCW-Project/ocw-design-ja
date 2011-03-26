@@ -198,28 +198,30 @@ z-index: 1;
 
 div#int{
 overflow: visible;
-top: 1222px;
-left:-45px;
+top: 1256px;
+left: 46px;
 position: relative;
+padding: 550px 0px;
+background-color: #eeeeee; 
 }
 
 #int1{
-top:0px;
-left:0px;
+top: -17px;
+left:-68px;
 z-index:1;
 position: absolute;
 }
 
 #int2 {
-    left: 89px;
-    top: 334px;
+    left: 47px;
+    top: 323px;
     z-index: 1;
     position: absolute;
 }
 
 #int3 {
-    left: 18px;
-    top: 943px;
+    left: -60px;
+    top: 885px;
     position: absolute;
     z-index: 1;
 }
@@ -227,23 +229,23 @@ position: absolute;
 
 
 #int4 {
-    left: 567px;
-    top: 1042px;
+    left: 467px;
+    top: 983px;
     position: absolute;
     z-index: 1;
 }
 
 div#ia{
-left: 0px;
-top: 600px;
+left: 25px;
+top: 174px;
 position: relative;
 z-index: 0;
 }
 
 
 p.ia1{
-top: 926px;
-left: 340px;
+top: 270px;
+left: 315px;
 position: absolute;
 z-index: 1;
 text-align: justify;
@@ -252,7 +254,7 @@ font-size: 95%;
 }
 
 p.ia2{
-top: 996px;
+top: 350px;
 left: 48px;
 position: absolute;
 z-index: 1;
@@ -261,7 +263,7 @@ text-justify: inter-ideograph;
 font-size: 95%;
 }
 p.ia3{
-top: 1121px;
+top: 451px;
 left: 48px;
 position: absolute;
 z-index: 1;
@@ -270,7 +272,7 @@ text-justify: inter-ideograph;
 font-size: 95%;
 }
 p.ia4{
-top: 1121px;
+top: 450px;
 left: 263px;
 position: absolute;
 z-index: 1;
@@ -280,7 +282,7 @@ font-size: 95%;
 }
 
 p.ia5{
-top: 652px;
+top: 0px;
 left: 480px;
 position: absolute;
 z-index: 1;
@@ -293,17 +295,17 @@ font-size: 95%;
 
 
 div#ik{
-left: 0px;
-top: 1092px;
+left: 21px;
+top: 1042px;
 position: relative;
 z-index: 0;
-padding:1000px 200px;
+padding:137px 0px;
 background-color: #FFBB55; 
 }
 
 p.ik1{
-top: 1095px;
-left: 42px;
+top: 0px;
+left: 44px;
 position: absolute;
 z-index: 1;
 text-align: justify;
@@ -314,7 +316,7 @@ font-size: 95%;
 
 
 p.ik2{
-top: 1095px;
+top: 0px;
 left: 264px;
 position: absolute;
 z-index: 1;
@@ -325,8 +327,8 @@ font-size: 95%;
 }
 
 p.ik3{
-top: 1095px;
-left: 494px;
+top: 0px;
+left: 507px;
 position: absolute;
 z-index: 1;
 text-align: justify;
