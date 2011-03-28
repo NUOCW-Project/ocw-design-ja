@@ -22,14 +22,14 @@ z-index: 6;
 position: absolute;
 }
 
-#top2{
+#top2 A{
 top:400px;
 right: 60px;
 z-index: 7;
 position: absolute;
 background :url(./images/ja/topics2/pagelink.png) top;
 }
-#top2:HOVER { 
+#top2 A:HOVER { 
 background :url(./images/ja/topics2/pagelink.png)  bottom;
 }
 #top3{
