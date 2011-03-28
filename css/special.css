@@ -269,7 +269,7 @@ text-justify: inter-ideograph;
 font-size: 95%;
 width: 406px;
 }
-p.ia3{
+div.ia3{
 top: 451px;
 left: 48px;
 position: absolute;
@@ -280,7 +280,7 @@ font-size: 95%;
 width: 203px;
 }
 
-p.ia4{
+div.ia4{
 top: 450px;
 left: 263px;
 position: absolute;
@@ -291,7 +291,7 @@ font-size: 95%;
 width: 203px;
 }
 
-p.ia5{
+div.ia5{
 top: 0px;
 left: 480px;
 position: absolute;
