@@ -27,10 +27,10 @@ top:400px;
 right: 60px;
 z-index: 7;
 position: absolute;
-background :url(./images/ja/topics2/pagerink.png) top;
+background :url(./images/ja/topics2/pagelink.png) top;
 }
 #top2:HOVER { 
-background :url(./images/ja/topics2/pagerink.png)  bottom;
+background :url(./images/ja/topics2/pagelink.png)  bottom;
 }
 #top3{
 top: 520px;
