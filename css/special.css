@@ -17,7 +17,7 @@ overflow: visible;
 
 #top1{
 top: 25px;
-left: 190px;
+left: 202px;
 z-index: 6;
 position: absolute;
 }
@@ -34,13 +34,13 @@ top: 517px;
 left:218px; 
 z-index: 0;
 position: absolute;
-width: 720px;
+width: 745px;
 height: 420px;
 }
 
 div#bg{
 	overflow: visible;
-top: 390px;
+top: 408px;
 right:-39px;
 position: relative;
 }
@@ -80,13 +80,13 @@ position: relative;
 
 div#kn{
  overflow: visible;
-top: 350px;
+top: 376px;
 left: 0px;
 position: relative;
 }
 
 #kn1{
-        top: 124px;
+        top: 125px;
         left: 21px;
         position: absolute;
         z-index: 8;
@@ -102,15 +102,15 @@ width: 144px;
 }
 
 #kn2{
- top: 180px;
-        left: 242px;
+ top: 189px;
+        left: 258px;
         position: absolute;
 	z-index: 1;
 }
 
 #kn3{
-    top: 97px;
-        left: 300px;
+    top: 116px;
+        left: 319px;
         position: absolute;
 	z-index: 3;
 }
@@ -152,12 +152,12 @@ text-align: left;
     top: 341px;
     z-index: 1;
 color: #ffcc33;
-width: 99px;
+width: 84px;
 }
 
 p.p3 {
 text-align: right;
-    left: 65px;
+    left: 50px;
     position: absolute;
     top: 457px;
     z-index: 1;
@@ -207,7 +207,7 @@ z-index: 1;
 
 div#int{
 overflow: visible;
-top: 1256px;
+top: 1311px;
 left: 46px;
 position: relative;
 padding: 550px 0px;
@@ -230,7 +230,7 @@ position: absolute;
 
 #int3 {
     left: -60px;
-    top: 885px;
+    top: 923px;
     position: absolute;
     z-index: 1;
 }
@@ -246,7 +246,7 @@ position: absolute;
 
 div#ia{
 left: 25px;
-top: 174px;
+top: 218px;
 position: relative;
 z-index: 0;
 }
@@ -341,7 +341,7 @@ width: 203px;
 
 p.ik3{
 top: 0px;
-left: 507px;
+left: 491px;
 position: absolute;
 z-index: 1;
 text-align: justify;
