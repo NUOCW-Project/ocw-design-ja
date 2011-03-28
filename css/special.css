@@ -27,15 +27,18 @@ top:400px;
 right: 60px;
 z-index: 7;
 position: absolute;
+background :url(./images/ja/topics2/pagerink.png) top;
 }
-
+#top2:HOVER { 
+background :url(./images/ja/topics2/pagerink.png)  bottom;
+}
 #top3{
-top: 620px;
+top: 520px;
 left:218px; 
 z-index: 0;
 position: absolute;
 width: 745px;
-height: 420px;
+height: 620px;
 }
 
 div#bg{
@@ -152,7 +155,8 @@ text-align: left;
     top: 341px;
     z-index: 1;
 color: #ffcc33;
-width: 84px;
+width: 83px;
+font-size: 90%;
 }
 
 p.p3 {
