@@ -1,4 +1,4 @@
-<span id="blue">
+<div id="blue">
 <img src="./images/ja/topics2/img/blueline.png" id="line" width="8px" height="2300px">
 </span>
 <div id="top0">
