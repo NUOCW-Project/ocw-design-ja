@@ -1,12 +1,13 @@
-span#blue{
+div#blue{
 overflow: visible;
+top: 50px;
+left: 50px;
+position: absolute;
 }
 
 #line{
-top: 50px
-left: 218px;
-position: absolute;
 z-index: 1;
+
 }
 
 #contents{
