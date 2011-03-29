@@ -9,7 +9,6 @@
 </div>
 
 
-<img src="./images/ja/topics2/img/blueline.png" id="line">
 
 <div id="bg">
 <img src="./images/ja/topics2/img/pic01_kougi.png" id="bg1">
@@ -17,6 +16,7 @@
 <img src="./images/ja/topics2/img/pic03_kougi.png" id="bg3">
 <img src="./images/ja/topics2/img/pic04_kougi.png" id="bg4">
 <img src="./images/ja/topics2/img/pic05_kougi.png" id="bg5">
+<img src="./images/ja/topics2/img/blueline.png" id="line">
 </div>
 
 <div id="kn">
