@@ -8,6 +8,10 @@
 <img src="./images/ja/topics2/img/bg.png" id="top3">
 </div>
 
+<span id="line">
+<img src="./images/ja/topics2/img/blueline.png">
+</span>
+
 <div id="bg">
 <img src="./images/ja/topics2/img/pic01_kougi.png" id="bg1">
 <img src="./images/ja/topics2/img/pic02_kougi.png" id="bg2">
