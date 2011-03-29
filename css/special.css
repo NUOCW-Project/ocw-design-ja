@@ -4,10 +4,11 @@ top: 50px
 left: 218px;
 position: absolute;
 z-index: 0;
+overflow: visible
 }
 
 #contents{
-height: 2500px;
+height: 2400px;
 z-index: 0;
 
 } 
@@ -206,14 +207,14 @@ width: 179px;
 
 #kn11{
 top: 670px;
-left: -11px;
+left: 21px;
 position: absolute;
 z-index: 1;
 }
 
 div#int{
 overflow: visible;
-top: 1311px;
+top: 1274px;
 left: 46px;
 position: relative;
 padding: 550px 0px;
