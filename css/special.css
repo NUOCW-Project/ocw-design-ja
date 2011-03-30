@@ -29,12 +29,11 @@ position: absolute;
 }
 
 a#top2 {
-top:400px;
-right: 60px;
+top:404px;
+left: 702px;
 z-index: 8;
 position: absolute;
-display: block;
-text-indent: -1000px; 
+display: block; 
 background-image: url("../images/ja/topics2/pagelink.png");
 }
 
@@ -57,7 +56,7 @@ visibility: hidden;
 
 
 #top3{
-top: 520px;
+top: 515px;
 left:218px; 
 z-index: 0;
 position: absolute;
@@ -113,15 +112,15 @@ position: relative;
 }
 
 #kn1{
-        top: 125px;
-        left: 21px;
+        top: 121px;
+        left: 22px;
         position: absolute;
         z-index: 8;
 }
 p.p1{
 text-align: right;
-top: 180px;
-left: 97px;
+top: 172px;
+left: 93px;
 position: absolute;
 z-index: 1;
 width: 144px;
@@ -129,35 +128,35 @@ width: 144px;
 }
 
 #kn2{
- top: 189px;
-        left: 258px;
+ top: 185px;
+        left: 250px;
         position: absolute;
 	z-index: 1;
 }
 
 #kn3{
-    top: 116px;
-        left: 319px;
+    top: 105px;
+        left: 309px;
         position: absolute;
 	z-index: 3;
 }
 
 #kn4{
-        top: 260px;
+        top: 270px;
         left: 55px;
         position: absolute;
 	z-index: 9;
 }
 
 #kn5{
-        top: 338px;
+        top: 347px;
         left: 82px;
         position: absolute;
 	z-index: 1;
 }
 
 #kn6{
-        top: 287px;
+        top: 307px;
         left: 212px;
         position: absolute;
 	z-index: 2;
@@ -165,21 +164,21 @@ width: 144px;
 
 p.p2 {
 text-align: left; 
-    left: 286px;
+    left: 272px;
     position: absolute;
-    top: 298px;
+    top: 300px;
     z-index: 1;
 width: 174px;
 }
 
 p.pi {
 text-align: left;
-    left: 301px;
+    left: 289px;
     position: absolute;
     top: 341px;
     z-index: 1;
 color: #ffcc33;
-width: 83px;
+width: 85px;
 font-size: 90%;
 }
 
@@ -187,35 +186,36 @@ p.p3 {
 text-align: right;
     left: 50px;
     position: absolute;
-    top: 457px;
+    top: 470px;
     z-index: 1;
 width: 193px;
 }
 
 #kn7{
-        top: 444px;
+        top: 464px;
         left: 250px;
         position: absolute;
 	z-index: 1;
 }
 #kn8{
-        top: 379px;
-        left: 338px;
+        top: 337px;
+        left: 395px;
         position: absolute;
 	z-index: 3;
 }
 
 p.p4 {
 text-align: left;
-    left: 261px;
+    left: 251px;
     position: absolute;
-    top: 569px;
+    top: 600px;
     z-index: 1;
 width: 179px;
 }
+
 #kn9{
-        top: 553px;
-        left: 85px;
+        top: 575px;
+        left: 82px;
         position: absolute;
 	z-index: 1;
 }
