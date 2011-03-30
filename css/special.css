@@ -33,6 +33,8 @@ top:400px;
 right: 60px;
 z-index: 8;
 position: absolute;
+display: block;
+text-indent: -1000px; 
 background-image: url(../images/ja/topics2/pagelink.png);
 }
 
