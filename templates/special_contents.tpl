@@ -6,6 +6,7 @@
 
 
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index" id="top2" width="50px" height="10px">
+<img src="./images/ja/topics2/pagelink_on.png">
 </a>
 
 <img src="./images/ja/topics2/img/bg.png" id="top3">
