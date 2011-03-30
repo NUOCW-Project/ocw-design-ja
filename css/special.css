@@ -329,7 +329,7 @@ p.ik1 {
     position: absolute;
     text-align: justify;
     top: 0px;
-    width: 201px;
+    width: 205px;
     z-index: 1;
 }
 p.ik2 {
@@ -338,15 +338,15 @@ p.ik2 {
     position: absolute;
     text-align: justify;
     top: 0;
-    width: 203px;
+    width: 205px;
     z-index: 1;
 }
 p.ik3 {
     font-size: 95%;
-    left: 489px;
+    left: 490px;
     position: absolute;
     text-align: justify;
     top: 0;
-    width: 203px;
+    width: 205px;
     z-index: 1;
 }
