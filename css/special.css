@@ -47,7 +47,7 @@ top: 400px;
 right: 60px;
 z-index: 7;
 position: absolute;
-visible: hidden;
+visiblity: hidden;
 }
 
 #top4:HOVER{
