@@ -35,6 +35,9 @@ z-index: 8;
 position: absolute;
 display: block; 
 background-image: url("../images/ja/topics2/pagelink.png");
+width: 120px; 
+height: 100px; 
+text-indent: -1000px;
 }
 
 a#top2:HOVER {
@@ -42,13 +45,6 @@ background-image: url("../images/ja/topics2/pagelink_on.png");
 
 }
 
-#top2d { 
-top: 400px;
-right: 60px;
-z-index: 7;
-position: absolute;
-visiblity: hidden;
-}
 
 #top4:HOVER{
 z-index: 0;
