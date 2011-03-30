@@ -42,11 +42,12 @@ background-image: url("../images/ja/topics2/pagelink_on.png");
 
 }
 
-#top4 { 
+#top2d { 
 top: 400px;
 right: 60px;
 z-index: 7;
 position: absolute;
+visible: hidden;
 }
 
 #top4:HOVER{
