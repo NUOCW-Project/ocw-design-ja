@@ -33,12 +33,20 @@ top:400px;
 right: 60px;
 z-index: 7;
 position: absolute;
-background: url(../images/ja/topics2/pagelink.png) top;
+
 }
 
-#top2:HOVER { 
-background: url(../images/ja/topics2/pagelink.png)  bottom;
+#top4 { 
+top: 400px;
+right: 60px;
+z-index: 8;
+position: absolute;
 }
+
+#top4:HOVER{
+display: none;
+}
+
 
 #top3{
 top: 520px;
