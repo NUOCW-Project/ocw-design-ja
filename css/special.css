@@ -33,11 +33,12 @@ top:400px;
 right: 60px;
 z-index: 8;
 position: absolute;
-visibility: hidden;
+background-image: url("../images/ja/topics2/pagelink.png");
 }
 
 #top2:HOVER {
-visibility: visible;
+background-image: url("../images/ja/topics2/pagelink_on.png");
+
 }
 
 #top4 { 
