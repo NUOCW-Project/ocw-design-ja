@@ -3,12 +3,15 @@
 </div>
 <div id="top0">
 <img src="./images/ja/topics2/topics2_lead.png" id="top1" width="720" height="500"　alt="ゲームに勝つためには，プレイヤー間の駆け引きに想像を膨らませて，戦略を練るということが必要となります。この授業では普段触れることのない海外のボードゲームを取り上げ，実際にプレイし，勝つための戦略を考え，皆で議論します。今回は、ocw学生サポーターが授業を体験してきました。授業概要：有田隆也教授「基礎セミナー - ボードゲームを究める」●開講部局：教養教育院●授業時間：2010年度後期木曜４限●対象者：文学部、情報文化学部（自然）、理学部、農学部、工学部、（II,III,IV系）●2単位、週１回全15回">
-<div id="top2">
+
+
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index">
-<img src="./images/ja/topics2/pagelink_on.png" alt="有田先生のページへ">
-</a>
+<div id="top2">
 </div>
+</a>
+
 <img src="./images/ja/topics2/img/bg.png" id="top3">
+<img src="./images/ja/topics2/img/" id="top4">
 </div>
 
 
@@ -25,7 +28,7 @@
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10" alt="-講義の流れ-">
 <img src="./images/ja/topics2/student/student01.png" id="kn1">
 <p class="p1">
-1,事前に担当を決められた学生がゲームのルールを解説。
+<b>1,</b>事前に担当を決められた学生がゲームのルールを解説。
 </p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2">
 <img src="./images/ja/topics2/img/fukidasi01.png" id="kn3" alt="皆、食い入るようにスライドを見つめる。戦いはプレイする前から始まっている。">
