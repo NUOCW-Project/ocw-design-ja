@@ -31,6 +31,8 @@ position: absolute;
 #top2 {
 top:400px;
 right: 60px;
+width: 50px;
+height: 10px;
 z-index: 7;
 position: absolute;
 background: url(./images/ja/topics2/pagelink.png) top;
