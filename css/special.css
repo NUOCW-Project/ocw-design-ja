@@ -294,25 +294,25 @@ div.ia3 {
     position: absolute;
     text-align: justify;
     top: 452px;
-    width: 202px;
+    width: 205px;
     z-index: 1;
 }
 div.ia4 {
     font-size: 95%;
-    left: 265px;
+    left: 263px;
     position: absolute;
     text-align: justify;
     top: 450px;
-    width: 201px;
+    width: 205px;
     z-index: 1;
 }
 div.ia5 {
     font-size: 95%;
-    left: 490px;
+    left: 488px;
     position: absolute;
     text-align: justify;
     top: 8px;
-    width: 202px;
+    width: 205px;
     z-index: 1;
 }
 div#ik {
@@ -343,7 +343,7 @@ p.ik2 {
 }
 p.ik3 {
     font-size: 95%;
-    left: 490px;
+    left: 489px;
     position: absolute;
     text-align: justify;
     top: 0;
