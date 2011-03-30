@@ -198,8 +198,8 @@ width: 193px;
 	z-index: 1;
 }
 #kn8{
-        top: 337px;
-        left: 395px;
+        top: 400px;
+        left: 325px;
         position: absolute;
 	z-index: 3;
 }
@@ -233,147 +233,120 @@ position: absolute;
 z-index: 1;
 }
 
-div#int{
-overflow: visible;
-top: 1274px;
-left: 46px;
-position: relative;
-padding: 550px 0px;
-background-color: #eeeeee; 
+div#int {
+    background-color: #EEEEEE;
+    left: 46px;
+    overflow: visible;
+    padding: 550px 0;
+    position: relative;
+    top: 1274px;
 }
-
-#int1{
-top: -17px;
-left:-68px;
-z-index:2;
-position: absolute;
-}
-
-#int2 {
-    left: 47px;
-    top: 323px;
-    z-index: 1;
+#int1 {
+    left: -68px;
     position: absolute;
-}
-
-#int3 {
-    left: -60px;
-    top: 831px;
-    position: absolute;
+    top: -17px;
     z-index: 2;
 }
-
-
-
-#int4 {
-    left: 467px;
-    top: 924px;
+#int2 {
+    left: 21px;
     position: absolute;
+    top: 319px;
     z-index: 1;
 }
-
-div#ia{
-left: 25px;
-top: 196px;
-position: relative;
-z-index: 0;
+#int3 {
+    left: -60px;
+    position: absolute;
+    top: 831px;
+    z-index: 2;
 }
-
-
-p.ia1{
-top: 270px;
-left: 315px;
-position: absolute;
-z-index: 1;
-text-align: justify;
-text-justify: inter-ideograph;
-font-size: 95%;
+#int4 {
+    left: 467px;
+    position: absolute;
+    top: 924px;
+    z-index: 1;
 }
-
-p.ia2{
-top: 350px;
-left: 48px;
-position: absolute;
-z-index: 1;
-text-align: justify;
-text-justify: inter-ideograph;
-font-size: 95%;
-width: 406px;
+div#ia {
+    left: 25px;
+    position: relative;
+    top: 180px;
+    z-index: 0;
 }
-div.ia3{
-top: 451px;
-left: 48px;
-position: absolute;
-z-index: 1;
-text-align: justify;
-text-justify: inter-ideograph;
-font-size: 95%;
-width: 203px;
+p.ia1 {
+    font-size: 95%;
+    left: 315px;
+    position: absolute;
+    text-align: justify;
+    top: 270px;
+    z-index: 1;
 }
-
-div.ia4{
-top: 450px;
-left: 263px;
-position: absolute;
-z-index: 1;
-text-align: justify;
-text-justify: inter-ideograph;
-font-size: 95%;
-width: 203px;
+p.ia2 {
+    font-size: 95%;
+    left: 38px;
+    position: absolute;
+    text-align: justify;
+    top: 350px;
+    width: 406px;
+    z-index: 1;
 }
-
-div.ia5{
-top: 0px;
-left: 480px;
-position: absolute;
-z-index: 1;
-text-align: justify;
-text-justify: inter-ideograph;
-font-size: 95%;
-width: 203px;
+div.ia3 {
+    font-size: 95%;
+    left: 38px;
+    position: absolute;
+    text-align: justify;
+    top: 452px;
+    width: 202px;
+    z-index: 1;
 }
-
-
-
-div#ik{
-left: 21px;
-top: 1005px;
-position: relative;
-z-index: 0;
-padding:137px 0px;
-background-color: #FFBB55; 
+div.ia4 {
+    font-size: 95%;
+    left: 265px;
+    position: absolute;
+    text-align: justify;
+    top: 450px;
+    width: 201px;
+    z-index: 1;
 }
-
-p.ik1{
-top: 0px;
-left: 44px;
-position: absolute;
-z-index: 1;
-text-align: justify;
-text-justify: inter-ideograph;
-font-size: 95%;
-width: 203px;
+div.ia5 {
+    font-size: 95%;
+    left: 490px;
+    position: absolute;
+    text-align: justify;
+    top: 8px;
+    width: 202px;
+    z-index: 1;
 }
-
-
-p.ik2{
-top: 0px;
-left: 264px;
-position: absolute;
-z-index: 1;
-text-align: justify;
-text-justify: inter-ideograph;
-font-size: 95%;
-width: 203px; 
+div#ik {
+    background-color: #FFBB55;
+    left: 21px;
+    padding: 137px 0;
+    position: relative;
+    top: 1005px;
+    z-index: 0;
 }
-
-p.ik3{
-top: 0px;
-left: 491px;
-position: absolute;
-z-index: 1;
-text-align: justify;
-text-justify: inter-ideograph;
-font-size: 95%;
-width: 203px;
+p.ik1 {
+    font-size: 95%;
+    left: 42px;
+    position: absolute;
+    text-align: justify;
+    top: 0px;
+    width: 201px;
+    z-index: 1;
+}
+p.ik2 {
+    font-size: 95%;
+    left: 265px;
+    position: absolute;
+    text-align: justify;
+    top: 0;
+    width: 203px;
+    z-index: 1;
+}
+p.ik3 {
+    font-size: 95%;
+    left: 490px;
+    position: absolute;
+    text-align: justify;
+    top: 0;
+    width: 203px;
+    z-index: 1;
 }
