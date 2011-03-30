@@ -35,11 +35,11 @@ z-index: 8;
 position: absolute;
 display: block;
 text-indent: -1000px; 
-background-image: url(../images/ja/topics2/pagelink.png);
+background-image: url("../images/ja/topics2/pagelink.png");
 }
 
 a#top2:HOVER {
-background-image: url(../images/ja/topics2/pagelink_on.png);
+background-image: url("../images/ja/topics2/pagelink_on.png");
 
 }
 
