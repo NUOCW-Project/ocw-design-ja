@@ -31,20 +31,24 @@ position: absolute;
 #top2 {
 top:400px;
 right: 60px;
-z-index: 7;
+z-index: 8;
 position: absolute;
-
+visibility: hidden;
 }
 
+#top2:HOVER {
+visibility: visible;
+}
 
 #top4 { 
 top: 400px;
 right: 60px;
-z-index: 8;
+z-index: 7;
 position: absolute;
 }
 
 #top4:HOVER{
+z-index: 0;
 visibility: hidden;
 }
 
