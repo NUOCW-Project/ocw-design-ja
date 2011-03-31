@@ -1,6 +1,3 @@
-<div id="blue">
-<img src="./images/ja/topics2/img/blueline.png" id="line" width="8px" height="2300px" alt="blueline">
-</div>
 <div id="top0">
 <img src="./images/ja/topics2/topics2_lead.png" id="top1" width="720" height="500" alt="ゲームに勝つためには，プレイヤー間の駆け引きに想像を膨らませて，戦略を練るということが必要となります。この授業では普段触れることのない海外のボードゲームを取り上げ，実際にプレイし，勝つための戦略を考え，皆で議論します。今回は、ocw学生サポーターが授業を体験してきました。授業概要：有田隆也教授「基礎セミナー - ボードゲームを究める」●開講部局：教養教育院●授業時間：2010年度後期木曜４限●対象者：文学部、情報文化学部（自然）、理学部、農学部、工学部、（II,III,IV系）●2単位、週１回全15回">
 
@@ -9,8 +6,8 @@
 有田先生のページへ
 </a>
 
-<div id="yamamoto">
 
+<div id="yamamoto">
 <div id="bg">
 <img src="./images/ja/topics2/img/pic01_kougi.png" id="bg1" alt="風景1">
 <img src="./images/ja/topics2/img/pic02_kougi.png" id="bg2" alt="風景2">
@@ -18,7 +15,6 @@
 <img src="./images/ja/topics2/img/pic04_kougi.png" id="bg4" alt="風景4">
 <img src="./images/ja/topics2/img/pic05_kougi.png" id="bg5" alt="風景5">
 </div>
-
 <div id="kn">
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10" alt="-講義の流れ-">
 <img src="./images/ja/topics2/student/student01.png" id="kn1" alt="学生1">
@@ -47,6 +43,7 @@ OCWサポーター市之瀬
 <img src="./images/ja/topics2/t2_kansou_y.png" id="kn11" alt="授業を見学してみて：最初は皆、「とりあえずプレイ」しているように見えた。しかし、ゲームのコツがわかると、段々とその目つきが変わり、様々な駆け引きが始まる。会話を交えつつプレイしていた学生たちの口数が徐々に減っていき、授業の雰囲気はガラリと変わった。全員、ボードゲームに集中する様には、他の講義と違った緊張感がある。想像していたより人数が少なかったものの、そのおかげで集中できる環境が作られていた。「学部一年に戻ってこの授業を受けたい！」と思ってしまう授業であった。OCW 学生サポーター 理学部二年 山本">
 </div>
 </div>
+
 
 <div id="int">
 <img src="./images/ja/topics2/img_i/pic06_enquete_hata.png" id="int1" alt="-インタビュー-">
