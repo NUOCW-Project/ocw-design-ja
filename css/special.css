@@ -39,7 +39,7 @@ background-image: url("../images/ja/topics2/pagelink_on.png");
 
 div#yamamoto{
 top:379px;
-left:30px;
+left:15px;
 background-image: url("../images/ja/topics2/img/bg.png");
 position: relative;
 width: 650px;
@@ -217,7 +217,7 @@ z-index: 1;
 
 div#int {
     background-color: #EEEEEE;
-    left: 25px;
+    left: 14px;
     overflow: visible;
     padding: 494px 0;
     position: relative;
@@ -294,7 +294,7 @@ div.ia5 {
 }
 div#ik {
     background-color: #FFBB55;
-    left: 25px;
+    left: 14px;
     padding: 138px 0;
     position: relative;
     top: 439px;
