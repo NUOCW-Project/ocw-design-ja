@@ -2,20 +2,18 @@
 #contents{
 height: 2500px;
 z-index: 0;
-border-left: medium solid #ff00ff;
-
 } 
 
 
 div#top0{
     overflow: visible;
-    border-left: medium solid #ff00ff;;
-    height: 1000px;
+    border-left: 8px solid #66aadd;
+    height: 2400px;
 }
 
 #top1{
 top: 25px;
-left: 202px;
+left: 191px;
 z-index: 6;
 position: absolute;
 }
