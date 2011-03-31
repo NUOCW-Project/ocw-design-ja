@@ -51,12 +51,7 @@ OCWサポーター市之瀬
 <div id="int">
 <img src="./images/ja/topics2/img_i/pic06_enquete_hata.png" id="int1" alt="-インタビュー-">
 <img src="./images/ja/topics2/img_i/title01_kangaeru.png" id="int2" alt="「考える喜びを伝えたい」">
-<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" id="int3" alt="授業体験とインタビューを終えて：ocwサポーター 文学部３年 市之瀬由佳">
-<img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" id="int4" alt="対談">
-</div>
 
-
-<div id="ia">
 <p class="ia1">
 授業を終えてのアンケート
 </p>
@@ -120,6 +115,9 @@ OCWサポーター市之瀬
 </div>
 
 <div id="ik">
+<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" id="int3" alt="授業体験とインタビューを終えて：ocwサポーター 文学部３年 市之瀬由佳">
+<img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" id="int4" alt="対談">
+
 <p class="ik1">
 <b>●授業に参加して●</b>
 <br>
