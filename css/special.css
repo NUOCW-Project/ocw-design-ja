@@ -8,7 +8,9 @@ border-left: medium solid #ff00ff;
 
 
 div#top0{
-overflow: visible;
+    overflow: visible;
+    border-left: medium solid #ff00ff;;
+    height: 1000px;
 }
 
 #top1{
