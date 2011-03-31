@@ -10,19 +10,19 @@ div#t{
     border-left: 8px solid #66aadd;
     height: 2400px;
     position: relative;
-    left: -5px;
+    left: 6px;
 }
 
 #top1{
 top: -23px;
-left: -19px;
+left: -29px;
 z-index: 6;
 position: absolute;
 }
 
 a#top2 {
 top:357px;
-left: 478px;
+left: 473px;
 z-index: 8;
 position: absolute;
 display: block; 
