@@ -9,9 +9,7 @@
 有田先生のページへ
 </a>
 
-<img src="./images/ja/topics2/img/bg.png" id="top3" alt="背景">
-
-</div>
+<div id="yamamoto">
 
 <div id="bg">
 <img src="./images/ja/topics2/img/pic01_kougi.png" id="bg1" alt="風景1">
@@ -48,6 +46,7 @@ OCWサポーター市之瀬
 </p>
 <img src="./images/ja/topics2/t2_kansou_y.png" id="kn11" alt="授業を見学してみて：最初は皆、「とりあえずプレイ」しているように見えた。しかし、ゲームのコツがわかると、段々とその目つきが変わり、様々な駆け引きが始まる。会話を交えつつプレイしていた学生たちの口数が徐々に減っていき、授業の雰囲気はガラリと変わった。全員、ボードゲームに集中する様には、他の講義と違った緊張感がある。想像していたより人数が少なかったものの、そのおかげで集中できる環境が作られていた。「学部一年に戻ってこの授業を受けたい！」と思ってしまう授業であった。OCW 学生サポーター 理学部二年 山本">
 </div>
+</div>
 
 <div id="int">
 <img src="./images/ja/topics2/img_i/pic06_enquete_hata.png" id="int1" alt="-インタビュー-">
@@ -55,6 +54,7 @@ OCWサポーター市之瀬
 <img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" id="int3" alt="授業体験とインタビューを終えて：ocwサポーター 文学部３年 市之瀬由佳">
 <img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" id="int4" alt="対談">
 </div>
+
 
 <div id="ia">
 <p class="ia1">
