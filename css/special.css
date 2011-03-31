@@ -45,18 +45,11 @@ background-image: url("../images/ja/topics2/pagelink_on.png");
 
 }
 
-
-#top4:HOVER{
-z-index: 0;
-visibility: hidden;
-}
-
-
-#top3{
-top: 515px;
-left:218px; 
-z-index: 0;
-position: absolute;
+div#yamamoto{
+top:400px;
+left:100px;
+background-image: url("../images/ja/topics2/img/bg.png");
+position: relative;
 width: 745px;
 height: 620px;
 }
