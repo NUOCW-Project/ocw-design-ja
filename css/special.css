@@ -9,18 +9,20 @@ div#top0{
     overflow: visible;
     border-left: 8px solid #66aadd;
     height: 2400px;
+    position: relative;
+    left: -5px;
 }
 
 #top1{
-top: 25px;
-left: 191px;
+top: -23px;
+left: -31px;
 z-index: 6;
 position: absolute;
 }
 
 a#top2 {
-top:404px;
-left: 702px;
+top:347px;
+left: 478px;
 z-index: 8;
 position: absolute;
 display: block; 
@@ -47,7 +49,7 @@ height: 700px;
 div#bg{
 	overflow: visible;
 top: 31px;
-right:-59px;
+right:-54px;
 position: relative;
 }
 
@@ -87,7 +89,7 @@ position: relative;
 div#kn{
  overflow: visible;
 top: 0px;
-left: -30px;
+left: -40px;
 position: relative;
 }
 
@@ -208,7 +210,7 @@ width: 179px;
 
 #kn11{
 top: 670px;
-left: 21px;
+left: 16px;
 position: absolute;
 z-index: 1;
 }
