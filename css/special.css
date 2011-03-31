@@ -225,9 +225,9 @@ z-index: 1;
 
 div#int {
     background-color: #EEEEEE;
-    left: 46px;
+    left: 25px;
     overflow: visible;
-    padding: 550px 0;
+    padding: 494px 0;
     position: relative;
     top: 600px;
 }
@@ -238,40 +238,35 @@ div#int {
     z-index: 2;
 }
 #int2 {
-    left: 21px;
+    left: 19px;
     position: absolute;
     top: 319px;
     z-index: 1;
 }
 #int3 {
-    left: -60px;
+    left: -33px;
     position: absolute;
-    top: 831px;
+    top: 0px;
     z-index: 2;
 }
 #int4 {
-    left: 467px;
+    left: 489px;
     position: absolute;
-    top: 924px;
+    top: 101px;
     z-index: 1;
 }
-div#ia {
-    left: 25px;
-    position: relative;
-    top: 180px;
-    z-index: 0;
-}
+
 p.ia1 {
     font-size: 95%;
-    left: 315px;
+    left: 310px;
     position: absolute;
     text-align: justify;
-    top: 270px;
+    top: 275px;
     z-index: 1;
 }
 p.ia2 {
     font-size: 95%;
-    left: 38px;
+    left: 18px;
     position: absolute;
     text-align: justify;
     top: 350px;
@@ -280,7 +275,7 @@ p.ia2 {
 }
 div.ia3 {
     font-size: 95%;
-    left: 38px;
+    left: 17px;
     position: absolute;
     text-align: justify;
     top: 452px;
@@ -289,7 +284,7 @@ div.ia3 {
 }
 div.ia4 {
     font-size: 95%;
-    left: 263px;
+    left: 247px;
     position: absolute;
     text-align: justify;
     top: 450px;
@@ -298,7 +293,7 @@ div.ia4 {
 }
 div.ia5 {
     font-size: 95%;
-    left: 488px;
+    left: 477px;
     position: absolute;
     text-align: justify;
     top: 8px;
@@ -310,7 +305,7 @@ div#ik {
     left: 21px;
     padding: 137px 0;
     position: relative;
-    top: 1005px;
+    top: 439px;
     z-index: 0;
 }
 p.ik1 {
