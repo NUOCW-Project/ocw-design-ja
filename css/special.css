@@ -15,13 +15,13 @@ div#t{
 
 #top1{
 top: -23px;
-left: 0px;
+left: -19px;
 z-index: 6;
 position: absolute;
 }
 
 a#top2 {
-top:347px;
+top:357px;
 left: 478px;
 z-index: 8;
 position: absolute;
