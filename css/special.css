@@ -1,18 +1,8 @@
-div#blue{
-overflow: visible;
-top: 111px;
-left: 222px;
-position: absolute;
-}
-
-#line{
-z-index: 1;
-position: absolute;
-}
 
 #contents{
 height: 2500px;
 z-index: 0;
+border-left: medium solid #ff00ff;
 
 } 
 
