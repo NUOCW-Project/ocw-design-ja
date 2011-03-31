@@ -5,7 +5,7 @@ z-index: 0;
 } 
 
 
-div#top0{
+div#t{
     overflow: visible;
     border-left: 8px solid #66aadd;
     height: 2400px;
@@ -15,7 +15,7 @@ div#top0{
 
 #top1{
 top: -23px;
-left: -31px;
+left: 0px;
 z-index: 6;
 position: absolute;
 }
