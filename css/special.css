@@ -46,18 +46,18 @@ background-image: url("../images/ja/topics2/pagelink_on.png");
 }
 
 div#yamamoto{
-top:400px;
-left:100px;
+top:379px;
+left:30px;
 background-image: url("../images/ja/topics2/img/bg.png");
 position: relative;
-width: 745px;
-height: 620px;
+width: 650px;
+height: 700px;
 }
 
 div#bg{
 	overflow: visible;
-top: 408px;
-right:-39px;
+top: 31px;
+right:-59px;
 position: relative;
 }
 
@@ -96,8 +96,8 @@ position: relative;
 
 div#kn{
  overflow: visible;
-top: 376px;
-left: 0px;
+top: 0px;
+left: -30px;
 position: relative;
 }
 
@@ -229,7 +229,7 @@ div#int {
     overflow: visible;
     padding: 550px 0;
     position: relative;
-    top: 1274px;
+    top: 600px;
 }
 #int1 {
     left: -68px;
