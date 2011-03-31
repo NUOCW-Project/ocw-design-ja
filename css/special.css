@@ -244,15 +244,15 @@ div#int {
     z-index: 1;
 }
 #int3 {
-    left: -33px;
+    left: -60px;
     position: absolute;
     top: 0px;
     z-index: 2;
 }
 #int4 {
-    left: 489px;
+    left: 479px;
     position: absolute;
-    top: 101px;
+    top: 103px;
     z-index: 1;
 }
 
@@ -302,15 +302,15 @@ div.ia5 {
 }
 div#ik {
     background-color: #FFBB55;
-    left: 21px;
-    padding: 137px 0;
+    left: 25px;
+    padding: 138px 0;
     position: relative;
     top: 439px;
     z-index: 0;
 }
 p.ik1 {
     font-size: 95%;
-    left: 42px;
+    left: 18px;
     position: absolute;
     text-align: justify;
     top: 0px;
@@ -319,19 +319,19 @@ p.ik1 {
 }
 p.ik2 {
     font-size: 95%;
-    left: 265px;
+    left: 247px;
     position: absolute;
     text-align: justify;
-    top: 0;
+    top: 0px;
     width: 205px;
     z-index: 1;
 }
 p.ik3 {
     font-size: 95%;
-    left: 490px;
+    left: 477px;
     position: absolute;
     text-align: justify;
-    top: 0;
+    top: 0px;
     width: 205px;
     z-index: 1;
 }
