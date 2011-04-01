@@ -46,6 +46,16 @@ width: 650px;
 height: 700px;
 }
 
+
+#clossline{
+top: 0px;
+left: 100px;
+z-index: 0;
+position: absolute;
+height: 500px;
+width:720px
+}
+
 div#bg{
 	overflow: visible;
 top: 31px;
