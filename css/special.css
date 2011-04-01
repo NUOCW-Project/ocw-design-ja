@@ -43,6 +43,7 @@ left:15px;
 position: relative;
 width: 650px;
 height: 700px;
+overflow: visible; 
 }
 
 
