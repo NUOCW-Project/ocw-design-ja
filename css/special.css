@@ -49,11 +49,11 @@ overflow: visible;
 
 img#clossline{
 top: 0px;
-left: 100px;
+left: -15px;
 z-index: 0;
 position: absolute;
-height: 500px;
-width:720px
+height: 706px;
+width: 720px
 }
 
 div#bg{
