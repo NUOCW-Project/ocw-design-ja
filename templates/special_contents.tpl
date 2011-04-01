@@ -8,7 +8,7 @@
 
 
 <div id="yamamoto">
-<img src-"./images/ja/topics2/img/bg.png" id="clossline" alt="ÇØ·Ê">
+<img src="./images/ja/topics2/img/bg.png" id="clossline" alt="ÇØ·Ê">
 <div id="bg">
 <img src="./images/ja/topics2/img/pic01_kougi.png" id="bg1" alt="É÷·Ê1">
 <img src="./images/ja/topics2/img/pic02_kougi.png" id="bg2" alt="É÷·Ê2">
