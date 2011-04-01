@@ -30,19 +30,23 @@
 <img src="./images/ja/topics2/img/nagare02.png" id="kn5" alt="流れ2">
 <img src="./images/ja/topics2/student/student02_ichinose.png" id="kn6" alt="学生2">
 <p class="p2">
-2. グループにわかれてプレイ、中盤にグループ交代。</p>
+<span style="background-color:#ffffff">2. グループにわかれてプレイ、中盤にグループ交代。</p>
+</span>
 <p class="pi">
-OCWサポーター市之瀬
+<span style="background-color:#ffffff">OCWサポーター市之瀬
+</span>
 </p>
 <p class="p3">
-3. 担当の学生はプレイに参加せず、サポートを行う。途中でグループを入れ替える。
+<span style="background-color:#ffffff">3. 担当の学生はプレイに参加せず、サポートを行う。途中でグループを入れ替える。
+</span>
 </p>
 <img src="./images/ja/topics2/img/nagare03.png" id="kn7" alt="流れ3">
 <img src="./images/ja/topics2/img/fukidasi03.png" id="kn8" alt="皆がスムーズにプレイできるようがんばっています。">
 <img src="./images/ja/topics2/img/nagare04.png"id="kn9" alt="流れ4">
 <p class="p4">
-4. 最後に先生がゲームの解説・まとめをする。
-</p></span>
+<span style="background-color:#ffffff">4. 最後に先生がゲームの解説・まとめをする。
+</span>
+</p>
 <img src="./images/ja/topics2/t2_kansou_y.png" id="kn11" alt="授業を見学してみて：最初は皆、「とりあえずプレイ」しているように見えた。しかし、ゲームのコツがわかると、段々とその目つきが変わり、様々な駆け引きが始まる。会話を交えつつプレイしていた学生たちの口数が徐々に減っていき、授業の雰囲気はガラリと変わった。全員、ボードゲームに集中する様には、他の講義と違った緊張感がある。想像していたより人数が少なかったものの、そのおかげで集中できる環境が作られていた。「学部一年に戻ってこの授業を受けたい！」と思ってしまう授業であった。OCW 学生サポーター 理学部二年 山本">
 </div>
 </div>
