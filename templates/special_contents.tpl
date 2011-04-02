@@ -20,7 +20,6 @@
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10" alt="-講義の流れ-">
 <img src="./images/ja/topics2/student/student01.png" id="kn1" alt="学生1">
 <p class="p1">
-<span style="background-color:#ffffff">
 <ol><li><span style="background-color:#ffffff">事前に担当を決められた学生がゲームのルールを解説。</span></li>
 </ol>
 </p>
