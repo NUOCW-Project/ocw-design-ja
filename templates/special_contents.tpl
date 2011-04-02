@@ -5,8 +5,6 @@
 <a href="./index.php?lang=ja&amp;mode=c&amp;id=25&amp;page_type=index" id="top2">
 有田先生のページへ
 </a>
-
-
 <div id="yamamoto">
 <img src="./images/ja/topics2/img/bg.png" id="clossline" alt="背景">
 <div id="bg">
@@ -22,8 +20,7 @@
 <p class="p1">
 <ol><li>
 事前に担当を決められた学生がゲームのルールを解説。</li>
-</ol>
-</p>
+</ol></p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2" alt="流れ1">
 <img src="./images/ja/topics2/img/fukidasi01.png" id="kn3" alt="皆、食い入るようにスライドを見つめる。戦いはプレイする前から始まっている。">
 <img src="./images/ja/topics2/img/fukidasi02.png" id="kn4" alt="賑やかになる教室ocw学生サポーターもゲームに参加。">
