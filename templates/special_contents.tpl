@@ -21,9 +21,8 @@
 <img src="./images/ja/topics2/student/student01.png" id="kn1" alt="学生1">
 <p class="p1">
 <span style="background-color:#ffffff">
-<ol><li>事前に担当を決められた学生がゲームのルールを解説。</li>
-</ol>
-</span>
+<ol><li><span style="background-color:#ffffff">事前に担当を決められた学生がゲームのルールを解説。</li>
+</span></ol>
 </p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2" alt="流れ1">
 <img src="./images/ja/topics2/img/fukidasi01.png" id="kn3" alt="皆、食い入るようにスライドを見つめる。戦いはプレイする前から始まっている。">
@@ -31,25 +30,23 @@
 <img src="./images/ja/topics2/img/nagare02.png" id="kn5" alt="流れ2">
 <img src="./images/ja/topics2/student/student02_ichinose.png" id="kn6" alt="学生2">
 <p class="p2">
-<span style="background-color:#ffffff">
-<ol start="2"><li>グループにわかれてプレイ、中盤にグループ交代。</li></ol>
+<ol start="2"><li><span style="background-color:#ffffff">
+グループにわかれてプレイ、中盤にグループ交代。</span></li></ol>
 </p>
-</span>
 <p class="pi">
 <span style="background-color:#ffffff">OCWサポーター市之瀬
 </span>
 </p>
 <p class="p3">
-<span style="background-color:#ffffff">
-<ol start="3"><li>担当の学生はプレイに参加せず、サポートを行う。途中でグループを入れ替える。</li></ol>
-</span>
+<ol start="3"><li><span style="background-color:#ffffff">
+担当の学生はプレイに参加せず、サポートや戦略の分析を行う。途中でグループを入れ替える。</span></li></ol>
 </p>
 <img src="./images/ja/topics2/img/nagare03.png" id="kn7" alt="流れ3">
 <img src="./images/ja/topics2/img/fukidasi03.png" id="kn8" alt="皆がスムーズにプレイできるようがんばっています。">
 <img src="./images/ja/topics2/img/nagare04.png"id="kn9" alt="流れ4">
 <p class="p4">
-<span style="background-color:#ffffff"><ol start="4"><li>最後に先生がゲームの解説・まとめをする。</li></ol>
-</span>
+<ol start="4"><li><span style="background-color:#ffffff"></span>
+最後に先生がゲームの解説・まとめをする。</li></ol>
 </p>
 <img src="./images/ja/topics2/t2_kansou_y.png" id="kn11" alt="授業を見学してみて：最初は皆、「とりあえずプレイ」しているように見えた。しかし、ゲームのコツがわかると、段々とその目つきが変わり、様々な駆け引きが始まる。会話を交えつつプレイしていた学生たちの口数が徐々に減っていき、授業の雰囲気はガラリと変わった。全員、ボードゲームに集中する様には、他の講義と違った緊張感がある。想像していたより人数が少なかったものの、そのおかげで集中できる環境が作られていた。「学部一年に戻ってこの授業を受けたい！」と思ってしまう授業であった。OCW 学生サポーター 理学部二年 山本">
 </div>
@@ -80,7 +77,7 @@
 <b>市：へぇぇ、凄いですね。</b> 
 </p>
 <p>
-有：この授業ではではドイツのゲームを使っているのですが、ドイツには日本では考えられない文化があります。例えばドイツでは、人の家に行く時のお土産がボードゲームだったりする。</p>
+有：この授業では様々なドイツのゲームを使っているのですが、ドイツには日本では考えられない文化があります。例えばドイツでは、人の家に行く時のお土産がボードゲームだったりする。</p>
 </div>
 
 <div class="ia4">
@@ -106,7 +103,7 @@
 <b>市：ボードゲームで遊ぶという「体験」によって学べることは何だとお考えですか？</b>
 </p>
 <p>
-有：私は専門において、コンピュータ上で何かのルールを決めて、何が起きるかという思考実験を行っています。例えば人と人がいた場合、ルールを決めてコンピュータ上で動かすと、何か呟いているうちに言語や文法が生まれます。言語というものはこういう風になろうという完成形が決まっているのではなく、やり取りしていくうちに生まれてくるものです。そして、私はゲームもこれと同じだと思うのです。 
+有：私は専門において、コンピュータ上で何かのルールを決めて何が起きるかという、新しい形の思考実験を行っています。例えば人と人がいた場合、ルールを決めてコンピュータ上で動かすと、何か呟いているうちに言語や文法が生まれます。言語というものはこういう風になろうという完成形が決まっているのではなく、やり取りしていくうちに生まれてくるものです。そして、私はゲームもこれと同じだと思うのです。 
 </p>
 <p>
 <b>市：それはどうしてですか？ </b>
