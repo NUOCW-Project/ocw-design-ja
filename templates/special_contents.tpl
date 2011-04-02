@@ -19,10 +19,10 @@
 <div id="kn">
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10" alt="-講義の流れ-">
 <img src="./images/ja/topics2/student/student01.png" id="kn1" alt="学生1">
+<span style="background-color:#ffffff">
 <p class="p1">
 <ol><li>
-<span style="background-color:#ffffff">事前に担当を決められた学生がゲームのルールを解説。</span>
-</li>
+事前に担当を決められた学生がゲームのルールを解説。</li>
 </ol>
 </p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2" alt="流れ1">
@@ -31,26 +31,24 @@
 <img src="./images/ja/topics2/img/nagare02.png" id="kn5" alt="流れ2">
 <img src="./images/ja/topics2/student/student02_ichinose.png" id="kn6" alt="学生2">
 <p class="p2">
-<div style="background-color:#ffffff">
 <ol start="2"><li>
 グループにわかれてプレイ、中盤にグループ交代。
-</li></ol></div>
+</li></ol>
 </p>
 <p class="pi">
-<span style="background-color:#ffffff">OCWサポーター市之瀬
-</span>
+OCWサポーター市之瀬
 </p>
 <p class="p3">
-<ol start="3"><li><span style="background-color:#ffffff">
-担当の学生はプレイに参加せず、サポートや戦略の分析を行う。途中でグループを入れ替える。</span></li></ol>
+<ol start="3"><li>担当の学生はプレイに参加せず、サポートや戦略の分析を行う。途中でグループを入れ替える。</li></ol>
 </p>
 <img src="./images/ja/topics2/img/nagare03.png" id="kn7" alt="流れ3">
 <img src="./images/ja/topics2/img/fukidasi03.png" id="kn8" alt="皆がスムーズにプレイできるようがんばっています。">
 <img src="./images/ja/topics2/img/nagare04.png"id="kn9" alt="流れ4">
 <p class="p4">
-<ol start="4"><li><span style="background-color:#ffffff">
-最後に先生がゲームの解説・まとめをする。</span></li></ol>
+<ol start="4"><li>
+最後に先生がゲームの解説・まとめをする。</li></ol>
 </p>
+</span>
 <img src="./images/ja/topics2/t2_kansou_y.png" id="kn11" alt="授業を見学してみて：最初は皆、「とりあえずプレイ」しているように見えた。しかし、ゲームのコツがわかると、段々とその目つきが変わり、様々な駆け引きが始まる。会話を交えつつプレイしていた学生たちの口数が徐々に減っていき、授業の雰囲気はガラリと変わった。全員、ボードゲームに集中する様には、他の講義と違った緊張感がある。想像していたより人数が少なかったものの、そのおかげで集中できる環境が作られていた。「学部一年に戻ってこの授業を受けたい！」と思ってしまう授業であった。OCW 学生サポーター 理学部二年 山本">
 </div>
 </div>
