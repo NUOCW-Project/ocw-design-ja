@@ -109,9 +109,9 @@ position: relative;
         position: absolute;
         z-index: 8;
 }
-p.p1{
-top: 162px;
-left: 70px;
+.p1{
+top: 184px;
+left: 103px;
 position: absolute;
 z-index: 1;
 width: 144px;
