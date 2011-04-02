@@ -167,7 +167,7 @@ p.pi {
 .p3 {
     left: 60px;
     position: absolute;
-    top: 461px;
+    top: 457px;
     width: 182px;
     z-index: 1;
 }
@@ -184,10 +184,10 @@ p.pi {
     z-index: 3;
 }
 .p4 {
-    left: 271px;
+    left: 273px;
     position: absolute;
     text-align: left;
-    top: 578px;
+    top: 575px;
     width: 171px;
     z-index: 1;
 }
