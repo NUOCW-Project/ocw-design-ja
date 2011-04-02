@@ -19,7 +19,6 @@
 <div id="kn">
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10" alt="-講義の流れ-">
 <img src="./images/ja/topics2/student/student01.png" id="kn1" alt="学生1">
-<span style="background-color:#ffffff">
 <p class="p1">
 <ol><li>
 事前に担当を決められた学生がゲームのルールを解説。</li>
@@ -48,7 +47,6 @@ OCWサポーター市之瀬
 <ol start="4"><li>
 最後に先生がゲームの解説・まとめをする。</li></ol>
 </p>
-</span>
 <img src="./images/ja/topics2/t2_kansou_y.png" id="kn11" alt="授業を見学してみて：最初は皆、「とりあえずプレイ」しているように見えた。しかし、ゲームのコツがわかると、段々とその目つきが変わり、様々な駆け引きが始まる。会話を交えつつプレイしていた学生たちの口数が徐々に減っていき、授業の雰囲気はガラリと変わった。全員、ボードゲームに集中する様には、他の講義と違った緊張感がある。想像していたより人数が少なかったものの、そのおかげで集中できる環境が作られていた。「学部一年に戻ってこの授業を受けたい！」と思ってしまう授業であった。OCW 学生サポーター 理学部二年 山本">
 </div>
 </div>
