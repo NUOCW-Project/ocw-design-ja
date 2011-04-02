@@ -102,6 +102,13 @@ top: 0px;
 left: -40px;
 position: relative;
 }
+#kn1 {
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    z-index: 2;
+}
+
 .p1 {
     left: 111px;
     position: absolute;
