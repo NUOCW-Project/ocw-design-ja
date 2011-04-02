@@ -21,8 +21,8 @@
 <img src="./images/ja/topics2/student/student01.png" id="kn1" alt="学生1">
 <p class="p1">
 <span style="background-color:#ffffff">
-<ol><li><span style="background-color:#ffffff">事前に担当を決められた学生がゲームのルールを解説。</li>
-</span></ol>
+<ol><li><span style="background-color:#ffffff">事前に担当を決められた学生がゲームのルールを解説。</span></li>
+</ol>
 </p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2" alt="流れ1">
 <img src="./images/ja/topics2/img/fukidasi01.png" id="kn3" alt="皆、食い入るようにスライドを見つめる。戦いはプレイする前から始まっている。">
@@ -45,8 +45,8 @@
 <img src="./images/ja/topics2/img/fukidasi03.png" id="kn8" alt="皆がスムーズにプレイできるようがんばっています。">
 <img src="./images/ja/topics2/img/nagare04.png"id="kn9" alt="流れ4">
 <p class="p4">
-<ol start="4"><li><span style="background-color:#ffffff"></span>
-最後に先生がゲームの解説・まとめをする。</li></ol>
+<ol start="4"><li><span style="background-color:#ffffff">
+最後に先生がゲームの解説・まとめをする。</span></li></ol>
 </p>
 <img src="./images/ja/topics2/t2_kansou_y.png" id="kn11" alt="授業を見学してみて：最初は皆、「とりあえずプレイ」しているように見えた。しかし、ゲームのコツがわかると、段々とその目つきが変わり、様々な駆け引きが始まる。会話を交えつつプレイしていた学生たちの口数が徐々に減っていき、授業の雰囲気はガラリと変わった。全員、ボードゲームに集中する様には、他の講義と違った緊張感がある。想像していたより人数が少なかったものの、そのおかげで集中できる環境が作られていた。「学部一年に戻ってこの授業を受けたい！」と思ってしまう授業であった。OCW 学生サポーター 理学部二年 山本">
 </div>
