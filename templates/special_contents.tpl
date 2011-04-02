@@ -20,7 +20,9 @@
 <img src="./images/ja/topics2/img/hata01_kougi.png" id="kn10" alt="-講義の流れ-">
 <img src="./images/ja/topics2/student/student01.png" id="kn1" alt="学生1">
 <p class="p1">
-<ol><li><span style="background-color:#ffffff">事前に担当を決められた学生がゲームのルールを解説。</span></li>
+<ol><li>
+<span style="background-color:#ffffff">事前に担当を決められた学生がゲームのルールを解説。</span>
+</li>
 </ol>
 </p>
 <img src="./images/ja/topics2/img/nagare01.png" id="kn2" alt="流れ1">
@@ -29,8 +31,9 @@
 <img src="./images/ja/topics2/img/nagare02.png" id="kn5" alt="流れ2">
 <img src="./images/ja/topics2/student/student02_ichinose.png" id="kn6" alt="学生2">
 <p class="p2">
-<ol start="2"><li><span style="background-color:#ffffff">
-グループにわかれてプレイ、中盤にグループ交代。</span></li></ol>
+<ol start="2"><span style="background-color:#ffffff"><li>
+グループにわかれてプレイ、中盤にグループ交代。
+</li></span></ol>
 </p>
 <p class="pi">
 <span style="background-color:#ffffff">OCWサポーター市之瀬
