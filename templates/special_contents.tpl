@@ -31,9 +31,10 @@
 <img src="./images/ja/topics2/img/nagare02.png" id="kn5" alt="流れ2">
 <img src="./images/ja/topics2/student/student02_ichinose.png" id="kn6" alt="学生2">
 <p class="p2">
-<ol start="2"><span style="background-color:#ffffff"><li>
+<span style="background-color:#ffffff">
+<ol start="2"><li>
 グループにわかれてプレイ、中盤にグループ交代。
-</li></span></ol>
+</li></ol></span>
 </p>
 <p class="pi">
 <span style="background-color:#ffffff">OCWサポーター市之瀬
