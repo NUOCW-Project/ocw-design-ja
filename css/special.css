@@ -153,7 +153,7 @@ width: 144px;
 	z-index: 2;
 }
 
-p.p2 {
+.p2 {
 text-align: right; 
     left: 272px;
     position: absolute;
@@ -173,7 +173,7 @@ width: 84px;
 font-size: 90%;
 }
 
-p.p3 {
+.p3 {
     left: 50px;
     position: absolute;
     top: 441px;
@@ -194,7 +194,7 @@ width: 196px;
 	z-index: 3;
 }
 
-p.p4 {
+.p4 {
 text-align: left;
     left: 224px;
     position: absolute;
