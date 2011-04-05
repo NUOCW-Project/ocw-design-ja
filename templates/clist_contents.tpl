@@ -1,4 +1,4 @@
-{* 全部局、部局別ソート *}
+			{* 全部局、部局別ソート *}
 {literal}
 {if $all_dept and $sort_selected=="all_department"}
 {/literal}
