@@ -21,7 +21,7 @@
         <img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="video" width="50" height="37">
                 </a>
         {else}
-                <img src="./images/common/n_a.png" alt="no video" width="50" height="37">
+                <img src="./images/common/nomovie.png" alt="no video" width="50" height="37">
         {/if}
 	</td>
         <td width="425">
