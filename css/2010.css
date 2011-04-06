@@ -383,6 +383,9 @@ body:first-of-type #contents{
   text-align: center;
 }
 
+#important_notice h2 a {
+  color: #DD0000;
+}
 #important_notice p {
   text-align: center;
 }
