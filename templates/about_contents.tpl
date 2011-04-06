@@ -73,7 +73,7 @@
     OCW事務室 事務補佐員 後藤綾子<br>
 		</p></td></tr><tr>
 
-<td class="center">名古屋大学OCWサポートスタッフ</td>
+<td id="ocw-support" class="center">名古屋大学OCWサポートスタッフ</td>
 		<td class="left"><p>
 		文学部B4 市之瀬由佳<br>
 		文学部B4 斉藤修平<br>
