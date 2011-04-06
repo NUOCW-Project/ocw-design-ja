@@ -1,7 +1,7 @@
 
 <h1 style="height:19px; overflow:visible;">
 <img src="images/common/staff.png" alt="">
-<span style="margin-left:-30px;vertical-align:top;">みなさんのアイデアと技術を求めています！</span></h1>
+<span style="margin-left:-32px; vertical-align:top;">みなさんのアイデアと技術を求めています！</span></h1>
 <div class="g_text">
 <p>
 名古屋大学の授業をインターネット上で紹介するサイト、「名大の授業」は、
@@ -10,13 +10,9 @@
 </p>
 </div>
 
-<h2 style="margin-top: 60px;">OCWサポートスタッフについて</h2>
+<h2 style="margin-top: 70px;">OCWサポートスタッフについて</h2>
 
-<div style="float:right;">
-<img src="./images/common/ocw-support.jpg" alt="">
-</div>
-
-<div class="g_text" style="width: 340px">
+<div class="g_text">
 <p>
 2011年4月現在で、学部3年生から博士後期課程にわたる20名の学生がサポートスタッフとして活動しています。
 ウェブ技術に詳しい学生だけでなく、法律に詳しい学生、映像やデザインに興味のある学生、
