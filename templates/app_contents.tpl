@@ -10,8 +10,7 @@
 </p>
 </div>
 
-<h2>OCWサポートスタッフについて</h2>
-
+<h2 style="margin-top: 30px;">OCWサポートスタッフについて</h2>
 
 <div class="g_text">
 <p>
