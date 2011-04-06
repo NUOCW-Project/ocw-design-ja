@@ -1,5 +1,7 @@
 
-<h1>みなさんのアイデアと技術を求めています！</h1>
+<h1 style="height:19px; overflow:visible;">
+<img src="images/common/staff.png" alt="">
+<span style="margin-left:-30px;vertical-align:top;">みなさんのアイデアと技術を求めています！</span></h1>
 <div class="g_text">
 <p>
 名古屋大学の授業をインターネット上で紹介するサイト、「名大の授業」は、
@@ -8,9 +10,7 @@
 </p>
 </div>
 
-<h2 style="height:19px; overflow:visibile;">
-<img src="images/common/staff.png" alt="">
-<span style="margin-left:-30px;vertical-align:top;">OCWサポートスタッフについて</span></h2>
+<h2>OCWサポートスタッフについて</h2>
 
 
 <div class="g_text">
@@ -45,7 +45,7 @@ OCWサポートスタッフとしての経験は、将来的に民間企業で働いたり、
 </div>
 
 
-<h2>●募集職種</h2>
+<h2>募集職種</h2>
 <div class="g_text">
 <h3>企画</h3>
 <p>
@@ -85,7 +85,7 @@ html、CSS、Javascript の経験者を求めています。
 </div>
 
 
-<h2>●募集要項</h2>
+<h2>募集要項</h2>
 <div class="g_text">
 <h3>勤務場所</h3>
 <p>工学部7号館4F コンテンツ制作室</p>
