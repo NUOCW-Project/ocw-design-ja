@@ -366,7 +366,7 @@ body:first-of-type #contents{
 }
 
 #important_notice {
-  position: relative;
+  position: absolute;
   width: 280px;
   top: 30px;
   left: 625px;
