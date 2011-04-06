@@ -371,8 +371,8 @@ body:first-of-type #contents{
   left: 625px;
   width: 260px;
   padding: 5px 10px;
-  background-color: #f2f2f2;
-  border: 2px solid #94a288;
+  background-color: rgba(242, 242, 242, 0.8);
+  border: 1px solid #94a288;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
@@ -386,6 +386,7 @@ body:first-of-type #contents{
 #important_notice h2 a {
   color: #DD0000;
 }
+
 #important_notice p {
   text-align: center;
 }
