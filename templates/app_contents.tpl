@@ -8,9 +8,9 @@
 </p>
 </div>
 
-<h2 style="height:19px; overflow:visibile;vertical-align:top;">
+<h2 style="height:19px; overflow:visibile;">
 <img src="images/common/staff.png" alt="">
-<span style="margin-left:-30px;">OCWサポートスタッフについて</span></h2>
+<span style="margin-left:-30px;vertical-align:top;">OCWサポートスタッフについて</span></h2>
 
 
 <div class="g_text">
