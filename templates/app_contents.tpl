@@ -12,7 +12,11 @@
 
 <h2 style="margin-top: 60px;">OCWサポートスタッフについて</h2>
 
-<div class="g_text">
+<div style="float:right;">
+<img src="./images/common/ocw-support.jpg" alt="">
+</div>
+
+<div class="g_text" style="width: 340px">
 <p>
 2011年4月現在で、学部3年生から博士後期課程にわたる20名の学生がサポートスタッフとして活動しています。
 ウェブ技術に詳しい学生だけでなく、法律に詳しい学生、映像やデザインに興味のある学生、
