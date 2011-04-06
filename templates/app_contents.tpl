@@ -8,11 +8,10 @@
 </p>
 </div>
 
-<h2>OCWサポートスタッフについて</h2>
-
-<div style="float:left;">
+<h2 style="height:19px; overflow:visibile;">
 <img src="images/common/staff.png" alt="">
-</div>
+<span style="margin-left:-30px;">OCWサポートスタッフについて</span></h2>
+
 
 <div class="g_text">
 <p>
