@@ -369,8 +369,8 @@ body:first-of-type #contents{
   position: absolute;
   top: 35px;
   left: 625px;
-  width: 270px;
-  padding: 0px 5px;
+  width: 260px;
+  padding: 5px 10px;
   background-color: #f9f0dd;
   border: 3px double #dd0000;
   border-radius: 5px;
