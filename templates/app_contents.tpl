@@ -8,7 +8,7 @@
 </p>
 </div>
 
-<h2 style="height:19px; overflow:visibile;">
+<h2 style="height:19px; overflow:visibile;vertical-align:top;">
 <img src="images/common/staff.png" alt="">
 <span style="margin-left:-30px;">OCWサポートスタッフについて</span></h2>
 
