@@ -380,10 +380,11 @@ body:first-of-type #contents{
 
 #important_notice h2 {
   font-size: medium;
+  text-align: center;
 }
 
-#important_notice a {
- text-decoration: underline;
+#important_notice p {
+  text-align: center;
 }
 
 #feature{
