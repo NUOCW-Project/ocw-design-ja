@@ -367,11 +367,12 @@ body:first-of-type #contents{
 
 #important_notice {
   position: absolute;
-  width: 280px;
-  top: 30px;
+  top: 35px;
   left: 625px;
-  border: 2px double red;
-  background-color: #f9deb7;
+  width: 270px;
+  padding: 0px 5px;
+  background-color: #f9eecc;
+  border: 1px double red;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
