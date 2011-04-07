@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
 <link rel="stylesheet" type="text/css" href="css/2010.css">
-<link rel="stylesheet" type="text/css" href="css/special.css">
+{literal}{if $page_type=='topics'}<link rel="stylesheet" type="text/css" href="css/special.css">{/if}{/literal}
 <link rel="alternate" type="application/rss+xml" title="NU OCW RSS" href="./files/rssfeed.xml">
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/toggle.js"></script>
