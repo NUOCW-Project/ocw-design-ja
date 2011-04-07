@@ -5,15 +5,9 @@
   <br>
   <img src="./images/common/redline.gif" class="line" alt="">
   <br>
-  <!-- 「TOPICS」 -->
-<<<<<<< .working
-  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics"> 
-    <img src="./images/ja/topics_msg/prj10_msg_headder.jpg" id="prj10" alt="Topics 第１回目 message">
-=======
   <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics"> 
     <img src="./images/{$lang}/topics2/prj10_arita_headder.jpg" id="prj10" alt="Topics 第2回目 ボードゲームを究める">
->>>>>>> .merge-right.r4806
-  </a></div> <!-- "feature" end -->
+  </a></div>
     
 <div id="greeting">
   <img src="./images/ja/goaisatu.png" 
