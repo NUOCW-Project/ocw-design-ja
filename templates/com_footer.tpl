@@ -10,7 +10,7 @@
   {assign var='navi_total' value=`$smarty.foreach.navigation.total/3+1`}
   {if $smarty.foreach.navigation.first}
   <ul class="navi">
-     <li>■ナビゲーション<br></li>
+     <li>{if $lang=='ja'}■ナビゲーション{else}&diams;Navigation{/if}<br></li>
   {elseif $smarty.foreach.navigation.index%$navi_total==0}
   </ul>
   <ul class="navi">
@@ -18,7 +18,7 @@
   {/if}
 
   {if $abbr!="empty"}
-    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">□{$dept.department_name}</a></li>
+    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang='ja'}□{else}&loz;{/if}{$dept.department_name}</a></li>
   {/if}
 
   {if $smarty.foreach.navigation.last}
@@ -28,12 +28,12 @@
 {/literal}
   
   <ul class="navi">
-    <li>■コンテンツ</li>
+    <li>{if $lang=='ja'}■コンテンツ{else}&diams;Contents{/if}</li>
 <!--    <li>OCWシーズン企画</li> -->
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome">ごあいさつ</a></li>
+    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome">{if $lang=='ja'}ごあいさつ{else}Introduction{/if}</a></li>
 <!--    <li>アクセスランキング</li> -->
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=news">おしらせ</a></li>
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=pressrelease">プレスリリース</a></li>
+    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=news">{if $lang=='ja'}おしらせ{else}News{/if}</a></li>
+    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
   </ul>
 
  </div><!-- "footer" end --> 
