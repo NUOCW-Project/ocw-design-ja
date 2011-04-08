@@ -1,0 +1,35 @@
+div#topics_header{
+    width: 535px;
+    height: 250px;
+    position: relative;
+}
+
+p#lead{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+ul#topics_list li{
+    position: relative;
+}
+
+h1.course_name{
+    color: gold;
+    font-family: '£Í£Ó £ÐÌÀÄ«','¥Ò¥é¥®¥ÎÌÀÄ« Pro W6','Batang',serif;
+} 
+
+span.copy{
+    position: relative;
+    top: 50%;
+    border: 1px solid #C0C0CF;
+    border-bottom: 2px solid #B0B0B0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -moz-transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    transform: rotate(-5deg);
+}
