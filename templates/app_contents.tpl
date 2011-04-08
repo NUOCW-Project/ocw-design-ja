@@ -123,5 +123,5 @@ html、CSS、Javascript の経験者を求めています。
 <img src="./images/common/redline.gif" id="line2" alt="">
 
 <div id="release_date">
-最終更新日：2011年03月10日
+最終更新日：2011年04月08日
 </div>
