@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset={if $lang == "ja"}EUC-JP{elseif $lang=="en"}utf-8{/if}">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
-<link rel="stylesheet" type="text/css" href="css/2010.css?20110407">
+<link rel="stylesheet" type="text/css" href="css/2010.css?20110408">
 {literal}{if $page_type=='topics'}<link rel="stylesheet" type="text/css" href="css/special.css">{/if}{/literal}
 <link rel="alternate" type="application/rss+xml" title="NU OCW RSS" href="./files/rssfeed.xml">
 <script type="text/javascript" src="./js/jquery.js"></script>
