@@ -18,7 +18,7 @@
   {/if}
 
   {if $abbr!="empty"}
-    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang='ja'}¢¢{else}&loz;{/if}{$dept.department_name}</a></li>
+    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang=='ja'}¢¢{else}&loz;{/if}{$dept.department_name}</a></li>
   {/if}
 
   {if $smarty.foreach.navigation.last}
