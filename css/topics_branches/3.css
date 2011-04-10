@@ -1,17 +1,17 @@
 div#senyo {
-    background-color: #55ff44;
+    background-color: #55FF44;
     height: 1000px;
     width: 720px;
 }
 div#s1 {
     left: 205px;
     position: absolute;
-    top: 672px;
+    top: 864px;
     width: 351px;
 }
 div#s2 {
-    left: 582px;
+    left: 577px;
     position: absolute;
-    top: 471px;
+    top: 658px;
     width: 300px;
 }
