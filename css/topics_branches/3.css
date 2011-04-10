@@ -4,6 +4,12 @@ div#senyo {
     position: relative;
     width: 720px;
 }
+
+
+#senyo_k {
+    width: 600px;
+}
+
 #senyo_p {
     left: 36px;
     position: absolute;
