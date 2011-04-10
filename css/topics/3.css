@@ -1,14 +1,20 @@
+div#senyo {
+    top: 0px;
+    left: 0px;
+    background-color: #ffff33;
+    position: relative;
+    width: 1000px;
+    height: 647px;
+}
 div#s1 {
-    top: 350px;
-    left: 205px;
+    left: 0px;
     position: absolute;
-    width: 351px;
-    background-color: #ffffff;
+    top: 203px;
+    width: 354px;
 }
 div#s2 {
-    top: 147px;
-    left: 582px;
+    left: 353px;
     position: absolute;
-    width: 300px;
-    background-color: #ffffff;
+    top: 0px;
+    width: 354px;
 }
