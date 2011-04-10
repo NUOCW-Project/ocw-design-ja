@@ -10,7 +10,7 @@
 </div>
 
 <div id="senyo">
-<img src="./images/ja/topics3/senyo/senyo_lead.png" alt="看板画像" width="700" height="500">
+<img src="./images/ja/topics3/senyo/senyo_lead.png" alt="看板画像" width="500" height="400">
 <img src="./images/ja/topics3/senyo/Sen'yo4.JPG" alt="千代先生" width="300" height="200">
 <div id="s1">
 <p><b>１、物理実験学について印象に残っていることは何ですか？</b></p>
