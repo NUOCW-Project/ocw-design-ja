@@ -11,7 +11,7 @@
 
 <div id="senyo">
 <img src="./images/ja/topics3/senyo/senyo_lead.png" alt="看板画像" width="500" height="400">
-<img src="./images/ja/topics3/senyo/Sen'yo4.JPG" alt="千代先生" width="300" height="200">
+<img src="./images/ja/topics3/senyo/Sen'yo4.JPG" alt="千代先生" width="300" height="200" id="senyo_p">
 <div id="s1">
 <p><b>１、物理実験学について印象に残っていることは何ですか？</b></p>
 <p>最近は理系学生でも実験、特に物理実験を高校でやっていたという学生はほとんどいないんですね。普通、やったことがなければどうしても尻込みしてしまうこともあるかなと思っていたのですが、積極的に実験に参加する学生が多く、質問等を通じてコミュニケーションがとれました。</p>
