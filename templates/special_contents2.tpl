@@ -11,6 +11,14 @@
 
 <div id="senyo">
 <img src="./images/ja/topics3/senyo/senyo_lead.png" alt="看板画像" id="senyo_k">
+<p class="lead">
+<b>「すべての「科学」の原点」</b><br>
+注目してほしいのはこの授業が医学部対象であるところです。<br>
+また、理学部はもちろん、理系の学生のほとんどが物理学実験の授業を選択することができます。<br>
+自分の手で物理学の実験をすることが医学部や他の学部の学生にとってどう役にたつのか。<br>
+ぜひ講義ノートの「物理学実験ガイダンス」に目を通してみてください。 <br>
+</p>
+
 <img src="./images/ja/topics3/senyo/Sen'yo4.JPG" alt="千代先生" width="300" height="200" id="senyo_p">
 <p class="midasi"><b>
 実験は新しい発見への準備
