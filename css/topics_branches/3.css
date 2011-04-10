@@ -1,29 +1,28 @@
 div#senyo {
     background-color: #55FF44;
-    height: 1000px;
-    width: 720px;
+    height: 1200px;
     position: relative;
+    width: 720px;
 }
-#senyo_p{
-top: 100px;
-left: 100px;
-position: absolute;
-}
-
-div#s1 {
-    left: 205px;
+#senyo_p {
+    left: 36px;
     position: absolute;
-    top: 864px;
+    top: 500px;
+}
+div#s1 {
+    left: 0px;
+    position: absolute;
+    top: 701px;
     width: 351px;
 }
 div#s2 {
-    left: 577px;
+    left: 414px;
     position: absolute;
-    top: 658px;
+    top: 400px;
     width: 300px;
 }
 #int_senyo {
-    top: 1256px;
-    left: 577px;
+    left: 377px;
     position: absolute;
+    top: 988px;
 }
