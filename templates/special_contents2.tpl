@@ -30,7 +30,7 @@
 1.5単位、週1回全15回<br>
 </p>
 </div>
-<div id="mogura1">
+<div id="mogura2">
 <img src="./images/ja/topics3/senyo/Sen'yo4.JPG" alt="千代先生" width="300" height="200" id="senyo_p">
 <p class="midasi"><b>
 実験は新しい発見への準備

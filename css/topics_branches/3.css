@@ -1,11 +1,13 @@
 
 #mogura1, #mogura2, #mogura3, #mogura4{
     display: none;
+    border: 1px solid #ff00ff;
 }
 
 .abstract{
     width: 700px;
-    height: 400px;
+    height: 250px;
+    border: 1px solid #ff0000;
 }
 
 /*
