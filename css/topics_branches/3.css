@@ -2,7 +2,14 @@ div#senyo {
     background-color: #55FF44;
     height: 1000px;
     width: 720px;
+    position: relative;
 }
+#senyo_p{
+top: 100px;
+left: 100px;
+position: absolute;
+}
+
 div#s1 {
     left: 205px;
     position: absolute;
