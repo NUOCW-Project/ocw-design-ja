@@ -1,3 +1,14 @@
+
+#mogura1, #mogura2, #mogura3, #mogura4{
+    display: none;
+}
+
+.abstract{
+    width: 700px;
+    height: 400px;
+}
+
+/*
 p.title {
     background-color: #FFFFFF;
     font-size: 200%;
@@ -58,7 +69,4 @@ p.midasi {
     position: absolute;
     top: 422px;
 }
-
-div#mogura1, #mogura2, #mogura3, #mogura4{
-    display: none;
-}
+*/
