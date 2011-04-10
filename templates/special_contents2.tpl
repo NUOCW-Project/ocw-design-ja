@@ -4,12 +4,161 @@
 てすと
 </map>
 </p>
-<ul>
-<li id="article1"><p>
-公開されている授業に参加されていた当時文系学部の1年生であった方は、私の知る限り、企業・地方公共団体で活躍されており、また、今年の司法試験に現役合格された方が出るなど、みんなアクティブな人生を送っておられます。文系・基礎演習で自ら学ぶことを楽しんでくれた学生のその後の成長を嬉しく思っています。</p>
+
+<ul id="topics">
+<li id="article1">
+  <div class="abstract">
+    <h1 class="title">基礎セミナー - 民法の世界で遊ぶ</h1>
+    <span class="teacher">千葉恵美子 教授</span>    
+    <h3 class="copy">日常の中の法律</h3>
+    <p class="lead">
+     法律は社会を観察するための一つの切り口です。 <br>
+     この授業では、自分で選択した映画を題材とし、法律という視点で問題を捉えていきます。 <br>
+     また、発表・司会・ディベートの役割を通じて、自分の考えを主張していくことができます。 <br>
+     自己抑制的だった高校までの学習から、一歩踏み出す。 <br>
+     六法全書の丸暗記ではない、法律問題の議論の楽しさがこの授業にはあります。
+    </p>
+    <img class="cut" alt="" src="">
+    <p id="info">
+
+    </p>
+    <a onclick="Display('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura1">この授業についてもっと知る</a>
+  </div>
+   
+  <a name="mogura1"><div id="mogura1">
+<p>公開されている授業に参加されていた当時文系学部の1年生であった方は、
+私の知る限り、企業・地方公共団体で活躍されており、<br>
+また、今年の司法試験に現役合格された方が出るなど、みんなアクティブな人生を送っておられます<br>
+文系・基礎演習で自ら学ぶことを楽しんでくれた学生のその後の成長を嬉しく思っています。</p>   
+  </div></a>
 </li>
+
 <li id="article2">
-<div class="abstract">
+  <div class="abstract">
+    <h1 class="title">物理学実験</h1>
+    <span class="teacher">千代勝実 講師</span>    
+    <h3 class="copy">すべての「科学」の原点</h3>
+    <p class="lead">
+    注目してほしいのはこの授業が医学部対象であるところです。<br>
+    また、理学部はもちろん、理系の学生のほとんどが物理学実験の授業を選択することができます。 <br>
+    自分の手で物理学の実験をすることが医学部や他の学部の学生にとってどう役にたつのか、ぜひ講義ノートの「物理学実験ガイダンス」に目を通してみてください。
+    </p>
+    <img class="cut" alt="" src="">
+    <p id="info">
+
+    </p>
+    <a onclick="Display('mogura2');noDisplay('mogura1');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura2">この授業についてもっと知る</a>
+  </div>
+   
+  <a name="mogura2"><div id="mogura2">
+     <p class="midasi"><b>実験は新しい発見への準備</b></p>
+
+     <div id="s1">
+     	  <p><b>１、物理実験学について印象に残っていることは何ですか？</b></p>
+	  <p>最近は理系学生でも実験、特に物理実験を高校でやっていたという学生はほとんどいないんですね。普通、やったことがなければどうしても尻込みしてしまうこともあるかなと思っていたのですが、積極的に実験に参加する学生が多く、質問等を通じてコミュニケーションがとれました。</p>
+	  <p><b>その質問というのは、どういった内容のものでしたか？</b></p>
+	  <p>実験手順や、結果についての質問だけでなく、その実験にまつわる物理現象についての質問、例えば、「先生は○○という現象についてどう思われますか？」というような、発展的・本質的な質問がありました。実験内容だけでなく、広がった話をしたことが印象に残っています。</p>
+	  <p><b>２、学部１年生が実験をする意義は何でしょうか？</b></p>
+	  <p>実験でも授業でも１、２年生で受ける基礎教育というのは先が見えないというか、計算練習や基礎知識、例えるなら準備運動であるとか筋力トレーニングといったような先が見えないとちょっとやりにくいというものが多いと思うんですよね。で、先生方はそういった点に関して色々と動機づけして下さると思うんですけれども、実験というのは比較的ものが見えて何をやるかがはっきりしています。</p>
+    </div>
+    <div id="s2">
+    	 <p><b>自分も物理実験学を受けていました。実験がうまくいかないこともありましたが。</b></p>
+	 <p>確かに、高校時代までに授業で習ってきたような内容というのが、実際に実験してみると教科書等に書いてある通りにはうまくできないということがあります。そういうことをちょっと学んでもらって、現実と理論をつなげていく上で案外実際にやってみるというのは難しいということを一つ学んでいただきたいですね。将来研究者、もしくはそれに近いことをやっていく場合、特に学部４年生や、大学院生になった時新しい実験、新しいことを見つけるための研究、基本的な、当たり前なことをずっとやっていくことになりますが、必ずしもそれはテキスト通りにやるだけではなく、新しい発見への準備だと思って実験をしていくと非常に有意義だと思います。毎日のトレーニングといいますか、実験をきちっと行えることが将来の新しい研究や発見につながると思います。</p>
+	 <p><b>３、実験だからこそ学べることは何だと思いますか？</b></p>
+	 <p>これまでテキストのみで学んできたことというのは物理にしろ化学にしろ見たり観測したり実験してみたりとそういうところからスタートしてテキストが出来あがっているので、普通の高校生は逆から勉強していることになるわけですね。もともとの発見から考えると。ですから、実際に実験をしてみてどういうところから物理法則が発見されたのか、どのように考えてこの実験をしたのか、どうしたらもっと自分が思っていた仮説を証明できるかといった実験の技術がわかってくると非常に面白いというか、非常に興味深いことがいっぱいわかってくるようになると思います。</p>
+     </div>
+<img src="./images/ja/topics3/senyo/senyo1.png" id="int_senyo" width="300">   
+  </div></a>
+</li>
+
+<li id="article3">
+  <div class="abstract">
+    <h1 class="title"></h1>
+    <span class="teacher"></span>    
+    <h3 class="copy"></h3>
+    <p class="lead">
+    
+    </p>
+    <img class="cut" alt="" src="">
+    <p id="info">
+
+    </p>
+    <a onclick="Display('mogura3');noDisplay('mogura1');noDisplay('mogura2');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura3">この授業についてもっと知る</a>
+  </div>
+   
+  <a name="mogura3"><div id="mogura3">
+   
+  </div></a>
+</li>
+<li id="article4">
+  <div class="abstract">
+    <h1 class="title"></h1>
+    <span class="teacher"></span>    
+    <h3 class="copy"></h3>
+    <p class="lead">
+    
+    </p>
+    <img class="cut" alt="" src="">
+    <p id="info">
+
+    </p>
+    <a onclick="Display('mogura4');noDisplay('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura4">この授業についてもっと知る</a>
+  </div>
+   
+  <a name="mogura4"><div id="mogura4">
+   
+  </div></a>
+</li>
+
+<li id="article5">
+  <div class="abstract">
+    <h1 class="title"></h1>
+    <span class="teacher"></span>    
+    <h3 class="copy"></h3>
+    <p class="lead">
+    
+    </p>
+    <img class="cut" alt="" src="">
+    <p id="info">
+
+    </p>
+    <a onclick="Display('mogura5');noDisplay('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura6')" href="#mogura5">この授業についてもっと知る</a>
+  </div>
+   
+  <a name="mogura5"><div id="mogura5">
+   
+  </div></a>
+</li>
+
+<li id="article6">
+  <div class="abstract">
+    <h1 class="title"></h1>
+    <span class="teacher"></span>    
+    <h3 class="copy"></h3>
+    <p class="lead">
+    
+    </p>
+    <img class="cut" alt="" src="">
+    <p id="info">
+
+    </p>
+    <a onclick="Display('mogura6');noDisplay('nogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5')" href="#mogura6">この授業についてもっと知る</a>
+  </div>
+   
+  <a name="mogura6"><div id="mogura6">
+   
+  </div></a>
+</li>
+
+</ul>
+
+<!-- 
+<li id="article2">
+<p id="info">
+<b>授業時間：</b>2008年度前期月曜3、4限<br>
+<b>対象者：</b>医学部<br>
+1.5単位、週1回全15回<br>
+</p><div class="abstract">
 <h1 class="title">
 物理学実験
 </h1>
@@ -122,3 +271,4 @@
 </div>
 </li>
 </ul>
+-->

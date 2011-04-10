@@ -1,3 +1,6 @@
+ul{
+    list-style-type: none;
+}
 
 #mogura1, #mogura2, #mogura3, #mogura4{
     display: none;
