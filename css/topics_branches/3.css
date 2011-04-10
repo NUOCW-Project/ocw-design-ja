@@ -1,28 +1,34 @@
+p.lead {
+    top: 287px;
+    left: 7px;
+    position: absolute;
+    background-color: #ffffff;
+}
 div#senyo {
     background-color: #55FF44;
     height: 1200px;
     position: relative;
     width: 720px;
+    top: 67px;
 }
-
-
 #senyo_k {
-    width: 600px;
+    width: 700px;
+    top: -61px;
+    position: absolute;
 }
-
 #senyo_p {
     left: 36px;
     position: absolute;
     top: 500px;
 }
 div#s1 {
-    left: 0px;
+    left: 24px;
     position: absolute;
     top: 701px;
     width: 351px;
 }
 div#s2 {
-    left: 414px;
+    left: 407px;
     position: absolute;
     top: 400px;
     width: 300px;
@@ -30,8 +36,11 @@ div#s2 {
 #int_senyo {
     left: 377px;
     position: absolute;
-    top: 988px;
+    top: 995px;
 }
-p.midasi{
-font-size: 200%;
+p.midasi {
+    font-size: 200%;
+    top: 422px;
+    position: absolute;
+    left: 45px;
 }
