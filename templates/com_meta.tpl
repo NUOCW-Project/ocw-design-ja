@@ -6,7 +6,10 @@
 
 <link rel="stylesheet" type="text/css" href="css/2010.css?20110408">
 {literal}{if $page_type=='topics'}<link rel="stylesheet" type="text/css" href="css/topics/3.css">{/if}{/literal}
-{literal}{if $page_type=='topics_branches'}<link rel="stylesheet" type="text/css" href="css/topics_branches/3.css">{/if}{/literal}
+{literal}{if $page_type=='topics_branches'}
+<link rel="stylesheet" type="text/css" href="css/topics_branches/3.css">
+<script type="text/javascript" src="./js/noDisplay.js"></script>
+{/if}{/literal}
 <link rel="alternate" type="application/rss+xml" title="NU OCW RSS" href="./files/rssfeed.xml">
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/toggle.js"></script>
