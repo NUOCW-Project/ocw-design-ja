@@ -25,12 +25,12 @@
     <a onclick="Display('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura1">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura1"><div id="mogura1">
+  <a name="mogura1" /><div id="mogura1">
 <p>公開されている授業に参加されていた当時文系学部の1年生であった方は、
 私の知る限り、企業・地方公共団体で活躍されており、<br>
 また、今年の司法試験に現役合格された方が出るなど、みんなアクティブな人生を送っておられます<br>
 文系・基礎演習で自ら学ぶことを楽しんでくれた学生のその後の成長を嬉しく思っています。</p>   
-  </div></a>
+  </div>
 </li>
 
 <li id="article2">
@@ -50,11 +50,12 @@
     <a onclick="Display('mogura2');noDisplay('mogura1');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura2">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura2"><div id="mogura2">
+  <a name="mogura2" /><div id="mogura2">
      <p class="midasi"><b>実験は新しい発見への準備</b></p>
 
      <div id="s1">
-     	  <p><b>１、物理実験学について印象に残っていることは何ですか？</b></p>
+     	  <img src="./images/ja/topics3/senyo/senyo1.png" id="int_senyo" width="300">
+       	  <p><b>１、物理実験学について印象に残っていることは何ですか？</b></p>
 	  <p>最近は理系学生でも実験、特に物理実験を高校でやっていたという学生はほとんどいないんですね。普通、やったことがなければどうしても尻込みしてしまうこともあるかなと思っていたのですが、積極的に実験に参加する学生が多く、質問等を通じてコミュニケーションがとれました。</p>
 	  <p><b>その質問というのは、どういった内容のものでしたか？</b></p>
 	  <p>実験手順や、結果についての質問だけでなく、その実験にまつわる物理現象についての質問、例えば、「先生は○○という現象についてどう思われますか？」というような、発展的・本質的な質問がありました。実験内容だけでなく、広がった話をしたことが印象に残っています。</p>
@@ -67,8 +68,7 @@
 	 <p><b>３、実験だからこそ学べることは何だと思いますか？</b></p>
 	 <p>これまでテキストのみで学んできたことというのは物理にしろ化学にしろ見たり観測したり実験してみたりとそういうところからスタートしてテキストが出来あがっているので、普通の高校生は逆から勉強していることになるわけですね。もともとの発見から考えると。ですから、実際に実験をしてみてどういうところから物理法則が発見されたのか、どのように考えてこの実験をしたのか、どうしたらもっと自分が思っていた仮説を証明できるかといった実験の技術がわかってくると非常に面白いというか、非常に興味深いことがいっぱいわかってくるようになると思います。</p>
      </div>
-<img src="./images/ja/topics3/senyo/senyo1.png" id="int_senyo" width="300">   
-  </div></a>
+  </div>
 </li>
 
 <li id="article3">
@@ -86,9 +86,9 @@
     <a onclick="Display('mogura3');noDisplay('mogura1');noDisplay('mogura2');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura3">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura3"><div id="mogura3">
+  <a name="mogura3" /><div id="mogura3">
    
-  </div></a>
+  </div>
 </li>
 <li id="article4">
   <div class="abstract">
@@ -105,9 +105,9 @@
     <a onclick="Display('mogura4');noDisplay('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura4">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura4"><div id="mogura4">
+  <a name="mogura4" /><div id="mogura4">
    
-  </div></a>
+  </div>
 </li>
 
 <li id="article5">
@@ -125,9 +125,9 @@
     <a onclick="Display('mogura5');noDisplay('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura6')" href="#mogura5">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura5"><div id="mogura5">
+  <a name="mogura5" /><div id="mogura5">
    
-  </div></a>
+  </div>
 </li>
 
 <li id="article6">
@@ -145,9 +145,9 @@
     <a onclick="Display('mogura6');noDisplay('nogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5')" href="#mogura6">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura6"><div id="mogura6">
+  <a name="mogura6" /><div id="mogura6">
    
-  </div></a>
+  </div>
 </li>
 
 </ul>
@@ -162,8 +162,8 @@
 <h1 class="title">
 物理学実験
 </h1>
-<!-- <img src="./images/ja/topics3/senyo/senyo_lead.png" alt="看板画像" id="senyo_k">
-<p class="lead"> -->
+ <img src="./images/ja/topics3/senyo/senyo_lead.png" alt="看板画像" id="senyo_k">
+<p class="lead"> 
 <b>「すべての「科学」の原点」</b><br>
 注目してほしいのはこの授業が医学部対象であるところです。<br>
 また、理学部はもちろん、理系の学生のほとんどが物理学実験の授業を選択することができます。<br>
