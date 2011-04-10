@@ -10,6 +10,9 @@
 </div>
 
 <div id="senyo">
+<p class="title">
+物理学実験
+</p>
 <img src="./images/ja/topics3/senyo/senyo_lead.png" alt="看板画像" id="senyo_k">
 <p class="lead">
 <b>「すべての「科学」の原点」</b><br>
@@ -17,6 +20,11 @@
 また、理学部はもちろん、理系の学生のほとんどが物理学実験の授業を選択することができます。<br>
 自分の手で物理学の実験をすることが医学部や他の学部の学生にとってどう役にたつのか。<br>
 ぜひ講義ノートの「物理学実験ガイダンス」に目を通してみてください。 <br>
+</p>
+<p id="info">
+<b>授業時間：</b>2008年度前期月曜3、4限<br>
+<b>対象者：</b>医学部<br>
+1.5単位、週1回全15回<br>
 </p>
 
 <img src="./images/ja/topics3/senyo/Sen'yo4.JPG" alt="千代先生" width="300" height="200" id="senyo_p">
