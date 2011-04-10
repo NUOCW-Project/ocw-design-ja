@@ -25,7 +25,7 @@
     <a onclick="Display('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura1">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura1" /><div id="mogura1">
+  <a name="mogura1"></a><div id="mogura1">
 <p>公開されている授業に参加されていた当時文系学部の1年生であった方は、
 私の知る限り、企業・地方公共団体で活躍されており、<br>
 また、今年の司法試験に現役合格された方が出るなど、みんなアクティブな人生を送っておられます<br>
@@ -50,7 +50,7 @@
     <a onclick="Display('mogura2');noDisplay('mogura1');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura2">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura2" /><div id="mogura2">
+  <a name="mogura2"></a><div id="mogura2">
      <p class="midasi"><b>実験は新しい発見への準備</b></p>
 
      <div id="s1">
@@ -86,7 +86,7 @@
     <a onclick="Display('mogura3');noDisplay('mogura1');noDisplay('mogura2');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura3">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura3" /><div id="mogura3">
+  <a name="mogura3"></a><div id="mogura3">
    
   </div>
 </li>
@@ -105,7 +105,7 @@
     <a onclick="Display('mogura4');noDisplay('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura4">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura4" /><div id="mogura4">
+  <a name="mogura4"></a><div id="mogura4">
    
   </div>
 </li>
@@ -125,7 +125,7 @@
     <a onclick="Display('mogura5');noDisplay('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura6')" href="#mogura5">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura5" /><div id="mogura5">
+  <a name="mogura5"></a><div id="mogura5">
    
   </div>
 </li>
@@ -145,7 +145,7 @@
     <a onclick="Display('mogura6');noDisplay('nogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5')" href="#mogura6">この授業についてもっと知る</a>
   </div>
    
-  <a name="mogura6" /><div id="mogura6">
+  <a name="mogura6"></a><div id="mogura6">
    
   </div>
 </li>

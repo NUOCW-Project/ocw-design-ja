@@ -1,8 +1,10 @@
 ul{
     list-style-type: none;
+    margin: 0;
+    padding: 1em;
 }
 
-#mogura1, #mogura2, #mogura3, #mogura4{
+#mogura1, #mogura2, #mogura3, #mogura4, #mogura5, #mogura6{
     display: none;
     border: 1px solid #ff00ff;
 }
