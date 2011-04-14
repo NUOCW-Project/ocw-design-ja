@@ -3,5 +3,4 @@
 <-- 留学生の声 -->
 <img scr="./images/en/header.png" alt="Student Testimonials">
 
-
-<div class="inline">
+</div>
