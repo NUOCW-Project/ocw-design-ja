@@ -5,15 +5,20 @@
   <br>
   <img src="./images/common/redline.gif" class="line" alt="">
   <br>
-  <!-- 「TOPICS」 -->
   <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics"> 
     <img src="./images/{$lang}/topics2/prj10_arita_headder.jpg" id="prj10" alt="Topics 第2回目 ボードゲームを究める">
-  </a></div> <!-- "feature" end -->
+  </a></div>
     
 <div id="greeting">
-  <img src="./images/{$lang}/goaisatu.png" 
-		alt="Ichiro Yamamoto, Chairperson, OpenCourseWare Committee, Nagoya University,
-		     Here at the NU OCW website we have gathered notes and materials from lectures given at Nagoya University." id="yamamoto">
+  <img src="./images/{$lang}/goaisatu.png" alt="
+  {if $lang=='ja'}
+    名古屋大学オープンコースウェア委員長 山本一良
+    ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。
+  {else}
+    Ichiro Yamamoto, Chairperson, OpenCourseWare Committee, Nagoya University,
+    Here at the NU OCW website we have gathered notes and materials from lectures given at Nagoya University.
+  {/if}
+  " id="yamamoto">
      <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div><!-- "greeting" end -->
 </div><!-- "inline" end -->
@@ -21,7 +26,7 @@
 <div class="inline">
 <div id="access">
 <div class="waku"><!-- ボックス「アクセスランキング」 -->
-	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="Most Accessed" width="180" height="20">
+	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="{if $lang=='ja'}アクセスランキング{else}Most Accessed{/if}" width="180" height="20">
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
@@ -65,8 +70,8 @@
 
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
-  <img src="./images/{$lang}/t_news.png" class="subheading" alt="News" width="180" height="20">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="back number" width="65" height="15"></a>
+  <img src="./images/{$lang}/t_news.png" class="subheading" alt="{if $lang=='ja'}おしらせ{else}News{/if}" width="180" height="20">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
     <table>
@@ -84,8 +89,8 @@
 
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
-  <img src="./images/{$lang}/t_release.png" class="subheading" alt="Press Releases" width="180" height="20">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="back number" width="65" height="15"></a>
+  <img src="./images/{$lang}/t_release.png" class="subheading" alt="{if $lang=='ja'}プレスリリース{else}Press Releases{/if}" width="180" height="20">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
     <table>
