@@ -110,7 +110,7 @@ OCWサポーター市之瀬</span>
 </div>
 
 <div id="ik">
-<img src="./images/ja/topics2/img_i/title02_jugyo_taiken.png" id="int3" alt="授業体験とインタビューを終えて：ocwサポーター 文学部３年 市之瀬由佳">
+<img src="./images/ja/topics2/img_i/ntitle02_jugyo_taiken.png" id="int3" alt="授業体験とインタビューを終えて：ocwサポーター 文学部３年 市之瀬由佳">
 <img src="./images/ja/topics2/img_i/pic07_arita_ichinose.png" id="int4" alt="対談">
 
 <p class="ik1">
