@@ -10,7 +10,7 @@
   </a></div>
     
 <div id="greeting">
-  <img src="./images/ja/goaisatu.png" alt="
+  <img src="./images/{$lang}/goaisatu.png" alt="
   {if $lang=='ja'}
     名古屋大学オープンコースウェア委員長 山本一良
     ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。
@@ -26,7 +26,7 @@
 <div class="inline">
 <div id="access">
 <div class="waku"><!-- ボックス「アクセスランキング」 -->
-	<img src="./images/ja/t_ranking.png" class="subheading" alt="{if $lang=='ja'}アクセスランキング{else}Most Accessed{/if}" width="180" height="20">
+	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="{if $lang=='ja'}アクセスランキング{else}Most Accessed{/if}" width="180" height="20">
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
@@ -70,8 +70,8 @@
 
 <div id="notice"><!-- ボックス「お知らせ」-->
 <div class="waku">
-  <img src="./images/ja/t_news.png" class="subheading" alt="{if $lang=='ja'}おしらせ{else}News{/if}" width="180" height="20">
-  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=news"><img src="./images/ja/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
+  <img src="./images/{$lang}/t_news.png" class="subheading" alt="{if $lang=='ja'}おしらせ{else}News{/if}" width="180" height="20">
+  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
     <table>
@@ -89,8 +89,8 @@
 
 <div id="press">
 <div class="waku"><!-- ボックス「プレスリリース」-->
-  <img src="./images/ja/t_release.png" class="subheading" alt="{if $lang=='ja'}プレスリリース{else}Press Releases{/if}" width="180" height="20">
-  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=pressrelease"><img src="./images/ja/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
+  <img src="./images/{$lang}/t_release.png" class="subheading" alt="{if $lang=='ja'}プレスリリース{else}Press Releases{/if}" width="180" height="20">
+  <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
     <table>
