@@ -29,7 +29,8 @@
               世界屈指の知的成果を生み出すとともに、
               論理的思考力と想像力に富んだ勇気ある知識人の育成を目指しています。
             {else}
-            {/if}"> 
+            {/if}"
+       width="945" height="400"> 
   {/literal}{include file="top_notice.tpl"}{literal}
 {else}
   <img src="./images/{$lang}/header_{$page_type}.jpg"
