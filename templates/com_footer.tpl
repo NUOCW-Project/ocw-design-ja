@@ -1,5 +1,5 @@
  <!-- 「ページトップへ」 -->
-  <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="topjump"  alt="{if $lang=="ja"}ページトップへ{/if}" ></a>
+  <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="topjump"  alt="{if $lang=='ja'}ページトップへ{else}To the top of the page{/if}" ></a>
 </div><!--"#contents" end-->
 </div><!-- "package2" end -->
 </div> <!-- "#package" end -->
@@ -40,31 +40,39 @@
 <div class="footer_bottom">  
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">
-	<img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="名大の授業について"
+	<img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="{if $lang=='ja'}名大の授業について{else}About OCW{/if}"
 	     onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">
-      <img src="./images/{$lang}/c02answer.png" class="size_img" alt="用語解説"
+      <img src="./images/{$lang}/c02answer.png" class="size_img" alt="{if $lang=='ja'}用語解説{else}Glossary{/if}"
 	   onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
 	   onMouseOut="this.src='./images/{$lang}/c02answer.png'"></a></li>
     <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus">
-	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="1分間授業紹介&amp;Podcast"
+	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="{if $lang=='ja'}1分間授業紹介&amp;Podcast{else}One-minute Course Introductions &amp; PodCast{/if}"
 	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a></li>
     <li><a href="http://www.media.nagoya-u.ac.jp/sc/" target="_blank">
-	<img src="./images/{$lang}/c04sc.png" class="size_img" alt="スタジオチャンネル"
+	<img src="./images/{$lang}/c04sc.png" class="size_img" alt="{if $lang=='ja'}スタジオチャンネル{else}Studio Channel{/if}"
 	     onMouseOver="this.src='./images/{$lang}/c04sc_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c04sc.png'"></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=link">
-      <img src="./images/{$lang}/c05link.png" class="size_img" alt="リンク"
+      <img src="./images/{$lang}/c05link.png" class="size_img" alt="{if $lang=='ja'}リンク{else}Link{/if}"
 	   onMouseOver="this.src='./images/{$lang}/c05link_on.png'" 
 	   onMouseOut="this.src='./images/{$lang}/c05link.png'"></a></li>
   </ul>
   
     <div id="proviso"> 
-      <a href="http://www.nagoya-u.ac.jp/" target="_blank"><img src="./images/common/nu.png" class="nu" alt="名大"></a>
-      <p class="nu">名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます</p>
+      <a href="http://www.nagoya-u.ac.jp/" target="_blank"><img src="./images/common/nu.png" class="nu" alt=""></a>
+      <p class="nu">
+      {if $lang=='ja'}
+      名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
+      <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます
+      {else}
+      OCW website, and all course materials made public on this site, <br>
+      may be used under the terms and conditions listed under <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">"About OC
+      W"</a>.
+      {/if}
+      </p>
     </div>
 </div><!-- "footer_bottom" end-->
 
