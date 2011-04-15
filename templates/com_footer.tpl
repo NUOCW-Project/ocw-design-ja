@@ -30,10 +30,10 @@
   <ul class="navi">
     <li>{if $lang=='ja'}■コンテンツ{else}&diams;Contents{/if}</li>
 <!--    <li>OCWシーズン企画</li> -->
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=welcome">{if $lang=='ja'}ごあいさつ{else}Introduction{/if}</a></li>
+    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">{if $lang=='ja'}ごあいさつ{else}Introduction{/if}</a></li>
 <!--    <li>アクセスランキング</li> -->
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=news">{if $lang=='ja'}おしらせ{else}News{/if}</a></li>
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
+    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news">{if $lang=='ja'}おしらせ{else}News{/if}</a></li>
+    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
   </ul>
 
  </div><!-- "footer" end --> 
@@ -47,7 +47,7 @@
       <img src="./images/{$lang}/c02answer.png" class="size_img" alt="{if $lang=='ja'}用語解説{else}Glossary{/if}"
 	   onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
 	   onMouseOut="this.src='./images/{$lang}/c02answer.png'"></a></li>
-    <li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=vsyllabus">
+    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">
 	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="{if $lang=='ja'}1分間授業紹介&amp;Podcast{else}One-minute Course Introductions &amp; PodCast{/if}"
 	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
 	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a></li>
