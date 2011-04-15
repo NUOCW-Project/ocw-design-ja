@@ -40,25 +40,27 @@
 <div class="footer_bottom">  
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">
-	<img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="{if $lang=='ja'}名大の授業について{else}About OCW{/if}"
-	     onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
-	     onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"></a></li>
+      <img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="{if $lang=='ja'}名大の授業について{else}About OCW{/if}"
+        onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
+        onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">
       <img src="./images/{$lang}/c02answer.png" class="size_img" alt="{if $lang=='ja'}用語解説{else}Glossary{/if}"
-	   onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
-	   onMouseOut="this.src='./images/{$lang}/c02answer.png'"></a></li>
+        onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
+        onMouseOut="this.src='./images/{$lang}/c02answer.png'"></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">
-	<img src="./images/{$lang}/c03vs.png" class="size_img" alt="{if $lang=='ja'}1分間授業紹介&amp;Podcast{else}One-minute Course Introductions &amp; PodCast{/if}"
-	     onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
-	     onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a></li>
+      <img src="./images/{$lang}/c03vs.png" class="size_img" alt="{if $lang=='ja'}1分間授業紹介&amp;Podcast{else}One-minute Course Introductions &amp; PodCast{/if}"
+        onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
+        onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a></li>
+    {if $lang=='ja'}
     <li><a href="http://www.media.nagoya-u.ac.jp/sc/" target="_blank">
-	<img src="./images/{$lang}/c04sc.png" class="size_img" alt="{if $lang=='ja'}スタジオチャンネル{else}Studio Channel{/if}"
-	     onMouseOver="this.src='./images/{$lang}/c04sc_on.png'" 
-	     onMouseOut="this.src='./images/{$lang}/c04sc.png'"></a></li>
+      <img src="./images/ja/c04sc.png" class="size_img" alt="スタジオチャンネル"
+        onMouseOver="this.src='./images/ja/c04sc_on.png'" 
+        onMouseOut="this.src='./images/ja/c04sc.png'"></a></li>
+    {/if}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=link">
       <img src="./images/{$lang}/c05link.png" class="size_img" alt="{if $lang=='ja'}リンク{else}Link{/if}"
-	   onMouseOver="this.src='./images/{$lang}/c05link_on.png'" 
-	   onMouseOut="this.src='./images/{$lang}/c05link.png'"></a></li>
+        onMouseOver="this.src='./images/{$lang}/c05link_on.png'" 
+        onMouseOut="this.src='./images/{$lang}/c05link.png'"></a></li>
   </ul>
   
     <div id="proviso"> 
