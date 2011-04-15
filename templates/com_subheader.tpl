@@ -20,6 +20,7 @@
   {assign var=img_num value=1|rand:4} 
     <img src="./images/{$lang}/header_{$page_type}0{$img_num}.jpg"
          alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
+{* トップページ *}
 {elseif $page_type=="top"}
   <img src="./images/{$lang}/header_top.jpg"
        alt="{if $lang=="ja"}
