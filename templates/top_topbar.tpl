@@ -5,17 +5,17 @@
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
-        <img src="./images/common/h01sitemap.png" alt="Sitemap" 
+        <img src="./images/common/h01sitemap.png" alt="{if $lang=='ja'}サイトマップ{else}Sitemap{/if}" 
              onMouseOver="this.src='./images/common/h01sitemap_on.png'" 
              onMouseOut="this.src='./images/common/h01sitemap.png'">
         </a><!-- お問い合わせのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">
-        <img src="./images/common/h02inquiry.png" alt="Inquiry" 
+        <img src="./images/common/h02inquiry.png" alt="{if $lang=='ja'}お問合せ{else}Inquiry{/if}" 
              onMouseOver="this.src='./images/common/h02inquiry_on.png'"
              onMouseOut="this.src='./images/common/h02inquiry.png'">
         </a><!-- ヘルプへのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">
-        <img src="./images/common/h03help.png" alt="Help" 
+        <img src="./images/common/h03help.png" alt="{if $lang=='ja'}ヘルプ{else}Help{/if}" 
              onMouseOver="this.src='./images/common/h03help_on.png'" 
              onMouseout="this.src='./images/common/h03help.png'">
         </a>

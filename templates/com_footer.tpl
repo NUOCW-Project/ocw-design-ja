@@ -71,8 +71,7 @@
       <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます
       {else}
       OCW website, and all course materials made public on this site, <br>
-      may be used under the terms and conditions listed under <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">"About OC
-      W"</a>.
+      may be used under the terms and conditions listed under <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">"About OCW"</a>.
       {/if}
       </p>
     </div>
