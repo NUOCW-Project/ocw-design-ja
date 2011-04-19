@@ -273,6 +273,11 @@ a:hover{
   height: 23px;
 }
 
+#departmentslist_list_en li{
+  margin: 0;
+  height: 40px;
+}
+
 #being{
 	color: red;
 }
