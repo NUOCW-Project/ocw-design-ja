@@ -267,6 +267,14 @@ a:hover{
 	list-style:none;
 }
 
+#departmentslist_list_en{
+	width: 157px;
+	padding:0px;
+	margin: 0px 5px 0px 0px;
+	position: relative;	
+	list-style:none;
+}
+
 #departmentslist_list li{
 	/* margin-bottom: -6px; */ /*画像の隙間をなくしている */
   margin: 0;
