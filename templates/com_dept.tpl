@@ -4,6 +4,7 @@
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
 	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a><!-- class"header_image"から移動 -->
 <!-- 各学部ページへのリンクリスト -->
+{$dept_list|@debug_print_var}
 {literal}
 {strip}
 {if $lang=="ja"}<-- 英語用と日本語用で画像の高さが異なる -->
