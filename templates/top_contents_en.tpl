@@ -1,4 +1,4 @@
-<div id="student">
+<div class="inline">
 <div id="student_main">
 <img src="./images/common/student/header.png" alt="">
 <img src="./images/common/student/arrow.png" alt="">
