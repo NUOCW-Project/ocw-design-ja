@@ -30,8 +30,7 @@
              	      論理的思考力と想像力に富んだ勇気ある知識人の育成を目指しています。"
 		width="945" height="400"> 
 	{else}
-  {/literal}{assign var=rand value=1|rand:3}{literal}
-	  <img src="./images/en/header_top0{$rand}.jpg"
+	  <img src="./images/en/header_top0{$img_num}.jpg"
 	       alt=""
 	       width="945" height="400"> 
 	{/if}
