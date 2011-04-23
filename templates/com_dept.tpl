@@ -4,7 +4,6 @@
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
 	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a><!-- class"header_image"から移動 -->
 <!-- 各学部ページへのリンクリスト -->
-{$dept_list|@debug_print_var}
 {literal}
 {strip}
 {if $lang=="ja"}<-- 英語用と日本語用で画像の高さが異なる -->
@@ -12,6 +11,7 @@
 {elseif $lang=="en"}
 <ul id="departmentslist_list_en"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
 {/if}
+{$dept_list|@debug_print_var}
 {foreach from=$dept_list key="abbr" item="dept"}
   <li>
   {if $mode=="l" && $page_type==$abbr}
