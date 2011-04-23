@@ -1,5 +1,3 @@
 <div>
-{literal}{php}
-var_dump($dept_list);
-{/literal}
+{$dept_list|@debug_print_var}
 </div>
