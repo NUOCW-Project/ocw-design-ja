@@ -1,4 +1,4 @@
-<div class="inline">
+<div class="student">
 <div id="feature">
   <img src="./images/common/t_topics.png" alt="Topics">
   <!--  <img src="./images/{$lang}/backno.png" class="jump"> -->
