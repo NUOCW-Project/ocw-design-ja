@@ -31,7 +31,7 @@
 		width="945" height="400"> 
 	{else}
   {/literal}{assign var=rand value=1|rand:3}{literal}
-	  <img src="./images/en/header_top{$rand}.jpg"
+	  <img src="./images/en/header_top0{$rand}.jpg"
 	       alt=""
 	       width="945" height="400"> 
 	{/if}
