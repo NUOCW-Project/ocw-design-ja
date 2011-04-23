@@ -1,7 +1,6 @@
 {strip}
 <div class="topheader_edge"><!-- 最上部ヘッダー右端部分 -->
   <div class="{literal}{if $lang=="ja"}topheader{else}topheader_en{/if}{/literal}" id="top"><!-- 最上部ヘッダー -->
-<-- ↑英語と日本語のページで使う画像ファイルが異なる -->
    <a href="./index.php?lang={$lang}" id="home_header"></a>
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
