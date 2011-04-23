@@ -53,7 +53,7 @@ a:hover{
 
 .header{
 	height: 90px; 
-	background-image: url(../images/{$lang}/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
+	background-image: url(../images/common/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
 	min-width: 975px;
 	background-repeat: no-repeat;
 }
@@ -61,8 +61,22 @@ a:hover{
 .topheader{
 	height: 110px;
 	min-width: 975px;
-	background-image: url(../images/en/topbar_top.jpg);	
+	background-image: url(../images/common/topbar_top.jpg);	
 	background-repeat: no-repeat;
+}
+
+.header_en{
+        height: 90px;
+        background-image: url(../images/en/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
+        min-width: 975px;
+        background-repeat: no-repeat;
+}
+
+.topheader_en{
+        height: 110px;
+        min-width: 975px;
+        background-image: url(../images/en/topbar_top.jpg);
+        background-repeat: no-repeat;
 }
 
 .header a#home_header{

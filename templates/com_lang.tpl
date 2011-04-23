@@ -7,7 +7,7 @@
                    onMouseOver="this.src='./images/{$lang}/english_on.png'" 
                    onMouseOut="this.src='./images/{$lang}/english.png'">
             {literal}{elseif $lang=="en"}{/literal}
-              <img src="./images/{$lang}/japanese.gif" alt="Japanese"
+              <img src="./images/{$lang}/japanese.png" alt="Japanese"
                    onMouseOver="this.src='./images/{$lang}/japanese_on.png'" 
                    onMouseOut="this.src='./images/{$lang}/japanese.png'">
             {literal}{/if}

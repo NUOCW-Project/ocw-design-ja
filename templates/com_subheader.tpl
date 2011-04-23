@@ -23,7 +23,7 @@
 {* トップページ *}
 {elseif $page_type=="top"}
 	{if $lang=="ja"}
-	  <img src="./images/ja/header_top.jpg"
+	  <img src="./images/{$lang}/header_top.jpg"
 	       alt=" 「勇気ある知識人」名古屋大学は、自由闊達な学風の下、人間性と科学の調和的発展を目的とし、
 	       	      創造的な研究と自発性を重視する教育を実践することによって、
 		      世界屈指の知的成果を生み出すとともに、
@@ -31,7 +31,7 @@
 		width="945" height="400"> 
 	{else}
   {assign var=img_num value=1|rand:3}
-	  <img src="./images/en/header_top0{$img_num}.jpg"
+	  <img src="./images/{$lang}/header_top0{$img_num}.jpg"
 	       alt=""
 	       width="945" height="400"> 
 	{/if}
