@@ -6,7 +6,7 @@
 <!-- 各学部ページへのリンクリスト -->
 {literal}
 {strip}
-<-- 英語用と日本語用で画像の高さが異なる -->
+<!-- 英語用と日本語用で画像の高さが異なる -->
 <ul id="{if $lang=="ja"}departmentslist_list{else}departmentlist_list_en{/if}"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
 {foreach from=$dept_list key="abbr" item="dept"}
   <li>
