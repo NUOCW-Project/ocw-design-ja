@@ -30,7 +30,7 @@
              	      論理的思考力と想像力に富んだ勇気ある知識人の育成を目指しています。"
 		width="945" height="400"> 
 	{else}
-  {assign var=img_num value=1|rand:4}
+  {assign var=img_num value=1|rand:3}
 	  <img src="./images/en/header_top0{$img_num}.jpg"
 	       alt=""
 	       width="945" height="400"> 
@@ -42,7 +42,7 @@
 {/if}
 {/if}
 
-{if $page_type == "top"}
+{if $page_type == "top" and $lang == "ja"}
 	<div id="menu">	
 		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/menu01.png" onMouseOver="this.src='./images/{$lang}/menu01_on.png'" onMouseout="this.src='./images/{$lang}/menu01.png'" class="menu0" alt="{if $lang=='ja'}「名大の授業」について"{else}About NU OCW{/if}"></a>
 		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary"><img src="./images/{$lang}/menu02.png" onMouseOver="this.src='./images/{$lang}/menu02_on.png'" onMouseout="this.src='./images/{$lang}/menu02.png'" class="menu0" alt="{if $lang=='ja'}用語解説{else}Glossary{/if}"></a>
