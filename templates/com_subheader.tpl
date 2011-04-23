@@ -1,5 +1,4 @@
 <!-- header画像 page_typeごとに表示 -->
-{assign var=img_num value=1|rand:4}<!-- header画像のランダム表示用 -->
 {literal}
 {if $page_type != ""}
 {* 部局紹介 *}
@@ -8,6 +7,7 @@
          alt="{/literal}{section name=n loop=$navi_list start=-2 max=1}{$navi_list[n].text}{/section}{literal}">
 {* リレーセミナー *}
 {elseif $page_type|regex_replace:'/^relay[0-9]+$/':'' eq ''} 
+  {assign var=img_num value=1|rand:4}
   <img src="./images/{$lang}/header_{$page_type|regex_replace:'/[0-9]+/':''}0{$img_num}.jpg"
        alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
 {* 最終講義 *}
@@ -30,6 +30,7 @@
              	      論理的思考力と想像力に富んだ勇気ある知識人の育成を目指しています。"
 		width="945" height="400"> 
 	{else}
+  {assign var=img_num value=1|rand:4}
 	  <img src="./images/en/header_top0{$img_num}.jpg"
 	       alt=""
 	       width="945" height="400"> 
