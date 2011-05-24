@@ -18,3 +18,7 @@ $(function(){
   $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
   $("#no" + i).css("visibility", "hidden");
 });
+
+$(function(){
+	$("no11").hide();
+    });
