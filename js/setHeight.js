@@ -18,7 +18,7 @@ $(function(){
   G = G - $("#no" + i).outerHeight(true);
   //$("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
   if(navigator.userAgent.indexOf("Chrome")){
-      i=i-2;
+      i=i-1;
       while (i<=20){
 	  $("#no" + i).hide();
 	  i++;
