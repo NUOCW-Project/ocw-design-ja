@@ -17,8 +17,8 @@ $(function(){
 
   G = G - $("#no" + i).outerHeight(true);
   $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
-  while (i<=20){
-      $("#no" + i).hide();
+  while (i+1<=20){
+      $("#no" + i+1).hide();
       i++;
   }
   //$("#no" + i).css("visibility", "hidden");
