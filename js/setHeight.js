@@ -18,9 +18,8 @@ $(function(){
   G = G - $("#no" + i).outerHeight(true);
   //$("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
   if(navigator.userAgent.indexOf("Chrome")){
-      alert("Chrome");
       while (i<=20){
-	  $("#no" + i).hide();
+	  $("#no" + 5).hide();
 	  i++;
       }
   }
