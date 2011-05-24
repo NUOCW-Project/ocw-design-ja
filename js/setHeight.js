@@ -19,7 +19,7 @@ $(function(){
   //$("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
   if(navigator.userAgent.indexOf("Chrome")){
       while (i<=20){
-	  $("#no" + 5).hide();
+	  $("#no" + i-1).hide();
 	  i++;
       }
   }
