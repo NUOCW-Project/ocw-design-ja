@@ -1,4 +1,5 @@
 // DOM 解析後にランキング表示を調整.
+/*
 $(function(){ 
   var H;
   H = $("#notice").outerHeight() + $("#press").outerHeight() - 8;
@@ -18,7 +19,7 @@ $(function(){
   $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
   $("#no" + i).css("visibility", "hidden");
 });
-
+*/
 $(function(){
 	$("#no11").hide();
     });
