@@ -20,5 +20,5 @@ $(function(){
 });
 
 $(function(){
-	$("no11").hide();
+	$("#no11").hide();
     });
