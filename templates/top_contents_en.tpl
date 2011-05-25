@@ -13,7 +13,7 @@
   <div id="notice_en"><!-- "News" -->
     <div class="waku">
       <img src="./images/{$lang}/t_news.png" class="subheading" alt="News" width="180" height="20">
-      <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="backnumber" width="165" height="15"></a>
+      <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="backnumber" width="105" height="15"></a>
       <br>
       <img src="./images/common/dots.png" class="dots" alt="" height="10">
         <table>

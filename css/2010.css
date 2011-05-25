@@ -1423,8 +1423,8 @@ h3.special {
 #notice_en {
         float: left;
 	width: 500px;
-        height: 500px;
-        margin: 30px 0px 0px 0px;
+        /* height: 500px; */
+        margin: 15px 0px 0px 0px;
         border-style: solid;
         border-width: 3px;
         border-color: #e7e7df;
@@ -1436,13 +1436,13 @@ h3.special {
         float: left;
         width: 165px;
         overflow: hidden;
-/*height: 255px;*/
-        margin: 0px 0 0 0;
-        padding: 0;
-        font-size: 11px;
-font-height: 12px;
-        zoom: 1;
+        /*height: 255px;*/
+        margin: 15px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
         border-style: solid;
         border-width: 1px;
 	border-color : #DDDDDD;
+        font-size: 11px;
+        font-height: 12px;
+        zoom: 1;
 }
