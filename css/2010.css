@@ -1431,6 +1431,13 @@ h3.special {
 /* セカンドページに移動し他のビデオを見るボタン */
 #more_video_button{
         float: left;
+        width: ;
+        height: 379px;
+        margin: 20px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        background: url("./images/common/student/arrow.png");
+        background-repeat: no-repeat;
+        background-position: 0px 200px;
 }
 
 /* おしらせ */
