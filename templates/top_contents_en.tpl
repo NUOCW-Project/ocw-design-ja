@@ -6,7 +6,7 @@
   <img src="./images/common/redline.gif" class="line" alt="">
   <br>
   <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics"> 
-    <img src="./images/common/student/headder.ong" id="" alt="Student Testimonials">
+    <img src="./images/common/student/headder.png" id="" alt="Student Testimonials">
   </a></div>
 
 
