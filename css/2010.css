@@ -1408,12 +1408,12 @@ h3.special {
 #student_en {
         display: block;
         float: left;
-        height: 420px;
+        height: 430px;
         width: 730px;
         margin: 0px 20px 0px -15px;
         padding: 0px 0px 20px 0px;
         background: url("../images/common/student/header.png");
-        background-position: 0px 20px;
+        background-position: 0px 30px;
         background-repeat: no-repeat;
         overflow: hidden;
 }
