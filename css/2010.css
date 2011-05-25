@@ -1392,8 +1392,32 @@ h3.special {
   font-size: x-large;
 }
 
+/** 留学生の声 **/
+.student {
+/*        float: left; */
+        margin: 0px;
+        background-color: white;
+        padding-bottom: 20px;
+        padding-left: 10px;
+        margin-right: 20px;
+        width: 710px;
+        overflow: visible;
+}
+
+/* おしらせ */
+#notice_en {
+        float: left;
+        border-style: solid;
+        border-width: 3px;
+	border-color: #e7e7df;
+	width: 332px;
+        /*height: 400px;*/
+        margin: 6px 6px 0 0;
+}
+
+
 /** 英語版Topページ関連 **/
-.greeting_en{
+#greeting_en{
         float: left;
         width: 165px;
         overflow: hidden;
@@ -1405,27 +1429,5 @@ font-height: 12px;
         zoom: 1;
         border-style: solid;
         border-width: 1px;
-        border-color : #DDDDDD;
-}
-
-.notice_en {
-        float: left;
-        border-style: solid;
-        border-width: 3px;
-        border-color: #e7e7df;
-        width: 332px;
-	/*height: 400px;*/
-        margin: 6px 6px 0 0;
-}
-
-/** 留学生の声 **/
-.student {
-        float: left;
-        margin: 0px;
-        background-color: white;
-        padding-bottom: 20px;
-        padding-left: 10px;
-        margin-right: 20px;
-        width: 710px;
-        overflow: visible;
+	border-color : #DDDDDD;
 }
