@@ -1394,11 +1394,28 @@ h3.special {
 
 /** 英語版Topページ関連 **/
 .greeting_en{
-    clear:right;
+        clear: left;
+        width: 165px;
+        overflow: hidden;
+/*height: 255px;*/
+        margin: 20px 0 0 0;
+        padding: 0;
+        font-size: 11px;
+font-height: 12px;
+        zoom: 1;
+        border-style: solid;
+        border-width: 1px;
+        border-color : #DDDDDD;
 }
 
 .notice_en {
-    clear:left;
+        clear: left;
+        border-style: solid;
+        border-width: 3px;
+        border-color: #e7e7df;
+        width: 332px;
+	/*height: 400px;*/
+        margin: 6px 6px 0 0;
 }
 
 /** 留学生の声 **/
