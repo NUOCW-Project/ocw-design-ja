@@ -1394,6 +1394,7 @@ h3.special {
 
 /** 留学生の声 **/
 .student {
+        display: block;
         float: left; 
         margin: 0px;
         background-color: white;

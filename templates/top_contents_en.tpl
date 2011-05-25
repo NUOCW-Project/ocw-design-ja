@@ -1,14 +1,10 @@
 <div class="student">
-  <div id="feature">
-    <img src="./images/common/t_topics.png" alt="Topics">
-    <br>
-    <img src="./images/common/redline.gif" class="line" alt="">
-    <br>
-    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics"> 
-      <img src="./images/common/student/header.png" id="" alt="Student Testimonials">
-    </a>
-  </div>
-</div><!-- "inline" end -->
+  <img src="./images/common/t_topics.png" alt="Topics">
+  <img src="./images/common/redline.gif" class="line" alt="">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics"> 
+    <img src="./images/common/student/header.png" alt="Student Testimonials"/>
+  </a>
+</div><!-- student" end -->
 
 <div class="inline">
 
