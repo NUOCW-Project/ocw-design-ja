@@ -93,7 +93,7 @@
     <td>{$course_info.year}{$course_info.meeting_time|nl2br}</td></tr>
     {if $course_info.class_is_for_ja}<tr>
     <td><b>対象者</b>：</td>
-    <td><div id="class_for">{$course_info.class_is_for_ja|nl2br}</div></td></tr>{/if}
+    <td>{$course_info.class_is_for_ja|nl2br}</td></tr>{/if}
     {if $course_info.f_date_ja}<tr>
     <td><b>日時</b>：</td>
     <td>{$course_info.f_date_ja} {$course_info.f_time_ja}</td></tr>{/if}
