@@ -1418,6 +1418,19 @@ h3.special {
         overflow: hidden;
 }
 
+/* インタビュービデオの枠 */
+#interview_video{
+        width: 317px;
+        height: 379px;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        background-color: #4C3521;
+}
+
+/* セカンドページに移動し他のビデオを見るボタン */
+#more_video_button{
+
+}
 
 /* おしらせ */
 #notice_en {
