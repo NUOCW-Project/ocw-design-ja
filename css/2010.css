@@ -1392,6 +1392,15 @@ h3.special {
   font-size: x-large;
 }
 
+/** 英語版Topページ関連 **/
+.greeting_en{
+    clear:right;
+}
+
+.notice_en {
+    clear:left;
+}
+
 /** 留学生の声 **/
 .student {
         float: left;

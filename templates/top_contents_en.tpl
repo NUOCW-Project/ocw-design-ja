@@ -1,16 +1,15 @@
 <div class="student">
 <div id="feature">
   <img src="./images/common/t_topics.png" alt="Topics">
-  <!--  <img src="./images/{$lang}/backno.png" class="jump"> -->
   <br>
   <img src="./images/common/redline.gif" class="line" alt="">
   <br>
   <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics"> 
     <img src="./images/common/student/header.png" id="" alt="Student Testimonials">
-  </a></div>
+  </a>
+</div>
 
-
-<div id="greeting"><!-- "greeting" -->    
+<div id="greeting_en"><!-- "greeting" -->    
   <img src="./images/{$lang}/goaisatu.png" alt="
     Ichiro Yamamoto, Chairperson, OpenCourseWare Committee, Nagoya University,
     Here at the NU OCW website we have gathered notes and materials from lectures given at Nagoya University.
@@ -22,7 +21,7 @@
 
 <div class="inline">
 
-<div id="notice"><!-- "News" -->
+<div id="notice_en"><!-- "News" -->
 <div class="waku">
   <img src="./images/{$lang}/t_news.png" class="subheading" alt="News" width="180" height="20">
   <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="backnumber" width="65" height="15"></a>
