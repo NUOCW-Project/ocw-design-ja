@@ -2,12 +2,12 @@
   <img src="./images/common/t_topics.png" alt="Topics">
   <img src="./images/common/redline.gif" class="line" alt="">
   <!-- ビデオクリップを読み込む枠 -->
-  <div>
-    ここにビデオを読み込む。
+  <div id="interview_video">
+    aVideo
   </div>
   <!-- セカンドページに移動 -->
-  <div>
-    <a href="#"><img src="./images/common/student/morevideos.png"/></a>
+  <div id="more_video_button">
+    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics"><img src="./images/common/student/morevideos.png"/></a>
   </div>
 </div><!-- student" end -->
 
