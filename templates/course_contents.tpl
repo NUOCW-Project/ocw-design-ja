@@ -89,7 +89,7 @@
   <div id="data"><!-- 背景灰色のボックス -->
   <table>
   <tr>
-    <td width=10 aline=left><b>授業時間</b>：</td>
+    <td width=30 aline=left><b>授業時間</b>：</td>
     <td>{$course_info.year}{$course_info.meeting_time|nl2br}</td></tr>
     {if $course_info.class_is_for_ja}<tr>
     <td><b>対象者</b>：</td>
