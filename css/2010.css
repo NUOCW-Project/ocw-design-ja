@@ -1437,7 +1437,7 @@ h3.special {
         width: 165px;
         overflow: hidden;
         /*height: 255px;*/
-        margin: 15px 0px 0px 0px;
+        margin: 15px 0px 0px 10px;
         padding: 0px 0px 0px 0px;
         border-style: solid;
         border-width: 1px;
