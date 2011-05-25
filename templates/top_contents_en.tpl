@@ -9,8 +9,8 @@
   <div id="more_video_button">
     <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics">
        <img src="./images/common/student/morevideos.png"
-       	    onMouseOver="this.src="./images/common/student/morevideos_on.png"
-	    onMouseOut="this.src="./images/common/student/morevideos.png"
+       	    onMouseOver="this.src="'./images/common/student/morevideos_on.png'"
+	    onMouseOut="this.src="'./images/common/student/morevideos.png'"
 	    alt="more videos"/>
     </a>
   </div>
