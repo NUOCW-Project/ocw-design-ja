@@ -21,7 +21,7 @@
 
 <div class="inline">
 
-<div id="notice_en"><!-- "News" -->
+<div id="notice"><!-- "News" -->
 <div class="waku">
   <img src="./images/{$lang}/t_news.png" class="subheading" alt="News" width="180" height="20">
   <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="backnumber" width="65" height="15"></a>
