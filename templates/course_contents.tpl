@@ -87,10 +87,20 @@
   <h2>{$course_info.course_name}</h2>
       
   <div id="data"><!-- 背景灰色のボックス -->
-    <b>授業時間</b>：{$course_info.year}{$course_info.meeting_time|nl2br}
-    {if $course_info.class_is_for_ja}<br><b>　対象者</b>：<div id="class_for">{$course_info.class_is_for_ja|nl2br}</div>{/if}
-    {if $course_info.f_date_ja}<br><b>　　日時</b>：{$course_info.f_date_ja} {$course_info.f_time_ja}{/if}
-    {if $course_info.f_place_ja}<br><b>　　場所</b>：{$course_info.f_place_ja}{/if}
+  <table>
+  <tr>
+    <td width=65 align="right"><b>授業時間</b>：</td>
+    <td aline=left>{$course_info.year}{$course_info.meeting_time|nl2br}</td></tr>
+    {if $course_info.class_is_for_ja}<tr>
+    <td width=65 align="right" valign="top"><b>対象者</b>：</td>
+    <td>{$course_info.class_is_for_ja|nl2br}</td></tr>{/if}
+    {if $course_info.f_date_ja}<tr>
+    <td width=65 align="right"><b>日時</b>：</td>
+    <td>{$course_info.f_date_ja} {$course_info.f_time_ja}</td></tr>{/if}
+    {if $course_info.f_place_ja}<tr>
+    <td widht=65 align="right"><b>場所</b>：</td>
+    <td>{$course_info.f_place_ja}</td></tr>{/if}
+    </table>
   </div>
 </div><!--"caption" end-->
 {/if}    
