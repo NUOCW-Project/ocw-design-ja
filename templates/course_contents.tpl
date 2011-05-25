@@ -95,10 +95,10 @@
     <td width=65 align="right" valign="top"><b>対象者</b>：</td>
     <td>{$course_info.class_is_for_ja|nl2br}</td></tr>{/if}
     {if $course_info.f_date_ja}<tr>
-    <td><b>日時</b>：</td>
+    <td width=65 align="right"><b>日時</b>：</td>
     <td>{$course_info.f_date_ja} {$course_info.f_time_ja}</td></tr>{/if}
     {if $course_info.f_place_ja}<tr>
-    <td><b>場所</b>：</td>
+    <td widht=65 align="right"><b>場所</b>：</td>
     <td>{$course_info.f_place_ja}</td></tr>{/if}
     </table>
   </div>
