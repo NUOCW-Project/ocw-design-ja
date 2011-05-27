@@ -1,0 +1,107 @@
+body{
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  background-color: #FFFFFF;
+}
+
+/* 上部タイトル部分の外枠 */
+#top_box{
+  width: 710px;
+  height: 400px;
+  margin: 0px 0px 0px 0px;
+  padding: 20px 0px 0px 20px;
+  background: url("./image/header.png");
+  background-repeat: no-repeat;
+  background-color: #FFFFCC; /* 大きさがわかるように色をつけておく */
+}
+
+/* ビデオが読み込まれる茶色の枠 */
+#top_video{
+  width: 317px;
+  height: 379px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  color: #FFFFFF; /* #E74AAE だと思われるが後で差し替え。body に設定か */
+  background-color: #4C3521; /* だと思われるが後で確認 */
+}
+
+/* 動画リストの最も外側の枠 */
+#list_box{
+  width: 730px;
+  height: 430px; /* 80px * 5 + 2px * 6 で 5 段分 + セルの隙間 */
+  overflow: hidden; /* スクロール不可能にしておく */
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  background-color: #CCFFFF; /* 大きさがわかるように色をつけておく */
+}
+
+/* 動画リストの各テーマごとの仮想枠 */
+.theme_box{
+  width: 730px;
+  height: 430px; /* 80px * 5 + 2px * 6 で 5 段分 + セルの隙間 */
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+
+/* テーマ切り替えタブの外枠 */
+#theme_tub{
+  width: 730px;
+  height: 70px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  background-color: #AAFFAA; /* 大きさがわかるように色をつけておく */
+}
+
+/* タブの中身 */
+.tub_button{
+  float: left;
+  /* ボタンの間を詰めるためにとりあえず幅は指定しない */
+  height: 70px
+}
+
+/* リスト左側のテーマ別の柱 */
+.list_header{
+  float: left;
+  width: 160px;
+  height: 400px;
+  background-color: #AAAAFF
+}
+
+/* 動画リストの表 */
+table.list_table{
+  float: left;
+  width: 556px; /* 枠の分 -2px */
+  border: solid 1px #E74AAE;
+  border-collapse: collapse;
+}
+
+/* 表のサムネイル列 */
+.thumbnail{
+  width: 110px;
+}
+
+/* セルの高さと枠線 */
+.list_table td{
+  border-top: solid 1px #E74AAE;
+  border-bottom: solid 1px #E74AAE; /* 中央は枠線なし */
+  height: 80px; /* 列からは指定できないのでこちらで指定 */
+}
+
+/* 奇数行デザイン */
+.odd_row{
+  background-color: #F7EEF3;
+}
+
+/* 偶数行デザイン */
+.even_row{
+  background-color: #FFFFFF;
+}
+
+/* 回り込み解除用の便宜的な DIV 要素 */
+/* 本当はよい実装ではないと思われる */
+.clear_div{
+  clear: both;
+}
+
+
