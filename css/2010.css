@@ -1333,7 +1333,7 @@ div.faq_color{
 
 /** ごあいさつ **/
 p.welcome_b{
-	font-ize: large;
+	font-size: large;
 	color: #666666;
 	font-weight: bold;
 	padding: 0;
@@ -1468,7 +1468,7 @@ h3.special {
         zoom: 1;
 }
 
-#interview_video h3{
+h3.interview_video{
         font-size: 50px
 }
 
