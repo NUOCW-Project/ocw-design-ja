@@ -4,7 +4,7 @@
     ここにビデオが読み込まれます。テキスト色は要変更。
   </div>
 </div>
-
+About Life in Japan
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
   <div class="tub_button">
