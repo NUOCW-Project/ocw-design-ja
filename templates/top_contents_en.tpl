@@ -2,7 +2,7 @@
   <img src="./images/common/t_topics.png" alt="Topics">
   <img src="./images/common/redline.gif" class="line" alt="">
   <!-- ビデオクリップを読み込む枠 -->
-  <div id="interview_title">
+  <div id="testw_title">
     About life in Japan
   </div>  
   <div id="interview_video">
