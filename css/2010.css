@@ -222,7 +222,7 @@ a:hover{
 	}
 
 *html .main_back_url img{
-	position: expression('absolute');
+        position: expression('absolute');
 	top: expression(documentElement.scrollTop + 90 + 'px');
 	left: expression(documentElement.scrollLeft + 1260 + 'px');
 }
@@ -1467,3 +1467,8 @@ h3.special {
         font-height: 12px;
         zoom: 1;
 }
+
+#interview_title{
+        font-family: sans-serif;
+}
+
