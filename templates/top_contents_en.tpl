@@ -3,7 +3,12 @@
   <img src="./images/common/redline.gif" class="line" alt="">
   <!-- ビデオクリップを読み込む枠 -->
   <div id="interview_video">
-    aVideo
+    <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="317" height="379">
+      <param name="movie" value="player.swf">
+      <param name="quality" value="high">
+      <param name="wmode" value="transparent">
+      <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/ryugaku_seikatsu.flv">
+    </object>
   </div>
   <!-- セカンドページに移動 -->
   <div id="more_video_button">
