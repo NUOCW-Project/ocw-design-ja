@@ -23,7 +23,7 @@ About Life in Japan
 <!-- 画面下部の動画のリスト -->
 <div id="list_box">
 
-
+  <!-- テーマ1 日本語について -->
   <div id="about_japan" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header01.png"/>
@@ -33,23 +33,23 @@ About Life in Japan
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>動画「日本について」その1</td>
+        <td>1</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan02.png"/></td>
-        <td>動画「日本について」その2</td>
+        <td>2</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan03.png"/></td>
-        <td>動画「日本について」その3</td>
+        <td>3</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan04.png"/></td>
-        <td>動画「日本について」その4</td>
+        <td>4</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan04.png"/></td>
-        <td>動画「日本について」その5</td>
+        <td>5</td>
       </tr>
     </table>
   </div>
