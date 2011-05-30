@@ -29,7 +29,7 @@ About Life in Japan
       <img src="../images/common/student_testimonials/list_header01.png"/>
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ¡¦¥ª¡¦à§¥Ø¡¦¡¢¡¦ö¦¥Û¥Ûó¤ò¥°¥ë¡¼¥Ô¥ó¥-->
+      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
@@ -62,7 +62,7 @@ About Life in Japan
       <img src="../images/common/student_testimonials/list_header02.png"/>
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ¡¦¥ª¡¦à§¥Ø¡¦¡¢¡¦ö¦¥Û¥Ûó¤ò¥°¥ë¡¼¥Ô¥ó¥-->
+      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
@@ -81,13 +81,13 @@ About Life in Japan
   <div class="clear_div">
   </div>
 
-  <!-- ¡¦¥Ë¡£¥·¡¦¡«3 ¥Õ¥»¥¯¥Ê¥¤¡¼¥Äîµ¥ê¡¢¥Ò¡¢¥È¡¢¡¢¡¢¥Ë -->
+  <!-- ¥Æ¡¼¥Þ3 Ì¾¸Å²°Âç³Ø¤Ë¤Ä¤¤¤Æ -->
   <div id="about_nagoya_university" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header03.png"/>
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ¡¦¥ª¡¦à§¥Ø¡¦¡¢¡¦ö¦¥Û¥Ûó¤ò¥°¥ë¡¼¥Ô¥ó¥-->
+      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
