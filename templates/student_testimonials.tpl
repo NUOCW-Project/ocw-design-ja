@@ -23,83 +23,83 @@ About Life in Japan
 <!-- ²èÌÌ²¼Éô¤ÎÆ°²è¤Î¥ê¥¹¥È -->
 <div id="list_box">
 
-  <!-- ƒe[ƒ}1 “ú–{‚É‚Â‚¢‚Ä -->
+  <!-- ¥Æ¡¼¥Þ1 ÆüËÜ¤Ë¤Ä¤¤¤Æ -->
   <div id="about_japan" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header01.png"/>
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
+      <colgroup class="thumbnail"></colgroup> <!-- ¡¦¥ª¡¦à§¥Ø¡¦¡¢¡¦ö¦¥Û¥Ûó¤ò¥°¥ë¡¼¥Ô¥ó¥-->
       <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì1</td>
+        <td>Æ°²è¡ÖÆüËÜ¤Ë¤Ä¤¤¤Æ¡×¤½¤Î1</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan02.png"/></td>
-        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì2</td>
+        <td>Æ°²è¡ÖÆüËÜ¤Ë¤Ä¤¤¤Æ¡×¤½¤Î2</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan03.png"/></td>
-        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì3</td>
+        <td>Æ°²è¡ÖÆüËÜ¤Ë¤Ä¤¤¤Æ¡×¤½¤Î3</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan04.png"/></td>
-        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì4</td>
+        <td>Æ°²è¡ÖÆüËÜ¤Ë¤Ä¤¤¤Æ¡×¤½¤Î4</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan04.png"/></td>
-        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì5</td>
+        <td>Æ°²è¡ÖÆüËÜ¤Ë¤Ä¤¤¤Æ¡×¤½¤Î5</td>
       </tr>
     </table>
   </div>
   <div class="clear_div">
   </div>
 
-  <!-- ƒe[ƒ}2 “ú–{Œê‚É‚Â‚¢‚Ä -->
+  <!-- ¥Æ¡¼¥Þ2 ÆüËÜ¸ì¤Ë¤Ä¤¤¤Æ -->
   <div id="about_japanese" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header02.png"/>
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
+      <colgroup class="thumbnail"></colgroup> <!-- ¡¦¥ª¡¦à§¥Ø¡¦¡¢¡¦ö¦¥Û¥Ûó¤ò¥°¥ë¡¼¥Ô¥ó¥-->
       <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>“®‰æu“ú–{Œê‚É‚Â‚¢‚Äv‚»‚Ì1</td>
+        <td>Æ°²è¡ÖÆüËÜ¸ì¤Ë¤Ä¤¤¤Æ¡×¤½¤Î1</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>“®‰æu“ú–{Œê‚É‚Â‚¢‚Äv‚»‚Ì2</td>
+        <td>Æ°²è¡ÖÆüËÜ¸ì¤Ë¤Ä¤¤¤Æ¡×¤½¤Î2</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>“®‰æu“ú–{Œê‚É‚Â‚¢‚Äv‚»‚Ì3</td>
+        <td>Æ°²è¡ÖÆüËÜ¸ì¤Ë¤Ä¤¤¤Æ¡×¤½¤Î3</td>
       </tr>
     </table>
   </div>
   <div class="clear_div">
   </div>
 
-  <!-- ¥Æ¡¼¥Þ3 Ì¾¸Å²°Âç³Ø¤Ë¤Ä¤¤¤Æ -->
+  <!-- ¡¦¥Ë¡£¥·¡¦¡«3 ¥Õ¥»¥¯¥Ê¥¤¡¼¥Äîµ¥ê¡¢¥Ò¡¢¥È¡¢¡¢¡¢¥Ë -->
   <div id="about_nagoya_university" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header03.png"/>
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
+      <colgroup class="thumbnail"></colgroup> <!-- ¡¦¥ª¡¦à§¥Ø¡¦¡¢¡¦ö¦¥Û¥Ûó¤ò¥°¥ë¡¼¥Ô¥ó¥-->
       <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>“®‰æu–¼ŒÃ‰®‘åŠw‚É‚Â‚¢‚Äv‚»‚Ì1</td>
+        <td>Æ°²è¡ÖÌ¾¸Å²°Âç³Ø¤Ë¤Ä¤¤¤Æ¡×¤½¤Î1</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>“®‰æu–¼ŒÃ‰®‘åŠw‚É‚Â‚¢‚Äv‚»‚Ì2</td>
+        <td>Æ°²è¡ÖÌ¾¸Å²°Âç³Ø¤Ë¤Ä¤¤¤Æ¡×¤½¤Î2</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>“®‰æu–¼ŒÃ‰®‘åŠw‚É‚Â‚¢‚Äv‚»‚Ì3</td>
+        <td>Æ°²è¡ÖÌ¾¸Å²°Âç³Ø¤Ë¤Ä¤¤¤Æ¡×¤½¤Î3</td>
       </tr>
     </table>
   </div>
