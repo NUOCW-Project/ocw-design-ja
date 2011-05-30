@@ -23,7 +23,7 @@ About Life in Japan
 <!-- 画面下部の動画のリスト -->
 <div id="list_box">
 
-  <!-- テーマ1 日本語について -->
+
   <div id="about_japan" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header01.png"/>
