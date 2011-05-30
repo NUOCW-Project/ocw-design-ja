@@ -56,7 +56,7 @@ About Life in Japan
   <div class="clear_div">
   </div>
 
-  <!-- テーマ2 日本語について -->
+
   <div id="about_japanese" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header02.png"/>
@@ -66,15 +66,15 @@ About Life in Japan
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>動画「日本語について」その1</td>
+        <td>1</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>動画「日本語について」その2</td>
+        <td>2</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>動画「日本語について」その3</td>
+        <td>3</td>
       </tr>
     </table>
   </div>
@@ -91,15 +91,15 @@ About Life in Japan
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>動画「名古屋大学について」その1</td>
+        <td>1</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>動画「名古屋大学について」その2</td>
+        <td>2</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>動画「名古屋大学について」その3</td>
+        <td>3</td>
       </tr>
     </table>
   </div>
