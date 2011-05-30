@@ -1,11 +1,11 @@
-<!-- ‰æ–Êã•”‚ÌÅ‚à‘å‚«‚È—v‘f -->
+<!-- ²èÌÌ¾åÉô¤ÎºÇ¤âÂç¤­¤ÊÍ×ÁÇ -->
 <div id="top_box">
   <div id="top_video">
-    ‚±‚±‚ÉƒrƒfƒI‚ª“Ç‚Ýž‚Ü‚ê‚Ü‚·BƒeƒLƒXƒgF‚Í—v•ÏXB
+    ¤³¤³¤Ë¥Ó¥Ç¥ª¤¬ÆÉ¤ß¹þ¤Þ¤ì¤Þ¤¹¡£¥Æ¥­¥¹¥È¿§¤ÏÍ×ÊÑ¹¹¡£
   </div>
 </div>
 About Life in Japan
-<!-- ’†‰›‚Ìƒe[ƒ}Ø‚è‘Ö‚¦—pƒ^ƒu -->
+<!-- Ãæ±û¤Î¥Æ¡¼¥ÞÀÚ¤êÂØ¤¨ÍÑ¥¿¥Ö -->
 <div id="theme_tub">
   <div class="tub_button">
     <a href="#about_japan"><img src="../images/common/student_testimonials/title01.png"/></a>
@@ -20,86 +20,86 @@ About Life in Japan
 <div class="clear_div">
 </div>
 
-<!-- ‰æ–Ê‰º•”‚Ì“®‰æ‚ÌƒŠƒXƒg -->
+<!-- ²èÌÌ²¼Éô¤ÎÆ°²è¤Î¥ê¥¹¥È -->
 <div id="list_box">
 
-
+  <!-- ƒe[ƒ}1 “ú–{‚É‚Â‚¢‚Ä -->
   <div id="about_japan" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header01.png"/>
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ƒTƒ€ƒlƒCƒ‹‚Ì—ñ‚ðƒOƒ‹[ƒsƒ“ƒO -->
-      <colgroup class="title_name"></colgroup> <!-- ƒ^ƒCƒgƒ‹‚Æ–¼‘O‚Ì—ñ‚ðƒOƒ‹[ƒsƒ“ƒO -->
+      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
+      <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>1</td>
+        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì1</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan02.png"/></td>
-        <td>2</td>
+        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì2</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan03.png"/></td>
-        <td>3</td>
+        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì3</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan04.png"/></td>
-        <td>4</td>
+        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì4</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan04.png"/></td>
-        <td>5</td>
+        <td>“®‰æu“ú–{‚É‚Â‚¢‚Äv‚»‚Ì5</td>
       </tr>
     </table>
   </div>
   <div class="clear_div">
   </div>
 
-
+  <!-- ƒe[ƒ}2 “ú–{Œê‚É‚Â‚¢‚Ä -->
   <div id="about_japanese" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header02.png"/>
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ƒTƒ€ƒlƒCƒ‹‚Ì—ñ‚ðƒOƒ‹[ƒsƒ“ƒO -->
-      <colgroup class="title_name"></colgroup> <!-- ƒ^ƒCƒgƒ‹‚Æ–¼‘O‚Ì—ñ‚ðƒOƒ‹[ƒsƒ“ƒO -->
+      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
+      <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>1</td>
+        <td>“®‰æu“ú–{Œê‚É‚Â‚¢‚Äv‚»‚Ì1</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>2</td>
+        <td>“®‰æu“ú–{Œê‚É‚Â‚¢‚Äv‚»‚Ì2</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>3</td>
+        <td>“®‰æu“ú–{Œê‚É‚Â‚¢‚Äv‚»‚Ì3</td>
       </tr>
     </table>
   </div>
   <div class="clear_div">
   </div>
 
-  <!-- ƒe[ƒ}3 –¼ŒÃ‰®‘åŠw‚É‚Â‚¢‚Ä -->
+  <!-- ¥Æ¡¼¥Þ3 Ì¾¸Å²°Âç³Ø¤Ë¤Ä¤¤¤Æ -->
   <div id="about_nagoya_university" class="theme_box">
     <div class="list_header">
       <img src="../images/common/student_testimonials/list_header03.png"/>
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ƒTƒ€ƒlƒCƒ‹‚Ì—ñ‚ðƒOƒ‹[ƒsƒ“ƒO -->
-      <colgroup class="title_name"></colgroup> <!-- ƒ^ƒCƒgƒ‹‚Æ–¼‘O‚Ì—ñ‚ðƒOƒ‹[ƒsƒ“ƒO -->
+      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
+      <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>1</td>
+        <td>“®‰æu–¼ŒÃ‰®‘åŠw‚É‚Â‚¢‚Äv‚»‚Ì1</td>
       </tr>
       <tr class="even_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>2</td>
+        <td>“®‰æu–¼ŒÃ‰®‘åŠw‚É‚Â‚¢‚Äv‚»‚Ì2</td>
       </tr>
       <tr class="odd_row">
         <td><img src="../images/common/student_testimonials/v_about_japan01.png"/></td>
-        <td>3</td>
+        <td>“®‰æu–¼ŒÃ‰®‘åŠw‚É‚Â‚¢‚Äv‚»‚Ì3</td>
       </tr>
     </table>
   </div>
