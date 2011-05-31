@@ -27,6 +27,7 @@
 
 <div id="cse" style="width: 100%;">Loading</div>
 <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+{literal}
 <script type="text/javascript"> 
   google.load('search', '1', {language : 'ja', style : google.loader.themes.GREENSKY});
   google.setOnLoadCallback(function() {
@@ -149,6 +150,7 @@
     color: #815FA7;
   }
 </style>
+{/literal}
 
           <div class="header_button_akf">
             <a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
