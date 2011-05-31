@@ -24,10 +24,12 @@
           <!-- Englishボタン -->
           {include file="com_lang.tpl"}
           <!-- AKF検索 -->
+	  <!-- GOOGLE検索 -->
 	  <div id="cse" style="width: 100%;">Loading</div>
 	  <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 	  <script src="./js/googleSearch.js" type="text/javascript"></script>
 	  <link rel="stylesheet" type="text/css" href="css/googleSearch.css">
+	  <!-- ここまで GOOGLE検索 -->
           <div class="header_button_akf">
             <a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
             <img src="./images/{$lang}/akf.png" alt="AKF Search" align="left"></a>
