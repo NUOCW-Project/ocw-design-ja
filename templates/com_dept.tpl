@@ -28,6 +28,10 @@
 {/strip}
 {/literal}
 
+<!-- twitterの案内 --->
+<a href="http://www.twitter.com/nuocw"><img src="http://twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"/></a>
+
+
 <!-- Podcastの案内 -->
 <div id="podcast_waku">
 <div id="aboutpodcast_image">
