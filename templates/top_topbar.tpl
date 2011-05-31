@@ -30,6 +30,7 @@
 	  <script src="./js/googleSearch.js" type="text/javascript"></script>
 	  <link rel="stylesheet" type="text/css" href="css/googleSearch.css">
 	  <!-- ここまで GOOGLE検索 -->
+	  <!--
           <div class="header_button_akf">
             <a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
             <img src="./images/{$lang}/akf.png" alt="AKF Search" align="left"></a>
@@ -41,6 +42,7 @@
             </div><!-- "header_button_input" end -->
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
               <input type="image" src="./images/common/search.png" alt="{if $lang=='ja'}検索する{else}Search{/if}">
+	      -->
             </div> <!-- "header_button_search" end -->
           </form>
         </div><!-- "header_button_sub" end -->
