@@ -873,6 +873,7 @@ table.basic th, table.farewell th, table.relay th{
 
 table.basic td, table.farewell td, table.relay td{
 	border: 1px solid #999999;
+  padding: 0 10px;
 }
 
 table.basic ul, table.basic ol {
