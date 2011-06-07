@@ -875,10 +875,12 @@ table.basic td, table.farewell td, table.relay td{
 	border: 1px solid #999999;
 }
 
-table.basic ul, table.farewell ul, table.relay ul{
+table.basic ul{
 	padding-left: 1em;
 }
-
+table.basic ul li{
+  margin-left: 1em;
+}
 
 /* -----------------Course Contents ---------------*/
 span.i{
