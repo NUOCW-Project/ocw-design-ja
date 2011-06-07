@@ -876,8 +876,11 @@ table.basic td, table.farewell td, table.relay td{
   padding: 0 10px;
 }
 
+table.basic h4 {
+  margin: 10px 0 0 5px; 
+}
 table.basic ul, table.basic ol {
-	padding-left: 40px;
+	padding-left: 25px;
   margin: 10px 0;
 }
 
