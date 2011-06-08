@@ -830,14 +830,14 @@ td.topics_date{
 	margin: 1em 0 auto auto;
 	text-align: center;
 	font-size: 11px;	
-	position: relative;
+	position: static;
 	left: 205px;
 }
 
 .nu{
 	/*font-size: 11px; */
 	margin: 0px;
-	float: none; 
+	float: left; 
 	text-align: center;
 	padding-bottom: 30px;
 }
