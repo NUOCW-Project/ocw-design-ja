@@ -830,7 +830,7 @@ td.topics_date{
 	margin: 1em 0 auto auto;
 	text-align: center;
 	font-size: 11px;	
-	position: static;
+	position: relative;
 	left: 664px;
 }
 
