@@ -831,13 +831,13 @@ td.topics_date{
 	text-align: center;
 	font-size: 11px;	
 	position: relative;
-	left: 405px;
+	left: 205px;
 }
 
 .nu{
 	/*font-size: 11px; */
 	margin: 0px;
-	float: left; 
+	float: none; 
 	text-align: center;
 	padding-bottom: 30px;
 }
