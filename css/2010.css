@@ -831,7 +831,7 @@ td.topics_date{
 	text-align: center;
 	font-size: 11px;	
 	position: relative;
-	left: 305px;
+	left: 405px;
 }
 
 .nu{
@@ -873,21 +873,12 @@ table.basic th, table.farewell th, table.relay th{
 
 table.basic td, table.farewell td, table.relay td{
 	border: 1px solid #999999;
-  padding: 0 5px;
 }
 
-table.basic h4 {
-  margin: 10px 0 0 5px; 
+table.basic ul, table.farewell ul, table.relay ul{
+	padding-left: 1em;
 }
 
-table.basic p {
-  margin: 5px 0;
-}
-
-table.basic ul, table.basic ol {
-	padding-left: 25px;
-  margin: 10px 0;
-}
 
 /* -----------------Course Contents ---------------*/
 span.i{
