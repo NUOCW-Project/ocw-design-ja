@@ -836,6 +836,7 @@ td.topics_date{
 }
 
 #test {
+        clear: both;
         margin: 0px;
 	padding: 0px;
 }
