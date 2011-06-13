@@ -831,10 +831,20 @@ table.basic th, table.farewell th, table.relay th{
 
 table.basic td, table.farewell td, table.relay td{
 	border: 1px solid #999999;
+  padding: 0 5px;
 }
 
-table.basic ul, table.farewell ul, table.relay ul{
-	padding-left: 1em;
+table.basic h4 {
+  margin: 10px 0 0 5px; 
+}
+
+table.basic p {
+  margin: 5px 0;
+}
+
+table.basic ul, table.basic ol {
+	padding-left: 25px;
+  margin: 10px 0;
 }
 
 
