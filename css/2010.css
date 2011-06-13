@@ -830,6 +830,7 @@ td.topics_date{
 
 #proviso {
 	margin: 1em auto auto auto;
+	clear: both;
 	font-size: 11px;
 }
 
