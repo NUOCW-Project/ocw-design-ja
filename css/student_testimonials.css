@@ -10,7 +10,7 @@ body{
   height: 400px;
   margin: 0px 0px 0px 0px;
   padding: 20px 0px 0px 20px;
-  background: url("./images/common/student/header.png");
+  background: url("../images/common/student/header.png");
   background-repeat: no-repeat;
   background-color: #FFFFCC; /* ‘å‚«‚³‚ª‚í‚©‚é‚æ‚¤‚ÉF‚ğ‚Â‚¯‚Ä‚¨‚­ */
 }
