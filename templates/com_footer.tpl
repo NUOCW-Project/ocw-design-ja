@@ -39,8 +39,8 @@
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
   </ul>
 
- </div><!-- "footer" end --> 
-<div class="footer_bottom">  
+</div><!-- "footer" end --> 
+<div id="footer_bottom">  
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">
       <img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="{if $lang=='ja'}名大の授業について{else}About OCW{/if}"
