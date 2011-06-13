@@ -805,8 +805,8 @@ td.topics_date{
 	padding: 0;
 	clear: both;
 	list-style-type: none;
-	position: relative;
-	left: 205px;
+/*	position: relative;
+	left: 205px;*/
 }
 
 	#link li{
@@ -827,12 +827,11 @@ td.topics_date{
 	margin: -5px; 
 }
 
- #proviso {
+#proviso {
 	margin: 1em 0 auto auto;
 	text-align: center;
 	font-size: 11px;	
 	position: relative;
-	left: 355px;
 }
 
 .nu{
