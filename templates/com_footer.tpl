@@ -66,7 +66,7 @@
         onMouseOut="this.src='./images/{$lang}/c05link.png'"></a></li>
   </ul>
   
-  <div id="proviso"> 
+  <div id="proviso">
     <a href="http://www.nagoya-u.ac.jp/" target="_blank"><img src="./images/common/nu.png" class="nu" alt=""></a>
     <p class="nu">
     {if $lang=='ja'}
