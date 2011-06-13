@@ -839,7 +839,7 @@ td.topics_date{
 	/*font-size: 11px; */
 	margin: 0px;
 	float: left; 
-	padding-left: auto;
+	padding-left: 100px;
 	padding-right: auto;
 	padding-bottom: 30px;
 }
