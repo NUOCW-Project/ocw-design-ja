@@ -33,7 +33,7 @@
 </div>
 <div id="aboutpodcast_sentence">
 {if $lang=='ja'}
-        <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/vs.png" ></a>
+        <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/vs.png" alt="RSS"></a>
         を iTunes の "Podcast" にドラッグ＆ドロップすると、ポッドキャストが登録されます。
 <br>
         （iTunesは最新版をお使いください）
