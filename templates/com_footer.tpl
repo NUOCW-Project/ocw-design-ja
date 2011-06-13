@@ -67,18 +67,16 @@
   </ul>
   
   <div id="proviso">
-  <div id="test">
     <a href="http://www.nagoya-u.ac.jp/" target="_blank"><img src="./images/common/nu.png" class="nu" alt=""></a>
     <p class="nu">
     {if $lang=='ja'}
     名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
-    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます
+    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">「名大の授業について」</a>の記載条件のもとで利用することができます。
     {else}
     OCW website, and all course materials made public on this site, <br>
     may be used under the terms and conditions listed under <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">"About OCW"</a>.
     {/if}
     </p>
-  </div>
   </div>
 </div><!-- "footer_bottom" end-->
 
