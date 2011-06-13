@@ -25,7 +25,7 @@
 {/literal}
 
 <!-- twitterの案内 --->
-<a href="http://www.twitter.com/nuocw"><img src="http://twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"/></a>
+<a href="http://www.twitter.com/nuocw"><img src="http://twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"></a>
 
 
 <!-- Podcastの案内 -->
@@ -35,7 +35,7 @@
 </div>
 <div id="aboutpodcast_sentence">
 {if $lang=='ja'}
-        <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/vs.png" ></a>
+        <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/vs.png" alt="RSS"></a>
         を iTunes の "Podcast" にドラッグ＆ドロップすると、ポッドキャストが登録されます。
 <br>
         （iTunesは最新版をお使いください）
