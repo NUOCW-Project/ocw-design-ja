@@ -67,6 +67,7 @@
   </ul>
   
   <div id="proviso">
+  <div id="test">
     <a href="http://www.nagoya-u.ac.jp/" target="_blank"><img src="./images/common/nu.png" class="nu" alt=""></a>
     <p class="nu">
     {if $lang=='ja'}
@@ -77,6 +78,7 @@
     may be used under the terms and conditions listed under <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">"About OCW"</a>.
     {/if}
     </p>
+  </div>
   </div>
 </div><!-- "footer_bottom" end-->
 
