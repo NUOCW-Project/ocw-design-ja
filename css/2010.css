@@ -751,20 +751,22 @@ e_text h4 {
 		margin-bottom: 1ex;
 	}
 
-.footer_bottom{
+#footer_bottom{
 	position: relative; 
 	overflow: hidden;
+	padding-left: 205px;
 	background-color: #ecece6;
 	}
 
 
 #link {
 	margin: 1em 0 auto auto;
-	padding: 0;
+	padding-left: auto;
+	padding-right: auto;
 	clear: both;
 	list-style-type: none;
-	position: relative;
-	left: 205px;
+/*	position: relative;
+	left: 205px;*/
 }
 
 	#link li{
@@ -785,25 +787,22 @@ e_text h4 {
 	margin: -5px; 
 }
 
- #proviso {
+#proviso {
 	margin: 1em 0 auto auto;
-	text-align: center;
-	font-size: 11px;	
-	position: relative;
-	left: 205px;
+	padding-left: 150px;
+	clear: both;
+	font-size: 11px;
 }
 
 .nu{
 	/*font-size: 11px; */
 	margin: 0px;
 	float: left; 
-	text-align: center;
 	padding-bottom: 30px;
 }
 
 /** footer ½ªÎ» **/
  
-
 ul#departmentslist a{
 	font-weight: 500;
 }
@@ -832,21 +831,12 @@ table.basic th, table.farewell th, table.relay th{
 
 table.basic td, table.farewell td, table.relay td{
 	border: 1px solid #999999;
-  padding: 0 5px;
 }
 
-table.basic h4 {
-  margin: 10px 0 0 5px; 
+table.basic ul, table.farewell ul, table.relay ul{
+	padding-left: 1em;
 }
 
-table.basic p {
-  margin: 5px 0;
-}
-
-table.basic ul, table.basic ol {
-	padding-left: 25px;
-  margin: 10px 0;
-}
 
 /* -----------------Course Contents ---------------*/
 span.i{
