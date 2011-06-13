@@ -796,7 +796,7 @@ td.topics_date{
 	position: relative; 
 	overflow: hidden;
 	padding-left: 205px;
-/*	background-color: #ecece6;*/	}
+	background-color: #ecece6;	}
 
 
 #link {
@@ -831,6 +831,7 @@ td.topics_date{
 	margin: 1em 0 auto auto;
 	padding-left: auto;
 	padding-right: auto;
+	clear: both;
 	font-size: 11px;
 	background-color: #DD0100;
 }
