@@ -833,6 +833,7 @@ td.topics_date{
 	padding-left: auto;
 	padding-right: auto;
 	font-size: 11px;
+	background-color: yellow;
 }
 
 .nu{
@@ -846,7 +847,6 @@ td.topics_date{
 
 /** footer ½ªÎ» **/
  
-
 ul#departmentslist a{
 	font-weight: 500;
 }
