@@ -829,9 +829,13 @@ td.topics_date{
 }
 
 #proviso {
-	margin: 1em auto auto auto;
+	margin: 1em 0 auto auto;
 	clear: both;
 	font-size: 11px;
+}
+
+#test {
+        margin: auto; 
 }
 
 .nu{
