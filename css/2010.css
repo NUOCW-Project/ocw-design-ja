@@ -830,18 +830,20 @@ td.topics_date{
 
 #proviso {
 	margin: 1em 0 auto auto;]
-/*	padding-left: auto;
-	padding-right: auto;*/
-        text-align: center;
+	padding-left: auto;
+	padding-right: auto;
 	font-size: 11px;
+}
+
+#test {
+        margin: 0px;
+	padding: 0px;
 }
 
 .nu{
 	/*font-size: 11px; */
 	margin: 0px;
 	float: left; 
-	padding-left: auto;
-	padding-right: auto;
 	padding-bottom: 30px;
 }
 
