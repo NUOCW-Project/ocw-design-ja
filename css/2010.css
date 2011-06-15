@@ -1482,11 +1482,6 @@ h3.special {
 }
 
 #test_title{
-        float: left;
-        width: 200px;
-        height: 200px;
-        margin: 0px 0px 0px 0px;
-        padding: 0px 0px 0px 0px;
         background-color: #00FF00;
 }
 
