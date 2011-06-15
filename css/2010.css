@@ -1490,8 +1490,8 @@ h3.special {
 }
 
 #test_title:first-letter{
-        width: 135px;
-        height: 135px;
+        float: left;
+        width: 35px;
         margin: 0px 0px 0px 0px;
         padding: 0px 0px 0px 0px;
         font-size: 35px;
