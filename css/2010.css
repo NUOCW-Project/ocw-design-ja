@@ -805,9 +805,9 @@ td.topics_date{
 
 
 #link {
-	margin: 1em 0 auto auto;
-	padding-left: auto;
-	padding-right: auto;
+	margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
 	clear: both;
 	list-style-type: none;
 /*	position: relative;
