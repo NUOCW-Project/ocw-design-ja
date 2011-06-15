@@ -1482,7 +1482,7 @@ h3.special {
 }
 
 #interview_title{
-        height: 200px;
+        height: 100px;
         margin: 23px 0px 0px 5px;
         font-family: sans-serif;
         font-size: 20px;
@@ -1502,6 +1502,5 @@ h3.special {
 }
 
 #interview_video_frame{
-        
-
+        margin: -200px 0px 0px 0px;
 }
