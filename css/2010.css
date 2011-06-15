@@ -805,9 +805,9 @@ td.topics_date{
 
 
 #link {
-	margin-top: 1em;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 1em 0 auto auto;
+	padding-left: auto;
+	padding-right: auto;
 	clear: both;
 	list-style-type: none;
 /*	position: relative;
@@ -1502,5 +1502,5 @@ h3.special {
 }
 
 #interview_video{
-        margin: -100px 0px 0px 0px;
+        margin: -70px 0px 0px 0px;
 }
