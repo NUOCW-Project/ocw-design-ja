@@ -1489,6 +1489,9 @@ h3.special {
 }
 
 #test_title:first-letter{
+        float: left;
+        width: 35px;
+        height: 35px;
         font-size: 2em;
         color: #FFFFFF;
         background-color: #E74AAE;
