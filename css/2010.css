@@ -1493,7 +1493,7 @@ h3.special {
         width: 35px;
         height: 35px;
         margin: -5px 0px 0px 0px;
-        patting: -5px 0px 0px 0px;
+        patting: 5px 0px 0px 0px;
         font-size: 40px;
         color: #FFFFFF;
         background-color: #E74AAE;
