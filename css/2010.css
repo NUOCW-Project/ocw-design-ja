@@ -1486,7 +1486,7 @@ h3.special {
         font-family: sans-serif;
         font-size: 20px;
         color: #E74AAE; /*  と思われるピンク色（要確認） */
-        line-height: 120%;
+       /* line-height: 120%;*/
 }
 
 #interview[_title:first-letter{
