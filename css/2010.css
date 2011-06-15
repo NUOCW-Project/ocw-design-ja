@@ -1492,7 +1492,8 @@ h3.special {
         float: left;
         width: 35px;
         height: 35px;
-        font-size: 2em;
+        margin: -10px 0px 0px 0px;
+        font-size: 40px;
         color: #FFFFFF;
         background-color: #E74AAE;
 }
