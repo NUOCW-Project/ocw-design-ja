@@ -1432,7 +1432,7 @@ h3.special {
 }
 
 /* インタビュービデオの枠 */
-#interview_video{
+#interview_video_frame{
         float: left;
         width: 317px;
         height: 379px;
@@ -1482,6 +1482,7 @@ h3.special {
 }
 
 #interview_title{
+        height: 20px;
         margin: 23px 0px 0px 5px;
         font-family: sans-serif;
         font-size: 20px;
@@ -1498,4 +1499,9 @@ h3.special {
         color: #FFFFFF;
         text-align: center;
         background-color: #E74AAE;
+}
+
+#interview_video_frame{
+        
+
 }
