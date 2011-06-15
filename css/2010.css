@@ -1484,7 +1484,7 @@ h3.special {
 #test_title{
         font-family: sans-serif;
         font-size: 20px;
-        font-color: #E74AAE; /* と思われるピンク色（要確認） */
+        font-color: #FFFFFF; /* #E74AAE; と思われるピンク色（要確認） */
         background-color: #00FF00;
 }
 
