@@ -1,7 +1,7 @@
 <!-- 画面上部の最も大きな要素 -->
 <div id="top_box">
   <div id="top_video">
-    <objct id="objectId" classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="317" height="400">
+    <objct classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="317" height="400">
     <param name="movie" value="player.swf">
     <param name="quality" value="high">
     <param name="wmode" value="transparent">
@@ -10,7 +10,6 @@
     </object>
   </div>
 </div>
-About Life in Japan
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
 
