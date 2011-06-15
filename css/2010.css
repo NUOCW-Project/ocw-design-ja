@@ -1488,3 +1488,7 @@ h3.special {
         background-color: #00FF00;
 }
 
+#test_title:first-letter{
+        font-size: 2em;
+        color: #000000;
+}
