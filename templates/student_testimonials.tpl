@@ -45,7 +45,6 @@ return true;
 
 <input type="button" onclick=showing1()" value="">
 
-<!--
   <div class="tub_button">
     <a href="#about_japan"><img src="./images/common/student/title01.png"/></a>
   </div>
@@ -55,7 +54,6 @@ return true;
   <div class="tub_button">
     <a href="#about_nagoya_university"><img src="./images/common/student/title03.png"/></a>
   </div>
--->
 
 </div>
 <div class="clear_div">
