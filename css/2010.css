@@ -1481,18 +1481,18 @@ h3.special {
         zoom: 1;
 }
 
-#test_title{
+#interview_title{
         margin: 23px 0px 0px 5px;
         font-family: sans-serif;
         font-size: 20px;
         color: #E74AAE; /*  と思われるピンク色（要確認） */
 }
 
-#test_title:first-letter{
+#interview_title:first-letter{
         float: left;
         width: 40px;
         height: 30px;
-        margin: -18px 5px 30px 0px;
+        margin: -18px 5px 0px 0px;
         padding: 10px 0px 0px 0px;
         font-size: 40px;
         color: #FFFFFF;
