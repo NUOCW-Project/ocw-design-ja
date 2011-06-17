@@ -9,6 +9,10 @@
 <link rel="stylesheet" type="text/css" href="css/topics/3.css">
 <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 {/if}{/literal}
+{literal}{if $page_type=='topics2010'}
+<link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
+<link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
+{/if}{/literal}
 {literal}{if $page_type=='topics_branches'}
 <link rel="stylesheet" type="text/css" href="css/topics_branches/3.css">
 <script type="text/javascript" src="./js/noDisplay.js"></script>
