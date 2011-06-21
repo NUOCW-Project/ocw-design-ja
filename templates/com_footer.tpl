@@ -37,6 +37,7 @@
 <!--    <li>アクセスランキング</li> -->
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news">{if $lang=='ja'}おしらせ{else}News{/if}</a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
+    <li><a href="http://ocw.media.nagoya-u.ac.jp/system/release-5.1/">{if $lang=='ja'}教員向け編集システム{else}forTeacher{/if}</a></li>
   </ul>
 
 </div><!-- "footer" end --> 
