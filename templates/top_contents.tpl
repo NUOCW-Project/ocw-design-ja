@@ -1,7 +1,7 @@
-<div class="inline">
+<div class="student">
 <div id="feature">
   <img src="./images/common/t_topics.png" alt="Topics">
-  <!--  <img src="./images/{$lang}/backno.png" class="jump"> -->
+  {if $lang=='ja'}<a href="./index.php?lang=ja&mode=g&page_type=topics2010"><img src="./images/{$lang}/backno.png" class="jump"></a>{/if}
   <br>
   <img src="./images/common/redline.gif" class="line" alt="">
   <br>
