@@ -5,6 +5,18 @@
 </map>
 </p>
 
+<<<<<<< .mine
+<p>
+「遊び・体験で学ぶ授業」<br>
+名古屋大学には、自らが様々な体験をすることで学習するという授業がたくさんあります。<br>
+そのような名大の個性的な授業を一度覗いてみませんか？<br>
+第一弾は有田先生の授業「ボードゲームを極める」をお届けします。 
+</p>
+
+<div id="chiba"><p>
+公開されている授業に参加されていた当時文系学部の1年生であった方は、私の知る限り、企業・地方公共団体で活躍されており、また、今年の司法試験に現役合格された方が出るなど、みんなアクティブな人生を送っておられます。文系・基礎演習で自ら学ぶことを楽しんでくれた学生のその後の成長を嬉しく思っています。</p>
+</div>
+=======
 <ul id="topics">
 <li id="article1">
   <div class="abstract">
@@ -20,6 +32,7 @@
     </p>
     <img class="cut" alt="" src="">
     <p id="info">
+>>>>>>> .r5605
 
     </p>
     <a onclick="Display('mogura1');noDisplay('mogura2');noDisplay('mogura3');noDisplay('mogura4');noDisplay('mogura5');noDisplay('mogura6')" href="#mogura1">この授業についてもっと知る</a>
