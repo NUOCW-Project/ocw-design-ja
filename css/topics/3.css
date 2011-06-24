@@ -1,0 +1,14 @@
+div#s1 {
+    top: 350px;
+    left: 205px;
+    position: absolute;
+    width: 351px;
+    background-color: #ffffff;
+}
+div#s2 {
+    top: 147px;
+    left: 582px;
+    position: absolute;
+    width: 300px;
+    background-color: #ffffff;
+}
