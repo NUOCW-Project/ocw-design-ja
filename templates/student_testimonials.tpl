@@ -13,35 +13,6 @@
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
 
-<p>
-<script>
-<!--
-var Obj = {
-objectId: 'objectId',
-replaceObject: function (val) {
-var object = document.getElementById(this.objectId);
-var match = val.match(/(\?|&)v=(.+?)(?=&|$)/);
-if (object && match && match[2]) {
-var url = 'http://www.youtube.com/v/' + match[2] + '?autoplay=1';
-var clone = object.cloneNode(true);
-var childs = clone.childNodes;
-for (var i = 0, l = childs.length; i < l; i++) {
-var value = childs[i].value;
-var data = childs[i].data;
-if (value) childs[i].value = url;
-else if (data && /^http/.test(data)) childs[i].data = url;
-}
-object.parentNode.replaceChild(clone, object);
-object = null;
-return false;
-}
-return true;
-}
-};
-//-->
-</script>
-</p>
-
 <input type="button" onclick=showing1()" value="">
 
   <div class="tub_button">

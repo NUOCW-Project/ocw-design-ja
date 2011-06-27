@@ -46,7 +46,7 @@
 
 <!-- スタッフ紹介開始 -->
 	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Committee</h2></td></tr>
-	<tr><td colspan=2 align="right">(As of July 1, 2010)</td></tr>
+	<tr><td colspan=2 align="right">(As of July 1, 2011)</td></tr>
 	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>
 		<td class="left_gray"><p>
 		Chairperson: Ichiro Yamamoto<br>Vice-President,<br>Nagoya University<br>
@@ -71,6 +71,7 @@
 	<tr><td class="center">Support Staff</td>
 		<td class="left"><p>
 		Masanori Adachi<br>
+		Ahammad Al Biruni<br>
 		Lucy Glasspool<br>
 		Yui Hayashi<br>
 		Yuka Ichinose<br>
@@ -81,12 +82,11 @@
                 Sanae Muramatsu<br>
 		Tetsuro Nagai<br>
 		Ayaka Sato<br>
+		Keisuke Serizawa<br>
 		Yasutaka Shiraki<br>
 		Yuuhei Suzuki<br>
-		Tomoyo Takahashi<br>
 		Mitsunari Takahashi<br>
 		Yuto Takahashi<br>
-		Noboru Terada<br>
 		Mikito Yamamoto<br>
 		Zhong Yang<br>
 		Megumi Yoshida<br>

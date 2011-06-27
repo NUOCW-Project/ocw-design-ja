@@ -50,7 +50,7 @@
 
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=2><h2>名古屋大学オープンコースウェア委員会</h2></td></tr>
-<tr><td colspan=2 align="right">2011年4月1日現在</td></tr>
+<tr><td colspan=2 align="right">2011年7月1日現在</td></tr>
 <tr><td class="center_gray">名古屋大学OCW委員会</td>
 		<td class="left_gray"><p>
 		[委員長]副総長 教授 山本一良<br>
@@ -77,15 +77,16 @@
 		<td class="left"><p>
 		文学部B4 市之瀬由佳<br>
 		文学部B4 斉藤修平<br>
-		文学研究科D3 寺田騰<br>
 		法学部B3 朽名駿<br>
 		法学部B3 鈴木悠平<br>
 		法学部B3 吉田涼<br>
 		法学部B4 是澤奈津美<br>
+		理学部B4 芹澤啓祐<br>
 		理学部B3 高橋光成<br>
 		理学部B3 山本幹人<br>
 		理学研究科D2 永井哲郎<br>
 		工学部B3 林祐衣<br>
+		工学研究科M1 アハマッド ビルニ<br>
 		工学研究科M2 白木康建<br>
 		農学部B3 菊谷直子<br>
 		情報科学研究科M1 鐘 揚<br>
@@ -94,7 +95,6 @@
 		多元数理科学研究科D1 高橋祐人<br>
 		多元数理科学研究科D2 足立真訓<br>
 		国際言語文化研究科D1 ルーシー グラスプール<br> 
-		環境学研究科M1 高橋知世<br>
 		</p></td></tr>
 <tr><td class="center_gray">写真撮影</td>
 		<td class="left_gray"><p>
