@@ -1263,7 +1263,7 @@ span.red{
 	padding-left: 20px;
 }
 
-.g_text h3 {
+.g_text h3, dt {
 	font-size: 13px;
 	font-weight: bold;
 	background-image: url(../images/common/header3_box.png);
