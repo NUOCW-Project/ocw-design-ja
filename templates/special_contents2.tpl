@@ -2,15 +2,15 @@
 <h1 id="topics_top_titile">遊び・体験の授業</h1>
 
 <ul id="articles_title">
-<li><a onmouse="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
+<li><a onclick="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
     <h1>基礎セミナー - 民法の世界で遊ぶ</h1>
     <span>千葉恵美子 教授</span>    
 </a></li>
-<li><a onmouse="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
+<li><a onclick="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
     <h1>物理学実験</h1>
     <span>千代勝実 講師</span>    
 </a></li>
-<li><a onmouse="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
+<li><a onclick="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
 	<h1>全学教養科目‐留学生と日本～異文化を通しての日本理解～</h1>
 	<span></span>
 	<h3>日本を知る</h3>

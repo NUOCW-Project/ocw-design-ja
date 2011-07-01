@@ -16,22 +16,27 @@
     width: 100%;
 }
 
-#articles_titles li a h1 /* コース名 */
+#articles_title li a h1 /* コース名 */
 {
 
 }
 
-#articles_titles li a span /* 教員名 */
+#articles_title li a span /* 教員名 */
 {
     float: right;
 }
 
-#articles_titles li a h3 /* キャッチコピー */
-{
+#articles_title li a h3 /* キャッチコピー */
+{1v
 
 }
 
-.article_intro{
+#article_intro{
     width: 400px;
     height: 250px;
+}
+
+#intro1,#intro2,#intro3,#intro4,#intro5,#intro6
+{
+    display: none;
 }
