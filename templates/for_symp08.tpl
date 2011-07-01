@@ -169,7 +169,7 @@ function playFLV(numItem) {ldelim}
 <div class="all">
 
 <div class="logo">
-<a href="index.php?mode=g&amp;lang=ja&amp;page_type=top"><img src="./images/ja/toplogo.jpg" width="275" height="54" alt="名大の授業 HOME"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top"><img src="./images/ja/toplogo.jpg" width="275" height="54" alt="名大の授業 HOME"></a>
 
 </div>
 
