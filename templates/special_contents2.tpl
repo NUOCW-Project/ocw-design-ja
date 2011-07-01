@@ -1,9 +1,5 @@
-<p>
-<img src="./images/ja/topics2/bg.png" usemap="#map_hs">
-<map name="map_hs">
-てすと
-</map>
-</p>
+<h2>Topics No.3</h2>
+<img alt="遊び・体験で学ぶ授業" id="topics_top_titile">
 
 <ul id="topics">
 <li id="article1">
