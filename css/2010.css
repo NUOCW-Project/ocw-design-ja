@@ -940,15 +940,20 @@ td.topics_date{
 
 .e_text {
   padding-left: 150px;
+  /*
   float: left; 
   margin: 0px;
+  */
 }
 
 .e_text ul, .e_text ol, .e_text dl, .e_text table{
-	margin-bottom: 0em;
+  margin-bottom: 1em;
+	/*
+  margin-bottom: 0em;
 	margin-top: 1.5em;
 	float:left;
-	/*  border: 1px solid blue; */
+	border: 1px solid blue;
+  */
 }
 
 .e_text dt {
@@ -956,18 +961,22 @@ td.topics_date{
 }
 
 .e_text p{
-        margin-bottom: 0em; 
+  margin-bottom: 3em;
+  /*
+  margin-bottom: 0em; 
 	margin-top: 1.5em; 
-	
 	float:left; 
 	width:555px; 
-/*	border: 1px solid red; */
+  border: 1px solid red;
+  */
 }
 
 .e_text * ul, .e_text * ol, .e_text * li{
 	margin-left: 0;
 	margin-bottom: 0;
+  /*
 	clear: left;
+  */
 }
 
 .e_text h2 {
@@ -978,10 +987,10 @@ td.topics_date{
 	padding-right: 15px;
 	padding-top: 0px;
 	margin-left: -145px;
-  	margin-right: 0;
-  	margin-top: 10px;
-  	margin-bottom: 0;
-  	width: 700px;
+	margin-right: 0;
+	margin-top: 10px;
+	margin-bottom: 0;
+	width: 700px;
 }
 
 .e_text h3 {
@@ -994,19 +1003,25 @@ td.topics_date{
 	padding-right: 15px;
 	padding-top: 0px;
 	margin-left: -145px;
-  	margin-right: 0;
-  	margin-top: 1.5em; 
-  width: 110px; 
-   float: left;
-   clear: left; 
-/*	border: 1px solid green; */
+	margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 110px;
+	float: left;
+  /*
+	margin-top: 1.5em; 
+	clear: left; 
+	border: 1px solid green;
+  */
 }
 
 .e_text h4 {
+  /*
 	font-size: 13px;
 	font-weight: bold;
-/*	color: #2f2f2f; */
+	color: #2f2f2f; 
 	margin: 1.5em 0 0 0;
+  */
 }
 
 .jump{
