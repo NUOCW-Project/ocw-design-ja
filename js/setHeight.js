@@ -1,4 +1,5 @@
 // DOM 解析後にランキング表示を調整.
+
 $(function(){ 
   var H;
   H = $("#notice").outerHeight() + $("#press").outerHeight() - 8;
@@ -15,6 +16,19 @@ $(function(){
   i--;
 
   G = G - $("#no" + i).outerHeight(true);
-  $("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
-  $("#no" + i).css("visibility", "hidden");
+  //$("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
+  if(navigator.userAgent.indexOf("Chrome")){
+      i=i-1;
+      while (i<=20){
+	  $("#no" + i).hide();
+	  i++;
+      }
+  }
+  else{
+      while (i+1<=20){
+	  $("#no" + i+1).hide();
+	  i++;
+      }      
+  }
+  //$("#no" + i).css("visibility", "hidden");
 });
