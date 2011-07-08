@@ -11,8 +11,9 @@ ul
 
 #articles_title
 {
-    width: 300px;
+    width: 250px;
     float: left;
+    padding: 0;
     border-style: dotted;
     border-width: 1px;
     border-color: orange;
@@ -35,18 +36,18 @@ ul
     float: right;
 }
 
-#articles_title li a h3 /* キャッチコピー */
-{
-
-}
-
 #articles_intro{
     float: left;
-    width: 400px;
+    width: 300px;
     height: 250px;
 }
 
 #intro1,#intro2,#intro3,#intro4,#intro5,#intro6
 {
     display: none;
+}
+
+#articles_intro li a h2 /* キャッチコピー */
+{
+
 }
