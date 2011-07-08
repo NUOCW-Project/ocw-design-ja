@@ -1,3 +1,8 @@
+ul
+{
+    list-style-type: none;
+}
+
 #topics_top_title
 {
     width: 100%;
@@ -26,6 +31,7 @@
 
 #articles_title li a span /* ¶µ°÷Ì¾ */
 {
+    clear: left;
     float: right;
 }
 
