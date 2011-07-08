@@ -2,7 +2,7 @@
 <h1 id="topics_top_titile">遊び・体験の授業</h1>
 
 <ul id="articles_title">
-<li><a onclick="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
+<li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
     <h2>基礎セミナー - 民法の世界で遊ぶ</h2>
     <span>千葉恵美子 教授</span>    
 </a></li>
