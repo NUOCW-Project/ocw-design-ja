@@ -43,23 +43,19 @@
       <tr class="odd_row">
         <td><a href="" onclick="">
 	<img src="./images/common/student/v_about_japan01.png"/></td>
-        <td>動画「日本について」その1</td>
+        <td>About Life in Japan</td>
       </tr>
       <tr class="even_row">
         <td><img src="./images/common/student/v_about_japan02.png"/></td>
-        <td>動画「日本について」その2</td>
+        <td>Feelings about Coming to Japan</td>
       </tr>
       <tr class="odd_row">
         <td><img src="./images/common/student/v_about_japan03.png"/></td>
-        <td>動画「日本について」その3</td>
+        <td>About Japanese man/women</td>
       </tr>
       <tr class="even_row">
         <td><img src="./images/common/student/v_about_japan04.png"/></td>
-        <td>動画「日本について」その4</td>
-      </tr>
-      <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japan04.png"/></td>
-        <td>動画「日本について」その5</td>
+        <td>About Japanese Things</td>
       </tr>
     </table>
   </div>
@@ -76,15 +72,19 @@
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
         <td><img src="./images/common/student/v_about_japan01.png"/></td>
-        <td>動画「日本語について」その1</td>
+        <td>What are your favourite/most useful words in Japanese?</td>
       </tr>
       <tr class="even_row">
         <td><img src="./images/common/student/v_about_japan01.png"/></td>
-        <td>動画「日本語について」その2</td>
+        <td>Why did you start studying Japanese?</td>
       </tr>
       <tr class="odd_row">
         <td><img src="./images/common/student/v_about_japan01.png"/></td>
-        <td>動画「日本語について」その3</td>
+        <td>Making Mistakes in Japanese</td>
+      </tr>
+      <tr class="even_row">
+        <td><img src="./images/common/student/v_about_japan01.png"/></td>
+        <td>What is the best way of studying difficult Japanese?</td>
       </tr>
     </table>
   </div>
@@ -101,15 +101,15 @@
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
         <td><img src="./images/common/student/v_about_japan01.png"/></td>
-        <td>動画「名古屋大学について」その1</td>
+        <td>Around the Cafeteria and the University</td>
       </tr>
       <tr class="even_row">
         <td><img src="./images/common/student/v_about_japan01.png"/></td>
-        <td>動画「名古屋大学について」その2</td>
+        <td>Reasons to recommend Nagoya University</td>
       </tr>
       <tr class="odd_row">
         <td><img src="./images/common/student/v_about_japan01.png"/></td>
-        <td>動画「名古屋大学について」その3</td>
+        <td>University Life</td>
       </tr>
     </table>
   </div>
