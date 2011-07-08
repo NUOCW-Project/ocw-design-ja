@@ -3,16 +3,16 @@
 
 <ul id="articles_title">
 <li><a onclick="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
-    <h1>基礎セミナー - 民法の世界で遊ぶ</h1>
+    <h2>基礎セミナー - 民法の世界で遊ぶ</h2>
     <span>千葉恵美子 教授</span>    
 </a></li>
 <li><a onclick="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
-    <h1>物理学実験</h1>
+    <h2>物理学実験</h2>
     <span>千代勝実 講師</span>    
 </a></li>
 <li><a onclick="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
-	<h1>全学教養科目‐留学生と日本〜異文化を通しての日本理解〜</h1>
-	<span></span>
+	<h2>全学教養科目‐留学生と日本〜異文化を通しての日本理解〜<h/2>
+	<span>浮葉 正親</span>
 </a></li>
 <li>
 </li>
