@@ -2,9 +2,6 @@
 {
     width: 875px !important ;
     margin-left: 30px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: blue;
 }
 
 ul
@@ -20,7 +17,7 @@ ul
 
 #articles_title
 {
-    width: 400px;
+    width: 350px;
     float: left;
     padding: 0;
     border-style: dotted;
@@ -47,7 +44,7 @@ ul
 
 #articles_intro{
     float: left;
-    width: 800px;
+    width: 500px;
     height: 250px;
 }
 
