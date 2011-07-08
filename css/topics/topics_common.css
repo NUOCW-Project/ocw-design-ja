@@ -24,9 +24,9 @@ ul
     width: 100%;
 }
 
-#articles_title li a h1 /* コース名 */
+#articles_title li a h2 /* コース名 */
 {
-
+    clear: right;
 }
 
 #articles_title li a span /* 教員名 */
@@ -40,7 +40,8 @@ ul
 
 }
 
-#article_intro{
+#articles_intro{
+    float: left;
     width: 400px;
     height: 250px;
 }
