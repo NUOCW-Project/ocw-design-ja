@@ -53,7 +53,7 @@
 
 <div id="package2"><!-- #contents配置調整 firefox対応" -->
 
-{if $page_type != "sitemap"}
+{if $page_type != "sitemap" && $page_type != "topics_branches"}
   {/literal}{include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->{literal}
 {/if}
 
