@@ -46,6 +46,7 @@ ul
     float: left;
     width: 500px;
     height: 250px;
+    padding: 0;
 }
 
 #intro1,#intro2,#intro3,#intro4,#intro5,#intro6
