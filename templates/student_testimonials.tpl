@@ -71,19 +71,19 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japan01.png"/></td>
+        <td><img src="./images/common/student/v_about_japanese01.png"/></td>
         <td>What are your favourite/most useful words in Japanese?</td>
       </tr>
       <tr class="even_row">
-        <td><img src="./images/common/student/v_about_japan01.png"/></td>
+        <td><img src="./images/common/student/v_about_japanese02.png"/></td>
         <td>Why did you start studying Japanese?</td>
       </tr>
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japan01.png"/></td>
+        <td><img src="./images/common/student/v_about_japanese03.png"/></td>
         <td>Making Mistakes in Japanese</td>
       </tr>
       <tr class="even_row">
-        <td><img src="./images/common/student/v_about_japan01.png"/></td>
+        <td><img src="./images/common/student/v_about_japanese04.png"/></td>
         <td>What is the best way of studying difficult Japanese?</td>
       </tr>
     </table>
@@ -100,15 +100,15 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japan01.png"/></td>
+        <td><img src="./images/common/student/v_about_nu01.png"/></td>
         <td>Around the Cafeteria and the University</td>
       </tr>
       <tr class="even_row">
-        <td><img src="./images/common/student/v_about_japan01.png"/></td>
+        <td><img src="./images/common/student/v_about_nu02.png"/></td>
         <td>Reasons to recommend Nagoya University</td>
       </tr>
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japan01.png"/></td>
+        <td><img src="./images/common/student/v_about_nu03.png"/></td>
         <td>University Life</td>
       </tr>
     </table>
