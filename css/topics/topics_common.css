@@ -1,3 +1,8 @@
+#contents
+{
+    width: 1200px;
+}
+
 ul
 {
     list-style-type: none;
@@ -11,7 +16,7 @@ ul
 
 #articles_title
 {
-    width: 250px;
+    width: 400px;
     float: left;
     padding: 0;
     border-style: dotted;
@@ -38,7 +43,7 @@ ul
 
 #articles_intro{
     float: left;
-    width: 300px;
+    width: 800px;
     height: 250px;
 }
 
