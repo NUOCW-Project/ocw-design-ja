@@ -8,6 +8,9 @@
 {
     width: 300px;
     float: left;
+    border-style: dotted;
+    border-width: 1px;
+    border-color: orange;
 }
 
 #articles_titles li a
@@ -27,7 +30,7 @@
 }
 
 #articles_title li a h3 /* キャッチコピー */
-{1v
+{
 
 }
 

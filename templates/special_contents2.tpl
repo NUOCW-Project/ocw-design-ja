@@ -13,7 +13,6 @@
 <li><a onclick="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
 	<h1>全学教養科目‐留学生と日本〜異文化を通しての日本理解〜</h1>
 	<span></span>
-	<h3>日本を知る</h3>
 </a></li>
 <li>
 </li>
