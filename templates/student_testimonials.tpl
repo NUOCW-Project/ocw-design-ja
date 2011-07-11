@@ -1,5 +1,25 @@
+<script language="JavaScript"> 
+<!--
+// bpref = tab body prefix, hpref = tab header prefix
+function seltab(bpref, hpref, id_max, selected) {
+  if (! document.getElementById) return;
+  for (i = 0; i <= id_max; i++) {
+    if (! document.getElementById(bpref + i)) continue;
+    if (i == selected) {
+      document.getElementById(bpref + i).style.visibility = "visible";
+      document.getElementById(bpref + i).style.position = "";
+      document.getElementById(hpref + i).className = "open";
+    } else {
+      document.getElementById(bpref + i).style.visibility = "hidden";
+      document.getElementById(bpref + i).style.position = "absolute";
+      document.getElementById(hpref + i).className = "close";
+    }
+  }
+}
+// -->
+</script>
 <!-- 画面上部の最も大きな要素 -->
-<div id="top_box">
+<div id="top_box" onload="seltab('box','head',10,1)">
   <div id="top_video">
     <objct classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="317" height="400">
     <param name="movie" value="player.swf">
@@ -12,17 +32,14 @@
 </div>
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
-
-<input type="button" onclick=showing1()" value="">
-
   <div class="tub_button">
-    <a href="#about_japan"><img src="./images/common/student/title01.png"/></a>
+    <a href="javascript:seltab('box', 'head', 10, 1)" alt="about_japan"><img src="./images/common/student/title01.png"/></a>
   </div>
   <div class="tub_button">
-    <a href="#about_japanese"><img src="./images/common/student/title02.png"/></a>
+    <a href="javascript:seltab('box', 'head', 10, 2)" alt="about_japanese"><img src="./images/common/student/title02.png"/></a>
   </div>
   <div class="tub_button">
-    <a href="#about_nagoya_university"><img src="./images/common/student/title03.png"/></a>
+    <a href="javascript:seltab('box', 'head', 10, 3)" alt="about_nagoya_university"><img src="./images/common/student/title03.png"/></a>
   </div>
 
 </div>
