@@ -1,6 +1,6 @@
 
-    function seltab(bpref, hpref, id_max, selected) {
-	 if (! document.getElementById) return;
+// bpref = tab body prefix
+    function seltab(bpref, id_max, selected) {
 	 for (i = 0; i <= id_max; i++) {
 	     if (! document.getElementById(bpref + i)) continue;
 	     if (i == selected) {
