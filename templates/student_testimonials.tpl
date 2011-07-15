@@ -5,8 +5,8 @@
     <param name="movie" value="player.swf">
     <param name="quality" value="high">
     <param name="wmode" value="transparent">
-    <param name="FlashVars" value="">
-    <embed src="./player.swf" FlashVars="FLV_URL=(ここに動画のパスを書く)" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="317" height="400"></embed>
+    <param name="FlashVars" value="rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/ryugaku_seikatsu.flv">
+    <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/ryugaku_seikatsu.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="317" height="400"></embed>
     </object>
   </div>
 </div>
@@ -36,7 +36,7 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japan01.png"/></td>
+        <td><img src="./images/common/student/v_about_japan01.png" onClick="SwitchChild("top_video", "rtmp://ms011.media.nagoya-u.ac.jp/video/S0001589/FLASH-FLV/ryugaku_suki.flv", "好きな日本語・便利な日本語")"/></td>
         <td>About Life in Japan</td>
       </tr>
       <tr class="even_row">
