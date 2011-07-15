@@ -2,7 +2,7 @@
 <head>
 <script type="text/javascript">
 <!--
-{literal}
+{literal}{literal}
 function seltab(bpref, hpref, id_max, selected) {
    if (! document.getElementById) return;
    for (i = 0; i <= id_max; i++) {
@@ -16,7 +16,7 @@ function seltab(bpref, hpref, id_max, selected) {
       }
    }
 }
-{/literal}
+{/literal}{/literal}
 //-->
 </script>
 
