@@ -1,4 +1,5 @@
 <!-- 画面上部の最も大きな要素 -->
+<div id="top_box">
   <div id="top_video">
     <objct classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="317" height="400">
     <param name="movie" value="player.swf">
@@ -8,7 +9,7 @@
     <embed src="./player.swf" FlashVars="FLV_URL=(ここに動画のパスを書く)" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="317" height="400"></embed>
     </object>
   </div>
-
+</div>
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
   <div id="tub1" class="tub_button">
