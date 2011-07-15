@@ -22,6 +22,7 @@
 <script type="text/javascript" src="./js/googleAnalytics.js"></script>
 {literal}{if $page_type=='topics'}
 <script type="text/javascript" src="./js/seltab.js"></script>
+<script type="text/javascript" src="./js/SwitchFlash.js"></script>
 {/if}{/literal}
 <title>
 <!-- タイトルに講義情報を入れる -->
