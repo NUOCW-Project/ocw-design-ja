@@ -1,4 +1,4 @@
-<a onclick="Display('intro_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
 <h1 class="topics_top_title">遊び・体験の授業</h1>
 </a>
 <ul id="articles_title">
