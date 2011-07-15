@@ -5,7 +5,9 @@
 function switchFlash(url, title) {
     // divの削除
     var target = document.getElementById('top_box');
+    while(target.firstChild){
     target.removeChild(target.firstChild);
+    }
     // divエレメントの生成
     var element = document.createElement('div');
     element.id = 'top_video';
