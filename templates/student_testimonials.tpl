@@ -12,16 +12,15 @@
 </div>
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
-  <div id="tub1" class="tub_button">
-    <a href="javascript:seltab('theme', 'tub', 5, 1)" alt="about_japan"><img src="./images/common/student/title01.png"/></a>
+  <div class="tub_button">
+    <a href="javascript:seltab('theme', 5, 1)" alt="about_japan"><img src="./images/common/student/title01.png"/></a>
   </div>
-  <div id="tub2" class="tub_button">
-    <a href="javascript:seltab('theme', 'tub', 5, 2)" alt="about_japanese"><img src="./images/common/student/title02.png"/></a>
+  <div class="tub_button">
+    <a href="javascript:seltab('theme', 5, 2)" alt="about_japanese"><img src="./images/common/student/title02.png"/></a>
   </div>
-  <div id="tub3" class="tub_button">
-    <a href="javascript:seltab('theme', 'tub', 10, 3)" alt="about_nagoya_university"><img src="./images/common/student/title03.png"/></a>
+  <div class="tub_button">
+    <a href="javascript:seltab('theme', 5, 3)" alt="about_nagoya_university"><img src="./images/common/student/title03.png"/></a>
   </div>
-
 </div>
 <div class="clear_div">
 </div>
