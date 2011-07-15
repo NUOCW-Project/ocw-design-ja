@@ -36,8 +36,7 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><a href="" onclick="">
-	<img src="./images/common/student/v_about_japan01.png"/></td>
+        <td><img src="./images/common/student/v_about_japan01.png"/></td>
         <td>About Life in Japan</td>
       </tr>
       <tr class="even_row">
