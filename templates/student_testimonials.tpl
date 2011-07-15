@@ -36,7 +36,7 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><a href="javascript:switchFlash('top_video', 'rtmp://ms011.media.nagoya-u.ac.jp/video/S0001591/FLASH-FLV/ryugaku_shippai.flv', 'ryugaku_shippai')"><img src="./images/common/student/v_about_japan01.png"/></a></td>
+        <td><a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001591/FLASH-FLV/ryugaku_shippai.flv', 'ryugaku_shippai')"><img src="./images/common/student/v_about_japan01.png"/></a></td>
         <td>About Life in Japan</td>
       </tr>
       <tr class="even_row">
