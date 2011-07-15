@@ -3,7 +3,7 @@
   // url : 再生させる動画のパス
   // title : 動画のタイトル 
 function switchFlash(exid , url, title) {
-    var target = document.getElementById(top_box);
+    var target = document.getElementById('top_box');
     target.removeChild(target.firstChild);
     // divエレメントの生成
     var element = document.createElement('div');
