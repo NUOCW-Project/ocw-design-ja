@@ -1,6 +1,6 @@
 // 埋め込みFlashのURLを切り替える
   // exid : 切り替えるdiv要素のid
-　// url : 再生させる動画のパス
+  // url : 再生させる動画のパス
   // title : 動画のタイトル 
 function switchFlash(exid , url, title) {
     var target = document.getElementById(top_box);
