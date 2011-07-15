@@ -6,7 +6,7 @@
 	     if (i == selected) {
 		 document.getElementById(bpref + i).style.visibility = "visible";
 		 document.getElementById(bpref + i).style.position = "";
-	     } elese {
+	     } else {
 		 document.getElementById(bpref + i).style.visibility = "hidden";
 		 document.getElementById(bpref + i).style.position = "absolute";
 	     }
