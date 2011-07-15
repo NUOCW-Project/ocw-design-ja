@@ -36,7 +36,7 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japan01.png" onClick="SwitchChild("top_video", "rtmp://ms011.media.nagoya-u.ac.jp/video/S0001589/FLASH-FLV/ryugaku_suki.flv", "好きな日本語・便利な日本語")"/></td>
+        <td><img src="./images/common/student/v_about_japan01.png" onClick="SwitchFlash("top_video", "rtmp://ms011.media.nagoya-u.ac.jp/video/S0001589/FLASH-FLV/ryugaku_suki.flv", "好きな日本語・便利な日本語")"/></td>
         <td>About Life in Japan</td>
       </tr>
       <tr class="even_row">
