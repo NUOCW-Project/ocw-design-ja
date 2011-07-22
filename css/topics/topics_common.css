@@ -21,15 +21,17 @@ ul
     float: left;
     margin: 10px;
     padding: 0;
-    border-style: dotted;
-    border-width: 1px;
-    border-color: orange;
 }
 
 #articles_titles li a
 {
     display: block;
     width: 100%;
+    border-style: dotted;
+    border-width: 1px;
+    border-color: orange;
+    border-collapse: collapse;
+    padding: 1ex;
 }
 
 #articles_title li a h2 /* コース名 */
@@ -59,4 +61,14 @@ ul
 #articles_intro li a h2 /* キャッチコピー */
 {
 
+}
+
+#articles_detail
+{
+    clear: both;
+}
+
+#detail1,#detail2,#detail3,#detail4,#detail5,#detail6
+{
+    display: none;
 }
