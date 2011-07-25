@@ -13,7 +13,7 @@ body{
   padding: 20px 0px 0px 20px;
   background: url("../images/common/student/header.png");
   background-repeat: no-repeat;
-  background-color: #FFFFCC; /* 大きさがわかるように色をつけておく */
+/*  background-color: #FFFFCC;  大きさがわかるように色をつけておく */
 }
 
 /* ビデオが読み込まれる茶色の枠 */
@@ -33,7 +33,7 @@ body{
   overflow: hidden; /* スクロール不可能にしておく */
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
-  background-color: #CCFFFF; /* 大きさがわかるように色をつけておく */
+/*  background-color: #CCFFFF;  大きさがわかるように色をつけておく */
 }
 
 /* 動画リストの各テーマごとの仮想枠 */
@@ -51,7 +51,7 @@ body{
   height: 70px;
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
-  background-color: #AAFFAA; /* 大きさがわかるように色をつけておく */
+/*  background-color: #AAFFAA;  大きさがわかるように色をつけておく */
 }
 
 /* タブの中身 */
@@ -75,6 +75,7 @@ table.list_table{
   width: 556px; /* 枠の分 -2px */
   border: solid 1px #E74AAE;
   border-collapse: collapse;
+  color: #E74AAE; /* と思われるピンク色（要確認）*/
 }
 
 /* 表のサムネイル列 */
