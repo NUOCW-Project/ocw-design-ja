@@ -25,7 +25,8 @@
           {include file="com_lang.tpl"}
           <!-- AKF¸¡º÷ -->
 	  <!-- GOOGLE¸¡º÷ -->
-	  <div id="cse" style="width: 100%;">Loading</div>
+
+	  <div id="cse-search-form" style="width: 100%;">Loading</div>
 	  <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 	  <script src="./js/googleSearch.js" type="text/javascript"></script>
 	  <link rel="stylesheet" type="text/css" href="css/googleSearch.css">
