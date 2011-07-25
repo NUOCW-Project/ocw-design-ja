@@ -12,7 +12,7 @@ function switchFlash(url, title) {
     var element = document.createElement('div');
     element.id = 'interview_video_frame';
     element.innerHTML = '\
-<div id="interview_title"></div>\
+<div id="interview_title">' + title + '</div>\
 <div id="interviw_video">
 <objcet classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="317" height="400">\
     <param name="movie" value="player.swf">\
