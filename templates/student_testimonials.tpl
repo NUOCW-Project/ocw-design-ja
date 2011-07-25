@@ -1,15 +1,19 @@
 <!-- 画面上部の最も大きな要素 -->
 <div id="top_box">
-  <div id="top_video">
+  <div id="interview_video_frame">
+    <div id="interview_title">Feelings about Coming to Japan</div>
+    <div id="interview_video">       
     <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="317" height="400">
     <param name="movie" value="player.swf">
     <param name="quality" value="high">
     <param name="wmode" value="transparent">
-    <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001589/FLASH-FLV/ryugaku_suki.flv">
-    <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001589/FLASH-FLV/ryugaku_suki.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="317" height="400"></embed>
+    <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001599/FLASH-FLV/ryugaku_kanjita02.flv">
+    <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001599/FLASH-FLV/ryugaku_kanjita02.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="317" height="400"></embed>
     </object>
+    </div>
   </div>
 </div>
+
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
   <div class="tub_button">
