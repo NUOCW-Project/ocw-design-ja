@@ -79,27 +79,27 @@
         <td>
 	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001589/FLASH-FLV/ryugaku_suki.flv', 'What are your favourite/most useful words in Japanese?')">
 	<img src="./images/common/student/v_about_japanese01.png"/></td>
-        <td>What are your favourite/most useful words in Japanese?<img src="./images/common/student/interviewee_favourite_words_var.png" /></td>
+        <td>What are your favourite/most useful words in Japanese?<img src="./images/common/student/interviewee_favourite_words.png" /></td>
       </tr>
       <tr class="even_row">
         <td>
 	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001590/FLASH-FLV/ryugaku_kikkake.flv', 'Why did you start studying Japanese?')">
 	<img src="./images/common/student/v_about_japanese02.png"/></td>
-        <td>Why did you start studying Japanese?<img src="./images/common/student/interviewee_start_studying_japanese_var.png" /></td>
+        <td>Why did you start studying Japanese?<img src="./images/common/student/interviewee_start_studying_japanese.png" /></td>
       </tr>
       <tr class="odd_row">
         <td>
 	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001591/FLASH-FLV/ryugaku_shippai.flv', 'Making Mistakes in Japanese')">
 	<img src="./images/common/student/v_about_japanese03.png"/>
 	</td>
-        <td>Making Mistakes in Japanese<img src="./images/common/student/interviewee_mistakes_in_japanese_var.png" /></td>
+        <td>Making Mistakes in Japanese<img src="./images/common/student/interviewee_mistakes_in_japanese.png" /></td>
       </tr>
       <tr class="even_row">
         <td>
 	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001593/FLASH-FLV/ryugaku_muzukashi1.flv', 'What is the best way of studying difficult Japanese?')">
 	<img src="./images/common/student/v_about_japanese04.png"/>
 	</td>
-        <td>What is the best way of studying difficult Japanese?<img src="./images/common/student/interviewee_way_of_studying_japanese_var.png" /></td>
+        <td>What is the best way of studying difficult Japanese?<img src="./images/common/student/interviewee_way_of_studying_japanese.png" /></td>
       </tr>
     </table>
   </div>
