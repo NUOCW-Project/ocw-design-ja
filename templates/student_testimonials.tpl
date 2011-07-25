@@ -40,7 +40,7 @@
             <img src="./images/common/student/v_about_japan01.png"/>
             </a>
         </td>
-        <td>About Life in Japan<img src="./images/common/student/interviewee_.png" /></td>
+        <td>About Life in Japan<img src="./images/common/student/interviewee_japanese_man.png" /></td>
       </tr>
       <tr class="even_row">
         <td>
@@ -79,13 +79,13 @@
         <td>
 	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001589/FLASH-FLV/ryugaku_suki.flv', 'What are your favourite/most useful words in Japanese?')">
 	<img src="./images/common/student/v_about_japanese01.png"/></td>
-        <td>What are your favourite/most useful words in Japanese?<img src="./images/common/student/interviewee_javourite_words_var.png" /></td>
+        <td>What are your favourite/most useful words in Japanese?<img src="./images/common/student/interviewee_favourite_words_var.png" /></td>
       </tr>
       <tr class="even_row">
         <td>
 	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001590/FLASH-FLV/ryugaku_kikkake.flv', 'Why did you start studying Japanese?')">
 	<img src="./images/common/student/v_about_japanese02.png"/></td>
-        <td>Why did you start studying Japanese?</td>
+        <td>Why did you start studying Japanese?<img src="./images/common/student/interviewee_start_studying_japanese_var.png" /></td>
       </tr>
       <tr class="odd_row">
         <td>
