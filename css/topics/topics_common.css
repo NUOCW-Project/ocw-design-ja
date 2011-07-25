@@ -29,8 +29,6 @@ ul
     width: 100%;
     border-style: dotted;
     border-width: 1px;
-    border-color: orange;
-    border-collapse: collapse;
     padding: 1ex;
 }
 
@@ -72,4 +70,9 @@ ul
 #detail1,#detail2,#detail3,#detail4,#detail5,#detail6
 {
     display: none;
+}
+
+hr
+{
+    clear: both;
 }
