@@ -36,19 +36,30 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001591/FLASH-FLV/ryugaku_shippai.flv', 'ryugaku_shippai')"><img src="./images/common/student/v_about_japan01.png"/></a></td>
+        <td><a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/ryugaku_seikatsu02.flv', 'ryugaku_seikatsu')">
+            <img src="./images/common/student/v_about_japan01.png"/>
+            </a>
+        </td>
         <td>About Life in Japan</td>
       </tr>
       <tr class="even_row">
-        <td><img src="./images/common/student/v_about_japan02.png"/></td>
+        <td>
+	    <a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001599/FLASH-FLV/ryugaku_kanjita02.flv', 'ryugaku_kanjita')">
+            <img src="./images/common/student/v_about_japan02.png"/></td>
         <td>Feelings about Coming to Japan</td>
       </tr>
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japan03.png"/></td>
+        <td>
+        <a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001601/FLASH-FLV/ryugaku_danjo02.flv', 'ryugaku_danjo')">
+            <img src="./images/common/student/v_about_japan03.png"/>
+        </td>
         <td>About Japanese man/women</td>
       </tr>
       <tr class="even_row">
-        <td><img src="./images/common/student/v_about_japan04.png"/></td>
+        <td>
+	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001598/FLASH-FLV/ryugaku_mono02.flv', 'ryugaku_mono')">
+	<img src="./images/common/student/v_about_japan04.png"/>
+	</td>
         <td>About Japanese Things</td>
       </tr>
     </table>
@@ -65,19 +76,29 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japanese01.png"/></td>
+        <td>
+	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001589/FLASH-FLV/ryugaku_suki.flv', 'ryugaku_suki')">
+	<img src="./images/common/student/v_about_japanese01.png"/></td>
         <td>What are your favourite/most useful words in Japanese?</td>
       </tr>
       <tr class="even_row">
-        <td><img src="./images/common/student/v_about_japanese02.png"/></td>
+        <td>
+	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001590/FLASH-FLV/ryugaku_kikkake.flv', 'ryugaku_kikkake')">
+	<img src="./images/common/student/v_about_japanese02.png"/></td>
         <td>Why did you start studying Japanese?</td>
       </tr>
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_japanese03.png"/></td>
+        <td>
+	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001591/FLASH-FLV/ryugaku_shippai.flv', 'shippai')">
+	<img src="./images/common/student/v_about_japanese03.png"/>
+	</td>
         <td>Making Mistakes in Japanese</td>
       </tr>
       <tr class="even_row">
-        <td><img src="./images/common/student/v_about_japanese04.png"/></td>
+        <td>
+	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001593/FLASH-FLV/ryugaku_muzukashi1.flv', 'muzukashi1')">
+	<img src="./images/common/student/v_about_japanese04.png"/>
+	</td>
         <td>What is the best way of studying difficult Japanese?</td>
       </tr>
     </table>
@@ -94,20 +115,28 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_nu01.png"/></td>
+        <td>
+	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001600/FLASH-FLV/ryugaku_shokudo.flv', 'shokudo')">
+	<img src="./images/common/student/v_about_nu01.png"/>
+	</td>
         <td>Around the Cafeteria and the University</td>
       </tr>
       <tr class="even_row">
-        <td><img src="./images/common/student/v_about_nu02.png"/></td>
+        <td>
+	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001592/FLASH-FLV/ryugaku_riyuu.flv', 'riyuu')">
+	<img src="./images/common/student/v_about_nu02.png"/>
+	</td>
         <td>Reasons to recommend Nagoya University</td>
       </tr>
       <tr class="odd_row">
-        <td><img src="./images/common/student/v_about_nu03.png"/></td>
+        <td>
+	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001594/FLASH-FLV/ryugaku_daigaku1.flv
+', 'daigaku')">
+	<img src="./images/common/student/v_about_nu03.png"/></td>
         <td>University Life</td>
       </tr>
     </table>
   </div>
   <div class="clear_div">
   </div>
-
 </div>
