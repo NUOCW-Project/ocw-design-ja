@@ -18,9 +18,10 @@ body{
 
 /* ビデオが読み込まれる茶色の枠 */
 #top_video{
+  float: left;
   width: 317px;
   height: 379px;
-  margin: 0px 0px 0px 0px;
+  margin: 20px 0px 20px 0px;
   padding: 0px 0px 0px 0px;
   color: #FFFFFF; /* #E74AAE だと思われるが後で差し替え。body に設定か */
   background-color: #4C3521; /* だと思われるが後で確認 */
