@@ -21,7 +21,7 @@ body{
   float: left;
   width: 317px;
   height: 379px;
-  margin: 20px 0px 20px 0px;
+  margin: 20px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
   color: #FFFFFF; /* #E74AAE だと思われるが後で差し替え。body に設定か */
   background-color: #4C3521; /* だと思われるが後で確認 */
@@ -92,7 +92,7 @@ body{
   float: left;
   width: 160px;
   height: 400px;
-  background-color: #AAAAFF
+/*  background-color: #AAAAFF */
 }
 
 /* 動画リストの表 */
