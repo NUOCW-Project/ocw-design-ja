@@ -49,6 +49,7 @@ body{
 }
 
 #interview_video{
+  float: left;
   margin: -105px 0px 0px 0px;
 }
 
