@@ -56,6 +56,6 @@
 <div class="main_back"><!--  右側部分背景 -->
   <div class="main"><!-- 最上部ヘッダー以外 -->
 
-<div id="cse" style="width:100%;"></div> 
+<div id="cse" style="width:100%;" z-index="10"></div> 
 
     <div id="package"> <!-- #contents配置調整 firefox対応" -->
