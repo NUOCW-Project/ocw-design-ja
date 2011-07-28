@@ -3,6 +3,13 @@
     border-color: #000000;
     background-color: #cc0000;
   }
+  input.gsc-input {
+    border-color: #000000;
+  }
+  input.gsc-search-button {
+    border-color: #ffcc00;
+    background-color: #ff9900;
+  }
   .gsc-tabHeader.gsc-tabhInactive {
     border-color: #A9DA92;
     background-color: #FFFFFF;
