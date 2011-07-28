@@ -25,10 +25,11 @@
           {include file="com_lang.tpl"}
           <!-- AKF検索 -->
 	  <!-- GOOGLE検索 -->
-	  <div id="cse" style="width: 100%;">Loading</div>
+{*	  <div id="cse" style="width: 100%;">Loading</div>
 	  <script src="http://www.google.co.jp/jsapi" type="text/javascript"></script>
 	  <script src="./js/googleSearch.js" type="text/javascript"></script>
 	  <link rel="stylesheet" type="text/css" href="css/googleSearch.css">
+*}
 	  <!-- ここまで GOOGLE検索 -->
 	  {*
           <div class="header_button_akf">
