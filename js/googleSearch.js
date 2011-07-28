@@ -21,4 +21,4 @@
     if (queryFromUrl) {
       customSearchControl.execute(queryFromUrl);
     }
-  }, true);
+      }, true);
