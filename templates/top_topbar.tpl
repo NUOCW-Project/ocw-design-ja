@@ -28,6 +28,7 @@
 
 <div id="cse-search-form" style="width: 100%;">Loading</div>
 <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+{literal}
 <script type="text/javascript"> 
   google.load('search', '1', {language : 'ja', style : google.loader.themes.GREENSKY});
   google.setOnLoadCallback(function() {
@@ -165,6 +166,7 @@
   .gs-promotion .gs-visibleUrl-short {
     color: #815FA7;
   }
+{/literal}
 </style>
 
 {*	  <div id="cse" style="width: 100%;">Loading</div>
