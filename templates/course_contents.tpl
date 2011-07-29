@@ -104,9 +104,9 @@
     {else}
     <td width=65 align="right"><b>School hours</b>¡§</td>
     <td aline=left>{$course_info.year}{$course_info.meeting_time|nl2br}</td></tr>
-    {if $course_info.class_is_for_ja}<tr>
+    {if $course_info.class_is_for_en}<tr>
     <td width=65 align="right" valign="top"><b>Target persons</b>¡§</td>
-    <td>{$course_info.class_is_for_ja|nl2br}</td></tr>{/if}
+    <td>{$course_info.class_is_for_en|nl2br}</td></tr>{/if}
     {if $course_info.f_date_ja}<tr>
     <td width=65 align="right"><b>Date</b>¡§</td>
     <td>{$course_info.f_date_ja} {$course_info.f_time_ja}</td></tr>{/if}
