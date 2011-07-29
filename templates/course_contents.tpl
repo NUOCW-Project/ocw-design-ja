@@ -150,6 +150,5 @@ Last update : {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/'
 We do public lectures at the last modified date.
 Please note that you may have different contents of the lectures.
 {/if}
-{/if}
 </div>
 {/if}
