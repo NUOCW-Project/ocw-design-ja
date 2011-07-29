@@ -89,6 +89,7 @@
   <div id="data"><!-- 背景灰色のボックス -->
   <table>
   <tr>
+    {if $lang=='ja'}
     <td width=65 align="right"><b>授業時間</b>：</td>
     <td aline=left>{$course_info.year}{$course_info.meeting_time|nl2br}</td></tr>
     {if $course_info.class_is_for_ja}<tr>
@@ -99,7 +100,21 @@
     <td>{$course_info.f_date_ja} {$course_info.f_time_ja}</td></tr>{/if}
     {if $course_info.f_place_ja}<tr>
     <td widht=65 align="right"><b>場所</b>：</td>
-    <td>{$course_info.f_place_ja}</td></tr>{/if}
+    <td>{$course_info.f_place_ja}</td>{/if}
+    {/if}
+    {else}
+    <td width=65 align="right"><b>School hours</b>：</td>
+    <td aline=left>{$course_info.year}{$course_info.meeting_time|nl2br}</td></tr>
+    {if $course_info.class_is_for_ja}<tr>
+    <td width=65 align="right" valign="top"><b>Target persons</b>：</td>
+    <td>{$course_info.class_is_for_ja|nl2br}</td></tr>{/if}
+    {if $course_info.f_date_ja}<tr>
+    <td width=65 align="right"><b>Date</b>：</td>
+    <td>{$course_info.f_date_ja} {$course_info.f_time_ja}</td></tr>{/if}
+    {if $course_info.f_place_ja}<tr>
+    <td widht=65 align="right"><b>Place</b>：</td>
+    <td>{$course_info.f_place_ja}</td>{/if}    
+    {/if}
     </table>
   </div>
 </div><!--"caption" end-->
@@ -107,11 +122,11 @@
 
 <div id="main_text">
   {foreach from=$page_format.order key=page_type_code item=page_type}
-    {if $pages.$page_type_code != ""}
-      <div class="e_text" id="{$page_type}">
-        {eval_strip var=$pages.$page_type_code}
-      </div>
-    {/if}
+  {if $pages.$page_type_code != ""}
+  <div class="e_text" id="{$page_type}">
+    {eval_strip var=$pages.$page_type_code}
+  </div>
+  {/if}
   {/foreach}
 </div><!--"main_text" end-->
 
@@ -121,12 +136,21 @@
 <img src="./images/common/redline.gif" id="line2" alt=""><!-- 水平線(下) -->
 
 <div id="release_date">
+{if $lang=='ja'}
 最終更新日：{$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1年$2月$3日'|default:'未公開'}
+{else}
+Last update : {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1, $2, $3'|default:'Unpublished'}
+{/if}
 </div>
 
 <div id="release_disclaimer">
+{if $lang=='ja'}
 最終更新日の時点の講義内容で公開を行っております。<br>
 最新年度の講義と内容が異なる可能性がありますのでご注意ください。
+{else}
+We do public lectures at the last modified date.
+Please note that you may have different contents of the lectures.
+{/if}
+{/if}
 </div>
 {/if}
-
