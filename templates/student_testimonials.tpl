@@ -1,6 +1,6 @@
 <!-- 画面上部の最も大きな要素 -->
-<div id="top_box">
-  <div id="top_video">
+<div id="student_en">
+  <div id="interview_video_frame">
     <div id="interview_title">Feelings about Coming to Japan</div>
     <div id="interview_video">       
     <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="317" height="400">
@@ -16,13 +16,13 @@
 
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
-  <div class="tub_button">
+  <div class="tub_button_left">
     <a href="javascript:seltab('theme', 5, 1)" alt="about_japan"><img src="./images/common/student/title01.png"/></a>
   </div>
-  <div class="tub_button">
+  <div class="tub_button_center">
     <a href="javascript:seltab('theme', 5, 2)" alt="about_japanese"><img src="./images/common/student/title02.png"/></a>
   </div>
-  <div class="tub_button">
+  <div class="tub_button_right">
     <a href="javascript:seltab('theme', 5, 3)" alt="about_nagoya_university"><img src="./images/common/student/title03.png"/></a>
   </div>
 </div>
@@ -40,7 +40,7 @@
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
       <colgroup class="title_name"></colgroup> <!-- タイトルと名前の列をグルーピング -->
       <tr class="odd_row">
-        <td><a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/ryugaku_seikatsu03.flv', 'About Life in Japan')">
+        <td><a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/nihon_seikatsu3.flv', 'About Life in Japan')">
             <img src="./images/common/student/v_about_japan01.png"/>
             </a>
         </td>
