@@ -28,30 +28,6 @@ body{
 }
 
 /* ビデオのタイトル */
-#interview_title{
-  height: 100px;
-  margin: 23px 0px 0px 5px;
-  font-family: sans-serif;
-  font-size: 20px;
-  color: #E74AAE;
-}
-
-#interview_title:first-letter{
-  float: left;
-  width: 40px;
-  height: 30px;
-  margin: -18px 5px 0px 0px;
-  padding: 10px 0px 0px 0px;
-  font-size: 40px;
-  color: #FFFFFF;
-  text-align: center;
-  background-color: #E74AAE;
-}
-
-#interview_video{
-  float: left;
-  margin: -105px 0px 0px 0px;
-}
 
 /* 動画リストの最も外側の枠 */
 #list_box{
