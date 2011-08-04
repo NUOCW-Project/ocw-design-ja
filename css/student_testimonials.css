@@ -68,21 +68,21 @@ body{
   float: left;
   width: 235px; 
   height: 70px;
-  border:solid 1px #E74AAE; /* と思われるピンク色（要確認）*/
+  border: solid 1px #E74AAE; /* と思われるピンク色（要確認）*/
 }
 
 .tub_button_center{
   float: left;
   width: 235px; 
   height: 70px;
-  border:solid 1px #E74AAE; /* と思われるピンク色（要確認）*/
+  border: solid 1px #E74AAE; /* と思われるピンク色（要確認）*/
 }
 
 .tub_button_right{
   float: left;
   width: 235px; 
   height: 70px;
-  border:solid 1px #E74AAE; /* と思われるピンク色（要確認）*/
+  border: solid 1px #E74AAE; /* と思われるピンク色（要確認）*/
 }
 
 /* リスト左側のテーマ別の柱 */
@@ -129,6 +129,3 @@ table.list_table{
 .clear_div{
   clear: both;
 }
-
-
->>>>>>> .r5450
