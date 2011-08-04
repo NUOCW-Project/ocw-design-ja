@@ -66,22 +66,25 @@ body{
 
 .tub_button_left{
   float: left;
-  width: 235px; 
+
   height: 70px;
+  margin: 0px 0px 0px 20px;
   border: solid 1px #E74AAE; /* と思われるピンク色（要確認）*/
 }
 
 .tub_button_center{
   float: left;
-  width: 235px; 
+
   height: 70px;
+  margin: 0px 0px 0px 20px;
   border: solid 1px #E74AAE; /* と思われるピンク色（要確認）*/
 }
 
 .tub_button_right{
   float: left;
-  width: 235px; 
+
   height: 70px;
+  margin: 0px 0px 0px 20px;
   border: solid 1px #E74AAE; /* と思われるピンク色（要確認）*/
 }
 
