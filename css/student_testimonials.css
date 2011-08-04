@@ -64,6 +64,27 @@ body{
   height: 70px
 }
 
+.tub_button_left{
+  float: left;
+  width: 243px; 
+  height: 70px;
+  border:solid 1px #000000;　
+}
+
+.tub_button_center{
+  float: left;
+  width: 243px; 
+  height: 70px;
+  border:solid 1px #000000;　
+}
+
+.tub_button_right{
+  float: left;
+  width: 243px; 
+  height: 70px;
+  border:solid 1px #000000;　
+}
+
 /* リスト左側のテーマ別の柱 */
 .list_header{
   float: left;
