@@ -19,7 +19,7 @@
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
   <div class="tub_button_left">
-    <a href="javascript:seltab('theme', 5, 1)"><img src="./images/common/student/title01.png" alt="about japan"></a>
+    <a href="javascript:seltab('theme', 5, 1)"><img src="./images/common/student/title01.png" alt="about japan" onMouseover="this.style.border='3px'"></a>
   </div>
   <div class="tub_button_center">
     <a href="javascript:seltab('theme', 5, 2)"><img src="./images/common/student/title02.png" alt="about japanese"></a>
