@@ -4,13 +4,13 @@
   // title : 動画のタイトル 
 function switchFlash(url, title) {
     // divの削除
-    var target = document.getElementById('top_box');
+    var target = document.getElementById('student_en');
     while(target.firstChild){
     target.removeChild(target.firstChild);
     }
     // divエレメントの生成
     var element = document.createElement('div');
-    element.id = 'top_video';
+    element.id = 'interview_video_frame';
     element.innerHTML = '\
 <div id="interview_title">' + title + '</div>\
 <div id="interview_video">\
