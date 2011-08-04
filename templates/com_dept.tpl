@@ -29,8 +29,9 @@
 {/literal}
 
 <!-- twitterの案内 --->
+{if $lang = 'ja'}
 <a href="http://www.twitter.com/nuocw"><img src="http://twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"></a>
-
+{/if}
 
 <!-- Podcastの案内 -->
 <div id="podcast_waku">
