@@ -671,8 +671,12 @@ td.topics_date{
 	/*  border: 1px solid blue; */
 }
 
-.e_text dt, table {
+.e_text dt, {
   margin-top: 0.5em;
+}
+
+.e_text table{
+    margin-top: 1.5em;
 }
 
 .e_text p{
