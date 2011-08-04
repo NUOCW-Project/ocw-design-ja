@@ -69,6 +69,7 @@ body{
   width: 152px; 
   height: 70px;
   margin: 0px 0px 0px 30px;
+  padding: 0px 5px 0px 5px;
   border: solid 4px #E74AAE; /* と思われるピンク色（要確認）*/
 }
 
