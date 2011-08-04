@@ -716,7 +716,7 @@ td.topics_date{
 	background-image: url(../images/common/header3_box.png);
 	background-repeat: no-repeat;
 	padding-left: 15px;
-	padding-right: 15px; /*15 */ 
+	padding-right: 0px; 
 	padding-top: 0px;
 	margin-left: -145px;
   	margin-right: 0;
@@ -724,7 +724,7 @@ td.topics_date{
   width: 120px; /*110*/
    float: left;
    clear: left; 
-	border: 1px solid green; 
+	/*border: 1px solid green; */
 }
 
 .e_text h4 {
