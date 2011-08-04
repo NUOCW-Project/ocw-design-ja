@@ -664,14 +664,14 @@ td.topics_date{
   margin: 0px;
 }
 
-.e_text ul, .e_text ol, .e_text dl, .e_text table{
+.e_text ul, .e_text ol, .e_text dl{
 	margin-bottom: 0em;
 	/*margin-top: 1.5em;*/
 	/*float:left;*/
 	/*  border: 1px solid blue; */
 }
 
-.e_text dt {
+.e_text dt, table {
   margin-top: 0.5em;
 }
 
