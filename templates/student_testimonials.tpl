@@ -1,5 +1,7 @@
-<!-- 画面上部の最も大きな要素 -->
 <div id="student_en">
+  <img src="./images/common/t_topics.png" alt="Topics">
+  <img src="./images/common/redline.gif" class="line" alt="">
+<!-- 画面上部の最も大きな要素 -->
   <div id="interview_video_frame">
     <div id="interview_title">Feelings about Coming to Japan</div>
     <div id="interview_video">       
