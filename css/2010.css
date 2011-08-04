@@ -1,4 +1,3 @@
-
 body{
 	margin: 0;
 	padding: 0;
@@ -380,6 +379,7 @@ body:first-of-type #contents{
 	 .pankuzu li{
 			display: inline;
 			color: #666666;
+			margin-right: 6px;
 		}
 
 /* 以下トップページ関連 */
@@ -665,19 +665,15 @@ td.topics_date{
   margin: 0px;
 }
 
-.e_text ul, .e_text ol, .e_text dl{
+.e_text ul, .e_text ol, .e_text dl, .e_text table{
 	margin-bottom: 0em;
-	margin-top: 0em;
-	/*float:left;*/
+	margin-top: 1.5em;
+	float:left;
 	/*  border: 1px solid blue; */
 }
 
-.e_text dt, {
+.e_text dt {
   margin-top: 0.5em;
-}
-
-.e_text table{
-    margin-top: 1.5em;
 }
 
 .e_text p{
@@ -716,15 +712,15 @@ td.topics_date{
 	background-image: url(../images/common/header3_box.png);
 	background-repeat: no-repeat;
 	padding-left: 15px;
-	padding-right: 0px; 
+	padding-right: 15px;
 	padding-top: 0px;
 	margin-left: -145px;
   	margin-right: 0;
   	margin-top: 1.5em; 
-  width: 120px; /*110*/
+  width: 110px; 
    float: left;
    clear: left; 
-	/*border: 1px solid green; */
+/*	border: 1px solid green; */
 }
 
 .e_text h4 {
@@ -1427,7 +1423,7 @@ h3.special {
         float: left;
         height: 430px;
         width: 730px;
-        margin: -30px 20px 0px -15px;
+        margin: -15px 20px 0px -15px;
         padding: 0px 0px 20px 0px;
         background: url("../images/common/student/header.png");
         background-position: 0px 30px;
