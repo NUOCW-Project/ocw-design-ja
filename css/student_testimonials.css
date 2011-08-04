@@ -69,7 +69,7 @@ body{
   width: 152px; 
   height: 70px;
   margin: 0px 0px 0px 30px;
-/*  border: solid 3px #E74AAE; /* と思われるピンク色（要確認）*/
+  border: solid 3px #E74AAE; /* と思われるピンク色（要確認）*/
 }
 
 .tub_button_center{
