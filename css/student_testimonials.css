@@ -60,7 +60,7 @@ body{
 /* タブの中身 */
 .tub_button{
   float: left;
-  /* ボタンの間を詰めるためにとりあえず幅は指定しない */
+  width: 235px; 
   height: 70px
 }
 
