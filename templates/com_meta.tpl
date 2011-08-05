@@ -11,7 +11,7 @@
 {literal}{if $page_type=='topics_branches'}<link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">{/if}{/literal}
 <link rel="alternate" type="application/rss+xml" title="NU OCW RSS" href="./files/rssfeed.xml">
 <script type="text/javascript" src="./js/jquery.js"></script>
-<!-- <script type="text/javascript" src="./js/toggle.js"></script> -->
+<script type="text/javascript" src="./js/toggle.js"></script>
 <script type="text/javascript" src="./js/openWin.js"></script>
 {literal}{if page_type=='top'}
 <script type="text/javascript" src="./js/setHeight.js"></script>
