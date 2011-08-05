@@ -228,10 +228,10 @@ a:hover{
 }
 
 	.main_back_adachi{
-		/*background-image: url(../images/common/staff.png);
-		background-repeat: no-repeat; */
+		background-image: url(../images/common/staff.png);
+		background-repeat: no-repeat; 
 		position: absolute;
-		top: 10px; 
+		top: 80px; 
 		left: 1030px;
 		width: 95px; 
 		height: 125px;
