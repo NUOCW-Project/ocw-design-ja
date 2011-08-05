@@ -87,12 +87,12 @@
 <div class="main_back_url">
 <a href="./index.php"><img src="./images/common/url.png" alt="http://ocw.nagoya-u.jp/"></a>
 </div>
-<!-- 右上の人物 -->
-<div class="main_back_adachi">
-aaa
-</div>
 
 </div><!--"main" end-->
+<!-- 右上の人物 -->
+<div class="main_back_adachi">
+</div>
+
 </div><!-- "main_back" end -->
 
 </div> <!--  "body_back" end -->
