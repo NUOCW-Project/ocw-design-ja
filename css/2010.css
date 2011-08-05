@@ -639,6 +639,7 @@ td.topics_date{
 }
 
 .e_text ul, .e_text ol, .e_text dl{
+    padding: 0em;
 	margin-bottom: 0em;
 	margin-top: 0em;
 	/*float:left;*/
