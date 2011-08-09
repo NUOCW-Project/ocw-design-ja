@@ -64,9 +64,9 @@ ul
 
 p.info
 {
-    width: 10em;
-    border-style: solid;
-    border-width: 1px;
+    width: 12em;
+    padding: 1em:
+    bockground-color: gold;
     float: right;
     clear: both;
 }
