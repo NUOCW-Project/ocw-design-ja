@@ -62,6 +62,15 @@ ul
 
 }
 
+p.info
+{
+    width: 10em;
+    border-style: solid;
+    border-width: 1px;
+    float: right;
+    clear: both;
+}
+
 #articles_detail
 {
     clear: both;
