@@ -3,7 +3,7 @@
 <div id="student_en">
 <!-- 画面上部の最も大きな要素 -->
   <div id="interview_video_frame">
-    <div id="interview_title">Feelings about Coming to Japan</div>
+    <div id="interview_title"><img src='coming' alt='Feelings about Coming to Japan'></div>
     <div id="interview_video">       
     <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="302" height="272">
     <param name="movie" value="player.swf">
@@ -19,13 +19,13 @@
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
   <div class="tub_button_left">
-    <a href="javascript:seltab('theme', 5, 1)" alt="about_japan"><img src="./images/common/student/title01.png"></a>
+    <a href="javascript:seltab('theme', 5, 1)" alt="about_japan"><img src="./images/common/student/title01.png" border="0"></a>
   </div>
   <div class="tub_button_center">
-    <a href="javascript:seltab('theme', 5, 2)" alt="about_japanese"><img src="./images/common/student/title02.png"></a>
+    <a href="javascript:seltab('theme', 5, 2)" alt="about_japanese"><img src="./images/common/student/title02.png" border="0"></a>
   </div>
   <div class="tub_button_right">
-    <a href="javascript:seltab('theme', 5, 3)" alt="about_nagoya_university"><img src="./images/common/student/title03.png"></a>
+    <a href="javascript:seltab('theme', 5, 3)" alt="about_nagoya_university"><img src="./images/common/student/title03.png" border="0"></a>
   </div>
 </div>
 <div class="clear_div">
@@ -102,7 +102,7 @@
       </tr>
       <tr class="even_row">
         <td>
-	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001593/FLASH-FLV/muzukashii3.flv', 'What is the best way of studying difficult Japanese?')">
+	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001593/FLASH-FLV/muzukashii3.flv', 'What is the best way of studying difficult Japanese?', 'way')">
 	<img src="./images/common/student/v_about_japanese04.png">
 	</td>
         <td>What is the best way of studying difficult Japanese?<img src="./images/common/student/interviewee_way_of_studying_japanese_var.png"></td>
@@ -137,7 +137,7 @@
       <tr class="odd_row">
         <td>
 	<a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001594/FLASH-FLV/ryugaku_daigaku1.flv
-', 'University Life', 'university')">
+', 'University Life', 'university_life')">
 	<img src="./images/common/student/v_about_nu03.png"/></td>
         <td>University Life<img src="./images/common/student/interviewee_university_life.png"></td>
       </tr>
