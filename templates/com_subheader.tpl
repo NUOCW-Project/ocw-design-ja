@@ -22,15 +22,19 @@
          alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
 {* トップページ *}
 {elseif $page_type=="top"}
-  <img src="./images/{$lang}/header_top.jpg"
-       alt="{if $lang=="ja"}
-              「勇気ある知識人」名古屋大学は、自由闊達な学風の下、人間性と科学の調和的発展を目的とし、
-              創造的な研究と自発性を重視する教育を実践することによって、
-              世界屈指の知的成果を生み出すとともに、
-              論理的思考力と想像力に富んだ勇気ある知識人の育成を目指しています。
-            {else}
-            {/if}"
-       width="945" height="400"> 
+	{if $lang=="ja"}
+	  <img src="./images/{$lang}/header_top.jpg"
+	       alt=" 「勇気ある知識人」名古屋大学は、自由闊達な学風の下、人間性と科学の調和的発展を目的とし、
+	       	      創造的な研究と自発性を重視する教育を実践することによって、
+		      世界屈指の知的成果を生み出すとともに、
+             	      論理的思考力と想像力に富んだ勇気ある知識人の育成を目指しています。"
+		width="945" height="400"> 
+	{else}
+  {assign var=img_num value=1|rand:3}
+	  <img src="./images/{$lang}/header_top0{$img_num}.jpg"
+	       alt=""
+	       width="945" height="400"> 
+	{/if}
   {/literal}{include file="top_notice.tpl"}{literal}
 {else}
   <img src="./images/{$lang}/header_{$page_type}.jpg"
@@ -38,7 +42,7 @@
 {/if}
 {/if}
 
-{if $page_type == "top"}
+{if $page_type == "top" and $lang == "ja"}
 	<div id="menu">	
 		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/menu01.png" onMouseOver="this.src='./images/{$lang}/menu01_on.png'" onMouseout="this.src='./images/{$lang}/menu01.png'" class="menu0" alt="{if $lang=='ja'}「名大の授業」について{else}About NU OCW{/if}"></a>
 		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary"><img src="./images/{$lang}/menu02.png" onMouseOver="this.src='./images/{$lang}/menu02_on.png'" onMouseout="this.src='./images/{$lang}/menu02.png'" class="menu0" alt="{if $lang=='ja'}用語解説{else}Glossary{/if}"></a>

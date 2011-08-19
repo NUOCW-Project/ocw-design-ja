@@ -1,4 +1,3 @@
-
 body{
 	margin: 0;
 	padding: 0;
@@ -64,6 +63,20 @@ a:hover{
 	min-width: 975px;
 	background-image: url(../images/common/topbar_top.jpg);	
 	background-repeat: no-repeat;
+}
+
+.header_en{
+        height: 90px;
+        background-image: url(../images/en/topbar.jpg);/* 背景画像「名大の授業」 */
+        min-width: 975px;
+        background-repeat: no-repeat;
+}
+
+.topheader_en{
+        height: 110px;
+        min-width: 975px;
+        background-image: url(../images/en/topbar_top.jpg);
+        background-repeat: no-repeat;
 }
 
 .header a#home_header{
@@ -209,7 +222,7 @@ a:hover{
 	}
 
 *html .main_back_url img{
-	position: expression('absolute');
+        position: expression('absolute');
 	top: expression(documentElement.scrollTop + 90 + 'px');
 	left: expression(documentElement.scrollLeft + 1260 + 'px');
 }
@@ -268,10 +281,23 @@ a:hover{
 	list-style:none;
 }
 
+#departmentslist_list_en{
+	width: 157px;
+	padding:0px;
+	margin: 0px 5px 0px 0px;
+	position: relative;	
+	list-style:none;
+}
+
 #departmentslist_list li{
 	/* margin-bottom: -6px; */ /*画像の隙間をなくしている */
   margin: 0;
   height: 23px;
+}
+
+#departmentslist_list_en li{
+  margin: 0;
+  height: 40px;
 }
 
 #being{
@@ -353,6 +379,7 @@ body:first-of-type #contents{
 	 .pankuzu li{
 			display: inline;
 			color: #666666;
+			margin-right: 6px;
 		}
 
 /* 以下トップページ関連 */
@@ -638,20 +665,16 @@ td.topics_date{
   margin: 0px;
 }
 
-.e_text ul, .e_text ol, .e_text dl{
+.e_text ul, .e_text ol, .e_text dl, .e_text table{
     padding: 0em;
 	margin-bottom: 0em;
-	margin-top: 0em;
-	/*float:left;*/
+	margin-top: 1.5em;
+	float:left;
 	/*  border: 1px solid blue; */
 }
 
-.e_text dt, {
+.e_text dt {
   margin-top: 0.5em;
-}
-
-.e_text table{
-    margin-top: 1.5em;
 }
 
 .e_text p{
@@ -690,15 +713,15 @@ td.topics_date{
 	background-image: url(../images/common/header3_box.png);
 	background-repeat: no-repeat;
 	padding-left: 15px;
-	padding-right: 0px; 
+	padding-right: 15px;
 	padding-top: 0px;
 	margin-left: -145px;
   	margin-right: 0;
   	margin-top: 1.5em; 
-  width: 120px; /*110*/
+  width: 110px; 
    float: left;
    clear: left; 
-	/*border: 1px solid green; */
+/*	border: 1px solid green; */
 }
 
 .e_text h4 {
@@ -1383,3 +1406,102 @@ h3.special {
   font-size: x-large;
 }
 
+/** 留学生の声 **/
+.student { 
+        float: left;
+        margin: 0px;
+        background-color: white;
+        padding-bottom: 20px;
+        padding-left: 10px;
+        margin-right: 20px;
+        width: 710px;
+        overflow: visible;
+}
+
+/** 留学生の声 **/
+#student_en {
+        display: block;
+        float: left;
+        height: 430px;
+        width: 730px;
+        margin: -30px 20px 0px -15px;
+        padding: 0px 0px 20px 0px;
+        background: url("../images/common/student/header.png");
+        background-position: 0px 30px;
+        background-repeat: no-repeat;
+        overflow: hidden;
+}
+
+/* インタビュービデオの枠 */
+#interview_video_frame{
+        float: left;
+        width: 317px;
+        height: 379px;
+        margin: 50px 0px 0px 18px;
+        padding: 0px 0px 0px 0px;
+        background-color: #4C3521;
+}
+
+/* セカンドページに移動し他のビデオを見るボタン */
+#more_video_button{
+        float: left;
+        width: ;
+        height: 379px;
+        margin: 20px 0px 0px 0px;
+        padding: 312px 0px 0px 38px;
+        background: url("../images/common/student/arrow.png");
+        background-repeat: no-repeat;
+        background-position: 0px 327px;
+}
+
+/* おしらせ */
+#notice_en {
+        float: left;
+	width: 500px;
+        /* height: 500px; */
+        margin: 15px 0px 0px 0px;
+        border-style: solid;
+        border-width: 3px;
+        border-color: #e7e7df;
+}
+
+
+/** 英語版Topページ関連 **/
+#greeting_en{
+        float: left;
+        width: 165px;
+        overflow: hidden;
+        /*height: 255px;*/
+        margin: 15px 0px 0px 10px;
+        padding: 0px 0px 0px 0px;
+        border-style: solid;
+        border-width: 1px;
+	border-color : #DDDDDD;
+        font-size: 11px;
+        font-height: 12px;
+        zoom: 1;
+}
+
+#interview_title{
+        height: 100px;
+        margin: 23px 0px 0px 5px;
+        font-family: sans-serif;
+        font-size: 20px;
+        color: #E74AAE; /*  と思われるピンク色（要確認） */
+}
+
+#interview_title:first-letter{
+        float: left;
+        width: 40px;
+        height: 30px;
+        margin: -18px 5px 0px 0px;
+        padding: 10px 0px 0px 0px;
+        font-size: 40px;
+        color: #FFFFFF;
+        text-align: center;
+        background-color: #E74AAE;
+}
+
+#interview_video{
+        margin: -35px 0px 0px 8px;
+}

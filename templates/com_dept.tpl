@@ -6,7 +6,11 @@
 <!-- 各学部ページへのリンクリスト -->
 {literal}
 {strip}
+{if $lang=="ja"}<!-- 英語用と日本語用で画像の高さが異なる -->
 <ul id="departmentslist_list"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
+{elseif $lang=="en"}
+<ul id="departmentslist_list_en"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
+{/if}
 {foreach from=$dept_list key="abbr" item="dept"}
   <li>
   {if $mode=="l" && $page_type==$abbr}
@@ -25,8 +29,9 @@
 {/literal}
 
 <!-- twitterの案内 --->
+{if $lang == 'ja'}
 <a href="http://www.twitter.com/nuocw"><img src="http://twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"></a>
-
+{/if}
 
 <!-- Podcastの案内 -->
 <div id="podcast_waku">

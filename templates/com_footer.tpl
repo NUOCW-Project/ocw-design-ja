@@ -1,5 +1,8 @@
  <!-- 「ページトップへ」 -->
-  <a href="#top"><img src="./images/{$lang}/pagetop.gif" class="topjump"  alt="{if $lang=='ja'}ページトップへ{else}To the top of the page{/if}" ></a>
+  <a href="#top">{if $lang=='ja'}<img src="./images/ja/pagetop.gif" class="topjump"  alt="ページトップへ" >
+{else}<img src="./images/en/pagetop.png" class="topjump"  alt="To the top of the page" >{/if}
+</a>
+
 </div><!--"#contents" end-->
 </div><!-- "package2" end -->
 </div> <!-- "#package" end -->
