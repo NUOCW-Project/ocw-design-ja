@@ -143,6 +143,4 @@
       </tr>
     </table>
   </div>
-  <div class = "clear_div">
-  </div>
 </div>
