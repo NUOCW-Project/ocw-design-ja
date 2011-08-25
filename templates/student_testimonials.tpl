@@ -56,10 +56,10 @@
       </tr>
       <tr class="odd_row">
         <td>
-        <a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001601/FLASH-FLV/danseizyosei3.flv', 'About Japanese man/women', 'man')">
+        <a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001601/FLASH-FLV/danseizyosei3.flv', 'About Japanese men/women', 'man')">
             <img src="./images/common/student/v_about_japan03.png">
         </td>
-        <td>About Japanese man/women<img src="./images/common/student/interviewee_japanese_man.png"></td>
+        <td>About Japanese men/women<img src="./images/common/student/interviewee_japanese_man.png"></td>
       </tr>
       <tr class="even_row">
         <td>
