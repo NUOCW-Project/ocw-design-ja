@@ -1203,7 +1203,7 @@ table.sorttable{
 #dep_txt_en{
         position: relative;
         top: 90px; left: 35px;
-        width: 600px;
+        width: 640px;
         height: 200px;
 }
 
@@ -1213,6 +1213,13 @@ a#more{
 	position: relative;
 	left: 265px;
 }
+
+a#more_en{
+  display: block;
+        position: relative;
+        left: 90px;
+}
+
 
 #dep_url{
 	position: relative;
