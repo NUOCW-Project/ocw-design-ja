@@ -6,13 +6,14 @@
 
 <link rel="stylesheet" type="text/css" href="css/2010.css">
 {literal}
-{if $page_type=='topics'}
+{if $lang=='ja' && $page_type=='topics'}
   <link rel="stylesheet" type="text/css" href="css/special.css">
-  <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
-{elseif $page_type=='topics2010'}
+{elseif $lang=='ja' && $page_type=='topics2010'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
-{elseif $page_type=='topics_branches'}
+{elseif $lang=='ja' && $page_type=='topics_branches'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+{elseif $lang=='en' && $page_type=='topics'}
+  <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 {/if}
 {/literal}
 
@@ -25,7 +26,7 @@
 {literal}
 {if page_type=='top'}
   <script type="text/javascript" src="./js/setHeight.js"></script>
-{elseif $page_type=='topics_branches'}
+{elseif $lang=='ja' && $page_type=='topics_branches'}
   <script type="text/javascript" src="./js/noDisplay.js"></script>
 {elseif $lang=="en" && $page_type=='topics'}
   <script type="text/javascript" src="./js/seltab.js"></script>
