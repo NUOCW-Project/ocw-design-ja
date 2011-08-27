@@ -18,13 +18,13 @@
 
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
-  <div class="tub_button_left">
+  <div class="tub_button">
     <a href="javascript:seltab('theme', 3, 1)" alt="about_japan"><img src="./images/common/student/title01.png" border="0"></a>
   </div>
-  <div class="tub_button_center">
+  <div class="tub_button" id="tub_button_center">
     <a href="javascript:seltab('theme', 3, 2)" alt="about_japanese"><img src="./images/common/student/title02.png" border="0"></a>
   </div>
-  <div class="tub_button_right">
+  <div class="tub_button">
     <a href="javascript:seltab('theme', 3, 3)" alt="about_nagoya_university"><img src="./images/common/student/title03.png" border="0"></a>
   </div>
 </div>
