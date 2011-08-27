@@ -1217,7 +1217,7 @@ a#more{
 a#more_en{
   display: block;
         position: relative;
-        left: 90px;
+        left: 530px;
 }
 
 
@@ -1226,6 +1226,13 @@ a#more_en{
 	top: 10px; left: 0px;
 	margin: 0px; 
 }
+
+#dep_url_en{
+        position: relative;
+	top: 40px; left: 0px;
+        margin: 0px;
+}
+
 
 #dep_movie{
 	position: absolute;
