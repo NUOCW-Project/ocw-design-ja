@@ -85,7 +85,7 @@ body{
 /* 動画リストの表 */
 table.list_table{
   float: left;
-  width: 556px; /* 枠の分 -2px */
+  width: 543px; /* 枠の分 -2px */
   border: solid 1px #E74AAE;
   border-collapse: collapse;
   color: #E74AAE; /* と思われるピンク色（要確認）*/
