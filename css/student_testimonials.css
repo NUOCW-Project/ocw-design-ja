@@ -53,7 +53,7 @@ body{
   width: 730px;
   height: 70px;
   margin: 0px 0px 0px 0px;
-  padding: 0px 0px 0px 160px;
+  padding: 0px 0px 0px 160px; /* ビデオ一覧の表の左辺とあわせる */
 /*  background-color: #AAFFAA;  大きさがわかるように色をつけておく */
 }
 
@@ -67,11 +67,11 @@ body{
 }
 
 .tub_button:hover {
-  border: solid 4px #E74AAE;
+  border: solid 4px #E74AAE; /* 濃いピンク */
 }
 
 #tub_button_center {
-  margin: 0px 32px;
+  margin: 0px 32px; /* 3つのボタンをビデオ一覧表の上に均等表示 */
 }
 
 /* リスト左側のテーマ別の柱 */
