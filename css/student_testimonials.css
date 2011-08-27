@@ -53,7 +53,7 @@ body{
   width: 730px;
   height: 70px;
   margin: 0px 0px 0px 0px;
-  padding: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 160px;
 /*  background-color: #AAFFAA;  大きさがわかるように色をつけておく */
 }
 
@@ -71,7 +71,7 @@ body{
 }
 
 #tub_button_center {
-  margin: 0px 112px;
+  margin: 0px 32px;
 }
 
 /* リスト左側のテーマ別の柱 */
