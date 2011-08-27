@@ -63,11 +63,15 @@ body{
   width: 152px; 
   height: 70px;
   border: solid 4px #F7EEF3;
-  margin: 0px 40px;
+  margin: 0px
 }
 
 .tub_button:hover {
   border: solid 4px #E74AAE;
+}
+
+#tub_button_center {
+  margin: 0px 112px;
 }
 
 /* リスト左側のテーマ別の柱 */

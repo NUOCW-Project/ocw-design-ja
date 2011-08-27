@@ -21,7 +21,7 @@
   <div class="tub_button">
     <a href="javascript:seltab('theme', 3, 1)" alt="about_japan"><img src="./images/common/student/title01.png" border="0"></a>
   </div>
-  <div class="tub_button">
+  <div class="tub_button" id="tub_button_center">
     <a href="javascript:seltab('theme', 3, 2)" alt="about_japanese"><img src="./images/common/student/title02.png" border="0"></a>
   </div>
   <div class="tub_button">
