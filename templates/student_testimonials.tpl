@@ -118,7 +118,7 @@
   <!-- テーマ3 名古屋大学について -->
   <div id="theme3" class="theme_box">
     <div class="list_header">
-      <img src="./images/common/student/list_header03.png">
+      <img src="./images/common/student/list_header03.png" alt="About Nagoya University">
     </div>
     <table class="list_table">
       <colgroup class="thumbnail"></colgroup> <!-- サムネイルの列をグルーピング -->
