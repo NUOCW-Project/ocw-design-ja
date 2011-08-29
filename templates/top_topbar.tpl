@@ -9,12 +9,15 @@
         <img src="./images/common/h01sitemap.png" alt="{if $lang=='ja'}サイトマップ{else}Sitemap{/if}" 
              onMouseOver="this.src='./images/common/h01sitemap_on.png'" 
              onMouseOut="this.src='./images/common/h01sitemap.png'">
-        </a>{/if}<!-- お問い合わせのリンク -->
+        </a>
+{/if}
+        <!-- お問い合わせのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">
         <img src="./images/common/h02inquiry.png" alt="{if $lang=='ja'}お問合せ{else}Inquiry{/if}" 
              onMouseOver="this.src='./images/common/h02inquiry_on.png'"
              onMouseOut="this.src='./images/common/h02inquiry.png'">
-        </a><!-- ヘルプへのリンク -->
+        </a>
+        <!-- ヘルプへのリンク -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">
         <img src="./images/common/h03help.png" alt="{if $lang=='ja'}ヘルプ{else}Help{/if}" 
              onMouseOver="this.src='./images/common/h03help_on.png'" 
@@ -24,7 +27,8 @@
           <!-- Englishボタン -->
           {include file="com_lang.tpl"}
           <!-- AKF検索 -->
-{*          <div class="header_button_akf">
+{if $lang=='ja'}
+          <div class="header_button_akf">
             <a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
             <img src="./images/{$lang}/akf.png" alt="AKF Search" align="left"></a>
           </div><!-- "header_button_akf" end -->
@@ -36,7 +40,8 @@
             <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
               <input type="image" src="./images/common/search.png" alt="{if $lang=='ja'}検索する{else}Search{/if}">
             </div> <!-- "header_button_search" end -->
-          </form>*}
+          </form>
+{/if}
         </div><!-- "header_button_sub" end -->
       </div><!-- "header_button" end -->
     </div><!-- "header_sub" end -->
