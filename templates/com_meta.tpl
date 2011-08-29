@@ -37,7 +37,6 @@
 {section name=n loop=$navi_list step=-1}
 {$navi_list[n].text} |
 {/section}
-
 {if $lang=='ja'}
 名大の授業 (NU OCW)
 {else}
