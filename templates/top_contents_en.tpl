@@ -10,7 +10,7 @@
         <param name="quality" value="high">
         <param name="wmode" value="transparent">
         <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/nihon_seikatsu3.flv">
-        <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/nihon_seikatsu3.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="302" height="272"></embed>>
+        <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/nihon_seikatsu3.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="302" height="272"></embed>
       </object>
     </div>
   </div>
@@ -20,7 +20,7 @@
        <img src="./images/common/student/morevideos.png"
        	    onMouseOver="this.src='./images/common/student/morevideos_on.png'"
 	    onMouseOut="this.src='./images/common/student/morevideos.png'"
-	    alt="more videos"/>
+	    alt="more videos">
     </a>
   </div>
 </div><!-- student" end -->
