@@ -18,7 +18,6 @@
     {$dept_info.dean_position|strip} <br>
 <p class="welcome_b">{$dept_info.dean_name|strip}</p>
   {elseif $lang=='en'}
-<h3>Faculty Introduction</h3>
     {$dept_info.dean_name|strip}<br>
    <p class="welcome_b"> {$dept_info.dean_position|strip}</p>
   {/if}
@@ -31,6 +30,9 @@
 
 <h3>Faculty Introduction</h3>
 {eval var=$dept_info.description|strip}
+{$dept_info.dean_name|strip}<br>
+    {$dept_info.dean_position|strip}
+
 
 <div class="clear"></div>
 
