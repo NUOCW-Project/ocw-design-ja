@@ -47,11 +47,14 @@
       <img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="{if $lang=='ja'}名大の授業について{else}About OCW{/if}"
         onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
         onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"></a></li>
+<!-- まだ用意されていないので英語版のほうでは一時的にリンクを外す -->
+{if $lang=='ja'}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">
       <img src="./images/{$lang}/c02answer.png" class="size_img" alt="{if $lang=='ja'}用語解説{else}Glossary{/if}"
         onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
         onMouseOut="this.src='./images/{$lang}/c02answer.png'"></a></li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">
+{/if}
       <img src="./images/{$lang}/c03vs.png" class="size_img" alt="{if $lang=='ja'}1分間授業紹介&amp;Podcast{else}One-minute Course Introductions &amp; PodCast{/if}"
         onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
         onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a></li>
@@ -61,12 +64,14 @@
         onMouseOver="this.src='./images/ja/c04sc_on.png'" 
         onMouseOut="this.src='./images/ja/c04sc.png'"></a></li>
     {/if}
+<!-- まだ用意されていないので英語版のほうでは一時的にリンクを外す -->
+{if $lang=='ja'}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=link">
       <img src="./images/{$lang}/c05link.png" class="size_img" alt="{if $lang=='ja'}リンク{else}Link{/if}"
         onMouseOver="this.src='./images/{$lang}/c05link_on.png'" 
         onMouseOut="this.src='./images/{$lang}/c05link.png'"></a></li>
   </ul>
-  
+{/if}
   <div id="proviso">
     <a href="{if $lang=='ja'}http://www.nagoya-u.ac.jp/{elseif $lang=='en'}http://www.nagoya-u.ac.jp/en/{/if}" target="_blank"><img src="./images/common/nu.png" class="nu" alt=""></a>
     <p class="nu">
