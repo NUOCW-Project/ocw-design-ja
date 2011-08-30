@@ -21,7 +21,7 @@
   {/if}
 
   {if $abbr!="empty"}
-    <li><a href="./{if $lang=='ja'}courselist{elseif $lang=='en'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang=='ja'}¢¢{else}&loz;{/if}{$dept.department_nam|regex_replaec:"/.*Schooll/":""}</a></li>
+    <li><a href="./{if $lang=='ja'}courselist{elseif $lang=='en'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang=='ja'}¢¢{else}&loz;{/if}{$dept.department_nam|regex_replce:"/.*School/":""}</a></li>
   {/if}
 
   {if $smarty.foreach.navigation.last}
