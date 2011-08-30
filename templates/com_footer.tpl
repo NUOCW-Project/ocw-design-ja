@@ -21,7 +21,7 @@
   {/if}
 
   {if $abbr!="empty"}
-    <li><a href="./{if $lang=='ja'}courselist{elseif $lang=='en'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang=='ja'}¢¢{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""}</a></li>
+    <li><a href="./{if $lang=='ja'}courselist{elseif $lang=='en'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang=='ja'}¢¢{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}</a></li>
   {/if}
 
   {if $smarty.foreach.navigation.last}
