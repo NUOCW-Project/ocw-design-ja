@@ -21,7 +21,7 @@
   {/if}
 
   {if $abbr!="empty"}
-    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name}</a></li>
+    <li><a href="./{if $lang=='ja'}courselist{elseif $lang=='en'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name}</a></li>
   {/if}
 
   {if $smarty.foreach.navigation.last}
@@ -35,8 +35,15 @@
 <!--    <li>OCWシーズン企画</li> -->
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">{if $lang=='ja'}ごあいさつ{else}Introduction{/if}</a></li>
 <!--    <li>アクセスランキング</li> -->
-    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news">{if $lang=='ja'}おしらせ{else}News{/if}</a></li>
+{if $lang=='ja'}
+    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news">おしらせ</a></li>
+{elseif $lang=='en'}
+    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_list">News</a></li>
+{/if}
+<!-- 英語版では"お知らせ"と"プレリリース"を分けない -->
+{if $lang=='ja}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
+{/if}
     <li><a href="http://ocw.media.nagoya-u.ac.jp/system/release-5.1/">{if $lang=='ja'}NU OCW コース管理システム{/if}</a></li>
   </ul>
 
