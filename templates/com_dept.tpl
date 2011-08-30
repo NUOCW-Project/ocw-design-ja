@@ -16,7 +16,7 @@
   {if $mode=="l" && $page_type==$abbr}
     <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt="{$dept.department_name}">
   {elseif $abbr!="empty"}
-    <a href="{if $lang=='ja'}courselist{elseif $lang=='ja'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
+    <a href="{if $lang=='ja'}courselist{elseif $lang=='en'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
            onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'" 
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
