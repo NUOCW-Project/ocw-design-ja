@@ -68,7 +68,7 @@
   </ul>
   
   <div id="proviso">
-    <a href="http://www.nagoya-u.ac.jp/" target="_blank"><img src="./images/common/nu.png" class="nu" alt=""></a>
+    <a href="{if $lang=='ja'}http://www.nagoya-u.ac.jp/{$lang=='en'}http://www.nagoya-u.ac.jp/en/{/if}" target="_blank"><img src="./images/common/nu.png" class="nu" alt=""></a>
     <p class="nu">
     {if $lang=='ja'}
     名大の授業Webサイト、およびこのサイトで公開されている講義資料は、<br>
