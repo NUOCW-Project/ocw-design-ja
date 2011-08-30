@@ -771,6 +771,7 @@ td.topics_date{
 	font-size: 11px; 	
 	text-align: left;
 	padding-top: 1em;
+	padding-left: 200px
 	margin: 50px auto 0 auto ;
 	width: 100%;
 	overflow: hidden;
@@ -785,15 +786,14 @@ td.topics_date{
 }
 
 .navi{
-	padding-left: 2em;
-	padding-right: 2em;
-	text-align: left;
 	float: left; 
 	list-style-type: none;
-	position: relative;
-	left: 200px;
+	width: 220px
 	margin: 0px;
-
+	padding-left: 2em;
+	padding-right: 2em;
+	position: relative;
+	text-align: left;
 }
  
 	.navi li {
