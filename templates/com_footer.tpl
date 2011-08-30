@@ -41,7 +41,7 @@
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_list">News</a></li>
 {/if}
 <!-- 英語版では"お知らせ"と"プレリリース"を分けない -->
-{if $lang=='ja}
+{if $lang=='ja'}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
 {/if}
     <li><a href="http://ocw.media.nagoya-u.ac.jp/system/release-5.1/">{if $lang=='ja'}NU OCW コース管理システム{/if}</a></li>
