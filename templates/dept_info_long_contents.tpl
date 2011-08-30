@@ -29,10 +29,11 @@
 <div class="clear"></div>
 
 <h3>Faculty Introduction</h3>
-{eval var=$dept_info.description|strip}
+<div class="dept_info_dean_text">
 {$dept_info.dean_name|strip}<br>
     {$dept_info.dean_position|strip}
 
+{eval var=$dept_info.description|strip}
 
 <div class="clear"></div>
 
