@@ -771,7 +771,7 @@ td.topics_date{
 	font-size: 11px; 	
 	text-align: left;
 	padding-top: 1em;
-	padding-left: 180px;
+	padding-left: 190px;
 	margin: 50px auto 0 auto ;
 	width: 100%;
 	overflow: hidden;
@@ -788,7 +788,7 @@ td.topics_date{
 .navi{
 	float: left; 
 	list-style-type: none;
-	width: 148px;
+	width: 150px;
 	margin: 0px;
 	padding-left: 2em;
 	padding-right: 2em;
