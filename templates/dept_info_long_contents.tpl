@@ -27,11 +27,15 @@
 <!-- Éô¶É¾Ò²ð¤Î¥Ó¥Ç¥ª½ªÎ» -->
 
 <div class="clear"></div>
+{if $lang=="en"}
 
 <h3>Faculty Introduction</h3>
 <div class="dept_info_dean_text">
 {$dept_info.dean_name|strip}<br>
     {$dept_info.dean_position|strip}
+</div>
+
+{/if}
 
 {eval var=$dept_info.description|strip}
 
