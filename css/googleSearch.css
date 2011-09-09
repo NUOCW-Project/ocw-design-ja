@@ -7,8 +7,10 @@
     border-color: #000000;
   }
   input.gsc-search-button {
-    border-color: #e0e0e0;
+    border-color: #000000;
     background-color: #c0c0ff;
+height: 27.5px;
+
   }
   .gsc-tabHeader.gsc-tabhInactive {
     border-color: #A9DA92;
