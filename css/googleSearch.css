@@ -4,12 +4,12 @@
     background-color: #cc0000;
   }
   input.gsc-input {
-    border-color: #000000;
+    border-color: #white;
   }
   input.gsc-search-button {
-border-color:#dddddd;    
-background-color: #dddddd;
-height: 28px;
+border-color:#cccccc;    
+background-color: #cccccc;
+height: 27px;
 
   }
   .gsc-tabHeader.gsc-tabhInactive {
