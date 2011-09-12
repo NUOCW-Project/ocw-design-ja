@@ -1,5 +1,8 @@
 <div id="dep_introduce">
+
+<div class="dept_info_head_dean">
 {$dept_info.dean_name}, Dean
+</div>
 <div id="dep_txt_en">
 {eval_strip var=$dept_info.description del_ptag=TRUE trunc=650}...
 <a href="./index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info" id="more_en">Read More</a>
