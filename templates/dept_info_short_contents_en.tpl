@@ -1,6 +1,6 @@
 <div id="dep_introduce">
 
-<div class="dept_info_head_dean">
+<div id="dep_info_head_dean">
 {$dept_info.dean_name}, Dean
 </div>
 <div id="dep_txt_en">
