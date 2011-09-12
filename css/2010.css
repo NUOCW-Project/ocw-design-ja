@@ -1198,6 +1198,11 @@ table.sorttable{
         top: 70px; left:530px; 
 }
 
+#dep_info_dean_text{
+        position: relative;
+        left: 300px;
+}
+
 #dep_txt{
 	position: relative;
 	top: 90px; left: 35px;
