@@ -1195,7 +1195,7 @@ table.sorttable{
 
 #dep_info_head_dean{
         position: relative;
-        top: 50px; left:550px; 
+        top: 70px; left:530px; 
 }
 
 #dep_txt{
@@ -1209,7 +1209,7 @@ table.sorttable{
 
 #dep_txt_en{
         position: relative;
-        top: 90px; left: 35px;
+        top: 80px; left: 35px;
         width: 640px;
         height: 200px;
 }
