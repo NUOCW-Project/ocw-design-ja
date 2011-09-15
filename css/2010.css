@@ -1206,9 +1206,25 @@ table.sorttable{
         top: 70px; left:530px; 
 }
 
+#dep_info_title{
+        position: relative;
+        top: 16px;
+        width: 705px;
+        height:19px;
+}
+
 #dep_info_dean_text{
         position: relative;
+        top: 12px;
+        width: 705px;
+        height: 38px;
         text-align: right;
+}
+
+#dep_info_text{
+        position: relative;
+        top: 12px;
+        width: 705px;
 }
 
 #dep_txt{
