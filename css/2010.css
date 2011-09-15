@@ -1178,16 +1178,16 @@ table.sorttable{
 	margin-bottom: 50px;	
 }
 
-#dep_introduce{
+#dep_introduce_en{
         margin-left: -5px;
         margin-bottom: 30px;
-        background-image: url("../images/ja/devision.png");
+        background-image: url("../images/en/devision.png");
         background-repeat: no-repeat;
         width: 710px;
         height: 300px;
 }
 
-#dep_introduce_en{
+#dep_introduce{
         margin-left: -5px;
         margin-bottom: 30px;
         background-image: url("../images/en/devision.png");
@@ -1204,7 +1204,8 @@ table.sorttable{
 
 #dep_info_head_dean{
         position: relative;
-        top: 70px; left:530px; 
+        top: 70px;
+	left:530px; 
 }
 
 #dep_info_title{
