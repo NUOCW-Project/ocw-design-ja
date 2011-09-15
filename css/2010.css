@@ -1,4 +1,4 @@
-body{
+6c6c6c6cbody{
 	margin: 0;
 	padding: 0;
 
@@ -1179,12 +1179,20 @@ table.sorttable{
 }
 
 #dep_introduce{
-	margin-left: -5px;
-	margin-bottom: 30px;
-	background-image: url("../images/ja/devision.png");
-	background-repeat: no-repeat;
-	width: 710px;
-	height: 300px;
+        margin-left: -5px;
+        margin-bottom: 30px;
+        background-image: url("../images/ja/devision.png");
+        background-repeat: no-repeat;
+        width: 710px;
+        height: 300px;
+}
+#dep_introduce_en{
+        margin-left: -5px;
+        margin-bottom: 30px;
+        background-image: url("../images/en/devision.png");
+        background-repeat: no-repeat;
+        width: 710px;
+        height: 300px;
 }	
 
 #dep_introduce h2,
