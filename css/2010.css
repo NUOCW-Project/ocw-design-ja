@@ -1204,7 +1204,7 @@ table.sorttable{
 
 #dep_introduce_en h2,
 #dep_introduce_en h3,
-#dep_introduce_en h4,
+#dep_introduce_en h4{
 	display : none;
 }
 
