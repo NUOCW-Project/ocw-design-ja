@@ -30,7 +30,7 @@
 {if $lang=="en"}
 
 <h1>Faculty Introduction</h1>
-<div class="dept_info_dean_text">
+<div id="dep_info_dean_text">
 {$dept_info.dean_name|strip}<br>
     {$dept_info.dean_position|strip}
 </div>
