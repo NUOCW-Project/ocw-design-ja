@@ -1,4 +1,4 @@
-<div id="dep_introduce">
+<div id="dep_introduce_en">
 
 <div id="dep_info_head_dean">
 {$dept_info.dean_name}, Dean
