@@ -36,7 +36,9 @@
 		<p>Techo-Frontier Seminars, labs-based lectures held every year in summer by Nagoya University's Engineering Department aimed at high-school students across the whole of the Aichi-Tokai area. For details please see<a href="http://www.echo.nuee.nagoya-u.ac.jp/tefs/">this website</a>.</p>
 		<h3>Mathematics Agora:</h3>
 		<p>Public lectures organized and held every year by Nagoya University's Graduate School of Mathematics, aimed at high-school students and their teachers. Details can be found at<a href="http://www.math.nagoya-u.ac.jp/ja/public/agora"> the Graduate School of Mathematics' website</a>.</p>
-	<div id="akf"><h3>AFK Search:</h3>
+<!-- AKF検索を外すことに伴い用語解説からもAKF検索の記述を外す
+	<div id="akf">
+		<h3>AFK Search:</h3>
 		<p>Formally known as the Academic Knowledge Factory, and supported by Nagoya University's libraries, is a system by which you can search information from any of the sites listed below:
 		<ul>
 		<li><a href="http://ir.nul.nagoya-u.ac.jp/dspace/index.jsp" target="_blank">The Nagoya Repository</a>, which holds teaching materials, academic presentations and research papers created by scholars within the university, and makes them available to the world through the internet.</li>
@@ -45,5 +47,6 @@
 		<li><a href="http://ocw.nagoya-u.jp/index.html" target="_blank">Nagoya University Courses</a>, I.E. this website. This takes a selection of courses offered at Nagoya University, and then makes the teaching materials currently being used available free of charge on the internet.</li>
 		</ul></p>
 	</div>
+-->
 	</div>
 </div>

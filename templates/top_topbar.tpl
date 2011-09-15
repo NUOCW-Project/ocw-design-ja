@@ -23,29 +23,14 @@
         <div class="header_button_sub"><!-- 最上部ヘッダー部分を２つに分けた -->
           <!-- Englishボタン -->
           {include file="com_lang.tpl"}
-          <!-- AKF検索 -->
-	  <!-- GOOGLE検索 -->
 
+	  <!-- GOOGLE検索 -->
 	  <div id="cse-search-form" style="width: 100%;">Loading</div>
 	  <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 	  <script src="./js/googleSearch.js" type="text/javascript"></script>
 	  <link rel="stylesheet" type="text/css" href="css/googleSearch.css">
-
 	  <!-- ここまで GOOGLE検索 -->
-	  {*
-          <div class="header_button_akf">
-            <a href="index.php?lang={$another_lang}&amp;mode=g&amp;page_type=glossary#akf">
-            <img src="./images/{$lang}/akf.png" alt="AKF Search" align="left"></a>
-          </div><!-- "header_button_akf" end -->
-          <form method="get" action="./akfsearch.php">
-            <div class="header_button_input"><!-- 最上部ヘッダーのフォーム部分 -->
-              <input type="text" id="searchbox" name="query" value="{if $lang=='ja'}ここから授業を検索できます{else}Search OCW{/if}" size="69">
-              <input type="hidden" name="lang" value="{$lang}">
-            </div><!-- "header_button_input" end -->
-            <div class="header_button_search"><!-- 最上部ヘッダーの検索画像部分 -->
-              <input type="image" src="./images/common/search.png" alt="{if $lang=='ja'}検索する{else}Search{/if}">
-	      *}
-            </div> <!-- "header_button_search" end -->
+          </div> <!-- "header_button_search" end -->
           </form>
         </div><!-- "header_button_sub" end -->
       </div><!-- "header_button" end -->
