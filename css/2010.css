@@ -1208,7 +1208,8 @@ table.sorttable{
 
 #dep_info_dean_text{
         position: relative;
-        text-align: right;
+	background-color: red;
+/*        text-align: right;*/
 }
 
 #dep_txt{
