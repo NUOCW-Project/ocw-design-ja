@@ -1,9 +1,25 @@
+{literal}
+{if $step=3}
+<h1>ステップ3/3</h1>
+<p>ご意見・ご質問をありがとうございました</p>
+<p>以下の内容で受け付けました。<br>
+返信をご希望の場合、多少のお時間を頂く場合がございます。 <br>
+また、すべてのご意見・ご要望・お問い合わせにお答えできない場合もあります。<br>
+あらかじめご了承ください。</p>
+<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
+{elseif $step=2}
+<h1>ステップ2/3</h1>
+<p>内容をご確認のうえ、よろしければ「フォームの送信」ボタンを押して下さい。<br>
+   訂正がある場合、ここで訂正して下さい。</p>
+<p><img src="./images/dot_gray.gif" height="10" width="325"></p>
+{else}
 <p>「名大の授業」についてのお問合せは以下のフォームからお願いします。</p>
 <p>ご意見・ご質問をお待ちしております。</p>
 <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+<h1>ステップ1/3</h1>
 <p>以下のフォームにご記入のうえ、「入力内容の確認」ボタンを押して下さい。</p>
+{/if}
 
-{literal}
 <form  class="feedback" action="inquiry.php" method="post">
 	<h2 class="inq">1. <span class="red">（必須）</span>ご意見・ご質問の種類を１つ選んでください</h2>
 		<div class="inq">
