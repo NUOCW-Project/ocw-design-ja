@@ -12,7 +12,7 @@
 			
 	<h2 class="inq">2. <span class="red">（必須）</span>あなたは：</h2>
 		<div class="inq">
-    {html_radios name='shokugyo' options=$shokugyo_choice selected=$inputdata.toiawase separator='<br>'}
+    {html_radios name='shokugyo' options=$shokugyo_choice selected=$inputdata.shokugyo separator='<br>'}
     </div>
 
 	<h2 class="inq">3. お住まいの都道府県：</h2>
