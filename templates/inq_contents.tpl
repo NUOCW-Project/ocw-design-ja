@@ -10,7 +10,7 @@
     {html_radios name='toiawase' options=$toiawase_choice selected=$inputdata.toiawase separator='<br>'}
 		</div>
 			
-	<h2 class="inq">2. あなたは：</h2>
+	<h2 class="inq">2. <span class="red">（必須）</span>あなたは：</h2>
 		<div class="inq">
     {html_radios name='shokugyo' options=$shokugyo_choice selected=$inputdata.toiawase separator='<br>'}
     </div>
