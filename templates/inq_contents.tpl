@@ -38,16 +38,16 @@
 
 	<h2 class="inq">4. <span class="red">（必須）</span>件名をご記入下さい</h2>
 	<p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
-		<input type="text" name="title" class="fixed_width" >{$inputdata.title|escape}</input>
+		<input type="text" name="title" class="fixed_width" value="{$inputdata.title|escape}">
 		
 	<h2 class="inq">5. <span class="red">（必須）</span>内容を具体的にご記入ください</h2>
 		<textarea name="content" rows="10" cols="50" tabindex="0" >{$inputdata.content|escape}</textarea>	
 
 	<h2 class="inq">6. <span class="red">（必須）</span>お名前</h2>
-		<input type="text" name="c_name"  class="fixed_width">{$inputdata.c_name|escape}</input>
+		<input type="text" name="c_name"  class="fixed_width" value="{$inputdata.c_name|escape}">
 
 	<h2 class="inq">7. <span class="red">（必須）</span>連絡可能なＥメールアドレス</h2>		
-		<input type="text" name="c_email" class="fixed_width">{$inputdata.c_email|escape}</input>
+		<input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
 	<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
 	<input type="submit" name="submit" value="入力内容の確認">
 	<input type="reset" name="" value="リセット">
