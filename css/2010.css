@@ -683,12 +683,16 @@ td.topics_date{
 }
 
 .e_text p{
-        margin-bottom: 0em; 
+	margin-bottom: 0em; 
 	margin-top: 1.5em; 
 	
 	float:left; 
 	width:555px; 
-/*	border: 1px solid red; */
+}
+
+.e_text table p {
+  float: none;
+  width: auto;
 }
 
 .e_text * ul, .e_text * ol, .e_text * li{
@@ -734,6 +738,7 @@ td.topics_date{
 	font-weight: bold;
 /*	color: #2f2f2f; */
 	margin: 1.5em 0 0 0;
+	width: 555px; 
   float: left;
 }
 
