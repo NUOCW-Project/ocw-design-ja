@@ -3,6 +3,7 @@
 <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 <p>以下のフォームにご記入のうえ、「入力内容の確認」ボタンを押して下さい。</p>
 
+{literal}
 <form  class="feedback" action="inquiry.php" method="post">
 	<h2 class="inq">1. <span class="red">（必須）</span>ご意見・ご質問の種類を１つ選んでください</h2>
 		<div class="inq">
@@ -35,6 +36,7 @@
 	<input type="submit" name="submit" value="入力内容の確認">
 	<input type="reset" name="" value="リセット">
 </form>
+{/literal}
 
 <p><img src="./images/common/dot_gray.gif" height="10" width="325"><br>
 〒464-8603 名古屋市千種区不老町<br>
