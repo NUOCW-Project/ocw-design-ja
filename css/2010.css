@@ -1232,7 +1232,7 @@ table.sorttable{
         top: 12px;
         width: 705px;
         height: 38px;
-        margin-right:15px;
+        text-align: right;
 }
 
 #dep_info_text{
