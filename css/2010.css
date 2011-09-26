@@ -1228,11 +1228,11 @@ table.sorttable{
 }
 
 #dep_info_dean_text{
-        position: relative;
+    position: relative;
         top: 12px;
         width: 705px;
         height: 38px;
-        text-align: right;
+        margin-right:15px;
 }
 
 #dep_info_text{
