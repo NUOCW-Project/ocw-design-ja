@@ -33,8 +33,8 @@
 <h1>Faculty Introduction</h1>
 </div>
 <div id="dep_info_dean_text">
-{$dept_info.dean_name|strip}<br>
-    {$dept_info.dean_position|strip}
+{$dept_info.dean_name|strip}&#160;&#160;<br>
+    {$dept_info.dean_position|strip}&#160;&#160;
 </div>
 
 {/if}
