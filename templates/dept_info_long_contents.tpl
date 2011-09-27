@@ -67,8 +67,8 @@
 
 	<!-- ------ Related Link 部分------ -->
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<p>{if $lang == "ja"} ●関連リンク</p> {else}<p><img src="./images/common/get_flash_player.gif" height="10" width="325"></p> &loz;Related Link{/if}
-
+		<p>{if $lang == "ja"} ●関連リンク {els }&loz;Related Lin{/if}
+                </p>
 
 		<!-- 関連リンクデータ -->
 		<p>
