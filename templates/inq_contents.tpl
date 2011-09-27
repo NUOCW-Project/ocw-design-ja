@@ -102,9 +102,10 @@
     {/if}
 	<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
 
-  {if $step==2}
+  {if $step==3}
+  {elseif $step==2}
 	<input type="submit" name="submit" value="フォームの送信">
-  {elseif $step==1}
+  {else}
 	<input type="submit" name="submit" value="{if $step==2}フォームの送信{else}入力内容の確認{/if}">
 	<input type="reset" name="" value="リセット">
   {/if}
