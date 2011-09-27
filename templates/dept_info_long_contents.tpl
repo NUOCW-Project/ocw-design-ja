@@ -67,7 +67,9 @@
 
 	<!-- ------ Related Link 部分------ -->
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<p>{if $lang=='ja'}●関連リンク{ele}<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p> &loz; Related Link{/if}</p>
+		<p>{if $lang == "ja"} ●関連リンク</p> {else}<p><img src="./images/common/get_flash_player.gif" height="10" width="325"></p> &loz;Related Link{/if}
+
+
 		<!-- 関連リンクデータ -->
 		<p>
 		<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
