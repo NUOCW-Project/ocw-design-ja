@@ -64,10 +64,10 @@
 	<h2 class="inq {if $err_message.title}inq_err{/if}">
 	4. 件名{if $step==3}：{else}をご記入下さい{/if}
   </h2>
-	  <p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
     {if $step==3}
     <p>{$inputdata.title|escape}</p>
     {else}
+	  <p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
 		<input type="text" name="title" class="fixed_width" value="{$inputdata.title|escape}">
     {/if}
 		
