@@ -26,7 +26,7 @@
 
 <form  class="feedback" action="inquiry.php" method="post">
 	<h2 class="inq {if $err_message.toiawase}inq_err{/if}">
-  1. ご意見・ご質問の種類を１つ選んでください
+  1. ご意見・ご質問の種類{if $step==3}：{else}を１つ選んでください{/if}
   </h2>
     {if $step==3}
     {assign var=ans value=$inputdata.toiawase}
@@ -62,7 +62,7 @@
     {/if}
 
 	<h2 class="inq {if $err_message.title}inq_err{/if}">
-	4. 件名をご記入下さい
+	4. 件名{if $step==3}：{else}をご記入下さい{/if}
   </h2>
 	  <p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
     {if $step==3}
@@ -72,7 +72,7 @@
     {/if}
 		
 	<h2 class="inq {if $err_message.content}inq_err{/if}">
-	5. 内容を具体的にご記入ください
+	5. 内容{if $step==3}：{else}を具体的にご記入ください{/if}
   </h2>
     {if $step==3}
     <p>{$inputdata.content|escape|nl2br}</p>
