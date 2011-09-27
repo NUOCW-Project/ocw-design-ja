@@ -1,7 +1,7 @@
 {literal}
 {if $step==3}
 <h1>ステップ3/3</h1>
-<p>ご意見・ご質問をありがとうございました</p>
+<p>ご意見・ご質問をありがとうございました。</p>
 <p>以下の内容で受け付けました。<br>
 返信をご希望の場合、多少のお時間を頂く場合がございます。 <br>
 また、すべてのご意見・ご要望・お問い合わせにお答えできない場合もあります。<br>
@@ -81,7 +81,7 @@
     {/if}
 
 	<h2 class="inq {if $err_message.c_name}inq_err{/if}">
-	6. お名前
+	6. お名前：
   </h2>
     {if $step==3}
     <p>{$inputdata.c_name|escape}</p>
@@ -90,7 +90,7 @@
     {/if}
 
 	<h2 class="inq {if $err_message.c_email}inq_err{/if}">
-	7. 連絡可能なＥメールアドレス
+	7. 連絡可能なＥメールアドレス：
   </h2>
     {if $err_message.c_email}
     <p class="inq_err">{$err_message.c_email}</p>
@@ -101,8 +101,13 @@
     <input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
     {/if}
 	<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
+
+  {if $step==2}
+	<input type="submit" name="submit" value="フォームの送信">
+  {elseif $step==1}
 	<input type="submit" name="submit" value="{if $step==2}フォームの送信{else}入力内容の確認{/if}">
 	<input type="reset" name="" value="リセット">
+  {/if}
 </form>
 {/literal}
 
