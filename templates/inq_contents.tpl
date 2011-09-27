@@ -28,39 +28,63 @@
 	<h2 class="inq {if $err_message.toiawase}inq_err{/if}">
   1. ご意見・ご質問の種類を１つ選んでください
   </h2>
+    {if $step==3}
+    {$toiawase_choice.{$inputdata.toiawase}}
+    {else}
 		<div class="inq">
     {html_radios name='toiawase' options=$toiawase_choice selected=$inputdata.toiawase separator='<br>'}
 		</div>
+    {/if}
 			
 	<h2 class="inq {if $err_message.shokugyo}inq_err{/if}">
 	2. あなたは：
   </h2>
+    {if $step==3}
+    {$shokugyo_choice.{$inputdata.shokugyo}}
+    {else}
 		<div class="inq">
     {html_radios name='shokugyo' options=$shokugyo_choice selected=$inputdata.shokugyo separator='<br>'}
     </div>
+    {/if}
 
 	<h2 class="inq {if $err_message.pref}inq_err{/if}">
 	3. お住まいの都道府県：
   </h2>
+    {if $step==3}
+    {$pref_choice.{$inputdata.pref}}
+    {else}
 		<select name="pref" size="1" tabindex="0">
     {html_options options=$pref_choice selected=$inputdata.pref}
     </select>
+    {/if}
 
 	<h2 class="inq {if $err_message.title}inq_err{/if}">
 	4. 件名をご記入下さい
   </h2>
-	<p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
+	  <p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
+    {if $step==3}
+    <p>{$inputdata.title|escape}</p>
+    {else}
 		<input type="text" name="title" class="fixed_width" value="{$inputdata.title|escape}">
+    {/if}
 		
 	<h2 class="inq {if $err_message.content}inq_err{/if}">
 	5. 内容を具体的にご記入ください
   </h2>
+    {if $step==3}
+    <p>{$inputdata.content|escape|nl2br}</p>
+    {else}
 		<textarea name="content" rows="10" cols="50" tabindex="0" >{$inputdata.content|escape}</textarea>	
+    {/if}
 
 	<h2 class="inq {if $err_message.c_name}inq_err{/if}">
 	6. お名前
   </h2>
-		<input type="text" name="c_name"  class="fixed_width" value="{$inputdata.c_name|escape}">
+    {if $step==3}
+    <p>{$inputdata.c_name|escape}</p>
+    {else}
+	  <input type="text" name="c_name"  class="fixed_width" value="{$inputdata.c_name|escape}">
+    {/if}
 
 	<h2 class="inq {if $err_message.c_email}inq_err{/if}">
 	7. 連絡可能なＥメールアドレス
@@ -68,7 +92,11 @@
     {if $err_message.c_email}
     <p class="inq_err">{$err_message.c_email}</p>
     {/if}
-		<input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
+    {if $step==3}
+    <p>{$inputdata.c_email|escape}</p>
+    {else}
+    <input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
+    {/if}
 	<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
 	<input type="submit" name="submit" value="{if $step==2}フォームの送信{else}入力内容の確認{/if}">
 	<input type="reset" name="" value="リセット">
