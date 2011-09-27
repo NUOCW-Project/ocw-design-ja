@@ -1322,7 +1322,7 @@ h2.inq, h2.inq_err {
 	margin: 10px 0;
 }
 
-h2.inq_err {
+.inq_err {
 	color:#FF3333;
 }
 
