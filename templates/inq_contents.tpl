@@ -18,7 +18,7 @@
 <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 <h1>ステップ1/3</h1>
   {if $err_message}
-  <p>赤字の項目に入力ミスがあります。ご修正のうえ、「入力内容の確認」ボタンを押して下さい。</p>
+  <p class="inq_err">赤字の項目に入力ミスがあります。ご修正のうえ、「入力内容の確認」ボタンを押して下さい。</p>
   {else}
   <p>以下のフォームをすべてご記入のうえ、「入力内容の確認」ボタンを押して下さい。</p>
   {/if}
@@ -66,7 +66,7 @@
 	7. 連絡可能なＥメールアドレス
   </h2>
     {if $err_message.c_email}
-    <p>{$err_message.c_email}</p>
+    <p class="inq_err">{$err_message.c_email}</p>
     {/if}
 		<input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
 	<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
