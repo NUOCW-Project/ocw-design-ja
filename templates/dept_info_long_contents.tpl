@@ -67,7 +67,7 @@
 
 	<!-- ------ Related Link 部分------ -->
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<p>{if $lang == "ja"} ●関連リンク {els }&loz;Related Lin{/if}
+		<p>{if $lang == "ja"} ●関連リンク {ese}&loz;Related Likn{/if}
                 </p>
 
 		<!-- 関連リンクデータ -->
