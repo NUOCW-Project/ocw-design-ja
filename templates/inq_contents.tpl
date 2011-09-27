@@ -25,44 +25,44 @@
 {/if}
 
 <form  class="feedback" action="inquiry.php" method="post">
-	<h2 class="{if $err_message.toiawase}inq_err{else}inq{/if}">
+	<h2 class="inq {if $err_message.toiawase}inq_err{/if}">
   1. ご意見・ご質問の種類を１つ選んでください
   </h2>
 		<div class="inq">
     {html_radios name='toiawase' options=$toiawase_choice selected=$inputdata.toiawase separator='<br>'}
 		</div>
 			
-	<h2 class="{if $err_message.shokugyo}inq_err{else}inq{/if}">
+	<h2 class="inq {if $err_message.shokugyo}inq_err{/if}">
 	2. あなたは：
   </h2>
 		<div class="inq">
     {html_radios name='shokugyo' options=$shokugyo_choice selected=$inputdata.shokugyo separator='<br>'}
     </div>
 
-	<h2 class="{if $err_message.pref}inq_err{else}inq{/if}">
+	<h2 class="inq {if $err_message.pref}inq_err{/if}">
 	3. お住まいの都道府県：
   </h2>
 		<select name="pref" size="1" tabindex="0">
     {html_options options=$pref_choice selected=$inputdata.pref}
     </select>
 
-	<h2 class="{if $err_message.title}inq_err{else}inq{/if}">
+	<h2 class="inq {if $err_message.title}inq_err{/if}">
 	4. 件名をご記入下さい
   </h2>
 	<p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
 		<input type="text" name="title" class="fixed_width" value="{$inputdata.title|escape}">
 		
-	<h2 class="{if $err_message.content}inq_err{else}inq{/if}">
+	<h2 class="inq {if $err_message.content}inq_err{/if}">
 	5. 内容を具体的にご記入ください
   </h2>
 		<textarea name="content" rows="10" cols="50" tabindex="0" >{$inputdata.content|escape}</textarea>	
 
-	<h2 class="{if $err_message.c_name}inq_err{else}inq{/if}">
+	<h2 class="inq {if $err_message.c_name}inq_err{/if}">
 	6. お名前
   </h2>
 		<input type="text" name="c_name"  class="fixed_width" value="{$inputdata.c_name|escape}">
 
-	<h2 class="{if $err_message.c_email}inq_err{else}inq{/if}">
+	<h2 class="inq {if $err_message.c_email}inq_err{/if}">
 	7. 連絡可能なＥメールアドレス
   </h2>
     {if $err_message.c_email}

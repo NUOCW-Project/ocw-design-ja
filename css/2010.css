@@ -1313,7 +1313,7 @@ div.sitemap_contents{
 
 
 /** お問い合わせ **/
-h2.inq, h2.inq_err {
+h2.inq {
 	font-size: 130%;
 	font-weight: bold;
 	color: #666666;
