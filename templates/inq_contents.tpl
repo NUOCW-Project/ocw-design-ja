@@ -29,7 +29,8 @@
   1. ご意見・ご質問の種類を１つ選んでください
   </h2>
     {if $step==3}
-    {$toiawase_choice.{$inputdata.toiawase}}
+    {assign var=ans value=$inputdata.toiawase}
+    {$toiawase_choice.$ans}
     {else}
 		<div class="inq">
     {html_radios name='toiawase' options=$toiawase_choice selected=$inputdata.toiawase separator='<br>'}
@@ -40,7 +41,8 @@
 	2. あなたは：
   </h2>
     {if $step==3}
-    {$shokugyo_choice.{$inputdata.shokugyo}}
+    {assign var=ans value=$inputdata.shokugyo}
+    {$shokugyo_choice.$ans}
     {else}
 		<div class="inq">
     {html_radios name='shokugyo' options=$shokugyo_choice selected=$inputdata.shokugyo separator='<br>'}
@@ -51,7 +53,8 @@
 	3. お住まいの都道府県：
   </h2>
     {if $step==3}
-    {$pref_choice.{$inputdata.pref}}
+    {assign var=ans value=$inputdata.pref}
+    {$pref_choice.$ans}
     {else}
 		<select name="pref" size="1" tabindex="0">
     {html_options options=$pref_choice selected=$inputdata.pref}
