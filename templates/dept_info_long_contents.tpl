@@ -33,8 +33,8 @@
 <h1>Faculty Introduction</h1>
 </div>
 <div id="dep_info_dean_text">
-{$dept_info.dean_name|strip}&#160;&#160;<br>
-    {$dept_info.dean_position|strip}&#160;&#160;
+{$dept_info.dean_name|strip}<br>
+    {$dept_info.dean_position|strip}
 </div>
 
 {/if}
@@ -67,7 +67,7 @@
 
 	<!-- ------ Related Link 部分------ -->
 		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<p>{if $lang=='ja'}●関連リンク{els}<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p> &loz; Related Link{/if}</p>
+		<p>{if $lang=='ja'}●関連リンク{ele}<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p> &loz; Related Link{/if}</p>
 		<!-- 関連リンクデータ -->
 		<p>
 		<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
