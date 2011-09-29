@@ -1254,11 +1254,8 @@ table.sorttable{
         position: relative;
         top: 90px; left: 35px;
         width: 630px;
-        height: 200px;
+        height: 110px;
         overflow: hidden;
-}
-#dep_text_en object{
-display:none;
 }
 
 a#more{
@@ -1282,7 +1279,7 @@ a#more_en{
 
 #dep_url_en{
         position: relative;
-	top: 10px; left: 0px;
+	top: 10px; left: 35px;
         margin: 0px;
 }
 
