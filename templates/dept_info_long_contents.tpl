@@ -66,17 +66,20 @@
 
 
 	<!-- ------ Related Link 部分------ -->
-		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-                <p>{if $lang == "ja"} ●関連リンク {else} &loz;Related Link{/if}
-                </p> 
+           
+  		 <div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
+<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+               <p>{if $lang == "ja"} ●関連リンク{else}&loz;Related Link{/if}</p>
 
 
-		<!-- 関連リンクデータ -->
-		<p>
-		<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
-		</p>
-		<!-- 関連リンクデータ -->
-		</div><!-- 関連リンクコンテンツセル終了 -->
+                <!-- 関連リンクデータ -->
+                <p>
+                <a href="{$dept_info.department_url}">{$dept_info.department_na\
+\
+me}</a>
+                </p>
+                <!-- 関連リンクデータ -->
+                </div><!-- 関連リンクコンテンツセル終了 -->
 
 	<!-- ------Related Link部分ここまで------ -->
 
