@@ -1257,7 +1257,9 @@ table.sorttable{
         height: 200px;
         overflow: hidden;
 }
-
+#dep_text_en object{
+display:none;
+}
 
 a#more{
   display: block;
