@@ -74,9 +74,7 @@
 
                 <!-- 関連リンクデータ -->
                 <p>
-                <a href="{$dept_info.department_url}">{$dept_info.department_na\
-\
-me}</a>
+                <a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
                 </p>
                 <!-- 関連リンクデータ -->
                 </div><!-- 関連リンクコンテンツセル終了 -->
