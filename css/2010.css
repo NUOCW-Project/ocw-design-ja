@@ -1255,6 +1255,7 @@ table.sorttable{
         top: 90px; left: 35px;
         width: 630px;
         height: 200px;
+        overflow: hidden;
 }
 
 
