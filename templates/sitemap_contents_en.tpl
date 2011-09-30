@@ -4,14 +4,14 @@
         <tr>
         <td class="left">
         <ul class="sitemap_navi">
-                <li><a href="index.html">HOME</a>
+                <li><a href="index.php?lang={$lang}&amp;mode=g&id=&page_type=top">HOME</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">Help(FAQs)</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=about">About NU OCW</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">用語解説</a>
+                <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">Glossary</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">1 minute Video Summary&Podcast</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">Welcome to NU OCW</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">Inquiries</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=link">リンク</a>
+                <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=link">Link</a>
         </ul>
         <ul class="sitemap_navi">
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=kyoiku-in">Institute of Liberal Arts and Sciences</a>
@@ -30,18 +30,6 @@
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=lang">Graguate School of Languages and Cultures</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=env">Graduate School of Environmental Studies</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">Education Center for International Students</a>
-        </ul>
-        <ul class="sitemap_navi">
-                <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=open">高校生公開講座</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=extension">名古屋大学公開講座</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=relay">名古屋大学リレーセミナー</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=gcoetop">グローバルCOEプログラム</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=fwarchive">退職記念講義アーカイブ</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=farewell">退職記念講義2009</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=tefs">TEFS</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=agora">数学アゴラ</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=sem">女子中高生理系進学推進セミナー</a>
-
         </ul>
         </td>
         </tr>
