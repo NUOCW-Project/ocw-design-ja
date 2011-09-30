@@ -8,7 +8,7 @@
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">Help(FAQs)</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=about">About NU OCW</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">Glossary</a>
-                <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">1 minute Video Summary&Podcast</a>
+                <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">1 minute Video Summary & Podcast</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">Welcome to NU OCW</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">Inquiries</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=link">Link</a>
@@ -30,8 +30,6 @@
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=lang">Graguate School of Languages and Cultures</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=env">Graduate School of Environmental Studies</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">Education Center for International Students</a>
-        </ul>
-        <ul class="sitemap_navi">
         </ul>
         </td>
         </tr>
