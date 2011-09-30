@@ -1258,9 +1258,11 @@ table.sorttable{
         overflow: hidden;
 }
 
+/*
 #dep_txt_en video{
 display:none;
 }
+*/
 
 a#more{
   display: block;
