@@ -31,6 +31,8 @@
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=env">Graduate School of Environmental Studies</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">Education Center for International Students</a>
         </ul>
+        <ul class="sitemap_navi">
+        </ul>
         </td>
         </tr>
         </tbody>
