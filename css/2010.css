@@ -1254,8 +1254,12 @@ table.sorttable{
         position: relative;
         top: 90px; left: 35px;
         width: 630px;
-        height: 100px;
+        height: 200px;
         overflow: hidden;
+}
+
+#dep_txt_en img{
+        display: none
 }
 
 a#more{
