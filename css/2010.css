@@ -1254,15 +1254,9 @@ table.sorttable{
         position: relative;
         top: 90px; left: 35px;
         width: 630px;
-        height: 200px;
+        height: 100px;
         overflow: hidden;
 }
-
-/*
-#dep_txt_en video{
-display:none;
-}
-*/
 
 a#more{
   display: block;
