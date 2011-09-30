@@ -3,7 +3,8 @@
     {$dept_info.dean_name}, Dean
   </div>
   <div id="dep_txt_en">
-    {eval_strip var=$dept_info.description del_ptag=TRUE trunc=600}...
+    {eval_strip var=$dept_info.description tags=TRUE_|mb_truncate:200}
+{*del_ptag=TRUE trunc=600}...*}
 
     <a href="./index.php?lang={$lang}&amp;mode=l&amp;page_type={$curr_department_abbr}_info" id="more_en">Read More</a>
     <div id="dep_url_en">
