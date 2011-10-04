@@ -123,16 +123,14 @@
 <!-- ボックス「アクセスランキング」 -->
 <div id="toppage_greeting">
 <div class="waku">
-  <img src="./images/{$lang}/goaisatu.png" alt="
-  {if $lang=='ja'}
-    名古屋大学オープンコースウェア委員長 山本一良
+	<img src="./images/ja/t_goaisatsu.png" class="subheading" alt="ごあいさつ" width="180" height="20">
+	 <br>
+ 	<img src="./images/common/dots.png" class="dots" alt="" height="10">
+	 <br>
+  <img src="./images/{$lang}/goaisatu.png" alt="" id="yamamoto">
+    名古屋大学オープンコースウェア委員長 山本一良<br>
     ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。
-  {else}
-    Ichiro Yamamoto, Chairperson, OpenCourseWare Committee, Nagoya University,
-    Here at the NU OCW website we have gathered notes and materials from lectures given at Nagoya University.
-  {/if}
-  " id="yamamoto">
-     <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
 </div>
 </div><!-- "greeting" end -->
 </div><!-- 右側ボックスend -->
