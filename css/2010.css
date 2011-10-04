@@ -1,21 +1,8 @@
-body{
-	margin: 0;
-	padding: 0;
-
-	background-color: #f6f6f6;
-	font-size: 12.5px; 
-	/* small指定はブラウザにより異なる */
-	line-height: 150%;
-	color: #666666;
-}
-
-.body_back{
-
-	background-image: url(../images/common/bg.png); /*グレーの背景*/
-	background-repeat: repeat-x;
-	background-position: 0px 90px; /* ヘッダー画像の下に白線がある*/
-	}
-
+/*
+------------------------------------------------------------
+  基本的な要素の共通スタイル    
+------------------------------------------------------------
+*/
 h2{
 	font-size: large;
 	color: #DD0000;
@@ -50,6 +37,87 @@ a:hover{
 	text-decoration: underline;
 }
 
+table{
+	border-style: none;
+	margin: 0;
+	padding: 0;
+	zoom: 1;
+}
+
+	td{
+		border-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	tr{
+		border-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+span.i{
+	font-style:italic;
+}
+
+span.u{
+	text-decoration: underline;
+}
+
+span.b{
+	font-weight: bold; 
+}
+
+ul.none{
+	list-style-type: none;    /*マーカーなし*/
+}
+
+ul.circle{
+	list-style-type: circle;    /*白丸*/
+}
+
+ul.square{
+	list-style-type: square;    /*黒四角*/
+}
+
+
+ol.lower-roman{
+	list-style-type: lower-roman;    /*小文字のローマ数字*/
+}
+
+ol.upper-roman{
+	list-style-type: upper-roman;    /*大文字のローマ数字*/
+}
+
+ol.lower-alpha{
+	list-style-type: lower-alpha;    /*小文字のアルファベット*/
+}
+
+ol.upper-alpha{
+	list-style-type: upper-alpha;    /*大文字のアルファベット*/
+}
+
+/*
+------------------------------------------------------------
+  共通のページの構造    
+------------------------------------------------------------
+*/
+body{
+	margin: 0;
+	padding: 0;
+
+	background-color: #f6f6f6;
+	font-size: 12.5px; 
+	/* small指定はブラウザにより異なる */
+	line-height: 150%;
+	color: #666666;
+}
+
+.body_back{
+	background-image: url(../images/common/bg.png); /*グレーの背景*/
+	background-repeat: repeat-x;
+	background-position: 0px 90px; /* ヘッダー画像の下に白線がある*/
+}
 
 .header{
 	height: 90px; 
@@ -255,14 +323,13 @@ a:hover{
 	padding: 0px;
 }
 
+/* 部局リスト */
 #departmentslist{
 	float: left;
 	width: 160px;
 	padding:0px;
 	margin: 0px 5px 0px 30px;
 	list-style:none;
-/*	position: relative;
-	top: -25px;			*/
 }
 
 *html #departmentslist{
@@ -299,16 +366,17 @@ a:hover{
   margin: 0;
   height: 40px;
 }
-
-#being{
-	color: red;
+ 
+ul#departmentslist a{
+	font-weight: 500;
 }
 
-#header_for_top{
-	height: 400px;
-	position: relative;
+ul#departmentslist a:visited{
+	font-weight: 400;
 }
 
+
+/* 本文 */
 #package{
 	position:relative;/* #menuを絶対配置するため */
 	overflow: hidden;
@@ -356,6 +424,14 @@ a:hover{
 	border-color: blue;*/
 }
 
+.topjump{
+	clear: both;
+	margin-top: 10px;
+	position: absolute;
+	right: 20px;
+	bottom: 0px;
+}
+
 /* IE6 hack */
 * html #contents{
 	width: 705px;
@@ -381,10 +457,98 @@ body:first-of-type #contents{
 			color: #666666;
 		}
 
-/* 以下トップページ関連 */
-.inline
+/* フッター */
+.footer{	
+	position: relative; 
+	clear: both;
+	font-size: 11px; 	
+	text-align: left;
+	padding-top: 1em;
+	margin: 50px auto 0 auto ;
+	width: 100%;
+	overflow: hidden;
+	background-color: #e7e7df; 
+}
 
-{
+.line{
+	margin: 0 auto 1ex auto;
+	/*text-align: center ; */
+
+	width:98%;
+}
+
+.navi{
+	padding-left: 2em;
+	padding-right: 2em;
+	text-align: left;
+	float: left; 
+	list-style-type: none;
+	position: relative;
+	left: 200px;
+	margin: 0px;
+
+}
+ 
+	.navi li {
+		margin-bottom: 1ex;
+	}
+
+#footer_bottom{
+	position: relative; 
+	overflow: hidden;
+	padding-left: 205px;
+	background-color: #ecece6;
+	}
+
+
+#link {
+	margin: 1em 0 auto auto;
+	padding-left: auto;
+	padding-right: auto;
+	clear: both;
+	list-style-type: none;
+/*	position: relative;
+	left: 205px;*/
+}
+
+	#link li{
+		margin: 1ex;
+		display: inline;
+		color: #DD0100;
+	}
+
+	#link a{
+		color: #DD0100;
+	}
+
+#size_images{
+	margin: -5px; 
+}
+
+.size_img{
+	margin: -5px; 
+}
+
+#proviso {
+	margin: 1em 0 auto auto;
+	padding-left: 150px;
+	clear: both;
+	font-size: 11px;
+}
+
+.nu{
+	/*font-size: 11px; */
+	margin: 0px;
+	float: left; 
+	padding-bottom: 30px;
+}
+
+/*
+------------------------------------------------------------
+   トップページ    
+------------------------------------------------------------
+*/
+.inline {
 	display: inline-block;
 }
 /* IE対策 */
@@ -393,6 +557,7 @@ body:first-of-type #contents{
 	width: 100%;
 }
 
+/* トップページの見出し画像にお知らせを出す時に使用 */
 #important_notice {
   position: absolute;
   top: 38px;
@@ -420,6 +585,7 @@ body:first-of-type #contents{
   text-align: center;
 }
 
+/* TOPICS 通常の横幅の場合 */
 #feature{
 	width: 530px;
 	float: left;
@@ -433,6 +599,7 @@ img#prj10{
 	margin-left: -10px;
 }
 
+/* TOPICS 通常の横幅の場合 */
 #greeting{
 	float: left;
 	width: 165px;
@@ -556,25 +723,6 @@ img#prj10{
 			margin-left: 5px;
 		}
 			
-table{
-	border-style: none;
-	margin: 0;
-	padding: 0;
-	zoom: 1;
-}
-
-	td{
-		border-style: none;
-		margin: 0;
-		padding: 0;
-	}
-
-	tr{
-		border-style: none;
-		margin: 0;
-		padding: 0;
-	}
-
 #conditionbox{
 	background-image:url(../images/common/courselist_list.png);
 	background-repeat: no-repeat;
@@ -613,9 +761,32 @@ td.topics_date{
 	display: block;*/
 	}
 
+.jump{
+	margin-left: auto;
+}
 
-/* 以下コースホーム関連 */
 
+		head~/* */body .jump{
+			float: right;
+		}
+
+.icon{
+	width: 30px;
+	height: 15px;
+	margin-right: 0;
+	margin-left: auto;
+	float: right;
+	display: inline;
+	vertical-align: middle;
+	vertical-align: text-bottom;
+}
+
+
+/*
+------------------------------------------------------------
+   コースページ    
+------------------------------------------------------------
+*/
 #caption{
 	padding: 25px 305px 0px 0px; /* 25pxより大きい気がするのは気のせい？ */
 	margin: 0px;
@@ -742,132 +913,6 @@ td.topics_date{
   float: left;
 }
 
-.jump{
-	margin-left: auto;
-}
-
-
-		head~/* */body .jump{
-			float: right;
-		}
-
-.topjump{
-	clear: both;
-	margin-top: 10px;
-	position: absolute;
-	right: 20px;
-	bottom: 0px;
-}
-
-.icon{
-	width: 30px;
-	height: 15px;
-	margin-right: 0;
-	margin-left: auto;
-	float: right;
-	display: inline;
-	vertical-align: middle;
-	vertical-align: text-bottom;
-}
-
-
-/* 以下フッター関連 */
-
-.footer{	
-	position: relative; 
-	clear: both;
-	font-size: 11px; 	
-	text-align: left;
-	padding-top: 1em;
-	margin: 50px auto 0 auto ;
-	width: 100%;
-	overflow: hidden;
-	background-color: #e7e7df; 
-}
-
-.line{
-	margin: 0 auto 1ex auto;
-	/*text-align: center ; */
-
-	width:98%;
-}
-
-.navi{
-	padding-left: 2em;
-	padding-right: 2em;
-	text-align: left;
-	float: left; 
-	list-style-type: none;
-	position: relative;
-	left: 200px;
-	margin: 0px;
-
-}
- 
-	.navi li {
-		margin-bottom: 1ex;
-	}
-
-#footer_bottom{
-	position: relative; 
-	overflow: hidden;
-	padding-left: 205px;
-	background-color: #ecece6;
-	}
-
-
-#link {
-	margin: 1em 0 auto auto;
-	padding-left: auto;
-	padding-right: auto;
-	clear: both;
-	list-style-type: none;
-/*	position: relative;
-	left: 205px;*/
-}
-
-	#link li{
-		margin: 1ex;
-		display: inline;
-		color: #DD0100;
-	}
-
-	#link a{
-		color: #DD0100;
-	}
-
-#size_images{
-	margin: -5px; 
-}
-
-.size_img{
-	margin: -5px; 
-}
-
-#proviso {
-	margin: 1em 0 auto auto;
-	padding-left: 150px;
-	clear: both;
-	font-size: 11px;
-}
-
-.nu{
-	/*font-size: 11px; */
-	margin: 0px;
-	float: left; 
-	padding-bottom: 30px;
-}
-
-/** footer 終了 **/
- 
-ul#departmentslist a{
-	font-weight: 500;
-}
-
-ul#departmentslist a:visited{
-	font-weight: 400;
-}
-
 table.basic, table.farewell, table.relay {
 	border:0;
 	border-collapse: collapse;
@@ -904,20 +949,6 @@ table.basic ul, table.basic ol {
   margin: 10px 0;
 }
 
-
-/* -----------------Course Contents ---------------*/
-span.i{
-	font-style:italic;
-}
-
-span.u{
-	text-decoration: underline;
-}
-
-span.b{
-	font-weight: bold; 
-}
-
 #release_date {
   text-align: left;
   float: left;
@@ -928,71 +959,11 @@ span.b{
   margin-bottom: 30px;
 }
 
-/*------------- 1分間授業紹介&PodCast -----------*/
-#podcast{
-	float: left;
-	width: 160px;
-	padding: 0px;
-	margin: 0px 5px 0px 40px;
-	position: relative;
-	top: -25px;
-	background-color: white;
-}
-
-#podcast_right{
-	float: right;
-	width: 160px;
-	padding: 0px;
-	margin: 10px 10px 10px 10px;
-	position: relative;
-	top: -25px;
-	background-color: white;
-}
-
-#podcast_waku{
-        border-style: solid;
-        border-width: 1px;
-        border-color: #cccccc;
-        overflow: hidden;
-        position: relative;
-        padding: 0px;
-	margin: 2px;
-}
-
-#aboutpodcast_image{
-        padding: 0px;
-        margin: 15.5px 15.5px 12px;
-        position: relative;
-}
-
-#aboutpodcast_sentence{
-	padding: 0px;
-	margin: 0px 15.5px 15.5px;
-	position: relative;
-}
-
-#contents_p{
-        position:relative;
-        top: -25px;
-        margin-left: 200px;
-        margin-right: 0px;
-        background-color: white;
-        padding-left: 1ex;
-}
-
-div.course_contents{
-	margin: 0px
-}
-
-div.realplayer{
-	margin: 40px 0;
-}
-
-div.podcast{
-	margin: 25px 5px;
-	padding: 0;
-}
-
+/*
+------------------------------------------------------------
+   旧デザインと同じ表のスタイル（英語版などで使用）
+------------------------------------------------------------
+*/
 td.td_left_gray{
 	background-image: url(../images/common/flame02.gif);
 	background-repeat: repeat-y;
@@ -1020,38 +991,6 @@ td.td_contents_gray{
 	background-color:#e7e7df;
 }
 
-/* 箇条書き */
-ul.none{
-	list-style-type: none;    /*マーカーなし*/
-}
-
-ul.circle{
-	list-style-type: circle;    /*白丸*/
-}
-
-ul.square{
-	list-style-type: square;    /*黒四角*/
-}
-
-
-ol.lower-roman{
-	list-style-type: lower-roman;    /*小文字のローマ数字*/
-}
-
-ol.upper-roman{
-	list-style-type: upper-roman;    /*大文字のローマ数字*/
-}
-
-ol.lower-alpha{
-	list-style-type: lower-alpha;    /*小文字のアルファベット*/
-}
-
-ol.upper-alpha{
-	list-style-type: upper-alpha;    /*大文字のアルファベット*/
-}
-
-
-/* 表 */
 table.center_contents{
  margin:0;
  padding:0;
@@ -1146,7 +1085,80 @@ td.separate{
 	background-color:#fff;
 }
 
-/** 授業一覧から探す　関連  **/
+/*
+------------------------------------------------------------
+   1分間授業紹介&PodCast
+------------------------------------------------------------
+*/
+#podcast{
+	float: left;
+	width: 160px;
+	padding: 0px;
+	margin: 0px 5px 0px 40px;
+	position: relative;
+	top: -25px;
+	background-color: white;
+}
+
+#podcast_right{
+	float: right;
+	width: 160px;
+	padding: 0px;
+	margin: 10px 10px 10px 10px;
+	position: relative;
+	top: -25px;
+	background-color: white;
+}
+
+#podcast_waku{
+        border-style: solid;
+        border-width: 1px;
+        border-color: #cccccc;
+        overflow: hidden;
+        position: relative;
+        padding: 0px;
+	margin: 2px;
+}
+
+#aboutpodcast_image{
+        padding: 0px;
+        margin: 15.5px 15.5px 12px;
+        position: relative;
+}
+
+#aboutpodcast_sentence{
+	padding: 0px;
+	margin: 0px 15.5px 15.5px;
+	position: relative;
+}
+
+#contents_p{
+        position:relative;
+        top: -25px;
+        margin-left: 200px;
+        margin-right: 0px;
+        background-color: white;
+        padding-left: 1ex;
+}
+
+div.course_contents{
+	margin: 0px
+}
+
+div.realplayer{
+	margin: 40px 0;
+}
+
+div.podcast{
+	margin: 25px 5px;
+	padding: 0;
+}
+
+/*
+------------------------------------------------------------
+   コースリスト
+------------------------------------------------------------
+*/
 #sort {
 	clear: both;
 	float: right;
@@ -1294,7 +1306,11 @@ a#more_en{
 	left: 560px;
 }
 
-/** サイトマップ関連 **/
+/*
+------------------------------------------------------------
+   サイトマップ 
+------------------------------------------------------------
+*/
 div.sitemap_contents{
 	position: relative;
 	clear: both;
@@ -1316,7 +1332,11 @@ div.sitemap_contents{
 }
 
 
-/** お問い合わせ **/
+/*
+------------------------------------------------------------
+   お問い合わせ 
+------------------------------------------------------------
+*/
 h2.inq {
 	font-size: 130%;
 	font-weight: bold;
@@ -1330,7 +1350,11 @@ h2.inq {
 	color:#FF3333 !important;
 }
 
-/** 用語解説　**/
+/*
+------------------------------------------------------------
+   用語解説 
+------------------------------------------------------------
+*/
 .g_text {
 	padding-left: 150px;
 	margin-bottom: 45px;
@@ -1372,7 +1396,11 @@ h2.inq {
 	/*  clear: left;*/
 }
 
-/** 名大の授業について **/
+/*
+------------------------------------------------------------
+   名大の授業について
+------------------------------------------------------------
+*/
 .about{
 	padding: 0;
 	margin: 0;
@@ -1411,7 +1439,11 @@ h2.inq {
 	padding: 0;
 }
 
-/** FAQ **/
+/*
+------------------------------------------------------------
+   FAQ
+------------------------------------------------------------
+*/
 div.faq_normal{
 	border: thin solid white;
 	padding: 5px 20px;
@@ -1426,7 +1458,11 @@ div.faq_color{
 	margin: 0px;
 }
 
-/** ごあいさつ **/
+/*
+------------------------------------------------------------
+   ごあいさつ
+------------------------------------------------------------
+*/
 p.welcome_b{
 	font-size: large;
 	color: #666666;
@@ -1460,7 +1496,11 @@ div.welcome_contents{
 	margin-bottom: 1000px;
 }
 
-/* 特別企画 */
+/*
+------------------------------------------------------------
+   特別企画
+------------------------------------------------------------
+*/
 table.special {
   border-collapse: collapse;
 }
@@ -1487,7 +1527,11 @@ h3.special {
   font-size: x-large;
 }
 
-/** 留学生の声 **/
+/*
+------------------------------------------------------------
+   留学生の声
+------------------------------------------------------------
+*/
 .student { 
         float: left;
         margin: 0px;
@@ -1499,7 +1543,6 @@ h3.special {
         overflow: visible;
 }
 
-/** 留学生の声 **/
 #student_en {
         display: block;
         float: left;
@@ -1535,6 +1578,11 @@ h3.special {
         background-position: 0px 327px;
 }
 
+/*
+------------------------------------------------------------
+   英語版Topページ関連
+------------------------------------------------------------
+*/
 /* おしらせ */
 #notice_en {
         float: left;
@@ -1546,8 +1594,6 @@ h3.special {
         border-color: #e7e7df;
 }
 
-
-/** 英語版Topページ関連 **/
 #greeting_en{
         float: left;
         width: 165px;

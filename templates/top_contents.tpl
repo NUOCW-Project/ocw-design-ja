@@ -30,6 +30,7 @@
 
 <div class="inline">
 
+<div id="top_boxes_left">
 <!-- ボックス「お知らせ」-->
 <div id="notice">
 <div class="waku">
