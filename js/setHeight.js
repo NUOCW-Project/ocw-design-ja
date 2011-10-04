@@ -2,8 +2,8 @@
 
 $(function(){ 
   var H;
-  H = $("#notice").outerHeight() + $("#press").outerHeight() - 8;
-  $("#access div").css("height", H + "px");
+  H = $("#toppage_notice").outerHeight() + $("#toppage_press").outerHeight() - 8;
+  $("#toppage_access div").css("height", H + "px");
 
   H = H -30;
   var G = 0;
