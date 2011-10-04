@@ -715,8 +715,8 @@ img#prj10{
 		html>/**/body #toppage_greeting{
 			clear: right;
 		}
-  .toppage_yamamoto {
-    float: left; !important
+  #toppage_greeting .toppage_yamamoto {
+    float: left;
     width: 110px;
   }
 
