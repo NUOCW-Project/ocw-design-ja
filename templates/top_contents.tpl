@@ -130,7 +130,7 @@
   <p><img src="./images/{$lang}/goaisatu.png" alt=""></p>
   <p id="toppage_yamamoto_name">名古屋大学<br>OCW委員会<br>委員長 山本一良</p>
   <p>ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。</p>
-  <p><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a></p>
+  <p class="jump"><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">more...</a></p>
 </div>
 </div><!-- "greeting" end -->
 </div><!-- 右側ボックスend -->
