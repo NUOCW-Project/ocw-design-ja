@@ -718,6 +718,7 @@ img#prj10{
   .toppage_yamamoto {
     display: block;
     float: left;
+    width: 120px;
   }
 
 	#toppage_greeting p{
