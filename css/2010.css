@@ -715,15 +715,15 @@ img#prj10{
 		html>/**/body #toppage_greeting{
 			clear: right;
 		}
-  #toppage_greeting .toppage_yamamoto {
-    float: left;
-    width: 110px;
-  }
-
 	#toppage_greeting p{
     clear: left;
 		margin: 0px 1ex 1em 1ex;
 	}
+  #toppage_greeting .toppage_yamamoto {
+    float: left;
+    clear: none;
+    width: 110px;
+  }
 	#toppage_greeting a{
       padding-left:12px;
   		background-image:url(../images/common/arrow_on.png);
