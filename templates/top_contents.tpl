@@ -128,9 +128,9 @@
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
   <img src="./images/{$lang}/goaisatu.png" alt="" id="yamamoto">
-    名古屋大学オープンコースウェア委員長 山本一良<br>
-    ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
+  <p>名古屋大学オープンコースウェア委員長 山本一良</p>
+  <p>ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。</p>
+  <p><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a></p>
 </div>
 </div><!-- "greeting" end -->
 </div><!-- 右側ボックスend -->
