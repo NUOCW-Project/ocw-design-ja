@@ -562,7 +562,7 @@ body:first-of-type #contents{
   margin: 0;
   padding: 0;
   border: 0;
-  width: 400px;
+  width: 433px;
 }
 
 #toppage_boxes_right {
@@ -570,7 +570,7 @@ body:first-of-type #contents{
   margin: 0;
   padding: 0;
   border: 0;
-  width: 305px;
+  width: 272px;
 }
 
 /* ボックスの共通スタイル */
@@ -620,7 +620,7 @@ body:first-of-type #contents{
 }
 
 /* TOPICS 通常の横幅の場合 */
-#feature{
+#toppage_feature{
 	width: 530px;
 	float: left;
 	background-color: white;
@@ -655,29 +655,27 @@ img#prj10{
 		margin: 0px 1ex 1em 1ex;
 	}
 
-#notice{
+#toppage_notice{
 	float: left;
 	border-style: solid;
 	border-width: 3px;
 	border-color: #e7e7df;
 	margin: 6px 6px 0 0;
-	width: 332px;
+	width: 420px;
 }
-		html>/**/body #notice{
+		html>/**/body #toppage_notice{
 			clear: right;
 		}
 
-#press{
-	/*clear: right;*/
+#toppage_press{
 	float: left;
 	border-style: solid;
 	border-width: 3px;
 	border-color: #e7e7df;
-	width: 332px;
-	/*height: 300px;*/
 	margin: 6px 6px 0 0;
+	width: 420px;
 }
-		html>/**/body #press{
+		html>/**/body #toppage_press{
 			clear: right;
 		}
 

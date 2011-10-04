@@ -33,7 +33,7 @@
 <!-- 左側ボックス -->
 <div id="toppage_boxes_left">
 <!-- ボックス「お知らせ」-->
-<div id="notice">
+<div id="toppage_notice">
 <div class="waku">
   <img src="./images/{$lang}/t_news.png" class="subheading" alt="{if $lang=='ja'}おしらせ{else}News{/if}" width="180" height="20">
   <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
@@ -53,7 +53,7 @@
 </div><!-- 「お知らせ」end  -->
 
 <!-- ボックス「プレスリリース」-->
-<div id="press">
+<div id="toppage_press">
 <div class="waku">
   <img src="./images/{$lang}/t_release.png" class="subheading" alt="{if $lang=='ja'}プレスリリース{else}Press Releases{/if}" width="180" height="20">
   <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
