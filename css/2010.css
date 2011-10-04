@@ -661,10 +661,13 @@ img#prj10{
 	border-color: #e7e7df;
 	margin: 6px 6px 0 0;
 	width: 421px;
-  height: 235px;
 }
   html>/**/body #toppage_press{
 			clear: right;
+  }
+
+  #toppage_press .waku {
+      height: 228px;
   }
 
   td.topics_date{
