@@ -2,7 +2,7 @@
 
 $(function(){ 
   var H;
-  H = $("#toppage_notice").outerHeight() - 12;
+  H = $("#toppage_notice").outerHeight() - 13;
   //H = $("#toppage_notice").outerHeight() + $("#toppage_press").outerHeight() - 8;
   $("#toppage_access div").css("height", H + "px");
 
