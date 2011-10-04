@@ -716,7 +716,7 @@ img#prj10{
 			clear: right;
 		}
   .toppage_yamamoto {
-    float: left;
+    float: left; !important
     width: 110px;
   }
 
