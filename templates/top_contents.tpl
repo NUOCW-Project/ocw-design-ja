@@ -121,7 +121,7 @@
 
 
 <!-- ボックス「アクセスランキング」 -->
-<div id="greeting">
+<div id="toppage_greeting">
 <div class="waku">
   <img src="./images/{$lang}/goaisatu.png" alt="
   {if $lang=='ja'}
