@@ -592,7 +592,7 @@ body:first-of-type #contents{
 }
 
 /* トップページの見出し画像にお知らせを出す時に使用 */
-#important_notice {
+#toppage_important_notice {
   position: absolute;
   top: 38px;
   left: 625px;
@@ -606,16 +606,16 @@ body:first-of-type #contents{
   -webkit-border-radius: 4px;
 }
 
-#important_notice h2 {
+#toppage_important_notice h2 {
   font-size: medium;
   text-align: center;
 }
 
-#important_notice h2 a {
+#toppage_important_notice h2 a {
   color: #DD0000;
 }
 
-#important_notice p {
+#toppage_important_notice p {
   text-align: center;
 }
 
