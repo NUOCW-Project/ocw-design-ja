@@ -127,8 +127,8 @@
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
-  <p class="toppage_yamamoto"><img src="./images/{$lang}/goaisatu.png" alt=""></p>
-  <p class="toppage_yamamoto">名古屋大学<br>OCW委員会<br>委員長 山本一良</p>
+  <p><img src="./images/{$lang}/goaisatu.png" alt=""></p>
+  <p id="toppage_yamamoto_name">名古屋大学<br>OCW委員会<br>委員長 山本一良</p>
   <p>ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。</p>
   <p><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a></p>
 </div>
