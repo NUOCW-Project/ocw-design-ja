@@ -557,6 +557,40 @@ body:first-of-type #contents{
 	width: 100%;
 }
 
+#toppage_boxes_left {
+  float: left;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 400px;
+}
+
+#toppage_boxes_right {
+  float: left;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 305px;
+}
+
+/* ボックスの共通スタイル */
+.dots{
+	width: 100%;
+}
+
+.waku{
+		border-style: solid;
+		border-width: 1px;
+		border-color: #bbbbbb;
+		overflow: hidden;
+		position: relative;
+		padding: 5px 5px 0 0;
+		zoom: 1;
+	}
+.waku img{
+		margin-left: 5px;
+}
+
 /* トップページの見出し画像にお知らせを出す時に使用 */
 #important_notice {
   position: absolute;
@@ -599,7 +633,7 @@ img#prj10{
 	margin-left: -10px;
 }
 
-/* TOPICS 通常の横幅の場合 */
+/* 以下、個別のボックスの設定 */
 #greeting{
 	float: left;
 	width: 165px;
@@ -621,18 +655,13 @@ img#prj10{
 		margin: 0px 1ex 1em 1ex;
 	}
 
-.dots{
-	width: 100%;
-}
-
 #notice{
 	float: left;
 	border-style: solid;
 	border-width: 3px;
 	border-color: #e7e7df;
-	width: 332px;
-	/*height: 400px;*/
 	margin: 6px 6px 0 0;
+	width: 332px;
 }
 		html>/**/body #notice{
 			clear: right;
@@ -710,28 +739,7 @@ img#prj10{
 			background-color: white;
 			visibility: visible;
 		}
-	.waku{
-		border-style: solid;
-		border-width: 1px;
-		border-color: #bbbbbb;
-		overflow: hidden;
-		position: relative;
-		padding: 5px 5px 0 0;
-		zoom: 1;
-	}
-		.waku img{
-			margin-left: 5px;
-		}
 			
-#conditionbox{
-	background-image:url(../images/common/courselist_list.png);
-	background-repeat: no-repeat;
-	width: 700px;
-	height: 115px;
-	margin-left: -5px;
-	padding: 0px;
-}
-
 td.topics_date{
 	width: 6em;
   padding-left: 0.5em;
@@ -744,9 +752,7 @@ td.topics_date{
 		display: block;
 }
 	.article a{
-
 		position: relative;
-
 		background: none;
 	}
 	
@@ -756,16 +762,9 @@ td.topics_date{
 		background-position: 0px 3px;
 	}
 
-.article span{
-/*	padding-left: 11px;
-	display: block;*/
-	}
-
 .jump{
 	margin-left: auto;
 }
-
-
 		head~/* */body .jump{
 			float: right;
 		}
@@ -1159,6 +1158,15 @@ div.podcast{
    コースリスト
 ------------------------------------------------------------
 */
+#conditionbox{
+	background-image:url(../images/common/courselist_list.png);
+	background-repeat: no-repeat;
+	width: 700px;
+	height: 115px;
+	margin-left: -5px;
+	padding: 0px;
+}
+
 #sort {
 	clear: both;
 	float: right;
@@ -1586,12 +1594,11 @@ h3.special {
 /* おしらせ */
 #notice_en {
         float: left;
-	width: 500px;
-        /* height: 500px; */
-        margin: 15px 0px 0px 0px;
         border-style: solid;
         border-width: 3px;
         border-color: #e7e7df;
+        margin: 15px 0px 0px 0px;
+        width: 500px;
 }
 
 #greeting_en{
