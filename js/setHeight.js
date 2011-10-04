@@ -1,6 +1,5 @@
-// DOM 解析後にランキング表示を調整.
 
-$(function(){ 
+$(document).ready(function(){ 
   var H;
   H = $("#toppage_notice").outerHeight() - 13;
   //H = $("#toppage_notice").outerHeight() + $("#toppage_press").outerHeight() - 8;
