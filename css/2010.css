@@ -723,6 +723,9 @@ img#prj10{
     float: left;
     clear: none;
     width: 110px;
+    height: 110px;
+    display: table-cell;
+    vertical-align: bottom;
   }
 	#toppage_greeting a{
       padding-left:12px;
