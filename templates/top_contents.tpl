@@ -76,7 +76,7 @@
 <!-- 右側ボックス -->
 <div id="toppage_boxes_right">
 <!-- ボックス「アクセスランキング」 -->
-<div id="access">
+<div id="toppage_access">
 <div class="waku">
 	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="アクセスランキング" width="180" height="20">
 	 <br>
