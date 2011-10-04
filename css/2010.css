@@ -726,6 +726,8 @@ img#prj10{
   }
 	#toppage_greeting a{
       padding-left:12px;
+  	}
+	#toppage_greeting a:hover{
   		background-image:url(../images/common/arrow_on.png);
   		background-repeat: no-repeat;
   		background-position: 0px 3px;
