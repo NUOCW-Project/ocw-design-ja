@@ -123,7 +123,7 @@
 <!-- ボックス「アクセスランキング」 -->
 <div id="toppage_greeting">
 <div class="waku">
-	<img src="./images/ja/t_goaisatsu.png" class="subheading" alt="ごあいさつ" width="180" height="20">
+	<img src="./images/ja/t_welcome.png" class="subheading" alt="ごあいさつ" width="180" height="20">
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
