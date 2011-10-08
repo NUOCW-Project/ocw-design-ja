@@ -7,13 +7,13 @@
 <link rel="stylesheet" type="text/css" href="css/2010.css">
 {literal}
 {if $lang=='ja' && $page_type=='topics'}
-  <link rel="stylesheet" type="text/css" href="css/special.css">
+  <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
+{elseif $lang=='en' && $page_type=='topics'}
+  <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 {elseif $lang=='ja' && $page_type=='topics2010'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
 {elseif $lang=='ja' && $page_type=='topics_branches'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
-{elseif $lang=='en' && $page_type=='topics'}
-  <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 {/if}
 {/literal}
 
