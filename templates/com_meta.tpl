@@ -26,11 +26,14 @@
 {literal}
 {if $page_type=='top'}
   <script type="text/javascript" src="./js/setHeight.js"></script>
-{elseif $lang=='ja' && $page_type=='topics_branches'}
-  <script type="text/javascript" src="./js/noDisplay.js"></script>
+{elseif $lang=="ja" && $page_type=='topics'}
+  <script type="text/javascript" src="./js/seltab.js"></script>
+  <script type="text/javascript" src="./js/switchFlash.js"></script>
 {elseif $lang=="en" && $page_type=='topics'}
   <script type="text/javascript" src="./js/seltab.js"></script>
   <script type="text/javascript" src="./js/switchFlash.js"></script>
+{elseif $lang=='ja' && $page_type=='topics_branches'}
+  <script type="text/javascript" src="./js/noDisplay.js"></script>
 {/if}
 {/literal}
 
