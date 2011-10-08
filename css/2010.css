@@ -1566,6 +1566,19 @@ h3.special {
         overflow: visible;
 }
 
+#student_ja {
+        display: block;
+        float: left;
+        height: 430px;
+        width: 730px;
+        margin: -30px 20px 0px -15px;
+        padding: 0px 0px 20px 0px;
+        background: url("../images/ja/student/header.png");
+        background-position: 0px 30px;
+        background-repeat: no-repeat;
+        overflow: hidden;
+}
+
 #student_en {
         display: block;
         float: left;
@@ -1573,7 +1586,7 @@ h3.special {
         width: 730px;
         margin: -30px 20px 0px -15px;
         padding: 0px 0px 20px 0px;
-        background: url("../images/common/student/header.png");
+        background: url("../images/en/student/header.png");
         background-position: 0px 30px;
         background-repeat: no-repeat;
         overflow: hidden;
