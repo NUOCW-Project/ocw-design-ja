@@ -4,7 +4,7 @@
 <img src="./images/common/redline.gif" class="line" alt="">
 
 <!-- 留学生の声 -->
-<div id="student_en">
+<div id="student_ja">
   <div id="interview_video_frame">
     <div id="interview_title"><img src="./images/common/student/interview_title_life_in_japan.png" alt="About life in Japan"></div>
     <div id="interview_video">

@@ -1,6 +1,6 @@
   <img src="./images/common/t_topics.png" alt="Topics">
   <img src="./images/common/redline.gif" class="line" alt="">
-<div id="student_en">
+<div id="student_{$lang}">
 <!-- 画面上部の最も大きな要素 -->
   <div id="interview_video_frame">
     <div id="interview_title"><img src='./images/common/student/interview_title_coming.png' alt='Feelings about Coming to Japan'></div>
