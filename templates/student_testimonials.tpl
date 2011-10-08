@@ -19,13 +19,27 @@
 <!-- 中央のテーマ切り替え用タブ -->
 <div id="theme_tub">
   <div class="tub_button">
-    <a href="javascript:seltab('theme', 3, 1)"><img src="./images/common/student/title01.png" border="0" alt="About Japan"></a>
+    <a href="javascript:seltab('theme', 3, 1)">
+      <img src="./images/common/student/title01_off.png" 
+           onMouseOver="this.src='./images/common/student/title01.png'" 
+	   onMouseOut="this.src='./images/common/student/title01_off.png'"
+	   width="170" height="70" border="0" alt="About Japan">
+    </a>
   </div>
   <div class="tub_button" id="tub_button_center">
-    <a href="javascript:seltab('theme', 3, 2)"><img src="./images/common/student/title02.png" border="0" alt="About Japanese"></a>
+    <a href="javascript:seltab('theme', 3, 2)">
+      <img src="./images/common/student/title02_off.png"
+           onMouseOver="this.src='./images/common/student/title02.png'" 
+	   onMouseOut="this.src='./images/common/student/title02_off.png'"
+	   width="170" height="70" border="0" alt="About Japanese"></a>
   </div>
   <div class="tub_button">
-    <a href="javascript:seltab('theme', 3, 3)"><img src="./images/common/student/title03.png" border="0" alt="About Nagoya University"></a>
+    <a href="javascript:seltab('theme', 3, 3)">
+      <img src="./images/common/student/title03_off.png"
+           onMouseOver="this.src='./images/common/student/title03.png'" 
+           onMouseOut="this.src='./images/common/student/title03_off.png'" 
+	   width="170" height="70" border="0" alt="About Nagoya University">
+    </a>
   </div>
 </div>
 <div class="clear_div">

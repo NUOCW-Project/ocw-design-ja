@@ -52,18 +52,18 @@
 /* タブの中身 */
 .tub_button{
   float: left;
-  width: 152px; 
+  width: 170px; 
   height: 70px;
-  border: solid 4px #F7EEF3;
-  margin: 0px
+  border: solid 4px #AABB44; /* 濃い茶色 */
+  margin: 15px 0px 5px 0px;
 }
 
 .tub_button:hover {
-  border: solid 4px #E74AAE; /* 濃いピンク */
+  border: solid 4px #E74AAE;/* 濃いピンク */
 }
 
 #tub_button_center {
-  margin: 0px 32px; /* 3つのボタンをビデオ一覧表の上に均等表示 */
+  margin: 15px 2px 5px 2px; /* 3つのボタンをビデオ一覧表の上に均等表示 */
 }
 
 /* リスト左側のテーマ別の柱 */
@@ -76,7 +76,8 @@
 /* 動画リストの表 */
 table.list_table{
   float: left;
-  width: 543px; /* 枠の分 -2px */
+  margin: 10px 0px 10px 0px;
+  width: 538px; /* 枠の分 -2px */
   border: solid 1px #E74AAE;
   border-collapse: collapse;
   color: #E74AAE; /* と思われるピンク色（要確認）*/
@@ -91,7 +92,7 @@ table.list_table{
 .list_table td{
   border-top: solid 1px #E74AAE;
   border-bottom: solid 1px #E74AAE; /* 中央は枠線なし */
-  height: 80px; /* 列からは指定できないのでこちらで指定 */
+  height: 95px; /* 列からは指定できないのでこちらで指定 */
 }
 
 /* 奇数行デザイン */
