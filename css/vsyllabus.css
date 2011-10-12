@@ -1,0 +1,70 @@
+@charset "euc-jp";
+
+/*
+------------------------------------------------------------
+   1Ê¬´Ö¼ø¶È¾Ò²ð&PodCast
+------------------------------------------------------------
+*/
+#podcast{
+	float: left;
+	width: 160px;
+	padding: 0px;
+	margin: 0px 5px 0px 40px;
+	position: relative;
+	top: -25px;
+	background-color: white;
+}
+
+#podcast_right{
+	float: right;
+	width: 160px;
+	padding: 0px;
+	margin: 10px 10px 10px 10px;
+	position: relative;
+	top: -25px;
+	background-color: white;
+}
+
+#podcast_waku{
+        border-style: solid;
+        border-width: 1px;
+        border-color: #cccccc;
+        overflow: hidden;
+        position: relative;
+        padding: 0px;
+	margin: 2px;
+}
+
+#aboutpodcast_image{
+        padding: 0px;
+        margin: 15.5px 15.5px 12px;
+        position: relative;
+}
+
+#aboutpodcast_sentence{
+	padding: 0px;
+	margin: 0px 15.5px 15.5px;
+	position: relative;
+}
+
+#contents_p{
+        position:relative;
+        top: -25px;
+        margin-left: 200px;
+        margin-right: 0px;
+        background-color: white;
+        padding-left: 1ex;
+}
+
+div.course_contents{
+	margin: 0px
+}
+
+div.realplayer{
+	margin: 40px 0;
+}
+
+div.podcast{
+	margin: 25px 5px;
+	padding: 0;
+}

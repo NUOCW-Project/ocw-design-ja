@@ -1,0 +1,304 @@
+@charset "euc-jp";
+
+/*
+------------------------------------------------------------
+   コースページ    
+------------------------------------------------------------
+*/
+#caption{
+	padding: 25px 305px 0px 0px; /* 25pxより大きい気がするのは気のせい？ */
+	margin: 0px;
+}
+	
+	#publisher{
+		Color: #bbaa88;
+	}
+
+	#teacher{
+		font-size: xx-large;
+		font-family: 'ヒラギノ明朝 Pro W3', 'Hiragino Mincho Pro', 'ＭＳ Ｐ明朝', 'MS PMincho', 'MS　明朝', 'MS Mincho', serif;/* 明朝体 */
+		padding-top: 12px;
+		padding-bottom: 5px;
+	}
+
+	#occupation{
+		font-size: medium;
+		font-family: serif;/* 明朝体 */
+	}
+
+	#data{
+		padding: 1em;
+		border: solid 1px #cccccc;
+		background-color: #ecece6;
+	}
+
+	#class_for{
+	margin-left: 5em;
+	margin-top: -1.5em;
+	}
+
+	#movie{
+		padding-left: 5px;
+		padding-top: 25px;
+		margin-bottom: 2em;
+		float: right;
+		width: 300px;
+	}
+
+#main_text{
+	clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
+}
+
+.e_text {
+  padding-left: 150px;
+  float: left; 
+  margin: 0px;
+}
+
+.e_text ul, .e_text ol, .e_text dl{
+    padding: 0em;
+	margin-bottom: 0em;
+	margin-top: 0em;
+	/*float:left;*/
+	/*  border: 1px solid blue; */
+}
+
+.e_text dt {
+  margin-top: 0.5em;
+}
+
+.e_text table{
+  margin-top: 1.5em;
+}
+
+.e_text p{
+	margin-bottom: 0em; 
+	margin-top: 1.5em; 
+	
+	float:left; 
+	width:555px; 
+}
+
+.e_text table p {
+  float: none;
+  width: auto;
+}
+
+.e_text * ul, .e_text * ol, .e_text * li{
+	margin-left: 0;
+	margin-bottom: 0;
+	clear: left;
+}
+
+.e_text h2 {
+	font-size: large;
+	color: #DD0000;
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 0px;
+	margin-left: -145px;
+  	margin-right: 0;
+  	margin-top: 10px;
+  	margin-bottom: 0;
+  	width: 700px;
+}
+
+.e_text h3 {
+	font-size: 13px;
+	font-weight: bold;
+	color: rgb(221, 0, 0);
+	background-image: url(../images/common/header3_box.png);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	padding-right: 0px;
+	padding-top: 0px;
+	margin-left: -145px;
+  	margin-right: 0;
+  	margin-top: 1.5em; 
+  width: 120px; 
+   float: left;
+   clear: left; 
+/*	border: 1px solid green; */
+}
+
+.e_text h4, .e_text h5 {
+	font-size: 13px;
+	font-weight: bold;
+/*	color: #2f2f2f; */
+	margin: 1.5em 0 0 0;
+	width: 555px; 
+  float: left;
+}
+
+table.basic, table.farewell, table.relay {
+	border:0;
+	border-collapse: collapse;
+	white-space:normal;
+}
+
+table.relay {
+  clear: right;
+}
+
+table.farewell, table.relay{
+  margin:0 10px 25px 0px;
+}
+
+table.basic th, table.farewell th, table.relay th{
+	border: 1px solid #999999;
+}
+
+table.basic td, table.farewell td, table.relay td{
+	border: 1px solid #999999;
+  padding: 0 5px;
+}
+
+table.basic h4 {
+  margin: 10px 0 0 5px; 
+}
+
+table.basic p {
+  margin: 5px 0;
+}
+
+table.basic ul, table.basic ol {
+	padding-left: 25px;
+  margin: 10px 0;
+}
+
+#release_date {
+  text-align: left;
+  float: left;
+}
+
+#release_disclaimer{
+  text-align: right;
+  margin-bottom: 30px;
+}
+
+/*
+------------------------------------------------------------
+   旧デザインと同じ表のスタイル（英語版などで使用）
+------------------------------------------------------------
+*/
+td.td_left_gray{
+	background-image: url(../images/common/flame02.gif);
+	background-repeat: repeat-y;
+}
+
+td.td_right_gray{
+	background-image: url(../images/common/flame05.gif);
+	background-repeat: repeat-y;
+}
+
+td.td_top_gray{
+	background-image: url(../images/common/gray02.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	background-color:#eeeeee;
+}
+
+td.td_under_gray{
+	background-image: url(../images/common/gray07.gif);
+	background-repeat: repeat-x;
+}
+
+td.td_contents_gray{
+	vertical-align: top;
+	background-color:#e7e7df;
+}
+
+table.center_contents{
+ margin:0;
+ padding:0;
+}
+
+th.left{
+	font-size: large;
+	color: #DD0000;
+
+}
+
+th.left_gray{
+	background-color:#eeeeee;
+	font-size: large;
+	color: #DD0000;
+
+}
+
+th.center{
+	text-align: center;
+}
+
+th.center_gray{
+	text-align: center;
+	background-color:#eeeeee;
+}
+
+th.right{
+	text-align: right;
+}
+
+th.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+td.left{
+	text-align: left;
+}
+
+td.left_gray{
+	text-align: left;
+	background-color:#ecece6;
+}
+
+td.center{
+	text-align: center;
+}
+
+td.center p{
+    text-align :center;
+}
+
+td.center_gray{
+	text-align: center;
+	background-color:#ecece6;
+}
+
+td.center_gray p {
+    text-align: center;
+}
+
+td.contents{
+	text-align:left;
+	vertical-align: top;
+}
+
+td.right{
+	text-align: right;
+}
+
+td.left{
+	text-align: left
+}
+
+td.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+td.separate{
+	border: none;
+	text-align: right;
+	background-color:#e7e7df;
+	height:5px;
+}
+
+.odd{
+	background-color:#e7e7df;
+}
+.even{
+	background-color:#fff;
+}

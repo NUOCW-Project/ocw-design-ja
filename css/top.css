@@ -1,0 +1,253 @@
+@charset "euc-jp";
+
+/*
+------------------------------------------------------------
+   トップページ    
+------------------------------------------------------------
+*/
+.inline {
+	display: inline-block;
+}
+/* IE対策 */
+.inline{
+	display/**/: block;
+	width: 100%;
+}
+
+#toppage_boxes_left {
+  float: left;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 433px;
+}
+
+#toppage_boxes_right {
+  float: left;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 272px;
+}
+
+/* ボックスの共通スタイル */
+.dots{
+	width: 100%;
+}
+
+.waku{
+		border-style: solid;
+		border-width: 1px;
+		border-color: #bbbbbb;
+		overflow: hidden;
+		position: relative;
+		padding: 5px 5px 0 0;
+		zoom: 1;
+	}
+.waku img{
+		margin-left: 5px;
+}
+
+.jump{
+	margin-left: auto;
+}
+		head~/* */body .jump{
+			float: right;
+		}
+
+
+/* トップページの見出し画像にお知らせを出す時に使用 */
+#toppage_important_notice {
+  position: absolute;
+  top: 38px;
+  left: 625px;
+  width: 260px;
+  padding: 5px 10px;
+  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.85);
+  border: 1px solid #94a288;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+
+#toppage_important_notice h2 {
+  font-size: medium;
+  text-align: center;
+}
+
+#toppage_important_notice h2 a {
+  color: #DD0000;
+}
+
+#toppage_important_notice p {
+  text-align: center;
+}
+
+/* TOPICS 通常の横幅の場合 */
+#toppage_feature{
+	width: 530px;
+	float: left;
+	background-color: white;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+img#prj10{
+	margin-left: -10px;
+}
+
+/* 以下、個別のボックスの設定 */
+#toppage_notice{
+	float: left;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #e7e7df;
+	margin: 6px 6px 0 0;
+	width: 421px;
+}
+		html>/**/body #toppage_notice{
+			clear: right;
+		}
+
+#toppage_press{
+	float: left;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #e7e7df;
+	margin: 6px 6px 0 0;
+	width: 421px;
+}
+  html>/**/body #toppage_press{
+			clear: right;
+  }
+
+  #toppage_press .waku {
+      height: 228px;
+  }
+
+  td.topics_date{
+  	width: 6em;
+    padding-left: 0.5em;
+  	vertical-align: top;
+  }
+  
+  .article{
+  	background: none;
+  		padding-left: 12px;
+  		display: block;
+  }
+  	.article a{
+  		position: relative;
+  		background: none;
+  	}
+  	
+  	.article:hover{
+  		background-image:url(../images/common/arrow_on.png);
+  		background-repeat: no-repeat;
+  		background-position: 0px 3px;
+  	}
+
+  .icon{
+  	width: 30px;
+  	height: 15px;
+  	margin-right: 0;
+  	margin-left: auto;
+  	float: right;
+  	display: inline;
+  	vertical-align: middle;
+  	vertical-align: text-bottom;
+  }
+
+  
+#toppage_greeting{
+	float: left;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #e7e7df;
+	margin: 6px 6px 0 0;
+	width: 254px;
+
+	font-size: 11px;
+	font-height: 12px;
+	zoom: 1;
+}
+		html>/**/body #toppage_greeting{
+			clear: right;
+		}
+	#toppage_greeting p{
+		margin: 0px 1ex 1em 1ex;
+	}
+  #toppage_yamamoto_name {
+    position: absolute;
+    top: 60px;
+    left: 120px;
+    width: 110px;
+  }
+	#toppage_greeting a{
+      padding-left:12px;
+  	}
+	#toppage_greeting a:hover{
+  		background-image:url(../images/common/arrow_on.png);
+  		background-repeat: no-repeat;
+  		background-position: 0px 3px;
+  	}
+
+#toppage_access{
+	float: left;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #e7e7df;
+	margin: 6px 6px 0 0;
+	width: 254px;
+}
+		html>/**/body #toppage_access{
+			clear: right;
+		}
+
+	#access div{
+			height: 425px;
+	}
+
+		#rank_table{
+			position: absolute;
+			width: 100%;
+			border-spacing: 0;
+		}
+
+			#rank_table tr{
+				width: 100%;
+			}
+
+		.rank{
+			width: 2.8em;
+			text-align: center;
+		}
+
+		.name{
+			width: 38%;
+			padding-left: 1em;
+		}
+
+		#no1 td, #no3 td{
+			padding-top: 1em;
+			padding-bottom: 1em;
+			background-color: #e7e7df;
+		}	
+
+		#no2 td{
+			padding-top: 1em;
+			padding-bottom: 1em;
+			background-color: white;
+		}
+
+		#no5 td, #no7 td, #no9 td, #no11 td, #no13 td, #no15 td, #no17 td, #no19 td{
+			background-color: #e7e7df;
+			visibility: visible;
+		}
+
+		#no4 td, #no6 td, #no8 td, #no10 td, #no12 td, #no14 td, #no16 td, #no18 td{
+			background-color: white;
+			visibility: visible;
+		}

@@ -1,0 +1,1340 @@
+body{
+	margin: 0;
+	padding: 0;
+
+	background-color: #f6f6f6;
+	font-size: 12.5px; 
+	/* small指定はブラウザにより異なる */
+	line-height: 150%;
+	color: #666666;
+}
+
+.body_back{
+
+	background-image: url(../images/common/bg.png); /*グレーの背景*/
+	background-repeat: repeat-x;
+	background-position: 0px 90px; /* ヘッダー画像の下に白線がある*/
+	}
+
+h2{
+	font-size: large;
+	color: #DD0000;
+	margin: 5px;
+}
+
+h3{
+	background-image: url(../images/common/header3_box.png);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	margin-bottom: 5px; 
+}
+
+img{
+	border-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link{
+	color: #999966;
+}
+
+a:visited{
+	color: #666633;
+}
+
+a:hover{
+	color: #EE0000;
+	text-decoration: underline;
+}
+
+
+.header{
+	height: 90px; 
+	background-image: url(../images/common/topbar.jpg);/* 背景画像「名大の授業」 */
+	min-width: 975px;
+	background-repeat: no-repeat;
+}
+
+.topheader{
+	height: 110px;
+	min-width: 975px;
+	background-image: url(../images/common/topbar_top.jpg);	
+	background-repeat: no-repeat;
+}
+
+.header a#home_header{
+	display: block;
+	height: 90px;
+	width: 300px;
+	position: absolute;	
+	top: 0px;
+	left: 0px;
+}
+
+	.header_sub{
+	 max-width/**/: 770px;
+	 /width: 770px; /* IE6対策 */
+		height: 60px;
+		margin-left: 200px;
+	padding: 0px;
+	}
+
+	html>/**/body .header_button{
+	margin-top: 15px;
+	width:475px;
+	height: 50px;
+	float: right;
+	}	
+	
+		.header_button{
+			margin-top: 15px;
+			width: 515px;
+			height: 50px;
+			margin-left: 320px;
+		}
+
+	.header_button img{
+	border: none;	
+	}	
+
+			.header_button_sub{
+				width: 190px;
+				height: 50px;
+				position: relative;
+				top: -50px;
+				left: 243px;
+			}
+
+				.header_button_english{
+					width: 50px;
+					height: 20px;
+					position: relative;
+					top: 3px;
+					margin: 0px 10px 0px 150px;
+				}
+
+	.header_button_english img{
+	border: none;
+	}
+
+				html>/**/body .header_button_akf{
+					width: 50px;
+					height: 20px;
+					position: relative;
+					top: 7px;
+					left: 0px;
+					margin: 0;
+				}
+	.header_button_akf{
+	width: 50px;
+	height: 20px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	border: none;
+	}
+
+				html>/**/body .header_button_input{
+					width: 130px; 
+					position: relative;
+					left: 50px;
+					top : -14px;
+				}
+
+	.header_button_input{
+	width: 130px;
+	position: relative;
+	left: 50px;
+	top: -38px;
+	}
+
+				.header_button_input input{
+					font-size: 11px;
+					width: 145px;
+				}
+
+				html>/**/body .header_button_search{
+					width: 20px;
+					height: 20px;
+					position: relative;
+					left: 201px;
+					top: -33px;
+				}
+
+	.header_button_search{
+	width: 20px;
+	height: 20px;
+	position: relative;
+	left: 197px;
+	top: -57px;
+	border: none;
+	}	
+
+.header_edge{
+	height: 90px;
+	background-image: url(../images/common/topbar_loop.png);
+	background-repeat: repeat-x;
+	background-position: 1300px 0px;
+	margin:0;
+}
+
+.topheader_edge{
+	height: 110px;
+	background-image: url(../images/common/topbar_top_loop.png);
+	background-repeat: repeat-x;
+	background-position: 1300px 0px;
+	margin:0;
+}
+
+.main_back {
+	background-image: url(../images/common/loop.png);
+	background-repeat: repeat-y;
+	background-position: 975px 90px;
+	max-width: 1260px; 
+	margin: 0px;
+	padding: 0px;
+}
+
+	.main_back_url img{
+		width: 20px;
+		height: 170px; 
+		position: fixed;
+		top: 100px;
+		left: 1260px;
+	}
+
+*html .main_back_url img{
+	position: expression('absolute');
+	top: expression(documentElement.scrollTop + 90 + 'px');
+	left: expression(documentElement.scrollLeft + 1260 + 'px');
+}
+
+	.main_back_adachi{
+		background-image: url(../images/common/staff.png);
+		background-repeat: no-repeat;
+		position: absolute;
+		top: 10px; 
+		left: 1030px;
+		width: 95px; 
+		height: 125px;
+	}
+
+.main{
+	width: 945px;
+	margin-right: 30px;
+	margin-left: 30px;
+	/* min-height: 1150px; */
+	background-color: white;
+	padding: 0;
+	overflow: hidden; /* floatのクリア */
+	position: relative; /* DWで正常にプレビューできるようにする */
+}
+
+*html .main{
+	margin: -90px 0px 0px 30px;
+	width: 945px;
+	background-color: white;
+	padding: 0px;
+}
+
+#departmentslist{
+	float: left;
+	width: 160px;
+	padding:0px;
+	margin: 0px 5px 0px 30px;
+	list-style:none;
+/*	position: relative;
+	top: -25px;			*/
+}
+
+*html #departmentslist{
+	float: left;
+	width: 160px;
+	margin: 0px 2px 0px 20px;
+	padding: 0px;
+	list-style:none;
+}
+
+#departmentslist_list{
+	width: 157px;
+	padding:0px;
+	margin: 0px 5px 0px 0px;
+	position: relative;	
+	list-style:none;
+}
+
+#departmentslist_list li{
+	/* margin-bottom: -6px; */ /*画像の隙間をなくしている */
+  margin: 0;
+  height: 23px;
+}
+
+#being{
+	color: red;
+}
+
+#header_for_top{
+	height: 400px;
+	position: relative;
+}
+
+#package{
+	position:relative;/* #menuを絶対配置するため */
+	overflow: hidden;
+}
+
+#package2{
+	overflow: hidden; /* Firefox, Safari対策 */
+	position: relative;
+	top: -25px;
+	float: left;
+	/**/
+}
+
+	#menu{
+		position: absolute;
+		top: 285px;
+		left: 190px;
+	}
+
+		.menu0{
+			float: left;
+			height: 90px;
+			width: 180px;
+		}
+
+			#studio_channel_date{
+				position: relative;
+				top: -70px;
+				left: 76px;
+				color: red;
+				font-size: 11px;
+			}
+
+#contents{
+	float: left;
+	margin: 0px;
+	background-color: white;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	margin-right: 20px;
+	width: 710px;
+	overflow: visible;
+	/*border-style: solid;
+	border-width: 1px;
+	border-color: blue;*/
+}
+
+/* IE6 hack */
+* html #contents{
+	width: 705px;
+}
+/* IE7 hack */
+*:first-child+html #contents{
+	max-width: 710px;
+}
+/* Safari hack */
+body:first-of-type #contents{
+	max-width: none;
+	width: 705px;
+}
+	.pankuzu{
+		min-height: 28px; 
+		list-style-type: none;
+		padding: 5px 0px 0px 0px; /* paddingの初期化をすることで問題解決（メモ）*/
+		margin: 5px 0px 23px 0px;
+	}
+
+	 .pankuzu li{
+			display: inline;
+			color: #666666;
+			margin-right: 6px;
+		}
+
+/* 以下トップページ関連 */
+.inline{
+	display: inline-block;
+}
+/* IE対策 */
+.inline{
+	display/**/: block;
+	width: 100%;
+}
+
+#feature{
+	width: 530px;
+	float: left;
+	background-color: white;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+img#prj10{
+	margin-left: -10px;
+}
+
+#greeting{
+	float: left;
+	width: 165px;
+	overflow: hidden;
+	/*height: 255px;*/
+	margin: 20px 0 0 0;
+	padding: 0;
+	font-size: 11px;
+	font-height: 12px;
+	zoom: 1;
+	border-style: solid;
+	border-width: 1px;
+	border-color : #DDDDDD;
+}
+	#greeting p{
+		/*position: absolute;
+		top: 197px;
+		left: 0px;*/
+		margin: 0px 1ex 1em 1ex;
+	}
+
+.dots{
+	width: 100%;
+}
+
+#notice{
+	float: left;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #e7e7df;
+	width: 332px;
+	/*height: 400px;*/
+	margin: 6px 6px 0 0;
+}
+		html>/**/body #notice{
+			clear: right;
+		}
+
+#press{
+	/*clear: right;*/
+	float: left;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #e7e7df;
+	width: 332px;
+	/*height: 300px;*/
+	margin: 6px 6px 0 0;
+}
+		html>/**/body #press{
+			clear: right;
+		}
+
+#access{
+	/*clear: right;*/
+	float: left;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #e7e7df;
+	width: 332px;
+	margin: 6px 6px 0 0;
+}
+		html>/**/body #access{
+			clear: right;
+		}
+
+	#access div{
+			height: 425px;
+	}
+
+		#rank_table{
+			position: absolute;
+			width: 100%;
+			border-spacing: 0;
+		}
+
+			#rank_table tr{
+				width: 100%;
+			}
+
+		.rank{
+			width: 2.8em;
+			text-align: center;
+		}
+
+		.name{
+			width: 30%;
+			padding-left: 1em;
+		}
+
+		#no1 td, #no3 td{
+			padding-top: 1em;
+			padding-bottom: 1em;
+			background-color: #e7e7df;
+		}	
+
+		#no2 td{
+			padding-top: 1em;
+			padding-bottom: 1em;
+			background-color: white;
+		}
+
+		#no5 td, #no7 td, #no9 td, #no11 td, #no13 td, #no15 td, #no17 td, #no19 td{
+			background-color: #e7e7df;
+			visibility: visible;
+		}
+
+		#no4 td, #no6 td, #no8 td, #no10 td, #no12 td, #no14 td, #no16 td, #no18 td{
+			background-color: white;
+			visibility: visible;
+		}
+	.waku{
+		border-style: solid;
+		border-width: 1px;
+		border-color: #bbbbbb;
+		overflow: hidden;
+		position: relative;
+		padding: 5px 5px 0 0;
+		zoom: 1;
+	}
+		.waku img{
+			margin-left: 5px;
+		}
+			
+table{
+	border-style: none;
+	margin: 0;
+	padding: 0;
+	zoom: 1;
+}
+
+	td{
+		border-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	tr{
+		border-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+#conditionbox{
+	background-image:url(../images/common/courselist_list.png);
+	background-repeat: no-repeat;
+	width: 700px;
+	height: 115px;
+	margin-left: -5px;
+	padding: 0px;
+}
+
+td.topics_date{
+	width: 6em;
+  padding-left: 0.5em;
+	vertical-align: top;
+}
+
+.article{
+	background: none;
+		padding-left: 12px;
+		display: block;
+}
+	.article a{
+
+		position: relative;
+
+		background: none;
+	}
+	
+	.article:hover{
+		background-image:url(../images/common/arrow_on.png);
+		background-repeat: no-repeat;
+		background-position: 0px 3px;
+	}
+
+.article span{
+/*	padding-left: 11px;
+	display: block;*/
+	}
+
+
+/* 以下コースホーム関連 */
+
+#caption{
+	padding: 25px 305px 0px 0px; /* 25pxより大きい気がするのは気のせい？ */
+	margin: 0px;
+}
+	
+	#publisher{
+		Color: #bbaa88;
+	}
+
+	#teacher{
+		font-size: xx-large;
+		font-family: 'ヒラギノ明朝 Pro W3', 'Hiragino Mincho Pro', 'ＭＳ Ｐ明朝', 'MS PMincho', 'MS　明朝', 'MS Mincho', serif;/* 明朝体 */
+		padding-top: 12px;
+		padding-bottom: 5px;
+	}
+
+	#occupation{
+		font-size: medium;
+		font-family: serif;/* 明朝体 */
+	}
+
+	#data{
+		padding: 1em;
+		border: solid 1px #cccccc;
+		background-color: #ecece6;
+	}
+
+	#class_for{
+	margin-left: 5em;
+	margin-top: -1.5em;
+	}
+
+	#movie{
+		padding-left: 5px;
+		padding-top: 25px;
+		margin-bottom: 2em;
+		float: right;
+		width: 300px;
+	}
+
+#main_text{
+	clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
+}
+
+.e_text {
+  padding-left: 150px;
+  float: left; 
+  margin: 0px;
+}
+
+.e_text ul, .e_text ol, .e_text dl, .e_text table {
+	margin-bottom: 0em;
+	margin-top: 1.5em;
+	 float:left;
+	/*  border: 1px solid blue; */
+}
+
+.e_text p{
+        margin-bottom: 0em; 
+	margin-top: 1.5em; 
+	
+	float:left; 
+	width:555px; 
+/*	border: 1px solid red; */
+}
+
+.e_text * ul, .e_text * ol *li {
+	margin-left: 0;
+	margin-bottom: 0;
+	float:left;
+}
+
+.e_text h2 {
+	font-size: large;
+	color: #DD0000;
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 0px;
+	margin-left: -145px;
+  	margin-right: 0;
+  	margin-top: 10px;
+  	margin-bottom: 0;
+  	width: 700px;
+}
+
+.e_text h3 {
+	font-size: 13px;
+	font-weight: bold;
+	color: rgb(221, 0, 0);
+	background-image: url(../images/common/header3_box.png);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 0px;
+	margin-left: -145px;
+  	margin-right: 0;
+  	margin-top: 1.5em; 
+  width: 110px; 
+   float: left;
+   clear: left; 
+/*	border: 1px solid green; */
+}
+
+.e_text h4 {
+	font-size: 13px;
+	font-weight: bold;
+/*	color: #2f2f2f; */
+	margin: 1.5em 0 0 0;
+}
+
+.jump{
+	margin-left: auto;
+}
+
+
+		head~/* */body .jump{
+			float: right;
+		}
+
+.topjump{
+	clear: both;
+	margin-top: 10px;
+	position: absolute;
+	right: 20px;
+	bottom: 0px;
+}
+
+.icon{
+	width: 30px;
+	height: 15px;
+	margin-right: 0;
+	margin-left: auto;
+	float: right;
+	display: inline;
+	vertical-align: middle;
+	vertical-align: text-bottom;
+}
+
+
+/* 以下フッター関連 */
+
+.footer{	
+	position: relative; 
+	clear: both;
+	font-size: 11px; 	
+	text-align: left;
+	padding-top: 1em;
+	margin: 50px auto 0 auto ;
+	width: 100%;
+	overflow: hidden;
+	background-color: #e7e7df; 
+}
+
+.line{
+	margin: 0 auto 1ex auto;
+	/*text-align: center ; */
+
+	width:98%;
+}
+
+.navi{
+	padding-left: 2em;
+	padding-right: 2em;
+	text-align: left;
+	float: left; 
+	list-style-type: none;
+	position: relative;
+	left: 200px;
+	margin: 0px;
+
+}
+ 
+	.navi li {
+		margin-bottom: 1ex;
+	}
+
+.footer_bottom{
+	position: relative; 
+	overflow: hidden;
+	background-color: #ecece6;
+	}
+
+
+#link {
+	margin: 1em 0 auto auto;
+	padding: 0;
+	clear: both;
+	list-style-type: none;
+	position: relative;
+	left: 205px;
+}
+
+	#link li{
+		margin: 1ex;
+		display: inline;
+		color: #DD0100;
+	}
+
+	#link a{
+		color: #DD0100;
+	}
+
+#size_images{
+	margin: -5px; 
+}
+
+.size_img{
+	margin: -5px; 
+}
+
+ #proviso {
+	margin: 1em 0 auto auto;
+	text-align: center;
+	font-size: 11px;	
+	position: relative;
+	left: 205px;
+}
+
+.nu{
+	/*font-size: 11px; */
+	margin: 0px;
+	float: left; 
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+/** footer 終了 **/
+ 
+
+ul#departmentslist a{
+	font-weight: 500;
+}
+
+ul#departmentslist a:visited{
+	font-weight: 400;
+}
+
+table.basic, table.farewell, table.relay {
+	border:0;
+	border-collapse: collapse;
+	white-space:normal;
+}
+
+table.relay {
+  clear: right;
+}
+
+table.farewell, table.relay{
+  margin:0 10px 25px 0px;
+}
+
+table.basic th, table.farewell th, table.relay th{
+	border: 1px solid #999999;
+}
+
+table.basic td, table.farewell td, table.relay td{
+	border: 1px solid #999999;
+}
+
+table.basic ul, table.farewell ul, table.relay ul{
+	padding-left: 1em;
+}
+
+
+/* -----------------Course Contents ---------------*/
+span.i{
+	font-style:italic;
+}
+
+span.u{
+	text-decoration: underline;
+}
+
+span.b{
+	font-weight: bold; 
+}
+
+#release_date {
+  text-align: left;
+  float: left;
+}
+
+#release_disclaimer{
+  text-align: right;
+  margin-bottom: 30px;
+}
+
+/*------------- 1分間授業紹介&PodCast -----------*/
+#podcast{
+	float: left;
+	width: 160px;
+	padding: 0px;
+	margin: 0px 5px 0px 40px;
+	position: relative;
+	top: -25px;
+	background-color: white;
+}
+
+#podcast_right{
+	float: right;
+	width: 160px;
+	padding: 0px;
+	margin: 10px 10px 10px 10px;
+	position: relative;
+	top: -25px;
+	background-color: white;
+}
+
+#podcast_waku{
+        border-style: solid;
+        border-width: 1px;
+        border-color: #cccccc;
+        overflow: hidden;
+        position: relative;
+        padding: 0px;
+	margin: 2px;
+}
+
+#aboutpodcast_image{
+        padding: 0px;
+        margin: 15.5px 15.5px 12px;
+        position: relative;
+}
+
+#aboutpodcast_sentence{
+	padding: 0px;
+	margin: 0px 15.5px 15.5px;
+	position: relative;
+}
+
+#contents_p{
+        position:relative;
+        top: -25px;
+        margin-left: 200px;
+        margin-right: 0px;
+        background-color: white;
+        padding-left: 1ex;
+}
+
+div.course_contents{
+	margin: 0px
+}
+
+div.realplayer{
+	margin: 40px 0;
+}
+
+div.podcast{
+	margin: 25px 5px;
+	padding: 0;
+}
+
+td.td_left_gray{
+	background-image: url(../images/common/flame02.gif);
+	background-repeat: repeat-y;
+}
+
+td.td_right_gray{
+	background-image: url(../images/common/flame05.gif);
+	background-repeat: repeat-y;
+}
+
+td.td_top_gray{
+	background-image: url(../images/common/gray02.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	background-color:#eeeeee;
+}
+
+td.td_under_gray{
+	background-image: url(../images/common/gray07.gif);
+	background-repeat: repeat-x;
+}
+
+td.td_contents_gray{
+	vertical-align: top;
+	background-color:#e7e7df;
+}
+
+/* 箇条書き */
+ul.none{
+	list-style-type: none;    /*マーカーなし*/
+}
+
+ul.circle{
+	list-style-type: circle;    /*白丸*/
+}
+
+ul.square{
+	list-style-type: square;    /*黒四角*/
+}
+
+
+ol.lower-roman{
+	list-style-type: lower-roman;    /*小文字のローマ数字*/
+}
+
+ol.upper-roman{
+	list-style-type: upper-roman;    /*大文字のローマ数字*/
+}
+
+ol.lower-alpha{
+	list-style-type: lower-alpha;    /*小文字のアルファベット*/
+}
+
+ol.upper-alpha{
+	list-style-type: upper-alpha;    /*大文字のアルファベット*/
+}
+
+
+/* 表 */
+table.center_contents{
+ margin:0;
+ padding:0;
+}
+
+th.left{
+	font-size: large;
+	color: #DD0000;
+
+}
+
+th.left_gray{
+	background-color:#eeeeee;
+	font-size: large;
+	color: #DD0000;
+
+}
+
+th.center{
+	text-align: center;
+}
+
+th.center_gray{
+	text-align: center;
+	background-color:#eeeeee;
+}
+
+th.right{
+	text-align: right;
+}
+
+th.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+td.left{
+	text-align: left;
+}
+
+td.left_gray{
+	text-align: left;
+	background-color:#ecece6;
+}
+
+td.center{
+	text-align: center;
+}
+
+td.center p{
+    text-align :center;
+}
+
+td.center_gray{
+	text-align: center;
+	background-color:#ecece6;
+}
+
+td.center_gray p {
+    text-align: center;
+}
+
+td.contents{
+	text-align:left;
+	vertical-align: top;
+}
+
+td.right{
+	text-align: right;
+}
+
+td.left{
+	text-align: left
+}
+
+td.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+td.separate{
+	border: none;
+	text-align: right;
+	background-color:#e7e7df;
+	height:5px;
+}
+
+.odd{
+	background-color:#e7e7df;
+}
+.even{
+	background-color:#fff;
+}
+
+/** 授業一覧から探す　関連  **/
+#sort {
+	clear: both;
+	float: right;
+	margin-right: 15px;
+	margin-top: -35px; 
+}
+
+table#menu_list{
+	position: relative;
+	top: -90px;
+	left: 10px;
+	border-spacing: 10px 0px;
+}
+
+#line1{		/* 赤い水平線上 */
+	width: 690px;
+	height: 4px;
+}
+
+#line2{		/* 赤い水平線下 */
+	width:690px;
+	height:4px;
+	margin-top:1.5em;
+}
+
+#menu_submit{
+	float: right;
+	margin-right: 25px;		
+	margin-top: -105px; 
+}
+
+table.sorttable{
+	max-width: 690px;
+	/*margin-top: -10px;*/
+	margin-bottom: 50px;	
+}
+
+#dep_introduce{
+	margin-left: -5px;
+	margin-bottom: 30px;
+	background-image: url("../images/ja/devision.png");
+	background-repeat: no-repeat;
+	width: 710px;
+	height: 300px;
+}	
+
+#dep_introduce h2,
+#dep_introduce h3,
+#dep_introduce h4{
+	display : none;
+}
+
+#dep_txt{
+	position: relative;
+	top: 90px; left: 35px;
+	width: 300px;
+	height: 200px;
+}
+
+a#more{
+  display: block;
+	position: relative;
+	left: 265px;
+}
+
+#dep_url{
+	position: relative;
+	top: 10px; left: 0px;
+	margin: 0px; 
+}
+
+#dep_movie{
+	position: absolute;
+	top: 80px;
+	left: 560px;
+}
+
+/** サイトマップ関連 **/
+div.sitemap_contents{
+	position: relative;
+	clear: both;
+	text-align: center;
+	padding-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+}
+
+.sitemap_navi{
+	padding-left: 0px;
+	padding-right: 2em;
+	text-align: left;
+	float: left;
+	list-style-type: none;
+	position: relative;
+	margin: 0px;
+}
+
+
+/** お問い合わせ **/
+h2.inq {
+	font-size: 130%;
+	font-weight: bold;
+	color: #666666;
+	background-image: none;
+	padding: 0;
+	margin: 10px 0;
+}
+
+span.red{
+	color:#FF3333;
+}
+
+/** 用語解説　**/
+.g_text {
+	padding-left: 150px;
+	margin-bottom: 45px;
+}
+
+.g_text p{
+	margin-bottom: 20px;
+}
+
+.g_text ul{
+	margin: -10px 0px 0px;
+	padding-left: 20px;
+}
+
+.g_text h3 {
+	font-size: 13px;
+	font-weight: bold;
+	background-image: url(../images/common/header3_box.png);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 0px;
+	margin: 0px 0px 0px -145px;
+	width: 110px;
+	float: left;
+	/*  clear: left;*/
+}
+
+.g_text h2 {
+	font-size: large;
+	font-weight: normal;
+	color: rgb(221, 0, 0);
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 0px;
+	margin: 0px 0px 0px -145px;
+	width: 110px;
+	float: left;
+	/*  clear: left;*/
+}
+
+/** 名大の授業について **/
+.about{
+	padding: 0;
+	margin: 0;
+}
+
+.about h1{
+	font-size: x-large;
+	color: #DD0000;
+	margin: 0px;
+}
+
+.about h2{
+	font-size: large;
+	color: #666666;
+	margin: 0px;
+}
+
+.about p{
+	margin: 1em;
+}
+
+.about table{
+	border-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.about td{
+	border-right: 2px solid white;
+	margin: 0;
+	padding: 0;
+}
+.about tr{
+	border-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+/** FAQ **/
+div.faq_normal{
+	border: thin solid white;
+	padding: 5px 20px;
+	margin: 0px;
+}
+
+
+div.faq_color{
+	background-color:#eeeeee;
+	border: thin solid white;
+	padding: 5px 20px;
+	margin: 0px;
+}
+
+/** ごあいさつ **/
+p.welcome_b{
+	font-size: large;
+	color: #666666;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+}
+
+div.welcome_box{
+  position: relative;
+}
+
+div.welcome_img{
+/*	text-align: center;*/
+	position: relative;
+	left: 180px;
+	margin: 0;
+	padding: 0;
+}
+
+div.welcome_name{
+	position: relative;
+	margin-top: -75px;
+	padding-bottom: 25px;
+	left: 500px;
+}
+
+div.welcome_contents{
+	position: absolute;
+	top: 360px;
+	margin-bottom: 1000px;
+}
+
+/* 特別企画 */
+table.special {
+  border-collapse: collapse;
+}
+
+td.special_movie {
+  width: 130px;
+}
+
+td.special_description {
+  width: 580px;
+  vertical-align: bottom;
+}
+
+span.special_lead {
+  color: rgb(51,112,179); 
+}
+
+h3.special {
+	background-image: none;
+	padding: 0;
+  padding-top: 3px;
+  padding-bottom: 3px;
+	margin: 0;
+  font-size: x-large;
+}
+
