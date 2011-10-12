@@ -171,3 +171,130 @@ body{
 	background-color: white;
 	padding: 0px;
 }
+
+
+/*
+------------------------------------------------------------
+   旧デザインと同じ表のスタイル（英語版などで使用）
+------------------------------------------------------------
+*/
+td.td_left_gray{
+	background-image: url(../../images/common/flame02.gif);
+	background-repeat: repeat-y;
+}
+
+td.td_right_gray{
+	background-image: url(../../images/common/flame05.gif);
+	background-repeat: repeat-y;
+}
+
+td.td_top_gray{
+	background-image: url(../../images/common/gray02.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	background-color:#eeeeee;
+}
+
+td.td_under_gray{
+	background-image: url(../../images/common/gray07.gif);
+	background-repeat: repeat-x;
+}
+
+td.td_contents_gray{
+	vertical-align: top;
+	background-color:#e7e7df;
+}
+
+table.center_contents{
+ margin:0;
+ padding:0;
+}
+
+th.left{
+	font-size: large;
+	color: #DD0000;
+
+}
+
+th.left_gray{
+	background-color:#eeeeee;
+	font-size: large;
+	color: #DD0000;
+
+}
+
+th.center{
+	text-align: center;
+}
+
+th.center_gray{
+	text-align: center;
+	background-color:#eeeeee;
+}
+
+th.right{
+	text-align: right;
+}
+
+th.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+td.left{
+	text-align: left;
+}
+
+td.left_gray{
+	text-align: left;
+	background-color:#ecece6;
+}
+
+td.center{
+	text-align: center;
+}
+
+td.center p{
+    text-align :center;
+}
+
+td.center_gray{
+	text-align: center;
+	background-color:#ecece6;
+}
+
+td.center_gray p {
+    text-align: center;
+}
+
+td.contents{
+	text-align:left;
+	vertical-align: top;
+}
+
+td.right{
+	text-align: right;
+}
+
+td.left{
+	text-align: left
+}
+
+td.right_gray{
+	text-align: right;
+	background-color:#eeeeee;
+}
+
+td.separate{
+	border: none;
+	text-align: right;
+	background-color:#e7e7df;
+	height:5px;
+}
+
+.odd{
+	background-color:#e7e7df;
+}
+.even{
+	background-color:#fff;
+}
