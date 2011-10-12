@@ -1,7 +1,9 @@
 @charset "euc-jp";
+/*¥Ø¥Ã¥À¡¼*/
+
 .header{
 	height: 90px; 
-	background-image: url(../images/common/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
+	background-image: url(../../images/common/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
 	min-width: 975px;
 	background-repeat: no-repeat;
 }
@@ -9,13 +11,13 @@
 .topheader{
 	height: 110px;
 	min-width: 975px;
-	background-image: url(../images/common/topbar_top.jpg);	
+	background-image: url(../../images/common/topbar_top.jpg);	
 	background-repeat: no-repeat;
 }
 
 .header_en{
         height: 90px;
-        background-image: url(../images/en/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
+        background-image: url(../../images/en/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
         min-width: 975px;
         background-repeat: no-repeat;
 }
@@ -23,7 +25,7 @@
 .topheader_en{
         height: 110px;
         min-width: 975px;
-        background-image: url(../images/en/topbar_top.jpg);
+        background-image: url(../../images/en/topbar_top.jpg);
         background-repeat: no-repeat;
 }
 
@@ -138,7 +140,7 @@
 
 .header_edge{
 	height: 90px;
-	background-image: url(../images/common/topbar_loop.png);
+	background-image: url(../../images/common/topbar_loop.png);
 	background-repeat: repeat-x;
 	background-position: 1300px 0px;
 	margin:0;
@@ -146,7 +148,7 @@
 
 .topheader_edge{
 	height: 110px;
-	background-image: url(../images/common/topbar_top_loop.png);
+	background-image: url(../../images/common/topbar_top_loop.png);
 	background-repeat: repeat-x;
 	background-position: 1300px 0px;
 	margin:0;

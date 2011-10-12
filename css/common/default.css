@@ -11,7 +11,7 @@ h2{
 }
 
 h3{
-	background-image: url(../images/common/header3_box.png);
+	background-image: url(../../images/common/header3_box.png);
 	background-repeat: no-repeat;
 	padding-left: 15px;
 	margin-bottom: 5px; 
@@ -21,7 +21,7 @@ img{
 	border-style: none;
 }
 
-a{
+a {
 	text-decoration: none;
 }
 
@@ -116,13 +116,13 @@ body{
 }
 
 .body_back{
-	background-image: url(../images/common/bg.png); /*グレーの背景*/
+	background-image: url(../../images/common/bg.png); /*グレーの背景*/
 	background-repeat: repeat-x;
 	background-position: 0px 90px; /* ヘッダー画像の下に白線がある*/
 }
 
 .main_back {
-	background-image: url(../images/common/loop.png);
+	background-image: url(../../images/common/loop.png);
 	background-repeat: repeat-y;
 	background-position: 975px 90px;
 	max-width: 1260px; 
@@ -145,7 +145,7 @@ body{
 }
 
 	.main_back_adachi{
-		background-image: url(../images/common/staff.png);
+		background-image: url(../../images/common/staff.png);
 		background-repeat: no-repeat; 
 		position: absolute;
 		top: 25px; 
