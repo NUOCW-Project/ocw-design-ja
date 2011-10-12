@@ -4,7 +4,6 @@
 <meta http-equiv="Content-Type" content="text/html;charset={if $lang == "ja"}EUC-JP{elseif $lang=="en"}utf-8{/if}">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
-<link rel="stylesheet" type="text/css" href="css/2010.css">
 <link rel="stylesheet" type="text/css" href="css/common/contents.css">
 <link rel="stylesheet" type="text/css" href="css/common/defult.css">
 <link rel="stylesheet" type="text/css" href="css/common/dept.css">
