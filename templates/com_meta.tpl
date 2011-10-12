@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
 <link rel="stylesheet" type="text/css" href="css/common/contents.css">
-<link rel="stylesheet" type="text/css" href="css/common/defult.css">
+<link rel="stylesheet" type="text/css" href="css/common/default.css">
 <link rel="stylesheet" type="text/css" href="css/common/dept.css">
 <link rel="stylesheet" type="text/css" href="css/common/en.css">
 <link rel="stylesheet" type="text/css" href="css/common/footer.css">
