@@ -4,16 +4,54 @@
 <meta http-equiv="Content-Type" content="text/html;charset={if $lang == "ja"}EUC-JP{elseif $lang=="en"}utf-8{/if}">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
-<link rel="stylesheet" type="text/css" href="css/2010.css">
+<link rel="stylesheet" type="text/css" href="css/common/contents.css">
+<link rel="stylesheet" type="text/css" href="css/common/defult.css">
+<link rel="stylesheet" type="text/css" href="css/common/dept.css">
+<link rel="stylesheet" type="text/css" href="css/common/en.css">
+<link rel="stylesheet" type="text/css" href="css/common/footer.css">
+<link rel="stylesheet" type="text/css" href="css/common/header.css">
 {literal}
+{if $lang=='ja' && $page_type=='about'}
+  <link rel="stylesheet" type="text/css" href="css/about.css">
+{/if}
+{if $lang=='ja' && $mode=='l'}
+  <link rel="stylesheet" type="text/css" href="css/clist.css">
+{/if}
+{if $lang=='ja' && $mode=='c'}
+  <link rel="stylesheet" type="text/css" href="css/course.css">
+{/if}
+{if $lang=='ja' && $page_type=='faq'}
+  <link rel="stylesheet" type="text/css" href="css/faq.css">
+{/if}
+{if $lang=='ja' && $page_type=='glossary'}
+  <link rel="stylesheet" type="text/css" href="css/glossary.css">
+{/if}
+{if $lang=='ja' && $page_type=='inquiry'}
+  <link rel="stylesheet" type="text/css" href="css/inquiry.css">
+{/if}
+{if $lang=='ja' && $page_type=='sitemap'}
+  <link rel="stylesheet" type="text/css" href="css/sitemap.css">
+{/if}
+{if $lang=='ja' && $page_type=='top'}
+  <link rel="stylesheet" type="text/css" href="css/top.css">
+{/if}
+{if $lang=='ja' && $page_type=='vsyllabus'}
+  <link rel="stylesheet" type="text/css" href="css/vsyllabus.css">
+{/if}
+{if $lang=='ja' && $page_type=='welcome'}
+  <link rel="stylesheet" type="text/css" href="css/welcome.css">
+{/if}
 {if $lang=='ja' && $page_type=='topics'}
   <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
+  <link rel="stylesheet" type="text/css" href="css/topics.css">
 {elseif $lang=='en' && $page_type=='topics'}
   <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 {elseif $lang=='ja' && $page_type=='topics2010'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
+  <link rel="stylesheet" type="text/css" href="css/topics.css">
 {elseif $lang=='ja' && $page_type=='topics_branches'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics.css">
 {/if}
 {/literal}
 
