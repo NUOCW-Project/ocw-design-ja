@@ -1,0 +1,86 @@
+@charset "euc-jp";
+/* フッター */
+.footer{	
+	position: relative; 
+	clear: both;
+	font-size: 11px; 	
+	text-align: left;
+	padding-top: 1em;
+	margin: 50px auto 0 auto ;
+	width: 100%;
+	overflow: hidden;
+	background-color: #e7e7df; 
+}
+
+.line{
+	margin: 0 auto 1ex auto;
+	/*text-align: center ; */
+
+	width:98%;
+}
+
+.navi{
+	padding-left: 2em;
+	padding-right: 2em;
+	text-align: left;
+	float: left; 
+	list-style-type: none;
+	position: relative;
+	left: 200px;
+	margin: 0px;
+
+}
+ 
+	.navi li {
+		margin-bottom: 1ex;
+	}
+
+#footer_bottom{
+	position: relative; 
+	overflow: hidden;
+	padding-left: 205px;
+	background-color: #ecece6;
+	}
+
+
+#link {
+	margin: 1em 0 auto auto;
+	padding-left: auto;
+	padding-right: auto;
+	clear: both;
+	list-style-type: none;
+/*	position: relative;
+	left: 205px;*/
+}
+
+	#link li{
+		margin: 1ex;
+		display: inline;
+		color: #DD0100;
+	}
+
+	#link a{
+		color: #DD0100;
+	}
+
+#size_images{
+	margin: -5px; 
+}
+
+.size_img{
+	margin: -5px; 
+}
+
+#proviso {
+	margin: 1em 0 auto auto;
+	padding-left: 150px;
+	clear: both;
+	font-size: 11px;
+}
+
+.nu{
+	/*font-size: 11px; */
+	margin: 0px;
+	float: left; 
+	padding-bottom: 30px;
+}

@@ -1,0 +1,153 @@
+@charset "euc-jp";
+.header{
+	height: 90px; 
+	background-image: url(../images/common/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
+	min-width: 975px;
+	background-repeat: no-repeat;
+}
+
+.topheader{
+	height: 110px;
+	min-width: 975px;
+	background-image: url(../images/common/topbar_top.jpg);	
+	background-repeat: no-repeat;
+}
+
+.header_en{
+        height: 90px;
+        background-image: url(../images/en/topbar.jpg);/* ÇØ·Ê²èÁü¡ÖÌ¾Âç¤Î¼ø¶È¡× */
+        min-width: 975px;
+        background-repeat: no-repeat;
+}
+
+.topheader_en{
+        height: 110px;
+        min-width: 975px;
+        background-image: url(../images/en/topbar_top.jpg);
+        background-repeat: no-repeat;
+}
+
+.header a#home_header{
+	display: block;
+	height: 90px;
+	width: 300px;
+	position: absolute;	
+	top: 0px;
+	left: 0px;
+}
+
+	.header_sub{
+	 max-width/**/: 770px;
+	 /width: 770px; /* IE6ÂÐºö */
+		height: 60px;
+		margin-left: 200px;
+	padding: 0px;
+	}
+
+	html>/**/body .header_button{
+	margin-top: 15px;
+	width:475px;
+	height: 50px;
+	float: right;
+	}	
+	
+		.header_button{
+			margin-top: 15px;
+			width: 515px;
+			height: 50px;
+			margin-left: 320px;
+		}
+
+	.header_button img{
+	border: none;	
+	}	
+
+			.header_button_sub{
+				width: 190px;
+				height: 50px;
+				position: relative;
+				top: -50px;
+				left: 243px;
+			}
+
+				.header_button_english{
+					width: 50px;
+					height: 20px;
+					position: relative;
+					top: 3px;
+					margin: 0px 10px 0px 150px;
+				}
+
+	.header_button_english img{
+	border: none;
+	}
+
+				html>/**/body .header_button_akf{
+					width: 50px;
+					height: 20px;
+					position: relative;
+					top: 7px;
+					left: 0px;
+					margin: 0;
+				}
+	.header_button_akf{
+	width: 50px;
+	height: 20px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	border: none;
+	}
+
+				html>/**/body .header_button_input{
+					width: 130px; 
+					position: relative;
+					left: 50px;
+					top : -14px;
+				}
+
+	.header_button_input{
+	width: 130px;
+	position: relative;
+	left: 50px;
+	top: -38px;
+	}
+
+				.header_button_input input{
+					font-size: 11px;
+					width: 145px;
+				}
+
+				html>/**/body .header_button_search{
+					width: 20px;
+					height: 20px;
+					position: relative;
+					left: 201px;
+					top: -33px;
+				}
+
+	.header_button_search{
+	width: 20px;
+	height: 20px;
+	position: relative;
+	left: 197px;
+	top: -57px;
+	border: none;
+	}	
+
+.header_edge{
+	height: 90px;
+	background-image: url(../images/common/topbar_loop.png);
+	background-repeat: repeat-x;
+	background-position: 1300px 0px;
+	margin:0;
+}
+
+.topheader_edge{
+	height: 110px;
+	background-image: url(../images/common/topbar_top_loop.png);
+	background-repeat: repeat-x;
+	background-position: 1300px 0px;
+	margin:0;
+}

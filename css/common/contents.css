@@ -1,0 +1,83 @@
+@charset "euc-jp";
+
+/* 本文 */
+#package{
+	position:relative;/* #menuを絶対配置するため */
+	overflow: hidden;
+}
+
+#package2{
+	overflow: hidden; /* Firefox, Safari対策 */
+	position: relative;
+	top: -25px;
+	float: left;
+	/**/
+}
+
+	#menu{
+		position: absolute;
+		top: 285px;
+		left: 190px;
+	}
+
+		.menu0{
+			float: left;
+			height: 90px;
+			width: 180px;
+		}
+
+			#studio_channel_date{
+				position: relative;
+				top: -70px;
+				left: 76px;
+				color: red;
+				font-size: 11px;
+			}
+
+#contents{
+	float: left;
+	margin: 0px;
+	background-color: white;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	margin-right: 20px;
+	width: 710px;
+	overflow: visible;
+	/*border-style: solid;
+	border-width: 1px;
+	border-color: blue;*/
+}
+
+.topjump{
+	clear: both;
+	margin-top: 10px;
+	position: absolute;
+	right: 20px;
+	bottom: 0px;
+}
+
+/* IE6 hack */
+* html #contents{
+	width: 705px;
+}
+/* IE7 hack */
+*:first-child+html #contents{
+	max-width: 710px;
+}
+/* Safari hack */
+body:first-of-type #contents{
+	max-width: none;
+	width: 705px;
+}
+	.pankuzu{
+		min-height: 28px; 
+		list-style-type: none;
+		padding: 5px 0px 0px 0px; /* paddingの初期化をすることで問題解決（メモ）*/
+		margin: 5px 0px 23px 0px;
+	}
+
+	 .pankuzu li{
+			display: inline;
+			color: #666666;
+		}
+

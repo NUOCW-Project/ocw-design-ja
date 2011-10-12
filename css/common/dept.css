@@ -1,0 +1,52 @@
+@charset "euc-jp";
+/* 部局リスト */
+#departmentslist{
+	float: left;
+	width: 160px;
+	padding:0px;
+	margin: 0px 5px 0px 30px;
+	list-style:none;
+}
+
+*html #departmentslist{
+	float: left;
+	width: 160px;
+	margin: 0px 2px 0px 20px;
+	padding: 0px;
+	list-style:none;
+}
+
+#departmentslist_list{
+	width: 157px;
+	padding:0px;
+	margin: 0px 5px 0px 0px;
+	position: relative;	
+	list-style:none;
+}
+
+#departmentslist_list_en{
+	width: 157px;
+	padding:0px;
+	margin: 0px 5px 0px 0px;
+	position: relative;	
+	list-style:none;
+}
+
+#departmentslist_list li{
+	/* margin-bottom: -6px; */ /*画像の隙間をなくしている */
+  margin: 0;
+  height: 23px;
+}
+
+#departmentslist_list_en li{
+  margin: 0;
+  height: 40px;
+}
+ 
+ul#departmentslist a{
+	font-weight: 500;
+}
+
+ul#departmentslist a:visited{
+	font-weight: 400;
+}
