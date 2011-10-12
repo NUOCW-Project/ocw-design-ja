@@ -5,7 +5,6 @@ css/common 全ページに適用するもの
   fotter.css　フッター部分
   default.css　a や font などの初期設定
   contents.css　コンテンツの中身の共通部分、パンクズリストなど
-  en.css 2010年度デザイン版の英語ページに関するもの（暫定的）
 
 以下、各種ページごとに読み込むファイル
 about.css 名大の授業について
@@ -19,4 +18,7 @@ top.css トップページ
 topics.css 特別企画
 vsyllabus.css 一分間授業紹介
 welcome.css ごあいさつ
+
+ en.css 2010年度デザイン版の英語ページに関するもの（暫定的）
+は今のところ全ページで読んでいる
 
