@@ -11,13 +11,14 @@
 	</td></tr>
 
 <tr><td colspan=2>
-<h3>About course</h3>
+<h3>About the Public Course Materials</h3>
 
-<p>about...</p>
+<p>Every year at Nagoya University, many thousands of courses are held. Even within the individual departments there are a great many different kinds of courses taking place. The courses introduced here are but a part of these, as well as including those courses that have been discontinued, and those which have had a change in teaching staff. The courses that are introduced here have been recommended by the heads of department, by the Nagoya University Open Course Ware Committee, or even by personal recommendation by individual professors, and all of the courses have received approval from the Nagoya University Open Course Ware Committee.
+</p>
 
-<h3>ご利用にあたって</h3>
+<h3>Terms of Use</h3>
 
-<p>「名大の授業」に掲載されている資料のご利用にあたっては、以下の点にご注意ください。</p>
+<p>Please pay careful attention to the following points when using the materials appearing in "Nagoya University Open Course Ware (NUOCW)".</p>
 
 </td></tr>
 
