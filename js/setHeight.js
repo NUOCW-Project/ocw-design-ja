@@ -17,9 +17,9 @@ function setHeightsTop() {
   for (i = 0; i <= MAX_ENTRIES; i++ ) {
     hgt = hgt - $("tr#no" + i).outerHeight(true);
     if (hgt > 0) {
-      $("tr#no" + i).css("visibility", "visible");
+      $("tr#no" + i).show();
     } else {
-      $("tr#no" + i).css("visibility", "hidden");
+      $("tr#no" + i).hide();
     }
   }
 
