@@ -1,4 +1,4 @@
- <!-- 「ページトップへ」 -->
+<!-- 「ページトップへ」 -->
   <a href="#top">{if $lang=='ja'}<img src="./images/ja/pagetop.gif" class="topjump"  alt="ページトップへ" >
 {else}<img src="./images/en/pagetop.png" class="topjump"  alt="To the top of the page" >{/if}
 </a>

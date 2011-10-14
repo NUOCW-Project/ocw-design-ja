@@ -1,4 +1,4 @@
-<div class="course_contents">
+<div class="center_contents">
 <h3>Inquiries about this project may be directed to:</h3>
 <p>OCW Administrative Office<br>
        Center for Information Media Studies<br>
