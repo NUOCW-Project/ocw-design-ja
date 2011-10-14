@@ -60,6 +60,7 @@
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/toggle.js"></script>
 <script type="text/javascript" src="./js/openWin.js"></script>
+<script type="text/javascript" src="./js/googleAnalytics.js"></script>
 {literal}
 {if $page_type=='top'}
   <script type="text/javascript" src="./js/setHeight.js"></script>
@@ -73,7 +74,6 @@
   <script type="text/javascript" src="./js/noDisplay.js"></script>
 {/if}
 {/literal}
-<script type="text/javascript" src="./js/googleAnalytics.js"></script>
 
 <title>
 <!-- タイトルに講義情報を入れる -->
