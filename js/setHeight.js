@@ -34,6 +34,6 @@ function setHeightsTop() {
   }
 }
 
+$(setHeightsTop);
+// run it twice, for Safari's ready event looks strange.
 $(window).load(setHeightsTop);
-
-
