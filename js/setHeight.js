@@ -34,8 +34,6 @@ function setHeightsTop() {
   }
 }
 
-$(window).load(
-  setHeightsTop();
-);
+$(window).load(setHeightsTop);
 
 
