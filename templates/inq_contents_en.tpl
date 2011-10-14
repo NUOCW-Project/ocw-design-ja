@@ -29,13 +29,13 @@
 	</td>
 	<td width="10" class="td_right"></td>
 </tr>
-<*
+<!--
 <tr>
 	<td width="10" height="15"><img src="./images/common/flame06.gif" alt=""></td>
 	<td width="465" height="15" class="td_under"></td>
 	<td width="10" height="15"><img src="./images/common/flame08.gif" alt=""></td>
 </tr>
-*>
+-->
 
 </table>
 </div>  <!-- センターコンテンツ終了 -->
