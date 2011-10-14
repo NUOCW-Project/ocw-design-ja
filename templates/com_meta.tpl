@@ -62,7 +62,7 @@
 <script type="text/javascript" src="./js/openWin.js"></script>
 <script type="text/javascript" src="./js/googleAnalytics.js"></script>
 {literal}
-{if $page_type=='top'}
+{if $lang=='ja' && $page_type=='top'}
   <script type="text/javascript" src="./js/setHeight.js"></script>
 {elseif $lang=="ja" && $page_type=='topics'}
   <script type="text/javascript" src="./js/seltab.js"></script>
