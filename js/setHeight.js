@@ -2,7 +2,7 @@
 // set heights of boxes in the toppage
 //
 
-$(document).ready(function(){ 
+function setHeightsTop() {
   var hgt;
   var i;
   var HGT_HEAD = 30; // the height of headers of boxes
@@ -32,4 +32,10 @@ $(document).ready(function(){
   } else {
     $("#toppage_press div.waku").css("height", hgt_greet + "px");
   }
-});
+}
+
+$(window).load(
+  setHeightsTop();
+}
+
+
