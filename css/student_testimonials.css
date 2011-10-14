@@ -13,13 +13,13 @@
         overflow: hidden;
 }
 
-#student .ja {
+.student_ja {
         background: url("../images/ja/student/header.png");
         background-position: 0px 30px;
         background-repeat: no-repeat;
 }
 
-#student .en {
+.student_en {
         background: url("../images/ja/student/header.png");
         background-position: 0px 30px;
         background-repeat: no-repeat;

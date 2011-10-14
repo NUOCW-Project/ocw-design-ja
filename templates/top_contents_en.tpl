@@ -1,6 +1,6 @@
   <img src="./images/common/t_topics.png" alt="Topics">
   <img src="./images/common/redline.gif" class="line" alt="">
-<div id="student" class="en">
+<div id="student" class="student_en">
   <!-- ビデオクリップを読み込む枠 -->
   <div id="interview_video_frame">
     <div id="interview_title"><img src="./images/common/student/interview_title_life_in_japan.png" alt="About life in Japan"></div>
