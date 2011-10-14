@@ -32,7 +32,7 @@
 {if $lang=='ja' && $page_type=='sitemap'}
   <link rel="stylesheet" type="text/css" href="css/sitemap.css">
 {/if}
-{if $lang=='ja' && $page_type=='top'}
+{if $page_type=='top'}
   <link rel="stylesheet" type="text/css" href="css/top.css">
   <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 {/if}
