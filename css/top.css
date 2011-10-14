@@ -194,24 +194,26 @@ img#prj10{
 			padding-left: 1em;
 		}
 
-		#no1 td, #no3 td{
+		tr#no1, tr#no3 {
 			padding-top: 1em;
 			padding-bottom: 1em;
 			background-color: #e7e7df;
 		}	
 
-		#no2 td{
+		tr#no2 {
 			padding-top: 1em;
 			padding-bottom: 1em;
 			background-color: white;
 		}
 
-		#no5 td, #no7 td, #no9 td, #no11 td, #no13 td, #no15 td, #no17 td, #no19 td{
+		tr#no5, tr#no7, tr#no9, tr#no11, tr#no13, tr#no15, tr#no17, tr#no19{
 			background-color: #e7e7df;
+      visibility: hidden;
 		}
 
-		#no4 td, #no6 td, #no8 td, #no10 td, #no12 td, #no14 td, #no16 td, #no18 td{
+		tr#no4, tr#no6, tr#no8, tr#no10, tr#no12, tr#no14, tr#no16, tr#no18{
 			background-color: white;
+      visibility: hidden;
 		}
 
 /* トップページの見出し画像にお知らせを出す時に使用 */
