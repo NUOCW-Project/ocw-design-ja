@@ -3,7 +3,8 @@
 //
 
 $(document).ready(function(){ 
-  var hgt, i;
+  var hgt;
+  var i;
   const HGT_HEAD = 30; // the height of headers of boxes
   const MAX_ENTRIES = 20; // the number of entries of accessranking
 
