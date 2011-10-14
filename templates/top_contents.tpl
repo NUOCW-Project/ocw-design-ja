@@ -136,3 +136,6 @@
 </div><!-- 右側ボックスend -->
 
 </div><!-- "inline" end -->
+
+<div class="clear">
+</div>

@@ -155,8 +155,3 @@ table.list_table{
   background-color: #FFFFFF;
 }
 
-/* 回り込み解除用の便宜的な DIV 要素 */
-/* 本当はよい実装ではないと思われる */
-.clear_div{
-  clear: both;
-}

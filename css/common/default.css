@@ -38,6 +38,11 @@ a:hover{
 	text-decoration: underline;
 }
 
+/* 回り込み解除用の便宜的な DIV 要素 */
+div.clear_div {
+  clear: both;
+}
+
 table{
 	border-style: none;
 	margin: 0;

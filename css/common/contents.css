@@ -51,6 +51,7 @@
 .topjump{
 	clear: both;
 	margin-top: 10px;
+  padding-right: 6px;
   text-align: right;
 }
 
