@@ -4,7 +4,7 @@
   // title : 動画のタイトル 
 function switchFlash(url, title, img) {
     // divの削除
-    var target = document.getElementById('student_en');
+    var target = document.getElementById('student');
     while(target.firstChild){
     target.removeChild(target.firstChild);
     }
