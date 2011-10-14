@@ -14,7 +14,7 @@ $(document).ready(function(){
   // erase entries of accessranking outside the box
   hgt = hgt - HGT_HEAD;
   for (i = 0; i <= MAX_ENTRIES; i++ ) {
-    hgt = hgt - $("tr #no" + i).outerheight(true);
+    hgt = hgt - $("tr #no" + i).outerHeight(true);
     if (hgt < 0) {
       $("tr #no" + i).hide();
     }
