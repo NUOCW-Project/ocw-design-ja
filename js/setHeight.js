@@ -16,7 +16,9 @@ $(document).ready(function(){
   hgt = hgt - HGT_HEAD;
   for (i = 0; i <= MAX_ENTRIES; i++ ) {
     hgt = hgt - $("tr#no" + i).outerHeight(true);
-    if (hgt < 0) {
+    if (hgt > 0) {
+      $("tr#no" + i).show();
+    } else {
       $("tr#no" + i).hide();
     }
   }
