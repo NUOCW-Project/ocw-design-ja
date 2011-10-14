@@ -5,8 +5,8 @@
 $(document).ready(function(){ 
   var hgt;
   var i;
-  const HGT_HEAD = 30; // the height of headers of boxes
-  const MAX_ENTRIES = 20; // the number of entries of accessranking
+  var HGT_HEAD = 30; // the height of headers of boxes
+  var MAX_ENTRIES = 20; // the number of entries of accessranking
 
   // set the height of accessranking box.
   hgt = $("#toppage_notice div.waku").height();
