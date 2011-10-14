@@ -43,7 +43,6 @@
 {/if}
 {if $lang=='ja' && $page_type=='topics'}
   <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
-  <link rel="stylesheet" type="text/css" href="css/topics.css">
 {elseif $lang=='en' && $page_type=='topics'}
   <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 {elseif $lang=='ja' && $page_type=='topics2010'}
