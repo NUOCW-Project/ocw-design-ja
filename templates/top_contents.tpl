@@ -137,5 +137,5 @@
 
 </div><!-- "inline" end -->
 
-<div class="clear">
+<div class="clear_div">
 </div>
