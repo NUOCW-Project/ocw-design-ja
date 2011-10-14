@@ -194,13 +194,13 @@ img#prj10{
 			padding-left: 1em;
 		}
 
-		tr#no1, tr#no3 {
+		tr#no1 td, tr#no3 td{
 			padding-top: 1em;
 			padding-bottom: 1em;
 			background-color: #e7e7df;
 		}	
 
-		tr#no2 {
+		tr#no2 td {
 			padding-top: 1em;
 			padding-bottom: 1em;
 			background-color: white;
