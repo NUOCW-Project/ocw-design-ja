@@ -34,6 +34,7 @@
 {/if}
 {if $lang=='ja' && $page_type=='top'}
   <link rel="stylesheet" type="text/css" href="css/top.css">
+  <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 {/if}
 {if $lang=='ja' && $page_type=='vsyllabus'}
   <link rel="stylesheet" type="text/css" href="css/vsyllabus.css">

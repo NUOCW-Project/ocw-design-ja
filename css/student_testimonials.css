@@ -1,28 +1,78 @@
 @charset "euc-jp";
 
-/* 上部タイトル部分の外枠 */
-#top_box{
-  width: 710px;
-  height: 400px;
-  margin: 0px 0px 0px 0px;
-  padding: 0px 0px 0px 20px;
-  background: url("../images/common/student/header.png");
-  background-repeat: no-repeat;
+/* 
+ * 留学生の声の見出し(トップでも使用)
+ */
+#student {
+        display: block;
+        float: left;
+        height: 430px;
+        width: 730px;
+        margin: -30px 20px 0px -15px;
+        padding: 0px 0px 20px 0px;
+        overflow: hidden;
 }
 
-/* ビデオが読み込まれる茶色の枠 */
-#top_video{
-  float: left;
-  width: 317px;
-  height: 379px;
-  margin: 20px 0px 0px 0px;
-  padding: 0px 0px 0px 0px;
-  color: #FFFFFF; /* #E74AAE だと思われるが後で差し替え。body に設定か */
-  background-color: #4C3521; /* だと思われるが後で確認 */
+#student .ja {
+        background: url("../images/ja/student/header.png");
+        background-position: 0px 30px;
+        background-repeat: no-repeat;
 }
 
-/* ビデオのタイトル */
+#student .en {
+        background: url("../images/ja/student/header.png");
+        background-position: 0px 30px;
+        background-repeat: no-repeat;
+}
 
+/* インタビュービデオの枠 */
+#interview_video_frame{
+        float: left;
+        width: 317px;
+        height: 379px;
+        margin: 50px 0px 0px 18px;
+        padding: 0px 0px 0px 0px;
+        background-color: #4C3521;
+}
+
+#interview_title{
+        height: 100px;
+        margin: 23px 0px 0px 5px;
+        font-family: sans-serif;
+        font-size: 20px;
+        color: #E74AAE; /*  と思われるピンク色（要確認） */
+}
+
+#interview_title:first-letter{
+        float: left;
+        width: 40px;
+        height: 30px;
+        margin: -18px 5px 0px 0px;
+        padding: 10px 0px 0px 0px;
+        font-size: 40px;
+        color: #FFFFFF;
+        text-align: center;
+        background-color: #E74AAE;
+}
+
+#interview_video{
+        margin: -35px 0px 0px 8px;
+}
+/* セカンドページに移動し他のビデオを見るボタン */
+#more_video_button{
+        float: left;
+        width: ;
+        height: 379px;
+        margin: 20px 0px 0px 0px;
+        padding: 312px 0px 0px 38px;
+        background: url("../images/common/student/arrow.png");
+        background-repeat: no-repeat;
+        background-position: 0px 327px;
+}
+
+/*
+ * ビデオの一覧表示
+ */
 /* 動画リストの最も外側の枠 */
 #list_box{
   width: 730px;
