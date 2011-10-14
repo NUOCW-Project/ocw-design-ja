@@ -2,8 +2,9 @@ css ファイルの命名規則
 
 css/common 全ページに適用するもの
   header.css  ヘッダー部分
-  fotter.css　フッター部分
+  footer.css　フッター部分
   default.css　a や font などの初期設定
+  dept.css	部局リスト
   contents.css　コンテンツの中身の共通部分、パンクズリストなど
 
 以下、各種ページごとに読み込むファイル
