@@ -1,7 +1,7 @@
 $(function(){
   toggleStaff();
 
-  // $B1&>e$N(B AKF $B8!:w$NCf?H$r%/%j%C%/;~$K%/%j%"(B
+  // ±¦¾å¤Î AKF ¸¡º÷¤ÎÃæ¿È¤ò¥¯¥ê¥Ã¥¯»þ¤Ë¥¯¥ê¥¢
   $("#searchbox").focus(function(){
     $(this).val("").css("color","#000");
   })
