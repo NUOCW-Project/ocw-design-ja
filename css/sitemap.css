@@ -13,7 +13,7 @@ div.sitemap_contents{
 	margin-left: auto;
 	margin-right: auto;
 	width: 85%;
-        white-space: nowrap;
+        white-space: normal;
 }
 
 .sitemap_navi{
@@ -24,5 +24,5 @@ div.sitemap_contents{
 	list-style-type: none;
 	position: relative;
 	margin: 0px;
-        white-space: nowrap;
+        white-space: normal;
 }
