@@ -25,4 +25,5 @@ div.sitemap_contents{
 	position: relative;
 	margin: 0px;
         white-space: normal;
+	word-break: break-all;
 }
