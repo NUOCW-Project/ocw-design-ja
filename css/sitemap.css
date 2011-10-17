@@ -16,6 +16,16 @@ div.sitemap_contents{
         white-space: normal;
 }
 
+div.sitemap_contents_en{
+        position: relative;
+        clear: both;
+        text-align: left;
+        padding-top: 1em;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+}
+
 .sitemap_navi{
 	padding-left: 0px;
 	padding-right: 2em;
@@ -24,6 +34,4 @@ div.sitemap_contents{
 	list-style-type: none;
 	position: relative;
 	margin: 0px;
-        white-space: normal;
-	word-break: break-all;
 }
