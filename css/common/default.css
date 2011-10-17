@@ -4,17 +4,22 @@
   基本的な要素の共通スタイル    
 ------------------------------------------------------------
 */
+
 h2{
-	font-size: large;
-	color: #DD0000;
-	margin: 5px;
+    margin: 5px;
+    color: #DD0000;
+    font-size: large;
 }
 
 h3{
-	background-image: url(../../images/common/header3_box.png);
-	background-repeat: no-repeat;
-	padding-left: 15px;
-	margin-bottom: 5px; 
+    margin: 0 0 5px;
+    padding: 0 0 0 15px;
+    /*
+    margin-bottom: 5px;
+    padding-left: 15px;
+    */
+    background-image: url(../../images/common/header3_box.png);
+    background-repeat: no-repeat;
 }
 
 img{
@@ -44,23 +49,23 @@ div.clear_div {
 }
 
 table{
-	border-style: none;
-	margin: 0;
+    	margin: 0;
 	padding: 0;
+	border-style: none;
 	zoom: 1;
 }
 
-	td{
-		border-style: none;
-		margin: 0;
-		padding: 0;
-	}
+td{
+    margin: 0;
+    padding: 0;
+    border-style: none;
+}
 
-	tr{
-		border-style: none;
-		margin: 0;
-		padding: 0;
-	}
+tr{
+    margin: 0;
+    padding: 0;
+    border-style: none;
+}
 
 span.i{
 	font-style:italic;
@@ -112,12 +117,10 @@ ol.upper-alpha{
 body{
 	margin: 0;
 	padding: 0;
-
-	background-color: #f6f6f6;
-	font-size: 12.5px; 
-	/* small指定はブラウザにより異なる */
 	line-height: 150%;
+	background-color: #f6f6f6;
 	color: #666666;
+	font-size: 12.5px; 	/* small指定はブラウザにより異なる */
 }
 
 .body_back{
@@ -127,54 +130,59 @@ body{
 }
 
 .main_back {
+    	margin: 0;
+	padding: 0;
+	max-width: 1260px; 
 	background-image: url(../../images/common/loop.png);
 	background-repeat: repeat-y;
 	background-position: 975px 90px;
-	max-width: 1260px; 
-	margin: 0px;
-	padding: 0px;
 }
 
-	.main_back_url img{
-		width: 20px;
-		height: 170px; 
-		position: fixed;
-		top: 100px;
-		left: 1260px;
-	}
+.main_back_url img{
+    position: fixed;
+    top: 100px;
+    left: 1260px;
+    width: 20px;
+    height: 170px; 
+}
 
+/* IE6ハック */
 *html .main_back_url img{
         position: expression('absolute');
 	top: expression(documentElement.scrollTop + 90 + 'px');
 	left: expression(documentElement.scrollLeft + 1260 + 'px');
 }
 
-	.main_back_adachi{
-		background-image: url(../../images/common/staff.png);
-		background-repeat: no-repeat; 
-		position: absolute;
-		top: 25px; 
-		left: 1030px;
-		width: 95px; 
-		height: 125px;
-	}
-
-.main{
-	width: 945px;
-	margin-right: 30px;
-	margin-left: 30px;
-	/* min-height: 1150px; */
-	background-color: white;
-	padding: 0;
-	overflow: hidden; /* floatのクリア */
-	position: relative; /* DWで正常にプレビューできるようにする */
+.main_back_adachi{
+    position: absolute;
+    top: 25px; 
+    left: 1030px;
+    width: 95px; 
+    height: 125px;
+    background-image: url(../../images/common/staff.png);
+    background-repeat: no-repeat; 
 }
 
+.main{
+    margin: 0 30px;
+    padding: 0;
+    /*
+      margin-right: 30px;
+      margin-left: 30px;
+      */
+    /* min-height: 1150px; */
+    position: relative; /* DWで正常にプレビューできるようにする */
+    width: 945px;
+    overflow: hidden; /* floatのクリア */
+    background-color: white;
+}
+
+/* IE6 ハック */
 *html .main{
-	margin: -90px 0px 0px 30px;
+	margin: -90px 0 0 30px;
+	padding: 0;
 	width: 945px;
 	background-color: white;
-	padding: 0px;
 }
 
 
@@ -211,8 +219,8 @@ td.td_contents_gray{
 }
 
 table.center_contents{
- margin:0;
- padding:0;
+    margin: 0;
+    padding: 0;
 }
 
 th.left{
@@ -234,7 +242,7 @@ th.center{
 
 th.center_gray{
 	text-align: center;
-	background-color:#eeeeee;
+	background-color: #eeeeee;
 }
 
 th.right{
@@ -243,7 +251,7 @@ th.right{
 
 th.right_gray{
 	text-align: right;
-	background-color:#eeeeee;
+	background-color: #eeeeee;
 }
 
 td.left{
@@ -252,7 +260,7 @@ td.left{
 
 td.left_gray{
 	text-align: left;
-	background-color:#ecece6;
+	background-color: #ecece6;
 }
 
 td.center{
@@ -260,12 +268,12 @@ td.center{
 }
 
 td.center p{
-    text-align :center;
+    text-align: center;
 }
 
 td.center_gray{
 	text-align: center;
-	background-color:#ecece6;
+	background-color: #ecece6;
 }
 
 td.center_gray p {
@@ -273,7 +281,7 @@ td.center_gray p {
 }
 
 td.contents{
-	text-align:left;
+	text-align: left;
 	vertical-align: top;
 }
 
@@ -287,19 +295,19 @@ td.left{
 
 td.right_gray{
 	text-align: right;
-	background-color:#eeeeee;
+	background-color: #eeeeee;
 }
 
 td.separate{
 	border: none;
 	text-align: right;
-	background-color:#e7e7df;
-	height:5px;
+	background-color: #e7e7df;
+	height: 5px;
 }
 
 .odd{
-	background-color:#e7e7df;
+	background-color: #e7e7df;
 }
 .even{
-	background-color:#fff;
+	background-color: #fff;
 }

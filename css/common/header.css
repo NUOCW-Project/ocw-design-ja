@@ -2,7 +2,7 @@
 /*ヘッダー*/
 
 .header{
-	height: 90px; 
+        height: 90px; 
 	background-image: url(../../images/common/topbar.jpg);/* 背景画像「名大の授業」 */
 	min-width: 975px;
 	background-repeat: no-repeat;

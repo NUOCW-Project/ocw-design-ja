@@ -1,13 +1,14 @@
 @charset "euc-jp";
 /* フッター */
 .footer{	
+    	margin: 50px auto 0 auto ;
+	padding-top: 1em;
+	padding-left: 186px;
 	position: relative; 
 	clear: both;
 	font-size: 11px; 	
 	text-align: left;
-	padding-top: 1em;
-	padding-left: 186px;
-	margin: 50px auto 0 auto ;
+
 	width: 100%;
 	overflow: hidden;
 	background-color: #e7e7df; 
