@@ -1,5 +1,5 @@
 <div class="sitemap_contents">
-<table class="center_contents" width="900">
+<table class="center_contents_en" width="900">
         <tbody>
         <tr>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&id=&page_type=top">HOME</a>
