@@ -23,4 +23,5 @@ div.sitemap_contents{
 	list-style-type: none;
 	position: relative;
 	margin: 0px;
+        white-space: nowrap;
 }
