@@ -13,6 +13,7 @@ div.sitemap_contents{
 	margin-left: auto;
 	margin-right: auto;
 	width: 85%;
+        white-space: nowrap;
 }
 
 .sitemap_navi{
