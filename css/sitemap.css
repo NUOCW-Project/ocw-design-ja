@@ -18,7 +18,10 @@ div.sitemap_contents{
 div.sitemap_contents_en{
         position: relative;
         clear: both;
-        left: 100px;
+       {* left: 100px;*}
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
         padding-top: 1em;
         width: 85%;
 }
