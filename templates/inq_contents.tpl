@@ -10,7 +10,7 @@
 {elseif $step==2}
 <h1>ステップ2/3</h1>
 <p>内容をご確認のうえ、よろしければ「フォームの送信」ボタンを押して下さい。<br>
-   訂正がある場合、ここで訂正して下さい。</p>
+   訂正がある場合、「戻る」ボタンを押して下さい。</p>
 <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 {else}
 <p>「名大の授業」についてのお問合せは以下のフォームからお願いします。</p>
@@ -28,7 +28,7 @@
 	<h2 class="inq {if $err_message.toiawase}inq_err{/if}">
   1. ご意見・ご質問の種類{if $step!=3}を１つ選んでください{/if}：
   </h2>
-    {if $step==3}
+    {if $step > 1}
     {assign var=ans value=$inputdata.toiawase}
     {$toiawase_choice.$ans}
     {else}
@@ -40,7 +40,7 @@
 	<h2 class="inq {if $err_message.shokugyo}inq_err{/if}">
 	2. あなたは：
   </h2>
-    {if $step==3}
+    {if $step > 1}
     {assign var=ans value=$inputdata.shokugyo}
     {$shokugyo_choice.$ans}
     {else}
@@ -52,7 +52,7 @@
 	<h2 class="inq {if $err_message.pref}inq_err{/if}">
 	3. お住まいの都道府県：
   </h2>
-    {if $step==3}
+    {if $step > 1}
     {assign var=ans value=$inputdata.pref}
     {$pref_choice.$ans}
     {else}
@@ -64,7 +64,7 @@
 	<h2 class="inq {if $err_message.title}inq_err{/if}">
 	4. 件名{if $step!=3}をご記入下さい{/if}：
   </h2>
-    {if $step==3}
+    {if $step > 1}
     <p>{$inputdata.title|escape}</p>
     {else}
 	  <p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
@@ -74,7 +74,7 @@
 	<h2 class="inq {if $err_message.content}inq_err{/if}">
 	5. 内容{if $step!=3}を具体的にご記入ください{/if}：
   </h2>
-    {if $step==3}
+    {if $step > 1}
     <p>{$inputdata.content|escape|nl2br}</p>
     {else}
 		<textarea name="content" rows="10" cols="50" tabindex="0" >{$inputdata.content|escape}</textarea>	
@@ -83,7 +83,7 @@
 	<h2 class="inq {if $err_message.c_name}inq_err{/if}">
 	6. お名前：
   </h2>
-    {if $step==3}
+    {if $step > 1}
     <p>{$inputdata.c_name|escape}</p>
     {else}
 	  <input type="text" name="c_name"  class="fixed_width" value="{$inputdata.c_name|escape}">
@@ -95,7 +95,7 @@
     {if $err_message.c_email}
     <p class="inq_err">{$err_message.c_email}</p>
     {/if}
-    {if $step==3}
+    {if $step > 1}
     <p>{$inputdata.c_email|escape}</p>
     {else}
     <input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
@@ -105,6 +105,7 @@
   {if $step==3}
   {elseif $step==2}
 	<input type="submit" name="submit" value="フォームの送信">
+	<input type="submit" name="submit" value="戻る">
   {else}
 	<input type="submit" name="submit" value="{if $step==2}フォームの送信{else}入力内容の確認{/if}">
 	<input type="reset" name="" value="リセット">
