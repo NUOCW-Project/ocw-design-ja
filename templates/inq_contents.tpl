@@ -31,6 +31,7 @@
     {if $step > 1}
     {assign var=ans value=$inputdata.toiawase}
     {$toiawase_choice.$ans}
+    <input type="hidden" name="toiawase" value="{$ans}">
     {else}
 		<div class="inq">
     {html_radios name='toiawase' options=$toiawase_choice selected=$inputdata.toiawase separator='<br>'}
@@ -43,6 +44,7 @@
     {if $step > 1}
     {assign var=ans value=$inputdata.shokugyo}
     {$shokugyo_choice.$ans}
+    <input type="hidden" name="shokugyo" value="{$ans}">
     {else}
 		<div class="inq">
     {html_radios name='shokugyo' options=$shokugyo_choice selected=$inputdata.shokugyo separator='<br>'}
@@ -55,6 +57,7 @@
     {if $step > 1}
     {assign var=ans value=$inputdata.pref}
     {$pref_choice.$ans}
+    <input type="hidden" name="pref" value="{$ans}">
     {else}
 		<select name="pref" size="1" tabindex="0">
     {html_options options=$pref_choice selected=$inputdata.pref}
@@ -66,6 +69,7 @@
   </h2>
     {if $step > 1}
     <p>{$inputdata.title|escape}</p>
+    <input type="hidden" name="title" value="{$inputdata.title}">
     {else}
 	  <p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
 		<input type="text" name="title" class="fixed_width" value="{$inputdata.title|escape}">
@@ -76,6 +80,7 @@
   </h2>
     {if $step > 1}
     <p>{$inputdata.content|escape|nl2br}</p>
+    <input type="hidden" name="content" value="{$inputdata.content}">
     {else}
 		<textarea name="content" rows="10" cols="50" tabindex="0" >{$inputdata.content|escape}</textarea>	
     {/if}
@@ -85,6 +90,7 @@
   </h2>
     {if $step > 1}
     <p>{$inputdata.c_name|escape}</p>
+    <input type="hidden" name="c_name" value="{$inputdata.c_name}">
     {else}
 	  <input type="text" name="c_name"  class="fixed_width" value="{$inputdata.c_name|escape}">
     {/if}
@@ -97,10 +103,12 @@
     {/if}
     {if $step > 1}
     <p>{$inputdata.c_email|escape}</p>
+    <input type="hidden" name="c_email" value="{$inputdata.c_email}">
     {else}
     <input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
     {/if}
-	<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
+
+  <p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
 
   {if $step==3}
   {elseif $step==2}
