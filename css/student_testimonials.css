@@ -8,20 +8,18 @@
         float: left;
         height: 430px;
         width: 730px;
-        margin: -30px 20px 0px -15px;
+        margin: 0px 20px 0px -15px;
         padding: 0px 0px 20px 0px;
         overflow: hidden;
 }
 
 .student_ja {
         background: url("../images/ja/student/header.png");
-        background-position: 0px 30px;
         background-repeat: no-repeat;
 }
 
 .student_en {
         background: url("../images/en/student/header.png");
-        background-position: 0px 30px;
         background-repeat: no-repeat;
 }
 
