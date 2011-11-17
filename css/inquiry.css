@@ -21,3 +21,9 @@ h2.inq {
 input.fixed_width {
   width: 550px;
 }
+
+textarea.fixed_width {
+  width: 550px;
+  height: 250px;
+}
+

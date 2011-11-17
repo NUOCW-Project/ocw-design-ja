@@ -82,7 +82,7 @@
     <p>{$inputdata.content|escape|nl2br}</p>
     <input type="hidden" name="content" value="{$inputdata.content}">
     {else}
-		<textarea name="content" rows="10" cols="50" tabindex="0" >{$inputdata.content|escape}</textarea>	
+		<textarea name="content" class="fixed_width">{$inputdata.content|escape}</textarea>	
     {/if}
 
 	<h2 class="inq {if $err_message.c_name}inq_err{/if}">
