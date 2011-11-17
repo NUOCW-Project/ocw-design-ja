@@ -17,3 +17,7 @@ h2.inq {
 .inq_err {
 	color:#FF3333 !important;
 }
+
+input.fixed_width {
+  width: 550px;
+}
