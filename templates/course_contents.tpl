@@ -4,7 +4,7 @@
  {if $lang=="ja"}
   <img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag" alt="授業ホーム">
  {elseif $lang=="en"}
-  <img src="./images/{$lang}/header_coursehome.jpg" id="couesehome_tag" alt="Course Home">
+  <img src="./images/ja/header_coursehome.jpg" id="couesehome_tag" alt="Course Home">
  {/if}
 {else}
   <img src="./images/{$lang}/m01coursehome.png" id="couesehome_tag" alt="授業ホーム" 
