@@ -1,7 +1,11 @@
 {strip}
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
 {if $page_format.tpl_name=='index'}
-<img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag" alt="授業ホーム">
+ {if $lang="ja"}
+  <img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag" alt="授業ホーム">
+ {elseif $lang="en"}
+  <img src="./images/{$lang}/header_coursehome.jpg" id="couesehome_tag" alt="Course Home">
+ {/if}
 {else}
   <img src="./images/{$lang}/m01coursehome.png" id="couesehome_tag" alt="授業ホーム" 
        onMouseOver="this.src='./images/{$lang}/m01coursehome_on.png'" 
