@@ -1,13 +1,9 @@
 {strip}
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
 {if $page_format.tpl_name=='index'}
- {if $lang=="ja"}
-  <img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag" alt="¼ø¶È¥Û¡¼¥à">
- {elseif $lang=="en"}
-  <img src="./images/ja/m01coursehome_hi.png" id="couesehome_tag" alt="Course Home">
- {/if}
+  <img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag" alt="{if $lang=="ja"}¼ø¶È¥Û¡¼¥à{elseif $lang=="en"}Course Home{/if}">
 {else}
-  <img src="./images/{$lang}/m01coursehome.png" id="couesehome_tag" alt="¼ø¶È¥Û¡¼¥à" 
+  <img src="./images/{$lang}/m01coursehome.png" id="couesehome_tag" alt="{if $lang=="ja"}¼ø¶È¥Û¡¼¥à{elseif $lang=="en"}Course Home{/if}" 
        onMouseOver="this.src='./images/{$lang}/m01coursehome_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m01coursehome.png'"><!--¥¿¥°²èÁü¡Ö¼ø¶È¥Û¡¼¥à¡×-->
 {/if}
@@ -18,9 +14,9 @@
 	 $course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq ''}
  <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=f_intro">
 {if $page_format.tpl_name=='f_intro'}
-<img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="¹Ö»Õ¾Ò²ð">
+<img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="{if $lang=="ja"}¹Ö»Õ¾Ò²ð{elseif $lang=="en"}{/if}">
 {else}
- <img src="./images/{$lang}/m04_profile.png" alt="¹Ö»Õ¾Ò²ð" 
+ <img src="./images/{$lang}/m04_profile.png" alt="{if $lang=="ja"}¹Ö»Õ¾Ò²ð{elseif $lang=="en"}{/if}" 
        onMouseOver="this.src='./images/{$lang}/m04_profile_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m04_profile.png'"><!--¥¿¥°²èÁü¡Ö¹Ö»Õ¾Ò²ð¡×-->
 {/if}
@@ -33,9 +29,9 @@
 	 !($course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq '')}  
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
    {if $page_format.tpl_name=='syllabus'}
-<img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="¥·¥é¥Ð¥¹">
+<img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="{if $lang=="ja"}¥·¥é¥Ð¥¹{elseif $lang=="en"}Syllabus{/if}">
    {else}
-  <img src="./images/{$lang}/m02syllabus.png" alt="¥·¥é¥Ð¥¹" 
+  <img src="./images/{$lang}/m02syllabus.png" alt="{if $lang=="ja"}¥·¥é¥Ð¥¹{elseif $lang=="en"}Syllabus{/if}" 
        onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--¥¿¥°²èÁü¡Ö¥·¥é¥Ð¥¹¡×-->
    {/if}
@@ -49,9 +45,9 @@
 {else}
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=materials">
 {if $page_format.tpl_name=='materials'}
-<img src="./images/{$lang}/m03resources_hi.png" id="materials_tag" alt="¹ÖµÁ»ñÎÁ">
+<img src="./images/{$lang}/m03resources_hi.png" id="materials_tag" alt="{if $lang=="ja"}¹ÖµÁ»ñÎÁ{elseif $lang=="en"}Resources{/if}">
 {else}
-  <img src="./images/{$lang}/m03resources.png" alt="¹ÖµÁ»ñÎÁ"
+  <img src="./images/{$lang}/m03resources.png" alt="{if $lang=="ja"}¹ÖµÁ»ñÎÁ{elseif $lang=="en"}Resources{/if}"
        onMouseOver="this.src='./images/{$lang}/m03resources_on.png'" 
        onMouseOut="this.src='./images/{$lang}/m03resources.png'"><!--¥¿¥°²èÁü¡Ö¹ÖµÁ»ñÎÁ¡×-->
 {/if}
