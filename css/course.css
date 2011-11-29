@@ -45,8 +45,19 @@
 		width: 300px;
 	}
 
+#line1{		/* 赤い水平線上 */
+	width: 690px;
+	height: 4px;
+}
+
 #main_text{
 	clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
+}
+
+#line2{		/* 赤い水平線下 */
+	width:690px;
+	height:4px;
+	margin-top:1.5em;
 }
 
 #release_date {

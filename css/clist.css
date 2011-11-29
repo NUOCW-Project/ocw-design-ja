@@ -33,12 +33,6 @@ table#menu_list{
 	height: 4px;
 }
 
-#line2{		/* 赤い水平線下 */
-	width:690px;
-	height:4px;
-	margin-top:1.5em;
-}
-
 #menu_submit{
 	float: right;
 	margin-right: 25px;		
