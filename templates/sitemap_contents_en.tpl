@@ -1,5 +1,5 @@
 <div class="sitemap_contents">
-<table class="center_contents" width="900">
+<table class="center_contents" width="600">
         <tbody>
         <tr>
         <td class="left">
