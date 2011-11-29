@@ -50,6 +50,10 @@
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">Inquiries</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=link">Link</a>
         </ul>
+	</td>
+	</tr>
+	<tr>
+	<td>
         <ul class="sitemap_navi">
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=kyoiku-in">Institute of Liberal Arts and Sciences</a>
                 <li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=lit">School of Letters / Graduate School of Letters</a>
