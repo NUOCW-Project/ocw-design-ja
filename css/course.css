@@ -49,34 +49,74 @@
 	clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
 }
 
+#release_date {
+  text-align: left;
+  float: left;
+}
+
+#release_disclaimer{
+  text-align: right;
+  margin-bottom: 30px;
+}
+
+/*
+------------------------------------------------------------
+   コースページの本文
+------------------------------------------------------------
+*/
 .e_text {
-  padding-left: 150px;
-  float: left; 
-  margin: 0px;
+	float: left; 
+	margin: 0px;
+	padding: 0 0 0 150px;
 }
 
-.e_text ul, .e_text ol, .e_text dl{
-    padding: 0em;
-	margin-bottom: 0em;
-	margin-top: 0em;
-	/*float:left;*/
-	/*  border: 1px solid blue; */
+.e_text h2 {
+	margin: 10px 0 0 -145px;
+	padding:0 15px;
+	width: 700px;
+	background-repeat: no-repeat;
+	color: #DD0000;
+	font-size: large;
 }
 
-.e_text dt {
-  margin-top: 0.5em;
+.e_text h3 {
+	float: left;
+	clear: left; 
+	margin: 1.5m 0 0 -145px; 
+	padding: 0 0 0 15px;
+	width: 120px; 
+	background-image: url(../images/common/header3_box.png);
+	background-repeat: no-repeat;
+	color: rgb(221, 0, 0);
+	font-size: 13px;
+	font-weight: bold;
 }
 
-.e_text table{
-  margin-top: 1.5em;
+.e_text h4, .e_text h5 {
+	float: left;
+	margin: 1.5em 0 0 0;
+	width: 555px; 
+	font-size: 13px;
+	font-weight: bold;
 }
 
 .e_text p{
-	margin-bottom: 0em; 
-	margin-top: 1.5em; 
-	
-	float:left; 
-	width:555px; 
+	float: left; 
+	margin: 1.5em 0 0 0; 
+	width: 555px; 
+}
+
+.e_text ul, .e_text ol, .e_text dl{
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.e_text dt {
+	margin: 0.5em 0 0 0;
+}
+
+.e_text table{
+  margin: 1.5em 0 0 0;
 }
 
 .e_text table p {
@@ -90,66 +130,17 @@
 	clear: left;
 }
 
-.e_text h2 {
-	font-size: large;
-	color: #DD0000;
-	background-repeat: no-repeat;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-top: 0px;
-	margin-left: -145px;
-  	margin-right: 0;
-  	margin-top: 10px;
-  	margin-bottom: 0;
-  	width: 700px;
-}
 
-.e_text h3 {
-	font-size: 13px;
-	font-weight: bold;
-	color: rgb(221, 0, 0);
-	background-image: url(../images/common/header3_box.png);
-	background-repeat: no-repeat;
-	padding-left: 15px;
-	padding-right: 0px;
-	padding-top: 0px;
-	margin-left: -145px;
-  	margin-right: 0;
-  	margin-top: 1.5em; 
-  width: 120px; 
-   float: left;
-   clear: left; 
-/*	border: 1px solid green; */
-}
-
-.e_text h4, .e_text h5 {
-	font-size: 13px;
-	font-weight: bold;
-/*	color: #2f2f2f; */
-	margin: 1.5em 0 0 0;
-	width: 555px; 
-  float: left;
-}
-
-table.basic, table.farewell, table.relay {
+table.basic {
 	border:0;
 	border-collapse: collapse;
 	white-space:normal;
 }
-
-table.relay {
-  clear: right;
-}
-
-table.farewell, table.relay{
-  margin:0 10px 25px 0px;
-}
-
-table.basic th, table.farewell th, table.relay th{
+table.basic th {
 	border: 1px solid #999999;
 }
 
-table.basic td, table.farewell td, table.relay td{
+table.basic td {
 	border: 1px solid #999999;
   padding: 0 5px;
 }
@@ -169,12 +160,3 @@ table.basic ul, table.basic ol {
   margin: 10px 0;
 }
 
-#release_date {
-  text-align: left;
-  float: left;
-}
-
-#release_disclaimer{
-  text-align: right;
-  margin-bottom: 30px;
-}

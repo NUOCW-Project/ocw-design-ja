@@ -174,11 +174,18 @@ table.relay {
 	white-space: normal;
 }
 
-table.relay th{
+table.farewell {
+	margin: 0 10px 25px 0;
+	border:0;
+	border-collapse: collapse;
+	white-space:normal;
+}
+
+table.relay th, table.farewell th {
 	border: 1px solid #999999;
 }
 
-table.relay td{
+table.relay td, table.farewell td {
 	padding: 0 5px;
 	border: 1px solid #999999;
 }
