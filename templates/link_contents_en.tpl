@@ -1,14 +1,14 @@
 <!-- リンク開始 -->
-<table class="center_contents" width="465" border="0" cellpadding="0" cellspacing="0" summary="">
+<table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
 	<div class="course_contents"><!-- コンテンツセル開始 -->
-	<table class="center_contents" width="435">
+	<table class="center_contents" width="600">
 		<tbody>
 		<tr>
 			<td class="center"><p><img src="./images/{$lang}/logo_nu.gif" alt="Nagoya University"></p></td>
-			<td><p><a href="http://www.nagoya-u.ac.jp/">Nagoya University</a></p></td>
+			<td><p><a href="http://www.nagoya-u.ac.jp/en/">Nagoya University</a></p></td>
 		</tr>
 		<tr>
 			<td class="center_gray"><p><img src="./images/common/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
