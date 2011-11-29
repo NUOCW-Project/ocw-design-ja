@@ -66,13 +66,13 @@
 */
 .e_text {
 	float: left; 
-	margin: 0px;
+	margin: 0 0 0 0;
 	padding: 0 0 0 150px;
 }
 
 .e_text h2 {
 	margin: 10px 0 0 -145px;
-	padding:0 15px;
+	padding: 0 15px 0 15px;
 	width: 700px;
 	background-repeat: no-repeat;
 	color: #DD0000;
@@ -100,7 +100,7 @@
 	font-weight: bold;
 }
 
-.e_text p{
+.e_text p {
 	float: left; 
 	margin: 1.5em 0 0 0; 
 	width: 555px; 
@@ -111,52 +111,49 @@
 	padding: 0 0 0 0;
 }
 
+.e_text * ul, .e_text * ol, .e_text * li{
+	clear: left;
+}
+
 .e_text dt {
 	margin: 0.5em 0 0 0;
 }
 
-.e_text table{
-  margin: 1.5em 0 0 0;
+.e_text table {
+	margin: 1.5em 0 0 0;
 }
 
 .e_text table p {
-  float: none;
-  width: auto;
+	float: none;
+	width: auto;
 }
-
-.e_text * ul, .e_text * ol, .e_text * li{
-	margin-left: 0;
-	margin-bottom: 0;
-	clear: left;
-}
-
 
 table.basic {
-	border:0;
+	border: 0;
 	border-collapse: collapse;
-	white-space:normal;
+	white-space: normal;
 }
 table.basic th {
 	border: 1px solid #999999;
 }
 
 table.basic td {
+	padding: 0 5px 0 5px;
 	border: 1px solid #999999;
-  padding: 0 5px;
 }
 
 table.basic h4 {
-  float: none;
-  width: auto;
-  margin: 10px 0 0 5px; 
+	float: none;
+	width: auto;
+	margin: 10px 0 0 5px; 
 }
 
 table.basic p {
-  margin: 5px 0;
+	margin: 5px 0 5px 0;
 }
 
 table.basic ul, table.basic ol {
-	padding-left: 25px;
-  margin: 10px 0;
+	margin: 10px 0 10px 0;
+	padding: 0 0 0 25px;
 }
 
