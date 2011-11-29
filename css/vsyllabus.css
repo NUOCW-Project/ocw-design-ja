@@ -15,17 +15,6 @@
 	background-color: white;
 }
 
-#podcast_right{
-	float: right;
-	width: 160px;
-	padding: 0px;
-	margin: 10px 10px 10px 10px;
-	position: relative;
-	top: -25px;
-	background-color: white;
-}
-
-
 #contents_p{
         position:relative;
         top: -25px;
