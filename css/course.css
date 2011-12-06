@@ -34,7 +34,7 @@
 
 	#class_for{
 	margin-left: 5em;
-	margin-top: -1.5em;
+	margin-top: -18px;
 	}
 
 	#movie{
@@ -57,7 +57,7 @@
 #line2{		/* 赤い水平線下 */
 	width:690px;
 	height:4px;
-	margin-top:1.5em;
+	margin-top:18px;
 }
 
 #release_date {
@@ -93,7 +93,7 @@
 .e_text h3 {
 	float: left;
 	clear: left; 
-	margin: 1.5em 0 0 -145px; 
+	margin: 18px 0 0 -145px; 
 	padding: 0 0 0 15px;
 	width: 120px; 
 	background-image: url(../images/common/header3_box.png);
@@ -105,7 +105,7 @@
 
 .e_text h4, .e_text h5 {
 	float: left;
-	margin: 1.5em 0 0 0;
+	margin: 18px 0 0 0;
 	width: 555px; 
 	font-size: 13px;
 	font-weight: bold;
@@ -113,12 +113,12 @@
 
 .e_text p {
 	float: left; 
-	margin: 1.5em 0 0 0; 
+	margin: 18px 0 0 0; 
 	width: 555px; 
 }
 
 .e_text ul, .e_text ol, .e_text dl{
-	margin: 1.5em 0 0 0;
+	margin: 18px 0 0 0;
 	padding: 0 0 0 0;
 }
 
@@ -131,7 +131,7 @@
 }
 
 .e_text table {
-	margin: 1.5em 0 0 0;
+	margin: 18px 0 0 0;
 }
 
 .e_text table p {
