@@ -1,6 +1,6 @@
 {literal}
 {if $result.num_of_course > 0}
-<h3>{$dep_and_data.title}</h3>
+<h3>{$result.title}</h3>
 <table class = "sorttable" >
 <tr>
   <th width="50">1Ê¬´Ö<br>¾Ò²ð</th>
