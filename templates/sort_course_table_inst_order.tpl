@@ -4,9 +4,9 @@
 <table class = "sorttable" >
 <tr>
 <th width="50">1分間<br>紹介</th>
-<th width="425">コース名(開講年度)</th>
+<th width="400">コース名(開講年度)</th>
 <th width="135">教員名</th>
-<th width="45">講義資料<br>講義ビデオ</th>
+<th width="70">講義資料<br>講義ビデオ</th>
 </tr>
 {foreach item = each_course  from = $result.courses name = $result.title} 
 	<tr class="{cycle name = $result.title values='odd,even'}">
@@ -24,7 +24,7 @@
 		</a>
         {/if}
 	</td>
-        <td width="425">
+        <td width="400">
 	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a> ({$each_course.year})
         {if $each_course.date == 't'}
                 <img border="0" src="./images/common/new.png" alt="NEW">
@@ -42,7 +42,7 @@
 	{/if}
 	{assign var = 'id_old' value = $each_course.instructor_id}
 
-        <td width="45" class="center">
+        <td width="70" class="center">
         {if $each_course.exist_lectnotes == 't'}
         <a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=materials">
         <img border="0" align="left" hspace=7.5 src="./images/common/list_note.png" alt="notes" width="20" height="20">

@@ -4,9 +4,9 @@
 <table  class = "sorttable">
 <tr>
 <th width="50">1分間<br>紹介</th>
-<th width="425">コース名(開講年度)</th>
+<th width="400">コース名(開講年度)</th>
 <th width="135">教員名</th>
-<th width="45">講義資料<br>講義ビデオ</th>
+<th width="70">講義資料<br>講義ビデオ</th>
 </tr>
 {foreach item = each_course  from = $dep_and_data.courses}
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
@@ -22,7 +22,7 @@
 		<img src="./images/common/nomovie.png" alt="no video" width="50" height="37">
 	{/if}
 	</td>
-	<td width="425">
+	<td width="400">
 	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">{$each_course.course_name}</a> ({$each_course.year})
 	{if $each_course.date =='t'}
 		<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=index">
@@ -32,7 +32,7 @@
 	</td>
 
 	<td width="135"><a href="courselist.php?lang=ja&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$each_course.instructor_id}">{$each_course.instructor_name}</a></td>
-	<td width="45" class="center">
+	<td width="70" class="center">
 	<div>
 	{if $each_course.exist_lectnotes == 't'}
 	<a href="index.php?lang=ja&amp;mode=c&amp;id={$each_course.course_id}&amp;page_type=materials">
