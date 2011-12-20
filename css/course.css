@@ -119,12 +119,14 @@
 
 .e_text ul, .e_text ol {
   float: left;
+  width: 100%;
 	margin: 18px 0 0 30px;
 	padding: 0 0 0 0;
 }
 
 .e_text dl{
   float: left;
+  width: 100%;
 	margin: 18px 0 0 0;
 	padding: 0 0 0 0;
 }
