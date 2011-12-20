@@ -105,37 +105,37 @@
 
 .e_text h4, .e_text h5 {
 	float: left;
+	width: 100%; 
 	margin: 18px 0 0 0;
-	width: 555px; 
 	font-size: 13px;
 	font-weight: bold;
 }
 
 .e_text p {
 	float: left; 
+	width: 100%; 
 	margin: 18px 0 0 0; 
-	width: 555px; 
 }
 
 .e_text ul, .e_text ol {
-  float: left;
-  width: 100%;
+	float: left;
+	width: 100%;
 	margin: 18px 0 0 30px;
 	padding: 0 0 0 0;
 }
 
 .e_text dl{
-  float: left;
-  width: 100%;
-	margin: 18px 0 0 0;
+	float: left;
+	width: 100%;
+	margin: 12px 0 0 0;
 	padding: 0 0 0 0;
 }
 
 .e_text dl dt{
-	margin: 0.5em 0 0 0;
+	margin: 6px 0 0 0;
 }
 .e_text dl dd{
-	margin: 0 0 0 30px;
+	margin: 0 0  30px;
 	padding: 0 0 0 0;
 }
 
