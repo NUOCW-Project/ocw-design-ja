@@ -129,6 +129,10 @@
 	padding: 0 0 0 0;
 }
 
+.e_text ul li, .e_text ol li p{
+	width: auto;
+}
+
 .e_text dl{
 	float: left;
 	width: 555px;
