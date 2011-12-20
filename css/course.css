@@ -117,8 +117,21 @@
 	width: 555px; 
 }
 
-.e_text ul, .e_text ol, .e_text dl{
+.e_text ul, .e_text ol {
+	margin: 18px 0 0 30px;
+	padding: 0 0 0 0;
+}
+
+.e_text dl{
 	margin: 18px 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.e_text dl dt{
+	margin: 0.5em 0 0 0;
+}
+.e_text dl dd{
+	margin: 0 0 0 30px;
 	padding: 0 0 0 0;
 }
 
@@ -126,9 +139,6 @@
 	clear: left;
 }
 
-.e_text dt {
-	margin: 0.5em 0 0 0;
-}
 
 .e_text table {
 	margin: 18px 0 0 0;
