@@ -142,6 +142,7 @@
 .e_text * ul, .e_text * ol, .e_text * li{
 	clear: left;
 	width: auto;
+	margin: 0 0 0 30px;
 }
 
 
