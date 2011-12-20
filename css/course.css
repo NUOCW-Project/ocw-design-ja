@@ -105,7 +105,7 @@
 
 .e_text h4, .e_text h5 {
 	float: left;
-	width: 100%; 
+	width: 555px;
 	margin: 18px 0 0 0;
 	font-size: 13px;
 	font-weight: bold;
@@ -113,20 +113,20 @@
 
 .e_text p {
 	float: left; 
-	width: 100%; 
+	width: 555px;
 	margin: 18px 0 0 0; 
 }
 
 .e_text ul, .e_text ol {
 	float: left;
-	width: 100%;
+	width: 555px; 
 	margin: 18px 0 0 30px;
 	padding: 0 0 0 0;
 }
 
 .e_text dl{
 	float: left;
-	width: 100%;
+	width: 555px;
 	margin: 12px 0 0 0;
 	padding: 0 0 0 0;
 }
@@ -141,6 +141,7 @@
 
 .e_text * ul, .e_text * ol, .e_text * li{
 	clear: left;
+	width: auto;
 }
 
 
@@ -177,7 +178,8 @@ table.basic p {
 	margin: 5px 0 5px 0;
 }
 
-table.basic ul, table.basic ol {
+table.basic ul, table.basic ol, table.basic dl {
+	width: auto;
 	margin: 10px 0 10px 0;
 	padding: 0 0 0 25px;
 }
