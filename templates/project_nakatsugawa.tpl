@@ -1,4 +1,4 @@
-<p>Nakatsugawa Project 2011
+Nakatsugawa Project 2011
 
 Sponsor: Nagoya University
 Date: 2011.08.09~2011.08.11
@@ -25,7 +25,7 @@ Then we enjoyed the exhibition of the model house made from forest wood. The hou
 
 At the end of the day 1, the students acquired some practical knowledge about the detailed process of building an eco-friendly model house from forest trees. They learned an interesting and beneficial lesson that they can’t learn from the textbook and it’s the objective of the Nakatsugawa project.
 
-</p>
+
 <p>hellow world!</p>
 
 
