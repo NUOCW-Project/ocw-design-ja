@@ -4,7 +4,7 @@
 </h3>
 
 <h4>
-Sponsor: Nagoya University
+Sponsor: Nagoya University<br />
 Date: 2011.08.09~2011.08.11
 Place: Nakatsugawa Training Center, Gifu
 Participants: 16 Students (From grade 1 & grade 2)
