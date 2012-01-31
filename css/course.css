@@ -80,7 +80,7 @@
 	margin: 0 0 0 0;
 	padding: 0 0 0 150px;
 }
-/*
+
 .e_text p{
         margin-bottom: 0em;
         margin-top: 1.5em;
@@ -93,7 +93,6 @@
   float: none;
   width: auto;
 }
-*/
 
 .e_text * ul, .e_text * ol, .e_text * li{
 	margin-left: 0;
@@ -134,7 +133,7 @@
 
 .e_text p {
 	float: left; 
-	width: 15px;
+	width: 555px;
 	margin: 18px 0 0 0; 
 }
 
