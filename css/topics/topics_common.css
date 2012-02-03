@@ -71,6 +71,12 @@ p.info
     clear: both;
 }
 
+img.cut
+{
+    width: 70px;
+    height: 70px;
+}
+
 #articles_detail
 {
     clear: both;
