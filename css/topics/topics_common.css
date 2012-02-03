@@ -69,6 +69,8 @@ p.info
     bockground-color: gainsboro;
     float: right;
     clear: both;
+    border-style: dotted:
+    border-width: 1px;
 }
 
 img.cut
