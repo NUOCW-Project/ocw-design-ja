@@ -46,7 +46,7 @@
     </p>
 
     <p class="info">
-      <img class="cut" alt="千葉恵美子教授" src="./images/ja/topics3/cuts/chiba.jpg">    
+      <img class="cut" alt="千葉恵美子教授" src="./images/ja/topics3/cuts/chiba.jpg">
      千葉恵美子教授<br>
      教養教育院<br>
      【基礎セミナー - 民法の世界で遊ぶ】 
@@ -59,8 +59,9 @@
     また、理学部はもちろん、理系の学生のほとんどが物理学実験の授業を選択することができます。 <br>
     自分の手で物理学の実験をすることが医学部や他の学部の学生にとってどう役にたつのか、ぜひ講義ノートの「物理学実験ガイダンス」に目を通してみてください。
     </p>
-    <img class="cut" alt="" src="">
+
     <p class="info">
+    <img class="cut" alt="千代勝実講師" src="./images/ja/topics3/cuts/senyo.jpg">
      千代勝実講師<br>
      教養教育院<br>
      【物理学実験】
@@ -75,8 +76,9 @@
  この授業では、そのような疑問を留学生から引き出し、 <br>
  その答えを留学生と在校生が一緒に考えることで、日本に対する理解や相互の理解を深めます。<br>
     </p>
-    <img class="cut" alt="" src="">
+
     <p class="info">
+    <img class="cut" alt="浮葉正親准教授" src="./images/ja/topics3/cuts/ukiba.jpg">
      浮葉正親 准教授<br>
      教養教育院<br>
      【全学教養科目 - 留学生と日本〜異文化を通しての日本理解〜】
@@ -90,8 +92,9 @@
      この授業では私たちの生活を支える農業を実際に体験することで、現場の新鮮な知識を身につけることができます。 <br>
       また、学生が主体的に行動するため、研修を進路選択に活かせます。
     </p>
-    <img class="cut" alt="" src="">
+
     <p class="info">
+    <img class="cut" alt="佐藤豊准教授" src="./images/ja/topics3/cuts/sato.jpg">
      佐藤豊 准教授<br>
      農学部・生命農学研究科<br>
      【国内実地研修】
@@ -104,7 +107,9 @@
      この授業では普段触れることのない海外のボードゲームを取り上げ，実際にプレイし，勝つための戦略を考え，皆で議論します。<br>
      ボードゲームを通して想像力を鍛え，考えることの楽しさを味わいませんか。
     </p>
+
     <p class="info">
+    <img class="cuts" alt="有田隆也教授" src="./images/ja/topics3/cuts/senyo.jpg">
     有田隆也 教授<br>
     教養教育院<br>
     【基礎セミナー - ボードゲームを究める】
