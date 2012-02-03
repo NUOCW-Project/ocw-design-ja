@@ -46,11 +46,11 @@
     </p>
 
     <p class="info">
+      <img class="cut" alt="ÀéÍÕ·ÃÈþ»Ò¶µ¼ø" src="./images/ja/topics3/cuts/chiba.jpg">    
      ÀéÍÕ·ÃÈþ»Ò¶µ¼ø<br>
      ¶µÍÜ¶µ°é±¡<br>
      ¡Ú´ðÁÃ¥»¥ß¥Ê¡¼ - Ì±Ë¡¤ÎÀ¤³¦¤ÇÍ·¤Ö¡Û 
-      <img class="cut" alt="ÀéÍÕ·ÃÈþ»Ò¶µ¼ø" src="./images/ja/topics3/cuts/chiba.jpg">
-    </p>
+     </p>
 </li>
 <li id="intro2">
     <h2>¤¹¤Ù¤Æ¤Î¡Ö²Ê³Ø¡×¤Î¸¶ÅÀ</h2>
