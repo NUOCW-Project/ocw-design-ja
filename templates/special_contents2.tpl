@@ -44,7 +44,7 @@
      自己抑制的だった高校までの学習から、一歩踏み出す。 <br>
      六法全書の丸暗記ではない、法律問題の議論の楽しさがこの授業にはあります。
     </p>
-    <img class="cut" alt="千葉恵美子教授" src="">
+    <img class="cut" alt="千葉恵美子教授" src="./images/ja/topics3/cuts/chiba.jpg">
     <p class="info">
      千葉恵美子教授<br>
      教養教育院<br>
