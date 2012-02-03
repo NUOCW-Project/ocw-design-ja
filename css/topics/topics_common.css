@@ -64,9 +64,9 @@ ul
 
 p.info
 {
-    width: 12em;
+    width: 200px;
     padding: 1em:
-    bockground-color: gold;
+    bockground-color: gainsboro;
     float: right;
     clear: both;
 }
