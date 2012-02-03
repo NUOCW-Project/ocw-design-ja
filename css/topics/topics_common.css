@@ -67,7 +67,6 @@ p.info
     width: 200px;
     padding: 1em:
     bockground-color: gainsboro;
-    float: right;
     clear: both;
     border-style: dotted:
     border-width: 1px;
@@ -77,7 +76,7 @@ img.cut
 {
     width: 70px;
     height: 70px;
-    float: right;
+
 }
 
 #articles_detail
