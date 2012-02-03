@@ -45,12 +45,14 @@
      六法全書の丸暗記ではない、法律問題の議論の楽しさがこの授業にはあります。
     </p>
 
-    <p class="info">
+    <div class="info">
       <img class="cut" alt="千葉恵美子教授" src="./images/ja/topics3/cuts/chiba.jpg">
-     千葉恵美子教授<br>
-     教養教育院<br>
-     【基礎セミナー - 民法の世界で遊ぶ】 
+      <p>
+	千葉恵美子教授<br>
+       	教養教育院<br>
+       【基礎セミナー - 民法の世界で遊ぶ】 
      </p>
+     </div>
 </li>
 <li id="intro2">
     <h2>すべての「科学」の原点</h2>
