@@ -62,22 +62,28 @@ ul
 
 }
 
-p.info
+div.info
 {
-    width: 200px;
     padding: 1em:
     bockground-color: gainsboro;
     clear: both;
     border-style: dotted:
     border-width: 1px;
     float: right;
+    text-align: right;
+}
+
+div.info p
+{
+    position: absolute;
+    top: 0;
+    left: 70px;
 }
 
 img.cut
 {
     width: 70px;
     height: 70px;
-    
 }
 
 #articles_detail
