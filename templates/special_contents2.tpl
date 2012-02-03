@@ -109,7 +109,7 @@
     </p>
 
     <p class="info">
-    <img class="cuts" alt="肣鼴帤欥項牖" src="./images/ja/topics3/cuts/senyo.jpg">
+    <img class="cut" alt="肣鼴帤欥項牖" src="./images/ja/topics3/cuts/arita.jpg">
     肣鼴帤欥 項牖<br>
     項陃項圈情<br>
     ≠湘謄本立瓜□ - 示□玉必□丞毛菜戶月∞
