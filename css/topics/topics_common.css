@@ -75,6 +75,7 @@ img.cut
 {
     width: 70px;
     height: 70px;
+    float: right;
 }
 
 #articles_detail
