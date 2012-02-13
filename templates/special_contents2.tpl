@@ -1,26 +1,28 @@
 <a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
-<h1 class="topics_top_title">遊び・体験の授業</h1>
+<img alt="遊び・体験から学ぶ授業" src="">
 </a>
 <ul id="articles_title">
 <li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
-    <h2>基礎セミナー - 民法の世界で遊ぶ</h2>
-    <span>千葉恵美子 教授</span>    
+    <h2>民法の世界で遊ぶ</h2>
+    <span>法学研究科　千葉恵美子 教授</span>    
 </a></li>
 <li><a onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>物理学実験</h2>
-    <span>千代勝実 講師</span>    
+    <span>教養教育院　千代勝実 講師</span>
+    <small>※2011年度担当は千代先生ではありません</small
 </a></li>
 <li><a onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
-       <h2>全学教養科目‐留学生と日本〜異文化を通しての日本理解〜</h2>
+       <h2>留学学生と日本<br>〜異文化を通しての日本理解〜</h2>
        <span>浮葉正親 准教授</span>
 </a></li>
 <li><a onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>国内実地研修</h2>
-    <span> 佐藤豊 准教授  教授</span>    
+    <span>農学部・生命農学研究科　 佐藤豊 准教授</span>    
+    <small>※2011年度担当は佐藤先生生ではありません</small
 </a></li>
 <li><a onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
-    <h2>基礎セミナー - ボードゲームを究める</h2>
-    <span> 有田隆也 教授</span>    
+    <h2>ボードゲームを究める</h2>
+    <span>情報文化学部　 有田隆也 教授</span>    
 </a></li>
 <li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2></h2>

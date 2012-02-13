@@ -2,6 +2,9 @@
 {
     width: 875px !important ;
     margin-left: 30px;
+    font-family: "ＭＳ ゴシック",sans-serif; 
+    font-weight: 500;
+    font-color: #101010;
 }
 
 ul
@@ -35,12 +38,12 @@ ul
 #articles_title li a h2 /* コース名 */
 {
     clear: right;
+    color: #ee88bb;
 }
 
 #articles_title li a span /* 教員名 */
 {
     clear: left;
-    float: right;
 }
 
 #articles_intro{
