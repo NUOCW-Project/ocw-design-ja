@@ -18,7 +18,7 @@
 <li><a onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>国内実地研修</h2>
     <span>農学部・生命農学研究科　 佐藤豊 准教授</span>    
-    <br><small>※2011年度担当は佐藤先生生ではありません</smll>
+    <br><small>※2011年度担当は佐藤先生生ではありません</samll>
 </a></li>
 <li><a onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>ボードゲームを究める</h2>
