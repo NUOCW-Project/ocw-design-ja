@@ -1,6 +1,6 @@
-<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">
+<!--<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">-->
 <img alt="遊び・体験から学ぶ授業" src="">
-</a>
+<!--</a>-->
 <ul id="articles_title">
 <li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>民法の世界で遊ぶ</h2>
@@ -9,16 +9,16 @@
 <li><a onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>物理学実験</h2>
     <span>教養教育院　千代勝実 講師</span>
-    <small>※2011年度担当は千代先生ではありません</small
+    <br><small>※2011年度担当は千代先生ではありません</smal>
 </a></li>
 <li><a onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
-       <h2>留学学生と日本<br>〜異文化を通しての日本理解〜</h2>
-       <span>浮葉正親 准教授</span>
+       <h2>留学生と日本<br>〜異文化を通しての日本理解〜</h2>
+       <span>留学生センター　浮葉正親 准教授</span>
 </a></li>
 <li><a onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>国内実地研修</h2>
     <span>農学部・生命農学研究科　 佐藤豊 准教授</span>    
-    <small>※2011年度担当は佐藤先生生ではありません</small
+    <br><small>※2011年度担当は佐藤先生生ではありません</smal>
 </a></li>
 <li><a onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>ボードゲームを究める</h2>
@@ -31,14 +31,18 @@
 </ul>
 
 <ul id="articles_intro">
-<li id="intro_default">
+<!--<li id="intro_default">
     <p>
     名古屋大学には、自らが様々な体験をすることで学習するという授業がたくさんあります。<br>
     そのような名大の個性的な授業を一度覗いてみませんか？
     </p>
-</li>	
+</li>-->	
 <li id="intro1">
     <h2>日常の中の法律</h2>
+    <p>
+     開講部局：教養教育院
+    </p>
+    <hr>
     <p class="lead">
      法律は社会を観察するための一つの切り口です。 <br>
      この授業では、自分で選択した映画を題材とし、法律という視点で問題を捉えていきます。 <br>
@@ -58,6 +62,10 @@
 </li>
 <li id="intro2">
     <h2>すべての「科学」の原点</h2>
+    <p>
+     開講部局：教養教育院
+    </p>
+    <hr>
     <p class="lead">
     注目してほしいのはこの授業が医学部対象であるところです。<br>
     また、理学部はもちろん、理系の学生のほとんどが物理学実験の授業を選択することができます。 <br>
@@ -73,6 +81,10 @@
 </li>
 <li id="intro3">
     <h2>日本を知る</h2>
+    <p>
+     開講部局：教養教育院
+    </p>
+    <hr>
     <p class="lead">
     名古屋大学には１２００人を超える留学生がいます。 <br>
  「日本人はなぜそんなに漫画が好きなの？」「地下鉄で眠っている人が多いのはなぜ？」 <br>
@@ -90,6 +102,10 @@
 </li>
 <li id="intro4">
     <h2>いざ、農業の世界へ</h2>
+    <p>
+     開講部局：農学部・生命農学研究科
+    </p>
+    <hr>
     <p class="lead">
     何気なく食べている野菜、肉、お米。何気なく飲んでいる牛乳、お茶。<br> 
     それらがどこからどのようにして私たちのもとへ届くのか、考えたことがありますか。 <br>
@@ -106,6 +122,10 @@
 </li>
 <li id="intro5">
     <h2>考える楽しさ</h2>
+    <p>
+     開講部局：教養教育院
+    </p>
+    <hr>
     <p class="lead">
     ゲームに勝つためには，プレイヤー間の駆け引きに想像を膨らませて，戦略を練るということが必要となります。<br>
      この授業では普段触れることのない海外のボードゲームを取り上げ，実際にプレイし，勝つための戦略を考え，皆で議論します。<br>
@@ -143,7 +163,7 @@
 <p>1. 物理実験学について印象に残っていることは何ですか？</p>
 <p>
 最近は理系学生でも実験、特に物理実験を高校でやっていたという学生はほとんどいないんですね。普通、やったことがなければどうしても尻込みしてしまうこともあるかなと思っていたのですが、積極的に実験に参加する学生が多く、質問等を通じてコミュニケーションがとれました。</p>
-<p><b>―その質問というのは、どういった内容のものでしたか？</b>/p>
+<p><b>―その質問というのは、どういった内容のものでしたか？</b<>/p>
 <p>
 実験手順や、結果についての質問だけでなく、その実験にまつわる物理現象についての質問、例えば、「先生は○○という現象についてどう思われますか？」というような、発展的・本質的な質問がありました。実験内容だけでなく、広がった話をしたことが印象に残っています。
 </p>

@@ -4,7 +4,12 @@
     margin-left: 30px;
     font-family: "ＭＳ ゴシック",sans-serif; 
     font-weight: 500;
-    font-color: #101010;
+    font-color: #020202;
+}
+
+h2
+{
+    color: #cc6699;
 }
 
 ul
@@ -38,7 +43,7 @@ ul
 #articles_title li a h2 /* コース名 */
 {
     clear: right;
-    color: #ee88bb;
+    font-weight: 100;
 }
 
 #articles_title li a span /* 教員名 */
@@ -62,7 +67,21 @@ ul
 
 #articles_intro li a h2 /* キャッチコピー */
 {
+    font-weight: 300;
+}
 
+#articles_intro li a h2:before
+{
+    content:"●"
+    color: ee88bb;
+}
+
+#articles_intro li hr
+{
+    height: 4px;
+    background-color: #cc6699;
+    border: none;
+    color: #cc6699;
 }
 
 div.info
