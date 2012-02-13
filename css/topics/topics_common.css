@@ -73,7 +73,7 @@ ul
 
 #articles_intro li a h2:before
 {
-    content:"¡ü"
+    content:"¡ü";
     color: ee88bb;
 }
 
