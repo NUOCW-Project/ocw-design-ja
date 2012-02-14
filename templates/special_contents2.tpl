@@ -52,7 +52,7 @@
      六法全書の丸暗記ではない、法律問題の議論の楽しさがこの授業にはあります。
     </p>
 
-  <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=23&page_type=index">
+  <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=23&page_type=index">
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>千葉恵美子先生の<br>ページへ</p>
@@ -71,7 +71,7 @@
     自分の手で物理学の実験をすることが医学部や他の学部の学生にとってどう役にたつのか、ぜひ講義ノートの「物理学実験ガイダンス」に目を通してみてください。
     </p>
 
-    <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=143&page_type=index">
+    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=143&page_type=index">
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>千代勝実先生の<br>ページへ</p>
@@ -92,7 +92,7 @@
  その答えを留学生と在校生が一緒に考えることで、日本に対する理解や相互の理解を深めます。<br>
     </p>
 
-    <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=22&page_type=index">
+    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=22&page_type=index">
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>浮葉正親先生の<br>ページへ</p>
@@ -112,7 +112,7 @@
       また、学生が主体的に行動するため、研修を進路選択に活かせます。
     </p>
 
-    <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=148&page_type=index">
+    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=148&page_type=index">
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>佐藤豊先生の<br>ページへ</p>
@@ -131,7 +131,7 @@
      ボードゲームを通して想像力を鍛え，考えることの楽しさを味わいませんか。
     </p>
 
-    <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=25&page_type=index">
+    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=25&page_type=index">
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>有田隆也先生の<br>ページへ</p>
@@ -143,7 +143,7 @@
     <h2></h2>
     <p class="lead">
     </p>
-    <a href="">
+    <a class="tp_link" href="">
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>先生の<br>ページへ</p>

@@ -130,14 +130,14 @@ div.tp_LInk img
     z-index: 0;
 }
 
-div.tp_LInk a
+a.tp_link
 {
     filter:alpha(opacity=75);
     -moz-opacity: 0.75;
     opacity: 0.75;
 }
 
-div.tp_LInk a :hover
+a.tp_link :hover
 {
     filter:alpha(opacity=100);
     -moz-opacity: 1;
