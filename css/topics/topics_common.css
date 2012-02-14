@@ -88,7 +88,7 @@ ul
 
 #articles_intro li a h2 :before
 {
-    content:"¡ü";
+    content:"¡ü ";
     color: ee88bb;
 }
 
@@ -117,7 +117,7 @@ div.tp_LInk p
     top: 70px;
     text-align: center;
     left: 0px;
-    width: 100%
+    width: 100%;
     z-index: 1;
 }
 
