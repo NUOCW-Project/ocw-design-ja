@@ -53,7 +53,9 @@
     </p>
 
     <div class="tp_LInk">
+      <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=23&page_type=index">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
+      </a>
       <p>千葉恵美子先生の<br>ページへ</p>
      </div>
 </li>
@@ -70,7 +72,9 @@
     </p>
 
     <div class="tp_LInk">
+      <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=143&page_type=index">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
+      </a>
       <p>千代勝実先生の<br>ページへ</p>
      </div>
 </li>
@@ -89,7 +93,9 @@
     </p>
 
     <div class="tp_LInk">
+      <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=22&page_type=index">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
+      </a>
       <p>浮葉正親先生の<br>ページへ</p>
      </div>
 </li>
@@ -107,7 +113,9 @@
     </p>
 
     <div class="tp_LInk">
+      <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=148&page_type=index">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
+      </a>
       <p>佐藤豊先生の<br>ページへ</p>
      </div>
 </li>
@@ -124,7 +132,9 @@
     </p>
 
     <div class="tp_LInk">
+      <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=25&page_type=index">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
+      </a>
       <p>有田隆也先生の<br>ページへ</p>
      </div>
 
@@ -134,7 +144,9 @@
     <p class="lead">
     </p>
     <div class="tp_LInk">
+      <a href="">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
+      </a>
       <p>先生の<br>ページへ</p>
      </div>
 </li>

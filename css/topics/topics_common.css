@@ -27,6 +27,7 @@ img#tp_Kanban
 /*    left: 0px;
     top: 28px;*/
     left: -30px;
+    top: -40px;
 }
 
 ul
@@ -128,6 +129,21 @@ div.tp_LInk img
     height: 100%;
     z-index: 0;
 }
+
+div.tp_LInk a
+{
+    filter:alpha(opacity=75);
+    -moz-opacity: 0.75;
+    opacity: 0.75;
+}
+
+div.tp_LInk a :hover
+{
+    filter:alpha(opacity=75);
+    -moz-opacity: 0.75;
+    opacity: 0.75;
+}
+
 
 #articles_detail
 {
