@@ -54,7 +54,7 @@
 
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
-      <p>千葉恵美子先生の記事へ</p>
+      <p>千葉恵美子先生の<br>ページへ</p>
      </div>
 </li>
 <li id="intro2">
@@ -71,7 +71,7 @@
 
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
-      <p>千代勝実先生の記事へ</p>
+      <p>千代勝実先生の<br>ページへ</p>
      </div>
 </li>
 <li id="intro3">
@@ -90,7 +90,7 @@
 
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
-      <p>浮葉正親先生の記事へ</p>
+      <p>浮葉正親先生の<br>ページへ</p>
      </div>
 </li>
 <li id="intro4">
@@ -108,7 +108,7 @@
 
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
-      <p>佐藤豊先生の記事へ</p>
+      <p>佐藤豊先生の<br>ページへ</p>
      </div>
 </li>
 <li id="intro5">
@@ -125,9 +125,9 @@
 
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
-      <p>有田隆也先生の記事へ</p>
+      <p>有田隆也先生の<br>ページへ</p>
      </div>
->
+
 </li>
 <li id="intro6">
     <h2></h2>
@@ -135,12 +135,10 @@
     </p>
     <div class="tp_LInk">
       <img src="./images/ja/topics3/asobi_LInk.jpg">
-      <p>先生の記事へ</p>
+      <p>先生の<br>ページへ</p>
      </div>
 </li>
 </ul>
-
-<hr>
 
 <ul id="articles_detail">
 <li id="detail1">
@@ -155,7 +153,7 @@
 <p>1. 物理実験学について印象に残っていることは何ですか？</p>
 <p>
 最近は理系学生でも実験、特に物理実験を高校でやっていたという学生はほとんどいないんですね。普通、やったことがなければどうしても尻込みしてしまうこともあるかなと思っていたのですが、積極的に実験に参加する学生が多く、質問等を通じてコミュニケーションがとれました。</p>
-<p><b>―その質問というのは、どういった内容のものでしたか？<b></p>
+<p><b>―その質問というのは、どういった内容のものでしたか？</b></p>
 <p>
 実験手順や、結果についての質問だけでなく、その実験にまつわる物理現象についての質問、例えば、「先生は○○という現象についてどう思われますか？」というような、発展的・本質的な質問がありました。実験内容だけでなく、広がった話をしたことが印象に残っています。
 </p>

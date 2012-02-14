@@ -6,6 +6,7 @@
     font-weight: 500;
     color: #020202;
     font-size: inherit;
+    min-height: 500px;
 }
 
 h2
@@ -15,12 +16,15 @@ h2
 
 img#tp_door
 {
-    float: right;
+    position: absolute;
+    right: 0;
+    top: 0;
 }
 
 img#tp_Kanban
 {
-    clear: right;
+    poition: relative;
+    left: -30px;
 }
 
 ul
@@ -81,7 +85,7 @@ ul
     font-weight: 300;
 }
 
-#articles_intro li a h2:before
+#articles_intro li a h2 :before
 {
     content:"¡ü";
     color: ee88bb;
