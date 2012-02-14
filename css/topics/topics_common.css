@@ -7,6 +7,7 @@
     color: #020202;
     font-size: inherit;
     min-height: 500px;
+    position: relative !important ;
 }
 
 h2
@@ -72,7 +73,7 @@ ul
     height: 250px;
     padding: 0;
     margin: 10px;
-    margin-bottom: 3em;
+    margin-bottom: 168px;
 }
 
 #intro1,#intro2,#intro3,#intro4,#intro5,#intro6
