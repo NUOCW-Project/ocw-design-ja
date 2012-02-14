@@ -1,5 +1,6 @@
 <!--<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">-->
-<img alt="遊び・体験から学ぶ授業" src="">
+<img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.jpg" id="tp_door">
+<img alt="遊び・体験から学ぶ授業" src="./images/ja/topics3/asobi_Kanban.jpg" id="tp_Kanban">
 <!--</a>-->
 <ul id="articles_title">
 <li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
@@ -51,13 +52,9 @@
      六法全書の丸暗記ではない、法律問題の議論の楽しさがこの授業にはあります。
     </p>
 
-    <div class="info">
-      <img class="cut" alt="千葉恵美子教授" src="./images/ja/topics3/cuts/chiba.jpg">
-      <p>
-	千葉恵美子教授<br>
-       	教養教育院<br>
-       【基礎セミナー - 民法の世界で遊ぶ】 
-     </p>
+    <div class="tp_LInk">
+      <img src="./images/ja/topics3/asobi_LInk.jpg">
+      <p>千葉恵美子先生の記事へ</p>
      </div>
 </li>
 <li id="intro2">
@@ -72,12 +69,10 @@
     自分の手で物理学の実験をすることが医学部や他の学部の学生にとってどう役にたつのか、ぜひ講義ノートの「物理学実験ガイダンス」に目を通してみてください。
     </p>
 
-    <p class="info">
-    <img class="cut" alt="千代勝実講師" src="./images/ja/topics3/cuts/senyo.jpg">
-     千代勝実講師<br>
-     教養教育院<br>
-     【物理学実験】
-    </p>
+    <div class="tp_LInk">
+      <img src="./images/ja/topics3/asobi_LInk.jpg">
+      <p>千代勝実先生の記事へ</p>
+     </div>
 </li>
 <li id="intro3">
     <h2>日本を知る</h2>
@@ -93,12 +88,10 @@
  その答えを留学生と在校生が一緒に考えることで、日本に対する理解や相互の理解を深めます。<br>
     </p>
 
-    <p class="info">
-    <img class="cut" alt="浮葉正親准教授" src="./images/ja/topics3/cuts/ukiba.jpg">
-     浮葉正親 准教授<br>
-     教養教育院<br>
-     【全学教養科目 - 留学生と日本〜異文化を通しての日本理解〜】
-    </p>
+    <div class="tp_LInk">
+      <img src="./images/ja/topics3/asobi_LInk.jpg">
+      <p>浮葉正親先生の記事へ</p>
+     </div>
 </li>
 <li id="intro4">
     <h2>いざ、農業の世界へ</h2>
@@ -113,12 +106,10 @@
       また、学生が主体的に行動するため、研修を進路選択に活かせます。
     </p>
 
-    <p class="info">
-    <img class="cut" alt="佐藤豊准教授" src="./images/ja/topics3/cuts/sato.jpg">
-     佐藤豊 准教授<br>
-     農学部・生命農学研究科<br>
-     【国内実地研修】
-    </p>
+    <div class="tp_LInk">
+      <img src="./images/ja/topics3/asobi_LInk.jpg">
+      <p>佐藤豊先生の記事へ</p>
+     </div>
 </li>
 <li id="intro5">
     <h2>考える楽しさ</h2>
@@ -132,19 +123,20 @@
      ボードゲームを通して想像力を鍛え，考えることの楽しさを味わいませんか。
     </p>
 
-    <p class="info">
-    <img class="cut" alt="有田隆也教授" src="./images/ja/topics3/cuts/arita.jpg">
-    有田隆也 教授<br>
-    教養教育院<br>
-    【基礎セミナー - ボードゲームを究める】
-    </p>
+    <div class="tp_LInk">
+      <img src="./images/ja/topics3/asobi_LInk.jpg">
+      <p>有田隆也先生の記事へ</p>
+     </div>
+>
 </li>
 <li id="intro6">
     <h2></h2>
     <p class="lead">
     </p>
-    <p class="info">
-    </p>
+    <div class="tp_LInk">
+      <img src="./images/ja/topics3/asobi_LInk.jpg">
+      <p>先生の記事へ</p>
+     </div>
 </li>
 </ul>
 
@@ -163,7 +155,7 @@
 <p>1. 物理実験学について印象に残っていることは何ですか？</p>
 <p>
 最近は理系学生でも実験、特に物理実験を高校でやっていたという学生はほとんどいないんですね。普通、やったことがなければどうしても尻込みしてしまうこともあるかなと思っていたのですが、積極的に実験に参加する学生が多く、質問等を通じてコミュニケーションがとれました。</p>
-<p><b>―その質問というのは、どういった内容のものでしたか？</></p>
+<p><b>―その質問というのは、どういった内容のものでしたか？<b></p>
 <p>
 実験手順や、結果についての質問だけでなく、その実験にまつわる物理現象についての質問、例えば、「先生は○○という現象についてどう思われますか？」というような、発展的・本質的な質問がありました。実験内容だけでなく、広がった話をしたことが印象に残っています。
 </p>
