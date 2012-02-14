@@ -24,8 +24,8 @@ img#tp_door
 
 img#tp_Kanban
 {
-    poition: relative;
-    left: -30px;
+    poition: absolute;
+    right: 0px;
 }
 
 ul
