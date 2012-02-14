@@ -23,7 +23,7 @@ img#tp_door
 
 img#tp_Kanban
 {
-    poition: absolute !important ;
+    position: absolute;
     left: 0px;
     top: 28px;
 }
