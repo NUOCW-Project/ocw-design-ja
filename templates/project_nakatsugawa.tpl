@@ -25,12 +25,12 @@ Participant’s fees: 6000 Yen <br />
 <p>
 <n\>After that we went to a lumbering place. The instructor explained the students very kindly. </p>
 <p>
-<img src="./images/common/nakatsugawa/nakatsugawapic2.jpg" align="middle"></p>
+<img id="img2"  src="./images/common/nakatsugawa/nakatsugawapic2.jpg" align="middle"></p>
 <p>
 <n\>Then we enjoyed the exhibition of the model house made from forest wood. The house was eco-friendly and easy to build, less expensive also. 
 </p>
 <p>
-<img src="./images/common/nakatsugawa/nakatsugawapic3.jpg" align="middle"></p>
+<img id="img3"  src="./images/common/nakatsugawa/nakatsugawapic3.jpg" align="middle"></p>
 <p>
 <n\>At the end of the day 1, the students acquired some practical knowledge about the detailed process of building an eco-friendly model house from forest trees. They learned an interesting and beneficial lesson that they can’t learn from the textbook and it’s the objective of the Nakatsugawa project.
 </p>
