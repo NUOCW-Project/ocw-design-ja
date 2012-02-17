@@ -3,6 +3,9 @@
  Nakatsugawa Project 2011</td>
 </h1>
 
+<img id="img4"  src="./images/common/nakatsugawa/nakatsugawapic4.jpg" align="mi\
+ddle">
+
 <p>
 Sponsor: Nagoya University<br />
 Date: 2011.08.09~2011.08.11<br />
