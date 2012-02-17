@@ -3,8 +3,6 @@
  Nakatsugawa Project 2011</td>
 </h1>
 
-<img id="img4"  src="./images/common/nakatsugawa/nakatsugawapic4.jpg" align="mi\
-ddle">
 
 <p>
 Sponsor: Nagoya University<br />
@@ -13,6 +11,9 @@ Place: Nakatsugawa Training Center, Gifu<br />
 Participants: 16 Students (From grade 1 & grade 2)<br />
 Participant’s fees: 6000 Yen <br />
 </p>
+<img id="img4"  src="./images/common/nakatsugawa/nakatsugawapic4.jpg" align="mi
+ddle">
+
 <p>
  <n\>During the Summer Vacation(2011.08.09~2011.08.11), the students of School of Education of Nagoya University affiliated Senior High School, went to Nakatsugawa Training Center of Nagoya University. The project is run by Nagoya University with an objective to provide the students with some practical skill based lesson what they can’t learn from textbook. It’s another objective is to introduce them with the education system of Nagoya University and make them ready for it.<br />
 <br />
