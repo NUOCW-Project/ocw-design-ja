@@ -17,8 +17,9 @@ margin: 0 200px;
 }
 
 img#img4{
-width: 380px;
-height: 300px;
-margin: 0 20px;
-float: right;
+    width: 250px;
+    height: 180px;
+    position: absolute;
+    top: 20px;
+    left: 550px;
 }
