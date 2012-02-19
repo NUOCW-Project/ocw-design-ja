@@ -27,7 +27,7 @@ img#tp_Kanban
 /*    left: 0px;
     top: 28px;*/
     left: -30px;
-    top: -40px;
+    top: -35px;
 }
 
 ul
@@ -41,7 +41,7 @@ ul
     font-height: 24px;
 }
 
-#articles_title
+#articles_titles
 {
     width: 330px;
     float: left;
@@ -88,7 +88,7 @@ ul
     font-weight: 300;
 }
 
-#articles_intro li h2 :before
+#articles_intro li h2:before
 {
     content:"¡ü";
     color: ee88bb;
