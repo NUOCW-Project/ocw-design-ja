@@ -7,6 +7,9 @@
     color: #020202;
     font-size: inherit;
     min-height: 500px;
+    background-image: url("./images/ja/topics3/asobi_Background1.jpg");
+    background-repeat: no-repeat;
+    background-position: -30px 164px;
 }
 
 h2
@@ -19,6 +22,7 @@ img#tp_door
     position: absolute;
     right: 0;
     top: 0;
+    z-index: 2;
 }
 
 img#tp_Kanban
