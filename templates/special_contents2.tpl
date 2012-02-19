@@ -3,32 +3,36 @@
 <img alt="遊び・体験から学ぶ授業" src="./images/ja/topics3/asobi_Kanban.jpg" id="tp_Kanban">
 <!--</a>-->
 <ul id="articles_title">
-<li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('tp_title1');noDisplay('tp_title2');noDisplay('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>民法の世界で遊ぶ</h2>
     <span>法学研究科　千葉恵美子 教授</span>    
-</a></li>
-<li><a onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr id="tp_title1"></li>
+<li><a onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('tp_title1');Display('tp_title2');noDisplay('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>物理学実験</h2>
     <span>教養教育院　千代勝実 講師</span>
     <br><small>※2011年度担当は千代先生ではありません</small>
 </a></li>
-<li><a onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<li><a onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('tp_title1');noDisplay('tp_title2');Display('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
        <h2>留学生と日本<br>〜異文化を通しての日本理解〜</h2>
        <span>留学生センター　浮葉正親 准教授</span>
-</a></li>
-<li><a onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr id="tp_title2"></li>
+<li><a onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('tp_title1');noDisplay('tp_title2');Display('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>国内実地研修</h2>
     <span>農学部・生命農学研究科　 佐藤豊 准教授</span>    
     <br><small>※2011年度担当は佐藤先生生ではありません</small>
-</a></li>
-<li><a onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr id="tp_title3"></li>
+<li><a onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('tp_title1');noDisplay('tp_title2');noDisplay('tp_title3');Display('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2>ボードゲームを究める</h2>
     <span>情報文化学部　 有田隆也 教授</span>    
-</a></li>
-<li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr id="tp_title4"></li>
+<li><a onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('tp_title1');noDisplay('tp_title2');noDisplay('tp_title3');noDisplay('tp_title4');Display('tp_title5');noDisplay('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <h2></h2>
     <span></span>    
-</a></li>
+</a><hr id="tp_title5"></li>
+<li><a onMouseOver="noDisplay('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');Display('intro6');noDisplay('tp_title1');noDisplay('tp_title2');noDisplay('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');Display('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');Display('detail6')">
+    <h2></h2>
+    <span></span>    
+</a><hr id="tp_title6"></li>
 </ul>
 
 <ul id="articles_intro">
@@ -151,6 +155,7 @@
      </a>
 </li>
 </ul>
+<img src="./images/ja/topics3/asobi_Background2.jpg" id="tp3bg_under" alt="">
 
 <ul id="articles_detail">
 <li id="detail1">
@@ -231,4 +236,3 @@
 <li id="detail6">
 </li>
 </ul>
-<img src="./images/ja/topics3/asobi_Background2.jpg" id="tp3bg_under" alt="">
