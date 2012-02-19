@@ -231,3 +231,4 @@
 <li id="detail6">
 </li>
 </ul>
+<img src="./images/topics3/asobi_Background2.jpg" id="tp3bg_under" alt="">

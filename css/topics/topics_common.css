@@ -3,10 +3,11 @@
     width: 875px !important ;
     margin-left: 30px;
     font-family: "£Í£Ó ¥´¥·¥Ã¥¯",sans-serif; 
-    font-weight: 550;
+    font-weight: 600;
     color: #020202;
     font-size: inherit;
-    min-height: 500px;
+    min-height: 740px;
+    padding-bottom: 60px;
     background-image: url("../../images/ja/topics3/asobi_Background1.jpg");
     background-repeat: no-repeat;
     background-position: -20px 223px;
@@ -20,8 +21,8 @@ h2
 img#tp_door
 {
     position: absolute;
-    right: 0;
-    top: 0;
+    right: 10px;
+    top: 5px;
     z-index: 2;
 }
 
@@ -162,4 +163,10 @@ a.tp_link img:hover
 hr
 {
     clear: both;
+}
+
+img#tp3bg_under
+{
+    position: absolute;
+    bottom: 0;
 }
