@@ -42,21 +42,19 @@ ul
 }
 
 
-#articles_titles
+#articles_title
 {
     width: 330px;
-/*    float: left;*/
+    float: left;
     margin: 10px;
     padding: 0;
 }
 
 
-#articles_titles li a
+#articles_title li a
 {
     display: block;
     width: 100%;
-    border-style: dotted;
-    border-width: 1px;
     padding: 1ex;
 }
 
