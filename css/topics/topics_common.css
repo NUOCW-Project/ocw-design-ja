@@ -3,7 +3,7 @@
     width: 875px !important ;
     margin-left: 30px;
     font-family: "ＭＳ ゴシック",sans-serif; 
-    font-weight: 600;
+    font-weight: 400;
     color: #020202;
     font-size: inherit;
     min-height: 740px;
@@ -66,7 +66,7 @@ ul
 #articles_title li a h2 /* コース名 */
 {
     clear: right;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 #articles_title li a span /* 教員名 */
@@ -90,7 +90,7 @@ ul
 
 #articles_intro li h2 /* キャッチコピー */
 {
-    font-weight: 300;
+    font-weight: 500;
 }
 
 #articles_intro li h2:before
