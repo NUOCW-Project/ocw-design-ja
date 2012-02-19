@@ -27,7 +27,7 @@ img#tp_Kanban
 /*    left: 0px;
     top: 28px;*/
     left: -30px;
-    top: -20px;
+    top: -40px;
 }
 
 ul
@@ -83,12 +83,12 @@ ul
     display: none;
 }
 
-#articles_intro li a h2 /* キャッチコピー */
+#articles_intro li h2 /* キャッチコピー */
 {
     font-weight: 300;
 }
 
-#articles_intro li a h2 :before
+#articles_intro li h2 :before
 {
     content:"● ";
     color: ee88bb;
@@ -130,14 +130,14 @@ div.tp_LInk img
     z-index: 0;
 }
 
-a.tp_link
+a.tp_link img
 {
     filter:alpha(opacity=75);
     -moz-opacity: 0.75;
     opacity: 0.75;
 }
 
-a.tp_link :hover
+a.tp_link img:hover
 {
     filter:alpha(opacity=100);
     -moz-opacity: 1;
