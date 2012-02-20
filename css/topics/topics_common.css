@@ -108,7 +108,7 @@ ul
 #tp_title1,#tp_title2,#tp_title3,#tp_title4,#tp_title5
 {
     height: 4px;
-    background-color: #99CCCC
+    background-color: #99CCCC;
     color: #99CCCC;
     border: none;
     display: none;
@@ -189,7 +189,7 @@ a.tp_link img:hover
 #articles_detail
 {
     clear: both;
-    width: 720px;
+    width: 740px;
 }
 
 #detail1,#detail2,#detail3,#detail4,#detail5,#detail6
