@@ -132,7 +132,7 @@ div.tp_LInk
 div.tp_LInk p
 {
     position: absolute;
-    top: 60px;
+    top: 55px;
     text-align: center;
     left: 0px;
     height: 0;
@@ -142,7 +142,7 @@ div.tp_LInk p
     font-size: larger;
 }
 
-div.tp_LInk p:hover
+div.tp_LInk:hover
 {
     text-decorarion: none;
 }
@@ -172,7 +172,7 @@ a.tp_link img:hover
 #articles_detail
 {
     clear: both;
-    width: 800px;
+    width: 720px;
 }
 
 #detail1,#detail2,#detail3,#detail4,#detail5,#detail6
