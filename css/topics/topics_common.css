@@ -108,7 +108,9 @@ ul
 #tp_title1,#tp_title2,#tp_title3,#tp_title4,#tp_title5
 {
     height: 4px;
+    background-color: #99CCCC
     color: #99CCCC;
+    border: none;
     display: none;
     margin: 0;
     padding: 0;
@@ -121,7 +123,7 @@ ul
 
 #articles_intro li h2:before
 {
-    content:"¡ü";
+    content:"¡ü ";
     color: #ee88bb;
 }
 
