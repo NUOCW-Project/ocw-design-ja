@@ -29,8 +29,6 @@ img#tp_door
 img#tp_Kanban
 {
     position: relative;
-/*    left: 0px;
-    top: 28px;*/
     left: -30px;
     top: -32px;
 }
@@ -137,8 +135,16 @@ div.tp_LInk p
     top: 60px;
     text-align: center;
     left: 0px;
+    height: 0;
+    overflow: visible;
     width: 100%;
     z-index: 1;
+    font-size: larger;
+}
+
+div.tp_LInk p:hover
+{
+    text-decorarion: none;
 }
 
 div.tp_LInk img 
@@ -166,6 +172,7 @@ a.tp_link img:hover
 #articles_detail
 {
     clear: both;
+    width: 800px;
 }
 
 #detail1,#detail2,#detail3,#detail4,#detail5,#detail6
