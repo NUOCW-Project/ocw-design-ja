@@ -142,7 +142,7 @@ div.tp_LInk p
     font-size: larger;
 }
 
-a.tp_LInk:hover
+a.tp_link:hover
 {
     text-decoration: none;
 }
