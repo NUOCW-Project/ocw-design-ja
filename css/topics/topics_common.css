@@ -53,6 +53,16 @@ ul
     padding: 0;
 }
 
+#articles_title li
+{
+    height: 120px;
+}
+
+#articles_title li img
+{
+    float: left;
+    clear: left;
+}
 
 #articles_title li a
 {
