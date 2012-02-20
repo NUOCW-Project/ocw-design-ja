@@ -55,7 +55,7 @@ ul
 
 #articles_title li
 {
-    height: 70px;
+    height: 90px;
 }
 
 #articles_title li img
@@ -93,7 +93,7 @@ ul
 
 #articles_intro{
     float: left;
-    width: 340px;
+    width: 370px;
     height: 250px;
     padding: 0;
     margin: 10px;
@@ -107,8 +107,11 @@ ul
 
 #tp_title1,#tp_title2,#tp_title3,#tp_title4,#tp_title5
 {
+    height: 4px;
     color: #99CCCC;
     display: none;
+    margin: 0;
+    padding: 0;
 }
 
 #articles_intro li h2 /* キャッチコピー */
@@ -118,8 +121,8 @@ ul
 
 #articles_intro li h2:before
 {
-    content:"● ";
-    color: ee88bb;
+    content:"●";
+    color: #ee88bb;
 }
 
 #articles_intro li hr

@@ -34,12 +34,12 @@
 
     <h2></h2>
     <span></span>    
-</a><hr id="tp_title5"></li>
+</a></li>
 <li><a onMouseOver="noDisplay('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');Display('intro6');noDisplay('tp_title1');noDisplay('tp_title2');noDisplay('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');Display('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');Display('detail6')">
 
     <h2></h2>
     <span></span>    
-</a><hr id="tp_title6"></li>
+</a></li>
 </ul>
 
 <ul id="articles_intro">
@@ -150,6 +150,7 @@
      </a>
 
 </li>
+<!--
 <li id="intro6">
     <h2></h2>
     <p class="lead">
@@ -161,6 +162,7 @@
      </div>
      </a>
 </li>
+-->
 </ul>
 <img src="./images/ja/topics3/asobi_Background2.jpg" id="tp3bg_under" alt="">
 
