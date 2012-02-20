@@ -55,13 +55,15 @@ ul
 
 #articles_title li
 {
-    height: 120px;
+    height: 70px;
 }
 
 #articles_title li img
 {
     float: left;
     clear: left;
+    width: 70px;
+    height: 70px;
 }
 
 #articles_title li a
@@ -91,7 +93,7 @@ ul
 
 #articles_intro{
     float: left;
-    width: 400px;
+    width: 340px;
     height: 250px;
     padding: 0;
     margin: 10px;
