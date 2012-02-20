@@ -55,7 +55,8 @@ ul
 
 #articles_title li
 {
-    height: 90px;
+    height: 80px;
+    position: relative;
 }
 
 #articles_title li img
@@ -114,6 +115,8 @@ ul
     display: none;
     margin: 0;
     padding: 0;
+    position: absolute;
+    bottom: 0;
 }
 
 #articles_intro li h2 /* キャッチコピー */
