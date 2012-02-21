@@ -11,7 +11,7 @@ Place: Nakatsugawa Training Center, Gifu<br />
 Participants: 16 Students (From grade 1 & grade 2)<br />
 Participant’s fees: 6000 Yen <br />
 </p>
-<img id="img4"  src="./images/common/nakatsugawa/nakatsugawapic4.jpg" align="mi
+<img id="img4"  src="./images/common/nakatsugawa/nakatsugawapic4-1.jpg" align="mi
 ddle">
 
 <p>
