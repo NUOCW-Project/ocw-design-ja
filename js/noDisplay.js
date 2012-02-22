@@ -27,5 +27,5 @@ function reColor(id){
 	|| document.getElementById && document.getElementById(id);
 
     if(obj)
-	obj.style.color="inherit";
+	obj.style.color="";
 }
