@@ -3,7 +3,7 @@
 <img alt="遊び・体験から学ぶ授業" src="./images/ja/topics3/asobi_Kanban.jpg" id="tp_Kanban">
 <!--</a>-->
 <ul id="articles_title">
-<li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<li><a href="#articles_detail" onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="千葉恵美子 教授" class="face" src="./images/ja/topics3/s_chiba.jpg">
     <h2 id="tp_title1">民法の世界で遊ぶ</h2>
     <span>法学研究科　千葉恵美子 教授</span>
@@ -19,7 +19,7 @@
        <h2 id="tp_title3">留学生と日本<br>〜異文化を通しての日本理解〜</h2>
        <span>留学生センター　浮葉正親 准教授</span>
 </a><hr id="blue_bar3"></li>
-<li><a onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
+<li><a onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="佐藤豊 准教授" class="face" src="./images/ja/topics3/s_sato.jpg">
     <h2 id="tp_title4">国内実地研修</h2>
     <span>農学部・生命農学研究科　 佐藤豊 准教授</span>    
