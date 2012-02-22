@@ -115,8 +115,8 @@ ul
     display: none;
     margin: 0;
     padding: 0;
-    position: absolute;
-    bottom: 0;
+/*    position: absolute;
+    bottom: 0;*/
 }
 
 #articles_intro li h2 /* キャッチコピー */
@@ -204,12 +204,14 @@ img.c_left
 {
     float: left;
     clear: both;
+    margin: 1em;
 }
 
 img.c_right
 {
     float: right;
     clear: both;
+    margin: 1em;
 }
 
 hr
