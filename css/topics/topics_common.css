@@ -200,6 +200,18 @@ a.tp_link img:hover
     display: none;
 }
 
+img.c_left
+{
+    float: left;
+    clear: both;
+}
+
+img.c_right
+{
+    float: right;
+    clear: both;
+}
+
 hr
 {
     clear: both;
