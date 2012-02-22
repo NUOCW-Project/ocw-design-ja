@@ -19,7 +19,7 @@ function Color(id){
 	|| document.getElementById && document.getElementById(id);
 
     if(obj)
-	obj.style.color="#99CCCC";
+	obj.style.color="#99CCCC !important";
 }
 
 function reColor(id){
