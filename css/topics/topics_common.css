@@ -193,7 +193,10 @@ a.tp_link img:hover
 #articles_detail
 {
     clear: both;
-    width: 740px;
+    width: 800px;
+    padding-left: 20px;
+    padding-right: 50px;
+    background-image: url("../../images/ja/topics3/background2.png");
 }
 
 #detail1,#detail2,#detail3,#detail4,#detail5,#detail6
