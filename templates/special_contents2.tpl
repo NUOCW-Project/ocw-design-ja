@@ -64,7 +64,6 @@
     </p>
 
   <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=23&page_type=index">
-<!--      <img src="./images/ja/topics3/clear.png">-->
       <p>千葉恵美子先生の<br>ページへ</p>
    </a>
 </li>
@@ -81,10 +80,7 @@
     </p>
 
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=143&page_type=index">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>千代勝実先生の<br>ページへ</p>
-     </div>
      </a>
 </li>
 <li id="intro3">
@@ -102,10 +98,7 @@
     </p>
 
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=22&page_type=index">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>浮葉正親先生の<br>ページへ</p>
-     </div>
      </a>
 </li>
 <li id="intro4">
@@ -122,10 +115,7 @@
     </p>
 
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=148&page_type=index">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>佐藤豊先生の<br>ページへ</p>
-     </div>
      </a>
 </li>
 <li id="intro5">
@@ -141,10 +131,7 @@
     </p>
 
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=25&page_type=index">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>有田隆也先生の<br>ページへ</p>
-     </div>
      </a>
 
 </li>
@@ -154,10 +141,7 @@
     <p class="lead">
     </p>
     <a class="tp_link" href="">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>先生の<br>ページへ</p>
-     </div>
      </a>
 </li>
 -->
