@@ -121,6 +121,7 @@ ul
 #articles_intro li
 {
     position: relative;
+    height: 100%;
 }
 
 #intro1,#intro2,#intro3,#intro4,#intro5,#intro6
