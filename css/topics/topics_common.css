@@ -95,7 +95,7 @@ ul
 #articles_title li a:hover
 {
     text-decoration: none;
-    color: inherit;
+    color: #020202;
 }
 
 #articles_title li a h2 /* コース名 */
