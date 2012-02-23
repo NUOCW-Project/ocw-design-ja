@@ -112,7 +112,7 @@ ul
 #articles_intro{
     float: left;
     width: 370px;
-    height: 250px;
+    height: 100%;
     padding: 0;
     margin: 10px;
     margin-bottom: 168px;
@@ -121,7 +121,6 @@ ul
 #articles_intro li
 {
     position: relative;
-    height: 100%;
 }
 
 #intro1,#intro2,#intro3,#intro4,#intro5,#intro6
