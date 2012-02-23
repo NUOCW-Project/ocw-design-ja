@@ -2,6 +2,10 @@
 <img alt="Ì¾Âç¤Î¼ø¶È TOPICS No.3" src="./images/ja/topics3/door.jpg" id="tp_door">
 <img alt="Í·¤Ó¡¦ÂÎ¸³¤«¤é³Ø¤Ö¼ø¶È" src="./images/ja/topics3/asobi_Kanban.jpg" id="tp_Kanban">
 <!--</a>-->
+
+<div id="tp_default">
+<img src="./images/ja/topics3/title.png" alt="Í·¤Ó¡¦ÂÎ¸³¤«¤é³Ø¤Ö¼ø¶È">
+<br>
 <ul id="articles_title">
 <li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="ÀéÍÕ·ÃÈþ»Ò ¶µ¼ø" class="face" src="./images/ja/topics3/s_chiba.jpg">
@@ -159,6 +163,7 @@
 </li>
 -->
 </ul>
+</div><!-- "tp_default" end -->
 
 <ul id="articles_detail">
 <li id="detail1">
