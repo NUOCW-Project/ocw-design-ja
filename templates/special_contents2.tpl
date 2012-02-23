@@ -59,6 +59,7 @@
 <br>３、もっと詳しく知りたかったら下の丸をクリック！
 <br>授業の詳しい説明が読めます。
 </p>
+<img src="./images/ja/topics3/link.png">
 </li>
 <li id="intro1">
     <h2>日常の中の法律</h2>
