@@ -3,7 +3,9 @@
 <!--</a>-->
 
 <div id="tp_default">
+<a onMouseOver="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
 <img src="./images/ja/topics3/title.png" alt="遊び・体験から学ぶ授業">
+</a>
 <br>
 <ul id="articles_title">
 <li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
@@ -45,12 +47,12 @@
 <div id="vertical_border"></div>
 
 <ul id="articles_intro">
-<!--<li id="intro_default">
+<li id="intro_default">
     <p>
     名古屋大学には、自らが様々な体験をすることで学習するという授業がたくさんあります。<br>
     そのような名大の個性的な授業を一度覗いてみませんか？
     </p>
-</li>-->	
+</li>
 <li id="intro1">
     <h2>日常の中の法律</h2>
     <p>
