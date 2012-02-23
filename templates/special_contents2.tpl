@@ -33,11 +33,13 @@
     <h2 id="tp_title5">ボードゲームを究める</h2>
     <span>情報文化学部　 有田隆也 教授</span>    
 </a><hr id="blue_bar5"></li>
+<!--
 <li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
 
     <h2 id="tp_title6"></h2>
     <span></span>
-</a></li>
+</a><hr id="blue_bar6"></li>
+-->
 </ul>
 
 <ul id="articles_intro">

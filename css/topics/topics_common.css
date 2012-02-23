@@ -39,7 +39,7 @@ div#tp_default
     background-repeat: no-repeat;
     width: 100%;
     margin: 0;
-    padding: 0px auto 0px 20px;
+    padding: 0;
     /*background-position: -20px 223px;*/
 }
 
@@ -66,7 +66,7 @@ ul
 {
     width: 340px;
     float: left;
-    margin: 10px;
+    margin: 10px 10px 0px 20px;
     padding: 0;
 }
 
@@ -118,6 +118,11 @@ ul
     margin-bottom: 168px;
 }
 
+#articles_intro li
+{
+    position: relative;
+}
+
 #intro1,#intro2,#intro3,#intro4,#intro5,#intro6
 {
     display: none;
@@ -160,9 +165,11 @@ div.tp_LInk
 {
     color: white;
     clear: both;
-    float: right;
+    /*float: right;*/
     text-align: center;
-    position: relative;
+    position: absolute;
+    right: 30px;
+    bottom: 10px;
     width: 166px;
     height: 168px;
 }
