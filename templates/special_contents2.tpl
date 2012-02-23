@@ -64,7 +64,7 @@
     </p>
 
   <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=23&page_type=index">
-      <img src="./images/ja/topics3/clear.png">
+<!--      <img src="./images/ja/topics3/clear.png">-->
       <p>千葉恵美子先生の<br>ページへ</p>
    </a>
 </li>

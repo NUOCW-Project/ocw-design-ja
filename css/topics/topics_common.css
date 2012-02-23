@@ -175,6 +175,9 @@ a.tp_link
     background-image:  url("../../images/ja/topics3/link.png");
     background-position: left top:
     background-repeat: no-repeat;
+    filter:alpha(opacity=75);
+    -moz-opacity: 0.75;
+    opacity: 0.75;
 }
 
 a.tp_link p
@@ -200,12 +203,9 @@ a.tp_link img
     width: 166px;
     height: 168px;
     z-index: 2;
-    filter:alpha(opacity=75);
-    -moz-opacity: 0.75;
-    opacity: 0.75;
 }
 
-a.tp_link img:hover
+a.tp_link:hover
 {
     filter:alpha(opacity=100);
     -moz-opacity: 1;
