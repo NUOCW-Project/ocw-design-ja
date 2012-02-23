@@ -106,12 +106,14 @@ ul
 
 #articles_title li a span /* ¶µ°÷Ì¾ */
 {
+    color: inherit;
     clear: left;
 }
 
 div#vertical_border
 {
-    height: 420px;
+    margin-top: 20px;
+    height: 400px;
     width: 0px;
     float: left;
     border-left: dashed 1px tan;
