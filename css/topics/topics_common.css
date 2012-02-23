@@ -13,10 +13,14 @@
     background-position: -20px 223px;*/
 }
 
+h1
+{
+    line-height: 150%;
+}
+
 h2
 {
     color: #cc6699;
-    line-height: 150%;
 }
 
 img#tp_door
