@@ -112,7 +112,6 @@ ul
 #articles_intro{
     float: left;
     width: 370px;
-    height: 100%;
     padding: 0;
     margin: 10px;
     margin-bottom: 168px;
@@ -120,6 +119,7 @@ ul
 
 #articles_intro li
 {
+    height: 375px;
     position: relative;
 }
 
@@ -217,7 +217,7 @@ a.tp_link img:hover
 #articles_detail
 {
     clear: both;
-    width: 730px;
+    width: 725px;
     margin: 0;
     padding: 20px 110px 20px 40px;
     background-image: url("../../images/ja/topics3/background2.png");
