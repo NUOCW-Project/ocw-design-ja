@@ -30,7 +30,7 @@
     <span>農学部・生命農学研究科　 佐藤豊 准教授</span>    
     <br><small>※2011年度担当は佐藤先生生ではありません</small>
 </a><hr id="blue_bar4"></li>
-<li><a href="#articles_detail" onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics_branches" onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="有田隆也 教授" class="face" src="./images/ja/topics3/s_arita.jpg">
     <h2 id="tp_title5">ボードゲームを究める</h2>
     <span>情報文化学部　 有田隆也 教授</span>    
