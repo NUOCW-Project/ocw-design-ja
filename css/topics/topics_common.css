@@ -37,7 +37,15 @@ div#tp_default
 {
     background-image: url("../../images/ja/topics3/background1.png");
     background-repeat: no-repeat;
+    min-height: 
     /*background-position: -20px 223px;*/
+}
+
+div#tp_default:after
+{
+     content: "";
+     display: block;
+     clear: both; 
 }
 
 ul
