@@ -1,6 +1,5 @@
 <!--<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">-->
 <img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.jpg" id="tp_door">
-<img alt="遊び・体験から学ぶ授業" src="./images/ja/topics3/asobi_Kanban.jpg" id="tp_Kanban">
 <!--</a>-->
 
 <div id="tp_default">
