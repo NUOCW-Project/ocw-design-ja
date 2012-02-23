@@ -159,7 +159,6 @@
 </li>
 -->
 </ul>
-<img src="./images/ja/topics3/asobi_Background2.jpg" id="tp3bg_under" alt="">
 
 <ul id="articles_detail">
 <li id="detail1">
