@@ -58,7 +58,7 @@
 <br>２、クリックするとインタビュー記事が表示されます。
 <br>３、もっと詳しく知りたかったら下の丸をクリック！
 <br>授業の詳しい説明が読めます。
-</p><a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=23&page_type=index">
+</p>
 </li>
 <li id="intro1">
     <h2>日常の中の法律</h2>
