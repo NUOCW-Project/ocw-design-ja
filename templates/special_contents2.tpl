@@ -1,55 +1,58 @@
 <!--<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">-->
-<img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.jpg" id="tp_door">
-<img alt="遊び・体験から学ぶ授業" src="./images/ja/topics3/asobi_Kanban.jpg" id="tp_Kanban">
+<img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.png" id="tp_door">
 <!--</a>-->
+
+<div id="tp_default">
+<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<img src="./images/ja/topics3/title.png" alt="遊び・体験から学ぶ授業">
+</a>
+<br>
 <ul id="articles_title">
-<li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('tp_title1');noDisplay('tp_title2');noDisplay('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="千葉恵美子 教授" class="face" src="./images/ja/topics3/s_chiba.jpg">
-    <h2>民法の世界で遊ぶ</h2>
+    <h2 id="tp_title1">民法の世界で遊ぶ</h2>
     <span>法学研究科　千葉恵美子 教授</span>
-</a><hr id="tp_title1"></li>
-<li><a onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('tp_title1');Display('tp_title2');noDisplay('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr id="blue_bar1"></li>
+<li><a href="#articles_detail" onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');Display('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');Color('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="千代勝実 講師" class="face" src="./images/ja/topics3/s_senyo.jpg">
-    <h2>物理学実験</h2>
+    <h2 id="tp_title2">物理学実験</h2>
     <span>教養教育院　千代勝実 講師</span>
     <br><small>※2011年度担当は千代先生ではありません</small>
-</a></li>
-<li><a onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('tp_title1');noDisplay('tp_title2');Display('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr id="blue_bar2"></li>
+<li><a href="#articles_detail" onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');Display('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');Color('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="浮葉正親 准教授" class="face" src="./images/ja/topics3/s_ukiba.jpg">
-       <h2>留学生と日本<br>〜異文化を通しての日本理解〜</h2>
+       <h2 id="tp_title3">留学生と日本<br>〜異文化を通しての日本理解〜</h2>
        <span>留学生センター　浮葉正親 准教授</span>
-</a><hr id="tp_title2"></li>
-<li><a onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('tp_title1');noDisplay('tp_title2');Display('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr id="blue_bar3"></li>
+<li><a href="#articles_detail" onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="佐藤豊 准教授" class="face" src="./images/ja/topics3/s_sato.jpg">
-    <h2>国内実地研修</h2>
+    <h2 id="tp_title4">国内実地研修</h2>
     <span>農学部・生命農学研究科　 佐藤豊 准教授</span>    
     <br><small>※2011年度担当は佐藤先生生ではありません</small>
-</a><hr id="tp_title3"></li>
-<li><a onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('tp_title1');noDisplay('tp_title2');noDisplay('tp_title3');Display('tp_title4');noDisplay('tp_title5');noDisplay('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr id="blue_bar4"></li>
+<li><a href="#articles_detail" onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="有田隆也 教授" class="face" src="./images/ja/topics3/s_arita.jpg">
-    <h2>ボードゲームを究める</h2>
+    <h2 id="tp_title5">ボードゲームを究める</h2>
     <span>情報文化学部　 有田隆也 教授</span>    
-</a><hr id="tp_title4"></li>
-<li><a onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('tp_title1');noDisplay('tp_title2');noDisplay('tp_title3');noDisplay('tp_title4');Display('tp_title5');noDisplay('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr id="blue_bar5"></li>
+<!--
+<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
 
-    <h2></h2>
-    <span></span>    
-</a></li>
-<li><a onMouseOver="noDisplay('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');Display('intro6');noDisplay('tp_title1');noDisplay('tp_title2');noDisplay('tp_title3');noDisplay('tp_title4');noDisplay('tp_title5');Display('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');Display('detail6')">
-
-    <h2></h2>
-    <span></span>    
-</a></li>
+    <h2 id="tp_title6"></h2>
+    <span></span>
+</a><hr id="blue_bar6"></li>
+-->
 </ul>
+
+<div id="vertical_border"></div>
 
 <ul id="articles_intro">
 <li id="intro_default">
-   <h2>このページの使い方</h2>
-左欄の興味がある授業へポインタを移動させると、授業の説明が出てきます。<br>
-クリックすると先生へのインタビューが表示されます。<br>
-もっと詳しく知りたかったら下の丸をクリック！授業の詳しい説明が読めます。
-
-</li>	
+    <p>
+    名古屋大学には、自らが様々な体験をすることで学習するという授業がたくさんあります。<br>
+    そのような名大の個性的な授業を一度覗いてみませんか？
+    </p>
+</li>
 <li id="intro1">
     <h2>日常の中の法律</h2>
     <p>
@@ -65,10 +68,7 @@
     </p>
 
   <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=23&page_type=index">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>千葉恵美子先生の<br>ページへ</p>
-     </div>
    </a>
 </li>
 <li id="intro2">
@@ -84,10 +84,7 @@
     </p>
 
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=143&page_type=index">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>千代勝実先生の<br>ページへ</p>
-     </div>
      </a>
 </li>
 <li id="intro3">
@@ -105,10 +102,7 @@
     </p>
 
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=22&page_type=index">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>浮葉正親先生の<br>ページへ</p>
-     </div>
      </a>
 </li>
 <li id="intro4">
@@ -125,10 +119,7 @@
     </p>
 
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=148&page_type=index">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>佐藤豊先生の<br>ページへ</p>
-     </div>
      </a>
 </li>
 <li id="intro5">
@@ -144,10 +135,7 @@
     </p>
 
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=25&page_type=index">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>有田隆也先生の<br>ページへ</p>
-     </div>
      </a>
 
 </li>
@@ -157,19 +145,16 @@
     <p class="lead">
     </p>
     <a class="tp_link" href="">
-    <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
       <p>先生の<br>ページへ</p>
-     </div>
      </a>
 </li>
 -->
 </ul>
-<img src="./images/ja/topics3/asobi_Background2.jpg" id="tp3bg_under" alt="">
+</div><!-- "tp_default" end -->
 
 <ul id="articles_detail">
 <li id="detail1">
-<h1>「基礎セミナー-民法の世界で遊ぶ」千葉恵美子先生からのメッセージ</h1>
+<h1>「民法の世界で遊ぶ」千葉恵美子先生からのメッセージ</h1>
 <p>公開されている授業に参加されていた当時文系学部の1年生であった方は、<br>
 私の知る限り、企業・地方公共団体で活躍されており、<br>
 また、今年の司法試験に現役合格された方が出るなど、みんなアクティブな人生を送っておられます。<br>
@@ -178,6 +163,7 @@
 <li id="detail2">
 <h1>「物理学実験」千代勝実先生インタビュー</h1>
 <p>1. 物理実験学について印象に残っていることは何ですか？</p>
+<img src="./images/ja/topics3/senyo1.jpg" class="c_right" alt="">
 <p>
 最近は理系学生でも実験、特に物理実験を高校でやっていたという学生はほとんどいないんですね。普通、やったことがなければどうしても尻込みしてしまうこともあるかなと思っていたのですが、積極的に実験に参加する学生が多く、質問等を通じてコミュニケーションがとれました。</p>
 <p><b>―その質問というのは、どういった内容のものでしたか？</b></p>
@@ -191,6 +177,7 @@
 <p>
 確かに、高校時代までに授業で習ってきたような内容というのが、実際に実験してみると教科書等に書いてある通りにはうまくできないということがあります。そういうことをちょっと学んでもらって、現実と理論をつなげていく上で案外実際にやってみるというのは難しいということを一つ学んでいただきたいですね。将来研究者、もしくはそれに近いことをやっていく場合、特に学部４年生や、大学院生になった時新しい実験、新しいことを見つけるための研究、基本的な、当たり前なことをずっとやっていくことになりますが、必ずしもそれはテキスト通りにやるだけではなく、新しい発見への準備だと思って実験をしていくと非常に有意義だと思います。毎日のトレーニングといいますか、実験をきちっと行えることが将来の新しい研究や発見につながると思います。
 </p>
+<img src="./images/ja/topics3/senyo2.jpg" class="c_left" alt="">
 <p><b>３. 実験だからこそ学べることは何だと思いますか？</b></p>
 <p>
 これまでテキストのみで学んできたことというのは物理にしろ化学にしろ見たり観測したり実験してみたりとそういうところからスタートしてテキストが出来あがっているので、普通の高校生は逆から勉強していることになるわけですね。もともとの発見から考えると。<br>
@@ -203,6 +190,7 @@
 <b>1. 授業の中で印象に残っていること・良かったことは何ですか?</b></p>
 <p>
 留学生と日本人の学生たちがだんだん仲良くなっていくことですね。授業時間以外にも日本人と留学生は会っています。発表の準備などで集まらざるを得ないようにカリキュラムを組んでいますから(笑)その他にも、飲みに行ったりして交流しているようです。</p>
+<img src="./images/ja/topics3/ukiba1.jpg" class="c_left" alt="">
 <p><b>―普段の学生生活だけでは、なかなか留学生と仲良くなる機会はないですよね。</b></p>
 <p>
 浮:ええ、名古屋大学には留学生はたくさんいますが、キャンパス内を見ているとそこまで日本人と留学生は交流していない。ですが、この授業で留学生と仲良くなって、休みの時にその留学生の故郷に遊びに行くことなどができたら楽しいですよね。
@@ -216,6 +204,7 @@
 <p><b>―授業では学生主体なんですね。</b></p>
 <p>
 浮:私は生徒のやっていることに下手に口出しをしないようにしています。わざと学生に失敗させる。出来なかったことこそが大事だと思います。授業の後にはフィードバック(授業の振り返り)をして、出来なかったことをいかに出来るようにするかをみんなで考えるようにしています。</p>
+<img src="./images/ja/topics3/ukiba2.jpg" class="c_right" alt="">
 <p><b>3. 留学生と日本人の交流という「体験」によって学べることは何ですか?</b></p>
 <p>浮:この授業では、違う価値観を持った人と話すことができ、いろんな意見と出会うことができます。これからの人生では必ず違う考え方に出会うことが起こります。違う考え方とぶつかったときに、どうするか。それをシュミレーションし体験することによって、解決策を考え、学ぶことができます。</p>
 <p><b>―深いですね。</b></p>
@@ -230,7 +219,8 @@
 <li id="detail4">
 <h1>「国内実地研修」佐藤豊先生インタビュー</h1>
 <p><b>1. 「国内実地研修」の授業の中で一番印象に残っていることを教えて下さい。</b></p>
-<p>学生さんたちが三日間の研修を終えたあとに、発表会を毎年開いて、研修して感じたこと、何をやったか、みんなの前で発表してもらうようにしているんですけど、なかには、研修に行って非常に大きな収穫があったって言って帰ってくる子もいるもんだから、そういう子を見てると担当して良かったなあと思います。</p>
+<p>学生さんたちが三日間の研修を終えたあとに、発表会を毎年開いて、研修して感じたこと、何をやったか、みんなの前で発表してもらうようにしているんですけど、なかには、研修に行って非常に大きな収穫があったって言って帰ってくる子もいるもんだから、そういう子を見てると担当して良かったなあと思います。
+<img src="./images/ja/topics3/sato.jpg" class="c_right" alt=""></p>
 <p><b>―具体的にはどのような学生さんがいましたか？</b></p>
 <p>愛知県農業総合試験場の企画のところに行った子がいますね。実際に研究をやってる部署ではなくて、研究所の運営に関わっている部署です。研究を記者発表する日に、その発表のお手伝いをしたそうです。その子は「直接重要な研究に手を動かしてなくても、いろんな形で農業だとか農業研究に貢献できるっていうのが分かった。」っていうのを発表していました。そういった、もっと幅広い意味での「農学部で学んだことが役に立つ」ということを理解してくれた人がいたっていうのは非常に印象に残ってますね。</p>
 <p><b>2. 実習の前と後で学生に変化は見られましたか？</b></p>
@@ -239,7 +229,9 @@
 ええ、そうなってくると全体の授業の、カリキュラムの作られてる全体像がますます見えなくなっていって、あたかも自分の進路に関して、どんどん選択肢を狭めているような形で、ついつい勉強していきがちです。そうした時に、農学部全体のカリキュラムが自分たちの将来にどう活かされるかっていうのを実地研修で実際に外へ行って見てきてもらえば、必ずしも何かひとつを極めたからその先が広がってるわけではなく、より幅広い視野を持って授業に取り組むことで、色んな科目がどういうふうに関わっていくのか見えてくる。そのようなことが、授業をやる前と後で学生さんの意識として、変わっていればいいと思います。
 <p>
 <p><b>4. 体験でこそ学べることとはどのようなものだとお考えですか。</b></p>
-<p>体験型の授業は僕はすごく重要だと思いますね。普通の先生からある程度内容を提供する形の授業っていうのは、学生さんたちの、質問なり何かインタラクティブなやりとりがあるとしても基本的には先生が想定した授業の範囲の中でのトピックスを元に、話が進んでいくと思います。ですけど、体験型授業っていうのはそういうくくりがないですよね。僕自身も研修先の方が何を見せているのか、何をやらせているのかについて実は知らないんですね。もう完全に先方に任せている。「向こうの日々の業務を、今の時期やらなきゃいけないことをさせてください。」という形で、職業人の方が普段接している職業を分担していってもらう、という形なので、まさに何が起こるか分からないし、何をやるのかも分からない。その中で「どうやったら自分が役に立つのか」、「自分の学んできたことがどのようにに活かされるのか」を常に考えながら、学生がケースバイケースで対応せざるをえない。そういうふうにあらかじめメニューがない上で、自分たちが何かを学び取れるっていうのが魅力なんじゃないかなと思います。それぞれの学生さんが積極的に取り組めば取り組むほど、学ぶ物は自分できちっと見えてくる、そこが体験学習のいいところじゃないかと思っています。</p>
+<p>
+<img src="./images/ja/topics3/sato2.jpg" class="c_left" alt="">
+体験型の授業は僕はすごく重要だと思いますね。普通の先生からある程度内容を提供する形の授業っていうのは、学生さんたちの、質問なり何かインタラクティブなやりとりがあるとしても基本的には先生が想定した授業の範囲の中でのトピックスを元に、話が進んでいくと思います。ですけど、体験型授業っていうのはそういうくくりがないですよね。僕自身も研修先の方が何を見せているのか、何をやらせているのかについて実は知らないんですね。もう完全に先方に任せている。「向こうの日々の業務を、今の時期やらなきゃいけないことをさせてください。」という形で、職業人の方が普段接している職業を分担していってもらう、という形なので、まさに何が起こるか分からないし、何をやるのかも分からない。その中で「どうやったら自分が役に立つのか」、「自分の学んできたことがどのようにに活かされるのか」を常に考えながら、学生がケースバイケースで対応せざるをえない。そういうふうにあらかじめメニューがない上で、自分たちが何かを学び取れるっていうのが魅力なんじゃないかなと思います。それぞれの学生さんが積極的に取り組めば取り組むほど、学ぶ物は自分できちっと見えてくる、そこが体験学習のいいところじゃないかと思っています。</p>
 </li>
 <li id="detail5">
 </li>
