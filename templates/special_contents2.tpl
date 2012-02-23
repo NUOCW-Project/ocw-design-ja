@@ -1,5 +1,5 @@
 <!--<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">-->
-<img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.jpg" id="tp_door">
+<img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.png" id="tp_door">
 <!--</a>-->
 
 <div id="tp_default">
@@ -65,7 +65,7 @@
 
   <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=23&page_type=index">
     <div class="tp_LInk">
-      <img src="./images/ja/topics3/asobi_LInk.jpg">
+      <img src="./images/ja/topics3/clear.png">
       <p>千葉恵美子先生の<br>ページへ</p>
      </div>
    </a>
