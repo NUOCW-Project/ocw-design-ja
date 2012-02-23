@@ -111,10 +111,10 @@ ul
 
 div#vertical_border
 {
-    height: 820px;
+    height: 420px;
     width: 0px;
     float: left;
-    border-left: dashed 1px;
+    border-left: dashed 1px tan;
 }
 
 #articles_intro{
