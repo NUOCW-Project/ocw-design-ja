@@ -161,11 +161,11 @@ ul
     color: #cc6699;
 }
 
-div.tp_LInk
+a.tp_link
 {
+    display: block;
     color: white;
     clear: both;
-    /*float: right;*/
     text-align: center;
     position: absolute;
     right: 30px;
@@ -175,7 +175,7 @@ div.tp_LInk
     background-image:  url("../../images/ja/topics3/link.png");
 }
 
-div.tp_LInk p
+a.tp_link p
 {
     position: absolute;
     top: 57px;
@@ -193,15 +193,11 @@ a.tp_link:hover
     text-decoration: none;
 }
 
-div.tp_LInk img 
+a.tp_link img 
 {
     width: 100%;
     height: 100%;
     z-index: 2;
-}
-
-a.tp_link img
-{
     filter:alpha(opacity=75);
     -moz-opacity: 0.75;
     opacity: 0.75;
