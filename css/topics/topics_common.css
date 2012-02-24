@@ -132,12 +132,21 @@ div#vertical_border
     /*margin-bottom: 168px;*/
 }
 
+<<<<<<< .mine
+img.sample{
+    position: absolute;
+top: 200px;
+left: 200px ;
+}
+
+=======
 #articles_intro li
 {
     height: 400px;
     position: relative;
 }
 
+>>>>>>> .r6713
 #intro1,#intro2,#intro3,#intro4,#intro5,#intro6
 {
     display: none;
