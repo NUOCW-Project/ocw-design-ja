@@ -53,11 +53,11 @@
 <hr>
 <p class="lead">
 <table border="1">
-<tr><td align="texttop">1,</td><td>左欄の興味がある授業へポインタを移動させると、
-<br>授業の説明が出てきます。</td></tr>
+<tr><td>1,</td><td>左欄の興味がある授業へポインタを移動させると、</td></tr>
+<tr><td></td><td>授業の説明が出てきます。</td></tr>
 <tr><td>2,</td><td>クリックするとインタビュー記事が表示されます。</td></tr>
-<tr><td align="texttop">3,</td><td>もっと詳しく知りたかったら下の丸をクリック！
-<br>授業の詳しい説明が読めます。</td></tr>
+<tr><td>3,</td><td>もっと詳しく知りたかったら下の丸をクリック！</td></tr>
+<tr><td></td><td>授業の詳しい説明が読めます。</td></tr>
 </table>
 </p>
 <a class="tp_link"><p>ここをクリック！</p></a>
