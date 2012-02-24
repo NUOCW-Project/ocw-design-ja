@@ -48,20 +48,20 @@
 
 <ul id="articles_intro">
 <li id="intro_default">
-</li>    <p>
 <h2>始めに</h2>
 <p>このページの使い方</p>
 <hr>
 <p>
 <ol>
-<li>左欄の興味がある授業へポインタを移動させると、
+<li class="sample_list">左欄の興味がある授業へポインタを移動させると、
 <br>授業の説明が出てきます。</li>
-<li>クリックするとインタビュー記事が表示されます。
+<li class="sample_list">クリックするとインタビュー記事が表示されます。
 </li>
-<li>もっと詳しく知りたかったら下の丸をクリック！
+<li class="sample_list">もっと詳しく知りたかったら下の丸をクリック！
 <br>授業の詳しい説明が読めます。</li>
 </ol>
 </p>
+<li>
 <a class="tp_link"><p>ここをクリック！</p></a>
 
 <li id="intro1">
