@@ -52,7 +52,7 @@
 <p>このページの使い方</p>
 <hr>
 <p class="lead">
-<table border="1">
+<table border="0">
 <tr><td>1,</td><td>左欄の興味がある授業へポインタを移動させると、</td></tr>
 <tr><td></td><td>授業の説明が出てきます。</td></tr>
 <tr><td>2,</td><td>クリックするとインタビュー記事が表示されます。</td></tr>
