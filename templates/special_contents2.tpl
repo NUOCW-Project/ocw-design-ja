@@ -61,7 +61,7 @@
 <br>授業の詳しい説明が読めます。</li>
 </ol>
 </p>
-<li>
+</li>
 <a class="tp_link"><p>ここをクリック！</p></a>
 
 <li id="intro1">
