@@ -48,7 +48,7 @@
 
 <ul id="articles_intro">
 <li id="intro_default">
-    <p>
+</li>    <p>
 <h2>始めに</h2>
 <p>このページの使い方</p>
 <hr>
@@ -63,7 +63,7 @@
 </ol>
 </p>
 <a class="tp_link"><p>ここをクリック！</p></a>
-</li>
+
 <li id="intro1">
     <h2>日常の中の法律</h2>
     <p>
