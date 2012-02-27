@@ -3,29 +3,13 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
-<!-- Î±³ØÀ¸¤ÎÀ¼ -->
-<div id="student" class="student_ja">
-  <div id="interview_video_frame">
-    <div id="interview_title"><img src="./images/common/student/interview_title_life_in_japan.png" alt="About life in Japan"></div>
-    <div id="interview_video">
-     <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="302" height="272">
-        <param name="movie" value="player.swf">
-        <param name="quality" value="high">
-        <param name="wmode" value="transparent">
-        <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/nihon_seikatsu3.flv">
-        <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/nihon_seikatsu3.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="302" height="272"></embed>
-      </object>
-    </div>
+<!-- Í·¤ÓÂÎ¸³ -->
+<div>
+<img src="./images/common/student/interview_title_life_in_japan.png" alt="About life in Japan">
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_branches">
+          </a>
   </div>
-  <div id="more_video_button">
-    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_branches">
-       <img src="./images/common/student/morevideos.png"
-       	    onMouseOver="this.src='./images/common/student/morevideos_on.png'"
-	    onMouseOut="this.src='./images/common/student/morevideos.png'"
-	    alt="more videos">
-    </a>
-  </div>
-</div><!-- student_en end -->
+<!-- Í·¤ÓÂÎ¸³ end -->
 
 
 <div class="inline">
