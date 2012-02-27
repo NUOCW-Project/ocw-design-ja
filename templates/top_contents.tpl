@@ -18,7 +18,7 @@
     </div>
   </div>
   <div id="more_video_button">
-    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics">
+    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_branches">
        <img src="./images/common/student/morevideos.png"
        	    onMouseOver="this.src='./images/common/student/morevideos_on.png'"
 	    onMouseOut="this.src='./images/common/student/morevideos.png'"
