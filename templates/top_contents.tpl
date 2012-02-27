@@ -5,7 +5,7 @@
 
 <!-- 遊び体験 -->
 <div>
-<img src="./images/common/student/interview_title_life_in_japan.png" alt="About life in Japan">
+<img src="./images/ja/topics3/header.png" alt="名大の授業 TOIPCS　No.3 遊び体験から学ぶ授業">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_branches">
           </a>
   </div>
