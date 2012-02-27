@@ -34,7 +34,7 @@
   <link rel="stylesheet" type="text/css" href="css/welcome.css">
 {elseif $page_type=='topics'}
   {if $lang=='ja'}
-    <link rel="stylesheet" type="text/css" href="css/topics/topics/common.css">
+    <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   {elseif $lang=='en'}
     <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
   {/if}
