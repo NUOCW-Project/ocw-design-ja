@@ -27,3 +27,10 @@ img#img4 {
     position: absolute;
     top: 60px;
 }
+
+img#img5 {
+    height: 198px;
+    margin: 100px -279px 0px 10px;
+    width: 279px;
+    float: right;
+}
