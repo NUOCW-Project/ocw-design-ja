@@ -1,25 +1,29 @@
-img#img1{
-width: 320px;
-height: 200px;
-margin: 0 200px;
+img#img1 {
+    height: 194px;
+    margin: 50px 32px 0 0;
+    width: 278px;
+    float: right;
 }
 
-img#img2{
-width: 320px;
-height: 200px;
-margin: 0 200px;
+img#img2 {
+    height: 198px;
+    margin: 100px -279px 0px 10px;
+    width: 279px;
+    float: right;
 }
 
-img#img3{
-width: 320px;
-height: 400px;
-margin: 0 200px;
+img#img3 {
+    height: 400px;
+    margin: -111px 0px;
+    width: 320px;
+    float: right;
 }
 
-img#img4{
-    width: 250px;
-    height: 180px;
-    position: absolute;
-    top: 20px;
+img#img4 {
+    height: 194px;
     left: 600px;
+    width: 278px;
+    float: right;
+    position: absolute;
+    top: 60px;
 }
