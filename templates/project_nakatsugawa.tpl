@@ -2,10 +2,11 @@
 <h1>
  Nakatsugawa Project 2011</td>
 </h1>
-<img id="img4"  src="./images/common/nakatsugawa/s_nakatsugawapic5.jpg" align="middle">
-<img id="img1"  src="./images/common/nakatsugawa/s_nakatsugawapic1.jpg" align="middle">
-<img id="img2"  src="./images/common/nakatsugawa/s_nakatsugawapic2.jpg" align="middle">
-<img id="img3"  src="./images/common/nakatsugawa/nakatsugawapic3.jpg" align="middle">
+<p>
+<img id="img4"  src="./images/common/nakatsugawa/s_nakatsugawapic5.jpg" align="middle"></p>
+<p><img id="img1"  src="./images/common/nakatsugawa/s_nakatsugawapic1.jpg" align="middle"></p>
+<p><img id="img2"  src="./images/common/nakatsugawa/s_nakatsugawapic2.jpg" align="middle"></p>
+<p><img id="img3"  src="./images/common/nakatsugawa/nakatsugawapic3.jpg" align="middle"></p>
 <p>
 Sponsor: Nagoya University<br />
 Date: 2011.08.09~2011.08.11<br />
