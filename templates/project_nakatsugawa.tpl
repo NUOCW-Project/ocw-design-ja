@@ -4,9 +4,7 @@
 </h1>
 <p>
 <img id="img4"  src="./images/common/nakatsugawa/s_nakatsugawapic5.jpg" align="middle"></p>
-<p><img id="img1"  src="./images/common/nakatsugawa/s_nakatsugawapic1.jpg" align="middle"></p>
-<p><img id="img2"  src="./images/common/nakatsugawa/s_nakatsugawapic2.jpg" align="middle"></p>
-<p><img id="img3"  src="./images/common/nakatsugawa/nakatsugawapic3.jpg" align="middle"></p>
+
 <p>
 Sponsor: Nagoya University<br />
 Date: 2011.08.09~2011.08.11<br />
@@ -15,7 +13,7 @@ Participants: 16 Students (From grade 1 & grade 2)<br />
 Participant’s fees: 6000 Yen <br />
 </p>
 
-
+<p><img id="img1"  src="./images/common/nakatsugawa/s_nakatsugawapic1.jpg" align="middle"></p>
 <p>
  <n\>During the Summer Vacation(2011.08.09~2011.08.11), the students of School of Education of Nagoya University affiliated Senior High School, went to Nakatsugawa Training Center of Nagoya University. The project is run by Nagoya University with an objective to provide the students with some practical skill based lesson what they can’t learn from textbook. It’s another objective is to introduce them with the education system of Nagoya University and make them ready for it.<br />
 <br />
@@ -24,7 +22,7 @@ Participant’s fees: 6000 Yen <br />
 <br />
 But in Japan, the picture is totally different. People here are not at all interested to cut forest trees! .As a result, Japanese forest is now full of a lot of old, tall and high trees. This is hampering the environment in another way. The sunlight can’t reach the ground and it may damage the environment of the forest. To maintain the ecological balance we need to cut the forest trees and seed up the new trees. We must not just cut the trees and throw them as garbage, as because trees are one of the most useful things. We need to learn the uses and the method of using forest trees so that we can make proper utilization of them.
 </p>
-
+<p><img id="img2"  src="./images/common/nakatsugawa/s_nakatsugawapic2.jpg" align="middle"></p>
 <p>
 <n\>After reaching Kashimo of Nakatsugawa City, we visited the forest of Kashimo and learned how to cut the forest tree. It was interesting indeed.
 </p>
@@ -37,6 +35,7 @@ But in Japan, the picture is totally different. People here are not at all inter
 <p>
 <n\>Then we enjoyed the exhibition of the model house made from forest wood. The house was eco-friendly and easy to build, less expensive also. 
 </p>
+<p><img id="img3"  src="./images/common/nakatsugawa/nakatsugawapic3.jpg" align="middle"></p>
 <p>
 <n\>At the end of the day 1, the students acquired some practical knowledge about the detailed process of building an eco-friendly model house from forest trees. They learned an interesting and beneficial lesson that they can’t learn from the textbook and it’s the objective of the Nakatsugawa project.
 </p>
