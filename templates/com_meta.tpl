@@ -34,7 +34,7 @@
   <link rel="stylesheet" type="text/css" href="css/welcome.css">
 {elseif $page_type=='topics'}
   {if $lang=='ja'}
-    <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+    <link rel="stylesheet" type="text/css" href="css/special.css">
   <link rel="stylesheet" type="text/css" href="css/topics.css">
 
   {elseif $lang=='en'}
@@ -43,8 +43,9 @@
 {elseif $lang=='ja' && $page_type=='topics2010'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
   <link rel="stylesheet" type="text/css" href="css/topics.css">
+
 {elseif $lang=='ja' && $page_type=='topics_branches'}
-  <link rel="stylesheet" type="text/css" href="css/special.css">
+  <link rel="stylesheet" type="text/css" href="css/toipcs/topics_common.css">
 
 {elseif $lang=='en' && $page_type=='project_nakatsugawa'}
 <link rel="stylesheet" type="text/css" href="css/project_nakatsugawa.css">
