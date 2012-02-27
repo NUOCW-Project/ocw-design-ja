@@ -5,8 +5,8 @@
 
 <!-- 遊び体験 -->
 <div>
-<img src="./images/ja/topics3/header.png" alt="名大の授業 TOIPCS　No.3 遊び体験から学ぶ授業">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_branches">
+<img src="./images/ja/topics3/header.png" alt="名大の授業 TOIPCS　No.3 遊び体験から学ぶ授業" width="695" height="400" >
           </a>
   </div>
 <!-- 遊び体験 end -->
