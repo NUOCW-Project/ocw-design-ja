@@ -8,7 +8,7 @@
 </a>
 <br>
 <ul id="articles_title">
-<li><a onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<li><a href="#articles_detail" onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="千葉恵美子 教授" class="face" src="./images/ja/topics3/s_chiba.jpg">
     <h2 id="tp_title1">民法の世界で遊ぶ</h2>
     <span>法学研究科　千葉恵美子 教授</span>
@@ -52,13 +52,12 @@
 <p>このページの使い方</p>
 <hr>
 <p class="lead">
-<table border="0">
-<tr><td>1,</td><td>左欄の興味がある授業へポインタを移動させると、</td></tr>
-<tr><td></td><td>授業の説明が出てきます。</td></tr>
-<tr><td>2,</td><td>クリックするとインタビュー記事が表示されます。</td></tr>
-<tr><td>3,</td><td>もっと詳しく知りたかったら下の丸をクリック！</td></tr>
-<tr><td></td><td>授業の詳しい説明が読めます。</td></tr>
-</table>
+<ol><li>
+左欄の興味がある授業へポインタを移動させると、<br>授業の説明が出てきます。
+</li><li>クリックするとインタビュー記事が表示されます。
+</li><li>もっと詳しく知りたかったら下の丸をクリック！<br>授業の詳しい説明が読めます。
+</li>
+</ol>
 </p>
 <a class="tp_link"><p>ここをクリック！</p></a>
 </li>
