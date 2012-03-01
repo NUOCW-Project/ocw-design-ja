@@ -85,7 +85,10 @@
   </div>
 <!-- 開講していない授業に"アーカイブ"と明記する -->
 {if $course_info.archive == t}
-<p>archive</p>
+  {if $lang=='ja'}
+<p>アーカイブ</p>※現在この講義は開講されていません
+  {else}
+  {/if}
 {/if}
   <h2>{$course_info.course_name}</h2>
       
@@ -146,12 +149,19 @@ Last update : {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/'
 </div>
 
 <div id="release_disclaimer">
-{if $lang=='ja'}
+{if $courseinfo.archive == t><!-- アーカイブの場合 -->
+  {if $lang=='ja'}
+現在、この講義は開講されていません。
+  {else}
+  {/if}
+{else}
+  {if $lang=='ja'}
 最終更新日の時点の講義内容で公開を行っております。<br>
 最新年度の講義と内容が異なる可能性がありますのでご注意ください。
-{else}
+  {else}
 We do public lectures at the last modified date.
 Please note that you may have different contents of the lectures.
+  {/if}
 {/if}
 </div>
 {/if}
