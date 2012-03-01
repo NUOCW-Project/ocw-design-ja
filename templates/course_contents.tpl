@@ -88,7 +88,9 @@
   {if $lang=='ja'}
 <p>アーカイブ</p>※現在この講義は開講されていません
   {else}
+<!-- 英語の場合のarchive表記を入れる -->
   {/if}
+開講しています。
 {/if}
   <h2>{$course_info.course_name}</h2>
       
@@ -151,6 +153,7 @@ Last update : {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/'
 <div id="release_disclaimer">
 {if $courseinfo.archive == t}<!-- アーカイブの場合 -->
   {if $lang=='ja'}
+最終更新日の時点の講義内容で公開しております。<br>
 現在、この講義は開講されていません。
   {else}
   {/if}
