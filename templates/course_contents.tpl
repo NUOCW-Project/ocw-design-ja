@@ -86,10 +86,12 @@
 <!-- 開講していない授業に"アーカイブ"と明記する -->
 {if empty($course_info.archive)}
   {if $lang=='ja'}
-<span style="background:#FF0000; color:#FFFFFF;">アーカイブ</span>
-<font color="#FF0000">※現在この講義は開講されていません</font>
-  {else}
-<!-- 英語の場合のarchive表記を入れる -->
+<p>
+<span style="background:#EE0000; color:#FFFFFF;">アーカイブ</span><!-- コースタイトルの色は #DD0000 -->
+<font color="#EE0000">※現在この講義は開講されていません</font>
+</p>
+  {else}<!-- 英語の場合のarchive表記 -->
+<span style="background:#FF0000; color:#FFFFFF;">archive</span>
   {/if}
 {/if}
   <h2>{$course_info.course_name}</h2>
