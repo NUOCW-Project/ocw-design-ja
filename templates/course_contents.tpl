@@ -86,7 +86,7 @@
 <!-- 開講していない授業に"アーカイブ"と明記する -->
 {if empty($course_info.archive)}
   {if $lang=='ja'}
-<span style="background:#FF0000; color:FFFFFF;">アーカイブ</span>
+<span style="background:#FF0000; color:#FFFFFF;">アーカイブ</span>
 <font color="#FF0000">※現在この講義は開講されていません</font>
   {else}
 <!-- 英語の場合のarchive表記を入れる -->
@@ -151,7 +151,7 @@ Last update : {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/'
 </div>
 
 <div id="release_disclaimer">
-{if $courseinfo.archive == t}<!-- アーカイブの場合 -->
+{if empty($courseinfo.archive)}<!-- アーカイブの場合 -->
   {if $lang=='ja'}
 最終更新日の時点の講義内容で公開しております。<br>
 現在、この講義は開講されていません。
