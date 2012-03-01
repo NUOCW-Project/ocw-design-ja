@@ -149,7 +149,7 @@ Last update : {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/'
 </div>
 
 <div id="release_disclaimer">
-{if $courseinfo.archive == t><!-- アーカイブの場合 -->
+{if $courseinfo.archive == t}<!-- アーカイブの場合 -->
   {if $lang=='ja'}
 現在、この講義は開講されていません。
   {else}
