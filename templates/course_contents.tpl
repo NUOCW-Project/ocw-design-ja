@@ -86,7 +86,7 @@
 <!-- 開講していない授業に"アーカイブ"と明記する -->
 {if $course_info.archive == t}
 <p>archive</p>
-{/if]      
+{/if}
   <h2>{$course_info.course_name}</h2>
       
   <div id="data"><!-- 背景灰色のボックス -->
