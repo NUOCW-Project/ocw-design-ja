@@ -90,6 +90,7 @@
   {else}
 <!-- 英語の場合のarchive表記を入れる -->
   {/if}
+{else}
 開講しています。
 {/if}
   <h2>{$course_info.course_name}</h2>
