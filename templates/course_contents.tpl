@@ -84,14 +84,13 @@
      {/foreach}</p>
   </div>
 <!-- 開講していない授業に"アーカイブ"と明記する -->
-{if $course_info.archive == t}
+{if $course_info.archive == f}
   {if $lang=='ja'}
-<p>アーカイブ</p>※現在この講義は開講されていません
+<span style="background:#FF0000; color:FFFFFF>アーカイブ</span>
+<font color="#FF0000">※現在この講義は開講されていません</font>
   {else}
 <!-- 英語の場合のarchive表記を入れる -->
   {/if}
-{else}
-開講しています。
 {/if}
   <h2>{$course_info.course_name}</h2>
       
