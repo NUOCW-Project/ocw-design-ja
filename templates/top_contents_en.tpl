@@ -2,7 +2,7 @@
   <img src="./images/common/t_topics.png" alt="Topics">
   <img src="./images/common/redline.gif" class="line" alt="">
     <a href="./courselist.php?lang=en&mode=l&page_type=nktgw">
-       <img src="./images/en/nktgw_header.png" alt="Nakatsugawa_Project">
+       <img src="./images/en/topic_banner.png" alt="Nakatsugawa_Project">
     </a>
 <!-- student" end -->
 
