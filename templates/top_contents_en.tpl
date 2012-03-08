@@ -4,8 +4,7 @@
     <a href="./courselist.php?lang=en&mode=l&page_type=nktgw">
        <img src="./images/en/nktgw_header.png" alt="Nakatsugawa_Project">
     </a>
-  </div>
-</div><!-- student" end -->
+<!-- student" end -->
 
 <div class="inline">
 
