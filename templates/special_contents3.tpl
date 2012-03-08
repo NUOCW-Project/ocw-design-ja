@@ -18,46 +18,46 @@ ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_
 ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reCo\
 lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('det\
 ail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
-    <img alt="千葉恵美子 教授" class="face" src="./images/ja/topics3/s_chiba.jpg">
-    <h2 id="tp_title1">民法の世界で遊ぶ</h2>
-    <span>法学研究科　千葉恵美子 教授</span>
+    <img alt="前川浩隆" class="face" src="./images/ja/topics3/s_chiba.jpg">
+    <h2 id="tp_title1">ブーメランはなぜ戻ってくるのか </h2>
+    <span>物理学科4年 前川浩隆</span>
 </a><hr id="blue_bar1"></li>
 <li><a href="#articles_detail" onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');Display('blue_bar2');noDisplay('bl\
 ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');Color('tp_title2');reCo\
 lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail2');noDisplay('det\
 ail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
-    <img alt="千代勝実 講師" class="face" src="./images/ja/topics3/s_senyo.jpg">
-    <h2 id="tp_title2">物理学実験</h2>
-    <span>教養教育院　千代勝実 講師</span>
-    <br><small>※2011年度担当は千代先生ではありません</small>
+    <img alt="森義治" class="face" src="./images/ja/topics3/s_senyo.jpg">
+    <h2 id="tp_title2">コンピュータでみる物理，化学，生命の世界</h2>
+    <span>理学研究科物質理学専攻(物理系)TB研 森義治</span>
+   
 </a><hr id="blue_bar2"></li>
 <li><a href="#articles_detail" onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');Display('bl\
 ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');Co\
 lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail3');noDisplay('det\
 ail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
-    <img alt="浮葉正親 准教授" class="face" src="./images/ja/topics3/s_ukiba.jpg">
-       <h2 id="tp_title3">留学生と日本<br>〜異文化を通しての日本理解〜</h2>
-       <span>留学生センター　浮葉正親 准教授</span>
+    <img alt="榎本成志" class="face" src="./images/ja/topics3/s_ukiba.jpg">
+       <h2 id="tp_title3">素粒子の世界</h2>
+       <span>E研 榎本成志</span>
 </a><hr id="blue_bar3"></li>
 <li><a href="#articles_detail" onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('\
 blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');re\
 Color('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('d\
 etail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
-    <img alt="佐藤豊 准教授" class="face" src="./images/ja/topics3/s_sato.jpg">
-    <h2 id="tp_title4">国内実地研修</h2>
-    <span>生命農学研究科　 佐藤豊 准教授</span>
-    <br><small>※2011年度担当は佐藤先生ではありません</small>
+    <img alt="安西高廣・塩田拓也" class="face" src="./images/ja/topics3/s_sato.jpg">
+    <h2 id="tp_title4">タンパク質の就職活動</h2>
+    <span>理学研究科物質理学専攻(化学系)生物化学研究室 安西高廣・塩田拓也</span>
+   
 </a><hr id="blue_bar4"></li>
 <li><a href="./index.php?lang=ja&mode=g&page_type=topics" onMouseOver="Display('intro5');noDisplay('intro_default');noDispl\
 ay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('blue_bar1');noDispl\
 ay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title\
 1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')">
-    <img alt="有田隆也 教授" class="face" src="./images/ja/topics3/s_arita.jpg">
-    <h2 id="tp_title5">ボードゲームを究める</h2>
-    <span>情報文化学部　 有田隆也 教授</span>
+    <img alt="久保宏樹" class="face" src="./images/ja/topics3/s_arita.jpg">
+    <h2 id="tp_title5">経済物理学-物理学からみる経済学-</h2>
+    <span>物理学科4年　久保宏樹</span>
 </a><hr id="blue_bar5"></li>
 <!--
 <li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
