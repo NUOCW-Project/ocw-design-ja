@@ -47,7 +47,7 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics.css">
 
-elseif $lang=='ja' && $page_type=='special'}
+{elseif $lang=='ja' && $page_type=='special'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics.css">
 
