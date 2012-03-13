@@ -10,12 +10,9 @@ lay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisp
 noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4\
 ');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp\
 _title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDispla\
-y('detail4');noDisplay('detail5');noDisplay('detail6')"
-
-noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
-
+y('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');"
 >
-
+╕╡д╦╠сд╣
 </a>
 <br>
 <ul id="articles_title">
