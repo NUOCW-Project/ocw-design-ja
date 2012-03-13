@@ -8,9 +8,10 @@ Display('intro5');noDisplay('intro6')">-->
 lay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4\
 ');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp\
 _title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDispla\
-y('detail4');noDisplay('detail5');noDisplay('detail6')
+y('detail4');noDisplay('detail5');noDisplay('detail6')"
 
-noDisplay('detail7');noDisplay('detail');noDisplay('detail');noDisplay('detail');noDisplay('detail');noDisplay('detail');noDisplay('detail');noDisplay('detail')"
+noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
+
 >
 
 </a>
@@ -54,7 +55,8 @@ etail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay(
     <span>理学研究科物質理学専攻(化学系)生物化学研究室 安西高廣・塩田拓也</span>
    
 </a><hr id="blue_bar4"></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics" onMouseOver="Display('intro5');noDisplay('intro_default');noDispl\
+
+<li><a href="#article_detail" onMouseOver="Display('intro5');noDisplay('intro_default');noDispl\
 ay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('blue_bar1');noDispl\
 ay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title\
 1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')">
@@ -62,17 +64,79 @@ ay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5
     <h2 id="tp_title5">経済物理学-物理学からみる経済学-</h2>
     <span>物理学科4年　久保宏樹</span>
 </a><hr id="blue_bar5"></li>
-<!--
+
 <li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
 il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
-
-    <h2 id="tp_title6"></h2>
-    <span></span>
+<img alt="" class="face" src="./images/ja/topics3/">
+        <h2 id="tp_title6">大学の数学って何？ー広大なる世界への第一歩ー</h2>
+    <span> 多元数理研究科 小西正秀</span>
 </a><hr id="blue_bar6"></li>
--->
+
+<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
+ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
+lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
+il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<img alt="" class="face" src="./images/ja/topics3/">
+        <h2 id="tp_title7">円の数学 </h2>
+    <span>多元数理科学研究科  足立真訓</span>
+</a><hr id="blue_bar7"></li>
+
+<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
+ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
+lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
+il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<img alt="" class="face" src="./images/ja/topics3/">
+        <h2 id="tp_title8">地球環境システム学への招待 </h2>
+    <span>環境学研究科地球環境科学専攻 加藤杏奈</span>
+</a><hr id="blue_bar8"></li>
+
+<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
+ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
+lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
+il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<img alt="" class="face" src="./images/ja/topics3/">
+        <h2 id="tp_title9">地球を化学する </h2>
+    <span>環境学研究科地球環境科学専攻 片岡良輔</span>
+</a><hr id="blue_bar9"></li>
+
+<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
+ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
+lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
+il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<img alt="" class="face" src="./images/ja/topics3/">
+        <h2 id="tp_title10">太陽地球環境研究所　研究所紹介</h2>
+    <span>太陽地球環境研究所 原拓也</span>
+</a><hr id="blue_bar10"></li>
+
+<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
+ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
+lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
+il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<img alt="" class="face" src="./images/ja/topics3/">
+        <h2 id="tp_title11">140年間探索されてきた花粉管誘引物質を発見！</h2>
+    <span>生命理学専攻 機能調節学講座 生殖分子情報学グループ 武内秀憲</span>
+</a><hr id="blue_bar11"></li>
+
+<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
+ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
+lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
+il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<img alt="" class="face" src="./images/ja/topics3/">
+        <h2 id="tp_title12">遊び・運動・学習による脳の活性化のしくみ</h2>
+    <span>理学部生命理学科　細胞制御学研究グループ 遊び・運動・学習による脳の活性化のしくみ</span>
+</a><hr id="blue_bar12"></li>
+
+
+
 </ul>
 
 <div id="vertical_border"></div>
@@ -100,7 +164,9 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
 </li>
 <li id="detail5">
 <h1>経済物理学 物理学からみる経済学</h1>
-<p>経済物理学という学問をご存じだろうか。これは経済を物理学というツールを用いて解析しようというものである。何故物理で経済？と思う人がいるかもしれないが、物理学と経済学とは意外と多く関係を持っている。分かり易い例として、アダム・スミスの「需要と供給は均衡する」という考え方を挙げてみよう。物理学を知っている人間なら、この考えはニュートン力学に由来していることはなんとなく予想できるだろう。実際に「需要と供給」の考えは18世紀に生まれた考えである。この頃、世界では古典力学全盛の時代であり、あらゆるものの動きは力学で説明できると信じられていたらしい。また、経済学で19世紀からでてきた等分配則、最大値原理などのキーワードも物理学で当時盛んに使われていた概念である。本展示は物理学を使う利点、利用法、その結果どうのような事が見えてくるかなどをできる限り分かり易く説明するものである。</p> 
+<p>経済物理学という学問をご存じだろうか。これは経済を物理学というツールを用いて解析しようというものである。何故物理で経済？と思う人がいるかもしれないが、物理学と経済学とは意外と多く関係を持っている。分かり易い例として、アダム・スミスの「需要と供給は均衡する」という考え方を挙げてみよう。物理学を知っている人間なら、この考えはニュートン力学に由来していることはなんとなく予想できるだろう。実際に「需要と供給」の考えは18世紀に生まれた考えである。この頃、世界では古典力学全盛の時代であり、あらゆるものの動きは力学で説明できると信じられていたらしい。また、経済学で19世紀からでてきた等分配則、最大値原理などのキーワードも物理学で当時盛んに使われていた概念である。本展示は物理学を使う利点、利用法、その結果どうのような事が見えてくるかなどをできる限り分かり易く説明するものである。
+{flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0001623/FLASH-FLV/2010lastlecture_tajima.flv"}
+</p> 
 </li>
 <li id="detail6">
 <h1>大学の数学って何？-広大なる世界への第一歩-</h1>
@@ -113,8 +179,6 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
 <li id="detail8">
 <h1>地球環境システム学への招待</h1>
 <p>環境学研究科は、理学部の上にある大学院です。様々な学問分野が統合し、地球環境について研究を深めています。私たちシステム学講座の研究分野は、主にリモートセンシングやモデルシミュレーション。更にはフィールド調査も行う等、多岐にわたっています。様々なスケールで地球の物質循環を捉え、地球環境を科学する。1つの概念に囚われたくない方、漠然としてるけど、環境って言葉には興味があるという方、是非一度、私たちのブースへいらしてください！
-
-{flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0001623/FLASH-FLV/2010lastlecture_tajima.flv"}
 
 </p>
 </li>
