@@ -1,44 +1,28 @@
-!--<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');no\
-Display('intro5');noDisplay('intro6')">-->
+!--<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">-->
 <img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.png" id="tp_door">
 <!--</a>-->
 
 <div id="tp_default">
-<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisp\
-lay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
+<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
 
-noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4\
-');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp\
-_title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDispla\
-y('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');"
+noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');"
 >
 元に戻す
 </a>
 <br>
 <ul id="articles_title">
-<li><a href="#articles_detail" onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('int\
-ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');
+<li><a href="#articles_detail" onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');
 noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
 
-Display('blue_bar1');noDisplay('blue_bar2');noDisplay('bl\
-ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reCo\
-lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('det\
-ail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
-noDisplay('detail11');noDisplay('detail12');
-
-
-
-">
+Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12');">
     <img alt="前川浩隆" class="face" src="./images/ja/topics3/s_chiba.jpg">
     <h2 id="tp_title1">ブーメランはなぜ戻ってくるのか </h2>
     <span>物理学科4年 前川浩隆</span>
 </a><hr id="blue_bar1"></li>
-<li><a href="#articles_detail" onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
-ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');
+<li><a href="#articles_detail" onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');
 noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
-noDisplay('blue_bar1');Display('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');Color('tp_title2');reCo\
-lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail2');noDisplay('det\
-ail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('blue_bar1');Display('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');Color('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
 noDisplay('detail11');noDisplay('detail12');
 ">
     <img alt="森義治" class="face" src="./images/ja/topics3/s_senyo.jpg">
@@ -46,15 +30,11 @@ noDisplay('detail11');noDisplay('detail12');
     <span>理学研究科物質理学専攻(物理系)TB研 森義治</span>
    
 </a><hr id="blue_bar2"></li>
-<li><a href="#articles_detail" onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
-ro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11\
-');noDisplay('intro12');
+<li><a href="#articles_detail" onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
 
 
-noDisplay('blue_bar1');noDisplay('blue_bar2');Display('bl\
-ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');Co\
-lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail3');noDisplay('det\
-ail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('blue_bar1');noDisplay('blue_bar2');Display('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');Co\
+lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
 noDisplay('detail11');noDisplay('detail12');
 
 ">
