@@ -8,8 +8,11 @@ Display('intro5');noDisplay('intro6')">-->
 lay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4\
 ');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp\
 _title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDispla\
-y('detail4');noDisplay('detail5');noDisplay('detail6')">
-<img src="./images/ja/topics3/title.png" alt="遊び・体験から学ぶ授業">
+y('detail4');noDisplay('detail5');noDisplay('detail6')
+
+noDisplay('detail7');noDisplay('detail');noDisplay('detail');noDisplay('detail');noDisplay('detail');noDisplay('detail');noDisplay('detail');noDisplay('detail')"
+>
+
 </a>
 <br>
 <ul id="articles_title">
@@ -110,6 +113,9 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
 <li id="detail8">
 <h1>地球環境システム学への招待</h1>
 <p>環境学研究科は、理学部の上にある大学院です。様々な学問分野が統合し、地球環境について研究を深めています。私たちシステム学講座の研究分野は、主にリモートセンシングやモデルシミュレーション。更にはフィールド調査も行う等、多岐にわたっています。様々なスケールで地球の物質循環を捉え、地球環境を科学する。1つの概念に囚われたくない方、漠然としてるけど、環境って言葉には興味があるという方、是非一度、私たちのブースへいらしてください！
+
+{flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0001623/FLASH-FLV/2010lastlecture_tajima.flv"}
+
 </p>
 </li>
 <li id="detail9">
