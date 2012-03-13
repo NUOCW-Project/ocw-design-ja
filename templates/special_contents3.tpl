@@ -3,19 +3,15 @@
 <!--</a>-->
 
 <div id="tp_default">
-<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
-
-noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');"
+<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');"
 >
 元に戻す
 </a>
 <br>
 <ul id="articles_title">
-<li><a href="#articles_detail" onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');
-noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
+<li><a href="#articles_detail" onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
 
-Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
-noDisplay('detail11');noDisplay('detail12');">
+Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12');">
     <img alt="前川浩隆" class="face" src="./images/ja/topics3/s_chiba.jpg">
     <h2 id="tp_title1">ブーメランはなぜ戻ってくるのか </h2>
     <span>物理学科4年 前川浩隆</span>
@@ -61,15 +57,12 @@ noDisplay('detail11');noDisplay('detail12')"
    
 </a><hr id="blue_bar4"></li>
 
-<li><a href="#article_detail" onMouseOver="Display('intro5');noDisplay('intro_default');noDispl\
-ay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11\
-');noDisplay('intro12');
+<li><a href="#article_detail" onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
 
 noDisplay('blue_bar1');noDispl\
 ay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title\
 1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6');
-onclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');noDisplay('detail4');Display('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');Display('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
 noDisplay('detail11');noDisplay('detail12')
 ">
     <img alt="久保宏樹" class="face" src="./images/ja/topics3/s_arita.jpg">
@@ -81,18 +74,11 @@ noDisplay('detail11');noDisplay('detail12')
 ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11\
 ');noDisplay('intro12');
 
-noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
-lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
+noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
 
 
-onclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');Display('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
-noDisplay('detail11');noDisplay('detail12')
-
-
-
-">
+onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');Display('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title6">大学の数学って何？ー広大なる世界への第一歩ー</h2>
     <span> 多元数理研究科 小西正秀</span>
@@ -106,9 +92,7 @@ oDisplay('intro6');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');
 noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
-onclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');Display('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
-noDisplay('detail11');noDisplay('detail12')
+onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');Display('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')
 
 ">
 <img alt="" class="face" src="./images/ja/topics3/">
@@ -120,9 +104,7 @@ noDisplay('detail11');noDisplay('detail12')
 ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')"
-onclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');Display('detail8');noDisplay('detail9');noDisplay('detail10');
-noDisplay('detail11');noDisplay('detail12')
+onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');Display('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')
 
 ">
 <img alt="" class="face" src="./images/ja/topics3/">
@@ -135,11 +117,7 @@ ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
 
-nclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');Display('detail9');noDisplay('detail10');
-noDisplay('detail11');noDisplay('detail12')
-
-">
+onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');Display('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title9">地球を化学する </h2>
     <span>環境学研究科地球環境科学専攻 片岡良輔</span>
@@ -150,9 +128,7 @@ ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
 
-nclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');Display('detail10');
-noDisplay('detail11');noDisplay('detail12')
+onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');Display('detail10');noDisplay('detail11');noDisplay('detail12')
 
 
 ">
@@ -166,9 +142,7 @@ ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
 
-nclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
-Display('detail11');noDisplay('detail12')
+onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');Display('detail11');noDisplay('detail12')
 
 ">
 <img alt="" class="face" src="./images/ja/topics3/">
@@ -181,9 +155,7 @@ ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')"
 
-nclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
-noDisplay('detail11');Display('detail12')
+onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');Display('detail12')
 ">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title12">遊び・運動・学習による脳の活性化のしくみ</h2>
