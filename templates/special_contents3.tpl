@@ -5,7 +5,9 @@ Display('intro5');noDisplay('intro6')">-->
 
 <div id="tp_default">
 <a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisp\
-lay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4\
+lay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
+
+noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4\
 ');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp\
 _title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDispla\
 y('detail4');noDisplay('detail5');noDisplay('detail6')"
@@ -18,7 +20,9 @@ noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10')
 <br>
 <ul id="articles_title">
 <li><a href="#articles_detail" onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('int\
-ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_bar1');noDisplay('blue_bar2');noDisplay('bl\
+ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
+
+Display('blue_bar1');noDisplay('blue_bar2');noDisplay('bl\
 ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reCo\
 lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('det\
 ail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
@@ -27,8 +31,10 @@ ail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay(
     <span>ÊªÍý³Ø²Ê4Ç¯ Á°Àî¹ÀÎ´</span>
 </a><hr id="blue_bar1"></li>
 <li><a href="#articles_detail" onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
-ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');Display('blue_bar2');noDisplay('bl\
-ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');Color('tp_title2');reCo\
+ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
+
+
+noDisplay('blue_bar1');Display('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');Color('tp_title2');reCo\
 lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail2');noDisplay('det\
 ail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
     <img alt="¿¹µÁ¼£" class="face" src="./images/ja/topics3/s_senyo.jpg">
@@ -37,7 +43,11 @@ ail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noD
    
 </a><hr id="blue_bar2"></li>
 <li><a href="#articles_detail" onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
-ro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');Display('bl\
+ro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11\
+');noDisplay('intro12');
+
+
+noDisplay('blue_bar1');noDisplay('blue_bar2');Display('bl\
 ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');Co\
 lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail3');noDisplay('det\
 ail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
@@ -45,8 +55,13 @@ ail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noD
        <h2 id="tp_title3">ÁÇÎ³»Ò¤ÎÀ¤³¦</h2>
        <span>E¸¦ ±ÝËÜÀ®»Ö</span>
 </a><hr id="blue_bar3"></li>
+
 <li><a href="#articles_detail" onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
-ro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('\
+ro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11\
+');noDisplay('intro12');
+
+
+noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('\
 blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');re\
 Color('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('d\
 etail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
@@ -57,7 +72,10 @@ etail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay(
 </a><hr id="blue_bar4"></li>
 
 <li><a href="#article_detail" onMouseOver="Display('intro5');noDisplay('intro_default');noDispl\
-ay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('blue_bar1');noDispl\
+ay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11\
+');noDisplay('intro12');
+
+noDisplay('blue_bar1');noDispl\
 ay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title\
 1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')">
     <img alt="µ×ÊÝ¹¨¼ù" class="face" src="./images/ja/topics3/s_arita.jpg">
@@ -66,7 +84,10 @@ ay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5
 </a><hr id="blue_bar5"></li>
 
 <li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
-ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
+ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11\
+');noDisplay('intro12');
+
+noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
 il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
@@ -75,8 +96,12 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
     <span> Â¿¸µ¿ôÍý¸¦µæ²Ê ¾®À¾Àµ½¨</span>
 </a><hr id="blue_bar6"></li>
 
-<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
-ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
+<li><a href="#articles_detail" onMouseOver="Display('intro7');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
+ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');
+oDisplay('intro6');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11\
+');noDisplay('intro12');
+
+noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
 il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
@@ -85,7 +110,7 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
     <span>Â¿¸µ¿ôÍý²Ê³Ø¸¦µæ²Ê  Â­Î©¿¿·±</span>
 </a><hr id="blue_bar7"></li>
 
-<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
+<li><a href="#articles_detail" onMouseOver="Display('intro8');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
