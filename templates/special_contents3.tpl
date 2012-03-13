@@ -20,23 +20,30 @@ noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10')
 <br>
 <ul id="articles_title">
 <li><a href="#articles_detail" onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('int\
-ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
+ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');
+noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
 
 Display('blue_bar1');noDisplay('blue_bar2');noDisplay('bl\
 ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reCo\
 lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('det\
-ail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+ail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12');
+
+
+
+">
     <img alt="前川浩隆" class="face" src="./images/ja/topics3/s_chiba.jpg">
     <h2 id="tp_title1">ブーメランはなぜ戻ってくるのか </h2>
     <span>物理学科4年 前川浩隆</span>
 </a><hr id="blue_bar1"></li>
 <li><a href="#articles_detail" onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
-ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
-
-
+ro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');
+noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');
 noDisplay('blue_bar1');Display('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');Color('tp_title2');reCo\
 lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail2');noDisplay('det\
-ail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+ail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12');
+">
     <img alt="森義治" class="face" src="./images/ja/topics3/s_senyo.jpg">
     <h2 id="tp_title2">コンピュータでみる物理，化学，生命の世界</h2>
     <span>理学研究科物質理学専攻(物理系)TB研 森義治</span>
@@ -50,8 +57,11 @@ ro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('int
 noDisplay('blue_bar1');noDisplay('blue_bar2');Display('bl\
 ue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');Co\
 lor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail3');noDisplay('det\
-ail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
-    <img alt="榎本成志" class="face" src="./images/ja/topics3/s_ukiba.jpg">
+ail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12');
+
+">
+    <img alt="榎本成志" class="face" src="./images/ja/topics3/">
        <h2 id="tp_title3">素粒子の世界</h2>
        <span>E研 榎本成志</span>
 </a><hr id="blue_bar3"></li>
@@ -63,8 +73,11 @@ ro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('int
 
 noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('\
 blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');re\
-Color('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
+Color('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6');onclick="noDisplay('detail1');noDisplay('d\
+etail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12')"
+
+">
     <img alt="安西高廣・塩田拓也" class="face" src="./images/ja/topics3/s_sato.jpg">
     <h2 id="tp_title4">タンパク質の就職活動</h2>
     <span>理学研究科物質理学専攻(化学系)生物化学研究室 安西高廣・塩田拓也</span>
@@ -77,7 +90,11 @@ ay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDispl
 
 noDisplay('blue_bar1');noDispl\
 ay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title\
-1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')">
+1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6');
+onclick="noDisplay('detail1');noDisplay('d\
+etail2');noDisplay('detail3');noDisplay('detail4');Display('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12')
+">
     <img alt="久保宏樹" class="face" src="./images/ja/topics3/s_arita.jpg">
     <h2 id="tp_title5">経済物理学-物理学からみる経済学-</h2>
     <span>物理学科4年　久保宏樹</span>
@@ -89,8 +106,16 @@ ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intr
 
 noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
-olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
-il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
+
+
+onclick="noDisplay('detail1');noDisplay('d\
+etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');Display('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12')
+
+
+
+">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title6">大学の数学って何？ー広大なる世界への第一歩ー</h2>
     <span> 多元数理研究科 小西正秀</span>
@@ -103,8 +128,12 @@ oDisplay('intro6');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');
 
 noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
-olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
-il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
+onclick="noDisplay('detail1');noDisplay('d\
+etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');Display('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12')
+
+">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title7">円の数学 </h2>
     <span>多元数理科学研究科  足立真訓</span>
@@ -113,8 +142,12 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
 <li><a href="#articles_detail" onMouseOver="Display('intro8');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
-olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
-il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')"
+onclick="noDisplay('detail1');noDisplay('d\
+etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');Display('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12')
+
+">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title8">地球環境システム学への招待 </h2>
     <span>環境学研究科地球環境科学専攻 加藤杏奈</span>
@@ -123,8 +156,13 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
 <li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
-olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
-il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
+
+nclick="noDisplay('detail1');noDisplay('d\
+etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');Display('detail9');noDisplay('detail10');
+noDisplay('detail11');noDisplay('detail12')
+
+">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title9">地球を化学する </h2>
     <span>環境学研究科地球環境科学専攻 片岡良輔</span>
@@ -133,8 +171,14 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
 <li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
-olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
-il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
+
+nclick="noDisplay('detail1');noDisplay('d\
+etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');Display('detail10');
+noDisplay('detail11');noDisplay('detail12')
+
+
+">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title10">太陽地球環境研究所　研究所紹介</h2>
     <span>太陽地球環境研究所 原拓也</span>
@@ -143,8 +187,13 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
 <li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
-olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
-il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
+
+nclick="noDisplay('detail1');noDisplay('d\
+etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+Display('detail11');noDisplay('detail12')
+
+">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title11">140年間探索されてきた花粉管誘引物質を発見！</h2>
     <span>生命理学専攻 機能調節学講座 生殖分子情報学グループ 武内秀憲</span>
@@ -153,8 +202,12 @@ il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('
 <li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
 ro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('b\
 lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reC\
-olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('deta\
-il2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')"
+
+nclick="noDisplay('detail1');noDisplay('d\
+etail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+noDisplay('detail11');Display('detail12')
+">
 <img alt="" class="face" src="./images/ja/topics3/">
         <h2 id="tp_title12">遊び・運動・学習による脳の活性化のしくみ</h2>
     <span>理学部生命理学科　細胞制御学研究グループ 遊び・運動・学習による脳の活性化のしくみ</span>
