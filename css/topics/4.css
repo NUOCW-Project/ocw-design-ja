@@ -1,0 +1,9 @@
+#articles_title
+{
+    width: 700px;
+}
+
+#articles-titles li 
+{
+    float: left;
+}

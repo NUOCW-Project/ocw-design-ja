@@ -1,5 +1,5 @@
 <!--<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">-->
-<img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.png" id="tp_door">
+<img alt="名大の授業 TOPICS No.4" src="./images/ja/topics3/door.png" id="tp_door">
 <!--</a>-->
 
 <div id="tp_default">
