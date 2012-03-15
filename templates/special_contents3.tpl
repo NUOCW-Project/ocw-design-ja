@@ -39,16 +39,7 @@ noDisplay('detail11');noDisplay('detail12');
        <span>E研 榎本成志</span>
 </a><hr id="blue_bar3"></li>
 
-<li><a href="#articles_detail" onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('int\
-ro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11\
-');noDisplay('intro12');
-
-
-noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('\
-blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');re\
-Color('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6')";onclick="noDisplay('detail1');noDisplay('d\
-etail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
-noDisplay('detail11');noDisplay('detail12')">
+<li><a href="#articles_detail" onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6')";onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
     <img alt="安西高廣・塩田拓也" class="face" src="./images/ja/topics3/s_sato.jpg">
     <h2 id="tp_title4">タンパク質の就職活動</h2>
     <span>理学研究科物質理学専攻(化学系)生物化学研究室 安西高廣・塩田拓也</span>
@@ -181,11 +172,12 @@ onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDispla
 <h1>素粒子の世界</h1>
 <p>このサイエンスカフェに多くの方が来て下さり、驚いています。この機会に皆さんが、素粒子はじめ物理に興味を抱いてくれたら、と思っています。</p>
 </li>
+
 <li id="detail4">
 <h1>タンパク質の就職活動</h1>
 <p>タンパク質は生まれて、成長し、働き、そして分解されますが、これはまるでわれわれの人生のようだと思いませんか？タンパク質が、細胞内のいくつものゲートを通って正しい場所へと移動していく様子は、まるでタンパク質が就職活動しているようにも感じられます。グレた（正しい立体構造をとれなかった）タンパク質は、シャペロンとよばれる細胞内の保護観察官の助けを借りて更生（正しい立体構造をとる）されます。サイエンスカフェでは、このような素晴らしい細胞内の機能について、わかりやすく説明したいと思います。<img src="./images/ja/topics3/sato.jpg" class="c_right" alt=""></p>
-</p>
 </li>
+
 <li id="detail5">
 <h1>経済物理学 物理学からみる経済学</h1>
 <p>経済物理学という学問をご存じだろうか。これは経済を物理学というツールを用いて解析しようというものである。何故物理で経済？と思う人がいるかもしれないが、物理学と経済学とは意外と多く関係を持っている。分かり易い例として、アダム・スミスの「需要と供給は均衡する」という考え方を挙げてみよう。物理学を知っている人間なら、この考えはニュートン力学に由来していることはなんとなく予想できるだろう。実際に「需要と供給」の考えは18世紀に生まれた考えである。この頃、世界では古典力学全盛の時代であり、あらゆるものの動きは力学で説明できると信じられていたらしい。また、経済学で19世紀からでてきた等分配則、最大値原理などのキーワードも物理学で当時盛んに使われていた概念である。本展示は物理学を使う利点、利用法、その結果どうのような事が見えてくるかなどをできる限り分かり易く説明するものである。
