@@ -2,3 +2,9 @@
 {
     width: 340px;
 }
+
+#articles_title li a
+{
+    width: 100%;
+    height: 70px;
+}
