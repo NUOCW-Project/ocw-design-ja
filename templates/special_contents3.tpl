@@ -46,11 +46,9 @@ ro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('int
 
 noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('\
 blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');re\
-Color('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6');onclick="noDisplay('detail1');noDisplay('d\
+Color('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6')";onclick="noDisplay('detail1');noDisplay('d\
 etail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
-noDisplay('detail11');noDisplay('detail12')"
-
-">
+noDisplay('detail11');noDisplay('detail12')">
     <img alt="安西高廣・塩田拓也" class="face" src="./images/ja/topics3/s_sato.jpg">
     <h2 id="tp_title4">タンパク質の就職活動</h2>
     <span>理学研究科物質理学専攻(化学系)生物化学研究室 安西高廣・塩田拓也</span>
@@ -61,10 +59,9 @@ noDisplay('detail11');noDisplay('detail12')"
 
 noDisplay('blue_bar1');noDispl\
 ay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title\
-1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6');
+1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')";
 onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');Display('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
-noDisplay('detail11');noDisplay('detail12')
-">
+noDisplay('detail11');noDisplay('detail12')">
     <img alt="久保宏樹" class="face" src="./images/ja/topics3/s_arita.jpg">
     <h2 id="tp_title5">経済物理学-物理学からみる経済学-</h2>
     <span>物理学科4年　久保宏樹</span>
