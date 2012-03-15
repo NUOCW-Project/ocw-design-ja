@@ -3,6 +3,11 @@
     width: 340px;
 }
 
+#articles_title li
+{
+    height: 80px;
+}
+
 #articles_title li a
 {
     width: 100%;
