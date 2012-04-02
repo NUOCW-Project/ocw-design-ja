@@ -106,7 +106,7 @@ lue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');re
 olor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" 
 
 onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');Display('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
-<img alt="" class="face" src="./images/ja/topics4/kanban/k_kataoka.png">
+<img alt="" class="face" src="./images/ja/topics4/kanban/k_gcl.png">
         <h2 id="tp_title9">地球を化学する </h2>
     <span>環境学研究科地球環境科学専攻 片岡良輔</span>
 </a><hr id="blue_bar9"></li>
@@ -147,7 +147,7 @@ onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDispla
 ">
 <img alt="" class="face" src="./images/ja/topics4/kanban/k_yamauchi.png">
         <h2 id="tp_title12">遊び・運動・学習による脳の活性化のしくみ</h2>
-    <span>理学部生命理学科　細胞制御学研究グループ 遊び・運動・学習による脳の活性化のしくみ</span>
+    <span>理学部生命理学科　細胞制御学研究グループ 山内康久</span>
 </a><hr id="blue_bar12"></li>
 
 
