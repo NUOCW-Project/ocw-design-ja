@@ -18,18 +18,12 @@
 
 #articles_title li a:hover
 {
-    text-decoration: underline;
+/*    text-decoration: underline;*/
     color: #cc6699;
+    border-bottom: solid 2px #cc6699;
 }
 
 #articles_title li a span
 {
-    text-decoration: none !important;
-    color: #030303 !important;
-}
-
-#articles_title li a span:hover
-{
-    text-decoration: none !important;
     color: #030303 !important;
 }
