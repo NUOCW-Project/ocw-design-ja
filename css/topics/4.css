@@ -18,9 +18,10 @@
 #articles_title li:hover
 {
     content:"";
+    text-decoration: underline;
 }
 
-#articles_title li:hover
+#articles_title li:hover:before
 {
     content:"v";
 }
@@ -29,9 +30,4 @@
 {
     width: 100%;
     height: 85px;
-}
-
-#articles_title li a:hover
-{
-    text-decoration: underline;
 }
