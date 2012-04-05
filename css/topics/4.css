@@ -10,8 +10,28 @@
     float: left;
 }
 
+#articles_title li:before
+{
+    content:"o";
+}
+
+#articles_title li:hover
+{
+    content:"";
+}
+
+#articles_title li:hover
+{
+    content:"v";
+}
+
 #articles_title li a
 {
     width: 100%;
     height: 85px;
+}
+
+#articles_title li a:hover
+{
+    text-decoration: underline;
 }
