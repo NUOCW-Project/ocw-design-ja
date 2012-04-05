@@ -24,6 +24,6 @@
 
 #articles_title li a span
 {
-    text-decoration: none important;
+    text-decoration: none !important;
     color: #030303 !important;
 }
