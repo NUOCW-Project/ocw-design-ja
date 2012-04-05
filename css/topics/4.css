@@ -16,12 +16,13 @@
     height: 85px;
 }
 
-#articles_title li:hover
+#articles_title li a:hover
 {
     text-decoration: underline;
+    color: #cc6699;
 }
 
-#articles_title li span
+#articles_title li a span
 {
     text-decoration: none;
 }
