@@ -91,12 +91,6 @@ ul
     padding: 0;
 }
 
-#articles_title li a:hover
-{
-    text-decoration: none;
-    color: #020202;
-}
-
 #articles_title li a h2 /* コース名 */
 {
     clear: right;

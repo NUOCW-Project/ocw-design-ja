@@ -13,3 +13,9 @@
     width: 100%;
     height: 70px;
 }
+
+#articles_title li a:hover
+{
+    text-decoration: none;
+    color: #020202;
+}
