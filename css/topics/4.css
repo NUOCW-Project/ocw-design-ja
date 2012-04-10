@@ -1,6 +1,8 @@
 p#lead
 {
     text-align: center;
+    font-size: 14px;
+    color: dimgray;
 }
 
 #articles_title
