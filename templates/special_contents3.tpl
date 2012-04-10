@@ -1,19 +1,24 @@
 <!--<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6')">-->
 <img alt="名大の授業 TOPICS No.4" src="./images/ja/topics4/door.png" id="tp_door">
 <!--</a>-->
-
+<img alt="" src="./images/ja/topics4/telescope.png">
 <img alt="新歓サイエンスカフェ2011" src="./images/ja/topics4/title.png" id="tp_title">
-<p>
-科学でなにができるのか。大学ではどのような研究が行われているのか。 理学部の学生がその一端を見せてくれます。 『名大の授業』ではその取り組みを取材しました。ようこそ、科学の世界へ。
-<br>2011年度案内サイト<a>http://www.geocities.co.jp/rishinkan11/</a>
+<img alt="" src="./images/ja/topics4/flask_all.png">
+<p id="lead">
+科学でなにができるのか。大学ではどのような研究が行われているのか。<br>
+理学部の学生がその一端を見せてくれます。 『名大の授業』ではその取り組みを取材しました。<br>
+ようこそ、科学の世界へ。<br>
+2011年度案内サイト<a>http://www.geocities.co.jp/rishinkan11/</a>
 </p>
 
 <div id="tp_default">
+<!--
 <a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('intro7');noDisplay('intro8');noDisplay('intro9');noDisplay('intro10');noDisplay('intro11');noDisplay('intro12');"
 >
 元に戻す
 </a>
 <br>
+-->
 <ul id="articles_title">
 <li><a href="#articles_detail" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12');">
     <img alt="前川浩隆" class="face" src="./images/ja/topics4/kanban/k_maekawa.png">
