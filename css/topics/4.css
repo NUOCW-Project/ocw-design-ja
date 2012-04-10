@@ -42,12 +42,13 @@
 
 #articles_title li a span.st_name
 {
-    font-size: large;
+    font-size: 110%;
 }
 
 #articles_title li a span.st_belong:before
 {
     content:"¡ü";
+    color: gray;
 }
 
 #articles_title li a *
