@@ -15,12 +15,12 @@
     width: 100%;
     height: 85px;
     margin-left: 20px;
-    background-image: url("./images/ja/topics4/check_off.png");
+    background-image: url("../../images/ja/topics4/check_off.png");
 }
 
 #articles_title li a:hover
 {
-    background-image: url("./images/ja/topics4/check.png");
+    background-image: url("../../images/ja/topics4/check.png");
     text-decoration: none;
     color: #cc6699;
 /*    border-bottom: solid 2px #cc6699;*/
