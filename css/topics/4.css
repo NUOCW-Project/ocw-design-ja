@@ -40,7 +40,17 @@
     color: #030303 !important;
 }
 
+#articles_title li a span.st_name
+{
+    font-size: large;
+}
+
+#articles_title li a span.st_belong:before
+{
+    content:"¡ü";
+}
+
 #articles_title li a *
 {
-    vertical-align: bottom;
+    vertical-align: text-bottom;
 }
