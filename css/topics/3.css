@@ -1,3 +1,9 @@
+div#tp_default
+{
+    background-image: url("../../images/ja/topics3/background1.png");
+    background-repeat: no-repeat;
+}
+
 #articles_title
 {
     width: 340px;
@@ -18,4 +24,9 @@
 {
     text-decoration: none;
     color: #020202;
+}
+
+#articles_detail
+{
+    background-image: url("../../images/ja/topics3/background2.png");
 }

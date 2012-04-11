@@ -36,8 +36,6 @@ img#tp_Kanban
 
 div#tp_default
 {
-    background-image: url("../../images/ja/topics3/background1.png");
-    background-repeat: no-repeat;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -219,7 +217,6 @@ a.tp_link:hover
     width: 725px;
     margin: 0;
     padding: 20px 110px 20px 40px;
-    background-image: url("../../images/ja/topics3/background2.png");
 }
 
 #detail1,#detail2,#detail3,#detail4,#detail5,#detail6,#detail7,#detail8,#detail9,#detail10,#detail11,#detail12

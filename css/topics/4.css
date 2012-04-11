@@ -24,7 +24,7 @@ p#lead
     padding-left: 30px;
     background-image: url("../../images/ja/topics4/check_off.png");
     background-repeat: no-repeat;
-    background-position: 0px 20px;
+    background-position: 0px center;
 }
 
 #articles_title li a:hover
@@ -54,11 +54,21 @@ p#lead
 
 #articles_title li a span.st_belong:before
 {
-    content:"¡ü";
+    content:" ¡ü ";
     color: gray;
 }
 
 #articles_title li a *
 {
     vertical-align: text-bottom;
+}
+
+ul#articles_detail li h1
+{
+    color: blue;
+}
+
+ul#articles_detail li h1:before
+{
+    content:"¡ü";   
 }
