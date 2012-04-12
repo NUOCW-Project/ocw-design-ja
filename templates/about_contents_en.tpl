@@ -1,4 +1,4 @@
-<!-- ����Site����ħ���� -->
+<!-- このSiteの特徴開始 -->
 <table class="about">
 	<tr><td colspan=2><h1>The Nagoya University OpenCourseWare</h1></td></tr>
 	<tr><td colspan=2><span class="b">brings free courseware to the Internet</span></td></tr>
@@ -24,7 +24,7 @@
 
 <tr height=15><td colspan=2></td></tr>
 
-<!-- ���ѤˤĤ��Ƴ��� -->
+<!-- 利用について開始 -->
 	<tr><td width="105" class="center_gray">Materials posted</td>
 	<td class="left_gray">
 	<p>The materials on the site may be duplicated, distributed, translated, edited, or otherwise used as you wish, <span class="b">as long as it is for non-profit, educational purposes</span>.</p>
@@ -45,51 +45,85 @@
 
 <tr height=40><td colspan=2></td></tr>
 
-<!-- �����åվҲ𳫻� -->
+<!-- スタッフ紹介開始 -->
 	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Committee</h2></td></tr>
 	<tr><td colspan=2 align="right">(As of April 1, 2012)</td></tr>
 	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray"><p>
-		Chairperson: Ichiro Yamamoto<br>Vice-President,<br>Nagoya University<br>
-		Hiroyuki Sugiyama<br>Vice-President,<br>Trustee<br>
-		Kazuhisa Todayama<br>Assistant to President,<br>Nagoya University<br>
+		
+Chairperson: Ichiro Yamamoto<br> 
+Vice-President,<br> 
+Nagoya University<br>
 
-		Takaya Yamazato<br>Associate Professor,<br>EcoTopia Science Institute<br>
-		Toshiyuki Tonoike<br>Professor,<br>Center for Information Media Studies<br>
-		Masaaki Katayama<br>Professor,<br>EcoTopia Science Institute<br>
+Hiroyuki Sugiyama<br>
+ Vice-President,<br> 
+Trustee<br>
 
-		Shoji Kajita<br>Associate Professor,<br>Information and Communication Technology Services<br>
-		Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education<br>
-		Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies<br>
+Kazuhisa Todayama<br> 
+Assistant to President,<br> 
+Nagoya University<br>
 
-		Kazuma Takashita<br>Supervisor,<br>Institute of Liberal Arts and Sciences<br>
+Takaya Yamazato<br> 
+Professor,<br> 
+Institute of Liberal Arts and Sciences<br>
 
-		Aki Hara<br>Media Supporter,<br>Studio<br>
-		Shin-ya Furui<br>Media Supporter,<br>Studio<br>
+Toshiyuki Tonoike<br> 
+Professor,<br>
+Center for Information Media Studies<br>
 
-		Ayako Goto<br>Administrative Assistant,<br>OCW Administrative Office</li>
+Masaaki Katayama<br> 
+Professor,<br> 
+EcoTopia Science Institute<br>
+
+Toshiki Nakai<br>
+Associate Professor,<br> 
+Center for the Studies of Higher Education<br>
+
+Akifumi Goto<br> 
+Associate Professor,<br> 
+Center for Information Media Studies<br>
+
+Takehiro Ohya<br> 
+Associate Professor,<br>
+ Graduate School of Law<br>
+
+ Toshiko Ishizaki<br> 
+Associate Professor,<br> 
+Education Center for International Students<br>
+
+Sadami Nakahama<br>
+Liberal Education Deputy Director,<br> 
+Institute of Liberal Arts and Sciences<br>
+
+Seiichiro Mori<br>
+the educational affairs planning section professional staff,<br>
+Institute of Liberal Arts and Sciences<br>
+
+Ayako Goto<br>
+Administrative Assistant,<br> 
+OCW Administrative Office<br>
 		</p></td></tr>
 	<tr><td class="center">Support Staff</td>
 		<td class="left"><p>
-		Masanori Adachi<br>
-		Ahammad Al Biruni<br>
-		Lucy Glasspool<br>
-		Yui Hayashi<br>
-		Yuka Ichinose<br>
-		Masanori Ito<br>
-		Simon Johnson<br>
-                Natsumi Koresawa<br>
-		Shun Kutsuna<br>
-                Sanae Muramatsu<br>
-		Tetsuro Nagai<br>
-		Ayaka Sato<br>
-		Keisuke Serizawa<br>
-		Yasutaka Shiraki<br>
-		Yuuhei Suzuki<br>
-		Mitsunari Takahashi<br>
-		Yuto Takahashi<br>
-		Mikito Yamamoto<br>
-		Zhong Yang<br>
-		Megumi Yoshida<br>
+Aki Hara (Media Supporter, Studio)<br>
+Michelle Kuhn Myers<br>
+Kazuki Uemura<br>
+Hiromasa Yamauchi<br>
+Shun Kutsuna<br> 
+Yuuhei Suzuki<br>
+Ryo Yoshida<br>
+Yumi Ogasawara<br>
+Keisuke Serizawa<br> 
+Mitsunari Takahashi<br> 
+Mikito Yamamoto<br>
+Tetsuro Nagai<br> 
+Yui Hayashi<br> 
+Ahammad Al Biruni<br>
+Naoko Kikuya<br> 
+Zhong Yang<br>
+Sanae Muramatsu<br> 
+Yuto Takahashi<br> 
+Masanori Adachi<br>
+Lucy Hannah Glasspool<br>
 	</p></td></tr>
 	<tr><td class="center_gray">photography</td>
         <td class="left_gray"><p>
