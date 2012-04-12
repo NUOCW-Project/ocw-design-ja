@@ -47,9 +47,8 @@
 
 <!-- スタッフ紹介開始 -->
 	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Committee</h2></td></tr>
-	<tr><td colspan=2 align="right">(As of July 1, 2011)</td></tr>
-	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>
-		<td class="left_gray"><p>
+	<tr><td colspan=2 align="right">(As of April 1, 2012)</td></tr>
+	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray"><p>
 		Chairperson: Ichiro Yamamoto<br>Vice-President,<br>Nagoya University<br>
 		Hiroyuki Sugiyama<br>Vice-President,<br>Trustee<br>
 		Kazuhisa Todayama<br>Assistant to President,<br>Nagoya University<br>
