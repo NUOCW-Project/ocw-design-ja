@@ -7,7 +7,7 @@ p#lead
 
 ul#articles_title
 {
-    margin: 0px 10px 10px -23px;
+    margin: 0px 10px 10px -25px;
     padding: 100px 0px 120px 30px;
     width: 960px;
     background-image: url("../../images/ja/topics4/background1.png");
@@ -75,13 +75,13 @@ ul#articles_detail
     position: relative;
     top: -145px;
     padding: 100px 10px 10px 10px;
-    margin-left: -23px;
+    margin-left: -25px;
     background-image: url("../../images/ja/topics4/background2.png");
     background-repeat: no-repeat;
     background-position: top left;
 }
 
-ul#articles_deatil:after
+ul#articles_detail:after
 {
      content: "";
      display: block;
