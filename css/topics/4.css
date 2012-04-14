@@ -9,7 +9,7 @@ ul#articles_title
 {
     margin: 0px 10px 10px 0px;
     padding: 100px 0px 120px 30px;
-    width: 730px;
+    width: 960px;
     background-image: url("../../images/ja/topics4/background1.png");
     background-repeat: no-repeat;
     background-position: top left;
@@ -18,13 +18,13 @@ ul#articles_title
 ul#articles_title li 
 {
     height: 90px;
-    width: 360px;
+    width: 400px;
     float: left;
 }
 
 ul#articles_title li a
 {
-    width: 350px;
+    width: 390px;
     height: 85px;
     padding-left: 30px;
     background-image: url("../../images/ja/topics4/check_off.png");
@@ -108,8 +108,8 @@ ul#articles_detail li p
 
 ul#articles_detail li p.comment
 {
-    width: 561px;
-    height: 372px;
+    width: 280px;
+    height: 186px;
     padding: 30px 25px 20px 20px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
     background-repeat: no-repeat;
