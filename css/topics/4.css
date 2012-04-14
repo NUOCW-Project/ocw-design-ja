@@ -7,7 +7,7 @@ p#lead
 
 ul#articles_title
 {
-    margin: 0px 10px 10px -25px;
+    margin: 0px 10px 10px -20px;
     padding: 100px 0px 120px 30px;
     width: 960px;
     background-image: url("../../images/ja/topics4/background1.png");
@@ -78,7 +78,7 @@ ul#articles_detail
     margin-right: 30px;
     background-image: url("../../images/ja/topics4/background2.png");
     background-repeat: no-repeat;
-    background-position: top left;
+    background-position: top right;
 }
 
 ul#articles_deatil:after
@@ -101,7 +101,7 @@ ul#articles_detail li h1:before
 
 ul#articles_detail li p
 {
-    width:250px;
+    width:300px;
     float: left;
     margin: 10px;
     padding: 10px;
@@ -119,6 +119,5 @@ ul#articles_detail li p.comment
 ul#articles_detail li img
 {
     float: left;
-    margin-left: -50px;
-    max-width: 200px;
+    margin-left: -30px;
 }
