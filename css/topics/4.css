@@ -9,7 +9,7 @@ ul#articles_title
 {
     margin: 0px 10px 10px 0px;
     padding: 100px 0px 120px 30px;
-    width: 810px;
+    width: 780px;
     background-image: url("../../images/ja/topics4/background1.png");
     background-repeat: no-repeat;
     background-position: top left;
@@ -18,7 +18,7 @@ ul#articles_title
 ul#articles_title li 
 {
     height: 90px;
-    width: 400px;
+    width: 390px;
     float: left;
 }
 
@@ -100,10 +100,10 @@ ul#articles_detail li p
 
 ul#articles_detail li p.comment
 {
-    width: 200px;
-    height: 100px;
+    width: 234px;
+    height: 155px;
+    padding: 15px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
-    background-position: center center;
 }
 
 ul#articles_detail li img
