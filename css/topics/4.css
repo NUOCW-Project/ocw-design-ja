@@ -106,7 +106,7 @@ ul#articles_detail li p.comment
     background-position: center center;
 }
 
-ul#articles_detail img
+ul#articles_detail li img
 {
     float: left;
 }
