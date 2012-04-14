@@ -8,7 +8,7 @@ p#lead
 ul#articles_title
 {
     margin: 0px 10px 20px 0px;
-    padding: 90px 0px 0px 30px;
+    padding: 100px 0px 0px 30px;
     width: 840px;
     background-image: url("../../images/ja/topics4/background1.png");
 }
@@ -68,6 +68,9 @@ ul#articles_title li a *
 
 ul#articles_detail
 {
+    position: relative;
+    top: -20px;
+    margin-top: 100px;
     background-image: url("../../images/ja/topics4/background2.png");
 }
 
