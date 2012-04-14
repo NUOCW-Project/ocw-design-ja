@@ -9,7 +9,7 @@ ul#articles_title
 {
     margin: 0px 10px 10px 0px;
     padding: 100px 0px 120px 30px;
-    width: 740px;
+    width: 810px;
     background-image: url("../../images/ja/topics4/background1.png");
     background-repeat: no-repeat;
     background-position: top left;
@@ -18,7 +18,7 @@ ul#articles_title
 ul#articles_title li 
 {
     height: 90px;
-    width: 420px;
+    width: 400px;
     float: left;
 }
 
