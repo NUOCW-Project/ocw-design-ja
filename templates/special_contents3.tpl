@@ -20,18 +20,18 @@
 <br>
 -->
 <ul id="articles_title">
-<li><a href="#articles_detail" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12');">
+<li><a href="#articles_detail" onclick="Display('articles_detail');Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12');">
     <img alt="前川浩隆" class="face" src="./images/ja/topics4/kanban/k_maekawa.png">
     <h2 id="tp_title1">ブーメランはなぜ戻ってくるのか </h2>
     <span class="st_name">前川浩隆</span><span class="st_belong">物理学科4年</span>
 </a></li>
-<li><a href="#articles_detail" onclick="Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12');">
+<li><a href="#articles_detail" onclick="Display('articles_detail');Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12');">
     <img alt="森義治" class="face" src="./images/ja/topics4/kanban/k_mori.png">
     <h2 id="tp_title2">コンピュータでみる物理，化学，生命の世界</h2>
     <span class="st_name">森義治</span><span class="st_belong">理学研究科物質理学専攻(物理系)TB研</span>
    
 </a></li>
-<li><a href="#articles_detail" onclick="Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+<li><a href="#articles_detail" onclick="Display('articles_detail');Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
 noDisplay('detail11');noDisplay('detail12');
 
 ">
@@ -40,56 +40,56 @@ noDisplay('detail11');noDisplay('detail12');
        <span class="st_name">榎本成志</span><span class="st_belong">E研</span>
 </a></li>
 
-<li><a href="#articles_detail" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
+<li><a href="#articles_detail" onclick="Display('articles_detail');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
     <img alt="安西高廣・塩田拓也" class="face" src="./images/ja/topics4/kanban/k_as.png">
     <h2 id="tp_title4">タンパク質の就職活動</h2>
     <span class="st_name">安西高廣・塩田拓也</span><span class="st_belong">理学研究科物質理学専攻(化学系)生物化学研究室</span>
 </a></li>
 
-<li><a href="#articles_detail" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');Display('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
+<li><a href="#articles_detail" onclick="Display('articles_detail');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');Display('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');
 noDisplay('detail11');noDisplay('detail12')">
     <img alt="久保宏樹" class="face" src="./images/ja/topics4/kanban/k_kubo.png">
     <h2 id="tp_title5">経済物理学-物理学からみる経済学-</h2>
     <span class="st_name">久保宏樹</span><span class="st_belong">物理学科4年</span>
 </a></li>
 
-<li><a href="#articles_detail" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');Display('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
+<li><a href="#articles_detail" onclick="Display('articles_detail');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');Display('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
 <img alt="" class="face" src="./images/ja/topics4/kanban/k_konishi.png">
         <h2 id="tp_title6">大学の数学って何？ー広大なる世界への第一歩ー</h2>
     <span class="st_name">小西正秀</span><span class="st_belong">多元数理研究科</span>
 </a></li>
 
-<li><a href="#articles_detail" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');Display('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
+<li><a href="#articles_detail" onclick="Display('articles_detail');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');Display('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
 <img alt="" class="face" src="./images/ja/topics4/kanban/k_adachi.png">
         <h2 id="tp_title7">円の数学 </h2>
     <span class="st_name">足立真訓</span><span class="st_belong">多元数理科学研究科</span>
 </a></li>
 
-<li><a href="#articles_detail" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');Display('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
+<li><a href="#articles_detail" onclick="Display('articles_detail');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');Display('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
 <img alt="" class="face" src="./images/ja/topics4/kanban/k_kato.png">
         <h2 id="tp_title8">地球環境システム学への招待 </h2>
     <span class="st_name">加藤杏奈</span><span class="st_belong">環境学研究科地球環境科学専攻</span>
 </a></li>
 
-<li><a href="#articles_detail" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');Display('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
+<li><a href="#articles_detail" onclick="Display('articles_detail');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');Display('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12')">
 <img alt="" class="face" src="./images/ja/topics4/kanban/k_gcl.png">
         <h2 id="tp_title9">地球を化学する </h2>
     <span class="st_name">片岡良輔</span><span class="st_belong">環境学研究科地球環境科学専攻</span>
 </a></li>
 
-<li><a href="#articles_detail" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');Display('detail10');noDisplay('detail11');noDisplay('detail12')">
+<li><a href="#articles_detail" onclick="Display('articles_detail');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');Display('detail10');noDisplay('detail11');noDisplay('detail12')">
 <img alt="" class="face" src="./images/ja/topics4/kanban/k_hara.png">
         <h2 id="tp_title10">太陽地球環境研究所　研究所紹介</h2>
     <span class="st_name">原拓也</span><span class="st_belong">太陽地球環境研究所</span>
 </a></li>
 
-<li><a href="#articles_detail" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');Display('detail11');noDisplay('detail12')">
+<li><a href="#articles_detail" onclick="Display('articles_detail');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');Display('detail11');noDisplay('detail12')">
 <img alt="" class="face" src="./images/ja/topics4/kanban/k_takeuchi.png">
         <h2 id="tp_title11">140年間探索されてきた花粉管誘引物質を発見！</h2>
     <span class="st_name">武内秀憲</span><span class="st_belong">生命理学専攻 機能調節学講座 生殖分子情報学グループ</span>
 </a></li>
 
-<li><a href="#articles_detail" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');Display('detail12')">
+<li><a href="#articles_detail" onclick="Display('articles_detail');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');Display('detail12')">
 <img alt="" class="face" src="./images/ja/topics4/kanban/k_yamauchi.png">
         <h2 id="tp_title12">遊び・運動・学習による脳の活性化のしくみ</h2>
     <span class="st_name">山内康久</span><span class="st_belong">理学部生命理学科 細胞制御学研究グループ</span>

@@ -68,6 +68,7 @@ ul#articles_title li a *
 
 ul#articles_detail
 {
+    display: none;
     position: relative;
     top: -145px;
     padding-top: 100px;
