@@ -70,7 +70,7 @@ ul#articles_detail
 {
     position: relative;
     top: -85px;
-    margin-top: 500px;
+    padding-top: 500px;
     background-image: url("../../images/ja/topics4/background2.png");
 }
 
