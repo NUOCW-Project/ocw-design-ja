@@ -108,8 +108,8 @@ ul#articles_detail li p
 
 ul#articles_detail li p.comment
 {
-    width: 374px;
-    height: 248px;
+    width: 561px;
+    height: 372px;
     padding: 30px 25px 20px 20px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
     background-repeat: no-repeat;
@@ -118,4 +118,5 @@ ul#articles_detail li p.comment
 ul#articles_detail li img
 {
     float: left;
+    margin-left: -70px;
 }
