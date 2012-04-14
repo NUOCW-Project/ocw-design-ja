@@ -5,19 +5,20 @@ p#lead
     color: dimgray;
 }
 
-#articles_title
+ul#articles_title
 {
     width: 840px;
+    background-image: url("../../images/ja/topics4/background1.png");
 }
 
-#articles_title li 
+ul#articles_title li 
 {
     height: 90px;
     width: 420px;
     float: left;
 }
 
-#articles_title li a
+ul#articles_title li a
 {
     width: 390px;
     height: 85px;
@@ -27,7 +28,7 @@ p#lead
     background-position: 0px center;
 }
 
-#articles_title li a:hover
+ul#articles_title li a:hover
 {
     background-image: url("../../images/ja/topics4/check.png");
     background-repeat: no-repeat;
@@ -36,36 +37,42 @@ p#lead
 /*    border-bottom: solid 2px #cc6699;*/
 }
 
-#articles_title li a h2
+ul#articles_title li a h2
 {
     font-weight: bold;
 }
 
-#articles_title li a span
+ul#articles_title li a span
 {
     text-decoration: none !important;
     color: #030303 !important;
 }
 
-#articles_title li a span.st_name
+ul#articles_title li a span.st_name
 {
     font-size: 110%;
 }
 
-#articles_title li a span.st_belong:before
+ul#articles_title li a span.st_belong:before
 {
     content:" ¡ü ";
     color: gray;
 }
 
-#articles_title li a *
+ul#articles_title li a *
 {
     vertical-align: text-bottom;
 }
 
+ul#articles_detail
+{
+    background-image: url("../../images/ja/topics4/background2.png");
+}
+
 ul#articles_detail li h1
 {
-    color: blue;
+    color: #1e90ff;
+    font-weight: lighter;
 }
 
 ul#articles_detail li h1:before
