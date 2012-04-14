@@ -70,7 +70,7 @@ ul#articles_title li a *
 
 ul#articles_detail
 {
-    width: 740px;
+    width: 941px;
     display: none;
     position: relative;
     top: -145px;
@@ -78,7 +78,7 @@ ul#articles_detail
     margin-right: 30px;
     background-image: url("../../images/ja/topics4/background2.png");
     background-repeat: no-repeat;
-    background-position: top right;
+    background-position: top left;
 }
 
 ul#articles_deatil:after
