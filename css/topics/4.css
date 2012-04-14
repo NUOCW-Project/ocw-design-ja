@@ -12,6 +12,7 @@ ul#articles_title
     width: 840px;
     background-image: url("../../images/ja/topics4/background1.png");
     background-repeat: no-repeat;
+    background-position: top left;
 }
 
 ul#articles_title li 
@@ -75,6 +76,7 @@ ul#articles_detail
     padding-top: 100px;
     margin-right: 30px;
     background-image: url("../../images/ja/topics4/background2.png");
+    background-position: top right;
 }
 
 ul#articles_detail li h1
