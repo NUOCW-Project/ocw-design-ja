@@ -94,10 +94,8 @@ noDisplay('detail11');noDisplay('detail12')">
         <h2 id="tp_title12">遊び・運動・学習による脳の活性化のしくみ</h2>
     <span class="st_name">山内康久</span><span class="st_belong">理学部生命理学科 細胞制御学研究グループ</span>
 </a></li>
-
 </ul>
 
-<div id="vertical_border"></div>
 <ul id="articles_detail">
 <li id="detail1">
 <h1>ブーメランはなぜ戻ってくるのか</h1>
