@@ -7,7 +7,7 @@ p#lead
 
 ul#articles_title
 {
-    margin: 0px 10px 60px 0px;
+    margin: 0px 10px 70px 0px;
     padding: 100px 0px 0px 30px;
     width: 840px;
     background-image: url("../../images/ja/topics4/background1.png");
@@ -70,7 +70,7 @@ ul#articles_detail
 {
     position: relative;
     top: -85px;
-    margin-top: 250px;
+    margin-top: 300px;
     background-image: url("../../images/ja/topics4/background2.png");
 }
 
