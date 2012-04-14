@@ -7,11 +7,10 @@ p#lead
 
 ul#articles_title
 {
-    margin: 0px 10px 20px 0px;
+    margin: 0px 10px 60px 0px;
     padding: 100px 0px 0px 30px;
     width: 840px;
     background-image: url("../../images/ja/topics4/background1.png");
-    z-index: 3;
 }
 
 ul#articles_title li 
@@ -70,10 +69,9 @@ ul#articles_title li a *
 ul#articles_detail
 {
     position: relative;
-    top: -80px;
-    margin-top: 200px;
+    top: -85px;
+    margin-top: 250px;
     background-image: url("../../images/ja/topics4/background2.png");
-    z-index: 1;
 }
 
 ul#articles_detail li h1
