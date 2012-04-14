@@ -7,7 +7,7 @@ p#lead
 
 ul#articles_title
 {
-    margin: 0px 10px 10px -15px;
+    margin: 0px 10px 10px -25px;
     padding: 100px 0px 120px 30px;
     width: 960px;
     background-image: url("../../images/ja/topics4/background1.png");
@@ -104,6 +104,7 @@ ul#articles_detail li p
     width:250px;
     float: left;
     margin: 10px;
+    padding: 10px;
 }
 
 ul#articles_detail li p.comment
@@ -118,6 +119,6 @@ ul#articles_detail li p.comment
 ul#articles_detail li img
 {
     float: left;
-    margin-left: -70px;
+    margin-left: -50px;
     max-width: 200px;
 }
