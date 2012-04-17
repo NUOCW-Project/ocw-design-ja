@@ -109,8 +109,8 @@ ul#articles_detail li h1:before
 
 ul#articles_detail li p.abst
 {
-    width:440px;
-    height: 471px;
+    width: 350px;
+    height: 381px;
    /* float: left; */
     padding: 15px 80px 20px 10px;
     margin: 10px;
@@ -131,7 +131,6 @@ ul#articles_detail li p.comment
 
 ul#articles_detail li div.tp_video
 {
-    display: inline;
     clear: left;
     float: left;
 }
@@ -142,6 +141,7 @@ ul#articles_detail li img.imgshot
     height: 194px;
     clear: left;
     float: left;
+    display: block;
 }
 
 ul#articles_detail li img.person
