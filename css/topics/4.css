@@ -101,8 +101,7 @@ ul#articles_detail li p.abst
 {
     width:440px;
     height: 471px;
-/*    float: left; */
-    display: inline;
+    float: left; 
     margin: 10px;
     padding: 10px;
     background-image: url(../../images/ja/topics4/paper.png);
@@ -115,21 +114,20 @@ ul#articles_detail li p.comment
     padding: 46px 25px 18px 22px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
     background-repeat: no-repeat;
+    clear: left;
+    float: left;
 }
 
 ul#articles_detail li img.imgshot
 {
     width: 278px;
     height: 194px;
-}
-
-ul#articles_detail li img.imgshot
-{
-    display: inline;
+    clear: left;
+    float: left;
 }
 
 ul#articles_detail li img.person
 {
-    float: left;
+    /*float: left;*/
     margin-left: -40px;
 }
