@@ -70,10 +70,10 @@ ul#articles_title li a *
 
 ul#articles_detail
 {
-    width: 900px;
+    width: 870px;
     display: none;
     position: relative;
-    top: -45px;
+    top: -95px;
     left: -20px;
     padding: 25px 20px 20px 20px;
     background-color: #F0F0FF;
@@ -103,6 +103,7 @@ ul#articles_detail li p
     float: left;
     margin: 10px;
     padding: 10px;
+    background-image: url(../../images/ja/topics4/paper.png);
 }
 
 ul#articles_detail li p.comment
@@ -117,5 +118,5 @@ ul#articles_detail li p.comment
 ul#articles_detail li img
 {
     float: left;
-    margin-left: -30px;
+    margin-left: -40px;
 }
