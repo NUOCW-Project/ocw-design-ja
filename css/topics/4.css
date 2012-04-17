@@ -73,7 +73,7 @@ ul#articles_detail
     width: 870px;
     display: none;
     position: relative;
-    top: -95px;
+    top: -125px;
     left: -20px;
     padding: 25px 20px 20px 20px;
     background-image: url("../../images/ja/topics4/background2.png");
@@ -94,6 +94,7 @@ ul#articles_detail li
     position: relative;
     top: 20px;
     left: 10px;
+    width: 760px;
 }
 
 ul#articles_detail li h1
@@ -122,6 +123,7 @@ ul#articles_detail li p.comment
 {
     width: 280px;
     height: 186px;
+    margin: -30px 0px 10px 20px;
     padding: 46px 25px 18px 22px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
     background-repeat: no-repeat;
@@ -133,6 +135,7 @@ ul#articles_detail li div.tp_video
 {
     clear: left;
     float: left;
+    margin-left: 20px;
 }
 
 ul#articles_detail li img.imgshot
@@ -142,10 +145,11 @@ ul#articles_detail li img.imgshot
     clear: left;
     float: left;
     display: block;
+    margin-left: 20px;
 }
 
 ul#articles_detail li img.person
 {
     /*float: left;*/
-    margin-left: -40px;
+    margin: -30px 20px 10px -40px;
 }
