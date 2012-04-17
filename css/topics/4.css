@@ -102,9 +102,10 @@ ul#articles_detail li p.abst
     width:440px;
     height: 471px;
     float: left; 
-    margin: 10px;
+    margin: 15px 70px 20px 10px;
     padding: 10px;
     background-image: url(../../images/ja/topics4/paper.png);
+    background-repeat: no-repeat;
 }
 
 ul#articles_detail li p.comment
@@ -116,6 +117,11 @@ ul#articles_detail li p.comment
     background-repeat: no-repeat;
     clear: left;
     float: left;
+}
+
+ul#articles_detail li div.tp_video
+{
+    display: inline;
 }
 
 ul#articles_detail li img.imgshot
