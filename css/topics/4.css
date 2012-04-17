@@ -70,15 +70,13 @@ ul#articles_title li a *
 
 ul#articles_detail
 {
-    width: 941px;
+    width: 920px;
     display: none;
     position: relative;
-    top: -145px;
-    padding: 115px 20px 20px 30px;
+    top: -45px;
+    padding: 25px 20px 20px 20px;
     margin-left: -30px;
-    background-color: #F0F0FF;
-    background-repeat: no-repeat;
-    background-position: top left;
+    background-color: #FAFAFF;
 }
 
 ul#articles_detail:after
@@ -111,7 +109,7 @@ ul#articles_detail li p.comment
 {
     width: 280px;
     height: 186px;
-    padding: 43px 25px 20px 20px;
+    padding: 45px 25px 20px 20px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
     background-repeat: no-repeat;
 }
