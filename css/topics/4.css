@@ -97,10 +97,12 @@ ul#articles_detail li h1:before
     content:"¡ü ";   
 }
 
-ul#articles_detail li p
+ul#articles_detail li p.abst
 {
-    width:280px;
-    float: left;
+    width:440px;
+    height: 471px;
+/*    float: left; */
+    display: inline;
     margin: 10px;
     padding: 10px;
     background-image: url(../../images/ja/topics4/paper.png);
@@ -115,7 +117,18 @@ ul#articles_detail li p.comment
     background-repeat: no-repeat;
 }
 
-ul#articles_detail li img
+ul#articles_detail li img.imgshot
+{
+    width: 278px;
+    height: 194px;
+}
+
+ul#articles_detail li img.imgshot
+{
+    display: inline;
+}
+
+ul#articles_detail li img.person
 {
     float: left;
     margin-left: -40px;
