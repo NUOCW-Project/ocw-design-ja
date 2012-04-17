@@ -18,13 +18,13 @@ ul#articles_title
 ul#articles_title li 
 {
     height: 90px;
-    width: 400px;
+    width: 440px;
     float: left;
 }
 
 ul#articles_title li a
 {
-    width: 390px;
+    width: 400px;
     height: 85px;
     padding-left: 30px;
     background-image: url("../../images/ja/topics4/check_off.png");
@@ -76,7 +76,7 @@ ul#articles_detail
     top: -145px;
     padding: 115px 20px 20px 30px;
     margin-left: -30px;
-    background-image: url("../../images/ja/topics4/background2.png");
+    background-color: #F0F0FF;
     background-repeat: no-repeat;
     background-position: top left;
 }
@@ -96,7 +96,7 @@ ul#articles_detail li h1
 
 ul#articles_detail li h1:before
 {
-    content:"¡ü";   
+    content:"¡ü ";   
 }
 
 ul#articles_detail li p
@@ -111,7 +111,7 @@ ul#articles_detail li p.comment
 {
     width: 280px;
     height: 186px;
-    padding: 30px 25px 20px 20px;
+    padding: 43px 25px 20px 20px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
     background-repeat: no-repeat;
 }
