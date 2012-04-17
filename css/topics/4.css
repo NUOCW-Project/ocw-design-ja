@@ -102,8 +102,8 @@ ul#articles_detail li p.abst
     width:440px;
     height: 471px;
     float: left; 
-    margin: 15px 70px 20px 10px;
-    padding: 10px;
+    padding: 15px 70px 20px 10px;
+    margin: 10px;
     background-image: url(../../images/ja/topics4/paper.png);
     background-repeat: no-repeat;
 }
@@ -122,6 +122,8 @@ ul#articles_detail li p.comment
 ul#articles_detail li div.tp_video
 {
     display: inline;
+    clear: left;
+    float: left;
 }
 
 ul#articles_detail li img.imgshot
