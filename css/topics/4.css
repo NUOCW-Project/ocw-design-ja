@@ -109,10 +109,10 @@ ul#articles_detail li h1:before
 
 ul#articles_detail li p.abst
 {
-    width: 315px;
-    height: 426px;
+    width: 285px;
+    height: 396px;
     float: left;
-    padding: 20px 90px 25px 35px;
+    padding: 50px 120px 25px 35px;
     margin: 10px;
     background-image: url(../../images/ja/topics4/paper.png);
     background-repeat: no-repeat;
