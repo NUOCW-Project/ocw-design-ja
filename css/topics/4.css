@@ -76,11 +76,11 @@ ul#articles_title li a *
 
 ul#articles_detail
 {
-    width: 870px;
+    width: 941px;
     display: none;
     position: relative;
     top: -145px;
-    left: -50px;
+    left: -40px;
     padding: 25px 20px 20px 20px;
     background-image: url("../../images/ja/topics4/background2.png");
     background-repeat: no-repeat;
