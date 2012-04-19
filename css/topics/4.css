@@ -163,4 +163,6 @@ ul#articles_detail li img.person
 #hr_marker
 {
     visibility: hidden;
+    position: relative;
+    top: -145px;
 }
