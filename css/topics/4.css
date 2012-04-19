@@ -74,14 +74,14 @@ ul#articles_detail
     display: none;
     position: relative;
     top: -145px;
-    left: -20px;
+    left: -30px;
     padding: 25px 20px 20px 20px;
     background-image: url("../../images/ja/topics4/background2.png");
     background-repeat: no-repeat;
 
 }
 
-ul#articles_detail:after
+ul#articles_detail li:after
 {
      content: "";
      display: block;
@@ -90,9 +90,9 @@ ul#articles_detail:after
 
 ul#articles_detail li
 {
-    background-color: #FDFDFF;
+    background-color: #FBFBFF;
     position: relative;
-    top: 20px;
+    top: 50px;
     left: 30px;
     width: 780px;
 }
