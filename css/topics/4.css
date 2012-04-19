@@ -159,3 +159,8 @@ ul#articles_detail li img.person
     /*float: left;*/
     margin: -30px 20px 10px 0px;
 }
+
+#hr_marker
+{
+    visibility: hidden;
+}
