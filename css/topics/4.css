@@ -165,6 +165,8 @@ p.tp_resources
     text-align: right;
     clear: left;
     color: #CC6699;
+    font-size: larger;
+    max-width: 40%;
 }
 
 #hr_marker

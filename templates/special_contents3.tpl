@@ -96,7 +96,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">ブーメランがどのように飛んでいるのかを考えたことがありますか？その仕組みには揚力という力とブーメランの「回転」がとても大きな働きをしています。ブーメランはなぜ落ちないのか？どうして手元へ戻ってくるのか？今回はブーメランの描く軌跡の理由を基礎的なところから説明していきたいと思います。また実際に紙でブーメラン作って飛ばしてみるので興味のある方はぜひブーメランを作りに来てください。</p>
 <p class="comment">身近なものを物理的にとらえることを通じて、物理に関する固いイメージをなくしてもらえたら、と思います。</p>
 <img class="person" alt="前川浩隆" src="./images/ja/topics4/person/maekawa.png">
-<p class="tp_resources">参考資料●<br<a href="./files/ja/topics4/">.pdf</a></p>
+<p class="tp_resources">参考資料●<br><a href="./files/ja/topics4/01maekawa.pdf">.pdf</a></p>
 </li>
 <li id="detail2">
 <h1>コンピュータでみる物理，化学，生命の世界</h1>
@@ -104,7 +104,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">コンピュータを用いたシミュレーションにより，分子の運動を再現し、物質の性質を理解することができるようになってきました。そのようなシミュレーションは物理や化学の問題を解決することを助け，また，私たちに欠かせないタンパク質などの生体分子に応用されて、薬を開発する際の方法のひとつにもなってきています。今回は、そのようなタンパク質におけるシミュレーションの動画を見ていただき、最新の研究を楽しんでいただけたらと思います。</p>
 <p class="comment">好奇心旺盛な多くの方に来て頂いて、こちらも楽しかった。</p>
 <img class="person" art="森義治" src="./images/ja/topics4/person/mori.png">
-<p class="tp_resources">参考資料●<br<a href="./files/ja/topics4/">.pdf</a></p>
+<p class="tp_resources">参考資料●<br><a href="./files/ja/topics4/03mori.pdf">.pdf</a></p>
 </li>
 <li id="detail3">
 <h1>素粒子の世界</h1>
@@ -119,7 +119,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="comment">集客を狙ってキャッチーなタイトルにしたが、その必要もなく、就職というタイトルにしたのに、研究志望の方が多く来たので、なんだか申し訳ない気分になった。<br>
 1年生に基礎から最先端の内容まで紹介した。なんとなくでもわかってもらえれば。</p>
 <img class="person" art="安西高廣・塩田拓也" src="./images/ja/topics4/person/siota_anzai.png">
-<p class="tp_resources">参考資料●<br<a href="./files/ja/topics4/">.pdf</a></p>
+<p class="tp_resources">参考資料●<br><a href="./files/ja/topics/05siota_anzai.pdf">.pdf</a></p>
 </li>
 
 <li id="detail5">
@@ -136,7 +136,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">皆さんにとって「数学」とはどういうものだったでしょうか。高校の数学が好きな人も嫌いな人も、得意な人も苦手な人もいるでしょう。ただ、大学からの数学は趣がガラリと変わります。ここでは学部三年次に制作するポスターを多数展示しています。新入生が一目見て理解できる代物ではありませんが、それでも充分に数学の世界を垣間見ることができます。今まで抱いてきた数学への思いを一旦忘れて、真っ白な心で数学の世界を眺め、その広さを感じて下さい。気になったことがあれば近くで暇そうにしている先輩に声を掛けて下さい。彼らは数学の世界の住民ですが、怖い人ではありません。どうぞお気軽に。</p>
 <p class="comment">新入生に数学を感じてもらえれば良い。</p>
 <img class="person" art="小西正秀" src="./images/ja/topics4/person/konishi.png">
-<p class="tp_resources">参考資料●<br<a href="./files/ja/topics4/">.pdf</a></p>
+<p class="tp_resources">参考資料●<br><a href="./files/jatopics4/konishi/">.pdf</a></p>
 </li>
 
 <li id="detail7">
@@ -146,7 +146,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="comment">1年生はやる気に満ちあふれているので。その勢いをそのまま勉強にあててもらえれば。高校と大学に間をつなぐことを意識しました。
 話していると、就職どうしよう、学科分属など相談を受けた。</p>
 <img class="person" art="足立真訓" src="./images/ja/topics4/person/adachi.png">
-<p class="tp_resources">参考資料●<br<a href="./files/ja/topics4/">.pdf</a></p>
+<p class="tp_resources">参考資料●br><a href="./files/ja/topics4/09adachi.pdf">.pdf</a></p>
 </li>
 
 <li id="detail8">
@@ -186,7 +186,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">遊び道具や仲間の多い豊かな環境で育ったラットでは脳がよく発達する」というデータが1945年にRosenzweigらによって報告されました。それ以来サルまでの哺乳類において、適度な感覚刺激や運動が脳重量、神経細胞数、シナプス結合数を後天的に増やし、さらにストレスや疾患への耐性をも与えることが確立しました。この生命現象は比較的短期間で大きな脳と高い知性を獲得したヒトの進化の謎への手がかりを与えるだけでなく、その分子メカニズムを解明し、強化することで教育や医療への応用も期待されることから、広く注目を集めています。私たちは、興奮した神経細胞がGFP(クラゲの蛍光蛋白質）で光るようにデザインした遺伝子改変マウスや、感覚や運動の代わりに電気でピンポイント刺激した脳などを用いて、脳の活性化のしくみを探索しています。あなたもマウスと遊んだり彼らの光る脳を蛍光顕微鏡で観察したりしながら、自分の脳を活性化してみませんか。 </p>
 <p class="comment">私達と研究をぜひしてみたい学生を”大”募集中です！ </p>
 <img class="person" art="山内康久" src="./images/ja/topics4/person/yamauchi.png">
-<p class="tp_resources">参考資料●<br<a href="./files/ja/topics4/">.pdf</a></p>
+<p class="tp_resources">参考資料●<br><a href="./files/jatopics4/14yamauchi.pdf">.pdf</a></p>
 </li>
 
 </ul>
