@@ -160,6 +160,13 @@ ul#articles_detail li img.person
     margin: -30px 20px 10px 0px;
 }
 
+p.tp_resources
+{
+    text-align: right;
+    clear: left;
+    color: #CC6699;
+}
+
 #hr_marker
 {
     visibility: hidden;
