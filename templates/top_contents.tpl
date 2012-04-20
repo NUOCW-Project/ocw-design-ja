@@ -3,13 +3,13 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
-<!-- 遊び体験 -->
+<!-- 新歓SC -->
 <div>
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_branches">
-<img src="./images/ja/topics3/header.png" alt="名大の授業 TOIPCS　No.3 遊び体験から学ぶ授業" width="694" height="399" >
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=special">
+<img src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" >
           </a>
   </div>
-<!-- 遊び体験 end -->
+<!-- 新歓SC end -->
 
 
 <div class="inline">
