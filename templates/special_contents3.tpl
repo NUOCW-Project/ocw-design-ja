@@ -151,7 +151,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">円は最も基本的な図形の一つで、紀元前から研究されてきた数学的対象です。みなさんも小学校の算数以来、中学校の初等幾何学や、高校の座標幾何学、三角関数など、円に親しんでこられたかと思います。大学で学ぶ数学でも、円について新しい側面を学ぶことになりますし、実は、円についてまだ分かっておらず、研究されている話題もまだまだあります。そんな中からいくつかのトピックをご紹介しようと思います。 </p>
 <img class="person" art="足立真訓" src="./images/ja/topics4/person/adachi.png">
 <p class="tp_resources">参考資料●
-<br><a href="./images/ja/topics4/pdf/09adachi.pdf">.pdf</a></p>
+<br><a href="./images/ja/topics4/pdf/09adachi.pdf">円の数学</a></p>
 </li>
 
 <li id="detail8">
