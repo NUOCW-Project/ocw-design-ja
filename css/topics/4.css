@@ -6,7 +6,7 @@ div#contents
 
 div#tp_header
 {
-    width: 790px;
+    width: 800px;
     margin: 50px auto 0 auto;
 }
 
@@ -130,7 +130,7 @@ ul#articles_detail li p.abst
 {
     width: 285px;
     height: 386px;
-    /*float: left;*/
+    float: right;
     padding: 60px 115px 25px 40px;
     margin: 10px;
     background-image: url(../../images/ja/topics4/paper.png);
@@ -142,7 +142,7 @@ ul#articles_detail li p.comment
     color: white;
     width: 280px;
     height: 145px;
-    margin: 10px;
+    margin: 10px 0px 0px 10px;
     padding: 46px 25px 18px 22px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
     background-repeat: no-repeat;
@@ -162,7 +162,7 @@ ul#articles_detail li img.person
 {
     clear: left;
     float: left;
-    margin: 10px;
+    margin: 10px 0px 0px 10px;
     display: block;
 }
 
