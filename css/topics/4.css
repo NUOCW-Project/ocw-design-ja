@@ -4,6 +4,12 @@ div#contents
     width: 895px !important;
 }
 
+div#tp_header
+{
+    width: 781px;
+    margin: 50px auto 0 auto;
+}
+
 p#lead
 {
     text-align: center;
@@ -45,6 +51,11 @@ ul#articles_title li a:hover
     text-decoration: none;
     color: #cc6699;
 /*    border-bottom: solid 2px #cc6699;*/
+}
+
+ul#articles_title li a img.face
+{
+    margin: 0 20px 0 0;
 }
 
 ul#articles_title li a h2
@@ -107,6 +118,7 @@ ul#articles_detail li h1
 {
     color: #1e90ff;
     font-weight: lighter;
+    margin: 30px;
 }
 
 ul#articles_detail li h1:before
@@ -118,7 +130,7 @@ ul#articles_detail li p.abst
 {
     width: 285px;
     height: 386px;
-    float: left;
+    /*float: left;*/
     padding: 60px 115px 25px 40px;
     margin: 10px;
     background-image: url(../../images/ja/topics4/paper.png);
@@ -127,13 +139,14 @@ ul#articles_detail li p.abst
 
 ul#articles_detail li p.comment
 {
+    color: white;
     width: 280px;
     height: 186px;
-    margin: -30px -40px 10px 20px;
+    margin: 10px;
     padding: 46px 25px 18px 22px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
     background-repeat: no-repeat;
-
+    clear: left;
     float: left;
 }
 
@@ -144,20 +157,11 @@ ul#articles_detail li div.tp_video
     margin-left: 20px;
 }
 
-ul#articles_detail li img.imgshot
-{
-    width: 278px;
-    height: 194px;
-    clear: left;
-    float: left;
-    display: block;
-    margin-left: 20px;
-}
-
 ul#articles_detail li img.person
 {
-    /*float: left;*/
-    margin: -30px 20px 10px 0px;
+    clear: left;
+    float: left;
+    margin: 10px;
 }
 
 p.tp_resources
