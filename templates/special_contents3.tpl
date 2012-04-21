@@ -134,13 +134,13 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">皆さんにとって「数学」とはどういうものだったでしょうか。高校の数学が好きな人も嫌いな人も、得意な人も苦手な人もいるでしょう。ただ、大学からの数学は趣がガラリと変わります。ここでは学部三年次に制作するポスターを多数展示しています。新入生が一目見て理解できる代物ではありませんが、それでも充分に数学の世界を垣間見ることができます。今まで抱いてきた数学への思いを一旦忘れて、真っ白な心で数学の世界を眺め、その広さを感じて下さい。気になったことがあれば近くで暇そうにしている先輩に声を掛けて下さい。彼らは数学の世界の住民ですが、怖い人ではありません。どうぞお気軽に。</p>
 <img class="person" art="小西正秀" src="./images/ja/topics4/person/konishi.png">
 <p class="tp_resources">参考資料●
-<br><a href="./images/ja/topics4/pdf/07konishi/Bertrand.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/07konishi/Fuerstenbrgs.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/07konishi/Kaleidoscope.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/07konishi/folding.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/07konishi/fractale.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/07konishi/game.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/07konishi/knot.pdf">.pdf</a>
+<br><a href="./images/ja/topics4/pdf/Bertrand.pdf">.pdf</a>
+<br><a href="./images/ja/topics4/pdf/Fuerstenbrgs.pdf">.pdf</a>
+<br><a href="./images/ja/topics4/pdf/Kaleidoscope.pdf">.pdf</a>
+<br><a href="./images/ja/topics4/pdf/folding.pdf">.pdf</a>
+<br><a href="./images/ja/topics4/pdf/fractale.pdf">.pdf</a>
+<br><a href="./images/ja/topics4/pdf/game.pdf">.pdf</a>
+<br><a href="./images/ja/topics4/pdf/knot.pdf">.pdf</a>
 </p>
 </li>
 
