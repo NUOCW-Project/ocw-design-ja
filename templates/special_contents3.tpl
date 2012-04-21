@@ -95,7 +95,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">ブーメランがどのように飛んでいるのかを考えたことがありますか？その仕組みには揚力という力とブーメランの「回転」がとても大きな働きをしています。ブーメランはなぜ落ちないのか？どうして手元へ戻ってくるのか？今回はブーメランの描く軌跡の理由を基礎的なところから説明していきたいと思います。また実際に紙でブーメラン作って飛ばしてみるので興味のある方はぜひブーメランを作りに来てください。</p>
 <img class="person" alt="前川浩隆" src="./images/ja/topics4/person/maekawa.png">
 <p class="tp_resources">参考資料●<br>
-<a href="./images/ja/topics4/pdf/01maekawa.pdf">.pdf</a></p>
+<a href="./images/ja/topics4/pdf/01maekawa.pdf">なぜブーメランは戻ってくるのか</a></p>
 </li>
 <li id="detail2">
 <h1>コンピュータでみる物理，化学，生命の世界</h1>
@@ -103,7 +103,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">コンピュータを用いたシミュレーションにより，分子の運動を再現し、物質の性質を理解することができるようになってきました。そのようなシミュレーションは物理や化学の問題を解決することを助け，また，私たちに欠かせないタンパク質などの生体分子に応用されて、薬を開発する際の方法のひとつにもなってきています。今回は、そのようなタンパク質におけるシミュレーションの動画を見ていただき、最新の研究を楽しんでいただけたらと思います。</p>
 <img class="person" art="森義治" src="./images/ja/topics4/person/mori.png">
 <p class="tp_resources">参考資料●
-<br><a href="./images/ja/topics4/pdf/03mori.pdf">.pdf</a></p>
+<br><a href="./images/ja/topics4/pdf/03mori.pdf">コンピュータでみる物理，化学，生命の世界</a></p>
 </li>
 <li id="detail3">
 <h1>素粒子の世界</h1>
@@ -117,7 +117,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">タンパク質は生まれて、成長し、働き、そして分解されますが、これはまるでわれわれの人生のようだと思いませんか？タンパク質が、細胞内のいくつものゲートを通って正しい場所へと移動していく様子は、まるでタンパク質が就職活動しているようにも感じられます。グレた（正しい立体構造をとれなかった）タンパク質は、シャペロンとよばれる細胞内の保護観察官の助けを借りて更生（正しい立体構造をとる）されます。サイエンスカフェでは、このような素晴らしい細胞内の機能について、わかりやすく説明したいと思います。</p>
 <img class="person" art="安西高廣・塩田拓也" src="./images/ja/topics4/person/siota_anzai.png">
 <p class="tp_resources">参考資料●
-<br><a href="./images/ja/topics/pdf/05siota_anzai.pdf">.pdf</a></p>
+<br><a href="./images/ja/topics4/pdf/05siota_anzai.pdf">タンパク質の就職活動</a></p>
 </li>
 
 <li id="detail5">
@@ -151,7 +151,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">円は最も基本的な図形の一つで、紀元前から研究されてきた数学的対象です。みなさんも小学校の算数以来、中学校の初等幾何学や、高校の座標幾何学、三角関数など、円に親しんでこられたかと思います。大学で学ぶ数学でも、円について新しい側面を学ぶことになりますし、実は、円についてまだ分かっておらず、研究されている話題もまだまだあります。そんな中からいくつかのトピックをご紹介しようと思います。 </p>
 <img class="person" art="足立真訓" src="./images/ja/topics4/person/adachi.png">
 <p class="tp_resources">参考資料●
-<br><a href=./images/ja/topics4/pdf/09adachi.pdf">.pdf</a></p>
+<br><a href="./images/ja/topics4/pdf/09adachi.pdf">.pdf</a></p>
 </li>
 
 <li id="detail8">
@@ -187,7 +187,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">遊び道具や仲間の多い豊かな環境で育ったラットでは脳がよく発達する」というデータが1945年にRosenzweigらによって報告されました。それ以来サルまでの哺乳類において、適度な感覚刺激や運動が脳重量、神経細胞数、シナプス結合数を後天的に増やし、さらにストレスや疾患への耐性をも与えることが確立しました。この生命現象は比較的短期間で大きな脳と高い知性を獲得したヒトの進化の謎への手がかりを与えるだけでなく、その分子メカニズムを解明し、強化することで教育や医療への応用も期待されることから、広く注目を集めています。私たちは、興奮した神経細胞がGFP(クラゲの蛍光蛋白質）で光るようにデザインした遺伝子改変マウスや、感覚や運動の代わりに電気でピンポイント刺激した脳などを用いて、脳の活性化のしくみを探索しています。あなたもマウスと遊んだり彼らの光る脳を蛍光顕微鏡で観察したりしながら、自分の脳を活性化してみませんか。 </p>
 <img class="person" art="山内康久" src="./images/ja/topics4/person/yamauchi.png">
 <p class="tp_resources">参考資料●
-<br><a href="./images/ja/topics4/pdf/14yamauchi.pdf">.pdf</a></p>
+<br><a href="./images/ja/topics4/pdf/14yamauchi.pdf">「遊び」や運動による脳の再編成のしくみ</a></p>
 </li>
 
 </ul>
