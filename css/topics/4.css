@@ -6,7 +6,7 @@ div#contents
 
 div#tp_header
 {
-    width: 781px;
+    width: 790px;
     margin: 50px auto 0 auto;
 }
 
@@ -141,7 +141,7 @@ ul#articles_detail li p.comment
 {
     color: white;
     width: 280px;
-    height: 186px;
+    height: 145px;
     margin: 10px;
     padding: 46px 25px 18px 22px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
@@ -152,6 +152,7 @@ ul#articles_detail li p.comment
 
 ul#articles_detail li div.tp_video
 {
+    display: block;
     clear: left;
     float: left;
     margin-left: 20px;
@@ -162,6 +163,7 @@ ul#articles_detail li img.person
     clear: left;
     float: left;
     margin: 10px;
+    display: block;
 }
 
 p.tp_resources
