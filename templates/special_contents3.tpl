@@ -91,7 +91,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <ul id="articles_detail">
 <li id="detail1">
 <h1>ブーメランはなぜ戻ってくるのか</h1>
-<p class="comment_s">身近なものを物理的にとらえることを通じて、物理に関する固いイメージをなくしてもらえたら、と思います。</p>
+<p class="comment_l">身近なものを物理的にとらえることを通じて、物理に関する固いイメージをなくしてもらえたら、と思います。</p>
 <p class="abst">ブーメランがどのように飛んでいるのかを考えたことがありますか？その仕組みには揚力という力とブーメランの「回転」がとても大きな働きをしています。ブーメランはなぜ落ちないのか？どうして手元へ戻ってくるのか？今回はブーメランの描く軌跡の理由を基礎的なところから説明していきたいと思います。また実際に紙でブーメラン作って飛ばしてみるので興味のある方はぜひブーメランを作りに来てください。</p>
 <img class="person" alt="前川浩隆" src="./images/ja/topics4/person/maekawa.png">
 <p class="tp_resources">参考資料●<br>
@@ -134,13 +134,13 @@ noDisplay('detail11');noDisplay('detail12')">
 <p class="abst">皆さんにとって「数学」とはどういうものだったでしょうか。高校の数学が好きな人も嫌いな人も、得意な人も苦手な人もいるでしょう。ただ、大学からの数学は趣がガラリと変わります。ここでは学部三年次に制作するポスターを多数展示しています。新入生が一目見て理解できる代物ではありませんが、それでも充分に数学の世界を垣間見ることができます。今まで抱いてきた数学への思いを一旦忘れて、真っ白な心で数学の世界を眺め、その広さを感じて下さい。気になったことがあれば近くで暇そうにしている先輩に声を掛けて下さい。彼らは数学の世界の住民ですが、怖い人ではありません。どうぞお気軽に。</p>
 <img class="person" art="小西正秀" src="./images/ja/topics4/person/konishi.png">
 <p class="tp_resources">参考資料●
-<br><a href="./images/ja/topics4/pdf/Bertrand.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/Fuerstenbrgs.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/Kaleidoscope.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/folding.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/fractale.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/game.pdf">.pdf</a>
-<br><a href="./images/ja/topics4/pdf/knot.pdf">.pdf</a>
+<br><a href="./images/ja/topics4/pdf/Bertrand.pdf">ベルトランの仮説</a>
+<br><a href="./images/ja/topics4/pdf/Fuerstenbrgs.pdf">Fuerstenbrgs</a>
+<br><a href="./images/ja/topics4/pdf/Kaleidoscope.pdf">万華鏡の幾何学</a>
+<br><a href="./images/ja/topics4/pdf/folding.pdf">折り紙と２次方程式</a>
+<br><a href="./images/ja/topics4/pdf/fractale.pdf">フラクタルとジュリア集合</a>
+<br><a href="./images/ja/topics4/pdf/game.pdf">ゲーム理論</a>
+<br><a href="./images/ja/topics4/pdf/knot.pdf">結び目、絡み目の不変量</a>
 </p>
 </li>
 

@@ -140,10 +140,10 @@ ul#articles_detail li p.abst
 ul#articles_detail li p.comment_l
 {
     color: white;
-    width: 280px;
-    height: 145px;
+    width: 283px;
+    height: 154px;
     margin: 10px 0px 0px 10px;
-    padding: 46px 25px 18px 22px;
+    padding: 46px 20px 18px 25px;
     background-image: url(../../images/ja/topics4/l_hukidashi.png);
     background-repeat: no-repeat;
     clear: left;
