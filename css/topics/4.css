@@ -137,7 +137,20 @@ ul#articles_detail li p.abst
     background-repeat: no-repeat;
 }
 
-ul#articles_detail li p.comment
+ul#articles_detail li p.comment_l
+{
+    color: white;
+    width: 280px;
+    height: 145px;
+    margin: 10px 0px 0px 10px;
+    padding: 46px 25px 18px 22px;
+    background-image: url(../../images/ja/topics4/hukidashi.png);
+    background-repeat: no-repeat;
+    clear: left;
+    float: left;
+}
+
+ul#articles_detail li p.comment_s
 {
     color: white;
     width: 280px;
@@ -162,7 +175,7 @@ ul#articles_detail li img.person
 {
     clear: left;
     float: left;
-    margin: 10px 0px 0px 10px;
+    margin: 10px 0px 0px 50px;
     display: block;
 }
 
