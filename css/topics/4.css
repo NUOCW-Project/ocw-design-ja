@@ -68,10 +68,12 @@ ul#articles_title li a span.tp_articles_title
 {
     font-weight: bold;
     display: block;
-    font-size: 20px;
+    font-size: large;
+    color: #cc6699;
+    marge: 5px;
 }
 
-ul#articles_title li a span
+ul#articles_title li a span.st_name, ul#articles_title li a span.st_belong
 {
     text-decoration: none !important;
     color: #030303 !important;
