@@ -36,6 +36,7 @@ ul#articles_title li
 
 ul#articles_title li a
 {
+    display: block;
     width: 400px;
     height: 85px;
     padding-left: 30px;
