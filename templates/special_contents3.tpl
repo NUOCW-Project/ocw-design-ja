@@ -122,7 +122,7 @@ noDisplay('detail11');noDisplay('detail12')">
 
 <li id="detail5">
 <h1>経済物理学 物理学からみる経済学</h1>
-<div class="tp_video" {flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0001782/FLASH-FLV/20120312econophysics.flv"}</div>
+<div class="tp_video"> {flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0001782/FLASH-FLV/20120312econophysics.flv"}</div>
 <p class="abst">経済物理学という学問をご存じだろうか。これは経済を物理学というツールを用いて解析しようというものである。何故物理で経済？と思う人がいるかもしれないが、物理学と経済学とは意外と多く関係を持っている。分かり易い例として、アダム・スミスの「需要と供給は均衡する」という考え方を挙げてみよう。物理学を知っている人間なら、この考えはニュートン力学に由来していることはなんとなく予想できるだろう。実際に「需要と供給」の考えは18世紀に生まれた考えである。この頃、世界では古典力学全盛の時代であり、あらゆるものの動きは力学で説明できると信じられていたらしい。また、経済学で19世紀からでてきた等分配則、最大値原理などのキーワードも物理学で当時盛んに使われていた概念である。本展示は物理学を使う利点、利用法、その結果どうのような事が見えてくるかなどをできる限り分かり易く説明するものである。</p>
 <p class="comment_s">物理学というものは、他の分野でも応用できるということを知ってもらいたい。</p>
 <img class="person" alt="久保宏樹" src="./images/ja/topics4/person/kubo.png">
