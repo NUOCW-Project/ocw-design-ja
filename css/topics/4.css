@@ -64,6 +64,13 @@ ul#articles_title li a h2
     font-weight: bold;
 }
 
+ul#articles_title li a span.tp_articles_title
+{
+    font-weight: bold;
+    display: block;
+    font-size: 20px;
+}
+
 ul#articles_title li a span
 {
     text-decoration: none !important;
@@ -156,7 +163,7 @@ ul#articles_detail li p.comment_s
     color: white;
     width: 180px;
     height: 98px;
-    margin: 10px 0px 0px 10px;
+    margin: 10px 0px 0px 50px;
     padding: 30px 13px 12px 18px;
     background-image: url(../../images/ja/topics4/hukidashi.png);
     background-repeat: no-repeat;
