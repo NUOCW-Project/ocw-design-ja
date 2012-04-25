@@ -39,7 +39,7 @@ ul#articles_title li a
     display: block;
     width: 400px;
     height: 85px;
-    padding-left: 30px;
+    padding: 2px 20px 2px 30px;
     background-image: url("../../images/ja/topics4/check_off.png");
     background-repeat: no-repeat;
     background-position: 0px center;
