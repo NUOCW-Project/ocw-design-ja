@@ -99,7 +99,7 @@ ul#articles_title li a *
 ul#articles_detail
 {
     width: 941px;
-    display: none;
+    /*display: none;*/
     position: relative;
     top: -145px;
     left: -40px;
@@ -118,11 +118,17 @@ ul#articles_detail li:after
 
 ul#articles_detail li
 {
+    display: none;
     background-color: #F9F9FF;
     position: relative;
     top: 80px;
     left: 30px;
     width: 800px;
+}
+
+ul#articles_detail li#detail1
+{
+    display: inherit;
 }
 
 ul#articles_detail li h1
