@@ -125,7 +125,7 @@ noDisplay('detail11');noDisplay('detail12')">
 
 <li id="detail5">
 <h1>経済物理学 物理学からみる経済学</h1>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001782/FLASH-FLV/index.html" type="video/x-flv">
+<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001782/FLASH-FLV/index.html" type="video/x-flv"  TARGET="_blank" >
 動画
 </a>
 <div class="tp_video"> {flvplay path="rtmp://ms011.media.nagoya-u.ac.jp/video/S0001782/FLASH-FLV/20120312econophysics.flv"}</div>
