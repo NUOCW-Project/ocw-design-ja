@@ -102,7 +102,7 @@ ul#articles_detail
     height: 747px;
     /*display: none;*/
     position: relative;
-    top: -145px;
+    top: -135px;
     left: -40px;
     padding: 25px 20px 20px 20px;
     background-image: url("../../images/ja/topics4/background2.png");
@@ -122,7 +122,7 @@ ul#articles_detail li
     display: none;
     background-color: #F9F9FF;
     position: relative;
-    top: 80px;
+    top: 110px;
     left: 30px;
     width: 800px;
     padding: 20px;
@@ -193,8 +193,8 @@ ul#articles_detail li div.tp_video
 ul#articles_detail li img.person
 {
     clear: left;
-    float: left;
-    margin: -30px 0px 0px 100px;
+    float: right;
+    margin: -50px 0px 0px 100px;
     display: block;
 }
 
