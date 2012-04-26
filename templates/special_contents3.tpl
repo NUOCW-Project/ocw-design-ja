@@ -1,7 +1,7 @@
 <img alt="名大の授業 TOPICS No.4" src="./images/ja/topics4/door.png" id="tp_door">
 <div id="tp_header">
 <img alt="" src="./images/ja/topics4/flask_all.png">
-<img alt="新歓サイエンスカフェ2011" src="./images/ja/topics4/title.png" id="tp_title" align="center">
+<img alt="新歓サイエンスカフェ2011" src="./images/ja/topics4/title.png" id="tp_title">
 <img alt="" src="./images/ja/topics4/telescope.png">
 <p id="lead">
 科学でなにができるのか。大学ではどのような研究が行われているのか。<br>
