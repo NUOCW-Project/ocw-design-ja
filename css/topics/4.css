@@ -206,13 +206,13 @@ ul#articles_detail li img.person
 
 p.tp_resources
 {
-    text-align: right;
+    text-align: left;
     clear: both;
     color: #CC6699;
     /*font-size: larger;*/
     max-width: 40%;
     position: relative;
-    top: -128px;
+    top: -140px;
 }
 
 #hr_marker
