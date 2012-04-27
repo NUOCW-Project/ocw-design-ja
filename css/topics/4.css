@@ -25,6 +25,8 @@ ul#articles_title
     background-image: url("../../images/ja/topics4/background1.png");
     background-repeat: no-repeat;
     background-position: top left;
+    z-index: 9;
+    position: relative;
 }
 
 ul#articles_title li 
