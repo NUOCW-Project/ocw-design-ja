@@ -130,6 +130,7 @@ ul#articles_detail li
     top: 110px;
     left: 30px;
     width: 800px;
+    height: 540px;
     padding: 20px;
 }
 
@@ -199,17 +200,19 @@ ul#articles_detail li img.person
 {
     clear: left;
     float: right;
-    margin: -50px 0px 0px 10px;
+    margin: -65px 0px 0px 10px;
     display: block;
 }
 
 p.tp_resources
 {
     text-align: right;
-    clear: left;
+    clear: both;
     color: #CC6699;
     font-size: larger;
     max-width: 40%;
+    position: relative;
+    top: -128px;
 }
 
 #hr_marker
