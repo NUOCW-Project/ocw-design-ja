@@ -1,7 +1,12 @@
+div#package2
+{
+    width: 100%;
+}
+
 div#contents
 {
     margin-right: 0;
-    width: 895px !important;
+    width: 905px !important;
 }
 
 div#tp_header
