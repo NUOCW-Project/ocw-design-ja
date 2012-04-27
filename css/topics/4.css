@@ -212,7 +212,8 @@ p.tp_resources
     /*font-size: larger;*/
     max-width: 40%;
     position: relative;
-    top: -140px;
+    top: -155px;
+    margin-left: 20px;
 }
 
 #hr_marker
