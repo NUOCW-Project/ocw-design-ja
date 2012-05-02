@@ -84,7 +84,7 @@
      {/foreach}</p>
   </div>
 <!-- 開講していない授業に"アーカイブ"と明記する -->
-{if empty($course_info.archive)}
+{if $course_info.archive}
   {if $lang=='ja'}
 <span style="background:#EE0000; color:#FFFFFF;">アーカイブ</span><!-- コースタイトルの色は #DD0000 -->
 <font color="#EE0000">※現在この講義は開講されていません</font>
@@ -151,7 +151,7 @@ Last update : {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/'
 </div>
 
 <div id="release_disclaimer">
-{if empty($courseinfo.archive)}<!-- アーカイブの場合 -->
+{if $course_info.archive}<!-- アーカイブの場合 -->
   {if $lang=='ja'}
 最終更新日の時点の講義内容で公開しております。<br>
 現在、この講義は開講されていません。
