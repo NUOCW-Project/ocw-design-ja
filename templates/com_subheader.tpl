@@ -2,7 +2,7 @@
 {literal}
 {if $page_type != ""}
 {* 部局紹介 *}
-{if $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
+{elseif $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg"
          alt="{/literal}{section name=n loop=$navi_list start=-2 max=1}{$navi_list[n].text}{/section}{literal}">
 {* リレーセミナー *}
@@ -16,12 +16,10 @@
   <img src="./images/{$lang}/header_{$page_type|regex_replace:'/(fw)[0-9]+/':'fwarchive'}0{$img_num}.jpg"
        alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
 {* リスト発行 *}
-{if $lang=="ja"}<!-- 英語版の方は看板画像が1枚ずつしか用意されていない -->
-{elseif $page_type!="all" &&  $mode=="l"}
+{elseif $lang == "ja" && $page_type!="all" &&  $mode=="l"} <!-- 英語版の方は看板画像が1枚ずつしか用意されていない -->
   {assign var=img_num value=1|rand:4} 
     <img src="./images/{$lang}/header_{$page_type}0{$img_num}.jpg"
          alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
-{/if}
 {* トップページ *}
 {elseif $page_type=="top"}
 	{if $lang=="ja"}
@@ -41,7 +39,6 @@
 {else}
   <img src="./images/{$lang}/header_{$page_type}.jpg"
        alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
-{/if}
 {/if}
 
 {if $page_type == "top" and $lang == "ja"}
