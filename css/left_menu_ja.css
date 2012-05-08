@@ -427,11 +427,11 @@ li.subpage_curr {
 
 
 
-.m_fw11{
+.m_fw2011{
     height:30px;             /* 項目の高さ */
 }
    
-.m_fw11 a{
+.m_fw2011 a{
 	background-image:url(../images/ja/md_farewell.jpg);   /* リンク範囲の背景画像設定 */
 	display:block;            /* リンク範囲をブロックに変換 */
     width:100%;               /* リンク範囲（幅）をリスト項目範囲全て */
@@ -443,7 +443,7 @@ li.subpage_curr {
 	vertical-align:0;           /*縦方向の位置揃え*/
 }
 
-.m_fw11 a:hover{
+.m_fw2011 a:hover{
 	background-image:url(../images/ja/md_farewell_on.jpg);    /* マウスが上に来た時の背景画像設定 */
 }
 
