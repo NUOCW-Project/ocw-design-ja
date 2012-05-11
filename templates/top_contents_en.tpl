@@ -1,6 +1,6 @@
   <img src="./images/common/t_topics.png" alt="Topics">
   <img src="./images/common/redline.gif" class="line" alt="">
-    <a href="./courselist.php?lang=en&mode=l&page_type=nktgw">
+    <a href="./index.php?lang=en&mode=l&page_type=nktgw">
        <img src="./images/en/top_banner.png" alt="Nakatsugawa_Project">
     </a>
 
