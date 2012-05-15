@@ -11,7 +11,7 @@
 {foreach item = each_course  from = $result.courses name = $result.title} 
 <tr class="{cycle name = $result.title values='odd,even'}">
   <td width="50">
-    {if $each_course.vsyllabus_id != NULL}
+    {if isset($each_course.vsyllabus_id)}
       <a href="{$each_course.url_flv}"
        onclick="openWin('{$each_course.url_flv}');return false;"
        onkeypress="openWin('{$each_course.url_flv}');return false;"
