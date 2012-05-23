@@ -134,7 +134,7 @@
 }
 
 .e_text p {
-	float: left; 
+	float: none; 
 	width: 555px;
 	margin: 18px 0 0 0; 
 }
