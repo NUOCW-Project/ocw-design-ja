@@ -48,62 +48,90 @@
 <!-- スタッフ紹介開始 -->
 	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Committee</h2></td></tr>
 	<tr><td colspan=2 align="right">(As of April 1, 2012)</td></tr>
-	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray"><p>
-		
+	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray">
+  
+<p>
 Chairperson: Ichiro Yamamoto<br> 
 Vice-President,<br> 
 Nagoya University<br>
+</p>
 
+<p>
 Hiroyuki Sugiyama<br>
- Vice-President,<br> 
-Trustee<br>
+ Vice-President,<br> 
+ Trustee
+</p>
 
+<p>
 Kazuhisa Todayama<br> 
-Assistant to President,<br> 
-Nagoya University<br>
+ Assistant to President,<br> 
+ Nagoya University
+</p>
 
+<p>
 Takaya Yamazato<br> 
-Professor,<br> 
-Institute of Liberal Arts and Sciences<br>
+ Professor,<br> 
+ Institute of Liberal Arts and Sciences
+</p>
 
+<p>
 Toshiyuki Tonoike<br> 
-Professor,<br>
-Center for Information Media Studies<br>
+ Professor,<br>
+ Center for Information Media Studies
+</p>
 
+<p>
 Masaaki Katayama<br> 
-Professor,<br> 
-EcoTopia Science Institute<br>
+ Professor,<br> 
+ EcoTopia Science Institute
+</p>
 
+<p>
 Toshiki Nakai<br>
-Associate Professor,<br> 
-Center for the Studies of Higher Education<br>
+ Associate Professor,<br> 
+ Center for the Studies of Higher Education
+</p>
 
+<p>
 Akifumi Goto<br> 
-Associate Professor,<br> 
-Center for Information Media Studies<br>
+ Associate Professor,<br> 
+ Center for Information Media Studies
+</p>
 
+<p>
 Takehiro Ohya<br> 
-Associate Professor,<br>
- Graduate School of Law<br>
+ Associate Professor,<br>
+ Graduate School of Law
+</p>
 
- Toshiko Ishizaki<br> 
-Associate Professor,<br> 
-Education Center for International Students<br>
+<p>
+Toshiko Ishizaki<br> 
+ Associate Professor,<br> 
+ Education Center for International Students
+</p>
 
+<p>
 Sadami Nakahama<br>
-Liberal Education Deputy Director,<br> 
-Institute of Liberal Arts and Sciences<br>
+ Liberal Education Deputy Director,<br> 
+ Institute of Liberal Arts and Sciences
+</p>
 
+<p>
 Seiichiro Mori<br>
-the educational affairs planning section professional staff,<br>
-Institute of Liberal Arts and Sciences<br>
+ the educational affairs planning section professional staff,<br>
+ Institute of Liberal Arts and Sciences
+</p>
 
+<p>
 Ayako Goto<br>
-Administrative Assistant,<br> 
-OCW Administrative Office<br>
-		</p></td></tr>
+ Administrative Assistant,<br> 
+ OCW Administrative Office
+</p>
+</td></tr>
+
 	<tr><td class="center">Support Staff</td>
-		<td class="left"><p>
+		<td class="left">
+<p>
 Aki Hara (Media Supporter, Studio)<br>
 Michelle Kuhn Myers<br>
 Kazuki Uemura<br>
