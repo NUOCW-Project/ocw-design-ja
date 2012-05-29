@@ -1,6 +1,6 @@
 <div id="dep_introduce_en">
   <div id="dep_info_head_dean">
-    {$dept_info.dean_name}, Dean
+    {$dept_info.dean_name}, {if $curr_department_abbr != 'kyoiku-in'}Dean{else}Director{/if}
   </div>
   <div id="dep_txt_en">
     {eval_strip var=$dept_info.description|strip_tags|mb_truncate:600}
