@@ -51,68 +51,68 @@
 	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray">
   
 <p>
-Chairperson: Ichiro Yamamoto<br> 
-Vice-President,<br> 
-Nagoya University<br>
+Chairperson: Ichiro Yamamoto<br>
+Vice-President,<br>
+Nagoya University
 </p>
 
 <p>
 Hiroyuki Sugiyama<br>
- Vice-President,<br> 
+ Vice-President,<br>
  Trustee
 </p>
 
 <p>
-Kazuhisa Todayama<br> 
- Assistant to President,<br> 
+Kazuhisa Todayama<br>
+ Assistant to President,<br>
  Nagoya University
 </p>
 
 <p>
-Takaya Yamazato<br> 
- Professor,<br> 
+Takaya Yamazato<br>
+ Professor,<br>
  Institute of Liberal Arts and Sciences
 </p>
 
 <p>
-Toshiyuki Tonoike<br> 
+Toshiyuki Tonoike<br>
  Professor,<br>
  Center for Information Media Studies
 </p>
 
 <p>
-Masaaki Katayama<br> 
- Professor,<br> 
+Masaaki Katayama<br>
+ Professor,<br>
  EcoTopia Science Institute
 </p>
 
 <p>
 Toshiki Nakai<br>
- Associate Professor,<br> 
+ Associate Professor,<br>
  Center for the Studies of Higher Education
 </p>
 
 <p>
-Akifumi Goto<br> 
- Associate Professor,<br> 
+Akifumi Goto<br>
+ Associate Professor,<br>
  Center for Information Media Studies
 </p>
 
 <p>
-Takehiro Ohya<br> 
+Takehiro Ohya<br>
  Associate Professor,<br>
  Graduate School of Law
 </p>
 
 <p>
-Toshiko Ishizaki<br> 
- Associate Professor,<br> 
+Toshiko Ishizaki<br>
+ Associate Professor,<br>
  Education Center for International Students
 </p>
 
 <p>
 Sadami Nakahama<br>
- Liberal Education Deputy Director,<br> 
+ Liberal Education Deputy Director,<br>
  Institute of Liberal Arts and Sciences
 </p>
 
@@ -124,7 +124,7 @@ Seiichiro Mori<br>
 
 <p>
 Ayako Goto<br>
- Administrative Assistant,<br> 
+ Administrative Assistant,<br>
  OCW Administrative Office
 </p>
 </td></tr>
@@ -136,20 +136,20 @@ Aki Hara (Media Supporter, Studio)<br>
 Michelle Kuhn Myers<br>
 Kazuki Uemura<br>
 Hiromasa Yamauchi<br>
-Shun Kutsuna<br> 
+Shun Kutsuna<br>
 Yuuhei Suzuki<br>
 Ryo Yoshida<br>
 Yumi Ogasawara<br>
-Keisuke Serizawa<br> 
-Mitsunari Takahashi<br> 
+Keisuke Serizawa<br>
+Mitsunari Takahashi<br>
 Mikito Yamamoto<br>
-Tetsuro Nagai<br> 
-Yui Hayashi<br> 
+Tetsuro Nagai<br>
+Yui Hayashi<br>
 Ahammad Al Biruni<br>
-Naoko Kikuya<br> 
+Naoko Kikuya<br>
 Zhong Yang<br>
-Sanae Muramatsu<br> 
-Yuto Takahashi<br> 
+Sanae Muramatsu<br>
+Yuto Takahashi<br>
 Masanori Adachi<br>
 Lucy Hannah Glasspool<br>
 	</p></td></tr>
