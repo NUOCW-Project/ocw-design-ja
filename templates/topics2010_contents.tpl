@@ -1,5 +1,5 @@
 <a href="./index.php?lang=ja&mode=g&page_type=topics_branches">
-<img src="images/ja/topics3/header.png" alt="遊び・体験から学ぶ授業">
+<img src="images/ja/topics3/header.png" alt="遊び・体験から学ぶ授業" widht="510px" >
 </a>
 
 <hr>
