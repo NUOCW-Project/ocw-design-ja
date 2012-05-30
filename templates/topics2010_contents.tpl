@@ -1,5 +1,7 @@
+
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics">ボードゲームを究める</a>
+
 <hr>
-<ahref="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics">ボードゲームを究める</a>
 
 <p>
 <img src="./images/ja/prj10_hs10.jpg" alt="高校生向けオススメ授業　高校生の方でも楽しんでもらえる教材をOCWサポートスタッフ(学生制作スタッフ)が紹介します。\
