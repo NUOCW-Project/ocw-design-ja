@@ -3,6 +3,10 @@
     <a href="./index.php?lang=en&mode=l&page_type=nktgw">
        <img src="./images/en/top_banner.png" alt="Nakatsugawa_Project">
     </a>
+<a href="./index.php?mode=g&lang=en&page_type=topics">
+Backnumber is here.
+    </a>
+
 
 <div class="inline">
 
