@@ -1,10 +1,12 @@
 <a href="./index.php?lang=ja&mode=g&page_type=topics_branches">
-遊び体験から学ぶ授業
+<img src="images/ja/topics3/header.png" alt="遊び・体験から学ぶ授業">
 </a>
 
 <hr>
 
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics">ボードゲームを究める</a>
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics">
+<img src="images/ja/topics2/prj10_arita_headder.jpg" alt="ボードゲームを究める">
+</a>
 
 <hr>
 
