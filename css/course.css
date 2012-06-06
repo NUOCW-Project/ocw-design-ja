@@ -119,6 +119,10 @@
 	margin: 18px 0 0 0; 
 }
 
+html*.e_text p {
+    float: none;  /*IE7¥Ï¥Ã¥¯*/
+}
+
 .e_text ul, .e_text ol {
 	float: left;
 	width: 555px; 
