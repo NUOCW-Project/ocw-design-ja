@@ -2,7 +2,7 @@
 
 <div class="topheader_edge"><!-- 最上部ヘッダー右端部分 -->
   <div class="{literal}{if $lang=="ja"}topheader{else $lang="en"}topheader_en{/if}{/literal}" id="top"><!-- 最上部ヘッダー -->
-   <a href="./index.php?lang={literal}{if $lang=="ja"}ja{else $lang=="en"}en{/if}{/literal}" id="home_header"></a>
+   <a href="{literal}{if $lang=="ja"}./index.php?lang=ja{else $lang=="en"}./index.php?lang=en{/if}{/literal}" id="home_header"></a>
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
