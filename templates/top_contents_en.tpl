@@ -1,12 +1,15 @@
   <img src="./images/common/t_topics.png" alt="Topics">
+<a href="./index.php?mode=g&lang=en&page_type=topics">
+<img src="./images/{$lang}/backno_en.png" class="jump"></a>
   <img src="./images/common/redline.gif" class="line" alt="">
-    <a href="./index.php?lang=en&mode=l&page_type=nktgw">
+    
+<!-- nakatsugawa  -->
+<div>
+<a href="./index.php?lang=en&mode=l&page_type=nktgw">
        <img src="./images/en/top_banner.png" alt="Nakatsugawa_Project">
     </a>
-<a href="./index.php?mode=g&lang=en&page_type=topics">
-Backnumber is here.
-    </a>
-
+</div>
+<!-- nakatsugawa end -->
 
 <div class="inline">
 
