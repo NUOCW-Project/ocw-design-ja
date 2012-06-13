@@ -1,6 +1,6 @@
 {* 「特別企画」のテンプレート *}
 {include file="com_header.tpl"}
-{if $lang =="ja"}
+{if $lang == "ja" }
   {include file="student_testimonials.tpl"}
 {elseif $lang == "en"}
   {include file="student_testimonials.tpl"}
