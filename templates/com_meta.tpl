@@ -43,6 +43,10 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
   <link rel="stylesheet" type="text/css" href="css/topics.css">
 
+{elseif $lang=='ja' && $page_type=='topics_backno'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
+  <link rel="stylesheet" type="text/css" href="css/topics.css">
+
 {elseif $lang=='ja' && $page_type=='topics_branches'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/3.css">
