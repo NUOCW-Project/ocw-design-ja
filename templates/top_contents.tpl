@@ -1,5 +1,5 @@
 <img src="./images/common/t_topics.png" alt="Topics">
-<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics2010"><img src="./images/{$lang}/backno.png" class="jump"></a>
+<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics2010"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}"></a>
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 

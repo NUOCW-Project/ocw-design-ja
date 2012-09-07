@@ -1,6 +1,6 @@
   <img src="./images/common/t_topics.png" alt="Topics">
 <a href="./index.php?mode=g&lang=en&page_type=topics">
-<img src="./images/{$lang}/backno_en.png" class="jump"></a>
+<img src="./images/{$lang}/backno_en.png" class="jump" alt="Back No."></a>
   <img src="./images/common/redline.gif" class="line" alt="">
     
 <!-- nakatsugawa  -->
@@ -17,7 +17,7 @@
     <div class="waku">
       <img src="./images/{$lang}/t_news.png" class="subheading" alt="News" width="180" height="20">
       <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_list">
-      	 <img src="./images/{$lang}/backno_en.png" class="jump" alt="Back NO." width="65" height="15">
+      	 <img src="./images/{$lang}/backno_en.png" class="jump" alt="Back No." width="65" height="15">
       </a>
       <br>
       <img src="./images/common/dots.png" class="dots" alt="" height="10">
