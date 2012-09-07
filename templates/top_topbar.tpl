@@ -30,8 +30,8 @@
 	  <script src="./js/googleSearch.js" type="text/javascript"></script>
 	  <link rel="stylesheet" type="text/css" href="css/googleSearch.css">
 	  <!-- ここまで GOOGLE検索 -->
+
           </div> <!-- "header_button_search" end -->
-          </form>
         </div><!-- "header_button_sub" end -->
       </div><!-- "header_button" end -->
     </div><!-- "header_sub" end -->
