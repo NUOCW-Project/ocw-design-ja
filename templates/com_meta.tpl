@@ -10,7 +10,6 @@
 <link rel="stylesheet" type="text/css" href="css/en.css">
 <link rel="stylesheet" type="text/css" href="css/common/footer.css">
 <link rel="stylesheet" type="text/css" href="css/common/header.css">
-<link rel="stylesheet" type="text/css" href="css/googleSearch.css">
 {literal}
 {if $mode=='l'}
   <link rel="stylesheet" type="text/css" href="css/clist.css">

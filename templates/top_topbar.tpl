@@ -28,6 +28,7 @@
 	  <div id="cse-search-form" style="width: 100%;">Loading</div>
 	  <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 	  <script src="./js/googleSearch.js" type="text/javascript"></script>
+	  <link rel="stylesheet" type="text/css" href="css/googleSearch.css">
 	  <!-- ここまで GOOGLE検索 -->
 
           </div> <!-- "header_button_search" end -->
