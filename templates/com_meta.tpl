@@ -4,13 +4,13 @@
 <meta http-equiv="Content-Type" content="text/html;charset={if $lang == "ja"}EUC-JP{elseif $lang=="en"}utf-8{/if}">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
-<link rel="stylesheet" type="text/css" href="css/googleSearch.css">
 <link rel="stylesheet" type="text/css" href="css/common/contents.css">
 <link rel="stylesheet" type="text/css" href="css/common/default.css">
 <link rel="stylesheet" type="text/css" href="css/common/dept.css">
 <link rel="stylesheet" type="text/css" href="css/en.css">
 <link rel="stylesheet" type="text/css" href="css/common/footer.css">
 <link rel="stylesheet" type="text/css" href="css/common/header.css">
+<link rel="stylesheet" type="text/css" href="css/googleSearch.css">
 {literal}
 {if $mode=='l'}
   <link rel="stylesheet" type="text/css" href="css/clist.css">
