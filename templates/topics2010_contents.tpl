@@ -1,5 +1,5 @@
 <a href="./index.php?lang=ja&mode=g&page_type=special">
-<img src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" >
+<img id="sc_header" src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" >
 </a>
 
 <hr>

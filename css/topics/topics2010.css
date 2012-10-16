@@ -2,8 +2,18 @@
 	display: none;
 }
 
+#sc_header{
+	clip: rect(0, 0, 160px, 0);
+	position: absolute;
+}
+
 #msgs{
 	display: none;
+}
+
+#msg_header{
+	clip: rect(0, 0, 200px, 0);
+	position: absolute;
 }
 
 #msg_top_image{
