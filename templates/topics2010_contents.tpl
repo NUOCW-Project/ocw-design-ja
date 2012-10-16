@@ -1,5 +1,5 @@
-<a href="./index.php?lang=ja&mode=g&page_type=topics_branches">
-<img src="images/ja/topics3/header.png" alt="遊び・体験から学ぶ授業" width="700px" >
+<a href="./index.php?lang=ja&mode=g&page_type=special">
+<img src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" >
 </a>
 
 <hr>
@@ -9,17 +9,20 @@
 </a>
 
 <hr>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=g&page_type=topics">
 <img src="images/ja/student/header.png" alt="留学生の声">
 </a>
 <hr>
 
 
 <p>
+<a onclick="Display('hs');noDisplay('msgs')>
 <img src="./images/ja/prj10_hs10.jpg" alt="高校生向けオススメ授業　高校生の方でも楽しんでもらえる教材をOCWサポートスタッフ(学生制作スタッフ)が紹介します。\
 ">
+</a>
 </p>
 
+<div id="hs">
 <p>
 <img src="./images/ja/prj10_hs10_body.jpg" usemap="#map_hs" alt="">
 <map name="map_hs">
@@ -37,9 +40,12 @@
 ような生活をしているのかを知りたい人必見！">
 </map>
 </p>
+<div>
 
 <hr>
-<img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" id="msg_top_image">
+
+<a onclick="noDisplay('hs');Display('msgs')">
+<img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" id="msg_top_image"></a>
 <ul id="msgs">
     <li id="msg01">
     	<img src="./images/ja/topics_msg/msg_01haga.png" alt="01 先輩たちからのmessage">

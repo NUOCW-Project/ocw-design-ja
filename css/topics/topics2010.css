@@ -1,3 +1,11 @@
+#hs{
+	display: none;
+}
+
+#msgs{
+	display: none;
+}
+
 #msg_top_image{
     width: 700px;
     height: 400px;
