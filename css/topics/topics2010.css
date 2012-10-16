@@ -27,6 +27,7 @@
 }
 
 #fs_header{
+	background: white;
 	margin-bottom: -300px;
 }
 
@@ -35,7 +36,7 @@
 }
 
 #hs_header{
-	margin-bottom: -50px;
+	margin-bottom: -70px;
 }
 
 #hs_header:hover{
@@ -44,14 +45,13 @@
 
 #msg_top_image{
     width: 700px;
-    height: 400px;
+    height: 200px;
     position: relative;
     z-index: 1;
-	margin-bottom: -200px;
 }
 
-#msg_top_image{
-	margin-bottom: 10px;
+#msg_top_image:hover{
+	height: 400px;
 }
 
 #msgs{

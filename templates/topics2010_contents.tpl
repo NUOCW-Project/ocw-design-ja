@@ -7,7 +7,7 @@
 </a>
 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=g&page_type=topics">
-<img id="fs" src="images/ja/student/header.png" alt="留学生の声">
+<img id="fs_header" src="images/ja/student/header.png" alt="留学生の声">
 </a>
 
 <p>
@@ -37,7 +37,7 @@
 </p>
 </div>
 
-<a id="msg_header" onclick="noDisplay('hs');Display('msgs')">
+<a href="#msg_header" onclick="noDisplay('hs');Display('msgs')">
 <img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" id="msg_top_image"></a>
 <ul id="msgs">
     <li id="msg01">
