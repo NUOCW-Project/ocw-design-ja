@@ -44,7 +44,7 @@
 <hr>
 
 <a id="msg_whole"><!-- onclick="noDisplay('hs');Display('msgs')"> -->
-<img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" id="msg_top_image"></a>
+<img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" id="msg_top_image">
 <ul id="msgs">
     <li id="msg01">
     	<img src="./images/ja/topics_msg/msg_01haga.png" alt="01 先輩たちからのmessage">
