@@ -3,7 +3,6 @@
 }
 
 #sc_header{
-	clip: rect(0, 0, 160px, 0);
 	position: absolute;
 }
 
@@ -11,9 +10,12 @@
 	display: none;
 }
 
-#msg_header{
-	clip: rect(0, 0, 200px, 0);
-	position: absolute;
+#msg_whole{
+	height: 200px;
+}
+
+#msg_whole:active{
+	height: auto;
 }
 
 #msg_top_image{
