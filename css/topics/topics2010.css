@@ -3,7 +3,7 @@
 }
 
 #sc_header{
-	position: absolute;
+
 }
 
 #msgs{
@@ -15,7 +15,7 @@
 }
 
 #msg_whole:active{
-	height: auto;
+	height: 1000px;
 }
 
 #msg_top_image{
