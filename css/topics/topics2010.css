@@ -7,10 +7,18 @@
 }
 
 #sc_header{
-	margin-bottom: -300px;
+	margin-bottom: -250px;
 }
 
 #sc_header:hover{
+	margin-bottom: 10px;
+}
+
+#arita_header{
+	margin-bottom: -120px;
+}
+
+#arita_header:hover{
 	margin-bottom: 10px;
 }
 
@@ -18,11 +26,32 @@
 	height: 200px;
 }
 
+#fs_header{
+	margin-bottom: -300px;
+}
+
+#fs_header:hover{
+	margin-bottom: 10px;
+}
+
+#hs_header{
+	margin-bottom: -50px;
+}
+
+#hs_header:hover{
+	margin-bottom: 10px;
+}
+
 #msg_top_image{
     width: 700px;
     height: 400px;
     position: relative;
     z-index: 1;
+	margin-bottom: -200px;
+}
+
+#msg_top_image{
+	margin-bottom: 10px;
 }
 
 #msgs{

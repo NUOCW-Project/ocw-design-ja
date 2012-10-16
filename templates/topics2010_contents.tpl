@@ -3,11 +3,11 @@
 </a>
 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics">
-<img src="images/ja/topics2/prj10_arita_headder.jpg" alt="ボードゲームを究める">
+<img id="arita_header" src="images/ja/topics2/prj10_arita_headder.jpg" alt="ボードゲームを究める">
 </a>
 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=g&page_type=topics">
-<img src="images/ja/student/header.png" alt="留学生の声">
+<img id="fs" src="images/ja/student/header.png" alt="留学生の声">
 </a>
 
 <p>
