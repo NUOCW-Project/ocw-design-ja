@@ -14,8 +14,8 @@
 	height: 200px;
 }
 
-#msg_whole:active{
-	height: 1000px;
+#msg_whole:hover{
+	height: auto;
 }
 
 #msg_top_image{
