@@ -2,20 +2,20 @@
 	display: none;
 }
 
-#sc_header{
-
-}
-
 #msgs{
 	display: none;
 }
 
-#msg_whole{
-	height: 200px;
+#sc_header{
+	margin-bottom: -300px;
 }
 
-#msg_whole:hover{
-	height: auto;
+#sc_header:hover{
+	margin-bottom: 10px;
+}
+
+#msg_header{
+	height: 200px;
 }
 
 #msg_top_image{
