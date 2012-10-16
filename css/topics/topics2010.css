@@ -35,22 +35,19 @@
 	margin-bottom: 10px;
 }
 
-#hs_header{
-	margin-bottom: -70px;
-}
-
-#hs_header:hover{
-	margin-bottom: 10px;
+#msg_header{
+	height: 200px;
+	overflow: hidden;
 }
 
 #msg_top_image{
     width: 700px;
-    height: 200px;
+    height: 400px;
     position: relative;
     z-index: 1;
 }
 
-#msg_top_image:hover{
+#msg_header:hover{
 	height: 400px;
 }
 
