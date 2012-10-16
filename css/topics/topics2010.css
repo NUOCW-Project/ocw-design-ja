@@ -31,12 +31,15 @@
 	margin-bottom: 10px;
 }
 
+#hs_header{
+	margin-bottom: -20px;
+}
+
 #msg_top_image{
     width: 700px;
     height: 400px;
     position: relative;
     z-index: 1;
-	margin-bottom: -20px;
 }
 
 #msgs{
