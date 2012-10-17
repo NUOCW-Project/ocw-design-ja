@@ -2,10 +2,11 @@
 	display: none;
 }
 
-#msgs{
+#msgs_whole{
 	display: none;
 }
 
+/*
 #sc_header{
 	margin-bottom: -235px;
 }
@@ -35,6 +36,7 @@
 #hs_header{
 	margin-bottom: -15px;
 }
+*/
 
 #msg_top_image{
     width: 700px;

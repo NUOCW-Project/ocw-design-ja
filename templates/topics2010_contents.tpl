@@ -1,24 +1,28 @@
 <a href="./index.php?lang=ja&mode=g&page_type=special">
-<img id="sc_header" src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" >
+<!--<img id="sc_header" src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" >-->
+<p>理学部新歓サイエンスカフェ 2011</p>
 </a>
 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics">
-<img id="arita_header" src="images/ja/topics2/prj10_arita_headder.jpg" alt="ボードゲームを究める">
+<!--<img id="arita_header" src="images/ja/topics2/prj10_arita_headder.jpg" alt="ボードゲームを究める">-->
+<p>ボードゲームを究める</p>
 </a>
 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=g&page_type=topics">
-<img id="fs_header" src="images/ja/student/header.png" alt="留学生の声">
+<!--<img id="fs_header" src="images/ja/student/header.png" alt="留学生の声">-->
+<p>Student Testimonials 留学生の声</p>
 </a>
 
-<p>
-<a href="#hs_header" onclick="Display('hs');noDisplay('msgs')">
-<img id="hs_header" src="./images/ja/prj10_hs10.jpg" alt="高校生向けオススメ授業　高校生の方でも楽しんでもらえる教材をOCWサポートスタッフ(学生制作スタッフ)が紹介します。\
-">
+<a href="#msg_top_image" onclick="noDisplay('hs');Display('msgs_whole')">
+<p>message</p>
 </a>
-</p>
+
+<a href="#hs_header" onclick="Display('hs');noDisplay('msgs_whole')">
+<p>高校生向けオススメ授業</p>
+</a>
 
 <div id="hs">
-<p>
+<img id="hs_header" src="./images/ja/prj10_hs10.jpg" alt="高校生向けオススメ授業　高校生の方でも楽しんでもらえる教材をOCWサポートスタッフ(学生制作スタッフ)が紹介します。"><br>
 <img src="./images/ja/prj10_hs10_body.jpg" usemap="#map_hs" alt="">
 <map name="map_hs">
    <area shape=rect coords="321,328,422,440" href="./index.php?lang=ja&amp;mode=c&amp;id=51&amp;page_type=teachingtips" alt="ふたつの「しない工夫」 成田克\
@@ -34,11 +38,10 @@
 溝口常俊教授「地理学」の参考資料。溝口先生の授業は、自身の体験をもとにした南アジアの面白い話が満載です。カースト社会の中で、自分たちと同じ世代の若者がどの\
 ような生活をしているのかを知りたい人必見！">
 </map>
-</p>
 </div>
 
-<a href="#msg_top_image" onclick="noDisplay('hs');Display('msgs')">
-<img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" id="msg_top_image"></a>
+<div id="msgs_whole">
+<img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" id="msg_top_image">
 <ul id="msgs">
     <li id="msg01">
     	<img src="./images/ja/topics_msg/msg_01haga.png" alt="01 先輩たちからのmessage">
@@ -78,3 +81,4 @@
 				<a href="./index.php?lang=ja&amp;mode=c&amp;id=71&amp;page_type=index"><img src="./images/ja/topics_msg/msg_06kita_pic.png" alt="教養教育院 北英輔教授 【図情報とコンピュータ】"></a>
 				</li>
 </ul> 
+</div>
