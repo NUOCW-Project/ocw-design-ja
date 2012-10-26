@@ -1,6 +1,6 @@
 <a href="./index.php?lang=ja&mode=g&page_type=special">
-<!--<img id="sc_header" src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" >-->
-<p>理学部新歓サイエンスカフェ 2011</p>
+<p class="bn_item">理学部新歓サイエンスカフェ 2011
+<img id="sc_header" src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" ></p>
 </a>
 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics">
