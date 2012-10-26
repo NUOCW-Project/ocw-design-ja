@@ -4,10 +4,11 @@ p.bn_items{
 
 p.bn_items img{
 	position: absolute;
+	top: 30px;
 	display: block;
 	height: 420px;
 	width: 730px;
-	clip: rect(50px,350px,100px,100px);
+	clip: rect(50px 350px 100px 100px);
 }
 
 #hs{
