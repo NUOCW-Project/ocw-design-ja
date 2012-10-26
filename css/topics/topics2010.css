@@ -6,7 +6,7 @@ p.bn_item img{
 	position: absolute;
 	height: 210px;
 	width: 365px; 
-	clip: rect(0px 200px 100px 0px);
+	clip: rect(40px 300px 60px 100px);
 }
 
 #hs{
