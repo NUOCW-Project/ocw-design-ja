@@ -4,6 +4,7 @@ p.bn_items{
 
 p.bn_items{
 	position: absolute;
+	clip: rect(50px, 350px, 100px, 100px);
 }
 
 #hs{
