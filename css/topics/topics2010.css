@@ -1,8 +1,8 @@
-p.bn_items{
+p.bn_item{
 	position: relative;
 }
 
-p.bn_items img{
+p.bn_item img{
 	position: absolute;
 	top: 30px;
 	display: block;
