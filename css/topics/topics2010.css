@@ -4,9 +4,8 @@ p.bn_item{
 
 p.bn_item img{
 	position: absolute;
-/*	display: block;
-	height: 420px;
-	width: 730px; */
+	height: 50%;
+	width: 50%; 
 	clip: rect(50px 350px 100px 100px);
 }
 
