@@ -2,6 +2,10 @@ p.bn_items{
 	position: relative;
 }
 
+p.bn_items{
+	position: absolute;
+}
+
 #hs{
 	display: none;
 }
