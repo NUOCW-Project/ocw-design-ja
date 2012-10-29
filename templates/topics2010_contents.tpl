@@ -1,25 +1,52 @@
+<dl id="topics_backnumber">
 <a href="./index.php?lang=ja&mode=g&page_type=special">
-<p class="bn_item">理学部新歓サイエンスカフェ 2011
-<img id="sc_header" src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" ></p>
+  <dt>TOPICS No.4 理学部新歓サイエンスカフェ 2011</dt>
+  <dd><img src="./images/ja/topics_backnumber/sc.png" alt="理学部新歓サイエンスカフェ 2011"></dd>
+</a>
+<a>
+  <dt>TOPICS No.3 遊び・体験から学ぶ授業</dt>
+  <dd><img src="images/ja/topics_backnumber/asobi_taiken.png" alt="遊び・体験から学ぶ授業"></dd>
+</a>
+<a href="./index.php?lang=ja&mode=g&page_type=topics">
+  <dt>TOPICS No.2 ボードゲームを究める</dt>
+  <dd><img src="./images/ja/topics_backnumber/arita.png" alt="ボードゲームを究める"</dd>
+</a>
+<a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=g&page_type=topics">
+  <dt>Student Testimonials 留学生の声</dt>
+  <dd><img src="images/ja/topics_backnumber/StudentTestimonials.png" alt="Student Testimonials 留学生の声"></dd>
+</a>
+<a href="#msg_top_image" onclick="noDisplay('hs');Display('msgs_whole')">
+  <dt>TOPICS No.1 message</dt>
+  <dd><img src="images/ja/topics_backnumber/message.png" alt="message"></dd>
+</a>
+<a href="#hs_header" onclick="Display('hs');noDisplay('msgs_whole')">
+  <dt>特別企画 高校生向けオススメ授業</dt>
+  <dd><img src="images/ja/topics_backnumber/hs.png" alt="高校生向けオススメ授業"></dd>
+</a>
+</dl>
+<!--
+<p class="bn_item">
+
 </a>
 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics">
-<!--<img id="arita_header" src="images/ja/topics2/prj10_arita_headder.jpg" alt="ボードゲームを究める">-->
-<p>ボードゲームを究める</p>
+<!--<img id="arita_header" src="images/ja/topics2/prj10_arita_headder.jpg" alt="ボードゲームを究める">
+
 </a>
 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=g&page_type=topics">
-<!--<img id="fs_header" src="images/ja/student/header.png" alt="留学生の声">-->
+<!--<img id="fs_header" src="images/ja/student/header.png" alt="留学生の声">
 <p>Student Testimonials 留学生の声</p>
 </a>
 
-<a href="#msg_top_image" onclick="noDisplay('hs');Display('msgs_whole')">
+<a>
 <p>message</p>
 </a>
 
-<a href="#hs_header" onclick="Display('hs');noDisplay('msgs_whole')">
+<a>
 <p>高校生向けオススメ授業</p>
 </a>
+-->
 
 <div id="hs">
 <img id="hs_header" src="./images/ja/prj10_hs10.jpg" alt="高校生向けオススメ授業　高校生の方でも楽しんでもらえる教材をOCWサポートスタッフ(学生制作スタッフ)が紹介します。"><br>
