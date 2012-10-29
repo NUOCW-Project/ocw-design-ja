@@ -9,7 +9,7 @@
 </a>
 <a href="./index.php?lang=ja&mode=g&page_type=topics">
   <dt>TOPICS No.2 ボードゲームを究める</dt>
-  <dd><img id="arita_bn_img" src="./images/ja/topics_backnumber/arita.png" alt="ボードゲームを究める"</dd>
+  <dd><img id="arita_bn_img" src="./images/ja/topics_backnumber/arita.png" alt="ボードゲームを究める"></dd>
 </a>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=g&page_type=topics">
   <dt>Student Testimonials 留学生の声</dt>
