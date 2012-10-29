@@ -1,4 +1,14 @@
-p.bn_item{
+dl#topics_backnumber a{
+	margin: 5px;
+}
+
+img#arita_bn_img{
+	width: 351px;
+	height: 40px;
+	margin: 0 0 10px 0;
+}
+
+/*p.bn_item{
 	position: relative;
 }
 
@@ -8,6 +18,7 @@ p.bn_item img{
 	width: 365px; 
 	clip: rect(15px 350px 70px 50px);
 }
+*/
 
 #hs{
 	display: none;
@@ -16,38 +27,6 @@ p.bn_item img{
 #msgs_whole{
 	display: none;
 }
-
-/*
-#sc_header{
-	margin-bottom: -235px;
-}
-
-#sc_header:hover{
-	margin-bottom: 10px;
-}
-
-#arita_header{
-	width: 700px;
-	margin-bottom: -190px;
-}
-
-#arita_header:hover{
-	margin-bottom: 10px;
-}
-
-#fs_header{
-	background: white;
-	margin-bottom: -250px;
-}
-
-#fs_header:hover{
-	margin-bottom: 10px;
-}
-
-#hs_header{
-	margin-bottom: -15px;
-}
-*/
 
 #msg_top_image{
     width: 700px;
