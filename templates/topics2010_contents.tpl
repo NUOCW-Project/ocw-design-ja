@@ -4,7 +4,7 @@
   <dt>TOPICS No.4 理学部新歓サイエンスカフェ 2011</dt>
   <dd><img src="./images/ja/topics_backnumber/sc.png" alt="理学部新歓サイエンスカフェ 2011"></dd>
 </a>
-<a href="./index.php?lang=en&mode=g&page_type=topics_branches">
+<a href="./index.php?lang=ja&mode=g&page_type=topics_branches">
   <dt>TOPICS No.3 遊び・体験から学ぶ授業</dt>
   <dd><img src="images/ja/topics_backnumber/asobi_taiken.png" alt="遊び・体験から学ぶ授業"></dd>
 </a>
