@@ -1,13 +1,18 @@
 {literal}
-{if $lang='ja'}
 {if $result.num_of_course > 0}
 <h3>{$result.title}</h3>
 <table class = "sorttable" >
 <tr>
-  <th width="50">1分間<br>紹介</th>
+{if $lamg=='ja'}  
+<th width="50">1分間<br>紹介</th>
   <th width="400">コース名(開講年度)</th>
   <th width="135">教員名</th>
   <th width="70">講義資料<br>講義ビデオ</th>
+{elseif $lang=='en'}
+<th width="50"><br></th>
+  <th width="400"> ()</th>
+  <th width="135"></th>
+  <th width="70"><br></th>
 </tr>
 {foreach item = each_course  from = $result.courses name = $result.title} 
 <tr class="{cycle name = $result.title values='odd,even'}">
@@ -57,7 +62,5 @@
 </tr>
 {/foreach}
 </table>
-{/if}
-{else}
 {/if}
 {/literal}
