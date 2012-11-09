@@ -3,7 +3,7 @@
 <h3>{$result.title}</h3>
 <table class = "sorttable" >
 <tr>
-{if $lamg=='ja'}  
+{if $lang=='ja'}  
 <th width="50">1分間<br>紹介</th>
   <th width="400">コース名(開講年度)</th>
   <th width="135">教員名</th>
