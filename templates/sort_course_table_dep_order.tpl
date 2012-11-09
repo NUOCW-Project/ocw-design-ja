@@ -13,7 +13,7 @@
 {else}
 <tr>
 <th width="50">1min Video</th>
-<th width="400">Course Name(Year)</th>
+<th width="400">Course Name (Year)</th>
 <th width="135">Instructor</th>
 <th width="70">Lecturenotes<br>Videos</th>
 </tr>
