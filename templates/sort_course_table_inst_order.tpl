@@ -14,6 +14,7 @@
   <th width="135"></th>
   <th width="70"><br></th>
 </tr>
+{/if}
 {foreach item = each_course  from = $result.courses name = $result.title} 
 <tr class="{cycle name = $result.title values='odd,even'}">
   <td width="50">
