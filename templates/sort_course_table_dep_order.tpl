@@ -2,12 +2,23 @@
 {if $dep_and_data.num_of_course > 0}
 <h3>{$dep_and_data.title}</h3>
 <table  class = "sorttable">
+
+{if $lang='ja'}
 <tr>
 <th width="50">1分間<br>紹介</th>
 <th width="400">コース名(開講年度)</th>
 <th width="135">教員名</th>
 <th width="70">講義資料<br>講義ビデオ</th>
 </tr>
+{else}
+
+<tr>
+<th width="50">1min Video<br>Summary</th>
+<th width="400">Course Name(Year)</th>
+<th width="135">Instructor</th>
+<th width="70">Lecturenotes<br>Videos</th>
+</tr>
+{if}
 {foreach item = each_course  from = $dep_and_data.courses}
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
 	<td width="50">
