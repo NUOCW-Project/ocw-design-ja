@@ -18,7 +18,7 @@
 <th width="135">Instructor</th>
 <th width="70">Lecturenotes<br>Videos</th>
 </tr>
-{if}
+{/if}
 {foreach item = each_course  from = $dep_and_data.courses}
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
 	<td width="50">
