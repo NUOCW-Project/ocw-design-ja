@@ -9,10 +9,10 @@
   <th width="135">¶µ°÷Ì¾</th>
   <th width="70">¹ÖµÁ»ñÎÁ<br>¹ÖµÁ¥Ó¥Ç¥ª</th>
 {elseif $lang=='en'}
-<th width="50"><br></th>
-  <th width="400"> ()</th>
-  <th width="135"></th>
-  <th width="70"><br></th>
+<th width="50">1min<br>Video</th>
+  <th width="400">Course Name (Year)</th>
+  <th width="135">Instructor</th>
+  <th width="70">Lecturenotes<br>Videos</th>
 </tr>
 {/if}
 {foreach item = each_course  from = $result.courses name = $result.title} 
