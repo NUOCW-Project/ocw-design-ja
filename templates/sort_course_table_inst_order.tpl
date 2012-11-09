@@ -1,4 +1,5 @@
 {literal}
+{if $lang='ja'}
 {if $result.num_of_course > 0}
 <h3>{$result.title}</h3>
 <table class = "sorttable" >
@@ -56,5 +57,7 @@
 </tr>
 {/foreach}
 </table>
+{/if}
+{else}
 {/if}
 {/literal}
