@@ -76,7 +76,7 @@
 		<li id="msg05">
 		    <img src="./images/ja/topics_msg/msg_05okamoto.png" alt="05 法律は社会を守る国民のmessage">
 
-		    	 <p>「法律」と聞くと、弁護士や裁判を想像し<br>「難しそvうで自分には関係ない」なんて感じていませんか？<br>
+		    	 <p>「法律」と聞くと、弁護士や裁判を想像し<br>「難しそうで自分には関係ない」なんて感じていませんか？<br>
 実はこの授業は工学部生を対象にしているため、<br>専門外の学生でも興味を持ってるよう<br>実際の生活の中での問題や実際の判例が<br>題材として盛り込まれています。<br>法律はあなたの身近な生活の中で生きていることを<br>まずはこの講義を通じて考えてみませんか。</p>
 		<a href="./index.php?lang=ja&amp;mode=c&amp;id=43&amp;page_type=index"><img src="./images/ja/topics_msg/msg_05okamoto_pic.png" alt="教養教育院 岡本裕樹准教授 【法学】"></a>
 		</li>
