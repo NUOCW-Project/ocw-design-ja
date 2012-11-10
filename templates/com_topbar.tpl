@@ -1,7 +1,7 @@
 {strip}
 <div class="header_edge"><!-- 最上部ヘッダー右端部分 -->
   <div class="{literal}{if $lang=="ja"}header{else}header_en{/if}{/literal}" id="top"><!-- 最上部ヘッダー -->
- 	<a href="{literal}{if $lang=="ja"}./index.php{else}./index.php?lang=en{/if}{/literal}" id="home_header">test</a>
+ 	<a href="{literal}{if $lang=="ja"}./index.php{elseif $=="en"}./index.php?lang=en{/if}{/literal}" id="home_header">test</a>
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
