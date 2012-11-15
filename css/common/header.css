@@ -4,7 +4,8 @@
 .header{
     	min-width: 975px;
         height: 90px; 
-	background-image: url(../../images/common/topbar.jpg);/* 背景画像「名大の授業」 */
+	background-image: url(../../images/common/topbar.jpg);
+/* 背景画像「名大の授業」 */
 	background-repeat: no-repeat;
 }
 
@@ -18,7 +19,8 @@
 .header_en{
     min-width: 975px;
     height: 90px;
-    background-image: url(../../images/en/topbar.jpg);/* 背景画像「名大の授業」 */
+    background-image: url(../../images/en/topbar.jpg);
+/* 背景画像「名大の授業」 */
     background-repeat: no-repeat;
 }
 
@@ -31,6 +33,15 @@
 
 .header a#home_header{
     position: absolute;	
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 90px;
+    display: block;
+}
+
+.header_en a#home_header{
+    position: absolute;
     top: 0;
     left: 0;
     width: 300px;
