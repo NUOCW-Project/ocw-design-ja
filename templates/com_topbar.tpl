@@ -1,6 +1,6 @@
 {strip}
 <div class="header_edge"><!-- 最上部ヘッダー右端部分 -->
-  <div class="{literal}{if $lang=="ja"}header{elseif $lang=="en"}header_en{/if}{/literal}" id="top"><!-- 最上部ヘッダー -->
+  <div class="{if $lang=="ja"}header{else}header_en{/if}" id="top"><!-- 最上部ヘッダー -->
  	<a href="./index.php?lang={$lang}" id="home_header"></a>
     <div class="header_sub"><!-- 最上部ヘッダー可動域 -->
       <div class="header_button"><!-- 最上部ヘッダーのボタン部分 -->
