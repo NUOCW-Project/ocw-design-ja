@@ -47,7 +47,7 @@
 
 <!-- スタッフ紹介開始 -->
 	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Committee</h2></td></tr>
-	<tr><td colspan=2 align="right">(As of April 1, 2012)</td></tr>
+	<tr><td colspan=2 align="right">(As of November 1, 2012)</td></tr>
 	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray">
   
 <p>
