@@ -51,7 +51,7 @@
 
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=2><h2>名古屋大学オープンコースウェア委員会</h2></td></tr>
-<tr><td colspan=2 align="right">2012年4月1日現在</td></tr>
+<tr><td colspan=2 align="right">2012年11月1日現在</td></tr>
 <tr><td class="center_gray">名古屋大学OCW委員会</td>
 		<td class="left_gray"><p>
 
