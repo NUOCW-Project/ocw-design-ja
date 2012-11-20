@@ -138,33 +138,33 @@ Michelle Kuhn Myers<br>
 Yoshifumi Inoue<br>
 Kazuki Uemura<br>
 Hiromasa Yamauchi<br>
-Shun Kutsuna<br> 
+Shun Kutsuna<br>
 Yuuhei Suzuki<br>
 Ryo Yoshida<br>
 Yumi Ogasawara<br>
 Takahiro Kojima<br>
 Yuuya Nobe<br>
 Katsuyasu Kamimura<br>
-Keisuke Serizawa<br> 
+Keisuke Serizawa<br>
 Masashi Yamazaki<br>
-Mitsunari Takahashi<br> 
+Mitsunari Takahashi<br>
 Junji Matsuoka<br>
 Mikito Yamamoto<br>
 Yuto Toida<br>
-Tetsuro Nagai<br> 
+Tetsuro Nagai<br>
 Hiroki Kamada<br>
 Fumihiro Ootake<br>
 Keita Chiga<br>
-Yui Hayashi<br> 
+Yui Hayashi<br>
 Ahammad Al Biruni<br>
 Miyuu Imamura<br>
-Naoko Kikuya<br> 
+Naoko Kikuya<br>
 Zhong Yang<br>
-Sanae Muramatsu<br> 
-Yuto Takahashi<br> 
+Sanae Muramatsu<br>
+Yuto Takahashi<br>
 Masanori Adachi<br>
-Lucy Hannah Glasspool 
-	</p></td></tr>
+Lucy Hannah Glasspool
+</p></td></tr>
 	<tr><td class="center_gray">photography</td>
         <td class="left_gray"><p>
 		Yoko Egusa<br>
