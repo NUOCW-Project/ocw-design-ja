@@ -110,10 +110,10 @@
     <td widht=65 align="right"><b>¾ì½ê</b> ¡§</td>
     <td>{$course_info.f_place_ja}</td>{/if}
     {else}
-    <td width=100 align="right"><b>Course Meeting Times</b>: </td>
+    <td width=140 align="right"><b>Course Meeting Times</b> : </td>
     <td aline=left>{$course_info.year} {$course_info.meeting_time|nl2br}</td></tr>
     {if $course_info.class_is_for_en}<tr>
-    <td width=100 align="right" valign="top"><b>Class is aimed at</b> : </td>
+    <td width=110 align="right" valign="top"><b>Class is aimed at</b> : </td>
     <td>{$course_info.class_is_for_en|nl2br}</td></tr>{/if}
     {if $course_info.f_date_en}<tr>
     <td width=100 align="right"><b>Date</b>: </td>
