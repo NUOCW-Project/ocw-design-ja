@@ -131,8 +131,7 @@ a#more{
 
 a#more_en{
   display: block;
-        position: relative;
-        left: 530px;
+  text-align: right;
 }
 
 
