@@ -33,7 +33,7 @@
 		<h3>21st Century Center of Excellence (COE) Program</h3>
 		<p>An educational programme based on a report entitled "A Policy for the Structural Reform of Universities" (June 2001) and established in 2002 as a result of a MEXT project (Research Center Formation Grant). Nagoya University has many departments becoming "Centres of Excellence" through this program. For further information, please look at <a href="http://www.jsps.go.jp/j-21coe/">the Japan Society for the Promotion of Science (JSPS) website.</a></p>
 		<h3>TEFS:</h3>
-		<p>Techo-Frontier Seminars, labs-based lectures held every year in summer by Nagoya University's Engineering Department aimed at high-school students across the whole of the Aichi-Tokai area. For details please see<a href="http://www.echo.nuee.nagoya-u.ac.jp/tefs/">this website</a>.</p>
+		<p>Techo-Frontier Seminars, labs-based lectures held every year in summer by Nagoya University's Engineering Department aimed at high-school students across the whole of the Aichi-Tokai area. For details please see <a href="http://www.echo.nuee.nagoya-u.ac.jp/tefs/">this website</a>.</p>
 		<h3>Mathematics Agora:</h3>
 		<p>Public lectures organized and held every year by Nagoya University's Graduate School of Mathematics, aimed at high-school students and their teachers. Details can be found at<a href="http://www.math.nagoya-u.ac.jp/ja/public/agora"> the Graduate School of Mathematics' website</a>.</p>
 <!-- AKF検索を外すことに伴い用語解説からもAKF検索の記述を外す
