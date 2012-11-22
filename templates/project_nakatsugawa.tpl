@@ -2,10 +2,10 @@
 Nakatsugawa Project 2011
 </h1>
 <p>
-Sponsor: Nagoya University<br>
-Date: 2011.08.09~2011.08.11<br>
-Place: Nakatsugawa Training Center, Gifu<br>
-Participants: 16 Students (From grade 1 & grade 2)<br>
+Sponsor: Nagoya University
+Date: 2011.08.09~2011.08.11
+Place: Nakatsugawa Training Center, Gifu
+Participants: 16 Students (From grade 1 & grade 2)
 Participant’s fees: 6000 Yen
 </p>
 
