@@ -1,16 +1,13 @@
-
+<img src="./images/common/t_topics.png" alt="Topics">
 <h1>
- Nakatsugawa Project 2011</td>
+Nakatsugawa Project 2011
 </h1>
 <p>
-<img id="img4"  src="./images/common/nakatsugawa/s_nakatsugawapic5.jpg" align="middle"></p>
-
-<p>
-Sponsor: Nagoya University<br />
-Date: 2011.08.09~2011.08.11<br />
-Place: Nakatsugawa Training Center, Gifu<br />
-Participants: 16 Students (From grade 1 & grade 2)<br />
-Participant’s fees: 6000 Yen <br />
+Sponsor: Nagoya University</br>
+Date: 2011.08.09~2011.08.11</br>
+Place: Nakatsugawa Training Center, Gifu</br>
+Participants: 16 Students (From grade 1 & grade 2)</br>
+Participant’s fees: 6000 Yen </br>
 </p>
 
 <p><img id="img1"  src="./images/common/nakatsugawa/s_nakatsugawapic1.jpg" align="middle"></p>
