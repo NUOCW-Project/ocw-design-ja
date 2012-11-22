@@ -146,7 +146,7 @@
 {if $lang=='ja'}
 最終更新日：{$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1年$2月$3日'|default:'未公開'}
 {else}
-Last update : {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1, $2, $3'|default:'Unpublished'}
+Last update: {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1-$2-$3'|default:'Unpublished'}
 {/if}
 </div>
 
@@ -162,7 +162,7 @@ Last update : {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/'
 最終更新日の時点の講義内容で公開を行っております。<br>
 最新年度の講義と内容が異なる可能性がありますのでご注意ください。
   {else}
-We do public lectures at the last modified date.
+We do public lectures at the last modified date. <br>
 Please note that you may have different contents of the lectures.
   {/if}
 {/if}
