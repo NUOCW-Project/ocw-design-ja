@@ -2,6 +2,7 @@
 Nakatsugawa Project 2011
 </h1>
 <p>
+test
 Sponsor: Nagoya University
 Date: 2011.08.09~2011.08.11
 Place: Nakatsugawa Training Center, Gifu
