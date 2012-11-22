@@ -75,12 +75,6 @@ table.sorttable{
 	display : none;
 }
 
-#dep_info_head_dean{
-        position: relative;
-        top: 70px;
-	left:530px; 
-}
-
 #dep_info_title{
         position: relative;
         top: 16px;
@@ -110,6 +104,12 @@ table.sorttable{
 }
 
 
+#dep_info_head_dean{
+  position: relative;
+  top: 70px; left: 35px; 
+  width: 630px;
+  text-align: right;
+}
 
 #dep_txt_en{
         position: relative;
