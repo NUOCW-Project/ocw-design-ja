@@ -164,7 +164,7 @@ Last update: {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':
   {else} 
 "Last update" is most recent lecture information update. 
 The current course contents may differ from those published above.
-
+{/if}
 {/if}
 </div>
 {/if}
