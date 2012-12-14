@@ -9,7 +9,7 @@
                 <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">1 minute Video Summary & Podcast</a><br>
                 <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">Welcome to NU OCW</a><br>
                 <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">Inquiries</a><br>
-                <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=link">Link</a><br>
+                <a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=link">Links</a><br>
 
                 <a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=kyoiku-in">Institute of Liberal Arts and Sciences</a><br>
                 <a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=lit">School of Letters / Graduate School of Letters</a><br>

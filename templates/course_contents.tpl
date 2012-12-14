@@ -113,7 +113,7 @@
     <td width=140 align="right"><b>Course Meeting Times</b> : </td>
     <td aline=left>{$course_info.year} {$course_info.meeting_time|nl2br}</td></tr>
     {if $course_info.class_is_for_en}<tr>
-    <td width=110 align="right" valign="top"><b>Class is aimed at</b> : </td>
+    <td width=110 align="right" valign="top"><b>Prerequisite</b> : </td>
     <td>{$course_info.class_is_for_en|nl2br}</td></tr>{/if}
     {if $course_info.f_date_en}<tr>
     <td width=100 align="right"><b>Date</b>: </td>
@@ -162,8 +162,15 @@ Last update: {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':
 最終更新日の時点の講義内容で公開を行っております。<br>
 最新年度の講義と内容が異なる可能性がありますのでご注意ください。
   {else}
+<<<<<<< .mine
+
+"Last update" is most recent lecture information update.
+The current course contents may differ from those published above.
+
+=======
 We do public lectures at the last modified date. <br>
 Please note that you may have different contents of the lectures.
+>>>>>>> .r7373
   {/if}
 {/if}
 </div>
