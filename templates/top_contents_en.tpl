@@ -16,7 +16,7 @@
   <div id="notice_en"><!-- "News" -->
     <div class="waku">
       <img src="./images/{$lang}/t_news.png" class="subheading" alt="News" width="180" height="20">
-      <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_list">
+      <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news">
       	 <img src="./images/{$lang}/backno_en.png" class="jump" alt="Back No." width="65" height="15">
       </a>
       <br>
