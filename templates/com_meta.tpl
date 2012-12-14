@@ -32,6 +32,8 @@
   <link rel="stylesheet" type="text/css" href="css/vsyllabus.css">
 {elseif $page_type=='welcome'}
   <link rel="stylesheet" type="text/css" href="css/welcome.css">
+{elseif $page_type=='news'}
+  <link rel="stylesheet" type="text/css" href="css/news.css">
 {elseif $page_type=='topics'}
   {if $lang=='ja'}
     <link rel="stylesheet" type="text/css" href="css/special.css">
