@@ -162,7 +162,7 @@ Last update: {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':
 最終更新日の時点の講義内容で公開を行っております。<br>
 最新年度の講義と内容が異なる可能性がありますのでご注意ください。
   {else} 
-"Last update" is most recent lecture information update. 
+"Last update" is most recent lecture information update. <br>
 The current course contents may differ from those published above.
 {/if}
 {/if}
