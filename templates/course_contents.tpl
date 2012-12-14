@@ -161,17 +161,10 @@ Last update: {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':
   {if $lang=='ja'}
 最終更新日の時点の講義内容で公開を行っております。<br>
 最新年度の講義と内容が異なる可能性がありますのでご注意ください。
-  {else}
-<<<<<<< .mine
-
-"Last update" is most recent lecture information update.
+  {else} 
+"Last update" is most recent lecture information update. 
 The current course contents may differ from those published above.
 
-=======
-We do public lectures at the last modified date. <br>
-Please note that you may have different contents of the lectures.
->>>>>>> .r7373
-  {/if}
 {/if}
 </div>
 {/if}
