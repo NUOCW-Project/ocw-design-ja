@@ -185,7 +185,7 @@ table.relay td, table.farewell td {
 
 #podcast_right{
 	position: relative;
-	top: -25px;
+/*	top: -25px; */
 	float: right;
 	width: 160px;
 	margin: 10px 10px 10px 10px;
