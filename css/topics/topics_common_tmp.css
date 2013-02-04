@@ -108,7 +108,7 @@ div#vertical_border
     border-left: dashed 1px tan;
 }
 
-.intro{
+#articles_intro{
     float: left;
     width: 370px;
     padding: 0;
@@ -116,7 +116,14 @@ div#vertical_border
     /*margin-bottom: 168px;*/
 }
 
-.blue_bar
+
+
+#intro1,#intro2,#intro3,#intro4,#intro5,#intro6
+{
+    display: none;
+}
+
+#blue_bar1,#blue_bar2,#blue_bar3,#blue_bar4,#blue_bar5,#blue_bar6
 {
     height: 4px;
     background-color: #99CCCC;
