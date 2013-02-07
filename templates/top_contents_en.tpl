@@ -6,7 +6,7 @@
 <!-- nakatsugawa  -->
 <div>
 <a href="./index.php?lang=en&mode=l&page_type=nktgw">
-       <img src="./images/en/top_banner.png" alt="Nakatsugawa_Project">
+       <img width="694" height="399"  src="./images/en/top_banner.png" alt="Nakatsugawa_Project">
     </a>
 </div>
 <!-- nakatsugawa end -->
