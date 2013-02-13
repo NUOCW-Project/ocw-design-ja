@@ -13,7 +13,7 @@
 
   }
   input.gsc-search-button:after {
-    content: url(../images/search2.png);
+    content: url(../../images/search2.png);
   }
   .gsc-tabHeader.gsc-tabhInactive {
     border-color: #A9DA92;
