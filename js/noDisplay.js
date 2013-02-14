@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    $(".intro").css("display",none");
+    $(".intro").css("display","none");
     $(".intro:first").css("display","inherit");
 
     $(".detail").css("display","none");
