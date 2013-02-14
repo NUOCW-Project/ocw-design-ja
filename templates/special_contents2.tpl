@@ -8,39 +8,39 @@
 
 <ul id="articles_title">
 
-<li><a href="#articles_detail" class="title">
+<li><a href="#articles_detail" class="art_title">
     <img alt="千葉恵美子 教授" class="face" src="./images/ja/topics3/s_chiba.jpg">
     <h2 class="tp_title">民法の世界で遊ぶ</h2>
     <span>法学研究科　千葉恵美子 教授</span>
 </a><hr class="blue_bar"></li>
 
-<li><a href="#articles_detail" class="title">p
+<li><a href="#articles_detail" class="art_title">
     <img alt="千代勝実 講師" class="face" src="./images/ja/topics3/s_senyo.jpg">
     <h2 class="tp_title">物理学実験</h2>
     <span>教養教育院　千代勝実 講師</span>
     <br><small>※2011年度担当は千代先生ではありません</small>
 </a><hr class="blue_bar"></li>
 
-<li><a href="#articles_detail" class="title">
+<li><a href="#articles_detail" class="art_title">
     <img alt="浮葉正親 准教授" class="face" src="./images/ja/topics3/s_ukiba.jpg">
        <h2 class="tp_title">留学生と日本<br>〜異文化を通しての日本理解〜</h2>
        <span>留学生センター　浮葉正親 准教授</span>
 </a><hr class="blue_bar"></li>
 
-<li><a href="#articles_detail" class="title">
+<li><a href="#articles_detail" class="art_title">
     <img alt="佐藤豊 准教授" class="face" src="./images/ja/topics3/s_sato.jpg">
     <h2 class="tp_title">国内実地研修</h2>
     <span>生命農学研究科　 佐藤豊 准教授</span>    
     <br><small>※2011年度担当は佐藤先生ではありません</small>
 </a><hr class="blue_bar"></li>
 
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics" class="title">
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics" class="art_title">
     <img alt="有田隆也 教授" class="face" src="./images/ja/topics3/s_arita.jpg">
     <h2 class="tp_title">ボードゲームを究める</h2>
     <span>情報文化学部　 有田隆也 教授</span>    
 </a><hr class="blue_bar"></li>
 <!--
-<li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<li><a href="#articles_detail" class="art_title">
 
     <h2 id="tp_title6"></h2>
     <span></span>
