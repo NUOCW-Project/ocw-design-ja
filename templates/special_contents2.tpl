@@ -1,38 +1,44 @@
 <img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.png" id="tp_door">
 
 <div id="tp_default">
-<a onclick="Display('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6');noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+<a class="title">
 <img src="./images/ja/topics3/title.png" alt="遊び・体験から学ぶ授業">
 </a>
 <br>
+
 <ul id="articles_title">
-<li><a href="#articles_detail" onMouseOver="Display('intro1');noDisplay('intro_default');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');Display('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');Color('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+
+<li><a href="#articles_detail" class="title">
     <img alt="千葉恵美子 教授" class="face" src="./images/ja/topics3/s_chiba.jpg">
-    <h2 id="tp_title1">民法の世界で遊ぶ</h2>
+    <h2 class="tp_title">民法の世界で遊ぶ</h2>
     <span>法学研究科　千葉恵美子 教授</span>
-</a><hr id="blue_bar1"></li>
-<li><a href="#articles_detail" onMouseOver="Display('intro2');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');Display('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');Color('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail2');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr class="blue_bar"></li>
+
+<li><a href="#articles_detail" class="title">p
     <img alt="千代勝実 講師" class="face" src="./images/ja/topics3/s_senyo.jpg">
-    <h2 id="tp_title2">物理学実験</h2>
+    <h2 class="tp_title">物理学実験</h2>
     <span>教養教育院　千代勝実 講師</span>
     <br><small>※2011年度担当は千代先生ではありません</small>
-</a><hr id="blue_bar2"></li>
-<li><a href="#articles_detail" onMouseOver="Display('intro3');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro4');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');Display('blue_bar3');noDisplay('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');Color('tp_title3');reColor('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="Display('detail3');noDisplay('detail_default');noDisplay('detail1');noDisplay('detail2');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr class="blue_bar"></li>
+
+<li><a href="#articles_detail" class="title">
     <img alt="浮葉正親 准教授" class="face" src="./images/ja/topics3/s_ukiba.jpg">
-       <h2 id="tp_title3">留学生と日本<br>〜異文化を通しての日本理解〜</h2>
+       <h2 class="tp_title">留学生と日本<br>〜異文化を通しての日本理解〜</h2>
        <span>留学生センター　浮葉正親 准教授</span>
-</a><hr id="blue_bar3"></li>
-<li><a href="#articles_detail" onMouseOver="Display('intro4');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro5');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');Display('blue_bar4');noDisplay('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');Color('tp_title4');reColor('tp_title5');reColor('tp_title6')" onclick="noDisplay('detail1');noDisplay('detail2');noDisplay('detail3');Display('detail4');noDisplay('detail5');noDisplay('detail6')">
+</a><hr class="blue_bar"></li>
+
+<li><a href="#articles_detail" class="title">
     <img alt="佐藤豊 准教授" class="face" src="./images/ja/topics3/s_sato.jpg">
-    <h2 id="tp_title4">国内実地研修</h2>
+    <h2 class="tp_title">国内実地研修</h2>
     <span>生命農学研究科　 佐藤豊 准教授</span>    
     <br><small>※2011年度担当は佐藤先生ではありません</small>
-</a><hr id="blue_bar4"></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics" onMouseOver="Display('intro5');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2');noDisplay('intro3');noDisplay('intro4');noDisplay('intro6');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');Color('tp_title5');reColor('tp_title6')">
+</a><hr class="blue_bar"></li>
+
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics" class="title">
     <img alt="有田隆也 教授" class="face" src="./images/ja/topics3/s_arita.jpg">
-    <h2 id="tp_title5">ボードゲームを究める</h2>
+    <h2 class="tp_title">ボードゲームを究める</h2>
     <span>情報文化学部　 有田隆也 教授</span>    
-</a><hr id="blue_bar5"></li>
+</a><hr class="blue_bar"></li>
 <!--
 <li><a href="#articles_detail" onMouseOver="Display('intro6');noDisplay('intro_default');noDisplay('intro1');noDisplay('intro2);noDisplay('intro3');noDisplay('intro4');noDisplay('intro5');noDisplay('blue_bar1');noDisplay('blue_bar2');noDisplay('blue_bar3');noDisplay('blue_bar4');Display('blue_bar5');noDisplay('blue_bar6');reColor('tp_title1');reColor('tp_title2');reColor('tp_title3');reColor('tp_title4');reColor('tp_title5');Color('tp_title6')" onclick="Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6')">
 
@@ -59,7 +65,7 @@
 </p>
 <a class="tp_link"><p>ここをクリック！</p></a>
 </li>
-<li id="intro1">
+<li class="intro">
     <h2>日常の中の法律</h2>
     <p>
      開講部局：教養教育院
@@ -73,7 +79,7 @@
       <p>千葉恵美子先生の<br>ページへ</p>
    </a>
 </li>
-<li id="intro2">
+<li class="intro">
     <h2>すべての「科学」の原点</h2>
     <p>
      開講部局：教養教育院
@@ -87,7 +93,7 @@
       <p>千代勝実先生の<br>ページへ</p>
      </a>
 </li>
-<li id="intro3">
+<li class="intro">
     <h2>日本を知る</h2>
     <p>
      開講部局：教養教育院
@@ -100,7 +106,7 @@
       <p>浮葉正親先生の<br>ページへ</p>
      </a>
 </li>
-<li id="intro4">
+<li class="intro">
     <h2>いざ、農業の世界へ</h2>
     <p>
      開講部局：農学部・生命農学研究科
@@ -114,7 +120,7 @@
       <p>佐藤豊先生の<br>ページへ</p>
      </a>
 </li>
-<li id="intro5">
+<li class="intro">
     <h2>考える楽しさ</h2>
     <p>
      開講部局：教養教育院
@@ -144,11 +150,12 @@
 </div><!-- "tp_default" end -->
 
 <ul id="articles_detail">
-<li id="detail1">
+<li class="detail">
 <h1>「民法の世界で遊ぶ」千葉恵美子先生からのメッセージ</h1>
 <p>公開されている授業に参加されていた当時文系学部の1年生であった方は、私の知る限り、企業・地方公共団体で活躍されており、また、今年の司法試験に現役合格された方が出るなど、みんなアクティブな人生を送っておられます。文系・基礎演習で自ら学ぶことを楽しんでくれた学生のその後の成長を嬉しく思っています。</p>
 </li>
-<li id="detail2">
+
+<li class="detail">
 <h1>「物理学実験」千代勝実先生インタビュー</h1>
 <p><b>1. 物理実験学について印象に残っていることは何ですか？</b></p>
 <img src="./images/ja/topics3/senyo1.png" class="c_right" alt="">
@@ -173,7 +180,8 @@
 </p>
 <p align="right">インタビュー日:2010年10月18日</p>
 </li>
-<li id="detail3">
+
+<li class="detail">
 <h1>「留学生と日本〜異文化を通しての日本理解〜」<br>浮葉正親先生インタビュー</h1>
 <p>
 <b>1. 授業の中で印象に残っていること・良かったことは何ですか?</b></p>
@@ -202,7 +210,8 @@
 </p>
 <p align="right">インタビュー日:2010年10月15日</p>
 </li>
-<li id="detail4">
+
+<li class="detail">
 <h1>「国内実地研修」佐藤豊先生インタビュー</h1>
 <p><b>1. 「国内実地研修」の授業の中で一番印象に残っていることを教えて下さい。</b></p>
 <p>学生さんたちが三日間の研修を終えたあとに、発表会を毎年開いて、研修して感じたこと、何をやったか、みんなの前で発表してもらうようにしているんですけど、なかには、研修に行って非常に大きな収穫があったって言って帰ってくる子もいるもんだから、そういう子を見てると担当して良かったなあと思います。
@@ -220,8 +229,9 @@
 体験型の授業は僕はすごく重要だと思いますね。普通の先生からある程度内容を提供する形の授業っていうのは、学生さんたちの、質問なり何かインタラクティブなやりとりがあるとしても基本的には先生が想定した授業の範囲の中でのトピックスを元に、話が進んでいくと思います。ですけど、体験型授業っていうのはそういうくくりがないですよね。僕自身も研修先の方が何を見せているのか、何をやらせているのかについて実は知らないんですね。もう完全に先方に任せている。「向こうの日々の業務を、今の時期やらなきゃいけないことをさせてください。」という形で、職業人の方が普段接している職業を分担していってもらう、という形なので、まさに何が起こるか分からないし、何をやるのかも分からない。その中で「どうやったら自分が役に立つのか」、「自分の学んできたことがどのようにに活かされるのか」を常に考えながら、学生がケースバイケースで対応せざるをえない。そういうふうにあらかじめメニューがない上で、自分たちが何かを学び取れるっていうのが魅力なんじゃないかなと思います。それぞれの学生さんが積極的に取り組めば取り組むほど、学ぶ物は自分できちっと見えてくる、そこが体験学習のいいところじゃないかと思っています。</p>
 <p align="right">インタビュー日:2010年11月8日</p>
 </li>
-<li id="detail5">
+
+<li class="detail">
 </li>
-<li id="detail6">
+<li class="detail">
 </li>
 </ul>
