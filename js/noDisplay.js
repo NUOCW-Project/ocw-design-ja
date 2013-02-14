@@ -32,4 +32,6 @@ $(document).ready(function(){
 	    $(".tp_title").eq(index).css("color","#99CCCC");
 	    });
 	}
+
+    }
 });
