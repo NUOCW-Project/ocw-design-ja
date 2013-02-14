@@ -51,7 +51,7 @@
 <div id="vertical_border"></div>
 
 <ul id="articles_intro">
-<li id="intro_default">
+<li class="intro">
 <h2>始めに</h2>
 <p>このページの使い方</p>
 <hr>
