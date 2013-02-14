@@ -19,19 +19,19 @@ $(document).ready(function(){
 
 	if(index == 0){
 	    $(".art_title").eq(index).click(function(){
-	    $(".intro").css("display","none");
-	    $(".intro").eq(index).css("display","inherit");
+		    $(".intro").css("display","none");
+		    $(".intro").eq(index).css("display","inherit");
 
-	    $(".detail").css("display","none");
-	    $(".detail").eq(index).css("display","inherit");
+		    $(".detail").css("display","none");
+		    $(".detail").eq(index).css("display","inherit");
 
-	    $(".blue_bar").css("display","none");
-	    $(".blue_bar").eq(index).css("display","inherit");
+		    $(".blue_bar").css("display","none");
+		    $(".blue_bar").eq(index).css("display","inherit");
 
-	    $(".tp_title").css("color","");
-	    $(".tp_title").eq(index).css("color","#99CCCC");
-	    });
+		    $(".tp_title").css("color","");
+		    $(".tp_title").eq(index).css("color","#99CCCC");
+	    });	
 	}
+    });
 
-    }
 });
