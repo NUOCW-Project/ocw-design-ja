@@ -1,7 +1,7 @@
 <img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.png" id="tp_door">
 
 <div id="tp_default">
-<a id="art_title_def">
+<a class="art_title">
 <img src="./images/ja/topics3/title.png" alt="遊び・体験から学ぶ授業">
 </a>
 <br>
@@ -51,7 +51,7 @@
 <div id="vertical_border"></div>
 
 <ul id="articles_intro">
-<li id="intro_def">
+<li class="intro">
 <h2>始めに</h2>
 <p>このページの使い方</p>
 <hr>
