@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     $(".art_title").mouseover(function(){
-	var index = $(".title").index(this);
+	var index = $(".art_title").index(this);
 
 	if(index != 0){
 	    $(".intro").css("display","none");
