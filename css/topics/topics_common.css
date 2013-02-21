@@ -135,6 +135,25 @@ div#vertical_border
     bottom: 0;*/
 }
 
+#intro1,#intro2,#intro3,#intro4,#intro5,#intro6
+{
+    display: none;
+}
+
+#blue_bar1,#blue_bar2,#blue_bar3,#blue_bar4,#blue_bar5,#blue_bar6
+{
+    height: 4px;
+    background-color: #99CCCC;
+    color: #99CCCC;
+    border: none;
+    display: none;
+    margin: 0;
+    padding: 0;
+    width: 310px;
+/*    position: absolute;
+    bottom: 0;*/
+}
+
 #articles_intro li h2 /* キャッチコピー */
 {
     font-weight: 500;
