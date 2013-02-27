@@ -31,7 +31,7 @@
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/{$vs.filename}" length="{$vs.filesize}" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/{$vs.filename}</guid>
-<pubDate>{$vs.pubdate} +0900 </pubDate>
+<pubDate>{$vs.pubdate} 09:30:00 +0900 </pubDate>
 <itunes:duration>{$vs.time}</itunes:duration>
 <itunes:keywords>{$vs.keywords}</itunes:keywords>
 </item>
