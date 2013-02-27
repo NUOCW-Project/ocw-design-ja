@@ -23,7 +23,7 @@
 </itunes:category>
 
 
-{foreach from=$vsyllabus_list item="vs"}
+{foreach from=$podcast_list item="vs"}
 <item>
 <title>{$vs.course_name}</title>
 <itunes:author>{$vs.instructor_name}</itunes:author>
@@ -32,7 +32,7 @@
 <enclosure url="http://ocw.nagoya-u.jp/podcast/{$vs.filename}" length="{$vs.filesize}" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/{$vs.filename}</guid>
 <pubDate>{$vs.pubdate} +0900 </pubDate>
-<itunes:duration>{$vs.duration}</itunes:duration>
+<itunes:duration>{$vs.time}</itunes:duration>
 <itunes:keywords>{$vs.keywords}</itunes:keywords>
 </item>
 {/foreach}
