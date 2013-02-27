@@ -29,9 +29,9 @@
 <itunes:author>{$vs.instructor_name}</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/{$vs.filename}" length="{$vs.filesize}" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/{$vs.filename}</guid>
-<pubDate>{$vs.pubdate} 09:30:00 +0900 </pubDate>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/{$vs.podcast_filename}" length="{$vs.filesize}" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/{$vs.podcast_filename}</guid>
+<pubDate>{$vs.podcast_pubdate} 09:30:00 +0900 </pubDate>
 <itunes:duration>{$vs.time}</itunes:duration>
 <itunes:keywords>{$vs.keywords}</itunes:keywords>
 </item>
