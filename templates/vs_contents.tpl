@@ -64,9 +64,13 @@
 			</a>
 		</td>
 		<td class="left">
-			{foreach from=$vs.instructor_names key="i_id" item="i_name"} 
-			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$i_id}">
-			{$i_name}
+			{foreach from=$vs.instructor_names item="inst"} 
+			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$inst.id}">
+      {if $lang=='ja'}
+			  {$inst.name} {$inst.position}
+      {elseif $lang=='en'}
+			  {$inst.position}<br>{$inst.name}
+      {/if}
 			</a><br>
                         {/foreach} 
 		</td>
