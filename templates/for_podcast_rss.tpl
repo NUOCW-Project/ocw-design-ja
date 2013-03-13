@@ -43,15 +43,9 @@
 {foreach from=$podcast_list item="vs"}
 <item>
 <title>{$vs.course_name}</title>
-<itunes:author>
-{foreach from=$vs.instructor_names item="inst"} 
-{if $lang=='ja'}
-  {$inst.name} {$inst.position}
-{elseif $lang=='en'}
-  {$inst.name}, {$inst.position} 
-{/if}
-{/foreach}
-</itunes:author>
+<itunes:author>{foreach from=$vs.instructor_names item="inst"} 
+{if $lang=='ja'}{$inst.name} {$inst.position}{elseif $lang=='en'}{$inst.name}, {$inst.position}{/if}
+{/foreach}</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/{$vs.podcast_filename}" length="{$vs.filesize}" type="video/mp4" />
@@ -60,6 +54,8 @@
 <itunes:duration>{$vs.time}</itunes:duration>
 <itunes:keywords>{$vs.keywords}</itunes:keywords>
 </item>
+
+
 {/foreach}
 
 </channel>
