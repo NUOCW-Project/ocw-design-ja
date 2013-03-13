@@ -48,7 +48,7 @@
 <guid>http://ocw.nagoya-u.jp/podcast/{$vs.podcast_filename}</guid>
 <pubDate>{$vs.podcast_pubdate} 09:30:00 +0900 </pubDate>
 <itunes:duration>{$vs.duration}</itunes:duration>
-<itunes:keywords>{$vs.keywords} {if $lang=='ja'}名古屋大学 名大 名大の授業 1分間授業紹介{else}Nagoya University NUOCW OCW ocw{/if}</itunes:keywords>
+<itunes:keywords>{$vs.keywords} {if $lang=='ja'}名古屋大学 名大 名大の授業 1分間授業紹介{else}Nagoya University NUOCW{/if} OCW ocw</itunes:keywords>
 </item>
 
 
