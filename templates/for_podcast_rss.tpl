@@ -38,6 +38,33 @@
 </itunes:category>
 {/if}
 
+{* コースに関連付けられていないビデオ *}
+{if $lang=='ja'}
+<item>
+<title>ようこそ名大の授業へ</title>
+<itunes:author>オープンコースウェア委員会 委員長 山本一良</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100210yamamoto.mp4" length="7756485" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100210yamamoto.mp4</guid>
+<pubDate>Wed, 10 Feb 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:43</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+{elseif $lang=='en'}
+<item>
+<title>Welcome to Nagoya University OpenCourseWare</title>
+<itunes:author>Ichiro YAMAMOTO, Chairperson, OpenCourseWare Committee</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100525yamamoto_en.mp4" length="13719454" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100525yamamoto_en.mp4</guid>
+<pubDate>Tue, 25 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:04:47</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+{/if}
+
 {foreach from=$podcast_list item="vs"}
 <item>
 <title>{$vs.course_name}</title>
