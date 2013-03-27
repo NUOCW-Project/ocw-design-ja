@@ -51,6 +51,18 @@
 <itunes:duration>0:02:43</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
+<item>
+<title>女子中高生理系進学セミナー2008</title>
+<itunes:author>男女共同参画室 室長 束村博子</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100210tsukamura.mp4" length="2357757" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100210tsukamura.mp4</guid>
+<pubDate>Wed, 10 Feb 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:55</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
 {elseif $lang=='en'}
 <item>
 <title>Welcome to Nagoya University OpenCourseWare</title>
