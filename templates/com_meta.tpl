@@ -53,6 +53,10 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/3.css">
 
+{elseif $lang=='ja' && $page_type=='topics2013'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/3.css">  
+
 {elseif $lang=='ja' && $page_type=='special'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/4.css">
