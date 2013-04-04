@@ -24,7 +24,7 @@
   </a>
 
 {* 高校生公開講座はシラバスなし *}
-{if $course_info.department_abbr!='extension' && $course_info.department_abbr!='sem' && $course_info.department_abbr!='farewell' &&
+{if $course_info.department_abbr!='extension' && $course_info.department_abbr!='sem' && $course_info.department_abbr!='fw2012' &&
 	$course_info.department_abbr!='tefs' && $course_info.department_abbr!='agora' &&
 	 !($course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq '')}  
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
