@@ -86,7 +86,7 @@
     <script type="text/javascript" src="./js/seltab.js"></script>
     <script type="text/javascript" src="./js/switchFlash.js"></script>
   {/if}
-{elseif $lang=='ja' && ( $page_type=='topics_branches' || $page_type=='special' || $page_type=='topics2010' )}
+{elseif $lang=='ja' && ( $page_type=='topics2013' || $page_type=='topics_branches' || $page_type=='special' || $page_type=='topics2010' )}
   <script type="text/javascript" src="./js/noDisplay.js"></script>
 {/if}
 {/literal}
