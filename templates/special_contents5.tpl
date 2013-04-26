@@ -2,41 +2,40 @@
 
 <div id="tp_default">
 <a class="art_title">
-<img src="./images/ja/topics3/title.png" alt="遊び・体験から学ぶ授業">
+<img src="./images/ja/topics5/kokoro_title.png" alt="こころ">
 </a>
 <br>
 
 <ul id="articles_title">
 
-<li><a href="#articles_detail" class="art_title">
-    <img alt="千葉恵美子 教授" class="face" src="./images/ja/topics3/s_chiba.jpg">
-    <h2 class="tp_title">民法の世界で遊ぶ</h2>
-    <span>法学研究科　千葉恵美子 教授</span>
+<li><a href="./index.php?lang=ja&mode=c&id=201&page_type=index" class="art_title">
+    <h2 class="tp_title">こころの健康を維持する</h2>
+    <span>本田秀次 教授</span>
+    <br><small>発達心理精神科学教育研究センター</small>
 </a><hr class="blue_bar"></li>
 
 <li><a href="#articles_detail" class="art_title">
-    <img alt="千代勝実 講師" class="face" src="./images/ja/topics3/s_senyo.jpg">
-    <h2 class="tp_title">物理学実験</h2>
-    <span>教養教育院　千代勝実 講師</span>
-    <br><small>※2011年度担当は千代先生ではありません</small>
+    <h2 class="tp_title">応用行動学講義
+    <br>ー産業・組織の心理学ー</h2>
+    <span>金井篤子 教授</span>
+    <br><small>教育学部・教育発達科学研究科</small>
 </a><hr class="blue_bar"></li>
 
 <li><a href="#articles_detail" class="art_title">
-    <img alt="浮葉正親 准教授" class="face" src="./images/ja/topics3/s_ukiba.jpg">
-       <h2 class="tp_title">留学生と日本<br>〜異文化を通しての日本理解〜</h2>
-       <span>留学生センター　浮葉正親 准教授</span>
+    <h2 class="tp_title">人間発達の心理学
+　　<br>（発達教育臨床基礎論）</h2>
+    <span>氏家達夫 教授</span>
+    <br><small>教育学部・教育発達科学研究科</small>
 </a><hr class="blue_bar"></li>
 
 <li><a href="#articles_detail" class="art_title">
-    <img alt="佐藤豊 准教授" class="face" src="./images/ja/topics3/s_sato.jpg">
-    <h2 class="tp_title">国内実地研修</h2>
-    <span>生命農学研究科　 佐藤豊 准教授</span>    
-    <br><small>※2011年度担当は佐藤先生ではありません</small>
+    <h2 class="tp_title">心理・教育の統計学</h2>
+    <span>石井秀宗 准教授</span>    
+    <br><small>教育学部・教育発達科学研究科</small>
 </a><hr class="blue_bar"></li>
 
 <li><a href="./index.php?lang=ja&mode=g&page_type=topics" class="art_title">
-    <img alt="有田隆也 教授" class="face" src="./images/ja/topics3/s_arita.jpg">
-    <h2 class="tp_title">ボードゲームを究める</h2>
+    <h2 class="tp_title">心理行動科学実験演習3（検査・測定法）</h2>
     <span>情報文化学部　 有田隆也 教授</span>    
 </a><hr class="blue_bar"></li>
 <!--
