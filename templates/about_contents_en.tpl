@@ -51,7 +51,7 @@
 	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray">
   <p>	
 Chairperson: Katsuaki Onogi	<br>
-Dean,	<br>
+Dean,<br>
 Institute of Liberal Arts and Sciences	</p>
 	<p>
 Ichiro Yamamoto	<br>
