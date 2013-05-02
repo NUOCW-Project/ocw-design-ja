@@ -74,6 +74,7 @@ OCW事務室 事務補佐員 後藤綾子<br>
 
 <td id="ocw-support" class="center">名古屋大学OCWサポートスタッフ</td>
 		<td class="left"><p>
+スタジオ メディアサポーター 原愛樹<br>
 文学部B4 小野哲弥<br>
 文学研究科D2 マイヤズ・ミッシェル・キューン<br>
 法学部B2 井上喜文<br>
