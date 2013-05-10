@@ -22,7 +22,7 @@
 		理事 (教育・情報関係担当)<br>
 		副総長<br>
 		オープンコースウェア委員会</span>
-	<p class="welcome_b">委員長 山本 一良</p>
+	<p class="welcome_b">委員長 小野木 克明</p>
 </div>
 
 <!--

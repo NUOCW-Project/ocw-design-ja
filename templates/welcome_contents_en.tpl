@@ -17,7 +17,7 @@
 
 
 <div class="welcome_name">
-	<p class="welcome_b">Ichiro Yamamoto</p>
+	<p class="welcome_b">Katsuaki Onogi</p>
 	<span class="b">
 	Chairperson,<br>
 	OpenCourseWare Committee,<br>
