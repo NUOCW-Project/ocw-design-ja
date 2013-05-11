@@ -12,39 +12,32 @@
     <h2 class="tp_title">こころの健康を維持する</h2>
     <span>本田秀次 教授</span>
     <br><small>発達心理精神科学教育研究センター</small>
-</a><hr class="blue_bar"></li>
+</a></li>
 
 <li><a href="#articles_detail" class="art_title">
     <h2 class="tp_title">応用行動学講義
     <br>ー産業・組織の心理学ー</h2>
     <span>金井篤子 教授</span>
     <br><small>教育学部・教育発達科学研究科</small>
-</a><hr class="blue_bar"></li>
+</a></li>
 
 <li><a href="#articles_detail" class="art_title">
     <h2 class="tp_title">人間発達の心理学
 　　<br>（発達教育臨床基礎論）</h2>
     <span>氏家達夫 教授</span>
     <br><small>教育学部・教育発達科学研究科</small>
-</a><hr class="blue_bar"></li>
+</a></li>
 
 <li><a href="#articles_detail" class="art_title">
     <h2 class="tp_title">心理・教育の統計学</h2>
     <span>石井秀宗 准教授</span>    
     <br><small>教育学部・教育発達科学研究科</small>
-</a><hr class="blue_bar"></li>
+</a></li>
 
 <li><a href="./index.php?lang=ja&mode=g&page_type=topics" class="art_title">
     <h2 class="tp_title">心理行動科学実験演習3（検査・測定法）</h2>
     <span>情報文化学部　 有田隆也 教授</span>    
-</a><hr class="blue_bar"></li>
-<!--
-<li><a href="#articles_detail" class="art_title">
-
-    <h2 id="tp_title6"></h2>
-    <span></span>
-</a><hr id="blue_bar6"></li>
--->
+</a></li>
 </ul>
 
 <div id="vertical_border"></div>
