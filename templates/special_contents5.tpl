@@ -1,10 +1,12 @@
-<img alt="名大の授業 TOPICS No.3" src="./images/ja/topics5/topics_no5.png" id="tp_door">
+<img alt="名大の授業 TOPICS No.5" src="./images/ja/topics5/topics_no5.png" id="tp_door">
+
+<a class="art_title">
+<center>
+<img src="./images/ja/topics5/kokoro_title.png" alt="こころ">
+</center>
+</a>
 
 <div id="tp_default">
-<a class="art_title">
-<img src="./images/ja/topics5/kokoro_title.png" alt="こころ">
-</a>
-<br>
 
 <ul id="articles_title">
 
@@ -45,7 +47,16 @@
 <li>
 <div class="art_title">
     <h2 class="tp_title">心理行動科学実験演習3（検査・測定法）</h2>
-    <span>情報文化学部　 有田隆也 教授</span>    
+    <span>永田雅子 准教授</span>
+    <br><small>教育学部・教育発達科学研究科</small>
+</div>
+</li>
+
+<li>
+<div class="art_title">
+    <h2 class="tp_title">健康スポーツ科学講義（精神医学）</h2>
+    <span>小川豊昭 教授</span>
+    <br><small></small>
 </div>
 </li>
 
