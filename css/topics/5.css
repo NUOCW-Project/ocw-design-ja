@@ -34,6 +34,14 @@ div#tp_default
 }
 
 #intro_message
-{
+{    
     text-align: center;
+    padding-top: 60px;
+}
+
+#articles_intro
+{
+    padding: 10px 20px;
+    height: 600px;
+    background-image: url(../../images/ja/topics5/kokoro_contents_zabuton.png);
 }
