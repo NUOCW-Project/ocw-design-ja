@@ -32,3 +32,8 @@ div#tp_default
 {
     background-image: url("../../images/ja/topics3/background2.png");
 }
+
+#intro_message
+{
+    text-align: center;
+}
