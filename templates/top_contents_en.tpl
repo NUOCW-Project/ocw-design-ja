@@ -36,7 +36,7 @@
 
   <div id="greeting_en"><!-- "greeting" -->
     <img src="./images/{$lang}/goaisatu.png" alt="
-      Ichiro Yamamoto, Chairperson, OpenCourseWare Committee, Nagoya University,
+      Katsuaki Onogi, Chairperson, OpenCourseWare Committee, Nagoya University,
       Here at the NU OCW website we have gathered notes and materials from lectures given at Nagoya Uni\
 versity.
   " id="yamamoto">
