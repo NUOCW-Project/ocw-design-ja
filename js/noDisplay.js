@@ -46,6 +46,11 @@ $(document).ready(function(){
             $(".blue_bar").css("display","none");
             $(".blue_bar").eq(index - 1).css("display","inherit");
 
+            $(".bg_on").css("display","none");
+            $(".bg_off").css("display","inherit");
+            $(".bg_off").eq(index - 1).css("display","none");
+            $(".bg_on").eq(index - 1).css("display","inherit");
+
             $(".tp_title").css("color","");
             $(".tp_title").eq(index - 1).css("color","#99CCCC");
 
