@@ -45,3 +45,8 @@ div#tp_default
     height: 600px;
     background-image: url(../../images/ja/topics5/kokoro_contents_zabuton.png);
 }
+
+#art_title
+{
+    background-image: url(../../images/ja/topics5/kokoro_menu_zabuton.png);
+}
