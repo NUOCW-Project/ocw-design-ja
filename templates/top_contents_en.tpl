@@ -41,7 +41,7 @@
 versity. " id="yamamoto">
 
     <div id="toppage_chairperson_name"><p>Katsuaki Onogi,<br>Chairperson<br>OpenCourseWare<br>Committee<br>Nagoya University</p>
-    <p>Here at the NU OCW<br>website we have gathered<br>notes and materials from lectures given at Nagoya<br>University.</p></div>
+    <p>Here at the NU OCW website we have gathered notes and materials from lectures given at Nagoya University.</p></div>
 
      <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
   </div><!-- "greeting" end -->
