@@ -40,7 +40,7 @@
       Here at the NU OCW website we have gathered notes and materials from lectures given at Nagoya Uni\
 versity. " id="yamamoto">
 
-    <p id="toppage_chairperson_name">Katsuaki Onogi,<br>Chairperson<br>OpenCourseWare<br>Committee<br>Nagoya University</p>
+    <p id="toppage_yamamoto_name">Katsuaki Onogi,<br>Chairperson<br>OpenCourseWare<br>Committee<br>Nagoya University</p>
     <p>Here at the NU OCW<br>website we have gathered<br>notes and materials from<br>lectures given at Nagoya<br>University.</p>
 
      <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome" class="jump">more...</a>
