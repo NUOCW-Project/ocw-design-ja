@@ -55,3 +55,15 @@ div#tp_default
 {
     top: 0px;
 }
+
+#articles_intro li h2:before {
+    display: none;
+}
+
+h2 {
+    color: #FFFFFF;
+}
+
+#tp_title h2 {
+    color: rgb(153, 204, 204);
+}
