@@ -5,9 +5,9 @@
   <param name="movie" value="./player.swf">
   <param name="quality" value="high">
   <param name="wmode" value="transparent">
-  <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001091/FLASH-FLV/2009_yamamoto_ocw_jap.flv">
+  <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001890/FLASH-FLV/OCW_2013_meidai_no_jugyo_no_goaisatsu_onogi.flv">
 
-  <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001091/FLASH-FLV/2009_yamamoto_ocw_jap.flv"
+  <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001890/FLASH-FLV/OCW_2013_meidai_no_jugyo_no_goaisatsu_onogi.flv"
          quality="high"
          pluginspage="http://www.macromedia.com/go/getflashplayer"
          type="application/x-shockwave-flash" wmode="transparent"
@@ -19,8 +19,6 @@
 <div class="welcome_name">
 	<span class="b">
 		名古屋大学<br>
-		理事 (教育・情報関係担当)<br>
-		副総長<br>
 		オープンコースウェア委員会</span>
 	<p class="welcome_b">委員長 小野木 克明</p>
 </div>
