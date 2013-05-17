@@ -50,3 +50,8 @@ div#tp_default
 {
     background-image: url(../../images/ja/topics5/kokoro_menu_zabuton.png);
 }
+
+#package2
+{
+    top: 0px;
+}
