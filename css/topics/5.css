@@ -67,3 +67,10 @@ h2 {
 .art_title h2 {
     color: rgb(153, 204, 204);
 }
+
+a.tp_link {
+    background-image : url("../../images/ja/topics5/kokoro_linkbutton.png");
+    right : 130px;
+    widht : 180px;
+    height : 180px;
+}
