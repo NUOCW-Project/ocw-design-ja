@@ -52,7 +52,8 @@
 
 <li>
 <div class="art_title">
-    <h2 class="tp_title">心理行動科学実験演習3（検査・測定法）</h2>
+    <h2 class="tp_title">心理行動科学実験演習3
+    <br>（検査・測定法）</h2>
     <span>永田雅子 准教授</span>
     <br><small>教育学部・教育発達科学研究科</small>
 </div>
@@ -60,7 +61,8 @@
 
 <li>
 <div class="art_title">
-    <h2 class="tp_title">健康スポーツ科学講義（精神医学）</h2>
+    <h2 class="tp_title">健康スポーツ科学講義
+    <br>（精神医学）</h2>
     <span>小川豊昭 教授</span>
     <br><small></small>
 </div>
