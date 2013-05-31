@@ -47,7 +47,7 @@ $(document).ready(function(){
             $(".blue_bar").eq(index - 1).css("display","inherit");
 
             $(".art_title").css("background-image","../../images/ja/topics5/kokoro_menu_zabuton.png");
-            $(".art_title").eq(index - 1).css("background-image","../../images/ja/topics5/kokoro_menu_zabuton.png");
+            $(".art_title").eq(index - 1).css("background-image","../../images/ja/topics5/kokoro_menu_zabuton_on.png");
 
 
             $(".tp_title").css("color","");
