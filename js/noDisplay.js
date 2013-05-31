@@ -49,8 +49,8 @@ $(document).ready(function(){
 
             $("div.art_title").removeClass("bg_on");
             $("div.art_title").addClass("bg_off");
-            $("div.art_title").eq(index-1).removeClass("bg_off");
-            $("div.art_title").eq(index-1).addClass("bg_on");
+            $("div.art_title").eq(index - 1).removeClass("bg_off");
+            $("div.art_title").eq(index - 1).addClass("bg_on");
 
             $(".tp_title").css("color","");
             $(".tp_title").eq(index - 1).css("color","#99CCCC");
