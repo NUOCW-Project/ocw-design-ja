@@ -25,7 +25,7 @@
 </li>
 
 <li>
-<div class="art_title">
+<div class="art_title bg_on bg_off">
     <h2 class="tp_title">応用行動学講義
     <br>ー産業・組織の心理学ー</h2>
     <span>金井篤子 教授</span>
