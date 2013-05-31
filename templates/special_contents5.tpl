@@ -59,6 +59,7 @@
 </div>
 </li>
 
+<!--
 <li>
 <div class="art_title">
     <h2 class="tp_title">·ò¹¯¥¹¥Ý¡¼¥Ä²Ê³Ø¹ÖµÁ
@@ -67,6 +68,7 @@
     <br><small></small>
 </div>
 </li>
+-->
 
 </ul><!-- "articles_title" end -->
 
