@@ -46,10 +46,10 @@ $(document).ready(function(){
             $(".blue_bar").css("display","none");
             $(".blue_bar").eq(index - 1).css("display","inherit");
 
-            $(".art_title_bg_on").css("display","none");
-            $(".art_title_bg_off").css("display","inherit");
-            $(".art_title_bg_off").eq(index - 1).css("display","none");
-            $(".art_title_bg_on").eq(index - 1).css("display","inherit");
+            $(".bg_on").css("display","none");
+            $(".bg_off").css("display","inherit");
+            $(".bg_off").eq(index).css("display","none");
+            $(".bg_on").eq(index).css("display","inherit");
 
             $(".tp_title").css("color","");
             $(".tp_title").eq(index - 1).css("color","#99CCCC");
@@ -65,7 +65,8 @@ $(document).ready(function(){
                     $(".intro").css("display","none");
                     $(".intro").eq(index).css("display","inherit");
 
-                    $(".art_title").css("background-image","../../images/ja/topics5/kokoro_menu_zabuton.png");
+                    $(".bg_on").css("display","none");
+                    $(".bg_off").css("display","inherit");
                     $(".blue_bar").css("display","none");
                     $(".tp_title").css("color","");
                     $(".detail").css("display","none");
