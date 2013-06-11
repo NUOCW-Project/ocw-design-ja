@@ -120,8 +120,7 @@
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
   <p><img src="./images/{$lang}/goaisatu.png" alt=""></p>
-  <p id="toppage_yamamoto_name">名古屋大学<br>OCW委員会<br>委員長 小野木克明</p>
-  <p>ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。</p>
+<!--  <p id="toppage_yamamoto_name">名古屋大学<br>OCW委員会<br>委員長 小野木克明</p><p>ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。</p>-->
   <p class="jump"><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">more...</a></p>
 </div>
 </div><!-- "greeting" end -->
