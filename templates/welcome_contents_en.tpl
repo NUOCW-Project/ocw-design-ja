@@ -5,8 +5,8 @@
   <param name="movie" value="./player.swf">
   <param name="quality" value="high">
   <param name="wmode" value="transparent">
-  <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001090/FLASH-FLV/2009_yamamoto_ocw_eng.flv">
-  <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001090/FLASH-FLV/2009_yamamoto_ocw_eng.flv"
+  <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001900/FLASH-FLV/OCW20130625_Onoki.flv">
+  <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001900/FLASH-FLV/OCW20130625_Onoki.flv"
          quality="high"
          pluginspage="http://www.macromedia.com/go/getflashplayer"
          type="application/x-shockwave-flash" wmode="transparent"
