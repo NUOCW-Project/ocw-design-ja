@@ -19,7 +19,7 @@
 <li>
 <div class="art_title">
     <h2 class="tp_title">こころの健康を維持する</h2>
-    <span>本田秀次 教授</span>
+    <span>本城秀次 教授</span>
     <br><small>発達心理精神科学教育研究センター</small>
 </div>
 </li>
