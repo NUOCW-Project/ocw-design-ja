@@ -2,8 +2,7 @@
 {* {if $dept_info.vs_url != ''}
 <div class="inline">
 <div class="welcome_img">
-<iframe src="{$course_info.vsyllabus_rtmp}#details_thumb_box" width="240" hei\
-ght="133" Frameborder="0" scrolling="no"></iframe>
+<iframe src="{$course_info.vsyllabus_rtmp}#details_thumb_box" width="240" height="133" Frameborder="0" scrolling="no"></iframe>
 {/if}
   </div> 
   </div>
