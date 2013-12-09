@@ -9,7 +9,7 @@
 
 <div id="dep_movie">
   {if $dept_info.vs_url != ''}
-  <iframe src="http://video.media.nagoya-u.ac.jp/pcsweb/contents-information.do?contentsCode={$course_info.vsyllabus_rtmp}#details_thumb_box" width="240" hei\
+  <iframe src="{$course_info.vsyllabus_rtmp}#details_thumb_box" width="240" hei\
 ght="133" Frameborder="0" scrolling="no"></iframe>
 {/if}
   </object>
