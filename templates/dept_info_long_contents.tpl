@@ -2,8 +2,8 @@
 {* {if $dept_info.vs_url != ''}
 <div class="inline">
 <div class="welcome_img">
-<iframe src="http://video.media.nagoya-u.ac.jp/pcsweb/contents-information.do?contentsCode={$course_info.vsyllabus_rtmp}#details_thumb_box" width="240" hei\
-ght="133" Frameborder="0" scrolling="no"></iframe>
+<iframe src="http://video.media.nagoya-u.ac.jp/pcsweb/contents-information.do?contentsCode={$course_info.vsyllabus_rtmp}#details_thumb_box"width="240"hri\
+ght="133"Frameborder="0"scrolling="no"></iframe>
 {/if}
   </div> 
   </div>
