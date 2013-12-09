@@ -1,9 +1,9 @@
 <!-- Éô¶É¾Ò²ð¤Î¥Ó¥Ç¥ª¡¡-->
-
- {if $dept_info.vs_url != ''}
+{* {if $dept_info.vs_url != ''}
 <div class="inline">
 <div class="welcome_img">
-<iframe src="{$course_info.vsyllabus_rtmp}#details_thumb_box" width="240" height="133" Frameborder="0" scrolling="no"></iframe>
+<iframe src="http://video.media.nagoya-u.ac.jp/pcsweb/contents-information.do?contentsCode={$course_info.vsyllabus_rtmp}#details_thumb_box" width="240" hei\
+ght="133" Frameborder="0" scrolling="no"></iframe>
 {/if}
   </div> 
   </div>
@@ -18,7 +18,7 @@
   {/if}
 	</div>
 <div>
-
+*}
 <!-- Éô¶É¾Ò²ð¤Î¥Ó¥Ç¥ª½ªÎ» -->
 
 <div class="clear"></div>
