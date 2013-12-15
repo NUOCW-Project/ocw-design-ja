@@ -23,7 +23,7 @@
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
 	<td width="50">
 	{if isset($each_course.vsyllabus_id)}
-		<a href="{$each_course.url_flv}"
+		<a href="{$each_course.url_flv}&amp;videoType=0"
 		onclick="openWin('{$each_course.url_flv}');return false;"
 		onkeypress="openWin('{$each_course.url_flv}');return false;"
 		title="新しいウィンドウでビデオを開きます">
