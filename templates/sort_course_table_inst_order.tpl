@@ -19,9 +19,9 @@
 <tr class="{cycle name = $result.title values='odd,even'}">
   <td width="50">
     {if isset($each_course.vsyllabus_id)}
-      <a href="{$each_course.url_flv}"
-       onclick="openWin('{$each_course.url_flv}');return false;"
-       onkeypress="openWin('{$each_course.url_flv}');return false;"
+      <a href="{$each_course.url_flv}&amp;videoType=0"
+       onclick="openWin('{$each_course.url_flv}&amp;videoType=0');return false;"
+       onkeypress="openWin('{$each_course.url_flv}&amp;videoType=0');return false;"
        title="新しいウィンドウを開きます">
       <img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="video" width="50" height="37">
       </a>
