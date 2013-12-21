@@ -63,7 +63,7 @@
 <div id="movie">
   {if $course_info.vsyllabus_rtmp != ''}
    <!-- 240 240 -->
-    <iframe src="{$course_info.vsyllabus_rtmp}#detalis_thumb_box" width="400" height="300" Frameborder="0" scrolling="no"></iframe>
+    <iframe src="{$course_info.vsyllabus_rtmp}#detalis_thumb_box" width="180" height="150" Frameborder="0" scrolling="no"></iframe>
   {elseif $course_info.imgfile != ''}
     <img src="./files/{$course_id}/{$course_info.imgfile}" alt="">
   {/if}
