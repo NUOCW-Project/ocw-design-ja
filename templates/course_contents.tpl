@@ -62,8 +62,8 @@
 {if $page_format.tpl_name=="index"}
 <div id="movie">
   {if $course_info.vsyllabus_rtmp != ''}
-   
-    <iframe src="{$course_info.vsyllabus_rtmp}#detalis_thumb_box" width="352" height="240" Frameborder="0" scrolling="no"></iframe>
+   <!-- 240 240 -->
+    <iframe src="{$course_info.vsyllabus_rtmp}#detalis_thumb_box" width="400" height="300" Frameborder="0" scrolling="no"></iframe>
   {elseif $course_info.imgfile != ''}
     <img src="./files/{$course_id}/{$course_info.imgfile}" alt="">
   {/if}
