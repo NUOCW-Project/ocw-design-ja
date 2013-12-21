@@ -63,7 +63,7 @@
 <div id="movie">
   {if $course_info.vsyllabus_rtmp != ''}
    <!-- 240 240 -->
-    <iframe src="{$course_info.vsyllabus_rtmp}#detalis_thumb_box" width="400" height="270" style="zoom:50%\9 transform: scale(0.5);transform-origin: top left; -webkit-transform: scale(0.5); -webkit-transform-origin: top left;" Frameborder="0" scrolling="no"></iframe>
+    <iframe src="{$course_info.vsyllabus_rtmp}#detalis_thumb_box" width="330" height="270" style="zoom:50%\9 transform: scale(0.5);transform-origin: top left; -webkit-transform: scale(0.5); -webkit-transform-origin: top left;" Frameborder="0" scrolling="no"></iframe>
   {elseif $course_info.imgfile != ''}
     <img src="./files/{$course_id}/{$course_info.imgfile}" alt="">
   {/if}
