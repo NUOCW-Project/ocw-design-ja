@@ -9,6 +9,7 @@
 </div> <!-- "dep_txt" end -->
 
 <div id="dep_movie">
+<!--   
   {if $dept_info.vs_url != ''}
   <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="303" height="259">
     <param name="movie" value="player.swf">
@@ -18,6 +19,8 @@
 
     <embed src="./player.swf" FlashVars="FLV_URL={$dept_info.vs_url}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
 {/if}
+-->
+<a href="{$course_info.vsyllabus_rtmp}" target="_blank">紹介動画を再生する</a>
   </object>
 </div><!-- "dep_movie" end -->
 </div>
