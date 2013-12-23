@@ -20,7 +20,7 @@
     <embed src="./player.swf" FlashVars="FLV_URL={$dept_info.vs_url}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
 {/if}
 -->
-<a href="{$course_info.vsyllabus_rtmp}" target="_blank">紹介動画を再生する</a>
+<a href="{$dept_info.vs_url}" target="_blank">紹介動画を再生する</a>
   </object>
 </div><!-- "dep_movie" end -->
 </div>
