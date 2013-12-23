@@ -20,7 +20,7 @@
     <embed src="./player.swf" FlashVars="FLV_URL={$dept_info.vs_url}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
 {/if}
 -->
-<a href="{$dept_info.vs_url}" target="_blank">部局長からのメッセージを再生</a>
+<a href="{$dept_info.vs_url}" target="_blank">部局長からのメッセージ</a>
   </object>
 </div><!-- "dep_movie" end -->
 </div>
