@@ -43,6 +43,8 @@
 		margin-bottom: 2em;
 		float: right;
 		width: 300px;
+		text-align: center;
+		font-size: 15px;
 	}
 
 #line1{		/* 赤い水平線上 */
