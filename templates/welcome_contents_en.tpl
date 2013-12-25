@@ -1,5 +1,6 @@
 <div class="welcome_img">
-  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000"
+<a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=1350&categoryCode=110" target="blank"><img src="http://ocw.nagoya-u.jp/images/ja/goaisatu.png"></a>
+<!--  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000"
         codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"
         width="300" height="280">
   <param name="movie" value="./player.swf">
@@ -11,7 +12,7 @@
          pluginspage="http://www.macromedia.com/go/getflashplayer"
          type="application/x-shockwave-flash" wmode="transparent"
          width="300" height="280"></embed>
-</object>
+</object>-->
   </div>
 
 
