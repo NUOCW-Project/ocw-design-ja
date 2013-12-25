@@ -1,6 +1,6 @@
 <div class="welcome_img">
 <a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=1359&categoryCode=110" target="blank"><img src="http://ocw.nagoya-u.jp/images/ja/goaisatu.png"></a>
-<p>画像クリックでメッセージが再生されます。</p>
+
 <!--  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000"
         codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"
         width="300" height="280">
@@ -23,7 +23,9 @@
 	<span class="b">
 		名古屋大学<br>
 		オープンコースウェア委員会</span>
-	<p class="welcome_b">委員長 小野木 克明</p>
+	<p class="welcome_b">委員長 小野木 克明<br>
+<p>画像クリックでメッセージが再生されます。</p>
+</p>
 </div>
 
 <!--
