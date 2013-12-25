@@ -1,6 +1,6 @@
   <img src="./images/common/t_topics.png" alt="Topics">
 <a href="./index.php?mode=g&lang=en&page_type=topics">
-<img src="./images/{$lang}/backno_en.png" class="jump" alt="Back No."></a>
+<!-- <img src="./images/{$lang}/backno_en.png" class="jump" alt="Back No."></a> -->
   <img src="./images/common/redline.gif" class="line" alt="">
     
 <!-- nakatsugawa  -->
