@@ -25,7 +25,7 @@ But in Japan, the picture is totally different. People here are not at all inter
 <p>
 <n\>After reaching Kashimo of Nakatsugawa City, we visited the forest of Kashimo and learned how to cut the forest tree. It was interesting indeed.
 </p>
-<p><!--  Video--><a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=1429&categoryCode=110" target="blank">Play video.</a>
+<p><a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=1429&categoryCode=110" target="blank">Play video.</a>
 </p>
 <p>
 <n\>After that we went to a lumbering place. The instructor explained the students very kindly. </p>
