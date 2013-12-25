@@ -18,10 +18,12 @@
   <dt>TOPICS No.2 ボードゲームを究める</dt>
   <dd><img id="arita_bn_img" src="./images/ja/topics_backnumber/arita.png" alt="ボードゲームを究める"></dd>
 </a>
+<!--
 <a href="./index.php?lang=en&mode=g&page_type=topics">
   <dt>Student Testimonials 留学生の声</dt>
   <dd><img src="images/ja/topics_backnumber/StudentTestimonials.png" alt="Student Testimonials 留学生の声"></dd>
 </a>
+-->
 <a href="#bn_anchor" onclick="noDisplay('hs');Display('msgs_whole')">
   <dt>TOPICS No.1 message</dt>
   <dd><img src="images/ja/topics_backnumber/message.png" alt="message"></dd>
