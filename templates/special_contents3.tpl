@@ -132,7 +132,7 @@ noDisplay('detail11');noDisplay('detail12')">
 <img class="person" alt="久保宏樹" src="./images/ja/topics4/person/kubo.png">
 <p class="tp_resources">●参考資料
 <br>
-<a href="http://ms013.media.nagoya-u.ac.jp/vdb_contents/video/streams/_definst_/S0001782/FLASH-FLV/index.html" type="video/x-flv"  TARGET="_blank" >
+<a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=1434&categoryCode=110" type="video/x-flv"  TARGET="_blank" >
 経済物理学-物理学からみる経済学-(flv形式)
 </a>
 </li>
