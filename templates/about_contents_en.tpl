@@ -47,7 +47,7 @@
 
 <!-- スタッフ紹介開始 -->
 	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Committee</h2></td></tr>
-	<tr><td colspan=2 align="right">(As of April 1, 2013)</td></tr>
+	<tr><td colspan=2 align="right">(As of March 3, 2013)</td></tr>
 	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray">
   <p>	
 Chairperson: Katsuaki Onogi	<br>
@@ -87,7 +87,7 @@ Associate Professor,	<br>
 Graduate School of Law	</p>
 	<p>
 Toshiko Ishizaki	<br>
-Associate Professor,	<br>
+Professor,	<br>
 Education Center for International Students	</p>
 	<p>
 Sadami Nakahama	<br>
@@ -98,11 +98,7 @@ Masatoshi Ushida	<br>
 The educational affairs planning section Assistant Director,	<br>
 Institute of Liberal Arts and Sciences	</p>
 	<p>
-Seiichiro Mori	<br>
-The educational affairs planning section professional staff,	<br>
-Institute of Liberal Arts and Sciences	</p>
-	<p>
-Ayako Goto	<br>
+Yuka Kojima	<br>
 Administrative Assistant,	<br>
 OCW Administrative Office	</p>
 </td></tr>
@@ -110,12 +106,13 @@ OCW Administrative Office	</p>
 	<tr><td class="center">Support Staff</td>
 		<td class="left">
 <p>
-Aki Hara (Media Supporter, Studio)<br>
+Aki Hara (Media Staff, Studio)<br>
 Tetsuya Ono<br>
 Michelle Kuhn Myers<br>
 Yoshifumi Inoue<br>
 Kazuki Uemura<br>
 Hiromasa Yamauchi<br>
+You Xia<br>
 Takahiro Kojima<br>
 Yuuya Nobe<br>
 Katsuyasu Kamimura<br>
@@ -127,10 +124,9 @@ Daiki Ishikawa<br>
 Hiroki Kamada<br>
 Fumihiro Ootake<br>
 Keita Chiga<br>
-Yui Hayashi<br>
 Miyuu Imamura<br>
-Yuto Takahashi	<br>
-Lucy Hannah Glasspool
+Misa Asano<br>
+Tomohisa Tamai
 </p></td></tr>
 	<tr><td class="center_gray">photography</td>
         <td class="left_gray"><p>
