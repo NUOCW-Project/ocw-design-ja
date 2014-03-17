@@ -109,7 +109,7 @@ ol.upper-alpha{
 }
 
 /*講義ビデオが見られない注意書き用応急処置*/
-#movie_caution{	/*divタグにこのクラスを適用してください*/
+.movie_caution{	/*divタグにこのクラスを適用してください*/
 	margin-top: 0.5 em;	/*行間を詰める*/
 }
 
