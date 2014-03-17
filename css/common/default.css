@@ -111,6 +111,7 @@ ol.upper-alpha{
 /*講義ビデオが見られない注意書き用応急処置*/
 div.movie_caution{	/*divタグにこのクラスを適用してください*/
 	margin: 0;	/*行間を詰める*/
+	padding: 0;
 }
 
 /*
