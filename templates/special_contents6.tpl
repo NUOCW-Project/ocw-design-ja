@@ -50,6 +50,7 @@
 <ul id="articles_intro">
 
 <li class="intro">
+    <p class="tp_link"><img src="./images/ja/topics6/window_close.png"></p>
     <h2>始めに</h2>
     <p>このページの使い方</p>
     <p class="lead">
@@ -59,8 +60,7 @@
     <li>詳しく知りたかったら上の画像をクリック！<br>
     授業の詳しい説明が読めます。</li>
     </ol>
-    </p>
-    <p class="tp_link"><img src="./images/ja/topics6/window_close.png"></p>
+    </p>    
 </li>
 
 <li class="intro">
