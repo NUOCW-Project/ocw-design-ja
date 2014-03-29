@@ -28,12 +28,6 @@ div#tp_default
     color: #020202;
 }
 
-#articles_title li img
-{
-    width:	auto;
-    height: 	auto;
-}
-
 #articles_detail
 {
     background-image: url("../../images/ja/topics3/background2.png");
@@ -47,17 +41,17 @@ div#tp_default
 
 #articles_intro
 {
-    padding: 25px 0px 30px 25px;
+    padding: 250px 20px 20px 25px;
     height: 520px;
     background-size: cover;
     margin: 15px 0px 0px 0px;
-    opacity: 0.9;
 }
 
 .art_title
 {
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    padding: 40px 45px;
     margin: 0px -5px;
 }
 
@@ -85,7 +79,7 @@ a.tp_link {
     right : 130px;
     width : 430px;
     height : 220px;
-    margin: 210px -10px 0px 0px;
+    margin: -30px -70px 0px 0px;
 }
 
 #contents {
