@@ -28,6 +28,12 @@ div#tp_default
     color: #020202;
 }
 
+#articles_title li img
+{
+    width:	auto;
+    height: 	auto;
+}
+
 #articles_detail
 {
     background-image: url("../../images/ja/topics3/background2.png");
