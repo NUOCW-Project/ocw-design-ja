@@ -70,8 +70,10 @@ div#tp_default
 }
 
 h2 {
-    color: #FFFFFF;
+    color: #ff527b;
     margin: 0px;
+    font-size: 20pt;
+    text-align: center;
 }
 
 .art_title h2 {
