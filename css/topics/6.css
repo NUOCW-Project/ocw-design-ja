@@ -71,6 +71,7 @@ div#tp_default
 
 #window_close{
     margin-top: -29px;
+    margin-left: -30px;
 }
 
 h2 {
@@ -88,7 +89,6 @@ h2 {
     font-size: 17pt;
     text-align: center;
     font-weight: bold;
-    margin-top: 10px;
 }
 
 
