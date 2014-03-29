@@ -72,10 +72,11 @@ div#tp_default
 h2 {
     color: #ff527b;
     margin: 0px;
-    font-size: 18pt;
+    font-size: 17pt;
     text-align: center;
     font-weight: bold;
 }
+
 
 .art_title h2 {
     color: rgb(153, 204, 204);
@@ -87,6 +88,10 @@ a.tp_link {
     right : 130px;
     width : 430px;
     height : 220px;
+    margin: -30px -70px 0px 0px;
+}
+
+p.tp_link{
     margin: -30px -70px 0px 0px;
 }
 
