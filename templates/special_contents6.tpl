@@ -49,7 +49,7 @@
 <ul id="articles_intro">
 
 <li class="intro">
-    <p class="tp_link"><img src="./images/ja/topics6/window_close.png"></p>
+    <p class="tp_link"><img id="window_close"  src="./images/ja/topics6/window_close.png"></p>
     <h2 id="start">始めに</h2>
     <p>このページの使い方</p>
     <p class="lead">
