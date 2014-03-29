@@ -11,7 +11,6 @@
 <img src="./images/ja/topics6/headder.png" alt="広がる世界">
 </div>
 
-<img id="cloud01" src="./images/ja/topics6/cloud01.png">
 
 <ul id="articles_title">
 <li>
@@ -50,9 +49,7 @@
 <ul id="articles_intro">
 
 <li class="intro">
-    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics2014">
-　　<p class="tp_link"><img src="./images/ja/topics6/window_close.png"></p>
-    </a>
+    <p class="tp_link"><img src="./images/ja/topics6/window_close.png"></p>
     <h2>始めに</h2>
     <p>このページの使い方</p>
     <p class="lead">
