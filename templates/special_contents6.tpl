@@ -50,14 +50,16 @@
 <ul id="articles_intro">
 
 <li class="intro">
-    <p class="tp_link"><img src="./images/ja/topics6/window_close.png"></p>
+    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=topics2014">
+　　<p class="tp_link"><img src="./images/ja/topics6/window_close.png"></p>
+    </a>
     <h2>始めに</h2>
     <p>このページの使い方</p>
     <p class="lead">
     <ol>
     <li>左欄の興味がある授業へポインタを移動させると、<br>
     授業の説明が出てきます。</li>
-    <li>詳しく知りたかったら上の画像をクリック！<br>
+    <li>詳しく知りたかったら上の窓をクリック！<br>
     授業の詳しい説明が読めます。</li>
     </ol>
     </p>    
