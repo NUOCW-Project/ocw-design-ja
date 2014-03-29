@@ -63,7 +63,7 @@
 
 <li class="intro">
   <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=201&page_type=index">
-      <p>本城先生の<br>ページへ</p>
+      <p><img src="./2010/images/ja/topics6/nishikawa_kanban.GIF"></p>
    </a>
     <h2>途上国の現実を見る</h2>
     <p class="lead">
@@ -77,7 +77,7 @@
 
 <li class="intro">
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?id=64&lang=ja&mode=c&page_type=index">
-      <p>金井先生の<br>ページへ</p>
+      <p><img src="./2010/images/ja/topics6/okuda_kanban.jpg"</p>
      </a>
     <h2>フランス語を楽しく学ぶ</h2>
         <p class="lead">
