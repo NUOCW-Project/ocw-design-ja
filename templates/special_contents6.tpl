@@ -60,7 +60,7 @@
     授業の詳しい説明が読めます。</li>
     </ol>
     </p>
-    <a class="tp_link"><p>ここをクリック！</p></a>
+    <p class="tp_link"><img src="./images/ja/topics6/window_close.png"></p>
 </li>
 
 <li class="intro">
