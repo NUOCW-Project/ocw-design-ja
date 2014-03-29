@@ -2,7 +2,7 @@ div#tp_default
 {
     background-image: url("../../images/ja/topics6/back");
     background-repeat: repeat;
-    height: 1220px;
+    height: 1250px;
 }
 
 #articles_title
@@ -92,10 +92,7 @@ p.lead {
 }
 
 .bg_off {
-    background-image: url(../../images/ja/topics5/kokoro_menu_zabuton.png);
-    opacity: 0.75;
 }
 
 .bg_on {
-    background-image: url(../../images/ja/topics5/kokoro_menu_zabuton_on.png);
 }
