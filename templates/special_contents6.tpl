@@ -11,6 +11,8 @@
 <img src="./images/ja/topics6/headder.png" alt="広がる世界">
 </div>
 
+<img id="cloud01" src=".images/ja/topics6/cloud01.png">
+
 <ul id="articles_title">
 <li>
 <div class="art_title">
@@ -54,7 +56,7 @@
     <ol>
     <li>左欄の興味がある授業へポインタを移動させると、<br>
     授業の説明が出てきます。</li>
-    <li>詳しく知りたかったら下の丸をクリック！<br>
+    <li>詳しく知りたかったら上の画像をクリック！<br>
     授業の詳しい説明が読めます。</li>
     </ol>
     </p>
@@ -89,7 +91,6 @@
 </li>
 
 <li class="intro">
-
  <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=173&page_type=index">
       <p><img src="./images/ja/topics6/fuziki_kanban.png"></p>
      </a>
@@ -119,6 +120,7 @@
     </p>
     </li>
 
+<img id="cloud02" src=".images/ja/topics6/cloud02.png">
 
 </ul><!-- articles_intro">
 </div><!-- "tp_default" end -->
