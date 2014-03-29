@@ -39,11 +39,6 @@ div#tp_default
     background-image: url("../../images/ja/topics3/background2.png");
 }
 
-.art_title
-{
-    padding: 0px 0px;
-}
-
 #intro_message
 {    
     text-align: center;
@@ -63,7 +58,6 @@ div#tp_default
 {
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    padding: 40px 45px;
     margin: 0px -5px;
 }
 
