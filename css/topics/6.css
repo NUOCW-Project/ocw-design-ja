@@ -78,6 +78,15 @@ h2 {
     margin-top: 200px;
 }
 
+#start h2 {
+    color: #ff527b;
+    margin: 0px;
+    font-size: 17pt;
+    text-align: center;
+    font-weight: bold;
+}
+
+
 
 .art_title h2 {
     color: rgb(153, 204, 204);
