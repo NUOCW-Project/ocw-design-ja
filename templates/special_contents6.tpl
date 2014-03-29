@@ -1,74 +1,47 @@
-<img alt="名大の授業 TOPICS No.5" src="./images/ja/topics5/topics_no5.png" id="tp_door">
+<img alt="名大の授業 TOPICS No.5" src="./images/ja/topics6/topics.png" id="tp_door">
 
 <a class="art_title">
 <center>
-<img src="./images/ja/topics5/kokoro_title.png" alt="こころ">
+
 </center>
 </a>
 
 <div id="tp_default">
 <div id="intro_message">
-<p>
-およそ人間である以上、無関係ではいられないこころの問題。<br>
-この人間が研究対象としてきた中で最も複雑・不可解な存在に、 科学はどのようなアプローチをもって迫ってきたのでしょうか。<br>
-その成果は私たちの人生に何をもたらしてくれるのでしょうか。
-<p>
+<img src="./images/ja/topics6/headder.png" alt="広がる世界">
 </div>
 
 <ul id="articles_title">
 <li>
 <div class="art_title">
-    <h2 class="tp_title">こころの健康を維持する</h2>
-    <span>本城秀次 教授</span>
-    <br><small>発達心理精神科学教育研究センター</small>
+   <img src="title01.png">
 </div>
 </li>
 
 <li>
 <div class="art_title">
-    <h2 class="tp_title">応用行動学講義
-    <br>ー産業・組織の心理学ー</h2>
-    <span>金井篤子 教授</span>
-    <br><small>教育学部・教育発達科学研究科</small>
+    <img src="title02.png">
 </div>
 </li>
 
 <li>
 <div class="art_title">
-    <h2 class="tp_title">人間発達の心理学
-　　<br>（発達教育臨床基礎論）</h2>
-    <span>氏家達夫 教授</span>
-    <br><small>教育学部・教育発達科学研究科</small>
+    <img src="title03.png">
 </div>
 </li>
 
 <li>
 <div class="art_title">
-    <h2 class="tp_title">心理・教育の統計学</h2>
-    <span>石井秀宗 准教授</span>    
-    <br><small>教育学部・教育発達科学研究科</small>
+   <img src="title04.png">
 </div>
 </li>
 
 <li>
 <div class="art_title">
-    <h2 class="tp_title">心理行動科学実験演習3
-    <br>（検査・測定法）</h2>
-    <span>永田雅子 准教授</span>
-    <br><small>教育学部・教育発達科学研究科</small>
+   <img src="title05.png">
 </div>
 </li>
 
-<!--
-<li>
-<div class="art_title">
-    <h2 class="tp_title">健康スポーツ科学講義
-    <br>（精神医学）</h2>
-    <span>小川豊昭 教授</span>
-    <br><small></small>
-</div>
-</li>
--->
 
 </ul><!-- "articles_title" end -->
 
