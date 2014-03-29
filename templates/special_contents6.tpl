@@ -14,31 +14,31 @@
 <ul id="articles_title">
 <li>
 <div class="art_title">
-   <img src="title01.png">
+   <img src="./images/ja/topics6/title01.png">
 </div>
 </li>
 
 <li>
 <div class="art_title">
-    <img src="title02.png">
+    <img src="./images/ja/topics6/title02.png">
 </div>
 </li>
 
 <li>
 <div class="art_title">
-    <img src="title03.png">
+    <img src="./images/ja/topics6/title03.png">
 </div>
 </li>
 
 <li>
 <div class="art_title">
-   <img src="title04.png">
+   <img src="./images/ja/topics6/title04.png">
 </div>
 </li>
 
 <li>
 <div class="art_title">
-   <img src="title05.png">
+   <img src="./images/ja/topics6/title05.png">
 </div>
 </li>
 
@@ -62,48 +62,30 @@
 </li>
 
 <li class="intro">
-    <h2>こころを科学的に見る</h2>
-    <p>
-     開講部局：研究協力部社会連携課
-    </p>
-    <p class="lead">
-経済不況の中うつ病が増加しているといいます。<br>
-その年齢層も十代から四、五十代の方まで及ぶそうです。<br>
-しかし、うつ病がどんな症状でどんな治療法があり、<br>
-どういう方がなりやすいのかなどあまり知らない方も<br>
-多いのではないでしょうか？<br>
-この講座ではそういった方向けにうつ病について<br>
-紹介しています。<br>
-自分の心の健康を維持するためだけでなく、<br>
-ほかの方の理解もできるよう、<br>
-正しくうつ病を知ってみませんか？
-    </p>
   <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=201&page_type=index">
       <p>本城先生の<br>ページへ</p>
    </a>
+    <h2>途上国の現実を見る</h2>
+    <p class="lead">
+私たちが日本で生活をしていて、食料やライフラインなどに困ることはないでしょう。 しかし、他の国には、貧困や飢餓にあえぐ人々の姿や、 
+ただ水を飲むためだけに何時間も歩く光景があります。 
+この講義では、途上国が抱える問題について考えていきます。 
+学生たちは、ビジュアル教材を通して、 問題の背景を理解することができます。 日本とは違う世界を、少し考えてみませんか。
+    </p>
+
 </li>
 
 <li class="intro">
-    <h2>応用し、活用する心理学</h2>
-    <p>
-     開講部局：教育学部・教育発達科学研究科
-    </p>
-    <p class="lead">
-「大学の講義って将来本当に役に立つのかな？」<br>
-そんな疑問は、この講義では必要ありません！<br>
-マクレガーのＸＹ理論、<br>
-ホランダーの特異性クレ ジット理論、<br>
-セリエのストレス学説…。<br>
-心理学的知見から産業・組織を検討し、<br>
-理解を深めることで，<br>
-将来私たちが何らかの職に就いた時、<br>
-"仕事への動機づけ"や"ストレス"などといった<br>
-組織の中で起こる様々な課題に対して、<br>
-私たちはどのように行動していけば良いかを学びます。
-    </p>
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?id=64&lang=ja&mode=c&page_type=index">
       <p>金井先生の<br>ページへ</p>
      </a>
+    <h2>フランス語を楽しく学ぶ</h2>
+        <p class="lead">
+日本語だけでなく、外国語も理解できれば、より広く世界を知ることができます。 
+しかし、外国語の勉強は難しいし退屈だと思っている方も多くいるのではないでしょうか？ 
+この授業では教科書の講読だけでなく、劇を演じたり、歌を歌ったりしながら 自然とフランス語が身につくだけでなく、フランスの文化についても学ぶことができます。 固定観念は捨て、一度フランス語の世界を見てみませんか？  
+  </p>
+
 </li>
 
 <li class="intro">
