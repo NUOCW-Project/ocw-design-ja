@@ -77,7 +77,7 @@
 
 <li class="intro">
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?id=64&lang=ja&mode=c&page_type=index">
-      <p><img src="./2010/images/ja/topics6/okuda_kanban.jpg"</p>
+      <p><img src="./2010/images/ja/topics6/okuda_kanban.jpg"></p>
      </a>
     <h2>フランス語を楽しく学ぶ</h2>
         <p class="lead">
