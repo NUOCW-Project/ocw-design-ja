@@ -91,7 +91,7 @@
 <li class="intro">
 
  <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=173&page_type=index">
-      <p><img src="./images/ja/topics6/fujiki_kanban.png"></p>
+      <p><img src="./images/ja/topics6/fuziki_kanban.png"></p>
      </a>
     <h2>╠гаЭ╓Рфи╓Ю</h2>
     <p class="lead">
