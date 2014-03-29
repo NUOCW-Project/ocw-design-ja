@@ -87,6 +87,12 @@ a.tp_link {
     margin: -30px -70px 0px 0px;
 }
 
+a.tp_link img{
+    width: 260px;
+    height: 190px;
+    margin: -57px;
+}
+
 #contents {
     font-family: "ＭＳ 明朝",sans-serif;
 }
