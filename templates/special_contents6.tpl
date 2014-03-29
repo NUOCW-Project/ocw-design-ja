@@ -50,7 +50,7 @@
 
 <li class="intro">
     <p class="tp_link"><img src="./images/ja/topics6/window_close.png"></p>
-    <h2>始めに</h2>
+    <h2 id="start">始めに</h2>
     <p>このページの使い方</p>
     <p class="lead">
     <ol>
