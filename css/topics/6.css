@@ -91,6 +91,10 @@ a.tp_link {
     margin: -30px -70px 0px 0px;
 }
 
+p.tp_link{
+    margin: -30px -70px 0px 0px;
+}
+
 a.tp_link img{
     width: 260px;
     height: 190px;
