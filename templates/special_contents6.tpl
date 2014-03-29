@@ -1,4 +1,4 @@
-<img alt="名大の授業 TOPICS No.5" src="./images/ja/topics6/topics.png" id="tp_door">
+<img alt="名大の授業 TOPICS No.6" src="./images/ja/topics6/topics.png" id="tp_door">
 
 <a class="art_title">
 <center>
@@ -11,7 +11,7 @@
 <img src="./images/ja/topics6/headder.png" alt="広がる世界">
 </div>
 
-<img id="cloud01" src=".images/ja/topics6/cloud01.png">
+<img id="cloud01" src="./images/ja/topics6/cloud01.png">
 
 <ul id="articles_title">
 <li>
@@ -120,7 +120,7 @@
     </p>
     </li>
 
-<img id="cloud02" src=".images/ja/topics6/cloud02.png">
+<img id="cloud02" src="./images/ja/topics6/cloud02.png">
 
 </ul><!-- articles_intro">
 </div><!-- "tp_default" end -->
