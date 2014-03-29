@@ -91,7 +91,7 @@
 <li class="intro">
 
  <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=173&page_type=index">
-      <p>氏家先生の<br>ページへ</p>
+      <p><img src="./images/ja/topics6/fujiki_kanban.png"></p>
      </a>
     <h2>映像を読む</h2>
     <p class="lead">
@@ -101,7 +101,7 @@
 
 <li class="intro">
     <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=193&page_type=index">
-      <p>石井先生の<br>ページへ</p>
+      <p><img src="./images/ja/topics6/machida_kanban.png"></p>
      </a>
     <h2>「比較」で見つかる新たな発見</h2>
     <p class="lead">
@@ -111,7 +111,7 @@
 
 <li class="intro">
  <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=250&page_type=index">
-      <p>永田先生の<br>ページへ</p>
+      <p><img src="./images/ja/topics6/kaigai_kanban.jpg"></p>
      </a>   
  <h2>農業を「見」「聞き」し考える</h2>
         <p class="lead">
