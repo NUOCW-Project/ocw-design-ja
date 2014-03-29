@@ -5,8 +5,8 @@
 
 <!-- こころ -->
 <div>
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2013">
-<img src="./images/ja/topics5/header.png" alt="名大の授業 TOIPCS　No.5 こころ" width="694" height="399" >
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2014">
+<img src="./images/ja/topics6/header.png" alt="名大の授業 TOIPCS　No.6 広がる世界" width="694" height="399" >
           </a>
   </div>
 <!-- こころ end -->
