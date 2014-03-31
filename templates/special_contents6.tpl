@@ -8,52 +8,45 @@
 
 
 <ul id="articles_title">
-<li>
 
-  <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=288&page_type=index">
+<li>
 <div class="art_title"> 
+  <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=288&page_type=index">
 <img src="./images/ja/topics6/title01.png" alt="国際開発学">
-</div>
  </a>
-
+</div>
 </li>
 
 <li>
-
-    <a href="http://ocw.nagoya-u.jp/index.php?id=138&lang=ja&mode=c&page_type=index">
 <div class="art_title">  
+    <a href="http://ocw.nagoya-u.jp/index.php?id=138&lang=ja&mode=c&page_type=index">
   <img src="./images/ja/topics6/title02.png" alt="中級フランス語2">
-</div>
     </a>
-
+</div>
 </li>
 
 <li>
-
+<div class="art_title">
     <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=372&page_type=index">
-<div class="art_title">
     <img src="./images/ja/topics6/title03.png" alt="映像研究の方法">
-</div>
     </a>
-
+</div>
 </li>
 
 <li>
+<div class="art_title">
    <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=195&page_type=index">
-<div class="art_title">
    <img src="./images/ja/topics6/title04.png" alt="世界の中の日本語">
-</div>
    </a>
-
+</div>
 </li>
 
 <li>
-   <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=154&page_type=index">
 <div class="art_title">
+   <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=154&page_type=index">
     <img src="./images/ja/topics6/title05.png" alt="海外実地研修">
-</div>
    </a>
-
+</div>
 </li>
 
 
