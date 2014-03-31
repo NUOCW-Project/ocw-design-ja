@@ -15,31 +15,41 @@
 <ul id="articles_title">
 <li>
 <div class="art_title">
-   <img src="./images/ja/topics6/title01.png">
+  <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=288&page_type=index">
+ <img src="./images/ja/topics6/title01.png" alt="国際開発学">
+ </a>
 </div>
 </li>
 
 <li>
 <div class="art_title">
-    <img src="./images/ja/topics6/title02.png">
+    <a href="http://ocw.nagoya-u.jp/index.php?id=138&lang=ja&mode=c&page_type=index">
+    <img src="./images/ja/topics6/title02.png" alt="中級フランス語2">
+    </a>
 </div>
 </li>
 
 <li>
 <div class="art_title">
-    <img src="./images/ja/topics6/title03.png">
+    <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=372&page_type=index">
+    <img src="./images/ja/topics6/title03.png" alt="映像研究の方法">
+    </a>
 </div>
 </li>
 
 <li>
 <div class="art_title">
-   <img src="./images/ja/topics6/title04.png">
+   <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=195&page_type=index">
+   <img src="./images/ja/topics6/title04.png" alt="世界の中の日本語">
+   </a>
 </div>
 </li>
 
 <li>
 <div class="art_title">
-   <img src="./images/ja/topics6/title05.png">
+   <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=154&page_type=index">
+    <img src="./images/ja/topics6/title05.png" alt="海外実地研修">
+   </a>
 </div>
 </li>
 
@@ -64,9 +74,9 @@
 
 <li class="intro">
   <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=288&page_type=index">
-      <p><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=288&page_type=index">
+      <p>
          <img src="./images/ja/topics6/nisikawa_kanban.GIF">
-      </a></p>
+      </p>
    </a>
     <h2>途上国の現実を見る</h2>
     <p class="lead">
