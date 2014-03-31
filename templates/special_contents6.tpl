@@ -1,10 +1,5 @@
 <img alt="名大の授業 TOPICS No.6" src="./images/ja/topics6/topics.png" id="tp_door">
 
-<a class="art_title">
-<center>
-
-</center>
-</a>
 
 <div id="tp_default">
 <div id="intro_message">
