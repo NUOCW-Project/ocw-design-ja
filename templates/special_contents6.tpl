@@ -64,7 +64,9 @@
 
 <li class="intro">
   <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=288&page_type=index">
-      <p><img src="./images/ja/topics6/nisikawa_kanban.GIF"></p>
+      <p><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=288&page_type=index">
+         <img src="./images/ja/topics6/nisikawa_kanban.GIF">
+      </a></p>
    </a>
     <h2>途上国の現実を見る</h2>
     <p class="lead">
