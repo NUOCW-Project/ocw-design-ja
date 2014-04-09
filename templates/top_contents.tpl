@@ -2,9 +2,8 @@
 <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics2010"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}"></a>
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
-
-<!-- 広がる世界 -->
 <h3>現在、動画コンテンツはInternet Explorer11 とGoogle Chromeには対応しておりません。別のブラウザでお試しください。</h3>
+<!-- 広がる世界 -->
 <div>
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2014">
 <img src="./images/ja/topics6/header.png" alt="名大の授業 TOIPCS　No.6 広がる世界" width="694" height="399" >
