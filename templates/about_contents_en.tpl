@@ -46,7 +46,7 @@
 <tr height=40><td colspan=2></td></tr>
 
 <!-- スタッフ紹介開始 -->
-	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Committee</h2></td></tr>
+	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Steering Committee</h2></td></tr>
 	<tr><td colspan=2 align="right">(As of April 4, 2014)</td></tr>
 	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray">
   <p>	
@@ -90,6 +90,10 @@ Toshiko Ishizaki	<br>
 Professor,	<br>
 Education Center for International Students	</p>
 	<p>
+Daisuke Deguchi	<br>
+Associate Professor<br>
+Strategy Office, Information and Communications Headquarters </p>
+	<p>
 Lai Wailing		<br>
 Associate Professor,	<br>
 Institute of Liberal Arts and Sciences	</p>
@@ -98,7 +102,7 @@ Sadami Nakahama	<br>
 Liberal Education Deputy Director,	<br>
 Institute of Liberal Arts and Sciences	</p>
 	<p>
-Masatoshi Ushida	<br>
+Shina Kawazu	<br>
 The educational affairs planning section Assistant Director,	<br>
 Institute of Liberal Arts and Sciences	</p>
 	<p>

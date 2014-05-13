@@ -50,7 +50,7 @@
 <tr height=40><td colspan=2></td></tr>
 
 <!-- スタッフ紹介開始 -->
-<tr><td colspan=2><h2>名古屋大学オープンコースウェア委員会</h2></td></tr>
+<tr><td colspan=2><h2>名古屋大学オープンコースウェア運営協議会</h2></td></tr>
 <tr><td colspan=2 align="right">2014年4月1日現在</td></tr>
 <tr><td class="center_gray">名古屋大学OCW委員会</td>
 		<td class="left_gray"><p>
@@ -66,16 +66,17 @@
 情報基盤センター 准教授 後藤明史<br>
 法学研究科 教授 大屋雄裕<br>
 国際言語センター 准教授 石崎俊子<br>
+情報戦略室  准教授 出口大輔<br>
 教養教育院教養教育推進室 特任准教授 頼偉寧<br>
 教養教育院教養教育事務主幹 中濱定美<br>
-教養教育院学務企画課課長補佐 牛田正敏<br>
+教養教育院学務企画課課長補佐 河津志奈<br>
 OCW事務室 事務補佐員 小島友香<br>
 </p></td></tr><tr>
 
-<td id="ocw-support" class="center">名古屋大学OCWサポートスタッフ</td>
+<td id="ocw-support" class="center">名古屋大学OCWスタッフ</td>
 		<td class="left"><p>
 スタジオ メディアスタッフ 原愛樹<br>
-文学部M1 小野哲弥<br>
+国際開発研究科M1 小野哲弥<br>
 文学研究科D3 マイヤズ・ミッシェル・キューン<br>
 法学部B3 井上喜文<br>
 法学部B4 植村一貴<br>
