@@ -47,7 +47,7 @@
 
 <!-- スタッフ紹介開始 -->
 	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Committee</h2></td></tr>
-	<tr><td colspan=2 align="right">(As of March 3, 2013)</td></tr>
+	<tr><td colspan=2 align="right">(As of April 4, 2014)</td></tr>
 	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray">
   <p>	
 Chairperson: Katsuaki Onogi	<br>
@@ -115,17 +115,19 @@ Tetsuya Ono<br>
 Michelle Kuhn Myers<br>
 Yoshifumi Inoue<br>
 Kazuki Uemura<br>
+Yuma Sato<br>
 Hiromasa Yamauchi<br>
+Daisuke Takaichi<br>
 You Xia<br>
 Takahiro Kojima<br>
 Yuuya Nobe<br>
 Katsuyasu Kamimura<br>
-Keisuke Serizawa<br>
 Masashi Yamazaki<br>
 Mikito Yamamoto<br>
 Yuto Toida<br>
 Daiki Ishikawa<br>
 Hiroki Kamada<br>
+Yutaro Nagae<br>
 Fumihiro Ootake<br>
 Keita Chiga<br>
 Miyuu Imamura<br>
