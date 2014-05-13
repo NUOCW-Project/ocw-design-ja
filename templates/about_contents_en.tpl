@@ -48,7 +48,7 @@
 <!-- スタッフ紹介開始 -->
 	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Steering Committee</h2></td></tr>
 	<tr><td colspan=2 align="right">(As of April 4, 2014)</td></tr>
-	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>		<td class="left_gray">
+	<tr><td class="center_gray">Nagoya University OpenCourseWare Steering Committee</td>		<td class="left_gray">
   <p>	
 Chairperson: Katsuaki Onogi	<br>
 Dean,<br>
