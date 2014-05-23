@@ -12,13 +12,13 @@
   </div>
 <!-- 広がる世界 end -->
 
-<!-- 新歓SC 
+<!-- 新歓SC -->
 <div>
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=special">
 <img src="./images/ja/topics4/k_header.png" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" >
           </a>
   </div>
- 新歓SC end -->
+<!-- 新歓SC end -->
 
 
 <div class="inline">
