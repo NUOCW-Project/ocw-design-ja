@@ -5,7 +5,7 @@
 <img src="./images/common/redline.gif" class="line" alt="">
 
 <!-- 広がる世界 -->
-<div>
+<div id="topics_head">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2014">
 <img src="./images/ja/topics6/header.png" alt="名大の授業 TOIPCS　No.6 広がる世界" width="694" height="399" >
           </a>
@@ -13,9 +13,9 @@
 <!-- 広がる世界 end -->
 
 <!-- サマーキャンプ -->
-<div>
+<div id=special_head>
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=special">
-<img src="./images/ja/summer_camp/header_summer.jpg" alt="名大の授業 TOIPCS　No.4 理学部新歓サイエンスカフェ　2011" width="694" height="399" >
+<img src="./images/ja/summer_camp/header_summer.jpg" alt="名大の授業 TOIPCS　特別編 Mei-Writing Summer Camp 2013" width="694" height="399" >
           </a>
   </div>
 <!-- サマーキャンプ end -->

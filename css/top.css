@@ -44,6 +44,7 @@
 		padding: 5px 5px 0 0;
 		zoom: 1;
 	}
+
 .waku img{
 		margin-left: 5px;
 }
@@ -252,3 +253,7 @@ img#prj10{
 }
 
 
+/* 看板画像を2つ同時に表示するとき */
+#special_head {
+   padding-top: 25px;
+}
