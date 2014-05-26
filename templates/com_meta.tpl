@@ -65,6 +65,9 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/6.css">  
 
+{elseif $lang=='ja' && $page_type=='summercamp'}
+<link rel="stylesheet" type="text/css" href="css/project_nakatsugawa.css">
+
 {elseif $lang=='ja' && $page_type=='student_testimonials'}
 <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 
