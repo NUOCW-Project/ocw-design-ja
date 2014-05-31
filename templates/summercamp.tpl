@@ -208,7 +208,7 @@
 公式サイトでも情報を更新していきます。
 </p>
 <p>
-サマーキャンプは毎年人気が高まっており、去年初めて応募者が定員（３０人）を超えました。参加申し込みは５月から受付けております。こちらからお申込み頂けます。URL:<a ref=" http://meiwriting.ilas.nagoya-u.ac.jp/activities/summer-camp/mei-writing-summer-camp-2014"> http://meiwriting.ilas.nagoya-u.ac.jp/activities/summer-camp/mei-writing-summer-camp-2014</a>
+サマーキャンプは毎年人気が高まっており、去年初めて応募者が定員（３０人）を超えました。参加申し込みは５月から受付けております。こちらからお申込み頂けます。URL:<a href=" http://meiwriting.ilas.nagoya-u.ac.jp/activities/summer-camp/mei-writing-summer-camp-2014"> http://meiwriting.ilas.nagoya-u.ac.jp/activities/summer-camp/mei-writing-summer-camp-2014</a>
 </p>
 <p>
 ぜひ、お早めのお申し込みを！
