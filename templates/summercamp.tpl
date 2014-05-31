@@ -31,7 +31,7 @@
 
 <div id="interview">
 <h4 class="q_title">
-１．どんなことをするの？?プログラムについて? </h4>
+１．どんなことをするの？&mdash;プログラムについて&mdash; </h4>
 
 <div class="qq">
 <p>
@@ -97,7 +97,7 @@
 
 
 <h4 class="q_title">
-２．どんな人におすすめ？?参加者について? </h4>
+２．どんな人におすすめ？&mdash;参加者について&mdash; </h4>
 
 <div class="qq">
 <p>
@@ -139,7 +139,7 @@
 <!-- ここにライ先生の画像 -->
 
 <h4 class="q_title">
-３．大変なこともあるけれど、やっぱり楽しい?出来事や楽しさについて? </h4>
+３．大変なこともあるけれど、やっぱり楽しい&mdash;出来事や楽しさについて&mdash; </h4>
 <div class="qq">
 <p>
 ―サマーキャンプは、普段の授業とは大きく違ったスタイルだけに、楽しいことも大変なことも色々とありそうですね。
@@ -173,7 +173,7 @@
 </div>
 
 <h4 class="q_title">
-４．これだけは伝えたい?おわりに?</h4>
+４．これだけは伝えたい&mdash;おわりに&mdash;</h4>
 <p>
 アメリカでは、本当に誰かを知りたいのなら、一緒にキャンプをしなきゃ、という言葉があります。サマーキャンプでも、密度の濃い交流をするわけですから、参加者たちはすごく仲良くなりますね。
 </p>
@@ -208,7 +208,7 @@
 公式サイトでも情報を更新していきます。
 </p>
 <p>
-サマーキャンプは毎年人気が高まっており、去年初めて応募者が定員（３０人）を超えました。参加申し込みは５月から受付けております。こちらからお申込み頂けます。URL:　http://meiwriting.ilas.nagoya-u.ac.jp/activities/summer-camp/mei-writing-summer-camp-2014
+サマーキャンプは毎年人気が高まっており、去年初めて応募者が定員（３０人）を超えました。参加申し込みは５月から受付けております。こちらからお申込み頂けます。URL:<a ref=" http://meiwriting.ilas.nagoya-u.ac.jp/activities/summer-camp/mei-writing-summer-camp-2014"> http://meiwriting.ilas.nagoya-u.ac.jp/activities/summer-camp/mei-writing-summer-camp-2014</a>
 </p>
 <p>
 ぜひ、お早めのお申し込みを！
