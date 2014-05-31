@@ -135,7 +135,7 @@
 そういったことに１から取り組みたい学生さんにもどんどん参加してほしいと思いますね。もちろん、メイライティングの授業に参加している学生も歓迎しますが、特にMei-Writingの授業を受けていない方は大歓迎です。
 </p>
 
-<img src="images/ja/summer_camp/rai.jpg">
+<img id= "rai" src="images/ja/summer_camp/rai.jpg">
 <!-- ここにライ先生の画像 -->
 
 <h4 class="q_title">
