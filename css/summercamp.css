@@ -3,3 +3,14 @@ h1 {
 color:red;
 }
 
+h4#nathan {
+text-decoration: underline;
+}
+
+h4#suzuki {
+text-decoration: underline;
+}
+
+#profile {
+padding: 10px ;
+}
