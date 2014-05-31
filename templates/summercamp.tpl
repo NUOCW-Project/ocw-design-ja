@@ -1,4 +1,4 @@
-<h3>Mei-Writing Summer Camp 2014 スペシャルインタビュー</h3>
+<h1>Mei-Writing Summer Camp 2014 スペシャルインタビュー</h1>
 
 <p>
 名古屋大学教養教育院Mei-Writingチームでは、毎年夏休みにサマーキャンプを実施しています。
