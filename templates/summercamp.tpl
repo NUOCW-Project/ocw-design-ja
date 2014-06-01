@@ -91,8 +91,12 @@
 【サマーキャンプ2013　プロモーションビデオ】
 </p>
 
-<embed src="https://www.youtube.com/watch?v=Qe3UKQWtz9A">
-<!-- 【ここに動画リンクを埋め込んでください。https://www.youtube.com/watch?v=Qe3UKQWtz9A】 -->
+<object width="710px">
+<param name="movie" value="https://www.youtube.com/watch?v=Qe3UKQWtz9A">
+<embed width="710px" src="https://www.youtube.com/watch?v=Qe3UKQWtz9A">
+</embed>
+</object>
+<!-- 動画 -->
 </div>
 
 
