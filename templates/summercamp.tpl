@@ -90,7 +90,7 @@
 <p>
 【サマーキャンプ2013　プロモーションビデオ】
 </p>
-<p>URL
+<p>URL:
 <a href="https://www.youtube.com/watch?v=Qe3UKQWtz9A">https://www.youtube.com/watch?v=Qe3UKQWtz9A</a>
 </p>
 <!-- 動画 -->
