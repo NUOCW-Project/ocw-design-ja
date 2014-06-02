@@ -97,6 +97,7 @@
   <script type="text/javascript" src="./js/noDisplay.js"></script>
 {elseif $lang=='ja' && $page_type=='summercamp'}
   <script type="text/javascript" src="./js/jquery.youtubeplaylist.js"></script>
+  <script type="text/ecmascript" src="./js/youtube.js"></script>
 {/if}
 {/literal}
 
