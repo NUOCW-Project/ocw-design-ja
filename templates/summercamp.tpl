@@ -90,12 +90,7 @@
 <p>
 【サマーキャンプ2013　プロモーションビデオ】
 </p>
-
-<object width="710px">
-<param name="movie" value="https://www.youtube.com/watch?v=Qe3UKQWtz9A">
-<embed width="710px" src="https://www.youtube.com/watch?v=Qe3UKQWtz9A">
-</embed>
-</object>
+<a href="https://www.youtube.com/watch?v=Qe3UKQWtz9A">リンク:https://www.youtube.com/watch?v=Qe3UKQWtz9A</a>
 <!-- 動画 -->
 </div>
 
