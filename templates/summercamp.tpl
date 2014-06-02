@@ -90,11 +90,6 @@
 <p>
 【サマーキャンプ2013　プロモーションビデオ】
 </p>
-<p>URL:
-<a href="https://www.youtube.com/watch?v=Qe3UKQWtz9A">https://www.youtube.com/watch?v=Qe3UKQWtz9A</a>
-</p>
-<!-- 動画 -->
-</div>
 
 <div class="yt_holder">
 <div id="ytvideo"></div>
@@ -102,6 +97,8 @@
 <li><a href="https://www.youtube.com/watch?v=Qe3UKQWtz9A">https://www.youtube.com/watch?v=Qe3UKQWtz9A</a></li>
 </ul>
 </div>
+
+</div> <!-- video end-->
 
 <h4 class="q_title">
 2.どんな人におすすめ？&mdash;参加者について&mdash; </h4>
