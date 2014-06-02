@@ -1,7 +1,9 @@
 $(function() {
     $("ul.demo1").ytplaylist({
         holderId: 'ytvideo',
-        playerHeight: 300,
-        playerWidth: 450,
+        playerHeight: 400,
+        playerWidth: 500,
     });
+    $("ul.demo1").css("display","none");
+
 });
