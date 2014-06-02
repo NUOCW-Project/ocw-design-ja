@@ -31,7 +31,7 @@
 
 <div id="interview">
 <h4 class="q_title">
-１．どんなことをするの？&mdash;プログラムについて&mdash; </h4>
+1. どんなことをするの？&mdash;プログラムについて&mdash; </h4>
 
 <div class="qq">
 <p>
@@ -40,7 +40,7 @@
 </div>
 
 <p>
-サマーキャンプは、４泊５日で行います。
+サマーキャンプは、4泊5日で行います。
 </p>
 <p>
 毎日、午前中はライ先生の論理的思考に関する授業を行い、参加者の論理的思考力を向上させていきます。
@@ -96,9 +96,15 @@
 <!-- 動画 -->
 </div>
 
+<div class="yt_holder">
+<div id="ytvideo"></div>
+<ul class="demo1">
+<li><a href="https://www.youtube.com/watch?v=Qe3UKQWtz9A">https://www.youtube.com/watch?v=Qe3UKQWtz9A</a></li>
+</ul>
+</div>
 
 <h4 class="q_title">
-２．どんな人におすすめ？&mdash;参加者について&mdash; </h4>
+2.どんな人におすすめ？&mdash;参加者について&mdash; </h4>
 
 <div class="qq">
 <p>
@@ -140,7 +146,7 @@
 <!-- ここにライ先生の画像 -->
 
 <h4 class="q_title">
-３．大変なこともあるけれど、やっぱり楽しい&mdash;出来事や楽しさについて&mdash; </h4>
+3.大変なこともあるけれど、やっぱり楽しい&mdash;出来事や楽しさについて&mdash; </h4>
 <div class="qq">
 <p>
 ―サマーキャンプは、普段の授業とは大きく違ったスタイルだけに、楽しいことも大変なことも色々とありそうですね。
@@ -174,7 +180,7 @@
 </div>
 
 <h4 class="q_title">
-４．これだけは伝えたい&mdash;おわりに&mdash;</h4>
+4.これだけは伝えたい&mdash;おわりに&mdash;</h4>
 <p>
 アメリカでは、本当に誰かを知りたいのなら、一緒にキャンプをしなきゃ、という言葉があります。サマーキャンプでも、密度の濃い交流をするわけですから、参加者たちはすごく仲良くなりますね。
 </p>
