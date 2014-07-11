@@ -1,4 +1,5 @@
-<h1>Mei-Writing Summer Camp 2014 スペシャルインタビュー</h1>
+<h1>Mei-Writing Summer Camp 2014 </h1>
+<h1>スペシャルインタビュー</h1>
 
 <div id= "intro">
 <p>
