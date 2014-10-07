@@ -55,7 +55,7 @@
 {/if}
 
 {/strip}
-<div class="fb-like" data-href="http://ocw.http://ocw.nagoya-u.jp/index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+<div class="fb-like" data-href="http://ocw.nagoya-u.jp/index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
 <br>
 <img src="./images/common/redline.gif" id="line1" alt=""><!-- 水平線(上) -->
 
