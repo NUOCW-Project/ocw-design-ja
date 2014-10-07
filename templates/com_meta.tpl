@@ -85,6 +85,8 @@
 {literal}
 {if $lang=='ja' && $page_type=='top'}
   <script type="text/javascript" src="./js/setHeight.js"></script>
+{elseif $mode=='c'}
+    <script type="text/javascript" src="./js/fb_like_button_ja.js"></script>
 {elseif $page_type=='topics'}
   {if $lang=='ja'}
     <script type="text/javascript" src="./js/seltab.js"></script>
