@@ -7,7 +7,7 @@
 
 <!-- Topics 特別編 -->
 <div id=special_head>
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=summercamp">
+        <a href="./index.php?lang=ja&mode=c&id=261&page_type=index"> {*http://ocw.nagoya-u.jp/ index.php?lang=ja&mode=c&id=261&page_type=index*}
 <img src="./images/ja/nobel.png" alt="天野浩教授の講義「電磁気学I」名大の授業で公開中" width="694" height="399" >
           </a>
   </div>
