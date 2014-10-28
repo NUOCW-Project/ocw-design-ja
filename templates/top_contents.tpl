@@ -4,6 +4,14 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
+
+<!-- Topics 特別編 -->
+<div id=special_head>
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=summercamp">
+<img src="./images/ja/nobel.png" alt="天野浩教授の講義「電磁気学I」名大の授業で公開中" width="694" height="399" >
+          </a>
+  </div>
+<!-- Topics 特別編 end -->
 <!-- 広がる世界 -->
 <div id="topics_head">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2014">
@@ -11,14 +19,6 @@
           </a>
   </div>
 <!-- 広がる世界 end -->
-
-<!-- Topics 特別編 -->
-<div id=special_head>
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=summercamp">
-<img src="./images/ja/summer_camp/header_summer.jpg" alt="名大の授業 TOIPCS　特別編 Mei-Writing Summer Camp 2013" width="694" height="399" >
-          </a>
-  </div>
-<!-- Topics 特別編 end -->
 
 <div class="inline">
 
