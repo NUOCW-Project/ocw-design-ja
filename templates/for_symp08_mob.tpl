@@ -1,8 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-
 <html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html;charset=EUC-JP">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <title>
 名古屋大学OCWシンポジウム
 </title>
