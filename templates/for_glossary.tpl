@@ -1,4 +1,4 @@
-{* $B!VMQ8l=8!W$N%F%s%W%l!<%H(B *}
+{* 「用語集」のテンプレート *}
 {include file="com_header.tpl"}
 {if $lang =="ja"}
   {include file="glossary_contents.tpl"}

@@ -1,13 +1,13 @@
-<!-- ¥Ø¥Ã¥À¡¼²èÁü(Ãæ¿È¤Ï¥Æ¡¼¥Ö¥ë) -->
+<!-- ãƒ˜ãƒƒãƒ€ãƒ¼ç”»åƒ(ä¸­èº«ã¯ãƒ†ãƒ¼ãƒ–ãƒ«) -->
 <div class="header_image">
 <table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="header">
 <tr>
 	<td><img src="./images/{$lang}/t_clist.gif" alt="Course List"></td>
-	<!-- ¥¤¥á¡¼¥¸²èÁü¤Ï»þ´Ö¤Ë¤è¤Ã¤ÆÊÑ²½¤µ¤»¤ëÉ¬Í×¤¢¤ê -->
+	<!-- ã‚¤ãƒ¡ãƒ¼ã‚¸ç”»åƒã¯æ™‚é–“ã«ã‚ˆã£ã¦å¤‰åŒ–ã•ã›ã‚‹å¿…è¦ã‚ã‚Š -->
 	<td rowspan="12"><img src="./images/{$lang}/d00clist{ldelim}$time_zone{rdelim}.jpg" width="300" width="240" alt=""></td>
 </tr>
 <tr>
-	<!-- ÅÉ¤ê¤Ä¤Ö¤·²èÁü-->
+	<!-- å¡—ã‚Šã¤ã¶ã—ç”»åƒ-->
 	<td><img src="./images/{$lang}/clist_00.jpg" alt=""></td>
 </tr>
 

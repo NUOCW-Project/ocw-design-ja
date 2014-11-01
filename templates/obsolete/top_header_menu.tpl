@@ -1,8 +1,8 @@
-<!-- ¥È¥Ã¥×¥Ø¥Ã¥À¡¼¥á¥Ë¥å¡¼ -->
+<!-- ãƒˆãƒƒãƒ—ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ¡ãƒ‹ãƒ¥ãƒ¼ -->
 <div class="header_menu">
-<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/t_01about.gif" alt="|{if $lang=="ja"}Ì¾Âç¤Î¼ø¶È¤Ë¤Ä¤¤¤Æ{else}About NU OCW{/if}|"></a>
-<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=legal"><img src="./images/{$lang}/t_02legal.gif" alt="|{if $lang=="ja"}¤´ÍøÍÑ¤Ë¤¢¤¿¤Ã¤Æ{else}Legal Notices{/if}|"></a>
-<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry"><img src="./images/{$lang}/t_03inq.gif" alt="|{if $lang=="ja"}¤ªÌä¹ç¤ï¤»{else}Inquiries{/if}|"></a>
-<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=faq"><img src="./images/{$lang}/t_04faq.gif" alt="|{if $lang=="ja"}¥Ø¥ë¥×(FAQ){else}FAQ{/if}|"></a>
-<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=akf"><img src="./images/{$lang}/t_05akf.gif" alt="|{if $lang=="ja"}AKF¸¡º÷{else}AKF Search{/if}|"></a>
+<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/t_01about.gif" alt="|{if $lang=="ja"}åå¤§ã®æŽˆæ¥­ã«ã¤ã„ã¦{else}About NU OCW{/if}|"></a>
+<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=legal"><img src="./images/{$lang}/t_02legal.gif" alt="|{if $lang=="ja"}ã”åˆ©ç”¨ã«ã‚ãŸã£ã¦{else}Legal Notices{/if}|"></a>
+<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry"><img src="./images/{$lang}/t_03inq.gif" alt="|{if $lang=="ja"}ãŠå•åˆã‚ã›{else}Inquiries{/if}|"></a>
+<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=faq"><img src="./images/{$lang}/t_04faq.gif" alt="|{if $lang=="ja"}ãƒ˜ãƒ«ãƒ—(FAQ){else}FAQ{/if}|"></a>
+<a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=akf"><img src="./images/{$lang}/t_05akf.gif" alt="|{if $lang=="ja"}AKFæ¤œç´¢{else}AKF Search{/if}|"></a>
 </div>

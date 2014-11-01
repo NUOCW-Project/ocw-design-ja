@@ -1,4 +1,4 @@
-<div class = "course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+<div class = "course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 	<table class = "center_contents" width="98%">
 		<tbody>
 
@@ -6,10 +6,10 @@
 			<th width="2%" class="center"></th>
             {if $lang=='ja'}
 			<th width="8%" class="center"></th>
-			<th width="40%">¥³¡¼¥¹Ì¾</th>
-			<th width="6%" class="center">»ëÄ°<br>¥Ü¥¿¥ó</th>
-			<th width="24%">³ØÉô¡¦¸¦µæ²Ê</th>
-			<th width="18%">Ã´Åö¹Ö»ÕÌ¾</th>
+			<th width="40%">ã‚³ãƒ¼ã‚¹å</th>
+			<th width="6%" class="center">è¦–è´<br>ãƒœã‚¿ãƒ³</th>
+			<th width="24%">å­¦éƒ¨ãƒ»ç ”ç©¶ç§‘</th>
+			<th width="18%">æ‹…å½“è¬›å¸«å</th>
             {elseif $lang=='en'}
 			<th width="30" class="center"></th>
 			<th width="40%">Course name</th>
@@ -34,7 +34,7 @@
 			<a href="{$vs.url_flv}"
 			 onclick="openWin('{$vs.url_flv}');return false;"
 			 onkeypress="openWin('{$vs.url_flv}');return false;"
-			 title="¿·¤·¤¤¥¦¥£¥ó¥É¥¦¤ò³«¤­¤Ş¤¹">
+			 title="æ–°ã—ã„ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‹ãã¾ã™">
 		{/if}
 			{vsyllabus_img id=$vs.vsyllabus_id alt=""}
 		{if isset($vs.url_flv)}
@@ -54,7 +54,7 @@
 			<a href="{$vs.url_flv}"
 			 onclick="openWin('{$vs.url_flv}');return false;"
 			 onkeypress="openWin('{$vs.url_flv}');return false;"
-			 title="¿·¤·¤¤¥¦¥£¥ó¥É¥¦¤ò³«¤­¤Ş¤¹" target="flame">
+			 title="æ–°ã—ã„ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‹ãã¾ã™" target="flame">
 			<img src="./images/common/play_s.png">
 			</a>
 		{/if}<br>
@@ -86,17 +86,17 @@
 	<div class="realplayer">
 	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 	{if $lang=='ja'}
-    <p>¥Ó¥Ç¥ª¤Î±ÜÍ÷¤Ë¤ÏAdobe¼Ò¤ÎFlashPlayer¤¬É¬Í×¤Ç¤¹¡£</p>
-	<p>FlashPlayer¤Ï¡¢°Ê²¼¤«¤é¥À¥¦¥ó¥í¡¼¥É¤Ç¤­¤Ş¤¹¡£</p>
+    <p>ãƒ“ãƒ‡ã‚ªã®é–²è¦§ã«ã¯Adobeç¤¾ã®FlashPlayerãŒå¿…è¦ã§ã™ã€‚</p>
+	<p>FlashPlayerã¯ã€ä»¥ä¸‹ã‹ã‚‰ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã§ãã¾ã™ã€‚</p>
     {elseif $lang=='en'}
     <p>FlashPlayer is required to run the videos.</p>
     <p>FlashPlayer can be downloaded from the following URL:
     {/if}
 	<p>
-	  <a href="http://www.adobe.com/go/getflashplayer_jp" target="_blank"><img src="./images/common/get_flash_player.gif" alt="{if $lang=='ja'}FlashPlayer ¥À¥¦¥ó¥í¡¼¥É¥µ¥¤¥È¤Ø{elseif $lang=='en'}Download FlashPlayer{/if}" border="0" height="31" width="88"></a>
+	  <a href="http://www.adobe.com/go/getflashplayer_jp" target="_blank"><img src="./images/common/get_flash_player.gif" alt="{if $lang=='ja'}FlashPlayer ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã‚µã‚¤ãƒˆã¸{elseif $lang=='en'}Download FlashPlayer{/if}" border="0" height="31" width="88"></a>
 	</p>
 	</div>
 	
 
-</div>	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+</div>	<!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 

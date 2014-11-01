@@ -1,34 +1,34 @@
-<h2>���ߡ�ư�襳��ƥ�Ĥ�Internet Explorer11 ��Google Chrome�ˤ��б����Ƥ���ޤ����̤Υ֥饦���Ǥ������������</h2>
+<h2>現在、動画コンテンツはInternet Explorer11 とGoogle Chromeには対応しておりません。別のブラウザでお試しください。</h2>
 <img src="./images/common/t_topics.png" alt="Topics">
-<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics2010"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}�Хå��ʥ�С�{else}backnumber{/if}"></a>
+<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics2010"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}"></a>
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
 
-<!-- Topics ������ -->
+<!-- Topics 特別編 -->
 <div id=special_head>
         <a href="./index.php?lang=ja&mode=c&id=261&page_type=index"> {*http://ocw.nagoya-u.jp/ index.php?lang=ja&mode=c&id=261&page_type=index*}
-<img src="./images/ja/nobel.png" alt="ŷ��������ιֵ����ż�����I��̾��μ��ȤǸ�����" width="694" height="399" >
+<img src="./images/ja/nobel.png" alt="天野浩教授の講義「電磁気学I」名大の授業で公開中" width="694" height="399" >
           </a>
   </div>
-<!-- Topics ������ end -->
-<!-- ���������� -->
+<!-- Topics 特別編 end -->
+<!-- 広がる世界 -->
 <div id="topics_head">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2014">
-<img src="./images/ja/topics6/header.png" alt="̾��μ��� TOIPCS��No.6 ����������" width="694" height="399" >
+<img src="./images/ja/topics6/header.png" alt="名大の授業 TOIPCS　No.6 広がる世界" width="694" height="399" >
           </a>
   </div>
-<!-- ���������� end -->
+<!-- 広がる世界 end -->
 
 <div class="inline">
 
-<!-- ��¦�ܥå��� -->
+<!-- 左側ボックス -->
 <div id="toppage_boxes_left">
-<!-- �ܥå����֤��Τ餻��-->
+<!-- ボックス「お知らせ」-->
 <div id="toppage_notice">
 <div class="waku">
-  <img src="./images/{$lang}/t_news.png" class="subheading" alt="{if $lang=='ja'}�����餻{else}News{/if}" width="180" height="20">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}�Хå��ʥ�С�{else}backnumber{/if}" width="65" height="15"></a>
+  <img src="./images/{$lang}/t_news.png" class="subheading" alt="{if $lang=='ja'}おしらせ{else}News{/if}" width="180" height="20">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
   <table>
@@ -42,13 +42,13 @@
     {/foreach}
   </table>
 </div>
-</div><!-- �֤��Τ餻��end  -->
+</div><!-- 「お知らせ」end  -->
 
-<!-- �ܥå����֥ץ쥹��꡼����-->
+<!-- ボックス「プレスリリース」-->
 <div id="toppage_press">
 <div class="waku">
-  <img src="./images/{$lang}/t_release.png" class="subheading" alt="{if $lang=='ja'}�ץ쥹��꡼��{else}Press Releases{/if}" width="180" height="20">
-  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}�Хå��ʥ�С�{else}backnumber{/if}" width="65" height="15"></a>
+  <img src="./images/{$lang}/t_release.png" class="subheading" alt="{if $lang=='ja'}プレスリリース{else}Press Releases{/if}" width="180" height="20">
+  <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease"><img src="./images/{$lang}/backno.png" class="jump" alt="{if $lang=='ja'}バックナンバー{else}backnumber{/if}" width="65" height="15"></a>
   <br>
   <img src="./images/common/dots.png" class="dots" alt="" height="10">
     <table>
@@ -62,23 +62,23 @@
     {/foreach}
     </table>
 </div>
-</div><!-- �֥ץ쥹��꡼����end -->
-</div><!-- ��¦�ܥå���end -->
+</div><!-- 「プレスリリース」end -->
+</div><!-- 左側ボックスend -->
 
-<!-- ��¦�ܥå��� -->
+<!-- 右側ボックス -->
 <div id="toppage_boxes_right">
-<!-- �ܥå����֥���������󥭥󥰡� -->
+<!-- ボックス「アクセスランキング」 -->
 <div id="toppage_access">
 <div class="waku">
-	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="����������󥭥�" width="180" height="20">
+	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="アクセスランキング" width="180" height="20">
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
 	<table id="rank_table">
 	<tr id="no0">
-		<td class="rank">���</td>
-		<td>�ֵ�̾</td>
-		<td class="name">����̾
+		<td class="rank">順位</td>
+		<td>講義名</td>
+		<td class="name">教員名
 	{literal}
 	{assign var='before' value=0}
 	{foreach from=$ranking key=k item=v}
@@ -109,22 +109,22 @@
 	</tr>
 	</table>
 </div>
-</div><!-- �֥���������󥭥󥰡�end -->
+</div><!-- 「アクセスランキング」end -->
 
 
-<!-- �ܥå����֥���������󥭥󥰡� -->
+<!-- ボックス「アクセスランキング」 -->
 <div id="toppage_greeting">
 <div class="waku">
-	<img src="./images/ja/t_welcome.png" class="subheading" alt="����������" width="180" height="20">
+	<img src="./images/ja/t_welcome.png" class="subheading" alt="ごあいさつ" width="180" height="20">
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="" height="10">
 	 <br>
   <p><img src="./images/{$lang}/goaisatu.png" alt=""></p>
-<!--  <p id="toppage_yamamoto_name">̾�Ų����<br>OCW�Ѱ���<br>�Ѱ�Ĺ �����ڹ���</p><p>�����Ǥ�����̾�����������뤳�Ȥ��Ǥ��ʤ��ֵ������򤿤�����������Ƥ��ޤ���</p>-->
+<!--  <p id="toppage_yamamoto_name">名古屋大学<br>OCW委員会<br>委員長 小野木克明</p><p>ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。</p>-->
   <p class="jump"><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">more...</a></p>
 </div>
 </div><!-- "greeting" end -->
-</div><!-- ��¦�ܥå���end -->
+</div><!-- 右側ボックスend -->
 
 </div><!-- "inline" end -->
 

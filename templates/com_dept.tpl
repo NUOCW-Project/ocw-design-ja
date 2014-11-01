@@ -1,15 +1,15 @@
-<ul id="departmentslist"><!-- Éô¶É¥ê¥¹¥È Ê¸»ú¤Ë¥ê¥ó¥¯¤¬Ä¥¤é¤ì¤Æ¤¤¤ë¤¬²èÁü¤Ëº¹¤·ÂØ¤¨ -->
+<ul id="departmentslist"><!-- éƒ¨å±€ãƒªã‚¹ãƒˆ æ–‡å­—ã«ãƒªãƒ³ã‚¯ãŒå¼µã‚‰ã‚Œã¦ã„ã‚‹ãŒç”»åƒã«å·®ã—æ›¿ãˆ -->
 <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
-   <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}¼ø¶È°ìÍ÷¤«¤éÃµ¤¹{/if}"
+   <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}æˆæ¥­ä¸€è¦§ã‹ã‚‰æ¢ã™{/if}"
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
-	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a><!-- class"header_image"¤«¤é°ÜÆ° -->
-<!-- ³Æ³ØÉô¥Ú¡¼¥¸¤Ø¤Î¥ê¥ó¥¯¥ê¥¹¥È -->
+	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a><!-- class"header_image"ã‹ã‚‰ç§»å‹• -->
+<!-- å„å­¦éƒ¨ãƒšãƒ¼ã‚¸ã¸ã®ãƒªãƒ³ã‚¯ãƒªã‚¹ãƒˆ -->
 {literal}
 {strip}
-{if $lang=="ja"}<!-- ±Ñ¸ìÍÑ¤ÈÆüËÜ¸ìÍÑ¤Ç²èÁü¤Î¹â¤µ¤¬°Û¤Ê¤ë -->
-<ul id="departmentslist_list"><!-- Éô¶É¥ê¥¹¥È Ê¸»ú¤Ë¥ê¥ó¥¯¤¬Ä¥¤é¤ì¤Æ¤¤¤ë¤¬²èÁü¤Ëº¹¤·ÂØ¤¨ -->
+{if $lang=="ja"}<!-- è‹±èªç”¨ã¨æ—¥æœ¬èªç”¨ã§ç”»åƒã®é«˜ã•ãŒç•°ãªã‚‹ -->
+<ul id="departmentslist_list"><!-- éƒ¨å±€ãƒªã‚¹ãƒˆ æ–‡å­—ã«ãƒªãƒ³ã‚¯ãŒå¼µã‚‰ã‚Œã¦ã„ã‚‹ãŒç”»åƒã«å·®ã—æ›¿ãˆ -->
 {elseif $lang=="en"}
-<ul id="departmentslist_list_en"><!-- Éô¶É¥ê¥¹¥È Ê¸»ú¤Ë¥ê¥ó¥¯¤¬Ä¥¤é¤ì¤Æ¤¤¤ë¤¬²èÁü¤Ëº¹¤·ÂØ¤¨ -->
+<ul id="departmentslist_list_en"><!-- éƒ¨å±€ãƒªã‚¹ãƒˆ æ–‡å­—ã«ãƒªãƒ³ã‚¯ãŒå¼µã‚‰ã‚Œã¦ã„ã‚‹ãŒç”»åƒã«å·®ã—æ›¿ãˆ -->
 {/if}
 {foreach from=$dept_list key="abbr" item="dept"}
   <li>
@@ -28,12 +28,12 @@
 {/strip}
 {/literal}
 
-<!-- twitter¤Î°ÆÆâ --->
+<!-- twitterã®æ¡ˆå†… --->
 {if $lang == 'ja'}
-<a href="http://www.twitter.com/nuocw"><img src="http://twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocw¤ò¥Õ¥©¥í¡¼¤·¤Ş¤·¤ç¤¦"></a>
+<a href="http://www.twitter.com/nuocw"><img src="http://twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwã‚’ãƒ•ã‚©ãƒ­ãƒ¼ã—ã¾ã—ã‚‡ã†"></a>
 {/if}
 
-<!-- Podcast¤Î°ÆÆâ -->
+<!-- Podcastã®æ¡ˆå†… -->
 <div id="podcast_waku">
 <div id="aboutpodcast_image">
 <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
@@ -41,9 +41,9 @@
 <div id="aboutpodcast_sentence">
 {if $lang=='ja'}
         <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/vs.png" alt="RSS"></a>
-        ¤ò iTunes ¤Î "Podcast" ¤Ë¥É¥é¥Ã¥°¡õ¥É¥í¥Ã¥×¤¹¤ë¤È¡¢¥İ¥Ã¥É¥­¥ã¥¹¥È¤¬ÅĞÏ¿¤µ¤ì¤Ş¤¹¡£
+        ã‚’ iTunes ã® "Podcast" ã«ãƒ‰ãƒ©ãƒƒã‚°ï¼†ãƒ‰ãƒ­ãƒƒãƒ—ã™ã‚‹ã¨ã€ãƒãƒƒãƒ‰ã‚­ãƒ£ã‚¹ãƒˆãŒç™»éŒ²ã•ã‚Œã¾ã™ã€‚
 <br>
-        ¡ÊiTunes¤ÏºÇ¿·ÈÇ¤ò¤ª»È¤¤¤¯¤À¤µ¤¤¡Ë
+        ï¼ˆiTunesã¯æœ€æ–°ç‰ˆã‚’ãŠä½¿ã„ãã ã•ã„ï¼‰
 {elseif $lang=='en'}
  To save video clips on iTunes Podcast, drag &amp; drop <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus_en.xml"><img src="./images/common/vs.png" ></a>
  icon to `podcast'. (Please use current version of iTunes.)

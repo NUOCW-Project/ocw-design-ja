@@ -1,7 +1,7 @@
   <img src="./images/common/t_topics.png" alt="Topics">
   <img src="./images/common/redline.gif" class="line" alt="">
 <div id="student" class="student_{$lang}">
-<!-- ²èÌÌ¾åÉô¤ÎºÇ¤âÂç¤­¤ÊÍ×ÁÇ -->
+<!-- ç”»é¢ä¸Šéƒ¨ã®æœ€ã‚‚å¤§ããªè¦ç´  -->
   <div id="interview_video_frame">
     <div id="interview_title"><img src='./images/common/student/interview_title_coming.png' alt='Feelings about Coming to Japan'></div>
     <div id="interview_video">       
@@ -16,7 +16,7 @@
   </div>
 </div>
 
-<!-- Ãæ±û¤Î¥Æ¡¼¥ÞÀÚ¤êÂØ¤¨ÍÑ¥¿¥Ö -->
+<!-- ä¸­å¤®ã®ãƒ†ãƒ¼ãƒžåˆ‡ã‚Šæ›¿ãˆç”¨ã‚¿ãƒ– -->
 <div id="theme_tub">
   <div class="tub_button">
     <a href="javascript:seltab('theme', 3, 1)">
@@ -45,16 +45,16 @@
 <div class="clear_div">
 </div>
 
-<!-- ²èÌÌ²¼Éô¤ÎÆ°²è¤Î¥ê¥¹¥È -->
+<!-- ç”»é¢ä¸‹éƒ¨ã®å‹•ç”»ã®ãƒªã‚¹ãƒˆ -->
 <div id="list_box">
-  <!-- ¥Æ¡¼¥Þ1 ÆüËÜ¤Ë¤Ä¤¤¤Æ -->
+  <!-- ãƒ†ãƒ¼ãƒž1 æ—¥æœ¬ã«ã¤ã„ã¦ -->
   <div id="theme1" class="theme_box">
     <div class="list_header">
       <img src="./images/common/student/list_header01.png" alt="About Japan">
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
-      <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
+      <colgroup class="thumbnail"></colgroup> <!-- ã‚µãƒ ãƒã‚¤ãƒ«ã®åˆ—ã‚’ã‚°ãƒ«ãƒ¼ãƒ”ãƒ³ã‚° -->
+      <colgroup class="title_name"></colgroup> <!-- ã‚¿ã‚¤ãƒˆãƒ«ã¨åå‰ã®åˆ—ã‚’ã‚°ãƒ«ãƒ¼ãƒ”ãƒ³ã‚° -->
       <tr class="odd_row">
         <td><a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001595/FLASH-FLV/nihon_seikatsu3.flv', 'About Life in Japan', 'life_in_japan')">
             <img src="./images/common/student/v_about_japan01.png" alt="Click to play">
@@ -88,14 +88,14 @@
   <div class="clear_div">
   </div>
 
-  <!-- ¥Æ¡¼¥Þ2 ÆüËÜ¸ì¤Ë¤Ä¤¤¤Æ -->
+  <!-- ãƒ†ãƒ¼ãƒž2 æ—¥æœ¬èªžã«ã¤ã„ã¦ -->
   <div id="theme2" class="theme_box">
     <div class="list_header">
       <img src="./images/common/student/list_header02.png" alt="About Japanese">
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
-      <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
+      <colgroup class="thumbnail"></colgroup> <!-- ã‚µãƒ ãƒã‚¤ãƒ«ã®åˆ—ã‚’ã‚°ãƒ«ãƒ¼ãƒ”ãƒ³ã‚° -->
+      <colgroup class="title_name"></colgroup> <!-- ã‚¿ã‚¤ãƒˆãƒ«ã¨åå‰ã®åˆ—ã‚’ã‚°ãƒ«ãƒ¼ãƒ”ãƒ³ã‚° -->
       <tr class="odd_row">
         <td><a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001589/FLASH-FLV/nihongo3.flv', 'What are your favourite/most useful words in Japanese?', 'favourite')">
             <img src="./images/common/student/v_about_japanese01.png" alt="Click to play">
@@ -129,14 +129,14 @@
   <div class="clear_div">
   </div>
 
-  <!-- ¥Æ¡¼¥Þ3 Ì¾¸Å²°Âç³Ø¤Ë¤Ä¤¤¤Æ -->
+  <!-- ãƒ†ãƒ¼ãƒž3 åå¤å±‹å¤§å­¦ã«ã¤ã„ã¦ -->
   <div id="theme3" class="theme_box">
     <div class="list_header">
       <img src="./images/common/student/list_header03.png" alt="About Nagoya University">
     </div>
     <table class="list_table">
-      <colgroup class="thumbnail"></colgroup> <!-- ¥µ¥à¥Í¥¤¥ë¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
-      <colgroup class="title_name"></colgroup> <!-- ¥¿¥¤¥È¥ë¤ÈÌ¾Á°¤ÎÎó¤ò¥°¥ë¡¼¥Ô¥ó¥° -->
+      <colgroup class="thumbnail"></colgroup> <!-- ã‚µãƒ ãƒã‚¤ãƒ«ã®åˆ—ã‚’ã‚°ãƒ«ãƒ¼ãƒ”ãƒ³ã‚° -->
+      <colgroup class="title_name"></colgroup> <!-- ã‚¿ã‚¤ãƒˆãƒ«ã¨åå‰ã®åˆ—ã‚’ã‚°ãƒ«ãƒ¼ãƒ”ãƒ³ã‚° -->
       <tr class="odd_row">
         <td><a href="javascript:switchFlash('rtmp://ms011.media.nagoya-u.ac.jp/video/S0001600/FLASH-FLV/ryugaku_shokudo.flv', 'Around the Cafeteria and the University', 'cafeteria')">
             <img src="./images/common/student/v_about_nu01.png" alt="Click to play">

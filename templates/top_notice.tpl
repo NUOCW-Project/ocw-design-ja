@@ -1,10 +1,10 @@
 {if $lang=="ja"}
 <div id="toppage_important_notice">
-<h2><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=app">OCW���ݡ��ȥ����å��罸�桪</a></h2>
+<h2><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=app">OCWサポートスタッフ募集中！</a></h2>
 <p>
 <a href="./index.php?lang=ja&amp;mode=g&amp;page_type=app">
-��̾��μ��ȡפ�����ˤ����Ϥ���������
-�����γ�������罸���Ƥ��ޤ���
+「名大の授業」の制作にご協力いただける
+学生の皆さんを募集しています。
 </a>
 </p>
 </div>

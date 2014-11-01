@@ -4,7 +4,7 @@
 {if $exist_pickup_bn}
 <tr>
   <td colspan="3">
-<!-- ¥Ğ¥Ã¥¯¥Ê¥ó¥Ğ¡¼¤Ø¤Î¥ê¥ó¥¯ -->
+<!-- ãƒãƒƒã‚¯ãƒŠãƒ³ãƒãƒ¼ã¸ã®ãƒªãƒ³ã‚¯ -->
 <div class="pickup_to_bn"><a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id=1"><img src="./images/{$lang}/bn.gif" height="25"></a></div>
   </td>
 </tr>
@@ -17,11 +17,11 @@
 <tr>
   <td width="10" class="td_left"></td>
   <td class="td_contents">    
-  <div class="course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+  <div class="course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 
 
-  {assign var="pu" value=$pickup_list[0]}{* TOP¤Ç¤ÏºÇ½é¤Î1¸Ä¤À¤± *}
-  <table class="center_contents" cellspacing="0" summary="{if $lang=='ja'}PICK UP¤Î¥¿¥¤¥È¥ë¤È¾ğÊó{else}about TOPICS{/if}">
+  {assign var="pu" value=$pickup_list[0]}{* TOPã§ã¯æœ€åˆã®1å€‹ã ã‘ *}
+  <table class="center_contents" cellspacing="0" summary="{if $lang=='ja'}PICK UPã®ã‚¿ã‚¤ãƒˆãƒ«ã¨æƒ…å ±{else}about TOPICS{/if}">
 <!-- 		<tr>
 			<td colspan="2">
 			{$pu.stime|date_format:"%Y/%m/%d"} Up
@@ -32,7 +32,7 @@
   {strip}
     <td class="{if $lang=='ja'}pickup_contents_title{else}pickup_contents_title_wide{/if}">
       {if $pu.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&amp;mode=c&amp;id={$pu.relation_id}">{/if}
-        {if $lang=='ja'}{$pu.title|default:"Ì¾ÂçOCW¤Ë¤Ä¤¤¤Æ¤Î¤ªÃÎ¤é¤»"|change_font_size:240:20}
+        {if $lang=='ja'}{$pu.title|default:"åå¤§OCWã«ã¤ã„ã¦ã®ãŠçŸ¥ã‚‰ã›"|change_font_size:240:20}
         {else}{$pu.title|default:"Announcement from NU OCW"|change_font_size:450:18}{/if}
       {if $pu.relation_id}</a>{/if}
     </td>
@@ -54,7 +54,7 @@
   </tr>
   </table>
 
-  </div><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+  </div><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 
   </td>
   <td width="10" class="td_right"></td>
@@ -66,4 +66,4 @@
 </tr>
 
 </table>
-</div>  <!-- ¥»¥ó¥¿¡¼¥³¥ó¥Æ¥ó¥Ä½ªÎ» -->
+</div>  <!-- ã‚»ãƒ³ã‚¿ãƒ¼ã‚³ãƒ³ãƒ†ãƒ³ãƒ„çµ‚äº† -->

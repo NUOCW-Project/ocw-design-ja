@@ -1,8 +1,8 @@
-<!-- ¥Ø¥Ã¥À¡¼²èÁü(Ãæ¿È¤Ï¥Æ¡¼¥Ö¥ë) -->
+<!-- ãƒ˜ãƒƒãƒ€ãƒ¼ç”»åƒ(ä¸­èº«ã¯ãƒ†ãƒ¼ãƒ–ãƒ«) -->
 <div class="header_image">
-<table class ="header" width="650" border="0" cellPadding="0" cellSpacing="0" summary="¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü">
+<table class ="header" width="650" border="0" cellPadding="0" cellSpacing="0" summary="ãƒ˜ãƒƒãƒ€ãƒ¼éƒ¨åˆ†ç”»åƒ">
 <tr>
-	<td><img src="./images/{$lang}/t_relay.jpg" alt="Ì¾¸Å²°Âç³Ø¥ê¥ì¡¼¥»¥ß¥Ê¡¼"></td>
+	<td><img src="./images/{$lang}/t_relay.jpg" alt="åå¤å±‹å¤§å­¦ãƒªãƒ¬ãƒ¼ã‚»ãƒŸãƒŠãƒ¼"></td>
 </tr>
 </table>
 </div>

@@ -1,6 +1,6 @@
-<!-- ̾��μ��ȤˤĤ���left��˥塼 -->
+<!-- 名大の授業についてleftメニュー -->
 <div class="vsyllabus_left">
-<img src="./images/{$lang}/t_vlist.gif" alt="{if $lang=='ja'}���Ȱ���{else}List of video clips{/if}">
+<img src="./images/{$lang}/t_vlist.gif" alt="{if $lang=='ja'}番組一覧{else}List of video clips{/if}">
 
 
 <div class="podcast">
@@ -21,8 +21,8 @@
   {if $lang=='ja'}
   <p>
   <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/b_rss.gif" ></a>
-  �� iTunes �� "Podcast" �˥ɥ�å����ɥ��åפ���ȡ��ݥåɥ��㥹�Ȥ���Ͽ����ޤ���<br>
-  ��iTunes�Ϻǿ��Ǥ򤪻Ȥ�����������
+  を iTunes の "Podcast" にドラッグ＆ドロップすると、ポッドキャストが登録されます。<br>
+  （iTunesは最新版をお使いください）
   </p>
   {elseif $lang=='en'}
   <p>

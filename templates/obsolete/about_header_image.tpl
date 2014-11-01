@@ -1,18 +1,18 @@
-<!-- ¥Ø¥Ã¥À¡¼²èÁü(Ãæ¿È¤Ï¥Æ¡¼¥Ö¥ë) -->
+<!-- ãƒ˜ãƒƒãƒ€ãƒ¼ç”»åƒ(ä¸­èº«ã¯ãƒ†ãƒ¼ãƒ–ãƒ«) -->
 <div class="header_image">
-<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="{if $lang=='ja'}¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü{else}header{/if}">
+<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="{if $lang=='ja'}ãƒ˜ãƒƒãƒ€ãƒ¼éƒ¨åˆ†ç”»åƒ{else}header{/if}">
 <tr>
-	<td><img src="./images/{$lang}/t01about01.jpg" alt="{if $lang=='ja'}Ì¾Âç¤Î¼ø¶È¤Ë¤Ä¤¤¤Æ{else}About NU OCW{/if}"></td>
-	<td rowspan="5"><img src="./images/{$lang}/t01about02.jpg" alt="{if $lang=='ja'}Ì¾Âç¤Î¼ø¶È¤Ë¤Ä¤¤¤Æ{else}About NU OCW{/if}"></td>
+	<td><img src="./images/{$lang}/t01about01.jpg" alt="{if $lang=='ja'}åå¤§ã®æŽˆæ¥­ã«ã¤ã„ã¦{else}About NU OCW{/if}"></td>
+	<td rowspan="5"><img src="./images/{$lang}/t01about02.jpg" alt="{if $lang=='ja'}åå¤§ã®æŽˆæ¥­ã«ã¤ã„ã¦{else}About NU OCW{/if}"></td>
 </tr>
 <tr>
-	<td><a href="#about01"><img src="./images/{$lang}/t01about_01site.jpg" alt="{if $lang=='ja'}¤³¤ÎSite¤ÎÆÃÄ§{else}About this site{/if}"></a></td>
+	<td><a href="#about01"><img src="./images/{$lang}/t01about_01site.jpg" alt="{if $lang=='ja'}ã“ã®Siteã®ç‰¹å¾´{else}About this site{/if}"></a></td>
 </tr>
 <tr>
-	<td><a href="#about02"><img src="./images/{$lang}/t01about_02link.jpg" alt="{if $lang=='ja'}¥ê¥ó¥¯{else}Link{/if}"></a></td>
+	<td><a href="#about02"><img src="./images/{$lang}/t01about_02link.jpg" alt="{if $lang=='ja'}ãƒªãƒ³ã‚¯{else}Link{/if}"></a></td>
 </tr>
 <tr>
-	<td><a href="#about03"><img src="./images/{$lang}/t01about_03staff.jpg" alt="{if $lang=='ja'}¥¹¥¿¥Ã¥Õ¾Ò²ð{else}Staff{/if}"></a></td>
+	<td><a href="#about03"><img src="./images/{$lang}/t01about_03staff.jpg" alt="{if $lang=='ja'}ã‚¹ã‚¿ãƒƒãƒ•ç´¹ä»‹{else}Staff{/if}"></a></td>
 </tr>
 <tr>
 	<td><img src="./images/common/t01about_04.jpg" alt=""></td>

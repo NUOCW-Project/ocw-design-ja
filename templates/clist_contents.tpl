@@ -1,4 +1,4 @@
-{* Á´Éô¶É¡¢Éô¶ÉÊÌ¥½¡¼¥È *}
+{* å…¨éƒ¨å±€ã€éƒ¨å±€åˆ¥ã‚½ãƒ¼ãƒˆ *}
 {literal}
 {if $all_dept and $sort_selected=="all_department"}
 {/literal}
@@ -13,7 +13,7 @@
   {/foreach}
   {/literal}
 
-{* Á´Éô¶É¡¢¶µ°÷ÊÌ¥½¡¼¥È *}
+{* å…¨éƒ¨å±€ã€æ•™å“¡åˆ¥ã‚½ãƒ¼ãƒˆ *}
 {literal}
 {elseif $all_dept}
 {/literal}
@@ -28,11 +28,11 @@
   {/foreach}
   {/literal}
 
-{* ÆÃÄêÉô¶É¡¢¥³¡¼¥¹¥ê¥¹¥È¼«Æ°À¸À® *}
+{* ç‰¹å®šéƒ¨å±€ã€ã‚³ãƒ¼ã‚¹ãƒªã‚¹ãƒˆè‡ªå‹•ç”Ÿæˆ *}
 {literal}
 {elseif $is_show_list}
 {/literal}
-  {* Éô¶É¾Ò²ğ¤ò·ÇºÜ¤¹¤ë¾ì¹ç *}
+  {* éƒ¨å±€ç´¹ä»‹ã‚’æ²è¼‰ã™ã‚‹å ´åˆ *}
   {literal}
   {if $use_template}
      {include file="$lang/l/`$page_type`_info_short.tpl"} 
@@ -42,7 +42,7 @@
   {include file="sort_selection.tpl"}
   {include file="sort_course_table_dep_order.tpl"}
    
-{* ÆÃÄêÉô¶É¡¢¥Ú¡¼¥¸¼êÆ°ºîÀ® *}
+{* ç‰¹å®šéƒ¨å±€ã€ãƒšãƒ¼ã‚¸æ‰‹å‹•ä½œæˆ *}
 {literal}
 {else}
 {/literal}

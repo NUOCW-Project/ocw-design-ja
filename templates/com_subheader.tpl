@@ -1,7 +1,7 @@
-<!-- header²èÁü page_type¤´¤È¤ËÉ½¼¨ -->
+<!-- headerç”»åƒ page_typeã”ã¨ã«è¡¨ç¤º -->
 {literal}
 {if $page_type == ""}
-{* Éô¶É¾Ò²ð *}
+{* éƒ¨å±€ç´¹ä»‹ *}
 {elseif $page_type|regex_replace:'/^.*_info$/i':'' eq ''}
   {if $lang=='ja'}
     {assign var=img_num value=1|rand:4}
@@ -11,17 +11,17 @@
     <img src="./images/{$lang}/header_{$page_type|regex_replace:'/_info$/':''}.jpg"
          alt="{/literal}{section name=n loop=$navi_list start=-2 max=1}{$navi_list[n].text}{/section}{literal}">
   {/if}
-{* ¥ê¥ì¡¼¥»¥ß¥Ê¡¼ *}
+{* ãƒªãƒ¬ãƒ¼ã‚»ãƒŸãƒŠãƒ¼ *}
 {elseif $page_type|regex_replace:'/^relay[0-9]+$/':'' eq ''} 
   {assign var=img_num value=1|rand:4}
   <img src="./images/{$lang}/header_{$page_type|regex_replace:'/[0-9]+/':''}0{$img_num}.jpg"
        alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
-{* ºÇ½ª¹ÖµÁ *}
+{* æœ€çµ‚è¬›ç¾© *}
 {elseif $page_type|regex_replace:'/^fw[0-9]+/':'' eq ''}
   {assign var=img_num value=1|rand:4}
   <img src="./images/{$lang}/header_{$page_type|regex_replace:'/(fw)[0-9]+/':'fwarchive'}0{$img_num}.jpg"
        alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
-{* ¥ê¥¹¥ÈÈ¯¹Ô *}
+{* ãƒªã‚¹ãƒˆç™ºè¡Œ *}
 {elseif $page_type!="all" &&  $mode=="l"}
   {if $lang=='ja'}
     {assign var=img_num value=1|rand:4} 
@@ -31,15 +31,15 @@
     <img src="./images/{$lang}/header_{$page_type}.jpg"
        alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
   {/if}
-{* ¥È¥Ã¥×¥Ú¡¼¥¸ *}
+{* ãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸ *}
 {elseif $page_type=="top"}
   {assign var=img_num value=1|rand:3}
 	  <img src="./images/{$lang}/header_top0{$img_num}.jpg"
 	{if $lang=="ja"}
-	       alt=" ¡ÖÍ¦µ¤¤¢¤ëÃÎ¼±¿Í¡×Ì¾¸Å²°Âç³Ø¤Ï¡¢¼«Í³ïèÃ£¤Ê³ØÉ÷¤Î²¼¡¢¿Í´ÖÀ­¤È²Ê³Ø¤ÎÄ´ÏÂÅªÈ¯Å¸¤òÌÜÅª¤È¤·¡¢
-	       	      ÁÏÂ¤Åª¤Ê¸¦µæ¤È¼«È¯À­¤ò½Å»ë¤¹¤ë¶µ°é¤ò¼ÂÁ©¤¹¤ë¤³¤È¤Ë¤è¤Ã¤Æ¡¢
-		      À¤³¦¶þ»Ø¤ÎÃÎÅªÀ®²Ì¤òÀ¸¤ß½Ð¤¹¤È¤È¤â¤Ë¡¢
-             	      ÏÀÍýÅª»×¹ÍÎÏ¤ÈÁÛÁüÎÏ¤ËÉÙ¤ó¤ÀÍ¦µ¤¤¢¤ëÃÎ¼±¿Í¤Î°éÀ®¤òÌÜ»Ø¤·¤Æ¤¤¤Þ¤¹¡£"
+	       alt=" ã€Œå‹‡æ°—ã‚ã‚‹çŸ¥è­˜äººã€åå¤å±‹å¤§å­¦ã¯ã€è‡ªç”±é—Šé”ãªå­¦é¢¨ã®ä¸‹ã€äººé–“æ€§ã¨ç§‘å­¦ã®èª¿å’Œçš„ç™ºå±•ã‚’ç›®çš„ã¨ã—ã€
+	       	      å‰µé€ çš„ãªç ”ç©¶ã¨è‡ªç™ºæ€§ã‚’é‡è¦–ã™ã‚‹æ•™è‚²ã‚’å®Ÿè·µã™ã‚‹ã“ã¨ã«ã‚ˆã£ã¦ã€
+		      ä¸–ç•Œå±ˆæŒ‡ã®çŸ¥çš„æˆæžœã‚’ç”Ÿã¿å‡ºã™ã¨ã¨ã‚‚ã«ã€
+             	      è«–ç†çš„æ€è€ƒåŠ›ã¨æƒ³åƒåŠ›ã«å¯Œã‚“ã å‹‡æ°—ã‚ã‚‹çŸ¥è­˜äººã®è‚²æˆã‚’ç›®æŒ‡ã—ã¦ã„ã¾ã™ã€‚"
 	{else}
 	       alt="Through stressing creative study and self-motivation emphasizing harmonious 
               development between humanity, nature, and science, Nagoya University not only 
@@ -60,20 +60,20 @@
 
 {if $page_type == "top" and $lang == "ja"}
 	<div id="menu">	
-		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/menu01.png" onMouseOver="this.src='./images/{$lang}/menu01_on.png'" onMouseout="this.src='./images/{$lang}/menu01.png'" class="menu0" alt="{if $lang=='ja'}¡ÖÌ¾Âç¤Î¼ø¶È¡×¤Ë¤Ä¤¤¤Æ{else}About NU OCW{/if}"></a>
-		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary"><img src="./images/{$lang}/menu02.png" onMouseOver="this.src='./images/{$lang}/menu02_on.png'" onMouseout="this.src='./images/{$lang}/menu02.png'" class="menu0" alt="{if $lang=='ja'}ÍÑ¸ì²òÀâ{else}Glossary{/if}"></a>
-		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus"><img src="./images/{$lang}/menu03.png" onMouseOver="this.src='./images/{$lang}/menu03_on.png'" onMouseout="this.src='./images/{$lang}/menu03.png'" class="menu0" alt="{if $lang=='ja'}1Ê¬´Ö¼ø¶È¾Ò²ð{else}1 minute Video Summary{/if}&amp;Podcast"></a>
-		<div class="menu0"><a href="http://www.media.nagoya-u.ac.jp/sc/"><img src="./images/{$lang}/menu04.png" onMouseOver="this.src='./images/{$lang}/menu04_on.png'" onMouseout="this.src='./images/{$lang}/menu04.png'" alt="{if $lang=='ja'}¥¹¥¿¥¸¥ª¥Á¥ã¥ó¥Í¥ë{else}Studio Channel{/if}"></a><p id="studio_channel_date"><b>{include file="common/studiochannel.tpl"}UP</b></p></div>
+		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/menu01.png" onMouseOver="this.src='./images/{$lang}/menu01_on.png'" onMouseout="this.src='./images/{$lang}/menu01.png'" class="menu0" alt="{if $lang=='ja'}ã€Œåå¤§ã®æŽˆæ¥­ã€ã«ã¤ã„ã¦{else}About NU OCW{/if}"></a>
+		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary"><img src="./images/{$lang}/menu02.png" onMouseOver="this.src='./images/{$lang}/menu02_on.png'" onMouseout="this.src='./images/{$lang}/menu02.png'" class="menu0" alt="{if $lang=='ja'}ç”¨èªžè§£èª¬{else}Glossary{/if}"></a>
+		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus"><img src="./images/{$lang}/menu03.png" onMouseOver="this.src='./images/{$lang}/menu03_on.png'" onMouseout="this.src='./images/{$lang}/menu03.png'" class="menu0" alt="{if $lang=='ja'}1åˆ†é–“æŽˆæ¥­ç´¹ä»‹{else}1 minute Video Summary{/if}&amp;Podcast"></a>
+		<div class="menu0"><a href="http://www.media.nagoya-u.ac.jp/sc/"><img src="./images/{$lang}/menu04.png" onMouseOver="this.src='./images/{$lang}/menu04_on.png'" onMouseout="this.src='./images/{$lang}/menu04.png'" alt="{if $lang=='ja'}ã‚¹ã‚¿ã‚¸ã‚ªãƒãƒ£ãƒ³ãƒãƒ«{else}Studio Channel{/if}"></a><p id="studio_channel_date"><b>{include file="common/studiochannel.tpl"}UP</b></p></div>
 	</div><!-- "menu" end -->
 {/if}
 
-<div id="package2"><!-- #contentsÇÛÃÖÄ´À° firefoxÂÐ±þ" -->
+<div id="package2"><!-- #contentsé…ç½®èª¿æ•´ firefoxå¯¾å¿œ" -->
 
 {if $page_type != "sitemap" && $page_type != "topics_branches" && $page_type != "special" && $page_type != "topics2014" && $page_type != "topics2013"}
-  {/literal}{include file="com_dept.tpl"}<!-- Éô¶É¥ê¥¹¥È com_header.tpl¤«¤é°ÜÆ° -->{literal}
+  {/literal}{include file="com_dept.tpl"}<!-- éƒ¨å±€ãƒªã‚¹ãƒˆ com_header.tplã‹ã‚‰ç§»å‹• -->{literal}
 {/if}
 
 {/literal}
-  <div id="contents"><!-- Ãæ³Ë¤Î¥Ü¥Ã¥¯¥¹ -->
+  <div id="contents"><!-- ä¸­æ ¸ã®ãƒœãƒƒã‚¯ã‚¹ -->
 
-    {include file="com_navi.tpl"}<!-- ¥Ñ¥ó¤¯¤º¥ê¥¹¥È course_contents.tpl¤«¤é°ÜÆ° -->
+    {include file="com_navi.tpl"}<!-- ãƒ‘ãƒ³ããšãƒªã‚¹ãƒˆ course_contents.tplã‹ã‚‰ç§»å‹• -->

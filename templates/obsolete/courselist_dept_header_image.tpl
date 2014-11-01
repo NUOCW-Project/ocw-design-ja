@@ -1,8 +1,8 @@
-<!-- ¥Ø¥Ã¥À¡¼²èÁü(Ãæ¿È¤Ï¥Æ¡¼¥Ö¥ë) -->
+<!-- ãƒ˜ãƒƒãƒ€ãƒ¼ç”»åƒ(ä¸­èº«ã¯ãƒ†ãƒ¼ãƒ–ãƒ«) -->
 <div class="header_image">
-<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="{if $lang=='ja'}¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü{else}header{/if}">
+<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="{if $lang=='ja'}ãƒ˜ãƒƒãƒ€ãƒ¼éƒ¨åˆ†ç”»åƒ{else}header{/if}">
 <tr>
-	<!-- ¤³¤ÎÉôÊ¬¤Î²èÁü¤òÉô¶É¤´¤È¤Ë¼Ì¿¿ÊÑ¹¹¤¹¤ëÉ¬Í×Í­¤ê -->
+	<!-- ã“ã®éƒ¨åˆ†ã®ç”»åƒã‚’éƒ¨å±€ã”ã¨ã«å†™çœŸå¤‰æ›´ã™ã‚‹å¿…è¦æœ‰ã‚Š -->
 	<td><img src="./images/{$lang}/d_{$curr_department_abbr}{ldelim}$time_zone{rdelim}.jpg" alt="{$curr_department_name}"></td>
 </tr>
 </table>

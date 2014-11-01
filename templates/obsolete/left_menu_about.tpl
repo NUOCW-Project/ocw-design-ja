@@ -1,9 +1,9 @@
-<!-- Ì¾Âç¤Î¼ø¶È¤Ë¤Ä¤¤¤Æleft¥á¥Ë¥å¡¼ -->
+<!-- åå¤§ã®æŽˆæ¥­ã«ã¤ã„ã¦leftãƒ¡ãƒ‹ãƒ¥ãƒ¼ -->
 <div class="left_menu">
 <ul class="left_menu">
-<img src="./images/t_01staff.gif" alt="{if $lang=='ja'}¤³¤ÎSite¤Ë¤Ä¤¤¤Æ{else}About this site{/if}">
-<img src="./images/{$lang}/t_02link.gif" alt="{if $lang=='ja'}¥ê¥ó¥¯{else}Link{/if}">
-<img src="./images/{$lang}/t_03staff.gif" alt="{if $lang=='ja'}¥¹¥¿¥Ã¥Õ¾Ò²ð{else}Staff{/if}">
+<img src="./images/t_01staff.gif" alt="{if $lang=='ja'}ã“ã®Siteã«ã¤ã„ã¦{else}About this site{/if}">
+<img src="./images/{$lang}/t_02link.gif" alt="{if $lang=='ja'}ãƒªãƒ³ã‚¯{else}Link{/if}">
+<img src="./images/{$lang}/t_03staff.gif" alt="{if $lang=='ja'}ã‚¹ã‚¿ãƒƒãƒ•ç´¹ä»‹{else}Staff{/if}">
 
 </ul>
 </div>

@@ -1,4 +1,4 @@
-{* �֥Хå��ʥ�С��פΥƥ�ץ졼�� *}
+{* 「バックナンバー」のテンプレート *}
 {include file="com_header.tpl"}
 {if $lang =="ja"}
   {include file="topics2010_contents.tpl"}

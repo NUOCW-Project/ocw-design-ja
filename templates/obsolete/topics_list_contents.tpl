@@ -8,10 +8,10 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- •≥•Û•∆•Û•ƒ•ª•Î≥´ªœ -->
+	<div class="course_contents"><!-- „Ç≥„É≥„ÉÜ„É≥„ÉÑ„Çª„É´ÈñãÂßã -->
 
-	<table class="topics_contents" border="0" summary="{if $lang=='ja'}∫«ø∑TOPICS{else}Recent Updates{/if}">
-		{* Topic 1∑Ôªœ§ﬁ§Í *}
+	<table class="topics_contents" border="0" summary="{if $lang=='ja'}ÊúÄÊñ∞TOPICS{else}Recent Updates{/if}">
+		{* Topic 1‰ª∂Âßã„Åæ„Çä *}
 		{foreach from=$topics_list item="topic"}
 		<tr>
 			<td width="90" class="td_date">-{$topic.stime|date_format:"%Y/%m/%d"}</td>
@@ -20,10 +20,10 @@
 			</td>
 		</tr>
 		{/foreach}
-		{* Topic 1∑ÔΩ™§Ô§Í *}
+		{* Topic 1‰ª∂ÁµÇ„Çè„Çä *}
 	</table>
 	
-	</div>	<!-- •≥•Û•∆•Û•ƒ•ª•ÎΩ™Œª -->
+	</div>	<!-- „Ç≥„É≥„ÉÜ„É≥„ÉÑ„Çª„É´ÁµÇ‰∫Ü -->
 
 	</td>
 	<td width="10" class="td_right"></td>
@@ -35,4 +35,4 @@
 </tr>
 
 </table>
-</div>  <!-- •ª•Û•ø°º•≥•Û•∆•Û•ƒΩ™Œª -->
+</div>  <!-- „Çª„É≥„Çø„Éº„Ç≥„É≥„ÉÜ„É≥„ÉÑÁµÇ‰∫Ü -->

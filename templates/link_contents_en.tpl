@@ -1,9 +1,9 @@
-<!-- ¥ê¥ó¥¯³«»Ï -->
+<!-- ãƒªãƒ³ã‚¯é–‹å§‹ -->
 <table class="center_contents" width="600" border="0" cellpadding="0" cellspacing="0" summary="">
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+	<div class="course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 	<table class="center_contents" width="600">
 		<tbody>
 		<tr>
@@ -21,7 +21,7 @@
         </tbody>
     </table>
 		
-	</div>	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+	</div>	<!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 
 	</td>
 	<td width="10" class="td_right"></td>

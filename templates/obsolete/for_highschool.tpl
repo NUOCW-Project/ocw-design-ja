@@ -11,7 +11,7 @@
 <link rel="stylesheet" type="text/css" href="./css/contents_print.css" media="print">
 
 <title>
-Ì¾Âç¤Î¼ø¶È Nagoya University OpenCourseWare || ¹â¹»À¸¸ş¤±°ÆÆâ
+åå¤§ã®æˆæ¥­ Nagoya University OpenCourseWare || é«˜æ ¡ç”Ÿå‘ã‘æ¡ˆå†…
 </title>
 </head>
 
@@ -20,7 +20,7 @@
 
 <div class="logo">
 	<a href="index.php?mode=g&amp;lang=ja&amp;page_type=top">
-	<img src="./images/ja/toplogo.jpg" width="275" height="54" alt="Ì¾Âç¤Î¼ø¶È HOME">
+	<img src="./images/ja/toplogo.jpg" width="275" height="54" alt="åå¤§ã®æˆæ¥­ HOME">
 	</a>
 </div>
 
@@ -28,14 +28,14 @@
 <div class="language"><br>
 	{literal}
 	{strip}
-	  <img src="./images/ja/size.gif" alt="Ê¸»ú¥µ¥¤¥º">
+	  <img src="./images/ja/size.gif" alt="æ–‡å­—ã‚µã‚¤ã‚º">
 	  {if ! isset($smarty.session.fontsize) || $smarty.session.fontsize == "s"}
 	    <a href="select_fontsize.php?fontsize=l">
-	    <img src="./images/ja/size_l.gif" alt="Âç"></a><img src="./images/ja/size_s.gif" alt="¾®">
+	    <img src="./images/ja/size_l.gif" alt="å¤§"></a><img src="./images/ja/size_s.gif" alt="å°">
 	  {/if}
 	  {if $smarty.session.fontsize == "l"}
-	    <img src="./images/ja/size_l.gif" alt="Âç">
-	    <a href="select_fontsize.php?fontsize=s"><img src="./images/ja/size_s.gif" alt="¾®"></a>
+	    <img src="./images/ja/size_l.gif" alt="å¤§">
+	    <a href="select_fontsize.php?fontsize=s"><img src="./images/ja/size_s.gif" alt="å°"></a>
 	  {/if}
 	{/strip}
 	{/literal}
@@ -43,18 +43,18 @@
 {/strip}
 
 <div class="header_menu">
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/ja/01about.gif" alt="|Ì¾Âç¤Î¼ø¶È¤Ë¤Ä¤¤¤Æ|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=legal"><img src="./images/ja/02legal.gif" alt="|¤´ÍøÍÑ¤Ë¤¢¤¿¤Ã¤Æ|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=inquiry"><img src="./images/ja/03inq.gif" alt="|¤ªÌä¹ç¤ï¤»|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=faq"><img src="./images/ja/04faq.gif" alt="|¥Ø¥ë¥×(FAQ)|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=akf"><img src="./images/ja/05akf.gif" alt="|AKF¸¡º÷|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/ja/01about.gif" alt="|åå¤§ã®æˆæ¥­ã«ã¤ã„ã¦|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=legal"><img src="./images/ja/02legal.gif" alt="|ã”åˆ©ç”¨ã«ã‚ãŸã£ã¦|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=inquiry"><img src="./images/ja/03inq.gif" alt="|ãŠå•åˆã‚ã›|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=faq"><img src="./images/ja/04faq.gif" alt="|ãƒ˜ãƒ«ãƒ—(FAQ)|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=akf"><img src="./images/ja/05akf.gif" alt="|AKFæ¤œç´¢|"></a>
 </div>
 
 
 <div class="header_image">
-<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü">
+<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ãƒ˜ãƒƒãƒ€ãƒ¼éƒ¨åˆ†ç”»åƒ">
 	<tr>
-		<td colspan=2><img src="./images/ja/rec_02_02.jpg" alt="¹â¹»À¸¸ş¤±°ÆÆâ"></td>
+		<td colspan=2><img src="./images/ja/rec_02_02.jpg" alt="é«˜æ ¡ç”Ÿå‘ã‘æ¡ˆå†…"></td>
 	</tr>
 	<tr>
 		<td><img src="./images/ja/rec_03_03.jpg" alt=""></td>
@@ -75,11 +75,11 @@
 
 <div class="navi">
 	<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
-	&gt;  ¹â¹»À¸¸ş¤±°ÆÆâ
+	&gt;  é«˜æ ¡ç”Ÿå‘ã‘æ¡ˆå†…
 </div>
 
 <div class="about_left" id="01zyugyo">
-	<img src="./images/ja/rec_11_11.jpg" alt="¥ª¥¹¥¹¥á¼ø¶È">
+	<img src="./images/ja/rec_11_11.jpg" alt="ã‚ªã‚¹ã‚¹ãƒ¡æˆæ¥­">
 </div>
 <div class="about_center">
 <div class="center_contents"> 
@@ -92,7 +92,7 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+	<div class="course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 		<img src="./images/ja/2rec_contents.jpg" usemap="#contents" border=0 alt="">
 		<map name="contents">
 			<area shape=rect coords="321,512,422,624" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=51&page_type=teachingtips" alt="">
@@ -100,7 +100,7 @@
 			<area shape=rect coords="321,1550,422,1670" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=55&page_type=assignments" alt="">
 			<area shape=rect coords="321,2010,422,2138" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=42&page_type=relatedresources" alt="">
 		</map>
-	</div>	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+	</div>	<!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 	</td>
 	<td width="10" class="td_right"></td>
 </tr>
@@ -116,13 +116,13 @@
 
 <div class="feedback">
 	<a href="index.php?lang=ja&amp;mode=g&amp;page_type=feedback&amp;ref_lang=ja&amp;ref_mode=l&amp;ref_id=&amp;ref_page_type=farewell">
-	<img src="./images/ja/b_feedback.jpg" alt="Feedback" title="¤´°Õ¸«¡¦¤´´¶ÁÛ¤Î¥Õ¥£¡¼¥É¥Ğ¥Ã¥¯¥Ú¡¼¥¸">
+	<img src="./images/ja/b_feedback.jpg" alt="Feedback" title="ã”æ„è¦‹ãƒ»ã”æ„Ÿæƒ³ã®ãƒ•ã‚£ãƒ¼ãƒ‰ãƒãƒƒã‚¯ãƒšãƒ¼ã‚¸">
 	</a>
 </div>
 
 <div class="footer">
 	<a href="http://www.cshe.nagoya-u.ac.jp/stips/" target="_blank">
-	<img src="./images/common/f_studytips.gif" width="100" height="25" alt="Ì¾¸Å²°Âç³Ø¿·ÆşÀ¸¤Î¤¿¤á¤Î¥¹¥¿¥Ç¥£¥Æ¥£¥Ã¥×¥¹">
+	<img src="./images/common/f_studytips.gif" width="100" height="25" alt="åå¤å±‹å¤§å­¦æ–°å…¥ç”Ÿã®ãŸã‚ã®ã‚¹ã‚¿ãƒ‡ã‚£ãƒ†ã‚£ãƒƒãƒ—ã‚¹">
 	</a>
 	<a href="http://jocw.jp/" target="_blank">
 	<img src="./images/common/f_logo_jocw.gif" width="75" height="25" alt="JOCW">

@@ -1,8 +1,8 @@
-<!-- ¥Ø¥Ã¥À¡¼²èÁü(Ãæ¿È¤Ï¥Æ¡¼¥Ö¥ë) -->
+<!-- ãƒ˜ãƒƒãƒ€ãƒ¼ç”»åƒ(ä¸­èº«ã¯ãƒ†ãƒ¼ãƒ–ãƒ«) -->
 <div class="header_image">
-<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="{if $lang=='ja'}¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü{else}header{/if}">
+<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="{if $lang=='ja'}ãƒ˜ãƒƒãƒ€ãƒ¼éƒ¨åˆ†ç”»åƒ{else}header{/if}">
 <tr>
-	<td><img src="./images/{$lang}/t03inq.jpg" alt="{if $lang=='ja'}¤ªÌä¹ç¤»{else}Inquiries{/if}"></td>
+	<td><img src="./images/{$lang}/t03inq.jpg" alt="{if $lang=='ja'}ãŠå•åˆã›{else}Inquiries{/if}"></td>
 </tr>
 </table>
 </div>

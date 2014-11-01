@@ -1,4 +1,4 @@
-{* �֥�󥯡פΥƥ�ץ졼�� *}
+{* 「リンク」のテンプレート *}
 {include file="com_header.tpl"}
 {if $lang =="ja"}
   {include file="link_contents.tpl"}

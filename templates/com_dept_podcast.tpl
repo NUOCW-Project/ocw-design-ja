@@ -1,12 +1,12 @@
-<ul id="departmentslist"><!-- Éô¶É¥ê¥¹¥È Ê¸»ú¤Ë¥ê¥ó¥¯¤¬Ä¥¤é¤ì¤Æ¤¤¤ë¤¬²èÁü¤Ëº¹¤·ÂØ¤¨ -->
+<ul id="departmentslist"><!-- éƒ¨å±€ãƒªã‚¹ãƒˆ æ–‡å­—ã«ãƒªãƒ³ã‚¯ãŒå¼µã‚‰ã‚Œã¦ã„ã‚‹ãŒç”»åƒã«å·®ã—æ›¿ãˆ -->
 <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
-   <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}¼ø¶È°ìÍ÷¤«¤éÃµ¤¹{/if}"
+   <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}æˆæ¥­ä¸€è¦§ã‹ã‚‰æ¢ã™{/if}"
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
-	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a><!-- class"header_image"¤«¤é°ÜÆ° -->
-<!-- ³Æ³ØÉô¥Ú¡¼¥¸¤Ø¤Î¥ê¥ó¥¯¥ê¥¹¥È -->
+	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a><!-- class"header_image"ã‹ã‚‰ç§»å‹• -->
+<!-- å„å­¦éƒ¨ãƒšãƒ¼ã‚¸ã¸ã®ãƒªãƒ³ã‚¯ãƒªã‚¹ãƒˆ -->
 {literal}
 {strip}
-<ul id="departmentslist_list"><!-- Éô¶É¥ê¥¹¥È Ê¸»ú¤Ë¥ê¥ó¥¯¤¬Ä¥¤é¤ì¤Æ¤¤¤ë¤¬²èÁü¤Ëº¹¤·ÂØ¤¨ -->
+<ul id="departmentslist_list"><!-- éƒ¨å±€ãƒªã‚¹ãƒˆ æ–‡å­—ã«ãƒªãƒ³ã‚¯ãŒå¼µã‚‰ã‚Œã¦ã„ã‚‹ãŒç”»åƒã«å·®ã—æ›¿ãˆ -->
 {foreach from=$dept_list key="abbr" item="dept"}
   <li>
   {if $mode=="l" && $page_type==$abbr}
@@ -24,7 +24,7 @@
 {/strip}
 {/literal}
 
-<!-- Podcast¤Î°ÆÆâ¤òÉÕ¤±²Ã¤¨¤ë¡£-->
+<!-- Podcastã®æ¡ˆå†…ã‚’ä»˜ã‘åŠ ãˆã‚‹ã€‚-->
 
 <!-- <div id="podcast"> -->
 <div id="podcast_waku">
@@ -34,9 +34,9 @@
 <div id="aboutpodcast_sentence">
 {if $lang=='ja'}
         <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/vs.png" alt="RSS"></a>
-        ¤ò iTunes ¤Î "Podcast" ¤Ë¥É¥é¥Ã¥°¡õ¥É¥í¥Ã¥×¤¹¤ë¤È¡¢¥İ¥Ã¥É¥­¥ã¥¹¥È¤¬ÅĞÏ¿¤µ¤ì¤Ş¤¹¡£
+        ã‚’ iTunes ã® "Podcast" ã«ãƒ‰ãƒ©ãƒƒã‚°ï¼†ãƒ‰ãƒ­ãƒƒãƒ—ã™ã‚‹ã¨ã€ãƒãƒƒãƒ‰ã‚­ãƒ£ã‚¹ãƒˆãŒç™»éŒ²ã•ã‚Œã¾ã™ã€‚
 <br>
-        ¡ÊiTunes¤ÏºÇ¿·ÈÇ¤ò¤ª»È¤¤¤¯¤À¤µ¤¤¡Ë
+        ï¼ˆiTunesã¯æœ€æ–°ç‰ˆã‚’ãŠä½¿ã„ãã ã•ã„ï¼‰
 {elseif $lang=='en'}
  To save video clips on iTunes Podcast, drag &amp; drop <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus_en.xml"><img src="./images/common/vs.png" ></a>
  icon to `podcast'. (Please use current version of iTunes.)

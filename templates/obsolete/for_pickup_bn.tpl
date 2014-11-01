@@ -1,4 +1,4 @@
-{literal}{* ��PICKUP �Хå��ʥ�С��פΥƥ�ץ졼�� *}{/literal}
+{literal}{* 「PICKUP バックナンバー」のテンプレート *}{/literal}
 {include file="com_header.tpl"}
 {include file="com_language.tpl"}
 {include file="com_header_menu.tpl"}

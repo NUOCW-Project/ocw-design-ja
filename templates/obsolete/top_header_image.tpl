@@ -1,9 +1,9 @@
-<!-- ¥Ø¥Ã¥À¡¼²èÁü(Ãæ¿È¤Ï¥Æ¡¼¥Ö¥ë) -->
+<!-- ãƒ˜ãƒƒãƒ€ãƒ¼ç”»åƒ(ä¸­èº«ã¯ãƒ†ãƒ¼ãƒ–ãƒ«) -->
 <div class="header_image_top">
-<table class ="header" width="650" border="0" cellPadding="0" cellSpacing="0" summary="{if $lang=='ja'}¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü{else}Header{/if}">
+<table class ="header" width="650" border="0" cellPadding="0" cellSpacing="0" summary="{if $lang=='ja'}ãƒ˜ãƒƒãƒ€ãƒ¼éƒ¨åˆ†ç”»åƒ{else}Header{/if}">
 <tr>
-	<!-- Ë­ÅÄ¹ÖÆ²¤Î²èÁü¤Ï»þ´Ö¤Ë¤è¤Ã¤ÆÊÑ²½¤µ¤»¤ëÉ¬Í×¤¢¤ê -->
-	<td width="650"><img src="./images/{$lang}/top{ldelim}$time_zone{rdelim}.jpg" alt="{if $lang=='ja'}Ì¾Âç¤Î¼ø¶È{else}Nagoya University OpenCourseWare{/if}" width="650" height="300"></td>
+	<!-- è±Šç”°è¬›å ‚ã®ç”»åƒã¯æ™‚é–“ã«ã‚ˆã£ã¦å¤‰åŒ–ã•ã›ã‚‹å¿…è¦ã‚ã‚Š -->
+	<td width="650"><img src="./images/{$lang}/top{ldelim}$time_zone{rdelim}.jpg" alt="{if $lang=='ja'}åå¤§ã®æŽˆæ¥­{else}Nagoya University OpenCourseWare{/if}" width="650" height="300"></td>
 </tr>
 </table>
 </div>

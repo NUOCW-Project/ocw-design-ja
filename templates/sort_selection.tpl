@@ -1,7 +1,7 @@
 {literal}
 <form  action="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$page_type}&amp;sort={$sort_selected}" method="post">
 {if $lang == "ja"}
-<h2>É½¼¨¤¹¤ë¼ø¶È¤Î¾ò·ï</h2>
+<h2>è¡¨ç¤ºã™ã‚‹æˆæ¥­ã®æ¡ä»¶</h2>
 <img src="./images/common/redline.gif" id="line1" alt="">
 <div id="conditionbox">
 </div>
@@ -12,9 +12,9 @@
 <td>{$each_name}</td>
 {/foreach} *}
 
-<td>¶µ°÷Ì¾</td>
-<td>³«¹ÖÇ¯ÅÙ</td>
-<td>¼ø¶È¤Î¼ïÎà</td>
+<td>æ•™å“¡å</td>
+<td>é–‹è¬›å¹´åº¦</td>
+<td>æˆæ¥­ã®ç¨®é¡</td>
 </tr>
 
 <tr>
@@ -23,7 +23,7 @@
 {$each_name} 
 {/foreach}
 *}
-{*¤È¤ê¤¢¤¨¤º¼êÆ°¤ÇÉ½¼¨¤¹¤ë*}
+{*ã¨ã‚Šã‚ãˆãšæ‰‹å‹•ã§è¡¨ç¤ºã™ã‚‹*}
 <td>{html_options name = head_letter_of_instructor options=$option_arrays.head_letter_of_instructor selected=$selection.head_letter_of_instructor}</td>
 <td>{html_options name = year_selected options=$option_arrays.year_selected selected=$selection.year_selected }</td>
 <td>{html_options name = class_of_lecture options=$option_arrays.class_of_lecture selected=$selection.class_of_lecture }</td>
@@ -35,7 +35,7 @@
 <input type="image" src="./images/{$lang}/sort.png" 
 onMouseOver="this.src='./images/{$lang}/sort_on.png'" 
 onMouseOut="this.src='./images/{$lang}/sort.png'"
-name="sort" alt="¤³¤Î¾ò·ï¤Ç¹Ê¤ê¹ş¤à">
+name="sort" alt="ã“ã®æ¡ä»¶ã§çµã‚Šè¾¼ã‚€">
 </form>
 </div>
 {else}

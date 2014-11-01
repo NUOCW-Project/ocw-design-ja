@@ -1,6 +1,6 @@
-<!-- ����Site����ħ���� -->
+<!-- このSiteの特徴開始 -->
 <div class="about_left" id="about01">
-<img src="./images/{$lang}/t_01site.gif" alt="����Site�ˤĤ���">
+<img src="./images/{$lang}/t_01site.gif" alt="このSiteについて">
 </div>
 <div class="about_center">
 <div class="about_contents"> 
@@ -13,13 +13,13 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ����ƥ�ĥ��볫�� -->
-	<h1 class="about">��̾��μ��ȡ�</h1>
-	<p><span class="b">-���󥿡��ͥåȾ�ؤζ����̵������-</span></p>
-	<p>	̾�Ų����(��Ĺ ʿ���ð�)�ϡ����Ȥΰ��������ӡ������Ǽºݤ˻Ȥ��Ƥ��붵����ŻҲ������󥿡��ͥåȾ��̵������������Ȥ�ԤäƤ��ޤ���</p>
-	<p>����ϡ����ȶ���򥤥󥿡��ͥåȾ�Ǹ������뤳�Ȥǡ����ʤϳ��ָ��뤳�ȤΤǤ��ʤ�̾�Ų���ؤζ���ΰ�ü�򡢼Ҳ�ع�������ȯ�����褦�Ȥ����ΤǤ��������μ��ؼ�������Ȥ��Ƥγ��Ѥ����Ǥʤ��������ȳ����������ȳس��ԡ������ƶ���Ʊ�Τθ�ή�����󥿥饯��������Ԥ��Ƥ��ޤ���</p>
-	<p>���λ��Ȥϡ�̾�Ų���إ����ץ󥳡����������Ѱ��񤬱��Ĥ��Ƥ��ꡢ���ܥ����ץ󥳡��������������󥽡�������(JOCW)��Ϣ�Ȥ��Ƥ��ޤ���</p>
-	</div>	<!-- ����ƥ�ĥ��뽪λ -->
+	<div class="course_contents"><!-- コンテンツセル開始 -->
+	<h1 class="about">「名大の授業」</h1>
+	<p><span class="b">-インターネット上への教材の無償公開-</span></p>
+	<p>	名古屋大学(総長 平野眞一)は、授業の一部を選び、そこで実際に使われている教材を電子化しインターネット上で無償公開する事業を行っています。</p>
+	<p>これは、授業教材をインターネット上で公開することで、普段は垣間見ることのできない名古屋大学の教育の一端を、社会へ広く情報発信しようとするものです。学生の自学自習教材としての活用だけでなく、教員と学生、教員と学外者、そして教員同士の交流・インタラクションを期待しています。</p>
+	<p>この事業は、名古屋大学オープンコースウェア委員会が運営しており、日本オープンコースウェア・コンソーシアム(JOCW)と連携しています。</p>
+	</div>	<!-- コンテンツセル終了 -->
 
 	</td>
 	<td width="10" class="td_right"></td>
@@ -31,15 +31,15 @@
 </tr>
 
 </table>
-</div>  <!-- ���󥿡�����ƥ�Ľ�λ -->
+</div>  <!-- センターコンテンツ終了 -->
 
 </div>
 <div class="clear"></div>
-<!-- ����Site����ħ��λ -->
+<!-- このSiteの特徴終了 -->
 
-<!-- ��󥯳��� -->
+<!-- リンク開始 -->
 <div class="about_left" id="about02">
-<img src="./images/{$lang}/t_02link.gif" alt="���">
+<img src="./images/{$lang}/t_02link.gif" alt="リンク">
 </div>
 <div class="about_center">
 <div class="about_contents"> 
@@ -52,25 +52,25 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ����ƥ�ĥ��볫�� -->
+	<div class="course_contents"><!-- コンテンツセル開始 -->
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
-			<td class="center"><p><img src="./images/{$lang}/logo_nu.gif" alt="��Ω���ˡ�� ̾�Ų����"></p></td>
-			<td><p><a href="http://www.nagoya-u.ac.jp">̾�Ų����</a></p></td>
+			<td class="center"><p><img src="./images/{$lang}/logo_nu.gif" alt="国立大学法人 名古屋大学"></p></td>
+			<td><p><a href="http://www.nagoya-u.ac.jp">名古屋大学</a></p></td>
 		</tr>
 		<tr>
 			<td class="center_gray"><p><img src="./images/common/logo_ocwc.gif" alt="OpenCourseWare Consortium"></p></td>
-			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">�����ץ󥳡��������������󥽡�������</a></p></td>
+			<td class="left_gray"><p><a href="http://www.ocwconsortium.org/">オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		<tr>
 			<td class="center"><p><img src="./images/common/logo_jocw.gif" alt="Japan OCW Consortium"></p></td>
-			<td><p><a href="http://jocw.jp/">���ܥ����ץ󥳡��������������󥽡�������</a></p></td>
+			<td><p><a href="http://jocw.jp/">日本オープンコースウェア・コンソーシアム</a></p></td>
 		</tr>
 		</tbody>
 	</table>
 		
-	</div>	<!-- ����ƥ�ĥ��뽪λ -->
+	</div>	<!-- コンテンツセル終了 -->
 
 	</td>
 	<td width="10" class="td_right"></td>
@@ -82,15 +82,15 @@
 </tr>
 
 </table>
-</div>  <!-- ���󥿡�����ƥ�Ľ�λ -->
+</div>  <!-- センターコンテンツ終了 -->
 
 </div>
 <div class="clear"></div>
-<!-- ��󥯽�λ -->
+<!-- リンク終了 -->
 
-<!-- �����åվҲ𳫻� -->
+<!-- スタッフ紹介開始 -->
 <div class="about_left" id="about03">
-<img src="./images/{$lang}/t_03staff.gif" alt="�����åվҲ�">
+<img src="./images/{$lang}/t_03staff.gif" alt="スタッフ紹介">
 </div>
 <div class="about_center">
 <div class="about_contents"> 
@@ -103,31 +103,31 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ����ƥ�ĥ��볫�� -->
+	<div class="course_contents"><!-- コンテンツセル開始 -->
 	
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
-			<td colspan="2">��̾��μ��ȡפϡ������ǥ������饻�󥿡����������鸦�楻�󥿡�������Ϣ�ȴ��ץ��󥿡�����°�޽�ۤζ��ϤΤ�ȡ��ʤ�Ƥ�����ȤǤ���</td>
+			<td colspan="2">「名大の授業」は、情報メディア教育センター、高等教育研究センター、情報連携基盤センター、附属図書館の協力のもと、進めている事業です。</td>
 		</tr>
 		<tr>
 			<td class="separate" colspan="2"></td>
 		</tr>
 		<tr>
-			<td class="center"><p><img src="./images/common/i_01cims.gif" alt="�����ǥ������饻�󥿡�"></p></td>
-			<td><p><a href="http://www.media.nagoya-u.ac.jp/">�����ǥ������饻�󥿡�</a>�ϡ��ؽ�����γ�ȯ�ٱ�Ȥ������ѴĶ����󶡤��뤳�Ȥǡ�̾�Ų���ؤζ������ؽ��μ�����˼���Ȥ��ȿ��Ǥ���</p></td>
+			<td class="center"><p><img src="./images/common/i_01cims.gif" alt="情報メディア教育センター"></p></td>
+			<td><p><a href="http://www.media.nagoya-u.ac.jp/">情報メディア教育センター</a>は、学習教材の開発支援とその利用環境を提供することで、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_02cshe.gif" alt="�������鸦�楻�󥿡�"></p></td>
-			<td class="left_gray"><p><a href="http://www.cshe.nagoya-u.ac.jp/">�������鸦�楻�󥿡�</a>�ϡ���������˴ؤ��븦�桦��ȯ�˴�Ť���̾�Ų���ؤζ������ؽ��μ�����˼���Ȥ��ȿ��Ǥ���</p></td>
+			<td class="center_gray"><p><img src="./images/common/i_02cshe.gif" alt="高等教育研究センター"></p></td>
+			<td class="left_gray"><p><a href="http://www.cshe.nagoya-u.ac.jp/">高等教育研究センター</a>は、高等教育に関する研究・開発に基づき、名古屋大学の教授・学習の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
-			<td class="center"><p><img src="./images/common/i_03itc.gif" alt="����Ϣ�ȴ��ץ��󥿡�"></p></td>
-			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">����Ϣ�ȴ��ץ��󥿡�</a>�ϡ����Ū�ʾ�����פ��󶡤��뤳�Ȥǡ�̾�Ų���ؤζ��顦����μ�����˼���Ȥ��ȿ��Ǥ���</p></td>
+			<td class="center"><p><img src="./images/common/i_03itc.gif" alt="情報連携基盤センター"></p></td>
+			<td><p><a href="http://www.itc.nagoya-u.ac.jp/">情報連携基盤センター</a>は、先進的な情報基盤を提供することで、名古屋大学の教育・研究の質向上に取り組む組織です。</p></td>
 		</tr>
 		<tr>
-			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="��°�޽��"></p></td>
-			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">��°�޽��</a>�ϡ����跿�޽�۵�ǽ���Żҿ޽�۵�ǽ��ͻ�礷��������Ū�񻺤��󶡤��뤳�Ȥǡ�̾�Ų���ؤζ��顦����μ�����˼���Ȥ��ȿ��Ǥ���</p></td>
+			<td class="center_gray"><p><img src="./images/common/i_04nul.gif" alt="附属図書館"></p></td>
+			<td class="left_gray"><p><a href="http://www.nul.nagoya-u.ac.jp/">附属図書館</a>は、従来型図書館機能と電子図書館機能を融合し、その知的資産を提供することで、名古屋大学の教育・研究の質向上に取り組む組織です。</p></td>
 		</tr>
 
 		<tr>
@@ -135,77 +135,77 @@
 		</tr>
 
 		<tr>
-			<td colspan="2"><h1 class="about_committee">-̾�Ų���إ����ץ󥳡����������Ѱ���-</h1></td>
+			<td colspan="2"><h1 class="about_committee">-名古屋大学オープンコースウェア委員会-</h1></td>
 		</tr>
 		<tr>
-			<td class="right" colspan="2">2006ǯ12��1������</td>
+			<td class="right" colspan="2">2006年12月1日現在</td>
 		</tr>
 
 		<tr>
-			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="̾�Ų����OCW�Ѱ���"></p></td>
+			<td><p><img src="./images/{$lang}/i_staff01.jpg" alt="名古屋大学OCW委員会"></p></td>
 			<td>
 			<p>
-			[�Ѱ�Ĺ]����Ĺ ��������<br>
-			�����ǥ������饻�󥿡� ���󥿡�Ĺ ���ܰ���<br>
-			�����ǥ������饻�󥿡� ���� ���ӽӹ�<br>
-			�����ǥ������饻�󥿡� ���� �һ�����<br>
-			�����ǥ������饻�󥿡� ������ ��Τ����<br>
-			����Ϣ�ȴ��ץ��󥿡� ������ ���ľ���<br>
-			�������鸦�楻�󥿡� ������ ���Ӽ�<br>
-			�����ǥ������饻�󥿡� ������ ��ƣ����<br>
-			��°�޽�� ���泫ȯ�� ������ ������§<br>
-			�����ǥ������饻�󥿡� ���� ����δŵ<br>
-			�������������� ��ǥ������ݡ��� ������<br>
-			�������������� ��ǥ������ݡ��� �����Ҿ�<br>
-			<!-- OCW��̳�� ��̳�亴�� ��¼�û�<br> -->
-			OCW��̳�� ��̳�亴�� ����˧��<br>
-			OCW��̳�� ��̳�亴�� ƣ�濭��
+			[委員長]副総長 杉山寛行<br>
+			情報メディア教育センター センター長 山本一良<br>
+			情報メディア教育センター 教授 外池俊幸<br>
+			情報メディア教育センター 教授 片山正昭<br>
+			情報メディア教育センター 助教授 山里敬也<br>
+			情報連携基盤センター 助教授 梶田将司<br>
+			高等教育研究センター 助教授 中井俊樹<br>
+			情報メディア教育センター 助教授 後藤明史<br>
+			附属図書館 研究開発室 助教授 秋山晶則<br>
+			情報メディア教育センター 助手 西野隆典<br>
+			スタジオ管理室 メディアサポータ 原愛樹<br>
+			スタジオ管理室 メディアサポータ 江川智昭<br>
+			<!-- OCW事務室 事務補佐員 西村恵子<br> -->
+			OCW事務室 事務補佐員 浅野芳子<br>
+			OCW事務室 事務補佐員 藤井伸子
 			</p>
 		</tr>
 		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="̾�Ų����OCW WG"></p></td>
+			<td class="left_gray"><p><img src="./images/{$lang}/i_staff02.jpg" alt="名古屋大学OCW WG"></p></td>
 			<td class="left_gray">
 			<p>
-			�����ǥ������饻�󥿡� ������ ��Τ����<br>
-			����Ϣ�ȴ��ץ��󥿡� ������ ���ľ���<br>
-			�������鸦�楻�󥿡� ������ ���Ӽ�<br>
-			�����ǥ������饻�󥿡� ������ ��ƣ����<br>
-			��°�޽�� ���泫ȯ�� ������ ������§<br>
-			�����ǥ������饻�󥿡� ���� ����δŵ<br>
-			�������������� ��ǥ������ݡ��� ������<br>
-			�������������� ��ǥ������ݡ��� �����Ҿ�<br>
-			�����ǥ������饻�󥿡� ��̳�亴�� �����λ�<br>
-			�����ǥ������饻�󥿡� ��̳�亴�� ��ƣ�ػ�<br>
-			<!-- OCW��̳�� ��̳�亴�� ��¼�û�<br>-->
-			OCW��̳�� ��̳�亴�� ����˧��<br>
-			OCW��̳�� ��̳�亴�� ƣ�濭��
+			情報メディア教育センター 助教授 山里敬也<br>
+			情報連携基盤センター 助教授 梶田将司<br>
+			高等教育研究センター 助教授 中井俊樹<br>
+			情報メディア教育センター 助教授 後藤明史<br>
+			附属図書館 研究開発室 助教授 秋山晶則<br>
+			情報メディア教育センター 助手 西野隆典<br>
+			スタジオ管理室 メディアサポータ 原愛樹<br>
+			スタジオ管理室 メディアサポータ 江川智昭<br>
+			情報メディア教育センター 事務補佐員 小沢知子<br>
+			情報メディア教育センター 事務補佐員 加藤敦子<br>
+			<!-- OCW事務室 事務補佐員 西村恵子<br>-->
+			OCW事務室 事務補佐員 浅野芳子<br>
+			OCW事務室 事務補佐員 藤井伸子
 			</p>
 		</tr>
 		<tr>
-			<td><p><img src="./images/{$lang}/i_staff03.jpg" alt="̾�Ų����OCW���ݡ��ȥ����å�"></p></td>
+			<td><p><img src="./images/{$lang}/i_staff03.jpg" alt="名古屋大学OCWサポートスタッフ"></p></td>
 			<td>
 			<p>
-			­Ω����<br>
-			�����۰�<br>
-			�ո�����<br>
-			���쵱<br>
-			���繯��<br>
-			ϲ��ůɧ<br>
-			��ͳ����<br>
-			��߷��
+			足立真訓<br>
+			内田陽一<br>
+			春原雅志<br>
+			高井一輝<br>
+			中島康貴<br>
+			浪川哲彦<br>
+			林由紀子<br>
+			松澤希
 			</p>
 		</tr>
 		<tr>
-			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="�̿�����"></p></td>
+			<td class="left_gray"><p><img src="./images/{$lang}/i_staff04.jpg" alt="写真撮影"></p></td>
 			<td class="left_gray">
 			<p>
-			��ر����ظ���� ������ Ĺë���
+			大学院工学研究科 助教授 長谷川浩
 			</p>
 
 			<p>
-			[ ̾�Ų���ؼ̿��� ]<br>
-			��¼�ۻ�<br>
-			��ƣ����
+			[ 名古屋大学写真部 ]<br>
+			奥村陽子<br>
+			加藤昭信
 			</p>
 		</tr>
 		
@@ -213,7 +213,7 @@
 		</tbody>
 	</table>
 	
-	</div>	<!-- ����ƥ�ĥ��뽪λ -->
+	</div>	<!-- コンテンツセル終了 -->
 
 	</td>
 	<td width="10" class="td_right"></td>
@@ -225,5 +225,5 @@
 </tr>
 
 </table>
-</div>  <!-- ���󥿡�����ƥ�Ľ�λ -->
+</div>  <!-- センターコンテンツ終了 -->
 </div>

@@ -8,7 +8,7 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+	<div class="course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 	
     <p>The Nagoya University OpenCourseWare (NU OCW) is a Web site that provides access, in digital format, to some of the course materials actually used in the University's classes.</p>
 
@@ -26,7 +26,7 @@
 	<h3>Disclaimer of liability</h3>
 	<p>Nagoya University and its instructors make every effort to ensure that the materials posted on this site meet the University's academic standards in terms of accuracy and quality, but legally the University makes no guarantee whatsoever with respect to, but not limited to, accuracy, quality, fitness for any particular purpose, merchantability, or non-violation of rights. The University assumes no responsibility for any losses or damages that may arise from use of these materials.</p>
 	
-	</div>	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+	</div>	<!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 
 	</td>
 	<td width="10" class="td_right"></td>
@@ -38,4 +38,4 @@
 </tr>
 
 </table>
-</div>  <!-- ¥»¥ó¥¿¡¼¥³¥ó¥Æ¥ó¥Ä½ªÎ» -->
+</div>  <!-- ã‚»ãƒ³ã‚¿ãƒ¼ã‚³ãƒ³ãƒ†ãƒ³ãƒ„çµ‚äº† -->

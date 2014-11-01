@@ -5,10 +5,10 @@
 
 {if $lang=='ja'}
 <tr>
-<th width="50">1ʬ��<br>�Ҳ�</th>
-<th width="400">������̾(����ǯ��)</th>
-<th width="135">����̾</th>
-<th width="70">�ֵ�����<br>�ֵ��ӥǥ�</th>
+<th width="50">1分間<br>紹介</th>
+<th width="400">コース名(開講年度)</th>
+<th width="135">教員名</th>
+<th width="70">講義資料<br>講義ビデオ</th>
 </tr>
 {else}
 <tr>
@@ -26,7 +26,7 @@
 		<a href="{$each_course.url_flv}&amp;videoType=0"
 		onclick="openWin('{$each_course.url_flv}');return false;"
 		onkeypress="openWin('{$each_course.url_flv}');return false;"
-		title="������������ɥ��ǥӥǥ��򳫤��ޤ�">
+		title="新しいウィンドウでビデオを開きます">
 	<img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="video" width="50" height="37">
 		</a>
 	{else}

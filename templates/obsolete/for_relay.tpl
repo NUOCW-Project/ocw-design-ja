@@ -1,4 +1,4 @@
-{literal}{* ̾�Ų���إ�졼���ߥʡ��Υƥ�ץ졼�� *}{/literal}
+{literal}{* 名古屋大学リレーセミナーのテンプレート *}{/literal}
 {include file="com_header.tpl"}
 {include file="com_language.tpl"}
 {include file="com_header_menu.tpl"}

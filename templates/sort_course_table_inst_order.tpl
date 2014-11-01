@@ -4,10 +4,10 @@
 <table class = "sorttable" >
 <tr>
 {if $lang=='ja'}  
-<th width="50">1Ê¬´Ö<br>¾Ò²ğ</th>
-  <th width="400">¥³¡¼¥¹Ì¾(³«¹ÖÇ¯ÅÙ)</th>
-  <th width="135">¶µ°÷Ì¾</th>
-  <th width="70">¹ÖµÁ»ñÎÁ<br>¹ÖµÁ¥Ó¥Ç¥ª</th>
+<th width="50">1åˆ†é–“<br>ç´¹ä»‹</th>
+  <th width="400">ã‚³ãƒ¼ã‚¹å(é–‹è¬›å¹´åº¦)</th>
+  <th width="135">æ•™å“¡å</th>
+  <th width="70">è¬›ç¾©è³‡æ–™<br>è¬›ç¾©ãƒ“ãƒ‡ã‚ª</th>
 {elseif $lang=='en'}
 <th width="50">1min<br>Video</th>
   <th width="400">Course Name (Year)</th>
@@ -22,7 +22,7 @@
       <a href="{$each_course.url_flv}&amp;videoType=0"
        onclick="openWin('{$each_course.url_flv}&amp;videoType=0');return false;"
        onkeypress="openWin('{$each_course.url_flv}&amp;videoType=0');return false;"
-       title="¿·¤·¤¤¥¦¥£¥ó¥É¥¦¤ò³«¤­¤Ş¤¹">
+       title="æ–°ã—ã„ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‹ãã¾ã™">
       <img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="video" width="50" height="37">
       </a>
     {else}

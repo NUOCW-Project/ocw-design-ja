@@ -1,4 +1,4 @@
-{* TopicsÆÃÊÌÊÔ(¥µ¥Ş¡¼¥­¥ã¥ó¥×) ¤Î¥Æ¥ó¥×¥ì¡¼¥È *}
+{* Topicsç‰¹åˆ¥ç·¨(ã‚µãƒãƒ¼ã‚­ãƒ£ãƒ³ãƒ—) ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ *}
 {include file="com_header.tpl"}
   {include file="summercamp.tpl"}
 {include file="com_footer.tpl"}

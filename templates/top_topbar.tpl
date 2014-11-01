@@ -1,34 +1,34 @@
 {strip}
-<div class="topheader_edge"><!-- ∫«æÂ…Ù•ÿ•√•¿°º±¶√º…Ù ¨ -->
- <div class="{literal}{if $lang=='ja'}topheader{elseif $lang=='en'}topheader_en{/if}{/literal}" id="top"><!-- ∫«æÂ…Ù•ÿ•√•¿°º -->
+<div class="topheader_edge"><!-- ÊúÄ‰∏äÈÉ®„Éò„ÉÉ„ÉÄ„ÉºÂè≥Á´ØÈÉ®ÂàÜ -->
+ <div class="{literal}{if $lang=='ja'}topheader{elseif $lang=='en'}topheader_en{/if}{/literal}" id="top"><!-- ÊúÄ‰∏äÈÉ®„Éò„ÉÉ„ÉÄ„Éº -->
    <a href="./index.php?lang={$lang}" id="home_header"></a>
-    <div class="header_sub"><!-- ∫«æÂ…Ù•ÿ•√•¿°º≤ƒ∆∞∞Ë -->
-      <div class="header_button"><!-- ∫«æÂ…Ù•ÿ•√•¿°º§Œ•‹•ø•Û…Ù ¨ -->
+    <div class="header_sub"><!-- ÊúÄ‰∏äÈÉ®„Éò„ÉÉ„ÉÄ„ÉºÂèØÂãïÂüü -->
+      <div class="header_button"><!-- ÊúÄ‰∏äÈÉ®„Éò„ÉÉ„ÉÄ„Éº„ÅÆ„Éú„Çø„É≥ÈÉ®ÂàÜ -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
-        <img src="./images/common/h01sitemap.png" alt="{if $lang=='ja'}•µ•§•»•ﬁ•√•◊{else}Sitemap{/if}" 
+        <img src="./images/common/h01sitemap.png" alt="{if $lang=='ja'}„Çµ„Ç§„Éà„Éû„ÉÉ„Éó{else}Sitemap{/if}" 
              onMouseOver="this.src='./images/common/h01sitemap_on.png'" 
              onMouseOut="this.src='./images/common/h01sitemap.png'">
-        </a><!-- §™Ã‰§§πÁ§Ô§ª§Œ•Í•Û•Ø -->
+        </a><!-- „ÅäÂïè„ÅÑÂêà„Çè„Åõ„ÅÆ„É™„É≥„ÇØ -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">
-        <img src="./images/common/h02inquiry.png" alt="{if $lang=='ja'}§™Ã‰πÁ§ª{else}Inquiry{/if}" 
+        <img src="./images/common/h02inquiry.png" alt="{if $lang=='ja'}„ÅäÂïèÂêà„Åõ{else}Inquiry{/if}" 
              onMouseOver="this.src='./images/common/h02inquiry_on.png'"
              onMouseOut="this.src='./images/common/h02inquiry.png'">
-        </a><!-- •ÿ•Î•◊§ÿ§Œ•Í•Û•Ø -->
+        </a><!-- „Éò„É´„Éó„Å∏„ÅÆ„É™„É≥„ÇØ -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">
-        <img src="./images/common/h03help.png" alt="{if $lang=='ja'}•ÿ•Î•◊{else}Help{/if}" 
+        <img src="./images/common/h03help.png" alt="{if $lang=='ja'}„Éò„É´„Éó{else}Help{/if}" 
              onMouseOver="this.src='./images/common/h03help_on.png'" 
              onMouseout="this.src='./images/common/h03help.png'">
         </a>
-        <div class="header_button_sub"><!-- ∫«æÂ…Ù•ÿ•√•¿°º…Ù ¨§Ú£≤§ƒ§À ¨§±§ø -->
-          <!-- English•‹•ø•Û -->
+        <div class="header_button_sub"><!-- ÊúÄ‰∏äÈÉ®„Éò„ÉÉ„ÉÄ„ÉºÈÉ®ÂàÜ„ÇíÔºí„Å§„Å´ÂàÜ„Åë„Åü -->
+          <!-- English„Éú„Çø„É≥ -->
           {include file="com_lang.tpl"}
 
-	  <!-- GOOGLE∏°∫˜ -->
+	  <!-- GOOGLEÊ§úÁ¥¢ -->
 	  <div id="cse-search-form" style="width: 100%;">Loading</div>
 	  <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 	  <script src="./js/googleSearch_{$lang}.js" type="text/javascript"></script>
 	  <link rel="stylesheet" type="text/css" href="css/googleSearch.css">
-	  <!-- §≥§≥§ﬁ§« GOOGLE∏°∫˜ -->
+	  <!-- „Åì„Åì„Åæ„Åß GOOGLEÊ§úÁ¥¢ -->
 
           </div> <!-- "header_button_search" end -->
         </div><!-- "header_button_sub" end -->
@@ -37,9 +37,9 @@
   </div><!-- "header" end -->
 </div><!-- "topheader_edge" end --> 
 {/strip}
-<div class="main_back"><!--  ±¶¬¶…Ù ¨«ÿ∑  -->
-  <div class="main"><!-- ∫«æÂ…Ù•ÿ•√•¿°º∞ ≥∞ -->
+<div class="main_back"><!--  Âè≥ÂÅ¥ÈÉ®ÂàÜËÉåÊôØ -->
+  <div class="main"><!-- ÊúÄ‰∏äÈÉ®„Éò„ÉÉ„ÉÄ„Éº‰ª•Â§ñ -->
 
-{* google search§Œ∑Î≤Ã…Ωº®§Œdiv *}
+{* google search„ÅÆÁµêÊûúË°®Á§∫„ÅÆdiv *}
 <div id="cse" style="width:100%;z-index:10;"></div> 
-    <div id="package"> <!-- #contents«€√÷ƒ¥¿∞ firefox¬–±˛" -->
+    <div id="package"> <!-- #contentsÈÖçÁΩÆË™øÊï¥ firefoxÂØæÂøú" -->

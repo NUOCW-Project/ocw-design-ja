@@ -104,16 +104,16 @@
 {/literal}
 
 <title>
-<!-- ¥¿¥¤¥È¥ë¤Ë¹ÖµÁ¾ğÊó¤òÆş¤ì¤ë -->
+<!-- ã‚¿ã‚¤ãƒˆãƒ«ã«è¬›ç¾©æƒ…å ±ã‚’å…¥ã‚Œã‚‹ -->
 {section name=n loop=$navi_list step=-1}
 {$navi_list[n].text} |
 {/section}
 {if $lang=='ja'}
-Ì¾Âç¤Î¼ø¶È (NU OCW)
+åå¤§ã®æˆæ¥­ (NU OCW)
 {else}
 Nagoya University OpenCourseWare (NU OCW)
 {/if}
-<!-- ¤³¤³¤Ş¤Ç -->
+<!-- ã“ã“ã¾ã§ -->
 </title>
 </head>
 

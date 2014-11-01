@@ -1,55 +1,55 @@
 {strip}
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index">
 {if $page_format.tpl_name=='index'}
-  <img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag" alt="{if $lang=="ja"}¼ø¶È¥Û¡¼¥à{elseif $lang=="en"}Course Home{/if}">
+  <img src="./images/{$lang}/m01coursehome_hi.png" id="couesehome_tag" alt="{if $lang=="ja"}æˆæ¥­ãƒ›ãƒ¼ãƒ {elseif $lang=="en"}Course Home{/if}">
 {else}
-  <img src="./images/{$lang}/m01coursehome.png" id="couesehome_tag" alt="{if $lang=="ja"}¼ø¶È¥Û¡¼¥à{elseif $lang=="en"}Course Home{/if}" 
+  <img src="./images/{$lang}/m01coursehome.png" id="couesehome_tag" alt="{if $lang=="ja"}æˆæ¥­ãƒ›ãƒ¼ãƒ {elseif $lang=="en"}Course Home{/if}" 
        onMouseOver="this.src='./images/{$lang}/m01coursehome_on.png'" 
-       onMouseOut="this.src='./images/{$lang}/m01coursehome.png'"><!--¥¿¥°²èÁü¡Ö¼ø¶È¥Û¡¼¥à¡×-->
+       onMouseOut="this.src='./images/{$lang}/m01coursehome.png'"><!--ã‚¿ã‚°ç”»åƒã€Œæˆæ¥­ãƒ›ãƒ¼ãƒ ã€-->
 {/if}
   </a>
 
-{* Ì¾¸Å²°Âç³Ø¸ø³«¹ÖºÂ¤ÈºÇ½ª¹ÖµÁ¤Ï¹Ö»Õ¾Ò²ğ *}
+{* åå¤å±‹å¤§å­¦å…¬é–‹è¬›åº§ã¨æœ€çµ‚è¬›ç¾©ã¯è¬›å¸«ç´¹ä»‹ *}
 {if $course_info.department_abbr=='extension'|| $course_info.department_abbr=='farewell' || 
 	 $course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq ''}
  <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=f_intro">
 {if $page_format.tpl_name=='f_intro'}
-<img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="{if $lang=="ja"}¹Ö»Õ¾Ò²ğ{elseif $lang=="en"}{/if}">
+<img src="./images/{$lang}/m04_profile_hi.png" id="f_intro_tag" alt="{if $lang=="ja"}è¬›å¸«ç´¹ä»‹{elseif $lang=="en"}{/if}">
 {else}
- <img src="./images/{$lang}/m04_profile.png" alt="{if $lang=="ja"}¹Ö»Õ¾Ò²ğ{elseif $lang=="en"}{/if}" 
+ <img src="./images/{$lang}/m04_profile.png" alt="{if $lang=="ja"}è¬›å¸«ç´¹ä»‹{elseif $lang=="en"}{/if}" 
        onMouseOver="this.src='./images/{$lang}/m04_profile_on.png'" 
-       onMouseOut="this.src='./images/{$lang}/m04_profile.png'"><!--¥¿¥°²èÁü¡Ö¹Ö»Õ¾Ò²ğ¡×-->
+       onMouseOut="this.src='./images/{$lang}/m04_profile.png'"><!--ã‚¿ã‚°ç”»åƒã€Œè¬›å¸«ç´¹ä»‹ã€-->
 {/if}
 {/if}
   </a>
 
-{* ¹â¹»À¸¸ø³«¹ÖºÂ¤Ï¥·¥é¥Ğ¥¹¤Ê¤· *}
+{* é«˜æ ¡ç”Ÿå…¬é–‹è¬›åº§ã¯ã‚·ãƒ©ãƒã‚¹ãªã— *}
 {if $course_info.department_abbr!='extension' && $course_info.department_abbr!='sem' && $course_info.department_abbr!='farewell' &&
 	$course_info.department_abbr!='tefs' && $course_info.department_abbr!='agora' &&
 	 !($course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' eq '')}  
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=syllabus">
    {if $page_format.tpl_name=='syllabus'}
-<img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="{if $lang=="ja"}¥·¥é¥Ğ¥¹{elseif $lang=="en"}Syllabus{/if}">
+<img src="./images/{$lang}/m02syllabus_hi.png" id="syllabus_tag" alt="{if $lang=="ja"}ã‚·ãƒ©ãƒã‚¹{elseif $lang=="en"}Syllabus{/if}">
    {else}
-  <img src="./images/{$lang}/m02syllabus.png" alt="{if $lang=="ja"}¥·¥é¥Ğ¥¹{elseif $lang=="en"}Syllabus{/if}" 
+  <img src="./images/{$lang}/m02syllabus.png" alt="{if $lang=="ja"}ã‚·ãƒ©ãƒã‚¹{elseif $lang=="en"}Syllabus{/if}" 
        onMouseOver="this.src='./images/{$lang}/m02syllabus_on.png'" 
-       onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--¥¿¥°²èÁü¡Ö¥·¥é¥Ğ¥¹¡×-->
+       onMouseOut="this.src='./images/{$lang}/m02syllabus.png'"><!--ã‚¿ã‚°ç”»åƒã€Œã‚·ãƒ©ãƒã‚¹ã€-->
    {/if}
 {/if}
 </a>
 
-{* ¹ÖµÁ»ñÎÁ¤ËÉ½¼¨¤¹¤ë¾ğÊó¤¬Ìµ¤¤¥³¡¼¥¹¤Ë¤Ä¤¤¤Æ¤Ï¡¢¹ÖµÁ»ñÎÁ¤Î¥¿¥°¤òÉ½¼¨¤·¤Ê¤¤ *}
+{* è¬›ç¾©è³‡æ–™ã«è¡¨ç¤ºã™ã‚‹æƒ…å ±ãŒç„¡ã„ã‚³ãƒ¼ã‚¹ã«ã¤ã„ã¦ã¯ã€è¬›ç¾©è³‡æ–™ã®ã‚¿ã‚°ã‚’è¡¨ç¤ºã—ãªã„ *}
 
 {if $course_info.lectnotes == "f"}
 
 {else}
   <a href="./index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=materials">
 {if $page_format.tpl_name=='materials'}
-<img src="./images/{$lang}/m03resources_hi.png" id="materials_tag" alt="{if $lang=="ja"}¹ÖµÁ»ñÎÁ{elseif $lang=="en"}Resources{/if}">
+<img src="./images/{$lang}/m03resources_hi.png" id="materials_tag" alt="{if $lang=="ja"}è¬›ç¾©è³‡æ–™{elseif $lang=="en"}Resources{/if}">
 {else}
-  <img src="./images/{$lang}/m03resources.png" alt="{if $lang=="ja"}¹ÖµÁ»ñÎÁ{elseif $lang=="en"}Resources{/if}"
+  <img src="./images/{$lang}/m03resources.png" alt="{if $lang=="ja"}è¬›ç¾©è³‡æ–™{elseif $lang=="en"}Resources{/if}"
        onMouseOver="this.src='./images/{$lang}/m03resources_on.png'" 
-       onMouseOut="this.src='./images/{$lang}/m03resources.png'"><!--¥¿¥°²èÁü¡Ö¹ÖµÁ»ñÎÁ¡×-->
+       onMouseOut="this.src='./images/{$lang}/m03resources.png'"><!--ã‚¿ã‚°ç”»åƒã€Œè¬›ç¾©è³‡æ–™ã€-->
 {/if}
   </a>
 {/if}
@@ -57,16 +57,16 @@
 {/strip}
 <div class="fb-like" data-href="http://ocw.nagoya-u.jp/index.php?lang={$lang}&amp;mode=c&amp;id={$course_id}&amp;page_type=index" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
 <br>
-<img src="./images/common/redline.gif" id="line1" alt=""><!-- ¿åÊ¿Àş(¾å) -->
+<img src="./images/common/redline.gif" id="line1" alt=""><!-- æ°´å¹³ç·š(ä¸Š) -->
 
-{* ¼ø¶È¥Û¡¼¥à¤Î»ş¤Î¤ß¥³¡¼¥¹¾ğÊó¤òÉ½¼¨ *}
+{* æˆæ¥­ãƒ›ãƒ¼ãƒ ã®æ™‚ã®ã¿ã‚³ãƒ¼ã‚¹æƒ…å ±ã‚’è¡¨ç¤º *}
 {if $page_format.tpl_name=="index"}
 <div id="movie">
   {if $course_info.vsyllabus_rtmp != ''}
 <!--    <iframe src="{$course_info.vsyllabus_rtmp}#detalis_thumb_box" width="240px" height="240px" Frameborder="0" scrolling="no" style="zoom:50%" type="text/html" frameborder="0" border="0" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0"></iframe> -->
 {if $lang=='ja'}
-<a href="{$course_info.vsyllabus_rtmp}" target="_blank">¾Ò²ğÆ°²è¤òºÆÀ¸¤¹¤ë</a>
-<p>¸½ºßInternet Explorer11¤ÈGoogle Chrome¤Ë¤ÏÂĞ±ş¤·¤Æ¤ª¤ê¤Ş¤»¤ó¡£</p>
+<a href="{$course_info.vsyllabus_rtmp}" target="_blank">ç´¹ä»‹å‹•ç”»ã‚’å†ç”Ÿã™ã‚‹</a>
+<p>ç¾åœ¨Internet Explorer11ã¨Google Chromeã«ã¯å¯¾å¿œã—ã¦ãŠã‚Šã¾ã›ã‚“ã€‚</p>
 {else}
 <a href="{$course_info.vsyllabus_rtmp}" target="_blank">Playing a video.</a>
 {/if}
@@ -77,37 +77,37 @@
     
 <div id="caption">
   <div id="publisher">
-   <p> {if $lang=='ja'}³«¹ÖÉô¶É¡§{else}Department: {/if}{$course_info.department_name}</p>
+   <p> {if $lang=='ja'}é–‹è¬›éƒ¨å±€ï¼š{else}Department: {/if}{$course_info.department_name}</p>
     <p>{foreach from=$course_info.instructors item=instructor name=instructor}
       <span id="teacher">{$instructor.name}</span> <span id="occupation">{$instructor.position}</span>
        {if !$smarty.foreach.instructor.last}<br>{/if}
      {/foreach}</p>
   </div>
-<!-- ³«¹Ö¤·¤Æ¤¤¤Ê¤¤¼ø¶È¤Ë"¥¢¡¼¥«¥¤¥Ö"¤ÈÌÀµ­¤¹¤ë -->
+<!-- é–‹è¬›ã—ã¦ã„ãªã„æˆæ¥­ã«"ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–"ã¨æ˜è¨˜ã™ã‚‹ -->
 {if $course_info.archive == 't'}
   {if $lang=='ja'}
-<span style="background:#EE0000; color:#FFFFFF;">¥¢¡¼¥«¥¤¥Ö</span><!-- ¥³¡¼¥¹¥¿¥¤¥È¥ë¤Î¿§¤Ï #DD0000 -->
-<font color="#EE0000">¢¨¸½ºß¤³¤Î¹ÖµÁ¤Ï³«¹Ö¤µ¤ì¤Æ¤¤¤Ş¤»¤ó</font>
-  {else}<!-- ±Ñ¸ì¤Î¾ì¹ç¤ÎarchiveÉ½µ­ -->
+<span style="background:#EE0000; color:#FFFFFF;">ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–</span><!-- ã‚³ãƒ¼ã‚¹ã‚¿ã‚¤ãƒˆãƒ«ã®è‰²ã¯ #DD0000 -->
+<font color="#EE0000">â€»ç¾åœ¨ã“ã®è¬›ç¾©ã¯é–‹è¬›ã•ã‚Œã¦ã„ã¾ã›ã‚“</font>
+  {else}<!-- è‹±èªã®å ´åˆã®archiveè¡¨è¨˜ -->
 <span style="background:#FF0000; color:#FFFFFF;">archive</span>
   {/if}
 {/if}
   <h2>{$course_info.course_name}</h2>
       
-  <div id="data"><!-- ÇØ·Ê³¥¿§¤Î¥Ü¥Ã¥¯¥¹ -->
+  <div id="data"><!-- èƒŒæ™¯ç°è‰²ã®ãƒœãƒƒã‚¯ã‚¹ -->
   <table>
   <tr>
     {if $lang=='ja'}
-    <td width=65 align="right"><b>¼ø¶È»ş´Ö</b>¡§</td>
+    <td width=65 align="right"><b>æˆæ¥­æ™‚é–“</b>ï¼š</td>
     <td aline=left>{$course_info.year}{$course_info.meeting_time|nl2br}</td></tr>
     {if $course_info.class_is_for_ja}<tr>
-    <td width=65 align="right" valign="top"><b>ÂĞ¾İ¼Ô</b>¡§</td>
+    <td width=65 align="right" valign="top"><b>å¯¾è±¡è€…</b>ï¼š</td>
     <td>{$course_info.class_is_for_ja|nl2br}</td></tr>{/if}
     {if $course_info.f_date_ja}<tr>
-    <td width=65 align="right"><b>Æü»ş</b> ¡§</td>
+    <td width=65 align="right"><b>æ—¥æ™‚</b> ï¼š</td>
     <td>{$course_info.f_date_ja} {$course_info.f_time_ja}</td></tr>{/if}
     {if $course_info.f_place_ja}<tr>
-    <td widht=65 align="right"><b>¾ì½ê</b> ¡§</td>
+    <td widht=65 align="right"><b>å ´æ‰€</b> ï¼š</td>
     <td>{$course_info.f_place_ja}</td>{/if}
     {else}
     <td width=140 align="right"><b>Course Meeting Times</b> : </td>
@@ -137,30 +137,30 @@
   {/foreach}
 </div><!--"main_text" end-->
 
-{* Ì¾¸Å²°Âç³Ø¸ø³«¹ÖºÂ¤ÈºÇ½ª¹ÖµÁ°Ê³°¤Ç¤Ï¡¢¹¹¿·Æü¤ÈÃí°Õ½ñ¤­¤òÉ½¼¨ *}
+{* åå¤å±‹å¤§å­¦å…¬é–‹è¬›åº§ã¨æœ€çµ‚è¬›ç¾©ä»¥å¤–ã§ã¯ã€æ›´æ–°æ—¥ã¨æ³¨æ„æ›¸ãã‚’è¡¨ç¤º *}
 {if $course_info.department_abbr!='extension' && $course_info.department_abbr!='farewell' &&
     $course_info.department_abbr|regex_replace:'/^fw[0-9]+/':'' != ''}
-<img src="./images/common/redline.gif" id="line2" alt=""><!-- ¿åÊ¿Àş(²¼) -->
+<img src="./images/common/redline.gif" id="line2" alt=""><!-- æ°´å¹³ç·š(ä¸‹) -->
 
 <div id="release_date">
 {if $lang=='ja'}
-ºÇ½ª¹¹¿·Æü¡§{$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1Ç¯$2·î$3Æü'|default:'Ì¤¸ø³«'}
+æœ€çµ‚æ›´æ–°æ—¥ï¼š{$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1å¹´$2æœˆ$3æ—¥'|default:'æœªå…¬é–‹'}
 {else}
 Last update: {$course_info.release_date|regex_replace:'/^(\d+)-(\d+)-(\d+).*$/':'$1-$2-$3'|default:'Unpublished'}
 {/if}
 </div>
 
 <div id="release_disclaimer">
-{if $course_info.archive == 't'}<!-- ¥¢¡¼¥«¥¤¥Ö¤Î¾ì¹ç -->
+{if $course_info.archive == 't'}<!-- ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã®å ´åˆ -->
   {if $lang=='ja'}
-ºÇ½ª¹¹¿·Æü¤Î»şÅÀ¤Î¹ÖµÁÆâÍÆ¤Ç¸ø³«¤·¤Æ¤ª¤ê¤Ş¤¹¡£<br>
-¸½ºß¡¢¤³¤Î¹ÖµÁ¤Ï³«¹Ö¤µ¤ì¤Æ¤¤¤Ş¤»¤ó¡£
+æœ€çµ‚æ›´æ–°æ—¥ã®æ™‚ç‚¹ã®è¬›ç¾©å†…å®¹ã§å…¬é–‹ã—ã¦ãŠã‚Šã¾ã™ã€‚<br>
+ç¾åœ¨ã€ã“ã®è¬›ç¾©ã¯é–‹è¬›ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
   {else}
   {/if}
 {else}
   {if $lang=='ja'}
-ºÇ½ª¹¹¿·Æü¤Î»şÅÀ¤Î¹ÖµÁÆâÍÆ¤Ç¸ø³«¤ò¹Ô¤Ã¤Æ¤ª¤ê¤Ş¤¹¡£<br>
-ºÇ¿·Ç¯ÅÙ¤Î¹ÖµÁ¤ÈÆâÍÆ¤¬°Û¤Ê¤ë²ÄÇ½À­¤¬¤¢¤ê¤Ş¤¹¤Î¤Ç¤´Ãí°Õ¤¯¤À¤µ¤¤¡£
+æœ€çµ‚æ›´æ–°æ—¥ã®æ™‚ç‚¹ã®è¬›ç¾©å†…å®¹ã§å…¬é–‹ã‚’è¡Œã£ã¦ãŠã‚Šã¾ã™ã€‚<br>
+æœ€æ–°å¹´åº¦ã®è¬›ç¾©ã¨å†…å®¹ãŒç•°ãªã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã®ã§ã”æ³¨æ„ãã ã•ã„ã€‚
   {else} 
 "Last update" is most recent lecture information update. <br>
 The current course contents may differ from those published above.

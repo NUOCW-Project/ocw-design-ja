@@ -1,7 +1,7 @@
-<!-- ¥Ğ¥Ã¥¯¥Ê¥ó¥Ğ¡¼ °ÜÆ°¥Ê¥Ó -->
+<!-- ãƒãƒƒã‚¯ãƒŠãƒ³ãƒãƒ¼ ç§»å‹•ãƒŠãƒ“ -->
 <div class="pickup_bn_navi">
 {if $bn_index != 1}
-<a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id={$bn_index-1}">&lt;&lt; {if $lang=='ja'}Á°¤Ø{else}Back{/if}</a>
+<a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id={$bn_index-1}">&lt;&lt; {if $lang=='ja'}å‰ã¸{else}Back{/if}</a>
 {/if}
 
 {if $bn_size > 1}
@@ -25,11 +25,11 @@
 {/if}
 
 {if $bn_index != $bn_size}
-<a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id={$bn_index+1}"> &gt;&gt; {if $lang=='ja'}¼¡¤Ø{else}Next{/if}</a>
+<a href="index.php?lang={$lang}&amp;mode=p&amp;page_type=backnumber&amp;id={$bn_index+1}"> &gt;&gt; {if $lang=='ja'}æ¬¡ã¸{else}Next{/if}</a>
 {/if}
 </div>
 
-<!-- Pickup ¥Ğ¥Ã¥¯¥Ê¥ó¥Ğ¡¼ 1·ï³«»Ï -->
+<!-- Pickup ãƒãƒƒã‚¯ãƒŠãƒ³ãƒãƒ¼ 1ä»¶é–‹å§‹ -->
 {foreach from=$bn_list item=bn name=bn_loop}
 <div class="pickup_bn_left">
 <img src="./images/common/t_pickup0{$bn_list_size-$smarty.foreach.bn_loop.iteration+1}.gif" alt="">
@@ -46,14 +46,14 @@
 <tr>
   <td width="10" class="td_left"></td>
   <td class="td_contents">
-    <div class="course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+    <div class="course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 
-      <table class="center_contents" cellspacing="0" summary="{if $lang=='ja'}PICK UP¤Î¥¿¥¤¥È¥ë¤È¾ğÊó{else}TOPICS{/if}">
+      <table class="center_contents" cellspacing="0" summary="{if $lang=='ja'}PICK UPã®ã‚¿ã‚¤ãƒˆãƒ«ã¨æƒ…å ±{else}TOPICS{/if}">
         <tr>
         {strip}
           <td class="{if $lang=='ja'}pickup_contents_title{else}pickup_contents_title_wide{/if}">
           {if $bn.relation_id}<a class="pickup_title" href="index.php?lang={$lang}&amp;mode=c&amp;id={$bn.relation_id}">{/if}
-            {if $lang=='ja'}{$bn.title|default:"Ì¾ÂçOCW¤Ë¤Ä¤¤¤Æ¤Î¤ªÃÎ¤é¤»"|change_font_size:240:20}
+            {if $lang=='ja'}{$bn.title|default:"åå¤§OCWã«ã¤ã„ã¦ã®ãŠçŸ¥ã‚‰ã›"|change_font_size:240:20}
             {else}{$bn.title|default:"Announcement from NU OCW"|change_font_size:450:18}{/if}
           {if $bn.relation_id}</a>{/if}
           </td>
@@ -75,7 +75,7 @@
           </td>
         </tr>
       </table>
-  </div><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+  </div><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 	</td>
 	<td width="10" class="td_right"></td>
 </tr>
@@ -86,10 +86,10 @@
 </tr>
 
 </table>
-</div>  <!-- ¥»¥ó¥¿¡¼¥³¥ó¥Æ¥ó¥Ä½ªÎ» -->
+</div>  <!-- ã‚»ãƒ³ã‚¿ãƒ¼ã‚³ãƒ³ãƒ†ãƒ³ãƒ„çµ‚äº† -->
 </div>
 
 <div class="clear"></div>
 {/foreach}
-<!-- Pickup ¥Ğ¥Ã¥¯¥Ê¥ó¥Ğ¡¼ 1·ï½ªÎ» -->
+<!-- Pickup ãƒãƒƒã‚¯ãƒŠãƒ³ãƒãƒ¼ 1ä»¶çµ‚äº† -->
 

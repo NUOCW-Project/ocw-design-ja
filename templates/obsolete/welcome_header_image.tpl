@@ -1,8 +1,8 @@
-<!-- ¥Ø¥Ã¥À¡¼²èÁü(Ãæ¿È¤Ï¥Æ¡¼¥Ö¥ë) -->
+<!-- ãƒ˜ãƒƒãƒ€ãƒ¼ç”»åƒ(ä¸­èº«ã¯ãƒ†ãƒ¼ãƒ–ãƒ«) -->
 <div class="header_image">
-<table class ="header" width="650" border="0" cellPadding="0" cellSpacing="0" summary="{if $lang=='ja'}¥Ø¥Ã¥À¡¼ÉôÊ¬²èÁü{else}header{/if}">
+<table class ="header" width="650" border="0" cellPadding="0" cellSpacing="0" summary="{if $lang=='ja'}ãƒ˜ãƒƒãƒ€ãƒ¼éƒ¨åˆ†ç”»åƒ{else}header{/if}">
 <tr>
-	<td><img src="./images/{$lang}/p01welcome{ldelim}$time_zone{rdelim}.jpg" alt="{if $lang=='ja'}¤è¤¦¤³¤½Ì¾Âç¤Î¼ø¶È¤Ø{else}Welcome to NU OCW{/if}" width="650" height="165"></td>
+	<td><img src="./images/{$lang}/p01welcome{ldelim}$time_zone{rdelim}.jpg" alt="{if $lang=='ja'}ã‚ˆã†ã“ãåå¤§ã®æŽˆæ¥­ã¸{else}Welcome to NU OCW{/if}" width="650" height="165"></td>
 </tr>
 </table>
 </div>

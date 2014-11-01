@@ -1,4 +1,4 @@
-<!-- ¤³¤ÎSite¤ÎÆÃÄ§³«»Ï -->
+<!-- ã“ã®Siteã®ç‰¹å¾´é–‹å§‹ -->
 <div class="about_left" id="about01">
 <img src="./images/{$lang}/t_01site.gif" alt="About this site">
 </div>
@@ -13,14 +13,14 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+	<div class="course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 
 	<h1 class="about">The Nagoya University OpenCourseWare brings free courseware to the Internet</h1>
 	<p>The President of Nagoya University, Michinari Hamaguchi, has launched a program to convert teaching materials used in selected courses into digital format and make them available to the public at no charge over the Internet.</p>
 	<p>By thus posting course materials on the Web, the University offers the public a rare glimpse into its classrooms. The site will, it is hoped, help enrolled students engaged in self-directed study, plus promote communication and interaction not only between instructors and students and among instructors themselves, but between instructors and non-members of the University community as well.</p>
 	<p>This project is administered by the Nagoya University OpenCourseWare Committee and has been prepared in partnership with the Japan OpenCourseWare Consortium (JOCW), founded in May 2005.</p>
 
-	</div>	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+	</div>	<!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 
 	</td>
 	<td width="10" class="td_right"></td>
@@ -32,13 +32,13 @@
 </tr>
 
 </table>
-</div>  <!-- ¥»¥ó¥¿¡¼¥³¥ó¥Æ¥ó¥Ä½ªÎ» -->
+</div>  <!-- ã‚»ãƒ³ã‚¿ãƒ¼ã‚³ãƒ³ãƒ†ãƒ³ãƒ„çµ‚äº† -->
 
 </div>
 <div class="clear"></div>
-<!-- ¤³¤ÎSite¤ÎÆÃÄ§½ªÎ» -->
+<!-- ã“ã®Siteã®ç‰¹å¾´çµ‚äº† -->
 
-<!-- ¥ê¥ó¥¯³«»Ï -->
+<!-- ãƒªãƒ³ã‚¯é–‹å§‹ -->
 <div class="about_left" id="about02">
 <img src="./images/{$lang}/t_02link.gif" alt="Link">
 </div>
@@ -53,7 +53,7 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+	<div class="course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 	<table class="center_contents" width="435">
 		<tbody>
 		<tr>
@@ -71,7 +71,7 @@
         </tbody>
     </table>
 		
-	</div>	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+	</div>	<!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 
 	</td>
 	<td width="10" class="td_right"></td>
@@ -83,13 +83,13 @@
 </tr>
 
 </table>
-</div>  <!-- ¥»¥ó¥¿¡¼¥³¥ó¥Æ¥ó¥Ä½ªÎ» -->
+</div>  <!-- ã‚»ãƒ³ã‚¿ãƒ¼ã‚³ãƒ³ãƒ†ãƒ³ãƒ„çµ‚äº† -->
 
 </div>
 <div class="clear"></div>
-<!-- ¥ê¥ó¥¯½ªÎ» -->
+<!-- ãƒªãƒ³ã‚¯çµ‚äº† -->
 
-<!-- ¥¹¥¿¥Ã¥Õ¾Ò²ð³«»Ï -->
+<!-- ã‚¹ã‚¿ãƒƒãƒ•ç´¹ä»‹é–‹å§‹ -->
 <div class="about_left" id="about03">
 <img src="./images/{$lang}/t_03staff.gif" alt="About the Site Staff">
 </div>
@@ -104,7 +104,7 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+	<div class="course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 	
 	<table class="center_contents" width="435">
 		<tbody>
@@ -231,7 +231,7 @@
 		</tbody>
 	</table>
 	
-	</div>	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+	</div>	<!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 
 	</td>
 	<td width="10" class="td_right"></td>
@@ -243,5 +243,5 @@
 </tr>
 
 </table>
-</div>  <!-- ¥»¥ó¥¿¡¼¥³¥ó¥Æ¥ó¥Ä½ªÎ» -->
+</div>  <!-- ã‚»ãƒ³ã‚¿ãƒ¼ã‚³ãƒ³ãƒ†ãƒ³ãƒ„çµ‚äº† -->
 </div>

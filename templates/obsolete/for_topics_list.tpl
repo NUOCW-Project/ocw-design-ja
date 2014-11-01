@@ -1,4 +1,4 @@
-{literal}{* ¡ÖTOPICS°ìÍ÷¡×¤Î¥Æ¥ó¥×¥ì¡¼¥È *}{/literal}
+{literal}{* ã€ŒTOPICSä¸€è¦§ã€ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ *}{/literal}
 {include file="com_header.tpl"}
 {include file="com_language.tpl"}
 {include file="com_header_menu.tpl"}

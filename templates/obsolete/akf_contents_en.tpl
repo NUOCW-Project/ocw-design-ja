@@ -8,7 +8,7 @@
 <tr>
 	<td width="10" class="td_left"></td>
 	<td class="td_contents">    
-	<div class="course_contents"><!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë³«»Ï -->
+	<div class="course_contents"><!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«é–‹å§‹ -->
 	
 	<h1 class="akf">-What is `AKF Search'?-</h1>
 	<p>AKF (Academic Knowledge Factory) is a database service provided by the Nagoya University library. With AKF search, you can look up multiple digitalized data at once!
@@ -37,7 +37,7 @@
 	</ul></li>
 	</ol>
 
-	</div>	<!-- ¥³¥ó¥Æ¥ó¥Ä¥»¥ë½ªÎ» -->
+	</div>	<!-- ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚»ãƒ«çµ‚äº† -->
 
 	</td>
 	<td width="10" class="td_right"></td>
@@ -49,4 +49,4 @@
 </tr>
 
 </table>
-</div>  <!-- ¥»¥ó¥¿¡¼¥³¥ó¥Æ¥ó¥Ä½ªÎ» -->
+</div>  <!-- ã‚»ãƒ³ã‚¿ãƒ¼ã‚³ãƒ³ãƒ†ãƒ³ãƒ„çµ‚äº† -->

@@ -1,4 +1,4 @@
-<!-- Ì¾Âç¤Î¼ø¶È¤Ë¤Ä¤¤¤Æleft¥á¥Ë¥å¡¼ -->
+<!-- åå¤§ã®æˆæ¥­ã«ã¤ã„ã¦leftãƒ¡ãƒ‹ãƒ¥ãƒ¼ -->
 <div id="podcast">
 <div id="podcast_waku">
 <div id="aboutpodcast_image">
@@ -7,9 +7,9 @@
 <div id="aboutpodcast_sentence">
 {if $lang=='ja'}
 	<a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/vs.png" alt="RSS"></a>
-	¤ò iTunes ¤Î "Podcast" ¤Ë¥É¥é¥Ã¥°¡õ¥É¥í¥Ã¥×¤¹¤ë¤È¡¢¥İ¥Ã¥É¥­¥ã¥¹¥È¤¬ÅĞÏ¿¤µ¤ì¤Ş¤¹¡£
+	ã‚’ iTunes ã® "Podcast" ã«ãƒ‰ãƒ©ãƒƒã‚°ï¼†ãƒ‰ãƒ­ãƒƒãƒ—ã™ã‚‹ã¨ã€ãƒãƒƒãƒ‰ã‚­ãƒ£ã‚¹ãƒˆãŒç™»éŒ²ã•ã‚Œã¾ã™ã€‚
 <br>
-	¡ÊiTunes¤ÏºÇ¿·ÈÇ¤ò¤ª»È¤¤¤¯¤À¤µ¤¤¡Ë
+	ï¼ˆiTunesã¯æœ€æ–°ç‰ˆã‚’ãŠä½¿ã„ãã ã•ã„ï¼‰
 {elseif $lang=='en'}
  To save video clips on iTunes Podcast, drag &amp; drop <a href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus_en.xml"><img src="./images/common/vs.png" ></a> icon to `podcast'. (Please use current version of iTunes.)
 {/if}

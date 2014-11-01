@@ -1,4 +1,4 @@
-{* �֥إ��(FAQ)�פΥƥ�ץ졼�� *}
+{* 「ヘルプ(FAQ)」のテンプレート *}
 {include file="com_header.tpl"}
 {if $lang =="ja"}
   {include file="faq_contents.tpl"}

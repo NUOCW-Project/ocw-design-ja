@@ -1,4 +1,4 @@
-<div class="course_contents"><!-- Ãæ³Ë¤Î¥Ü¥Ã¥¯¥¹ -->
+<div class="course_contents"><!-- ä¸­æ ¸ã®ãƒœãƒƒã‚¯ã‚¹ -->
 <div id="main_text">
 	
 	<div class="faq_normal">
@@ -67,4 +67,4 @@
 	
 	</div>
 
-</div>  <!-- ¥»¥ó¥¿¡¼¥³¥ó¥Æ¥ó¥Ä½ªÎ» -->
+</div>  <!-- ã‚»ãƒ³ã‚¿ãƒ¼ã‚³ãƒ³ãƒ†ãƒ³ãƒ„çµ‚äº† -->

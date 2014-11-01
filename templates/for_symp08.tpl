@@ -115,26 +115,26 @@ li{ margin: 0em 2em 0em 2em; padding: 0.5em; text-align: left;
 line-height: 180%; font-size: 95%;
 }
 
-/*--------�������--------*/
-tr.table_white {/*������طʤ���ˤ��롣��֤򳫤���*/
+/*--------白の列用--------*/
+tr.table_white {/*セルの背景を白にする。隙間を開ける*/
     padding: 2px;
     background-color: #FFFFFF;
 }
-tr.table_white td {/*ʸ�����ˤ���*/
+tr.table_white td {/*文字を紫にする*/
     color: #6666aa
 }
-tr.table_white a {/*��󥯤�ʸ�����ˤ��롣�����ʤ�*/
+tr.table_white a {/*リンクの文字を紫にする。下線なし*/
     text-decoration: none;
     color: #6666aa;
 }
-tr.table_white a:active {/*����å��νִ�*/
+tr.table_white a:active {/*クリックの瞬間*/
     text-decoration: none;
 }
-tr.table_white a:visited {/*ˬ��Ѥߥ��*/
+tr.table_white a:visited {/*訪問済みリンク*/
     text-decoration: none;
     color: #00BBFF
 }
-tr.table_white a:hover {/*�ޥ��������С�*/
+tr.table_white a:hover {/*マウスオーバー*/
     text-decoration: underline;
 }
 
@@ -162,14 +162,14 @@ function playFLV(numItem) {ldelim}
 </script>{/literal}
 
 <title>
-̾��μ��� Nagoya University OpenCourseWare || ̾�Ų����OCW����ݥ�����2008
+名大の授業 Nagoya University OpenCourseWare || 名古屋大学OCWシンポジウム2008
 </title>
 </head>
 <body>
 <div class="all">
 
 <div class="logo">
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top"><img src="./images/ja/toplogo.jpg" width="275" height="54" alt="̾��μ��� HOME"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=top"><img src="./images/ja/toplogo.jpg" width="275" height="54" alt="名大の授業 HOME"></a>
 
 </div>
 
@@ -178,14 +178,14 @@ function playFLV(numItem) {ldelim}
 <br>
 {literal}
 {strip}
-  <img src="./images/ja/size.gif" alt="ʸ��������">
+  <img src="./images/ja/size.gif" alt="文字サイズ">
   {if ! isset($smarty.session.fontsize) || $smarty.session.fontsize == "s"}
     <a href="select_fontsize.php?fontsize=l">
-    <img src="./images/ja/size_l.gif" alt="��"></a><img src="./images/ja/size_s.gif" alt="��">
+    <img src="./images/ja/size_l.gif" alt="大"></a><img src="./images/ja/size_s.gif" alt="小">
   {/if}
   {if $smarty.session.fontsize == "l"}
-    <img src="./images/ja/size_l.gif" alt="��">
-    <a href="select_fontsize.php?fontsize=s"><img src="./images/ja/size_s.gif" alt="��"></a>
+    <img src="./images/ja/size_l.gif" alt="大">
+    <a href="select_fontsize.php?fontsize=s"><img src="./images/ja/size_s.gif" alt="小"></a>
   {/if}
 {/strip}
 {/literal}
@@ -194,18 +194,18 @@ function playFLV(numItem) {ldelim}
 
 
 <div class="header_menu">
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/ja/01about.gif" alt="|̾��μ��ȤˤĤ���|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=legal"><img src="./images/ja/02legal.gif" alt="|�����Ѥˤ����ä�|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=inquiry"><img src="./images/ja/03inq.gif" alt="|�����碌|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=faq"><img src="./images/ja/04faq.gif" alt="|�إ��(FAQ)|"></a>
-<a href="index.php?lang=ja&amp;mode=g&amp;page_type=akf"><img src="./images/ja/05akf.gif" alt="|AKF����|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=about"><img src="./images/ja/01about.gif" alt="|名大の授業について|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=legal"><img src="./images/ja/02legal.gif" alt="|ご利用にあたって|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=inquiry"><img src="./images/ja/03inq.gif" alt="|お問合わせ|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=faq"><img src="./images/ja/04faq.gif" alt="|ヘルプ(FAQ)|"></a>
+<a href="index.php?lang=ja&amp;mode=g&amp;page_type=akf"><img src="./images/ja/05akf.gif" alt="|AKF検索|"></a>
 </div>
 
 <div class="header_image">
-<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="�إå�����ʬ����">
+<table class ="header" width="650" border="0" cellpadding="0" cellspacing="0" summary="ヘッダー部分画像">
 <tr>
   <td>
-  <img src="./images/ja/symp08_title.gif" alt="̾�Ų����OCW����ݥ����� ��ͥ�줿���������ɤΤ褦�˸������ƶ�ͭ����Τ���">
+  <img src="./images/ja/symp08_title.gif" alt="名古屋大学OCWシンポジウム —優れた教育実践をどのように公開して共有するのか—">
   </td>
 </tr>
 </table>
@@ -213,187 +213,187 @@ function playFLV(numItem) {ldelim}
 
 <div class="navi">
 <a href="index.php?lang=ja&amp;mode=g&amp;page_type=top">HOME</a>
-      &gt; ̾�Ų����OCW����ݥ�����2008
+      &gt; 名古屋大学OCWシンポジウム2008
   
 </div>
 
 <div id="symp_contents">
 <dl id="info">
-<dt>������</dt> <dd>2008ǯ7��22���ʲС�10:00��14:00</dd>
-<dt>�����</dt> <dd>̾�Ų������͵�ǰ�ؽѸ�ή�ۡ�����ե���󥹥ۡ���
+<dt>●日時</dt> <dd>2008年7月22日（火）10:00〜14:00</dd>
+<dt>●場所</dt> <dd>名古屋大学野依記念学術交流館　カンファレンスホール
 </dd>
 
-<dt>���о�</dt> <dd>�ɤʤ��Ǥ⻲�äǤ��ޤ�������̵���Ǥ���</dd>
-<dt>��������ˡ</dt>
-<dd><a href="https://www.media.nagoya-u.ac.jp/symp08/regist.php">���ÿ����ե�����</a>��ꤪ�������߲�������</dd>
+<dt>●対象</dt> <dd>どなたでも参加できます。入場無料です。</dd>
+<dt>●申込方法</dt>
+<dd><a href="https://www.media.nagoya-u.ac.jp/symp08/regist.php">参加申込フォーム</a>よりお申し込み下さい。</dd>
 </dl>
 
 <div class="line">
 </div>
-<h2>��̾�Ų����OCW����ݥ�����򳫺Ť��ޤ�</h2>
-<p>̾�Ų���إ����ץ󥳡����������Ѱ���Ǥϡ��ܳؤμ��Ȥΰ��������ӡ������Ǽºݤ˻Ȥ��Ƥ��붵����ŻҲ������󥿡��ͥåȾ��̵���Ǹ��������<a href="http://ocw.nagoya-u.jp" alt="̾��μ���">̾��μ���</a>�פȸƤ֥����Ȥ򱿱Ĥ��Ƥ��ޤ���
-���Υ����ȤǤϡ�����Ĺ��������Τʤ�̾�Ų���ؤ�ͥ�줿���ȶ��ब�����ʾ��Ǻܤ���Ƥ��ꡤ�ޤ�����ô�������ˤ��֣�ʬ�ּ��ȾҲ�ӥǥ��פ���Ȥ��Ф��빩�ס��פ����񤤤Ƥ���ּ��Ȥι��ספ⤴���ˤ��������ޤ���</p>
-<p>���Τ褦�ˡ�ͥ�줿���ȶ��ࡦ���������������뤳�Ȥϡ����ʤϳ��ָ��뤳�ȤΤǤ��ʤ�̾�Ų���ؤζ���ΰ�ü��Ҳ�ع�������ȯ���Ǥ�������Ǥʤ�������β����ˤ�Ĥʤ����Τȴ��Ԥ���Ƥ��ޤ���</p>
-<p>���Υ���ݥ�����Ǥϡ�ͥ�줿���������ɤΤ褦�˸������ƶ�ͭ����Τ��פ�ơ��ޤˣ�̾�ιֻդ������ˤ��ֱ餤���������Ǹ�˥ѥͥ�ǥ������å�����Ԥ��ޤ���</p>
-<p>��������γ��ͤλ��ä��Ԥ����Ƥ���ޤ���</p>
+<h2>＊名古屋大学OCWシンポジウムを開催します</h2>
+<p>名古屋大学オープンコースウェア委員会では，本学の授業の一部を選び，そこで実際に使われている教材を電子化しインターネット上で無償で公開する「<a href="http://ocw.nagoya-u.jp" alt="名大の授業">名大の授業</a>」と呼ぶサイトを運営しています．
+このサイトでは，部局長推薦よるものなど名古屋大学の優れた授業教材が５０以上も掲載されており，また，各担当教員による「１分間授業紹介ビデオ」や授業に対する工夫・思いが書いてある「授業の工夫」もご覧にいただけます．</p>
+<p>このように，優れた授業教材・教育実践を公開することは，普段は垣間見ることのできない名古屋大学の教育の一端を社会へ広く情報発信できるだけでなく，教育の改善にもつながるものと期待されています．</p>
+<p>このシンポジウムでは「優れた教育実践をどのように公開して共有するのか」をテーマに３名の講師の方々にご講演いただき，最後にパネルディスカッションを行います．</p>
+<p>たくさんの皆様の参加をお待ちしております．</p>
 
-<h2>��MIT������ؤΥ��󥿥ӥ塼</h2>
+<h2>＊MIT宮川教授へのインタビュー</h2>
 
-<p>̾�Ų����OCW����ݥ��������Ω�����ޥ����塼���åĹ�����ء�MIT�ˤε�����إ��󥿥ӥ塼��Ԥ��ޤ�����</p>
-<p>���������ϡ�MIT��OCW�ץ���������ȯ­���餫����濴���С��Ȥ��Ƴ�������Ƥ��ꥪ���ץ󥳡�����������OCW�ˤ���ڤ˸���������Ū�˳�ư����Ƥ��ޤ���</p>
-<p>���󥿥ӥ塼�ϣ��������ˤʤäƤ���ޤ���
-��Ͽ��ʿ��20ǯ7��1���˹Ԥ��ޤ��������󥿥ӥ塼������̾�Ų���ؾ����ǥ������饻�󥿡�����ǥ����ץ��ǥ塼�����α���������Ǥ���</p>
+<p>名古屋大学OCWシンポジウムに先立ち，マサチューセッツ工科大学（MIT）の宮川教授へインタビューを行いました．</p>
+<p>宮川先生は，MITのOCWプロジェクト発足当初からの中心メンバーとして活躍されておりオープンコースウェア（OCW）の普及に向けて精力的に活動されています．</p>
+<p>インタビューは２部構成になっております．
+収録は平成20年7月1日に行いました，インタビューアーは名古屋大学情報メディア教育センター・メディアプロデューサーの宇佐美さんです．</p>
 <ul>
-<li>�ʤ� MIT �� OCW ��Ϥ᤿�ΤǤ��礦����
-<br>�ʤ�̵���Ƕ����������뤳�Ȥˤʤä��ΤǤ��礦����<br>
+<li>なぜ MIT は OCW を始めたのでしょうか？
+<br>なぜ無償で教材を公開することになったのでしょうか？<br>
 	 <table width="360" border="0">
 	  <tr class=table_white>
 	   <td align="right">
 		<a href="javaScript:playFLV(126)">
-		<img src="./images/ja/symp08_miyagawa1.jpg" alt="�����������󥿥ӥ塼��"></a></td>
-		<td>��<a href="javaScript:playFLV(126)">Flash</a>
-		<br>��<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
-	   <br>����11ʬ13�á�</td>
+		<img src="./images/ja/symp08_miyagawa1.jpg" alt="宮川先生インタビュー１"></a></td>
+		<td>　<a href="javaScript:playFLV(126)">Flash</a>
+		<br>　<a href="http://133.6.80.135/StudioCannel/SC00128_20080701.mp4">MPEG4</a>
+	   <br>　（11分13秒）</td>
 	  </tr>
 	 </table>
-<li>OCW ��Ϥ��ˤ����ꡤ�ɤΤ褦�ʤ��Ȥ�����ˤʤ�ޤ�������
-<br>MIT��OCW�ϡ����θ�ɤΤ褦��Ÿ�����Ƥ��ä��ΤǤ��礦����
+<li>OCW を始めるにあたり，どのようなことが問題になりましたか？
+<br>MITのOCWは，その後どのように展開していったのでしょうか？
 	 <table width="360" border="0">
       <tr class=table_white>
         <td align="right">
 		 <a href="javaScript:playFLV(127)">
-		 <img src="./images/ja/symp08_miyagawa2.jpg" alt="�����������󥿥ӥ塼��"></a></td>
-		<td>��<a href="javaScript:playFLV(127)">Flash</a>
-		<br>��<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
-	   <br>����09ʬ02�á�</td>
+		 <img src="./images/ja/symp08_miyagawa2.jpg" alt="宮川先生インタビュー２"></a></td>
+		<td>　<a href="javaScript:playFLV(127)">Flash</a>
+		<br>　<a href="http://133.6.80.135/StudioCannel/SC00129_20080701.mp4">MPEG4</a>
+	   <br>　（09分02秒）</td>
       </tr>
 	 </table>
 </ul>
 
 
-<h2>���ץ������</h2>
+<h2>＊プログラム</h2>
 
 <table id="program">
 <tr>
 <td class="time">10:00 - 10:05</td>
-<td class="talk"><span class="title">����������</span><br>
-         �� �������Զ��� ��̾�Ų���������ʶ���ط�ô���ˡ�
+<td class="talk"><span class="title">ごあいさつ</span><br>
+         — 杉山寛行教授 （名古屋大学理事（教育関係担当））
 </td>
 </tr>
 
 <tr>
 <td class="time">10:05 - 10:50</td>
-<td class="talk"><span class="title">OCW�ˤĤ��ơʲ����</span><br>
-         �� �����˶����ʥޥ����塼���åĹ�����ء�
+<td class="talk"><span class="title">OCWについて（仮題）</span><br>
+         — 宮川繁教授（マサチューセッツ工科大学）
 </td>
 </tr>
 
 <tr>
 <td class="time">10:50 - 11:20</td>
-<td class="talk"><span class="title">�ؽ�����ƥ�Ķ�ͭ�����Ѥκǿ�ư����<br>
-        �����ΰյ�������Ū�׷��³��ǽ����ڥ�ǥ�</span><br>
-         �� ���Ĺ��׶����ʥ�ǥ������鳫ȯ���󥿡���
+<td class="talk"><span class="title">学習コンテンツ共有再利用の最新動向：<br>
+        　その意義、技術的要件、持続可能な普及モデル</span><br>
+         — 山田恒夫教授（メディア教育開発センター）
 </td>
 </tr>
 
 <tr>
 <td class="time">11:20 - 11:50</td>
-<td class="talk"><span class="title">̾�Ų���ؤ����ܸ춵��ˤ����륪��饤�󶵺�γ���</span><br>
-         �� �к�ӻҽڶ�����̾�Ų����α�������󥿡���
+<td class="talk"><span class="title">名古屋大学の日本語教育におけるオンライン教材の活用</span><br>
+         — 石崎俊子准教授（名古屋大学留学生センター）
 </td>
 </tr>
 
 <tr>
 <td class="time">11:50 - 13:00</td>
-<td class="talk">�ٷ�</td>
+<td class="talk">休憩</td>
 </tr>
 
 <tr>
 <td class="time">13:00 - 14:00</td>
-<td class="talk"><span class="title">ͥ�줿���������ɤΤ褦�˸������ƶ�ͭ����Τ�</span><br>
-       ��  �ֱ�Ԥ����̾�Ų���شط��Ԥˤ��ѥͥ�Ƥ����
+<td class="talk"><span class="title">優れた教育実践をどのように公開して共有するのか</span><br>
+       —  講演者および名古屋大学関係者によるパネル討論会
 </td>
 </tr>
 </table>
 
-<h2>���ֱ�ԥץ��ե�����</h2>
-<h3>������ ����</h3>
-<p>���������ϡ��ޥ����塼���åĹ�����ؤ�OCW�ץ���������ȯ­���餫���濴���С��Ȥ��Ƴ������졢OCW����ڤ˸���������Ū�˳�ư����Ƥ��ޤ���</p>
+<h2>＊講演者プロフィール</h2>
+<h3>宮川繁 教授</h3>
+<p>宮川先生は、マサチューセッツ工科大学でOCWプロジェクト発足当初から中心メンバーとして活躍され、OCWの普及に向けて精力的に活動されています。</p>
 <table id="profile" border="0">
   <tr>
-   <td class="profile">1991ǯ�����ߡ��ޥ����塼���åĹ�����ء�����
-               <br>�����������������ʸ���ء�</td>
-   <td class="picture" rowspan="3"><img src="./images/ja/symp08_miyagawa3.jpg" alt="��������"></td>
+   <td class="profile">1991年〜現在　マサチューセッツ工科大学　教授
+               <br>　　　　　　　　（言語学）</td>
+   <td class="picture" rowspan="3"><img src="./images/ja/symp08_miyagawa3.jpg" alt="宮川先生"></td>
   </tr>
   <tr>
-   <td class="profile">1995ǯ�����ߡ��ޥ����塼���åĹ������
-   <br>�������������������Υ��������Ϻ��ǰ������
-   <br>���������������������ܸ졦����ʸ����</td>
+   <td class="profile">1995年〜現在　マサチューセッツ工科大学
+   <br>　　　　　　　　高知ジョン万次郎記念　教授
+   <br>　　　　　　　　（日本語・日本文化）</td>
   </tr>
   <tr>
-   <td class="profile">2008ǯ�����ߡ�̾�Ų����ʸ�ظ����
-   <br>���������������������Х�COE����Ǥ����</td>
+   <td class="profile">2008年〜現在　名古屋大学文学研究科
+   <br>　　　　　　　グローバルCOE　特任教授</td>
   </tr>
 </table>
 </p>
-<h3>���Ĺ��� ����</h3>
-<p>������ϡ����鹩�ء��ؽ������ء���2����ؽ����ؽ�����ƥ�Ĥγ�ȯή�̡�����ԥ塼���ٱ��ض���ι��ٲ��θ���˽�������Ƥ��ޤ���</p>
+<h3>山田恒夫 教授</h3>
+<p>ご専門は、教育工学、学習心理学、第2言語学習。学習コンテンツの開発流通、コンピュータ支援語学教育の高度化の研究に従事されています。</p>
 <table id="profile" border="0">
  <tr>
-  <td class="profile">2007ǯ�����ߡ���Ω����ˡ�ͥ�ǥ������鳫ȯ���󥿡�
-                  <br>������������������NIME������Ĺ�亴������</td>
-  <td class="picture" rowspan="3"><img src="./images/ja/symp08_yamada.jpg" alt="��������" ></td>
+  <td class="profile">2007年〜現在　独立行政法人メディア教育開発センター
+                  <br>　　　　　　　　（NIME）理事長補佐・教授</td>
+  <td class="picture" rowspan="3"><img src="./images/ja/symp08_yamada.jpg" alt="山田先生" ></td>
  </tr>
  <tr>
-  <td class="profile">�����������������縦����ر����ʸ���ʳظ����
-                  <br>������������������ǥ����Ҳ�ʸ���칶����
-                  <br>�����������������ʾ���ɽ����������ʻǤ</td>
+  <td class="profile">　　　　　　　総合研究大学院大学文化科学研究科
+                  <br>　　　　　　　　メディア社会文化専攻教授
+                  <br>　　　　　　　　（情報表現内容論）併任</td>
  </tr>
  <tr>
-  <td class="profile">��������������NPO��̳ǽ��ǧ�굡������</td>
+  <td class="profile">　　　　　　　NPO実務能力認定機構理事</td>
  </tr>
 </table>
 
-<h3>�к�ӻ� �ڶ���</h3>
-<p>���ܸ�CALL���೫ȯ����˽�������Ƥ��ޤ���</p>
+<h3>石崎俊子 准教授</h3>
+<p>日本語CALL教材開発研究に従事されています。</p>
 <table id="profile" border="0">
  <tr>
-  <td class="profile">2004ǯ�����ߡ�̾�Ų���ء�α�������󥿡�
-                  <br>�����������������ܸ춵���ǥ����������ƥ�
-                  <br>����������������ȯ���硡�ڶ���</td>
-  <td class="picture" ><img src="./images/ja/symp08_ishizaki.jpg" alt="�к�����" ></td>
+  <td class="profile">2004年〜現在　名古屋大学　留学生センター
+                  <br>　　　　　　　日本語教育メディア・システム
+                  <br>　　　　　　　開発部門　准教授</td>
+  <td class="picture" ><img src="./images/ja/symp08_ishizaki.jpg" alt="石崎先生" ></td>
  </tr>
 </table>
 <br>
 
-<h2>���ܥ���ݥ�����Υӥǥ���Ͽ�ˤĤ���</h2>
+<h2>＊本シンポジウムのビデオ記録について</h2>
 
-<p>�ܥ���ݥ�����ϥӥǥ���Ͽ��ԤäƤ���ޤ���</p>
-<p>�ʤ������Υ���ݥ���������ͤ���Ѥ��졢̾�Ų���أϣãסʥ����ץ󡦥��������������ˣȣо�Ǹ��������ͽ��Ǥ������餫���ᤴλ������������</p>
+<p>本シンポジウムはビデオ記録を行っております。</p>
+<p>なお、このシンポジウムの模様は中継され、名古屋大学ＯＣＷ（オープン・コース・ウェア）ＨＰ上で公開される予定です。あらかじめご了承ください。</p>
 <br>
 
 <div class="line">
 </div>
 
 <div id="map">
-<img src="./images/ja/noyori_map.gif" alt="����Ͽ�"><br>
+<img src="./images/ja/noyori_map.gif" alt="会場地図"><br>
 </div>
 
 <dl id="organizer">
-<dt>���</dt>
-<dd>̾�Ų���إ����ץ󥳡����������Ѱ���</dd>
+<dt>主催</dt>
+<dd>名古屋大学オープンコースウェア委員会</dd>
 
-<dt>����</dt>
-<p>��<a href="http://www.media.nagoya-u.ac.jp" alt="�����ǥ������饻�󥿡�">�����ǥ������饻�󥿡�</a>
-<br>��<a href="http://www.cshe.nagoya-u.ac.jp/" alt="�������鸦�楻�󥿡�">�������鸦�楻�󥿡�</a>
-<br>��<a href="http://www.gcoe.lit.nagoya-u.ac.jp/" alt="̾�Ų���إ������Х�COE�ץ�����ࡦ�ƥ��������֤β���Ū����ȶ���">̾�Ų���إ������Х�COE�ץ�����ࡦ�ƥ��������֤β���Ū����ȶ���</a>
+<dt>協賛</dt>
+<p>・<a href="http://www.media.nagoya-u.ac.jp" alt="情報メディア教育センター">情報メディア教育センター</a>
+<br>・<a href="http://www.cshe.nagoya-u.ac.jp/" alt="高等教育研究センター">高等教育研究センター</a>
+<br>・<a href="http://www.gcoe.lit.nagoya-u.ac.jp/" alt="名古屋大学グローバルCOEプログラム・テクスト布置の解釈学的研究と教育">名古屋大学グローバルCOEプログラム・テクスト布置の解釈学的研究と教育</a>
 </p>
 </dd>
 
-<dt>��礻��</dt>
-<dd>̾�Ų���إ����ץ󥳡�����������̳��<br>
- Tel��052-789-3904<br>
- E-mail��<img src="./images/common/mail_inq.gif" alt="̾�Ų���إ����ץ󥳡�����������̳���᡼�륢�ɥ쥹"></dd>
+<dt>問合せ先</dt>
+<dd>名古屋大学オープンコースウェア事務室<br>
+ Tel：052-789-3904<br>
+ E-mail：<img src="./images/common/mail_inq.gif" alt="名古屋大学オープンコースウェア事務室メールアドレス"></dd>
 </dl>
 
 <div class="clear">
@@ -402,10 +402,10 @@ function playFLV(numItem) {ldelim}
 </div>
 
 <div class="feedback">
-  <a href="index.php?lang=ja&amp;mode=g&amp;page_type=feedback&amp;ref_lang=ja&amp;ref_mode=l&amp;ref_id=&amp;ref_page_type=symp08"><img src="./images/ja/b_feedback.jpg" alt="Feedback" title="���ո��������ۤΥե����ɥХå��ڡ���"></a>
+  <a href="index.php?lang=ja&amp;mode=g&amp;page_type=feedback&amp;ref_lang=ja&amp;ref_mode=l&amp;ref_id=&amp;ref_page_type=symp08"><img src="./images/ja/b_feedback.jpg" alt="Feedback" title="ご意見・ご感想のフィードバックページ"></a>
 </div>
 <div class="footer">
-<a href="http://www.cshe.nagoya-u.ac.jp/stips/" target="_blank"><img src="./images/common/f_studytips.gif" width="100" height="25" alt="̾�Ų���ؿ������Τ���Υ����ǥ��ƥ��åץ�"></a>
+<a href="http://www.cshe.nagoya-u.ac.jp/stips/" target="_blank"><img src="./images/common/f_studytips.gif" width="100" height="25" alt="名古屋大学新入生のためのスタディティップス"></a>
 <a href="http://jocw.jp/" target="_blank"><img src="./images/common/f_logo_jocw.gif" width="75" height="25" alt="JOCW"></a>
 <a href="http://www.ocwconsortium.org/" target="_blank"><img src="./images/common/f_logo_ocwc.gif" width="75" height="25" alt="OpenCourseWare Consortium"></a>
 </div>

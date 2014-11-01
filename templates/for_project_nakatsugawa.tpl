@@ -1,4 +1,4 @@
-{* ¡ÖÃæÄÅÀî¥×¥í¥¸¥§¥¯¥È¡×¤Î¥Æ¥ó¥×¥ì¡¼¥È *}
+{* ã€Œä¸­æ´¥å·ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã€ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ *}
 {include file="com_header.tpl"}
   {include file="project_nakatsugawa.tpl"}
 {include file="com_footer.tpl"}

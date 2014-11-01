@@ -1,4 +1,4 @@
-{literal}{* ��̾��μ��ȤˤĤ��ơפΥƥ�ץ졼�� *}{/literal}
+{literal}{* 「名大の授業について」のテンプレート *}{/literal}
 {include file="com_header.tpl"}
 {include file="com_topbar.tpl"}
 {include file="com_header_menu.tpl"}

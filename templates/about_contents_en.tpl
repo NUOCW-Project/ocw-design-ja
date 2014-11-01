@@ -1,4 +1,4 @@
-<!-- ¤³¤ÎSite¤ÎÆÃÄ§³«»Ï -->
+<!-- ã“ã®Siteã®ç‰¹å¾´é–‹å§‹ -->
 <table class="about">
 	<tr><td colspan=2><h1>The Nagoya University OpenCourseWare</h1></td></tr>
 	<tr><td colspan=2><span class="b">brings free courseware to the Internet</span></td></tr>
@@ -24,7 +24,7 @@
 
 <tr height=15><td colspan=2></td></tr>
 
-<!-- ÍøÍÑ¤Ë¤Ä¤¤¤Æ³«»Ï -->
+<!-- åˆ©ç”¨ã«ã¤ã„ã¦é–‹å§‹ -->
 	<tr><td width="105" class="center_gray">Materials posted</td>
 	<td class="left_gray">
 	<p>The materials on the site may be duplicated, distributed, translated, edited, or otherwise used as you wish, <span class="b">as long as it is for non-profit, educational purposes</span>.</p>
@@ -45,7 +45,7 @@
 
 <tr height=40><td colspan=2></td></tr>
 
-<!-- ¥¹¥¿¥Ã¥Õ¾Ò²ð³«»Ï -->
+<!-- ã‚¹ã‚¿ãƒƒãƒ•ç´¹ä»‹é–‹å§‹ -->
 	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Steering Committee</h2></td></tr>
 	<tr><td colspan=2 align="right">(As of April 4, 2014)</td></tr>
 	<tr><td class="center_gray">Nagoya University OpenCourseWare Steering Committee</td>		<td class="left_gray">

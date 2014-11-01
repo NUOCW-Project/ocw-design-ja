@@ -1,6 +1,6 @@
-<!-- ̾��μ��ȤˤĤ���left��˥塼 -->
+<!-- 名大の授業についてleftメニュー -->
 <div class="vsyllabus_left">
-<img src="./images/{$lang}/t_vlist.gif" alt="���Ȱ���">
+<img src="./images/{$lang}/t_vlist.gif" alt="番組一覧">
 
 
 <div class="podcast">
@@ -15,13 +15,13 @@
  <td width="10" class="td_left_gray"></td>
  <td width="125" class="td_contents_gray">
   <p>
-  <img src="./images/common/podcast_relay.png" alt="̾�Ų���إ�졼���ߥʡ� Podcast" width="125" height="125">
+  <img src="./images/common/podcast_relay.png" alt="名古屋大学リレーセミナー Podcast" width="125" height="125">
   </p>
 
   <p>
   <a href="http://ocw.nagoya-u.jp/podcast/NURS2006.xml"><img src="./images/common/b_rss.gif" ></a>
-  �� iTunes �� "Podcast" �˥ɥ�å����ɥ��åפ���ȡ��ݥåɥ��㥹�Ȥ���Ͽ����ޤ���<br>
-  ��iTunes�Ϻǿ��Ǥ򤪻Ȥ�����������
+  を iTunes の "Podcast" にドラッグ＆ドロップすると、ポッドキャストが登録されます。<br>
+  （iTunesは最新版をお使いください）
   </p>
   </td>
   <td width="10" class="td_right_gray"></td>

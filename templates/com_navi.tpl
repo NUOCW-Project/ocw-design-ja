@@ -1,7 +1,7 @@
 {strip}
 <ol class="pankuzu">
-{if $on_top}<li>{if $lang=="ja"}¥Û¡¼¥à{else}HOME{/if} </li>
-{else}<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=top">{if $lang=="ja"}¥Û¡¼¥à{else}HOME{/if} </a>
+{if $on_top}<li>{if $lang=="ja"}ãƒ›ãƒ¼ãƒ {else}HOME{/if} </li>
+{else}<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=top">{if $lang=="ja"}ãƒ›ãƒ¼ãƒ {else}HOME{/if} </a>
 {/if}
 {foreach from=$navi_list item="navi" name=n}
   {if not $smarty.foreach.n.last}	

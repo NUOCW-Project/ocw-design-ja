@@ -1,26 +1,26 @@
 {strip}
-<div class="header_edge"><!-- ºÇ¾åÉô¥Ø¥Ã¥À¡¼±¦Ã¼ÉôÊ¬ -->
-  <div class="{literal}{if $lang=="ja"}header{else}header_en{/if}{/literal}" id="top"><!-- ºÇ¾åÉô¥Ø¥Ã¥À¡¼ -->
+<div class="header_edge"><!-- æœ€ä¸Šéƒ¨ãƒ˜ãƒƒãƒ€ãƒ¼å³ç«¯éƒ¨åˆ† -->
+  <div class="{literal}{if $lang=="ja"}header{else}header_en{/if}{/literal}" id="top"><!-- æœ€ä¸Šéƒ¨ãƒ˜ãƒƒãƒ€ãƒ¼ -->
  	<a href="./index.php?lang={$lang}" id="home_header"></a>
-    <div class="header_sub"><!-- ºÇ¾åÉô¥Ø¥Ã¥À¡¼²ÄÆ°°è -->
-      <div class="header_button"><!-- ºÇ¾åÉô¥Ø¥Ã¥À¡¼¤Î¥Ü¥¿¥óÉôÊ¬ -->
+    <div class="header_sub"><!-- æœ€ä¸Šéƒ¨ãƒ˜ãƒƒãƒ€ãƒ¼å¯å‹•åŸŸ -->
+      <div class="header_button"><!-- æœ€ä¸Šéƒ¨ãƒ˜ãƒƒãƒ€ãƒ¼ã®ãƒœã‚¿ãƒ³éƒ¨åˆ† -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=sitemap">
-        <img src="./images/common/h01sitemap.png" alt="{if $lang=='ja'}¥µ¥¤¥È¥Þ¥Ã¥×{else}Sitemap{/if}" 
+        <img src="./images/common/h01sitemap.png" alt="{if $lang=='ja'}ã‚µã‚¤ãƒˆãƒžãƒƒãƒ—{else}Sitemap{/if}" 
              onMouseOver="this.src='./images/common/h01sitemap_on.png'" 
              onMouseOut="this.src='./images/common/h01sitemap.png'">
-        </a><!-- ¤ªÌä¤¤¹ç¤ï¤»¤Î¥ê¥ó¥¯ -->
+        </a><!-- ãŠå•ã„åˆã‚ã›ã®ãƒªãƒ³ã‚¯ -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">
-        <img src="./images/common/h02inquiry.png" alt="{if $lang=='ja'}¤ªÌä¹ç¤»{else}Inquiry{/if}" 
+        <img src="./images/common/h02inquiry.png" alt="{if $lang=='ja'}ãŠå•åˆã›{else}Inquiry{/if}" 
              onMouseOver="this.src='./images/common/h02inquiry_on.png'"
              onMouseOut="this.src='./images/common/h02inquiry.png'">
-        </a><!-- ¥Ø¥ë¥×¤Ø¤Î¥ê¥ó¥¯ -->
+        </a><!-- ãƒ˜ãƒ«ãƒ—ã¸ã®ãƒªãƒ³ã‚¯ -->
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">
-        <img src="./images/common/h03help.png" alt="{if $lang=='ja'}¥Ø¥ë¥×{else}Help{/if}" 
+        <img src="./images/common/h03help.png" alt="{if $lang=='ja'}ãƒ˜ãƒ«ãƒ—{else}Help{/if}" 
              onMouseOver="this.src='./images/common/h03help_on.png'" 
              onMouseout="this.src='./images/common/h03help.png'">
         </a>
-        <div class="header_button_sub"><!-- ºÇ¾åÉô¥Ø¥Ã¥À¡¼ÉôÊ¬¤ò£²¤Ä¤ËÊ¬¤±¤¿ -->
-          <!-- English¥Ü¥¿¥ó -->
+        <div class="header_button_sub"><!-- æœ€ä¸Šéƒ¨ãƒ˜ãƒƒãƒ€ãƒ¼éƒ¨åˆ†ã‚’ï¼’ã¤ã«åˆ†ã‘ãŸ -->
+          <!-- Englishãƒœã‚¿ãƒ³ -->
           {include file="com_lang.tpl"}
         </div><!-- "header_button_sub" end -->
       </div><!-- "header_button" end -->
@@ -28,6 +28,6 @@
   </div><!-- "header" end -->
 </div><!-- "header_edge" end -->  
 {/strip}
-<div class="main_back"><!--  ±¦Â¦ÉôÊ¬ÇØ·Ê -->
-  <div class="main"><!-- ºÇ¾åÉô¥Ø¥Ã¥À¡¼°Ê³° -->
-    <div id="package"> <!-- #contentsÇÛÃÖÄ´À° firefoxÂÐ±þ" -->
+<div class="main_back"><!--  å³å´éƒ¨åˆ†èƒŒæ™¯ -->
+  <div class="main"><!-- æœ€ä¸Šéƒ¨ãƒ˜ãƒƒãƒ€ãƒ¼ä»¥å¤– -->
+    <div id="package"> <!-- #contentsé…ç½®èª¿æ•´ firefoxå¯¾å¿œ" -->
