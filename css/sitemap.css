@@ -1,0 +1,36 @@
+@charset "euc-jp";
+
+/*
+------------------------------------------------------------
+   サイトマップ 
+------------------------------------------------------------
+*/
+div.sitemap_contents{
+	position: relative;
+	clear: both;
+	text-align: center;
+	padding-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+}
+
+div.sitemap_contents_en{
+        position: relative;
+        clear: both;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 1em;
+        width: 85%;
+}
+
+.sitemap_navi{
+	padding-left: 0px;
+	padding-right: 2em;
+	text-align: left;
+	float: left;
+	list-style-type: none;
+	position: relative;
+	margin: 0px;
+}

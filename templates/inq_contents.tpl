@@ -1,132 +1,130 @@
-<!--
-<img src ="./images/ja/header_inquiry.jpg" alt="お問い合わせ">
+{literal}
+{if $step==3}
+<h1>ステップ3/3</h1>
+<p>ご意見・ご質問をありがとうございました。</p>
+<p>以下の内容で受け付けました。<br>
+返信をご希望の場合、多少のお時間を頂く場合がございます。 <br>
+また、すべてのご意見・ご要望・お問い合わせにお答えできない場合もあります。<br>
+あらかじめご了承ください。</p>
+<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+{elseif $step==2}
+<h1>ステップ2/3</h1>
+<p>内容をご確認のうえ、よろしければ「フォームの送信」ボタンを押して下さい。<br>
+   訂正がある場合、「戻る」ボタンを押して下さい。</p>
+<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+{else}
+<p>「名大の授業」についてのお問合せは以下のフォームからお願いします。</p>
+<p>ご意見・ご質問をお待ちしております。</p>
+<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+<h1>ステップ1/3</h1>
+  {if $err_message}
+  <p class="inq_err">赤字の項目に入力ミスがあります。ご修正のうえ、「入力内容の確認」ボタンを押して下さい。</p>
+  {else}
+  <p>以下のフォームをすべてご記入のうえ、「入力内容の確認」ボタンを押して下さい。</p>
+  {/if}
+{/if}
 
-{include file="com_dept.tpl"}
-
-<div id="contents"> 
-{include file="com_navi.tpl"}
--->
-	<p>「名大の授業」についてのお問合せは以下のフォームからお願いします。</p>
-	<p>ご意見・ご質問をお待ちしております。</p>
-	<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
-	<p>以下のフォームにご記入のうえ、「入力内容の確認」ボタンを押して下さい。</p>
-
-	<form  class="feedback" action="inquiry.php" method="post">
-		<h2 class="inq">1.<span class="red">（必須）</span>ご意見・ご質問の種類を１つ選んでください</h2>
-			<div class="inq">
-			<input type="radio" name="toiawase" id="inquiry1" value="このプロジェクトについて">このプロジェクトについて</input><br>
-			<input type="radio" name="toiawase" id="inquiry2" value="公開している教材について">公開している教材について</input><br>
-			<input type="radio" name="toiawase" id="inquiry3" value="技術的な質問">技術的な質問</input><br>
-			<input type="radio" name="toiawase" id="inquiry4" value="より良くするために">より良くするために</input><br>
-			</div>
-				
-		<h2 class="inq">2.あなたは：</h2>
-			<div class="inq">
-			<input name="shokugyo" type="radio" id="job1" value="高校・予備校生"><label for="job1">高校・予備校生</label><br>
-			<input name="shokugyo" type="radio" id="job2" value="名古屋大学・大学院の学生"><label for="job2">名古屋大学・大学院の学生</label><br>
-			<input name="shokugyo" type="radio" id="job3" value="名大以外の大学・大学院の学生"><label for="job3">名大以外の大学・大学院の学生</label><br>
-			<input name="shokugyo" type="radio" id="job4" value="自主学習者"><label for="job4">自主学習者</label><br>
-			<input name="shokugyo" type="radio" id="job5" value="高校・予備校の先生・職員"><label for="job5">高校・予備校の先生・職員</label><br>
-			<input name="shokugyo" type="radio" id="job6" value="大学・大学院の教職員"><label for="job6">大学・大学院の教職員</label><br>
-			<input name="shokugyo" type="radio" id="job7" value="その他"><label for="job7">その他</label>
-			</div>
-
-<!-- 上は旧サイト用. 以下が新サイト用.
-			<input type="radio" name="shokugyo" value="">名古屋大学・大学院の学生</input><br>
-			<input type="radio" name="shokugyo" value="">他大学の大学・大学院の学生</input><br>
-			<input type="radio" name="shokugyo" value="">名古屋大学・大学院の教職員</input><br>
-			<input type="radio" name="shokugyo" value="">他大学・大学院の教職員</input><br>
-			<input type="radio" name="shokugyo" value="">高校生・予備校生</input><br>
-			<input type="radio" name="shokugyo" value="">自主学習者</input><br>
-			<input type="radio" name="shokugyo" value="">その他</input><br>
--->	
-		
-		<h2 class="inq">3.お住まいの都道府県：</h2>
-			<select name="pref" size="1" tabindex="0">
-			<option value="" selected>▼こちらから選択してください</option>
-			<option value="北海道">北海道</option>
-
-			<option value="青森">青森県</option>
-			<option value="秋田">秋田県</option>
-			<option value="岩手">岩手県</option>
-			<option value="山形">山形県</option>
-			<option value="宮城">宮城県</option>
-			<option value="福島">福島県</option>
-	
-			<option value="群馬">群馬県</option>
-			<option value="栃木">栃木県</option>
-			<option value="茨城">茨城県</option>
-			<option value="埼玉">埼玉県</option>
-			<option value="東京">東京都</option>
-			<option value="千葉">千葉県</option>
-	
-			<option value="神奈川">神奈川県</option>
-			<option value="新潟">新潟県</option>
-			<option value="長野">長野県</option>
-			<option value="山梨">山梨県</option>
-			<option value="静岡">静岡県</option>
-			<option value="富山">富山県</option>
-	
-			<option value="岐阜">岐阜県</option>
-			<option value="愛知">愛知県</option>
-			<option value="石川">石川県</option>
-			<option value="福井">福井県</option>
-			<option value="滋賀">滋賀県</option>
-			<option value="三重">三重県</option>
-	
-			<option value="京都">京都県</option>
-			<option value="奈良">奈良県</option>
-			<option value="兵庫">兵庫県</option>
-			<option value="大阪">大阪府</option>
-			<option value="和歌山">和歌山県</option>
-			<option value="鳥取">鳥取県</option>
-	
-			<option value="島根">島根県</option>
-			<option value="山口">山口県</option>
-			<option value="広島">広島県</option>
-			<option value="岡山">岡山県</option>
-			<option value="高知">高知県</option>
-			<option value="徳島">徳島県</option>
-	
-			<option value="愛媛">愛媛県</option>
-			<option value="香川">香川県</option>
-			<option value="長崎">長崎県</option>
-			<option value="佐賀">佐賀県</option>
-			<option value="福岡">福岡県</option>
-			<option value="大分">大分県</option>
-	
-			<option value="宮崎">宮崎県</option>
-			<option value="熊本">熊本県</option>
-			<option value="鹿児島">鹿児島県</option>
-			<option value="沖縄">沖縄県</option>
-	
-			<option value="海外">海外</option>
-			</select>
-
-		<h2 class="inq">4.<span class="red">（必須）</span>件名をご記入下さい</h2>
-		<p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
-			<input type="text" name="title" class="fixed_width" ></input>
+<form  class="feedback" action="inquiry.php" method="post">
+	<h2 class="inq {if $err_message.toiawase}inq_err{/if}">
+  1. ご意見・ご質問の種類{if $step!=3}を１つ選んでください{/if}：
+  </h2>
+    {if $step > 1}
+    {assign var=ans value=$inputdata.toiawase}
+    {$toiawase_choice.$ans}
+    <input type="hidden" name="toiawase" value="{$ans}">
+    {else}
+		<div class="inq">
+    {html_radios name='toiawase' options=$toiawase_choice selected=$inputdata.toiawase separator='<br>'}
+		</div>
+    {/if}
 			
-		<h2 class="inq">5.<span class="red">（必須）</span>内容を具体的にご記入ください</h2>
-			<textarea name="content" rows="10" cols="50" tabindex="0" ></textarea>	
+	<h2 class="inq {if $err_message.shokugyo}inq_err{/if}">
+	2. あなたは：
+  </h2>
+    {if $step > 1}
+    {assign var=ans value=$inputdata.shokugyo}
+    {$shokugyo_choice.$ans}
+    <input type="hidden" name="shokugyo" value="{$ans}">
+    {else}
+		<div class="inq">
+    {html_radios name='shokugyo' options=$shokugyo_choice selected=$inputdata.shokugyo separator='<br>'}
+    </div>
+    {/if}
 
-		<h2 class="inq">6.<span class="red">（必須）</span>お名前</h2>
-			<input type="text" name="c_name"  class="fixed_width"></input>
+	<h2 class="inq {if $err_message.pref}inq_err{/if}">
+	3. お住まいの都道府県：
+  </h2>
+    {if $step > 1}
+    {assign var=ans value=$inputdata.pref}
+    {$pref_choice.$ans}
+    <input type="hidden" name="pref" value="{$ans}">
+    {else}
+		<select name="pref" size="1" tabindex="0">
+    {html_options options=$pref_choice selected=$inputdata.pref}
+    </select>
+    {/if}
 
-		<h2 class="inq">7.<span class="red">（必須）</span>連絡可能なＥメールアドレス</h2>		
-			<input type="text" name="c_email" class="fixed_width"></input>
-		<p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
-		<input type="submit" name="submit" value="入力内容の確認">
-		<input type="reset" name="" value="リセット">
-	</form>
+	<h2 class="inq {if $err_message.title}inq_err{/if}">
+	4. 件名{if $step!=3}をご記入下さい{/if}：
+  </h2>
+    {if $step > 1}
+    <p>{$inputdata.title|escape}</p>
+    <input type="hidden" name="title" value="{$inputdata.title}">
+    {else}
+	  <p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
+		<input type="text" name="title" class="fixed_width" value="{$inputdata.title|escape}">
+    {/if}
+		
+	<h2 class="inq {if $err_message.content}inq_err{/if}">
+	5. 内容{if $step!=3}を具体的にご記入ください{/if}：
+  </h2>
+    {if $step > 1}
+    <p>{$inputdata.content|escape|nl2br}</p>
+    <input type="hidden" name="content" value="{$inputdata.content}">
+    {else}
+		<textarea name="content" class="fixed_width">{$inputdata.content|escape}</textarea>	
+    {/if}
 
-	</ol>
-	<p><img src="./images/common/dot_gray.gif" height="10" width="325"><br>
-	〒464-8603 名古屋市千種区不老町<br>
-	名古屋大学 情報メディア教育センター内 OCW事務室<br>
-	電話：052-789-3904<br>
-	電子メール：<img src="./images/common/mail_inq.gif" height="15" width="210"><br>
-	※スパム対策のため、メールアドレスは画像ファイルになっております。</p>
+	<h2 class="inq {if $err_message.c_name}inq_err{/if}">
+	6. お名前：
+  </h2>
+    {if $step > 1}
+    <p>{$inputdata.c_name|escape}</p>
+    <input type="hidden" name="c_name" value="{$inputdata.c_name}">
+    {else}
+	  <input type="text" name="c_name"  class="fixed_width" value="{$inputdata.c_name|escape}">
+    {/if}
 
+	<h2 class="inq {if $err_message.c_email}inq_err{/if}">
+	7. 連絡可能なＥメールアドレス：
+  </h2>
+    {if $err_message.c_email}
+    <p class="inq_err">{$err_message.c_email}</p>
+    {/if}
+    {if $step > 1}
+    <p>{$inputdata.c_email|escape}</p>
+    <input type="hidden" name="c_email" value="{$inputdata.c_email}">
+    {else}
+    <input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
+    {/if}
 
+  <p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
+
+  {if $step==3}
+  {elseif $step==2}
+	<input type="submit" name="submit" value="フォームの送信">
+	<input type="submit" name="submit" value="戻る">
+  {else}
+	<input type="submit" name="submit" value="{if $step==2}フォームの送信{else}入力内容の確認{/if}">
+	<input type="reset" name="" value="リセット">
+  {/if}
+</form>
+{/literal}
+
+<p><img src="./images/common/dot_gray.gif" height="10" width="325"><br>
+〒464-8603 名古屋市千種区不老町<br>
+名古屋大学 情報メディア教育センター内 OCW事務室<br>
+電話：052-789-3904<br>
+電子メール：<img src="./images/common/mail_inq.gif" height="15" width="210"><br>
+※スパム対策のため、メールアドレスは画像ファイルになっております。</p>
 

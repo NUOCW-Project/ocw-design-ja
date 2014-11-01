@@ -1,4 +1,5 @@
 {literal}
+{if $lang=='ja'}
 <div id="sort">
 ÊÂ¤Ó½ç
 <a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$page_type}&amp;sort=department">[Éô¶ÉÌ¾¢ª¹ÖµÁÌ¾]</a>
@@ -9,4 +10,6 @@ PodcastÍÑ¢ª
 <a align="right" href="http://ocw.nagoya-u.jp/podcast/1MinVisualSyllabus.xml"><img src="./images/common/vs.png" ></a>
 </div>
 </div>
+{else}
+{/if}
 {/literal}

@@ -1,0 +1,319 @@
+@charset "euc-jp";
+/*
+------------------------------------------------------------
+  基本的な要素の共通スタイル    
+------------------------------------------------------------
+*/
+
+h2{
+    margin: 5px;
+    color: #DD0000;
+    font-size: large;
+}
+
+h3{
+    margin: 0 0 5px;
+    padding: 0 0 0 15px;
+    /*
+    margin-bottom: 5px;
+    padding-left: 15px;
+    */
+    background-image: url(../../images/common/header3_box.png);
+    background-repeat: no-repeat;
+}
+
+img{
+	border-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link{
+	color: #999966;
+}
+
+a:visited{
+	color: #666633;
+}
+
+a:hover{
+	color: #EE0000;
+	text-decoration: underline;
+}
+
+/* 回り込み解除用の便宜的な DIV 要素 */
+div.clear_div {
+  clear: both;
+}
+
+table{
+    	margin: 0;
+	padding: 0;
+	border-style: none;
+	zoom: 1;
+}
+
+td{
+    margin: 0;
+    padding: 0;
+    border-style: none;
+}
+
+tr{
+    margin: 0;
+    padding: 0;
+    border-style: none;
+}
+
+span.i{
+	font-style:italic;
+}
+
+span.u{
+	text-decoration: underline;
+}
+
+span.b{
+	font-weight: bold; 
+}
+
+ul.none{
+	list-style-type: none;    /*マーカーなし*/
+}
+
+ul.circle{
+	list-style-type: circle;    /*白丸*/
+}
+
+ul.square{
+	list-style-type: square;    /*黒四角*/
+}
+
+
+ol.lower-roman{
+	list-style-type: lower-roman;    /*小文字のローマ数字*/
+}
+
+ol.upper-roman{
+	list-style-type: upper-roman;    /*大文字のローマ数字*/
+}
+
+ol.lower-alpha{
+	list-style-type: lower-alpha;    /*小文字のアルファベット*/
+}
+
+ol.upper-alpha{
+	list-style-type: upper-alpha;    /*大文字のアルファベット*/
+}
+
+/*講義ビデオが見られない注意書き用応急処置*/
+div.movie_caution{	/*divタグにこのクラスを適用してください*/
+	margin-top: 0.3em;	/*行間を詰める*/
+	font-size: 70%;
+}
+
+/*
+------------------------------------------------------------
+  共通のページの構造    
+------------------------------------------------------------
+*/
+
+body{
+	margin: 0;
+	padding: 0;
+	line-height: 150%;
+	background-color: #f6f6f6;
+	color: #666666;
+	font-size: 12.5px; 	/* small指定はブラウザにより異なる */
+}
+
+.body_back{
+	background-image: url(../../images/common/bg.png); /*グレーの背景*/
+	background-repeat: repeat-x;
+	background-position: 0px 90px; /* ヘッダー画像の下に白線がある*/
+}
+
+.main_back {
+    	margin: 0;
+	padding: 0;
+	max-width: 1260px; 
+	background-image: url(../../images/common/loop.png);
+	background-repeat: repeat-y;
+	background-position: 975px 90px;
+}
+
+.main_back_url img{
+    position: fixed;
+    top: 100px;
+    left: 1260px;
+    width: 20px;
+    height: 170px; 
+}
+
+/* IE6ハック */
+*html .main_back_url img{
+        position: expression('absolute');
+	top: expression(documentElement.scrollTop + 90 + 'px');
+	left: expression(documentElement.scrollLeft + 1260 + 'px');
+}
+
+.main_back_adachi{
+    position: absolute;
+    top: 25px; 
+    left: 1030px;
+    width: 95px; 
+    height: 125px;
+    background-image: url(../../images/common/staff.png);
+    background-repeat: no-repeat; 
+}
+
+.main{
+    margin: 0 30px;
+    padding: 0;
+    /*
+      margin-right: 30px;
+      margin-left: 30px;
+      */
+    /* min-height: 1150px; */
+    position: relative; /* DWで正常にプレビューできるようにする */
+    width: 945px;
+    overflow: hidden; /* floatのクリア */
+    background-color: white;
+}
+
+/* IE6 ハック */
+*html .main{
+	margin: -90px 0 0 30px;
+	padding: 0;
+	width: 945px;
+	background-color: white;
+}
+
+
+/*
+------------------------------------------------------------
+   旧デザインと同じ表のスタイル（英語版などで使用）
+------------------------------------------------------------
+*/
+td.td_left_gray{
+	background-image: url(../../images/common/flame02.gif);
+	background-repeat: repeat-y;
+}
+
+td.td_right_gray{
+	background-image: url(../../images/common/flame05.gif);
+	background-repeat: repeat-y;
+}
+
+td.td_top_gray{
+	background-image: url(../../images/common/gray02.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	background-color:#eeeeee;
+}
+
+td.td_under_gray{
+	background-image: url(../../images/common/gray07.gif);
+	background-repeat: repeat-x;
+}
+
+td.td_contents_gray{
+	vertical-align: top;
+	background-color:#e7e7df;
+}
+
+table.center_contents{
+    margin: 0;
+    padding: 0;
+}
+
+th.left{
+	font-size: large;
+	color: #DD0000;
+
+}
+
+th.left_gray{
+	background-color:#eeeeee;
+	font-size: large;
+	color: #DD0000;
+
+}
+
+th.center{
+	text-align: center;
+}
+
+th.center_gray{
+	text-align: center;
+	background-color: #eeeeee;
+}
+
+th.right{
+	text-align: right;
+}
+
+th.right_gray{
+	text-align: right;
+	background-color: #eeeeee;
+}
+
+td.left{
+	text-align: left;
+}
+
+td.left_gray{
+	text-align: left;
+	background-color: #ecece6;
+}
+
+td.center{
+	text-align: center;
+}
+
+td.center p{
+    text-align: center;
+}
+
+td.center_gray{
+	text-align: center;
+	background-color: #ecece6;
+}
+
+td.center_gray p {
+    text-align: center;
+}
+
+td.contents{
+	text-align: left;
+	vertical-align: top;
+}
+
+td.right{
+	text-align: right;
+}
+
+td.left{
+	text-align: left
+}
+
+td.right_gray{
+	text-align: right;
+	background-color: #eeeeee;
+}
+
+td.separate{
+	border: none;
+	text-align: right;
+	background-color: #e7e7df;
+	height: 5px;
+}
+
+.odd{
+	background-color: #e7e7df;
+}
+.even{
+	background-color: #fff;
+}

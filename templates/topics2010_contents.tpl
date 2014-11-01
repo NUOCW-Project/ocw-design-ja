@@ -1,9 +1,42 @@
-<p>
-<img src="./images/ja/prj10_hs10.jpg" alt="高校生向けオススメ授業　高校生の方でも楽しんでもらえる教材をOCWサポートスタッフ(学生制作スタッフ)が紹介します。\
-">
-</p>
+<h1>TOPICS バックナンバー</h1>
+<dl id="topics_backnumber">
 
-<p>
+<a href="./index.php?lang=ja&mode=g&page_type=topics2013">
+  <dt>TOPICS No.5 こころ</dt>
+  <dd><img src="./images/ja/topics_backnumber/kokoro.png" alt="こころ"></dd>
+</a>
+
+<a href="./index.php?lang=ja&mode=g&page_type=special">
+  <dt>TOPICS No.4 理学部新歓サイエンスカフェ 2011</dt>
+  <dd><img src="./images/ja/topics_backnumber/sc.png" alt="理学部新歓サイエンスカフェ 2011"></dd>
+</a>
+<a href="./index.php?lang=ja&mode=g&page_type=topics_branches">
+  <dt>TOPICS No.3 遊び・体験から学ぶ授業</dt>
+  <dd><img src="images/ja/topics_backnumber/asobi_taiken.png" alt="遊び・体験から学ぶ授業"></dd>
+</a>
+<a href="./index.php?lang=ja&mode=g&page_type=topics">
+  <dt>TOPICS No.2 ボードゲームを究める</dt>
+  <dd><img id="arita_bn_img" src="./images/ja/topics_backnumber/arita.png" alt="ボードゲームを究める"></dd>
+</a>
+<!--
+<a href="./index.php?lang=en&mode=g&page_type=topics">
+  <dt>Student Testimonials 留学生の声</dt>
+  <dd><img src="images/ja/topics_backnumber/StudentTestimonials.png" alt="Student Testimonials 留学生の声"></dd>
+</a>
+-->
+<a href="#bn_anchor" onclick="noDisplay('hs');Display('msgs_whole')">
+  <dt>TOPICS No.1 message</dt>
+  <dd><img src="images/ja/topics_backnumber/message.png" alt="message"></dd>
+</a>
+<a href="#bn_anchor" onclick="Display('hs');noDisplay('msgs_whole')">
+  <dt>特別企画 高校生向けオススメ授業</dt>
+  <dd><img src="images/ja/topics_backnumber/hs.png" alt="高校生向けオススメ授業"></dd>
+</a>
+</dl>
+<hr id="bn_anchor">
+
+<div id="hs">
+<img src="./images/ja/prj10_hs10.jpg" alt="高校生向けオススメ授業　高校生の方でも楽しんでもらえる教材をOCWサポートスタッフ(学生制作スタッフ)が紹介します。"><br>
 <img src="./images/ja/prj10_hs10_body.jpg" usemap="#map_hs" alt="">
 <map name="map_hs">
    <area shape=rect coords="321,328,422,440" href="./index.php?lang=ja&amp;mode=c&amp;id=51&amp;page_type=teachingtips" alt="ふたつの「しない工夫」 成田克\
@@ -19,9 +52,9 @@
 溝口常俊教授「地理学」の参考資料。溝口先生の授業は、自身の体験をもとにした南アジアの面白い話が満載です。カースト社会の中で、自分たちと同じ世代の若者がどの\
 ような生活をしているのかを知りたい人必見！">
 </map>
-</p>
+</div>
 
-<hr>
+<div id="msgs_whole">
 <img src="./images/ja/topics_msg/msg_header.png" alt="message　名古屋大学の授業には、たくさんの人からのメッセージが込められています。実際に授業をする先生だけでなく、多くの先人たちが得たものを伝え、受け取り、現在に至るまで積み重ねてきたものがあります。ここでは授業で伝えられているメッセージの一部を皆さんにご紹介します。" id="msg_top_image">
 <ul id="msgs">
     <li id="msg01">
@@ -51,7 +84,7 @@
 		<li id="msg05">
 		    <img src="./images/ja/topics_msg/msg_05okamoto.png" alt="05 法律は社会を守る国民のmessage">
 
-		    	 <p>「法律」と聞くと、弁護士や裁判を想像し<br>「難しそvうで自分には関係ない」なんて感じていませんか？<br>
+		    	 <p>「法律」と聞くと、弁護士や裁判を想像し<br>「難しそうで自分には関係ない」なんて感じていませんか？<br>
 実はこの授業は工学部生を対象にしているため、<br>専門外の学生でも興味を持ってるよう<br>実際の生活の中での問題や実際の判例が<br>題材として盛り込まれています。<br>法律はあなたの身近な生活の中で生きていることを<br>まずはこの講義を通じて考えてみませんか。</p>
 		<a href="./index.php?lang=ja&amp;mode=c&amp;id=43&amp;page_type=index"><img src="./images/ja/topics_msg/msg_05okamoto_pic.png" alt="教養教育院 岡本裕樹准教授 【法学】"></a>
 		</li>
@@ -62,3 +95,4 @@
 				<a href="./index.php?lang=ja&amp;mode=c&amp;id=71&amp;page_type=index"><img src="./images/ja/topics_msg/msg_06kita_pic.png" alt="教養教育院 北英輔教授 【図情報とコンピュータ】"></a>
 				</li>
 </ul> 
+</div>

@@ -1,28 +1,31 @@
 <div class="welcome_img">
-  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000"
+<a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=1359&categoryCode=110" target="blank"><img src="http://ocw.nagoya-u.jp/images/ja/goaisatu.png"></a>
+
+<!--  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000"
         codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"
         width="300" height="280">
   <param name="movie" value="./player.swf">
   <param name="quality" value="high">
   <param name="wmode" value="transparent">
-  <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001091/FLASH-FLV/2009_yamamoto_ocw_jap.flv">
+  <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001890/FLASH-FLV/OCW_2013_meidai_no_jugyo_no_goaisatsu_onogi.flv">
 
-  <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001091/FLASH-FLV/2009_yamamoto_ocw_jap.flv"
+  <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001890/FLASH-FLV/OCW_2013_meidai_no_jugyo_no_goaisatsu_onogi.flv"
          quality="high"
          pluginspage="http://www.macromedia.com/go/getflashplayer"
          type="application/x-shockwave-flash" wmode="transparent"
          width="300" height="280"></embed>
 </object>
+-->
 </div>
 
 
 <div class="welcome_name">
 	<span class="b">
 		名古屋大学<br>
-		理事 (教育・情報関係担当)<br>
-		副総長<br>
 		オープンコースウェア委員会</span>
-	<p class="welcome_b">委員長 山本 一良</p>
+	<p class="welcome_b">委員長 小野木 克明<br>
+<p>画像クリックでメッセージが再生されます。</p>
+</p>
 </div>
 
 <!--

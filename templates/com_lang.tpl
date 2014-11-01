@@ -9,7 +9,8 @@
             {literal}{elseif $lang=="en"}{/literal}
               <img src="./images/{$lang}/japanese.png" alt="Japanese"
                    onMouseOver="this.src='./images/{$lang}/japanese_on.png'" 
-                   onMouseOut="this.src='./images/{$lang}/japanese.png'">
+                   onMouseOut="this.src='./images/{$lang}/japanese.png'"
+		   width="50" height="20">
             {literal}{/if}
             </a>
             {/if}{/literal}

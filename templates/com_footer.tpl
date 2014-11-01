@@ -1,7 +1,10 @@
- <!-- 「ページトップへ」 -->
-  <a href="#top">{if $lang=='ja'}<img src="./images/ja/pagetop.gif" class="topjump"  alt="ページトップへ" >
-{else}<img src="./images/en/pagetop.png" class="topjump"  alt="To the top of the page" >{/if}
-</a>
+<!-- 「ページトップへ」 -->
+
+  <p class="topjump">
+  <a href="#top">
+  <img src="./images/{$lang}/pagetop.gif" alt="{if $lang=='ja'}ページトップへ{else}To the top of the page{/if}" >
+  </a>
+  </p>
 
 </div><!--"#contents" end-->
 </div><!-- "package2" end -->
@@ -21,7 +24,9 @@
   {/if}
 
   {if $abbr!="empty"}
-    <li><a href="./{if $lang=='ja'}courselist{elseif $lang=='en'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">{if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}</a></li>
+    <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
+        {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
+        </a></li>
   {/if}
 
   {if $smarty.foreach.navigation.last}
@@ -35,16 +40,12 @@
 <!--    <li>OCWシーズン企画</li> -->
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">{if $lang=='ja'}ごあいさつ{else}Introduction{/if}</a></li>
 <!--    <li>アクセスランキング</li> -->
-{if $lang=='ja'}
-    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news">おしらせ</a></li>
-{elseif $lang=='en'}
-    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics_list">News</a></li>
-{/if}
+    <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news">{if $lang=='ja'}おしらせ{else}News{/if}</a></li>
 <!-- 英語版では"お知らせ"と"プレリリース"を分けない -->
 {if $lang=='ja'}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
-{/if}
     <li><a href="http://ocw.media.nagoya-u.ac.jp/system/release-5.1/">{if $lang=='ja'}NU OCW コース管理システム{/if}</a></li>
+{/if}
   </ul>
 
 </div><!-- "footer" end --> 
@@ -53,32 +54,32 @@
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">
       <img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="{if $lang=='ja'}名大の授業について{else}About OCW{/if}"
         onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
-        onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"></a></li>
-<!-- まだ用意されていないので英語版のほうでは一時的にリンクを外す -->
-{if $lang=='ja'}
+        onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"></a>
+    </li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">
       <img src="./images/{$lang}/c02answer.png" class="size_img" alt="{if $lang=='ja'}用語解説{else}Glossary{/if}"
         onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
-        onMouseOut="this.src='./images/{$lang}/c02answer.png'"></a></li>
+        onMouseOut="this.src='./images/{$lang}/c02answer.png'"></a>
+    </li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">
-{/if}
       <img src="./images/{$lang}/c03vs.png" class="size_img" alt="{if $lang=='ja'}1分間授業紹介&amp;Podcast{else}One-minute Course Introductions &amp; PodCast{/if}"
         onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
-        onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a></li>
-    {if $lang=='ja'}
+        onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a>
+    </li>
+  {if $lang=='ja'}
     <li><a href="http://www.media.nagoya-u.ac.jp/sc/" target="_blank">
       <img src="./images/ja/c04sc.png" class="size_img" alt="スタジオチャンネル"
         onMouseOver="this.src='./images/ja/c04sc_on.png'" 
-        onMouseOut="this.src='./images/ja/c04sc.png'"></a></li>
-    {/if}
-<!-- まだ用意されていないので英語版のほうでは一時的にリンクを外す -->
-{if $lang=='ja'}
+        onMouseOut="this.src='./images/ja/c04sc.png'"></a>
+    </li>
+  {/if}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=link">
-      <img src="./images/{$lang}/c05link.png" class="size_img" alt="{if $lang=='ja'}リンク{else}Link{/if}"
-        onMouseOver="this.src='./images/{$lang}/c05link_on.png'" 
-        onMouseOut="this.src='./images/{$lang}/c05link.png'"></a></li>
+      <img src="./images/{$lang}/c05links.png" class="size_img" alt="{if $lang=='ja'}リンク{else}Link{/if}"
+        onMouseOver="this.src='./images/{$lang}/c05links_on.png'" 
+        onMouseOut="this.src='./images/{$lang}/c05links.png'"></a>
+    </li>
   </ul>
-{/if}
+
   <div id="proviso">
     <a href="{if $lang=='ja'}http://www.nagoya-u.ac.jp/{elseif $lang=='en'}http://www.nagoya-u.ac.jp/en/{/if}" target="_blank"><img src="./images/common/nu.png" class="nu" alt=""></a>
     <p class="nu">
@@ -99,11 +100,12 @@
 <div class="main_back_url">
 <a href="./index.php"><img src="./images/common/url.png" alt="http://ocw.nagoya-u.jp/"></a>
 </div>
+
+</div><!--"main" end-->
 <!-- 右上の人物 -->
 <div class="main_back_adachi">
 </div>
 
-</div><!--"main" end-->
 </div><!-- "main_back" end -->
 
 </div> <!--  "body_back" end -->

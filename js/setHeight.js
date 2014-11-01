@@ -1,34 +1,39 @@
-// DOM 解析後にランキング表示を調整.
+//
+// set heights of boxes in the toppage
+//
 
-$(function(){ 
-  var H;
-  H = $("#notice").outerHeight() + $("#press").outerHeight() - 8;
-  $("#access div").css("height", H + "px");
+function setHeightsTop() {
+  var hgt;
+  var i;
+  var HGT_HEAD = 30; // the height of headers of boxes
+  var MAX_ENTRIES = 20; // the number of entries of accessranking
 
-  H = H -30;
-  var G = 0;
-  var i = 0;
+  // set the height of accessranking box.
+  hgt = $("#toppage_notice div.waku").height();
+  $("#toppage_access div.waku").css("height", hgt + "px");
 
-  while ((G <= H) && (i <= 20)){
-    G = G + $("#no" + i).outerHeight(true);
-    i++;
+  // erase entries of accessranking outside the box
+  hgt = hgt - HGT_HEAD;
+  for (i = 0; i <= MAX_ENTRIES; i++ ) {
+    hgt = hgt - $("tr#no" + i).outerHeight(true);
+    if (hgt > 0) {
+      $("tr#no" + i).show();
+    } else {
+      $("tr#no" + i).hide();
+    }
   }
-  i--;
 
-  G = G - $("#no" + i).outerHeight(true);
-  //$("#rank_table").css("clip", "rect(0px, auto, " + G + "px, auto)");
-  if(navigator.userAgent.indexOf("Chrome")){
-      i=i-1;
-      while (i<=20){
-	  $("#no" + i).hide();
-	  i++;
-      }
+  // fit the heights of pressrelease and goaisatsu boxes
+  var hgt_press, hgt_greet;
+  hgt_press = $("#toppage_press div.waku").height();
+  hgt_greet = $("#toppage_greeting div.waku").height();
+  if (hgt_press > hgt_greet) {
+    $("#toppage_greet div.waku").css("height", hgt_press + "px");
+  } else {
+    $("#toppage_press div.waku").css("height", hgt_greet + "px");
   }
-  else{
-      while (i+1<=20){
-	  $("#no" + i+1).hide();
-	  i++;
-      }      
-  }
-  //$("#no" + i).css("visibility", "hidden");
-});
+}
+
+$(setHeightsTop);
+// run it twice, for Safari's ready event looks strange.
+$(window).load(setHeightsTop);

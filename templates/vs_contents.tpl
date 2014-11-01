@@ -30,14 +30,14 @@
 			{/if}
 		<td class="center">{$smarty.foreach.vs_loop.iteration}</td>
 		<td class="center">
-		{if $vs.url_flv != NULL}
+		{if isset($vs.url_flv)}
 			<a href="{$vs.url_flv}"
 			 onclick="openWin('{$vs.url_flv}');return false;"
 			 onkeypress="openWin('{$vs.url_flv}');return false;"
 			 title="新しいウィンドウを開きます">
 		{/if}
 			{vsyllabus_img id=$vs.vsyllabus_id alt=""}
-		{if $vs.url_flv != NULL}
+		{if isset($vs.url_flv)}
 			</a>
 		{/if}
 		</td>
@@ -50,7 +50,7 @@
 		{/if}
 		</td>
 		<td class="center">
-		{if $vs.url_flv != NULL}
+		{if isset($vs.url_flv)}
 			<a href="{$vs.url_flv}"
 			 onclick="openWin('{$vs.url_flv}');return false;"
 			 onkeypress="openWin('{$vs.url_flv}');return false;"
@@ -64,9 +64,13 @@
 			</a>
 		</td>
 		<td class="left">
-			{foreach from=$vs.instructor_names key="i_id" item="i_name"} 
-			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$i_id}">
-			{$i_name}
+			{foreach from=$vs.instructor_names item="inst"} 
+			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$inst.id}">
+      {if $lang=='ja'}
+			  {$inst.name} {$inst.position}
+      {elseif $lang=='en'}
+			  {$inst.position}<br>{$inst.name}
+      {/if}
 			</a><br>
                         {/foreach} 
 		</td>

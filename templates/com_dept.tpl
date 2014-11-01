@@ -1,5 +1,5 @@
 <ul id="departmentslist"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
-<li><a href="./{if $lang=='ja'}courselist{elseif $lang=='en'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type=all">
+<li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
    <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}授業一覧から探す{/if}"
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
 	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a><!-- class"header_image"から移動 -->
@@ -16,7 +16,7 @@
   {if $mode=="l" && $page_type==$abbr}
     <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt="{$dept.department_name}">
   {elseif $abbr!="empty"}
-    <a href="{if $lang=='ja'}courselist{elseif $lang=='en'}index{/if}.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
+    <a href="courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
            onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'" 
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"

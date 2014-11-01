@@ -6,13 +6,19 @@ ul#topics{
 
 #mogura1, #mogura2, #mogura3, #mogura4, #mogura5, #mogura6{
     display: none;
-    border: 1px solid #ff00ff;
+
 }
 
 .abstract{
     width: 700px;
     height: 250px;
     border: 1px solid #ff0000;
+}
+
+img.sample{
+position: absolute;
+top:200px;
+left:200px;
 }
 
 /*

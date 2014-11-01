@@ -1,0 +1,83 @@
+@charset "euc-jp";
+/* 
+-------------------------------------------------------------
+ 左側 部局リスト 
+-------------------------------------------------------------
+*/
+
+#departmentslist{
+    	margin: 0 5px 0 30px;
+    	padding: 0;
+	float: left;
+	width: 160px;
+	list-style:none;
+}
+
+/* IE6 ハック */
+*html #departmentslist{
+    margin: 0 2px 0 20px;
+    padding: 0;
+    float: left;
+    width: 160px;
+    list-style:none;
+}
+
+#departmentslist_list{
+    margin: 0 5px 0 0;
+    padding: 0;
+    position: relative;	
+    width: 157px;
+    list-style:none;
+}
+
+#departmentslist_list_en{
+    margin: 0 5px 0 0;
+    padding:0;
+    position: relative;	
+    width: 157px;
+    list-style:none;
+}
+
+#departmentslist_list li{
+	/* margin-bottom: -6px; */ /*画像の隙間をなくしている */
+    margin: 0;
+    height: 23px;
+}
+
+#departmentslist_list_en li{
+    margin: 0;
+    height: 40px;
+}
+ 
+ul#departmentslist a{
+	font-weight: 500;
+}
+
+ul#departmentslist a:visited{
+	font-weight: 400;
+}
+
+/* 1分間授業紹介 */
+#podcast_waku{
+    margin: 2px;
+    padding: 0;
+    position: relative;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+    overflow: hidden;
+}
+
+#aboutpodcast_image{
+    margin: 15.5px 15.5px 12px;
+    padding: 0;
+    position: relative;
+}
+
+#aboutpodcast_sentence{
+    margin: 0 15.5px 15.5px;
+    padding: 0;
+    position: relative;
+}
+
+

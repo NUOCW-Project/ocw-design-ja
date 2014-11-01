@@ -11,13 +11,14 @@
 	</td></tr>
 
 <tr><td colspan=2>
-<h3>About course</h3>
+<h3>About the Public Course Materials</h3>
 
-<p>about...</p>
+<p>Every year at Nagoya University, many thousands of courses are held. Even within the individual departments there are a great many different kinds of courses taking place. The courses introduced here are but a part of these, as well as including those courses that have been discontinued, and those which have had a change in teaching staff. The courses that are introduced here have been recommended by the heads of department, by the Nagoya University Open Course Ware Committee, or even by personal recommendation by individual professors, and all of the courses have received approval from the Nagoya University Open Course Ware Committee.
+</p>
 
-<h3>ご利用にあたって</h3>
+<h3>Terms of Use</h3>
 
-<p>「名大の授業」に掲載されている資料のご利用にあたっては、以下の点にご注意ください。</p>
+<p>Please pay careful attention to the following points when using the materials appearing in "Nagoya University Open Course Ware (NUOCW)".</p>
 
 </td></tr>
 
@@ -45,56 +46,102 @@
 <tr height=40><td colspan=2></td></tr>
 
 <!-- スタッフ紹介開始 -->
-	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Committee</h2></td></tr>
-	<tr><td colspan=2 align="right">(As of July 1, 2011)</td></tr>
-	<tr><td class="center_gray">Nagoya University OpenCourseWare Committee</td>
-		<td class="left_gray"><p>
-		Chairperson: Ichiro Yamamoto<br>Vice-President,<br>Nagoya University<br>
-		Hiroyuki Sugiyama<br>Vice-President,<br>Trustee<br>
-		Kazuhisa Todayama<br>Assistant to President,<br>Nagoya University<br>
+	<tr><td colspan=2><h2>Nagoya University OpenCourseWare Steering Committee</h2></td></tr>
+	<tr><td colspan=2 align="right">(As of April 4, 2014)</td></tr>
+	<tr><td class="center_gray">Nagoya University OpenCourseWare Steering Committee</td>		<td class="left_gray">
+  <p>	
+Chairperson: Katsuaki Onogi	<br>
+Dean,<br>
+Institute of Liberal Arts and Sciences	</p>
+	<p>
+Ichiro Yamamoto	<br>
+Vice-President,	<br>
+Trustee	</p>
+	<p>
+Kazuhisa Todayama	<br>
+Assistant to President,	<br>
+Nagoya University	</p>
+	<p>
+Takaya Yamazato	<br>
+Professor,	<br>
+Institute of Liberal Arts and Sciences	</p>
+	<p>
+Toshiyuki Tonoike	<br>
+Professor,	<br>
+Center for Information Media Studies	</p>
+	<p>
+Masaaki Katayama	<br>
+Professor,	<br>
+Eco Topia Science Institute	</p>
+	<p>
+Toshiaki Nakai	<br>
+Associate Professor,	<br>
+Center for the Studies of Higher Education	</p>
+	<p>
+Akifumi Goto	<br>
+Associate Professor,	<br>
+Center for Information Media Studies	</p>
+	<p>
+Takehiro Ohya	<br>
+Associate Professor,	<br>
+Graduate School of Law	</p>
+	<p>
+Toshiko Ishizaki	<br>
+Professor,	<br>
+Education Center for International Students	</p>
+	<p>
+Daisuke Deguchi	<br>
+Associate Professor<br>
+Strategy Office, Information and Communications Headquarters </p>
+	<p>
+Lai Wailing		<br>
+Associate Professor,	<br>
+Institute of Liberal Arts and Sciences	</p>
+	<p>
+Sadami Nakahama	<br>
+Liberal Education Deputy Director,	<br>
+Institute of Liberal Arts and Sciences	</p>
+	<p>
+Shina Kawazu	<br>
+The educational affairs planning section Assistant Director,	<br>
+Institute of Liberal Arts and Sciences	</p>
+	<p>
+Yuka Kojima	<br>
+Administrative Assistant,	<br>
+OCW Administrative Office	</p>
+</td></tr>
 
-		Takaya Yamazato<br>Associate Professor,<br>EcoTopia Science Institute<br>
-		Toshiyuki Tonoike<br>Professor,<br>Center for Information Media Studies<br>
-		Masaaki Katayama<br>Professor,<br>EcoTopia Science Institute<br>
-
-		Shoji Kajita<br>Associate Professor,<br>Information and Communication Technology Services<br>
-		Toshiki Nakai<br>Associate Professor,<br>Center for the Studies of Higher Education<br>
-		Akifumi Goto<br>Associate Professor,<br>Center for Information Media Studies<br>
-
-		Kazuma Takashita<br>Supervisor,<br>Institute of Liberal Arts and Sciences<br>
-
-		Aki Hara<br>Media Supporter,<br>Studio<br>
-		Shin-ya Furui<br>Media Supporter,<br>Studio<br>
-
-		Ayako Goto<br>Administrative Assistant,<br>OCW Administrative Office</li>
-		</p></td></tr>
 	<tr><td class="center">Support Staff</td>
-		<td class="left"><p>
-		Masanori Adachi<br>
-		Ahammad Al Biruni<br>
-		Lucy Glasspool<br>
-		Yui Hayashi<br>
-		Yuka Ichinose<br>
-		Masanori Ito<br>
-		Simon Johnson<br>
-                Natsumi Koresawa<br>
-		Shun Kutsuna<br>
-                Sanae Muramatsu<br>
-		Tetsuro Nagai<br>
-		Ayaka Sato<br>
-		Keisuke Serizawa<br>
-		Yasutaka Shiraki<br>
-		Yuuhei Suzuki<br>
-		Mitsunari Takahashi<br>
-		Yuto Takahashi<br>
-		Mikito Yamamoto<br>
-		Zhong Yang<br>
-		Megumi Yoshida<br>
-	</p></td></tr>
+		<td class="left">
+<p>
+Aki Hara (Media Staff, Studio)<br>
+Tetsuya Ono<br>
+Michelle Kuhn Myers<br>
+Yoshifumi Inoue<br>
+Kazuki Uemura<br>
+Yuma Sato<br>
+Hiromasa Yamauchi<br>
+Daisuke Takaichi<br>
+You Xia<br>
+Takahiro Kojima<br>
+Yuuya Nobe<br>
+Katsuyasu Kamimura<br>
+Masashi Yamazaki<br>
+Mikito Yamamoto<br>
+Yuto Toida<br>
+Daiki Ishikawa<br>
+Hiroki Kamada<br>
+Yutaro Nagae<br>
+Fumihiro Ootake<br>
+Keita Chiga<br>
+Miyuu Imamura<br>
+Misa Asano<br>
+Tomohisa Tamai
+</p></td></tr>
 	<tr><td class="center_gray">photography</td>
         <td class="left_gray"><p>
-		Yoko Egusa<br>
-		Ryo Yoshikawa<br>
+Ryo Yoshikawa<br>
+Yoko Egusa
 	</p></td></tr>
 
 </table>

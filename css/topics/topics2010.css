@@ -1,3 +1,21 @@
+dl#topics_backnumber a{
+	margin: 5px;
+}
+
+img#arita_bn_img{
+	width: 351px;
+	height: 40px;
+	margin: 0 0 10px 0;
+}
+
+#hs{
+	display: none;
+}
+
+#msgs_whole{
+	display: none;
+}
+
 #msg_top_image{
     width: 700px;
     height: 400px;

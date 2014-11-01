@@ -1,14 +1,8 @@
 {literal}{* OCWホームページ用のテンプレート *}{/literal}
 {include file="top_header_top.tpl"} 
-{literal}
 {if $lang=="ja"}
-{/literal}
-{include file="top_contents.tpl"}
-{literal}
+  {include file="top_contents.tpl"}
 {elseif $lang=="en"}
-{/literal}
-{include file="top_contents_en.tpl"}
-{literal}
+  {include file="top_contents_en.tpl"}
 {/if}
-{/literal}
 {include file="com_footer.tpl"}

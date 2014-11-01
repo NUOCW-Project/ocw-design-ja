@@ -1,5 +1,6 @@
 {literal}
 <form  action="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$page_type}&amp;sort={$sort_selected}" method="post">
+{if $lang == "ja"}
 <h2>表示する授業の条件</h2>
 <img src="./images/common/redline.gif" id="line1" alt="">
 <div id="conditionbox">
@@ -11,15 +12,9 @@
 <td>{$each_name}</td>
 {/foreach} *}
 
-{if $lang == "ja"}
 <td>教員名</td>
 <td>開講年度</td>
 <td>授業の種類</td>
-{elseif $lang == "en"}
-<td>Head letter Of Instructor</td>
-<td>Year Selected</td>
-<td>Class Of lecture</td>
-{/if}
 </tr>
 
 <tr>
@@ -43,4 +38,6 @@ onMouseOut="this.src='./images/{$lang}/sort.png'"
 name="sort" alt="この条件で絞り込む">
 </form>
 </div>
+{else}
+{/if}
 {/literal}

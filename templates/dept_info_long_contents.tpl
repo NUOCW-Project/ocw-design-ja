@@ -27,8 +27,20 @@
 <!-- 部局紹介のビデオ終了 -->
 
 <div class="clear"></div>
+{if $lang=="en"}
 
+<div id="dep_info_title">
+<h1>Faculty Introduction</h1>
+</div>
+<div id="dep_info_dean_text">
+{$dept_info.dean_name|strip}<br>
+    {$dept_info.dean_position|strip}
+</div>
+
+{/if}
+<div id="dep_info_text">
 {eval var=$dept_info.description|strip}
+</div>
 
 <div class="clear"></div>
 
@@ -54,14 +66,18 @@
 
 
 	<!-- ------ Related Link 部分------ -->
-		<div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
-		<p>{if $lang=='ja'}●関連リンク{else}&loz; Related Link{/if}</p>
-		<!-- 関連リンクデータ -->
-		<p>
-		<a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
-		</p>
-		<!-- 関連リンクデータ -->
-		</div><!-- 関連リンクコンテンツセル終了 -->
+           
+  		 <div class="course_contents">    <!-- 関連リンクコンテンツセル開始 -->
+<p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
+               <p>{if $lang == "ja"} ●関連リンク{else}&loz;Related Link{/if}</p>
+
+
+                <!-- 関連リンクデータ -->
+                <p>
+                <a href="{$dept_info.department_url}">{$dept_info.department_name}</a>
+                </p>
+                <!-- 関連リンクデータ -->
+                </div><!-- 関連リンクコンテンツセル終了 -->
 
 	<!-- ------Related Link部分ここまで------ -->
 

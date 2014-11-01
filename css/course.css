@@ -1,0 +1,212 @@
+@charset "euc-jp";
+
+/*
+------------------------------------------------------------
+   コースページ    
+------------------------------------------------------------
+*/
+#caption{
+	padding: 25px 305px 0px 0px; /* 25pxより大きい気がするのは気のせい？ */
+	margin: 0px;
+}
+	
+	#publisher{
+		Color: #bbaa88;
+	}
+
+	#teacher{
+		font-size: xx-large;
+		font-family: 'ヒラギノ明朝 Pro W3', 'Hiragino Mincho Pro', 'ＭＳ Ｐ明朝', 'MS PMincho', 'MS　明朝', 'MS Mincho', serif;/* 明朝体 */
+		padding-top: 12px;
+		padding-bottom: 5px;
+	}
+
+	#occupation{
+		font-size: medium;
+		font-family: serif;/* 明朝体 */
+	}
+
+	#data{
+		padding: 1em;
+		border: solid 1px #cccccc;
+		background-color: #ecece6;
+	}
+
+	#class_for{
+	margin-left: 5em;
+	margin-top: -18px;
+	}
+
+	#movie{
+		padding-left: 5px;
+		padding-top: 110px;
+		margin-bottom: 2em;
+		float: right;
+		width: 300px;
+		text-align: center;
+		font-size: 15px;
+	}
+
+#line1{		/* 赤い水平線上 */
+	width: 690px;
+	height: 4px;
+}
+
+#main_text{
+	clear: right;/* 問題点：位置が左の部局リストの下まで下がってしまっている */
+}
+
+#line2{		/* 赤い水平線下 */
+	width:690px;
+	height:4px;
+	margin-top:18px;
+}
+
+#release_date {
+  text-align: left;
+  float: left;
+}
+
+#release_disclaimer{
+  text-align: right;
+  margin-bottom: 30px;
+}
+
+/*
+------------------------------------------------------------
+   コースページの本文
+------------------------------------------------------------
+*/
+.e_text {
+	float: left; 
+	margin: 0 0 0 0;
+	padding: 0 0 0 150px;
+}
+
+.e_text h2 {
+        float: left;
+        clear: left;
+	margin: 10px 0 0 -145px;
+	padding: 0 15px 0 15px;
+	width: 120px;
+	background-repeat: no-repeat;
+	color: #DD0000;
+	font-size: large;
+}
+
+.e_text h3 {
+	float: left;
+	clear: left; 
+	margin: 18px 0 0 -145px; 
+	padding: 0 0 0 15px;
+	width: 120px; 
+	background-image: url(../images/common/header3_box.png);
+	background-repeat: no-repeat;
+	color: rgb(221, 0, 0);
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.e_text h4, .e_text h5 {
+	float: left;
+	width: 555px;
+	margin: 18px 0 0 0;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.e_text p {
+	float: left; 
+	width: 555px;
+	margin: 18px 0 0 0; 
+}
+
+html*.e_text p {
+    float: none;  /*IE7ハック*/
+}
+
+.e_text ul, .e_text ol {
+	float: left;
+	width: 555px; 
+	margin: 18px 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.e_text ul li, .e_text ol li{
+	margin: 0 0 0 30px;
+	padding: 0 0 0 0;
+}
+
+.e_text ul li p, .e_text ol li p{
+	float: none;
+	width: auto;
+	margin: 0 0 18px 0; 
+}
+
+.e_text dl{
+	float: left;
+	width: 555px;
+	margin: 12px 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.e_text dl dt{
+	margin: 6px 0 0 0;
+}
+
+.e_text dl dd{
+	margin: 0 0 0 30px;
+	padding: 0 0 0 0;
+}
+
+.e_text * ul, .e_text * ol, .e_text * li{
+	float: none;
+	clear: left;
+	width: auto;
+	margin: 0 0 0 0;
+}
+
+
+.e_text table {
+	margin: 18px 0 0 0;
+}
+
+.e_text table p {
+	float: none;
+	width: auto;
+}
+
+table.basic {
+	border: 0;
+	border-collapse: collapse;
+	white-space: normal;
+}
+table.basic th {
+	border: 1px solid #999999;
+}
+
+table.basic td {
+	padding: 0 5px 0 5px;
+	border: 1px solid #999999;
+}
+
+table.basic h4 {
+	float: none;
+	width: auto;
+	margin: 10px 0 0 5px; 
+}
+
+table.basic p {
+	margin: 5px 0 5px 0;
+}
+
+table.basic ul, table.basic ol, table.basic dl {
+	width: auto;
+	margin: 10px 0 10px 0;
+	padding: 0 0 0 25px;
+}
+/* Facebook いいねボタンの位置  */
+.fb_iframe_widget{
+    top: -5px;
+    margin: 0 0 0 20px;
+}

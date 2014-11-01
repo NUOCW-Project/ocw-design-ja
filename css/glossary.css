@@ -1,0 +1,46 @@
+@charset "euc-jp";
+/*
+------------------------------------------------------------
+   用語解説 
+------------------------------------------------------------
+*/
+.g_text {
+	padding-left: 150px;
+	margin-bottom: 45px;
+}
+
+.g_text p{
+	margin-bottom: 20px;
+}
+
+.g_text ul{
+	margin: -10px 0px 0px;
+	padding-left: 20px;
+}
+
+.g_text h3, .g_text dt {
+	font-size: 13px;
+	font-weight: bold;
+	background-image: url(../images/common/header3_box.png);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 0px;
+	margin: 0px 0px 0px -145px;
+	width: 110px;
+	float: left;
+	/*  clear: left;*/
+}
+
+.g_text h2 {
+	font-size: large;
+	font-weight: normal;
+	color: rgb(221, 0, 0);
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 0px;
+	margin: 0px 0px 0px -145px;
+	width: 110px;
+	float: left;
+	/*  clear: left;*/
+}

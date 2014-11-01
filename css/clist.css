@@ -1,0 +1,195 @@
+@charset "euc-jp";
+
+/*
+------------------------------------------------------------
+   コースリスト
+------------------------------------------------------------
+*/
+#conditionbox{
+	background-image:url(../images/common/courselist_list.png);
+	background-repeat: no-repeat;
+	width: 700px;
+	height: 115px;
+	margin-left: -5px;
+	padding: 0px;
+}
+
+#sort {
+	clear: both;
+	float: right;
+	margin-right: 15px;
+	margin-top: -35px; 
+}
+
+table#menu_list{
+	position: relative;
+	top: -90px;
+	left: 10px;
+	border-spacing: 10px 0px;
+}
+
+#line1{		/* 赤い水平線上 */
+	width: 690px;
+	height: 4px;
+}
+
+#menu_submit{
+	float: right;
+	margin-right: 25px;		
+	margin-top: -105px; 
+}
+
+table.sorttable{
+	max-width: 690px;
+	/*margin-top: -10px;*/
+	margin-bottom: 50px;	
+}
+
+#dep_introduce{
+        margin-left: -5px;
+        margin-bottom: 30px;
+        background-image: url("../images/ja/devision.png");
+        background-repeat: no-repeat;
+        width: 710px;
+        height: 300px;
+}
+
+#dep_introduce h2,
+#dep_introduce h3,
+#dep_introduce h4{
+	display : none;
+}
+
+#dep_introduce_en{
+        margin-left: -5px;
+        margin-bottom: 30px;
+        background-image: url("../images/en/devision.png");
+        background-repeat: no-repeat;
+        width: 710px;
+        height: 300px;
+}
+
+#dep_introduce_en h2,
+#dep_introduce_en h3,
+#dep_introduce_en h4{
+	display : none;
+}
+
+#dep_info_title{
+        position: relative;
+        top: 16px;
+        width: 705px;
+        height:19px;
+}
+
+#dep_info_dean_text{
+    position: relative;
+        top: 12px;
+        width: 705px;
+        height: 38px;
+        text-align: right;
+}
+
+#dep_info_text{
+        position: relative;
+        top: 12px;
+        width: 705px;
+}
+
+#dep_txt{
+	position: relative;
+	top: 90px; left: 35px;
+	width: 300px;
+	height: 200px;
+}
+
+
+#dep_info_head_dean{
+  position: relative;
+  top: 70px; left: 35px; 
+  width: 630px;
+  text-align: right;
+}
+
+#dep_txt_en{
+        position: relative;
+        top: 90px; left: 35px;
+        width: 630px;
+        height: 200px;
+        overflow: hidden;
+}
+
+#dep_txt_en flv{
+        display: none;
+}
+
+a#more{
+  display: block;
+	position: relative;
+	left: 265px;
+}
+
+a#more_en{
+  display: block;
+  text-align: right;
+}
+
+
+#dep_url{
+	position: relative;
+	top: 10px; left: 0px;
+	margin: 0px; 
+}
+
+#dep_url_en{
+        position: relative;
+	top: 10px; left: 0px;
+        margin: 0px;
+}
+
+
+#dep_movie{
+	position: absolute;
+	top: 195px;
+	left: 590px;
+	font-size: 25px;
+}
+
+/*
+------------------------------------------------------------
+   自動生成でないコースリスト用
+------------------------------------------------------------
+*/
+table.relay {
+	clear: right;
+	margin: 0 10px 25px 0;
+	border: 0;
+	border-collapse: collapse;
+	white-space: normal;
+}
+
+table.farewell {
+	margin: 0 10px 25px 0;
+	border:0;
+	border-collapse: collapse;
+	white-space:normal;
+}
+
+table.relay th, table.farewell th {
+	border: 1px solid #999999;
+}
+
+table.relay td, table.farewell td {
+	padding: 0 5px;
+	border: 1px solid #999999;
+}
+
+#podcast_right{
+	position: relative;
+	float: right;
+	width: 160px;
+	margin: 10px 10px 10px 10px;
+	padding: 0;
+	background-color: white;
+}
+

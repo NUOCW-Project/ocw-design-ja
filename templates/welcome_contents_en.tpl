@@ -1,23 +1,24 @@
 <div class="welcome_img">
-  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000"
+<a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=1350&categoryCode=110" target="blank"><img src="http://ocw.nagoya-u.jp/images/ja/goaisatu.png"></a>
+<!--  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000"
         codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"
         width="300" height="280">
   <param name="movie" value="./player.swf">
   <param name="quality" value="high">
   <param name="wmode" value="transparent">
-  <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001090/FLASH-FLV/2009_yamamoto_ocw_eng.flv">
-  <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001090/FLASH-FLV/2009_yamamoto_ocw_eng.flv"
+  <param name="FlashVars" value="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001900/FLASH-FLV/OCW20130625_Onoki.flv">
+  <embed src="./player.swf" FlashVars="FLV_URL=rtmp://ms011.media.nagoya-u.ac.jp/video/S0001900/FLASH-FLV/OCW20130625_Onoki.flv"
          quality="high"
          pluginspage="http://www.macromedia.com/go/getflashplayer"
          type="application/x-shockwave-flash" wmode="transparent"
          width="300" height="280"></embed>
-</object>
+</object>-->
   </div>
 
 
 
 <div class="welcome_name">
-	<p class="welcome_b">Ichiro Yamamoto</p>
+	<p class="welcome_b">Katsuaki Onogi</p>
 	<span class="b">
 	Chairperson,<br>
 	OpenCourseWare Committee,<br>
