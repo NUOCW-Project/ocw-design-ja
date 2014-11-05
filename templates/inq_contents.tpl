@@ -1,32 +1,32 @@
 {literal}
 {if $step==3}
-<h1>���ƥå�3/3</h1>
-<p>���ո���������򤢤꤬�Ȥ��������ޤ�����</p>
-<p>�ʲ������ƤǼ����դ��ޤ�����<br>
-�ֿ��򤴴�˾�ξ�硢¿���Τ����֤�ĺ����礬�������ޤ��� <br>
-�ޤ������٤ƤΤ��ո�������˾�����䤤��碌�ˤ������Ǥ��ʤ����⤢��ޤ���<br>
-���餫���ᤴλ������������</p>
+<h1>ステップ3/3</h1>
+<p>ご意見・ご質問をありがとうございました。</p>
+<p>以下の内容で受け付けました。<br>
+返信をご希望の場合、多少のお時間を頂く場合がございます。 <br>
+また、すべてのご意見・ご要望・お問い合わせにお答えできない場合もあります。<br>
+あらかじめご了承ください。</p>
 <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 {elseif $step==2}
-<h1>���ƥå�2/3</h1>
-<p>���Ƥ򤴳�ǧ�Τ��������������С֥ե�����������ץܥ���򲡤��Ʋ�������<br>
-   �����������硢�����ץܥ���򲡤��Ʋ�������</p>
+<h1>ステップ2/3</h1>
+<p>内容をご確認のうえ、よろしければ「フォームの送信」ボタンを押して下さい。<br>
+   訂正がある場合、「戻る」ボタンを押して下さい。</p>
 <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
 {else}
-<p>��̾��μ��ȡפˤĤ��ƤΤ���礻�ϰʲ��Υե����फ�餪�ꤤ���ޤ���</p>
-<p>���ո�����������Ԥ����Ƥ���ޤ���</p>
+<p>「名大の授業」についてのお問合せは以下のフォームからお願いします。</p>
+<p>ご意見・ご質問をお待ちしております。</p>
 <p><img src="./images/common/dot_gray.gif" height="10" width="325"></p>
-<h1>���ƥå�1/3</h1>
+<h1>ステップ1/3</h1>
   {if $err_message}
-  <p class="inq_err">�ֻ��ι��ܤ����ϥߥ�������ޤ����������Τ��������������Ƥγ�ǧ�ץܥ���򲡤��Ʋ�������</p>
+  <p class="inq_err">赤字の項目に入力ミスがあります。ご修正のうえ、「入力内容の確認」ボタンを押して下さい。</p>
   {else}
-  <p>�ʲ��Υե�����򤹤٤Ƥ������Τ��������������Ƥγ�ǧ�ץܥ���򲡤��Ʋ�������</p>
+  <p>以下のフォームをすべてご記入のうえ、「入力内容の確認」ボタンを押して下さい。</p>
   {/if}
 {/if}
 
 <form  class="feedback" action="inquiry.php" method="post">
 	<h2 class="inq {if $err_message.toiawase}inq_err{/if}">
-  1. ���ո���������μ���{if $step!=3}�򣱤�����Ǥ�������{/if}��
+  1. ご意見・ご質問の種類{if $step!=3}を１つ選んでください{/if}：
   </h2>
     {if $step > 1}
     {assign var=ans value=$inputdata.toiawase}
@@ -39,7 +39,7 @@
     {/if}
 			
 	<h2 class="inq {if $err_message.shokugyo}inq_err{/if}">
-	2. ���ʤ��ϡ�
+	2. あなたは：
   </h2>
     {if $step > 1}
     {assign var=ans value=$inputdata.shokugyo}
@@ -52,7 +52,7 @@
     {/if}
 
 	<h2 class="inq {if $err_message.pref}inq_err{/if}">
-	3. �����ޤ�����ƻ�ܸ���
+	3. お住まいの都道府県：
   </h2>
     {if $step > 1}
     {assign var=ans value=$inputdata.pref}
@@ -65,18 +65,18 @@
     {/if}
 
 	<h2 class="inq {if $err_message.title}inq_err{/if}">
-	4. ��̾{if $step!=3}�򤴵���������{/if}��
+	4. 件名{if $step!=3}をご記入下さい{/if}：
   </h2>
     {if $step > 1}
     <p>{$inputdata.title|escape}</p>
     <input type="hidden" name="title" value="{$inputdata.title}">
     {else}
-	  <p>���㡧�����˴ؤ��붵���������Ƥۤ��������������μ��ȶ����������Ƥۤ������ʤɡ�</p>
+	  <p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
 		<input type="text" name="title" class="fixed_width" value="{$inputdata.title|escape}">
     {/if}
 		
 	<h2 class="inq {if $err_message.content}inq_err{/if}">
-	5. ����{if $step!=3}�����Ū�ˤ�������������{/if}��
+	5. 内容{if $step!=3}を具体的にご記入ください{/if}：
   </h2>
     {if $step > 1}
     <p>{$inputdata.content|escape|nl2br}</p>
@@ -86,7 +86,7 @@
     {/if}
 
 	<h2 class="inq {if $err_message.c_name}inq_err{/if}">
-	6. ��̾����
+	6. お名前：
   </h2>
     {if $step > 1}
     <p>{$inputdata.c_name|escape}</p>
@@ -96,7 +96,7 @@
     {/if}
 
 	<h2 class="inq {if $err_message.c_email}inq_err{/if}">
-	7. Ϣ����ǽ�ʣť᡼�륢�ɥ쥹��
+	7. 連絡可能なＥメールアドレス：
   </h2>
     {if $err_message.c_email}
     <p class="inq_err">{$err_message.c_email}</p>
@@ -108,23 +108,23 @@
     <input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
     {/if}
 
-  <p>�����Ϥ���ĺ���ޤ�������ϡ��ܥ����Ȥβ��������¤ΰ٤����Ѥ�������¾����Ū�Ǥλ��ѵڤ��軰�Ԥؤ��󶡤��פ��ޤ���</p>
+  <p>※入力して頂きました情報は、本サイトの改善・充実の為に利用し、その他の目的での使用及び第三者への提供は致しません。</p>
 
   {if $step==3}
   {elseif $step==2}
-	<input type="submit" name="submit" value="�ե����������">
-	<input type="submit" name="submit" value="���">
+	<input type="submit" name="submit" value="フォームの送信">
+	<input type="submit" name="submit" value="戻る">
   {else}
-	<input type="submit" name="submit" value="{if $step==2}�ե����������{else}�������Ƥγ�ǧ{/if}">
-	<input type="reset" name="" value="�ꥻ�å�">
+	<input type="submit" name="submit" value="{if $step==2}フォームの送信{else}入力内容の確認{/if}">
+	<input type="reset" name="" value="リセット">
   {/if}
 </form>
 {/literal}
 
 <p><img src="./images/common/dot_gray.gif" height="10" width="325"><br>
-��464-8603 ̾�Ų���������ϷĮ<br>
-̾�Ų���� �����ǥ������饻�󥿡��� OCW��̳��<br>
-���á�052-789-3904<br>
-�Żҥ᡼�롧<img src="./images/common/mail_inq.gif" height="15" width="210"><br>
-�����ѥ��к��Τ��ᡢ�᡼�륢�ɥ쥹�ϲ����ե�����ˤʤäƤ���ޤ���</p>
+〒464-8603 名古屋市千種区不老町<br>
+名古屋大学 情報メディア教育センター内 OCW事務室<br>
+電話：052-789-3904<br>
+電子メール：<img src="./images/common/mail_inq.gif" height="15" width="210"><br>
+※スパム対策のため、メールアドレスは画像ファイルになっております。</p>
 
