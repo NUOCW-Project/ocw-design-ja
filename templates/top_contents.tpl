@@ -6,11 +6,11 @@
 
 
 <!-- Topics 特別編 -->
-<div id=special_head>
-        <a href="./index.php?lang=ja&mode=c&id=261&page_type=index"> {*http://ocw.nagoya-u.jp/ index.php?lang=ja&mode=c&id=261&page_type=index*}
-<img src="./images/ja/nobel.png" alt="天野浩教授の講義「電磁気学I」名大の授業で公開中" width="694" height="399" >
-          </a>
-  </div>
+<div id="special_head">
+    <a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=3735&categoryCode=110&videoType=0">
+        <img src="./images/ja/nobel_interview.png" alt="天野浩教授への受賞記念インタビュー" width="694" height="399" >
+    </a>
+</div>
 <!-- Topics 特別編 end -->
 <!-- 広がる世界 -->
 <div id="topics_head">
