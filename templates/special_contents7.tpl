@@ -8,7 +8,7 @@
     
 <div id="tp_default">
 <div id="intro_message">
-<img src="./images/ja/topics6/headder.png" alt="0と1がつなぐ社会">
+<img src="./images/ja/topics7/headder.png" alt="0と1がつなぐ社会">
 <p>
 コンピュータやインターネットが高度に発達した現代の社会。
 情報技術の進歩は、日々の生活に大きな変化をもたらしています。
@@ -44,7 +44,7 @@
 </li>
 
 <li>
-<div class="art_title">
+<nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
 <dl>
 <dt>情報通信工学第2</dt>
@@ -52,7 +52,7 @@
 <dd>工学部・工学研究科</dd>
 </dl>
 </a>
-</div>
+</nav>
 </li>
 
 <li>
@@ -85,8 +85,7 @@
 
 <li>
 <article>
-<p class="tp_link"><img id="window_close" src="./images/ja/topics7/window_close.png"></p>
-<h1 id="start">始めに</h1>
+<h1>始めに</h1>
 <p>このページの使い方</p>
 <p class="lead">
 <ol>
