@@ -79,20 +79,20 @@
 </nav>
 </li>
   
-</ul><!-- "articles_title" end -->
+</ul>{* "articles_title" end *}
 
 <ul id="articles_intro">
 
 <li>
 <article>
-<p class="tp_link"><img id="window_close" src="./images/ja/topics6/window_close.png"></p>
-<h2 id="start">始めに</h2>
+<p class="tp_link"><img id="window_close" src="./images/ja/topics7/window_close.png"></p>
+<h1 id="start">始めに</h1>
 <p>このページの使い方</p>
 <p class="lead">
 <ol>
 <li>左欄の興味がある授業へポインタを移動させると、<br>
 授業の説明が出てきます。</li>
-<li>詳しく知りたかったら上の窓をクリック！<br>
+<li>詳しく知りたかったら下に表示されるボタンをクリック！<br>
 授業の詳しい説明が読めます。</li>
 </ol>
 </p>    
@@ -101,7 +101,7 @@
 
 <li>
 <article>
-<h2>解析のカギ「数値計算」</h2>
+<h1>解析のカギ「数値計算」</h1>
 <p>
 <img src="./images/ja/topics7/suzuki_kanban.GIF" alt="">
 </p>
@@ -112,15 +112,15 @@
 数値計算では、様々な情報を数学や物理を用いて近似的に解き、解析していきます。
 この講義で数値計算を学び、種々の課題を解決するための術を知りましょう。
 </p>
-<p>
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=58&page_type=index">
 <img src="./images/ja/topics7" alt="授業を見る">
-</p>
+</a>
 </article>
 </li>
 
 <li>
 <article>
-<h2>現代社会を見渡す</h2>
+<h1>現代社会を見渡す</h1>
 <p>
 <img src="./images/ja/topics6/sato_kanban.jpg" alt="">
 </p>
@@ -131,15 +131,15 @@
 そしてそれらの仕組みを知り、個々のシステムを広い視野で理解する力を身につけます。
 社会というシステムを見渡すことで、私たちのこれからについて考えてみましょう。
 </p>
-<p>
+<a href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
 <img src="./images/ja/topics7" alt="授業を見る">
-</p>
+</a>
 </article>
 </li>
 
 <li>
 <article>
-<h2>つながる仕組み</h2>
+<h1>つながる仕組み</h1>
 <p>
 <img src="./images/ja/topics6/katayama_kanban.png" alt="">
 </p>
@@ -149,15 +149,15 @@
 この講義では、スマートフォンなどの通信機器に使われている技術と、それを明確に説明するための数学的表現を紹介します。
 身近にありながら知らないことの多い通信技術、一度詳しく学んでみませんか？
 </p>
-<p>
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
 <img src="./images/ja/topics7" alt="授業を見る">
-</p>
+</a>
 </article>  
 </li>
 
 <li>
 <article>
-<h2>法や思想の立場から、情報化社会と向き合う</h2>
+<h1>法や思想の立場から、情報化社会と向き合う</h1>
 <p>
 <img src="./images/ja/topics6/ooya_kanban1.png" alt="">
 </p>
@@ -168,15 +168,15 @@
 激動し続ける情報化社会に、法はどう対応すればよいのでしょうか。
 法や思想の観点から、情報化社会を読み解いてみませんか。
 </p>
-<p>
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
 <img src="./images/ja/topics7" alt="授業を見る">
-</p>
+</a>
 </article>
 </li>
 
 <li>
 <article>
-<h2>情報技術で人工世界を創り、考える</h2>
+<h1>情報技術で人工世界を創り、考える</h1>
 <p>
 <img src="./images/ja/topics6/ooya_kanban2.jpg" alt="">
 </p>
@@ -186,11 +186,11 @@
 更に得られたデータを可視化して分析する方法を学びます。
 情報科学の技術で、世界の動きを考えてみましょう。
 </p>
-<p>
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
 <img src="./images/ja/topics7" alt="授業を見る">
-</p>
+</a>
 </article>
 </li>
 
-</ul><!-- articles_intro">
-</div><!-- "tp_default" end -->
+</ul>{* articles_intro" *}
+</div>{* "tp_default" end *}
