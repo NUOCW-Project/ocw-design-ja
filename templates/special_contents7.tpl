@@ -191,5 +191,9 @@
 </article>
 </li>
 
+<div class ="test">
+<p>テスト test テスト test</p>
+</div>
+
 </ul>{* articles_intro" *}
 </div>{* "tp_default" end *}
