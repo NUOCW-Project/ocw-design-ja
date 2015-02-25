@@ -17,7 +17,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <li>
 <nav> 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=58&page_type=index">
-<img src="./image/ja/topics7/suzuki_lead.png" alt="計算情報学Ⅰ, 鈴木泰博 准教授, 情報文化学部">
+<img src="./images/ja/topics7/suzuki_lead.png" alt="計算情報学Ⅰ, 鈴木泰博 准教授, 情報文化学部">
 </a>
 </nav>
 </li>
@@ -25,7 +25,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <li>
 <nav>  
 <a href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
-<img src="./image/ja/topics7/sato_lead.png" alt="システム論の基礎, 佐藤充 教授, 環境学研究科">
+<img src="./images/ja/topics7/sato_lead.png" alt="システム論の基礎, 佐藤充 教授, 環境学研究科">
 </a>
 </nav>
 </li>
@@ -33,7 +33,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
-<img src="./image/ja/topics7/katayama_lead.png" alt="情報通信工学第2, 片山正昭 教授, 工学部・工学研究科">
+<img src="./images/ja/topics7/katayama_lead.png" alt="情報通信工学第2, 片山正昭 教授, 工学部・工学研究科">
 </a>
 </nav>
 </li>
@@ -41,7 +41,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
-<img src="./image/ja/topics7/ooya_lead1.png" alt="情報と法, 大屋雄裕 教授, 教養教育院">
+<img src="./images/ja/topics7/ooya_lead1.png" alt="情報と法, 大屋雄裕 教授, 教養教育院">
 </a>
 </nav>
 </li>
@@ -49,7 +49,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
-<img src="./image/ja/topics7/ooya_lead2.png" alt="複雑系プログラミング特論, 大屋雄裕 教授, 情報科学研究科">
+<img src="./images/ja/topics7/ooya_lead2.png" alt="複雑系プログラミング特論, 大屋雄裕 教授, 情報科学研究科">
 </a>
 </nav>
 </li>
