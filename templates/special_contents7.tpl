@@ -8,7 +8,7 @@
     
 <div id="tp_default">
 <div id="intro_message">
-<img src="./images/ja/topics7/headder.png" alt="0と1がつなぐ社会">
+<img src="./images/ja/topics7/header.png" alt="0と1がつなぐ社会">
 <p>
 コンピュータやインターネットが高度に発達した現代の社会。
 情報技術の進歩は、日々の生活に大きな変化をもたらしています。
@@ -22,6 +22,7 @@
 <li>
 <nav> 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=58&page_type=index">
+{*<img src="./image/ja/topics7/suzuki_lead.png" alt="計算情報学Ⅰ, 鈴木泰博 准教授">*}
 <dl>
 <dt>計算情報学Ⅰ</dt>
 <dd>鈴木泰博 准教授</dd>
@@ -34,6 +35,7 @@
 <li>
 <nav>  
 <a href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
+{*<img src="./image/ja/topics7/sato_lead.png" alt="システム論の基礎, 佐藤充 教授">*}
 <dl>
 <dt>システム論の基礎</dt>
 <dd>佐藤充 教授</dd>
@@ -46,6 +48,7 @@
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
+{*<img src="./image/ja/topics7/katayama_lead.png" alt="情報通信工学第2, 片山正昭 教授">*}
 <dl>
 <dt>情報通信工学第2</dt>
 <dd>片山正昭 教授</dd>
@@ -58,6 +61,7 @@
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
+{*<img src="./image/ja/topics7/ooya_lead1.png" alt="情報と法, 大屋雄裕 教授">*}
 <dl>
 <dt>情報と法</dt>
 <dd>大屋雄裕 教授</dd>
@@ -70,6 +74,7 @@
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
+{*<img src="./image/ja/topics7/ooya_lead2.png" alt="複雑系プログラミング特論, 大屋雄裕 教授">*}
 <dl>
 <dt>複雑系プログラミング特論</dt>
 <dd>大屋雄裕 教授</dd>
@@ -86,6 +91,9 @@
 <li>
 <article>
 <h1>始めに</h1>
+<p>
+<img src="./images/ja/topics7/start.png" alt="">
+</p>
 <p>このページの使い方</p>
 <p class="lead">
 <ol>
@@ -102,7 +110,7 @@
 <article>
 <h1>解析のカギ「数値計算」</h1>
 <p>
-<img src="./images/ja/topics7/suzuki_kanban.GIF" alt="">
+<img src="./images/ja/topics7/suzuki_kanban.png" alt="">
 </p>
 <p class="lead">
 コンピューターによるシミュレーションはありとあらゆる分野で使われています。
@@ -112,7 +120,7 @@
 この講義で数値計算を学び、種々の課題を解決するための術を知りましょう。
 </p>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=58&page_type=index">
-<img src="./images/ja/topics7" alt="授業を見る">
+<img src="./images/ja/topics7/go.png" alt="授業を見る">
 </a>
 </article>
 </li>
@@ -121,7 +129,7 @@
 <article>
 <h1>現代社会を見渡す</h1>
 <p>
-<img src="./images/ja/topics6/sato_kanban.jpg" alt="">
+<img src="./images/ja/topics6/sato_kanban.png" alt="">
 </p>
 <p class="lead">
 情報技術が急速に発展した現代社会。
@@ -131,7 +139,7 @@
 社会というシステムを見渡すことで、私たちのこれからについて考えてみましょう。
 </p>
 <a href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
-<img src="./images/ja/topics7" alt="授業を見る">
+<img src="./images/ja/topics7/go.png" alt="授業を見る">
 </a>
 </article>
 </li>
@@ -149,7 +157,7 @@
 身近にありながら知らないことの多い通信技術、一度詳しく学んでみませんか？
 </p>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
-<img src="./images/ja/topics7" alt="授業を見る">
+<img src="./images/ja/topics7/go.png" alt="授業を見る">
 </a>
 </article>  
 </li>
@@ -168,7 +176,7 @@
 法や思想の観点から、情報化社会を読み解いてみませんか。
 </p>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
-<img src="./images/ja/topics7" alt="授業を見る">
+<img src="./images/ja/topics7/go.png" alt="授業を見る">
 </a>
 </article>
 </li>
@@ -177,7 +185,7 @@
 <article>
 <h1>情報技術で人工世界を創り、考える</h1>
 <p>
-<img src="./images/ja/topics6/ooya_kanban2.jpg" alt="">
+<img src="./images/ja/topics6/ooya_kanban2.png" alt="">
 </p>
 <p class="lead">
 現在、生命や社会現象などさまざまな分野の研究で、コンピュータ上でモデルを作ってシミュレーションし理解する、という試みがなされています。
@@ -186,14 +194,10 @@
 情報科学の技術で、世界の動きを考えてみましょう。
 </p>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
-<img src="./images/ja/topics7" alt="授業を見る">
+<img src="./images/ja/topics7/go.png" alt="授業を見る">
 </a>
 </article>
 </li>
-
-<div class ="test">
-<p>テスト test テスト test</p>
-</div>
 
 </ul>{* articles_intro" *}
 </div>{* "tp_default" end *}
