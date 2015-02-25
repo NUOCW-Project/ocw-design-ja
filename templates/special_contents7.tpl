@@ -1,6 +1,3 @@
-<img src="./images/ja/topics7/topics.png" id="tp_door" alt="名大の授業 TOPICS No.7">
-
-
 <noscript>
 <p>名大の授業 (NUOCW) では, Javascript を ON にして当サイトを閲覧されることを想定しています.</p>
 </noscript>
@@ -8,12 +5,10 @@
     
 <div id="tp_default">
 <div id="intro_message">
-<img src="./images/ja/topics7/header.png" alt="0と1がつなぐ社会">
-<p>
-コンピュータやインターネットが高度に発達した現代の社会。
+<img src="./images/ja/topics7/header.png" 
+alt="0と1がつなぐ社会 コンピュータやインターネットが高度に発達した現代の社会。
 情報技術の進歩は、日々の生活に大きな変化をもたらしています。
-そのような「情報」と、どう向き合えば良いのか、一緒に考えてみませんか？
-</p>
+そのような「情報」と、どう向き合えば良いのか、一緒に考えてみませんか？">
 </div>
 
 
@@ -22,12 +17,7 @@
 <li>
 <nav> 
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=58&page_type=index">
-{*<img src="./image/ja/topics7/suzuki_lead.png" alt="計算情報学Ⅰ, 鈴木泰博 准教授">*}
-<dl>
-<dt>計算情報学Ⅰ</dt>
-<dd>鈴木泰博 准教授</dd>
-<dd>情報文化学部</dd>
-</dl>
+<img src="./image/ja/topics7/suzuki_lead.png" alt="計算情報学Ⅰ, 鈴木泰博 准教授, 情報文化学部">
 </a>
 </nav>
 </li>
@@ -35,12 +25,7 @@
 <li>
 <nav>  
 <a href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
-{*<img src="./image/ja/topics7/sato_lead.png" alt="システム論の基礎, 佐藤充 教授">*}
-<dl>
-<dt>システム論の基礎</dt>
-<dd>佐藤充 教授</dd>
-<dd>環境学研究科</dd>
-</dl>
+<img src="./image/ja/topics7/sato_lead.png" alt="システム論の基礎, 佐藤充 教授, 環境学研究科">
 </a>
 </nav>
 </li>
@@ -48,12 +33,7 @@
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
-{*<img src="./image/ja/topics7/katayama_lead.png" alt="情報通信工学第2, 片山正昭 教授">*}
-<dl>
-<dt>情報通信工学第2</dt>
-<dd>片山正昭 教授</dd>
-<dd>工学部・工学研究科</dd>
-</dl>
+<img src="./image/ja/topics7/katayama_lead.png" alt="情報通信工学第2, 片山正昭 教授, 工学部・工学研究科">
 </a>
 </nav>
 </li>
@@ -61,12 +41,7 @@
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
-{*<img src="./image/ja/topics7/ooya_lead1.png" alt="情報と法, 大屋雄裕 教授">*}
-<dl>
-<dt>情報と法</dt>
-<dd>大屋雄裕 教授</dd>
-<dd>教養教育院</dd>
-</dl>
+<img src="./image/ja/topics7/ooya_lead1.png" alt="情報と法, 大屋雄裕 教授, 教養教育院">
 </a>
 </nav>
 </li>
@@ -74,12 +49,7 @@
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
-{*<img src="./image/ja/topics7/ooya_lead2.png" alt="複雑系プログラミング特論, 大屋雄裕 教授">*}
-<dl>
-<dt>複雑系プログラミング特論</dt>
-<dd>大屋雄裕 教授</dd>
-<dd>情報科学研究科</dd>
-</dl>
+<img src="./image/ja/topics7/ooya_lead2.png" alt="複雑系プログラミング特論, 大屋雄裕 教授, 情報科学研究科">
 </a>
 </nav>
 </li>
