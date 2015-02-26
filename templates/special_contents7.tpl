@@ -64,12 +64,12 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <p>
 <img src="./images/ja/topics7/start.png" alt="">
 </p>
-<p id="use">このページの使い方</p>
-<p id="start">
+<p class="use">このページの使い方</p>
+<p class="start">
 <ol>
 <li>左欄の興味がある授業へポインタを移動させると、<br>
 授業の説明が出てきます。</li>
-<li>詳しく知りたかったら下に表示されるボタンをクリック！<br>
+<li>詳しく知りたかったら下に出るボタンをクリック！<br>
 授業の詳しい説明が読めます。</li>
 </ol>
 </p>    
@@ -108,7 +108,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 そしてそれらの仕組みを知り、個々のシステムを広い視野で理解する力を身につけます。
 社会というシステムを見渡すことで、私たちのこれからについて考えてみましょう。
 </p>
-<a class="go" href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
+<a href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
 <img src="./images/ja/topics7/go.png" alt="授業を見る">
 </a>
 </article>
@@ -126,7 +126,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 この講義では、スマートフォンなどの通信機器に使われている技術と、それを明確に説明するための数学的表現を紹介します。
 身近にありながら知らないことの多い通信技術、一度詳しく学んでみませんか？
 </p>
-<a class="go" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
 <img src="./images/ja/topics7/go.png" alt="授業を見る">
 </a>
 </article>  
@@ -145,7 +145,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 激動し続ける情報化社会に、法はどう対応すればよいのでしょうか。
 法や思想の観点から、情報化社会を読み解いてみませんか。
 </p>
-<a class="go" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
 <img src="./images/ja/topics7/go.png" alt="授業を見る">
 </a>
 </article>
@@ -163,7 +163,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 更に得られたデータを可視化して分析する方法を学びます。
 情報科学の技術で、世界の動きを考えてみましょう。
 </p>
-<a class="go" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
 <img src="./images/ja/topics7/go.png" alt="授業を見る">
 </a>
 </article>
