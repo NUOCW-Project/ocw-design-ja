@@ -49,7 +49,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
-<img src="./images/ja/topics7/ooya_lead2.png" alt="複雑系プログラミング特論, 大屋雄裕 教授, 情報科学研究科">
+<img src="./images/ja/topics7/ooya_lead2.png" alt="複雑系プログラミング特論, 鈴木麗璽 准教授, 情報科学研究科">
 </a>
 </nav>
 </li>
