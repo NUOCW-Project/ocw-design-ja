@@ -64,8 +64,8 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <p>
 <img src="./images/ja/topics7/start.png" alt="">
 </p>
-<p>このページの使い方</p>
-<p class="lead">
+<p class="use">このページの使い方</p>
+<p class="start">
 <ol>
 <li>左欄の興味がある授業へポインタを移動させると、<br>
 授業の説明が出てきます。</li>
