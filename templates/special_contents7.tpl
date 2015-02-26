@@ -41,7 +41,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
-<img src="./images/ja/topics7/ooya_lead1.png" alt="情報と法, 大屋雄裕 教授, 教養教育院">
+<img src="./images/ja/topics7/ooya_lead.png" alt="情報と法, 大屋雄裕 教授, 教養教育院">
 </a>
 </nav>
 </li>
@@ -49,7 +49,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <li>
 <nav>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
-<img src="./images/ja/topics7/ooya_lead2.png" alt="複雑系プログラミング特論, 鈴木麗璽 准教授, 情報科学研究科">
+<img src="./images/ja/topics7/rsuzuki_lead.png" alt="複雑系プログラミング特論, 鈴木麗璽 准教授, 情報科学研究科">
 </a>
 </nav>
 </li>
@@ -99,7 +99,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <article>
 <h1>現代社会を見渡す</h1>
 <p>
-<img src="./images/ja/topics6/sato_kanban.png" alt="">
+<img src="./images/ja/topics7/sato_kanban.png" alt="">
 </p>
 <p class="lead">
 情報技術が急速に発展した現代社会。
@@ -118,7 +118,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <article>
 <h1>つながる仕組み</h1>
 <p>
-<img src="./images/ja/topics6/katayama_kanban.png" alt="">
+<img src="./images/ja/topics7/katayama_kanban.png" alt="">
 </p>
 <p class="lead">
 スマートフォンや無線LANなどの普及により、無線通信の技術が私たちの生活に浸透してきました。
@@ -136,7 +136,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <article>
 <h1>法や思想の立場から、情報化社会と向き合う</h1>
 <p>
-<img src="./images/ja/topics6/ooya_kanban1.png" alt="">
+<img src="./images/ja/topics7/ooya_kanban.png" alt="">
 </p>
 <p class="lead">
 情報技術の進歩は、私たちの生活と社会を大きく変えました。今まで実現できなかったことが、次々と実現できるようになっています。
@@ -155,7 +155,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <article>
 <h1>情報技術で人工世界を創り、考える</h1>
 <p>
-<img src="./images/ja/topics6/ooya_kanban2.png" alt="">
+<img src="./images/ja/topics7/rsuzuki_kanban.png" alt="">
 </p>
 <p class="lead">
 現在、生命や社会現象などさまざまな分野の研究で、コンピュータ上でモデルを作ってシミュレーションし理解する、という試みがなされています。
