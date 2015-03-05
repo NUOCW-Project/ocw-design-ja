@@ -101,6 +101,8 @@
   {/if}
 {elseif $lang=='ja' && ($page_type=='topics2015' || $page_type=='topics2014' || $page_type=='topics2013' || $page_type=='topics_branches' || $page_type=='special' || $page_type=='topics2010' )}
   <script type="text/javascript" src="./js/noDisplay.js"></script>
+{elseif $lang=='ja' && $page_type=='topics2015'}
+  <script type="text/javascript" src="./js/topics2015.js"></script>
 {elseif $lang=='ja' && $page_type=='summercamp'}
   <script type="text/javascript" src="./js/jquery.youtubeplaylist.js"></script>
   <script type="text/ecmascript" src="./js/youtube.js"></script>
