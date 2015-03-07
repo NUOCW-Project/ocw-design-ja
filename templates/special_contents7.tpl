@@ -25,7 +25,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <li>
 <nav>  
 <a href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
-<img src="./images/ja/topics7/sato_lead.png" alt="システム論の基礎, 佐藤充 教授, 環境学研究科">
+<img src="./images/ja/topics7/sano_lead.png" alt="システム論の基礎, 佐野充 教授, 環境学研究科">
 </a>
 </nav>
 </li>
@@ -99,7 +99,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <article>
 <h1>現代社会を見渡す</h1>
 <p>
-<img src="./images/ja/topics7/sato_kanban.png" alt="">
+<img src="./images/ja/topics7/sano_kanban.png" alt="">
 </p>
 <p class="lead">
 情報技術が急速に発展した現代社会。
