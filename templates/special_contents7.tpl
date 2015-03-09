@@ -134,7 +134,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 
 <li>
 <article>
-<h1>法や思想の立場から、情報化社会と向き合う</h1>
+<h1>法や思想の立場から、<br>情報化社会と向き合う</h1>
 <p>
 <img src="./images/ja/topics7/ooya_kanban.png" alt="">
 </p>
