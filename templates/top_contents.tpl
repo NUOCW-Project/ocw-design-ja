@@ -4,12 +4,12 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
-<!-- 広がる世界 -->
+<!-- 0と1がつなぐ社会 -->
 <div id="special_head">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2015">
           <img src="./images/ja/topics7/topics7_header.png" alt="名大の授業 TOIPCS　No.7 0と1がつなぐ社会" width="694" height="399" >
         </a>
-</div><!-- 広がる世界 end -->
+</div><!-- 0と1がつなぐ社会 end -->
 <!-- Topics 特別編 -->
 <div id="topics_head">
     <a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=3735&categoryCode=110&videoType=0">
