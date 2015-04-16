@@ -128,5 +128,5 @@ OCW事務室(<img src="./images/common/mail_inq.gif" alt="事務室メールア�
 <img src="./images/common/redline.gif" id="line2" alt="">
 
 <div id="release_date">
-最終更新日：2014年05月13日
+最終更新日：2015年04月16日
 </div>
