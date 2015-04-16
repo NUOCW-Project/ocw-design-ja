@@ -29,7 +29,7 @@
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=math">多元数理科学研究科</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=lang">国際言語文化研究科</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=env">環境学研究科</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">留学生センター</a>
+		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">国際言語センター</a>
 	</ul>
 	<ul class="sitemap_navi">
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=open">高校生公開講座</a>
