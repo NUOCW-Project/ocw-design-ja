@@ -12,7 +12,7 @@
 </div><!-- 0と1がつなぐ社会 end -->
 <!-- Topics 特別編 -->
 <div id="topics_head">
-    <a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=3735&categoryCode=110&videoType=0">
+    <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5bdf9a1b3d1a6963da86fca401b4e7d1f22aa2e2">
         <img src="./images/ja/nobel_interview.png" alt="天野浩教授への受賞記念インタビュー" width="694" height="399" >
     </a>
   </div><!-- Topics 特別編 end -->
