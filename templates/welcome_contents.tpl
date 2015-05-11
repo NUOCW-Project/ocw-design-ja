@@ -1,5 +1,5 @@
 <div class="welcome_img">
-<a href="http://video.media.nagoya-u.ac.jp/pcsweb/FlvPlayer/play.html?contentsCode=1359&categoryCode=110" target="blank"><img src="http://ocw.nagoya-u.jp/images/ja/goaisatu.png"></a>
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/98d2e9b0f65f56675aa7a239049a26fdc8915ddb" target="blank"><img src="images/ja/TODAYAMA_Kazuhisa.jpg"></a>
 
 <!--  <object classid="clsid:D27CDB6E- AE6D-11cf-96B8-444553540000"
         codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"
@@ -23,7 +23,7 @@
 	<span class="b">
 		名古屋大学<br>
 		オープンコースウェア委員会</span>
-	<p class="welcome_b">委員長 小野木 克明<br>
+	<p class="welcome_b">委員長 戸田山 和久<br>
 <p>画像クリックでメッセージが再生されます。</p>
 </p>
 </div>
