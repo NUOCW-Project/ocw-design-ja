@@ -67,7 +67,7 @@
         onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a>
     </li>
   {if $lang=='ja'}
-    <li><a href="http://www.media.nagoya-u.ac.jp/sc/" target="_blank">
+    <li><a href="http://studio.media.nagoya-u.ac.jp/sc/" target="_blank">
       <img src="./images/ja/c04sc.png" class="size_img" alt="スタジオチャンネル"
         onMouseOver="this.src='./images/ja/c04sc_on.png'" 
         onMouseOut="this.src='./images/ja/c04sc.png'"></a>
