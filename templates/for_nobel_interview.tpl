@@ -1,7 +1,7 @@
 {* 「特別企画」のテンプレート *}
 {include file="com_header.tpl"}
 {if $lang =="ja"}
-  {include file="special_contents7.tpl"}
+  {include file="nobel_interview.tpl"}
 {elseif $lang == "en"}
   {include file="special_contents_en.tpl"}
 {/if}
