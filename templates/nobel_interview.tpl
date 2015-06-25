@@ -1,6 +1,6 @@
-<img id="amano_top" scr="images/ja/nobel_interview/amano_video.jpg" alt="2014年ノーベル物理学賞受賞記念 天野教授 特別インタビュー">
+<img id="amano_top" src="images/ja/nobel_interview/amano_top.jpg" alt="2014年ノーベル物理学賞受賞記念 天野教授 特別インタビュー">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5bdf9a1b3d1a6963da86fca401b4e7d1f22aa2e2">
-<img id="amano_video" scr="images/ja/nobel_interview/amano_video.jpg" alt="クリックでビデオを再生">
+<img id="amano_video" src="images/ja/nobel_interview/amano_video.jpg" alt="クリックでビデオを再生">
 </a>
 
 <div id= "intro">
