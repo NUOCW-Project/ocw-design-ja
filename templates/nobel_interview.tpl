@@ -1,4 +1,4 @@
-<img id="amano_top" scr="" alt="2014年ノーベル物理学賞受賞記念 天野教授 特別インタビュー">
+<img id="amano_top" scr="images/ja/nobel_interview/amano_video.jpg" alt="2014年ノーベル物理学賞受賞記念 天野教授 特別インタビュー">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5bdf9a1b3d1a6963da86fca401b4e7d1f22aa2e2">
 <img id="amano_video" scr="images/ja/nobel_interview/amano_video.jpg" alt="クリックでビデオを再生">
 </a>
@@ -29,7 +29,7 @@
 始めたというのが、実際のところです。
 </p>
 
-<img id="amano_one1" src="images/ja/summer_camp/amano_one1.jpg">
+<img id="amano_one1" src="images/ja/nobel_interview/amano_one1.jpg">
 {* 天野先生の画像1 *}
 
 <div class="qq">
@@ -80,7 +80,7 @@
 していなかった子供のような気持ちを今もずっと持っていますね。
 </p>
 
-<img id="amano_two1" src="images/ja/summer_camp/amano_two1.jpg">
+<img id="amano_two1" src="images/ja/nobel_interview/amano_two1.jpg">
 {* 天野先生とインタビュアの画像1 *}
 
 <div class="qq">
@@ -122,7 +122,7 @@
 本当に伝えたいものが伝わっているかなあという不安は正直あるんですよね。
 </p>
 
-<img id="led_nu" src="images/ja/summer_camp/led_nu.jpg">
+<img id="led_nu" src="images/ja/nobel_interview/led_nu.jpg">
 {* LEDの画像 *}
 
 <div class="qq">
@@ -217,7 +217,7 @@
 やっぱり一番大切なのは、当たり前ですけど勉強じゃないですかね。
 </p>
 
-<img id="amano_one2" src="images/ja/summer_camp/amano_one2.jpg">
+<img id="amano_one2" src="images/ja/nobel_interview/amano_one2.jpg">
 {* 天野先生の画像2 *}
 
 <div class="qq">
@@ -251,7 +251,7 @@
 ぜひ大学にいるうちに人生の目標を見つけてほしいなと思います。それが見つかった人はそれを全力で実現するように努力してほしいという気持ちです。
 </p>
 
-<img id="amano_two2" src="images/ja/summer_camp/amano_two2.jpg">
+<img id="amano_two2" src="images/ja/nobel_interview/amano_two2.jpg">
 {* 天野先生とインタビュアの画像2 *}
 
 </div>
