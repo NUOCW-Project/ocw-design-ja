@@ -52,17 +52,11 @@
               {/literal}{include file="top_notice.tpl"}{literal}
         {/if}
 {else}
-    {if $page_type != "summercamp" || $page_type != "nobel_interview" }
-        <img src="./images/{$lang}/header_{$page_type}.jpg"
-            alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
+    {if $page_type == "summercamp" || $page_type == "nobel_interview"}
     {/if}
-{else}
-    {if $page_type != "nobel_interview"}
-        <img src="./images/{$lang}/header_{$page_type}.jpg"
-            alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
-    {/if}
-{/if}
-
+    {else}
+    <img src="./images/{$lang}/header_{$page_type}.jpg" alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
+    
 {if $page_type == "top" and $lang == "ja"}
 	<div id="menu">	
 		<a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about"><img src="./images/{$lang}/menu01.png" onMouseOver="this.src='./images/{$lang}/menu01_on.png'" onMouseout="this.src='./images/{$lang}/menu01.png'" class="menu0" alt="{if $lang=='ja'}「名大の授業」について{else}About NU OCW{/if}"></a>
