@@ -56,6 +56,7 @@
         <img src="./images/{$lang}/header_{$page_type}.jpg"
             alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
     {/if}
+{else}
     {if $page_type != "nobel_interview"}
         <img src="./images/{$lang}/header_{$page_type}.jpg"
             alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
