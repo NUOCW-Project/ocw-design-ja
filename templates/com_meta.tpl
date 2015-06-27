@@ -72,6 +72,9 @@
 {elseif $lang=='ja' && $page_type=='summercamp'}
 <link rel="stylesheet" type="text/css" href="css/summercamp.css">
 
+{elseif $lang=='ja' && $page_type=='nobel_interview'}
+<link rel="stylesheet" type="text/css" href="css/nobel_interview.css">
+
 {elseif $lang=='ja' && $page_type=='student_testimonials'}
 <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 
