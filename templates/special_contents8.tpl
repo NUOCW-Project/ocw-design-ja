@@ -5,10 +5,10 @@
     
 <div id="tp_default">
 <div id="intro_message">
-<img src="./images/ja/topics7/header.png" 
-alt="0と1がつなぐ社会 コンピュータやインターネットが高度に発達した現代の社会。
-情報技術の進歩は、日々の生活に大きな変化をもたらしています。
-そのような「情報」と、どう向き合えば良いのか、一緒に考えてみませんか？">
+<img src="./images/ja/topics8/top_image.png" 
+alt="大学の授業入門 大学の授業、まずはここから。今回は、大学で学ぶ専門的な内容と、
+高校までに学ぶ内容との架け橋となるような授業を紹介します。
+「大学の授業美優門」で、学問への道を開いてみましょう。">
 </div>
 
 
@@ -16,40 +16,40 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 
 <li>
 <nav> 
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=58&page_type=index">
-<img src="./images/ja/topics7/suzuki_lead.png" alt="計算情報学Ⅰ, 鈴木泰博 准教授, 情報文化学部">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=264&page_type=index">
+<img src="./images/ja/topics8/button_kisosemina.png" alt="基礎セミナー～遺伝子を使うと何がわかる?何ができる?～, 石黒澄衞 准教授, 教養教育院">
 </a>
 </nav>
 </li>
 
 <li>
 <nav>  
-<a href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
-<img src="./images/ja/topics7/sano_lead.png" alt="システム論の基礎, 佐野充 教授, 環境学研究科">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=15&page_type=index">
+<img src="./images/ja/topics8/button_tyuugoku.png" alt="中国西南の民族と歴史, 林謙一郎 准教授, 文学部・文学研究科">
 </a>
 </nav>
 </li>
 
 <li>
 <nav>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
-<img src="./images/ja/topics7/katayama_lead.png" alt="情報通信工学第2, 片山正昭 教授, 工学部・工学研究科">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=469&page_type=index">
+<img src="./images/ja/topics8/button_field.png" alt="フィールドセミナーⅠ, 竹内誠 教授, 理学部・理学研究科">
 </a>
 </nav>
 </li>
 
 <li>
 <nav>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
-<img src="./images/ja/topics7/ooya_lead.png" alt="情報と法, 大屋雄裕 教授, 教養教育院">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=359&page_type=index">
+<img src="./images/ja/topics8/button_keiji.png" alt="刑事訴訟法, 宮木康博 准教授, 法学部・法学研究科">
 </a>
 </nav>
 </li>
 
 <li>
 <nav>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
-<img src="./images/ja/topics7/rsuzuki_lead.png" alt="複雑系プログラミング特論, 鈴木麗璽 准教授, 情報科学研究科">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=421&page_type=index">
+<img src="./images/ja/topics8/button_seikagaku.png" alt="生物化学Ⅱ, 前島正義 教授, 農学部・農学研究科">
 </a>
 </nav>
 </li>
@@ -80,7 +80,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 <article>
 <h1>解析のカギ「数値計算」</h1>
 <p>
-<img src="./images/ja/topics7/suzuki_kanban.png" alt="">
+<img src="./images/ja/topics8/kisosemina_kanban.png" alt="">
 </p>
 <p class="lead">
 コンピューターによるシミュレーションはありとあらゆる分野で使われています。<br>
@@ -90,7 +90,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 この講義で数値計算を学び、種々の課題を解決するための術を知りましょう。<br>
 </p>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=58&page_type=index">
-<img src="./images/ja/topics7/go.png" alt="授業を見る">
+<img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
 </li>
@@ -109,44 +109,46 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 社会というシステムを見渡すことで、私たちのこれからについて考えてみましょう。
 </p>
 <a href="http://ocw.nagoya-u.jp/index.php?id=301&lang=ja&mode=c&page_type=index">
-<img src="./images/ja/topics7/go.png" alt="授業を見る">
+<img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
 </li>
 
 <li>
 <article>
-<h1>つながる仕組み</h1>
+<h1>実際に見て、触れて、感じる地球の科学
+</h1>
 <p>
-<img src="./images/ja/topics7/katayama_kanban.png" alt="">
+<img src="./images/ja/topics8/field_kanban.png" alt="">
 </p>
 <p class="lead">
-スマートフォンや無線LANなどの普及により、無線通信の技術が私たちの生活に浸透してきました。<br>
-しかし、それらの仕組みを、あなたは自信を持って説明できますか？<br>
-この講義では、スマートフォンなどの通信機器に使われている技術と、それを明確に説明するための数学的表現を紹介します。<br>
-身近にありながら知らないことの多い通信技術、一度詳しく学んでみませんか？
+地球上に見られる地層や岩石の中には数万年、数億年と続く悠久の歴史が刻み込まれています。
+それらを理解するためには、講義による知識だけではなく、実際に触れ、観察して考えることが重要となってきます。
+この「フィールドセミナーI」では、野外で実際に地層や岩石を観察することでその理解を深めていきます。
+講義だけではわからない、遥かなる昔から地球が紡いできた歴史を、あなたの目と肌で感じてみましょう。
 </p>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=47&page_type=index">
-<img src="./images/ja/topics7/go.png" alt="授業を見る">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=469&page_type=index">
+<img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>  
 </li>
 
 <li>
 <article>
-<h1>法や思想の立場から、<br>情報化社会と向き合う</h1>
+<h1>刑事訴訟法の役割</h1>
 <p>
-<img src="./images/ja/topics7/ooya_kanban.png" alt="">
+<img src="./images/ja/topics8/keiji_kanban.png" alt="">
 </p>
 <p class="lead">
-情報技術の進歩は、私たちの生活と社会を大きく変えました。今まで実現できなかったことが、次々と実現できるようになっています。<br>
-しかし同時に、今まで起きなかった問題が次々と起こるようにもなっています。<br>
-法の役割は、社会を適切にコントロールし、人々の権利や利益を守ることにあります。<br>
-激動し続ける情報化社会に、法はどう対応すればよいのでしょうか。<br>
-法や思想の観点から、情報化社会を読み解いてみませんか。
+社会秩序を維持する方法としては、宗教、倫理など様々なものがありますが、国家による刑罰もまた、社会的コントロールの一手段です。
+もっとも、刑罰は、対象者等に重大な権利・利益侵害を加えるものであるため、その実現には慎重さが求められます。それゆえ、憲法31条は、
+「何人も、法律の定める手続によらなければ･･････刑罰を科せられない」としており、これを受けて、いかなる要件のもとで、
+どのような刑罰を科すのかについては「刑法」が、この要件の存否を確認する手続について定めた法が「刑事訴訟法」です。
+「刑事訴訟法なければ刑法なし」といわれるゆえんです。いかなる手続の下で、真実の発見が目指されるのか。
+裁判員制度の導入に伴って従来より身近なものとなっている刑事訴訟法を学んでみませんか。
 </p>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=6&page_type=index">
-<img src="./images/ja/topics7/go.png" alt="授業を見る">
+<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=359&page_type=index">
+<img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
 </li>
@@ -164,7 +166,7 @@ alt="0と1がつなぐ社会 コンピュータやインターネットが高度
 情報科学の技術で、世界の動きを考えてみましょう。
 </p>
 <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=403&page_type=index">
-<img src="./images/ja/topics7/go.png" alt="授業を見る">
+<img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
 </li>
