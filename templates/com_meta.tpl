@@ -89,6 +89,8 @@
 <script type="text/javascript" src="./js/toggle.js"></script>
 <script type="text/javascript" src="./js/openWin.js"></script>
 <script type="text/javascript" src="./js/googleAnalytics.js"></script>
+<script type="text/javascript" src="./js/jwplayer.js"></script>
+<script>jwplayer.key="nDp4FtKpuEt4NmXMVUUEFX1fWJfyuvqTglqrDw==";</script>
 {literal}
 {if $lang=='ja' && $page_type=='top'}
   <script type="text/javascript" src="./js/setHeight.js"></script>
