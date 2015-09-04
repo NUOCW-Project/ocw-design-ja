@@ -65,10 +65,10 @@
   {if $course_info.movie_id != ''}
 <!--    <iframe src="{$course_info.vsyllabus_rtmp}#detalis_thumb_box" width="240px" height="240px" Frameborder="0" scrolling="no" style="zoom:50%" type="text/html" frameborder="0" border="0" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0"></iframe> -->
 {if $lang=='ja'}
-{embed_video id="$course_info.movie_id" width="240" height="240" image=""}
+{embed_video id=$course_info.movie_id width="240" height="240" image=""}
 <!--	<a href="{$course_info.vsyllabus_rtmp}" target="_blank">紹介動画を再生する</a> -->
 {else}
-{embed_video id="$course_info.movie_id" width="240" height="240" image=""}
+{embed_video id=$course_info.movie_id width="240" height="240" image=""}
 <!--	<a href="{$course_info.vsyllabus_rtmp}" target="_blank">Playing a video.</a> -->
 {/if}
   {elseif $course_info.imgfile != ''}
