@@ -99,7 +99,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <article>
 <h1>中国西南の歴史の流れを掴む</h1>
 <p>
-<img src="./images/ja/topics7/sano_kanban.png" alt="">
+<img src="./images/ja/topics7/tyuugoku_kanban.png" alt="">
 </p>
 <p class="lead">
 大学で学ぶ歴史って何だろう？
@@ -159,7 +159,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <article>
 <h1>代謝とは何か：エネルギーの視点で</h1>
 <p>
-<img src="./images/ja/topics7/rsuzuki_kanban.png" alt="">
+<img src="./images/ja/topics7/seikagaku_kanban.png" alt="">
 </p>
 <p class="lead">
 普段の食事が、体内でどのように代謝されているか、考えたことがありますか？
