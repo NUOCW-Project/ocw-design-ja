@@ -8,7 +8,7 @@
 <img src="./images/ja/topics8/top_image.png" 
 alt="大学の授業入門 大学の授業、まずはここから。今回は、大学で学ぶ専門的な内容と、
 高校までに学ぶ内容との架け橋となるような授業を紹介します。
-「大学の授業美優門」で、学問への道を開いてみましょう。">
+「大学の授業入門」で、学問への道を開いてみましょう。">
 </div>
 
 
@@ -62,7 +62,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <article>
 <h1>始めに</h1>
 <p>
-<img src="./images/ja/topics7/start.png" alt="">
+<img src="./images/ja/topics8/start.png" alt="">
 </p>
 <p class="use">このページの使い方</p>
 <p class="start">
@@ -81,6 +81,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <h1>遺伝子の実験から学び考える</h1>
 <p>
 <img src="./images/ja/topics8/kisosemina_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 昨今巷でよく聞く「遺伝子」という言葉。それは一体何ものか？
@@ -99,7 +100,8 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <article>
 <h1>中国西南の歴史の流れを掴む</h1>
 <p>
-<img src="./images/ja/topics7/tyuugoku_kanban.png" alt="">
+<img src="./images/ja/topics8/tyuugoku_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 大学で学ぶ歴史って何だろう？
@@ -122,6 +124,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <h1>実際に見て、触れて、感じる地球の科学</h1>
 <p>
 <img src="./images/ja/topics8/field_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 地球上に見られる地層や岩石の中には数万年、数億年と続く悠久の歴史が刻み込まれています。
@@ -140,6 +143,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <h1>刑事訴訟法の役割</h1>
 <p>
 <img src="./images/ja/topics8/keiji_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 社会秩序を維持する方法としては、宗教、倫理など様々なものがありますが、国家による刑罰もまた、社会的コントロールの一手段です。
@@ -159,7 +163,8 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <article>
 <h1>代謝とは何か：エネルギーの視点で</h1>
 <p>
-<img src="./images/ja/topics7/seikagaku_kanban.png" alt="">
+<img src="./images/ja/topics8/seikagaku_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 普段の食事が、体内でどのように代謝されているか、考えたことがありますか？
@@ -174,4 +179,9 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 </li>
 
 </ul>{* articles_intro" *}
+
+<div id="bottom_image">
+<img src="./images/ja/topics8/bottom_image.png" alt="">
+</div>
+
 </div>{* "tp_default" end *}
