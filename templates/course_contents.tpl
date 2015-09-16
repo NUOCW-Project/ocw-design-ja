@@ -64,9 +64,9 @@
 <div id="movie">
   {if $course_info.movie_id != ''}
 {if $lang=='ja'}
-{embed_video id=$course_info.movie_id width="320" height="180" image=""}
+{embed_video id=$course_info.movie_id width="320" height="180" image="./files/{$course_id}/{$course_info.imgfile}"}
 {else}
-{embed_video id=$course_info.movie_id width="320" height="180" image=""}
+{embed_video id=$course_info.movie_id width="320" height="180" image="./files/{$course_id}/{$course_info.imgfile}"}
 {/if}
   {elseif $course_info.imgfile != ''}
     <img src="./files/{$course_id}/{$course_info.imgfile}" alt="">
