@@ -20,6 +20,8 @@
     <embed src="./player.swf" FlashVars="FLV_URL={$dept_info.vs_url}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="303" height="259"></embed>
 {/if}
 -->
-  {embed_video id=$dept_info.movie_id width="352" height="198" image="./files/vsyllabus/vsyllabus_`$dept_info.vsyllabus_id`.jpg"}
+{if isset($dept.info_movie_id)}
+    {embed_video id=$dept_info.movie_id width="352" height="198" image="./files/vsyllabus/vsyllabus_`$dept_info.vsyllabus_id`.jpg"}
+{/if}
 </div><!-- "dep_movie" end -->
 </div>
