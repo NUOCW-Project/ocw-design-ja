@@ -8,7 +8,7 @@
 <img src="./images/ja/topics8/top_image.png" 
 alt="大学の授業入門 大学の授業、まずはここから。今回は、大学で学ぶ専門的な内容と、
 高校までに学ぶ内容との架け橋となるような授業を紹介します。
-「大学の授業美優門」で、学問への道を開いてみましょう。">
+「大学の授業入門」で、学問への道を開いてみましょう。">
 </div>
 
 
@@ -16,7 +16,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 
 <li>
 <nav> 
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=264&page_type=index">
+<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=264&page_type=index">
 <img src="./images/ja/topics8/button_kisosemina.png" alt="基礎セミナー～遺伝子を使うと何がわかる?何ができる?～, 石黒澄衞 准教授, 教養教育院">
 </a>
 </nav>
@@ -24,7 +24,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 
 <li>
 <nav>  
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=15&page_type=index">
+<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=15&page_type=index">
 <img src="./images/ja/topics8/button_tyuugoku.png" alt="中国西南の民族と歴史, 林謙一郎 准教授, 文学部・文学研究科">
 </a>
 </nav>
@@ -32,7 +32,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 
 <li>
 <nav>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=469&page_type=index">
+<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=469&page_type=index">
 <img src="./images/ja/topics8/button_field.png" alt="フィールドセミナーⅠ, 竹内誠 教授, 理学部・理学研究科">
 </a>
 </nav>
@@ -40,7 +40,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 
 <li>
 <nav>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=359&page_type=index">
+<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=359&page_type=index">
 <img src="./images/ja/topics8/button_keiji.png" alt="刑事訴訟法, 宮木康博 准教授, 法学部・法学研究科">
 </a>
 </nav>
@@ -48,7 +48,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 
 <li>
 <nav>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=421&page_type=index">
+<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=421&page_type=index">
 <img src="./images/ja/topics8/button_seikagaku.png" alt="生物化学Ⅱ, 前島正義 教授, 農学部・農学研究科">
 </a>
 </nav>
@@ -62,7 +62,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <article>
 <h1>始めに</h1>
 <p>
-<img src="./images/ja/topics7/start.png" alt="">
+<img src="./images/ja/topics8/start.png" alt="">
 </p>
 <p class="use">このページの使い方</p>
 <p class="start">
@@ -79,8 +79,9 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <li>
 <article>
 <h1>遺伝子の実験から学び考える</h1>
-<p>
+<p class="image">
 <img src="./images/ja/topics8/kisosemina_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 昨今巷でよく聞く「遺伝子」という言葉。それは一体何ものか？
@@ -98,8 +99,9 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <li>
 <article>
 <h1>中国西南の歴史の流れを掴む</h1>
-<p>
-<img src="./images/ja/topics7/tyuugoku_kanban.png" alt="">
+<p class="image">
+<img src="./images/ja/topics8/tyuugoku_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 大学で学ぶ歴史って何だろう？
@@ -120,8 +122,9 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <li>
 <article>
 <h1>実際に見て、触れて、感じる地球の科学</h1>
-<p>
+<p class="image">
 <img src="./images/ja/topics8/field_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 地球上に見られる地層や岩石の中には数万年、数億年と続く悠久の歴史が刻み込まれています。
@@ -138,8 +141,9 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <li>
 <article>
 <h1>刑事訴訟法の役割</h1>
-<p>
+<p class="image">
 <img src="./images/ja/topics8/keiji_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 社会秩序を維持する方法としては、宗教、倫理など様々なものがありますが、国家による刑罰もまた、社会的コントロールの一手段です。
@@ -158,8 +162,9 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <li>
 <article>
 <h1>代謝とは何か：エネルギーの視点で</h1>
-<p>
-<img src="./images/ja/topics7/seikagaku_kanban.png" alt="">
+<p class="image">
+<img src="./images/ja/topics8/seikagaku_kanban.png" alt="">
+<img class="magnet" src="./images/ja/topics8/magnet.png" alt="">
 </p>
 <p class="lead">
 普段の食事が、体内でどのように代謝されているか、考えたことがありますか？
@@ -174,4 +179,9 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 </li>
 
 </ul>{* articles_intro" *}
+
+<div id="bottom_image">
+<img src="./images/ja/topics8/bottom_image.png" alt="">
+</div>
+
 </div>{* "tp_default" end *}
