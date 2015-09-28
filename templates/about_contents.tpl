@@ -73,6 +73,7 @@ OCW事務室 事務補佐員 小島友香<br>
 
 <tr><td id="ocw-support" class="center">名古屋大学OCWスタッフ</td>
 		<td class="left"><p>
+文学研究科M1 阿部 一貴<br>
 法学部B4 井上喜文<br>
 法学部B4 高木修平<br>
 法学部B4 山岸亮介<br>
