@@ -3,7 +3,7 @@
 <h1>模擬実験実習</h1>
 
 <div class="thumbnail">
-  {embed_video id="2329" width="480" height="320" image="images/en/thumbnail/Bastian_thumbnail.png"}
+  {embed_video id="2741" width="480" height="320" image="images/en/thumbnail/Bastian_thumbnail.png"}
 </div>
 
 <div class="movie_info">
@@ -24,7 +24,7 @@
 <h1>ラボツアー 生殖分子情報学研究室</h1> 
 
 <div class="thumbnail">
-  {embed_video id="2331" width="480" height="320" image="images/en/thumbnail/Lucy_thumbnail.png"}
+  {embed_video id="2739" width="480" height="320" image="images/en/thumbnail/Lucy_thumbnail.png"}
 </div>
 
 <div class="movie_info">
@@ -45,7 +45,7 @@
 <h1>研究室紹介 文学部考古学研究室</h1>
 
 <div class="thumbnail">
-  {embed_video id="2332" width="480" height="320" image="images/en/thumbnail/Sam_thumbnail.png"}
+  {embed_video id="2738" width="480" height="320" image="images/en/thumbnail/Sam_thumbnail.png"}
 </div>
 
 <div class="movie_info">
@@ -64,7 +64,7 @@
 
 <h2>研究室紹介 理学部</h2> 
 <div class="thumbnail">
-  {embed_video id="1454" width="480" height="320" image="images/en/thumbnail/Julian_thumbnail3.png"}
+  {embed_video id="2737" width="480" height="320" image="images/en/thumbnail/Julian_thumbnail3.png"}
 </div>
 
 <div class="movie_info">
