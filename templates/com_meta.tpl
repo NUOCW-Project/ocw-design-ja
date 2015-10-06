@@ -79,6 +79,9 @@
 {elseif $lang=='ja' && $page_type=='nobel_interview'}
 <link rel="stylesheet" type="text/css" href="css/nobel_interview.css">
 
+{elseif $lang=='ja' && $page_type=='open_campus_2015'}
+<link rel="stylesheet" type="text/css" href="css/open_campus_2015.css">
+
 {elseif $lang=='ja' && $page_type=='student_testimonials'}
 <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 
