@@ -7,11 +7,11 @@
 </div>
 
 <div class="movie_info">
-<p>Name:</p>
+<h2>Name:</h2>
 <p>先生の名前</p>
-<p>Country:</p>
+<h2>Country:</h2>
 <p>先生の所属</p>
-<p>Message:</p>
+<h2>Message:</h2>
 <p>ニワトリの胚を取り出しました</p>
 </div>
 
@@ -28,11 +28,11 @@
 </div>
 
 <div class="movie_info">
-<p>Name:</p>
+<h2>Name:</h2>
 <p>先生の名前</p>
-<p>Country:</p>
+<h2>Country:</h2>
 <p>先生の所属</p>
-<p>Message:</p>
+<h2>Message:</h2>
 <p>メッセージ</p>
 </div>
 
@@ -49,11 +49,11 @@
 </div>
 
 <div class="movie_info">
-<p>Name:</p>
+<h2>Name:</h2>
 <p>先生の名前</p>
-<p>Country:</p>
+<h2>Country:</h2>
 <p>先生の所属</p>
-<p>Message:</p>
+<h2>Message:</h2>
 <p>土器をさわりました</p>
 </div>
 
@@ -62,21 +62,19 @@
 
 <div class="movie">
 
-<h2>研究室紹介 理学部</h2> 
+<h1>研究室紹介 理学部</h1> 
 <div class="thumbnail">
   {embed_video id="2737" width="480" height="320" image="images/en/thumbnail/Julian_thumbnail3.png"}
 </div>
 
 <div class="movie_info">
-<p>Name:</p>
+<h2>Name:</h2>
 <p>先生の名前</p>
-<p>Country:</p>
+<h2>Country:</h2>
 <p>先生の所属</p>
-<p>Message:</p>
+<h2>Message:</h2>
 <p>メッセージ</p>
 </div>
 
 </div> {* class = movie *} 
 
-
-<p class="back">Back to Top</p>
