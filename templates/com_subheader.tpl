@@ -52,7 +52,7 @@
               {/literal}{include file="top_notice.tpl"}{literal}
         {/if}
 {else}
-    {if $page_type != "summercamp" and $page_type != "nobel_interview"}
+    {if $page_type != "summercamp" && $page_type != "nobel_interview" && $page_type != "open_campus_2015"}
         <img src="./images/{$lang}/header_{$page_type}.jpg"
             alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
     {/if}
@@ -69,7 +69,7 @@
 
 <div id="package2"><!-- #contents配置調整 firefox対応" -->
 
-{if $page_type != "sitemap" && $page_type != "topics_branches" && $page_type != "special" && $page_type != "topics2015" && $page_type != "topics2014" && $page_type != "topics2013"}
+{if $page_type != "sitemap" && $page_type != "topics_branches" && $page_type != "special" && $page_type != "topics2015sec" && $page_type != "topics2015" && $page_type != "topics2014" && $page_type != "topics2013"}
   {/literal}{include file="com_dept.tpl"}<!-- 部局リスト com_header.tplから移動 -->{literal}
 {/if}
 
