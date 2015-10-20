@@ -15,8 +15,8 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 <ul id="articles_title">
 
 <li>
-<nav> 
-<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=264&page_type=index">
+<nav>
+<a class="title" href="./index.php?lang=ja&mode=c&id=264&page_type=index">
 <img src="./images/ja/topics8/button_kisosemina.png" alt="基礎セミナー～遺伝子を使うと何がわかる?何ができる?～, 石黒澄衞 准教授, 教養教育院">
 </a>
 </nav>
@@ -24,7 +24,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 
 <li>
 <nav>  
-<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=15&page_type=index">
+<a class="title" href="./index.php?lang=ja&mode=c&id=15&page_type=index">
 <img src="./images/ja/topics8/button_tyuugoku.png" alt="中国西南の民族と歴史, 林謙一郎 准教授, 文学部・文学研究科">
 </a>
 </nav>
@@ -32,7 +32,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 
 <li>
 <nav>
-<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=469&page_type=index">
+<a class="title" href="./index.php?lang=ja&mode=c&id=469&page_type=index">
 <img src="./images/ja/topics8/button_field.png" alt="フィールドセミナーⅠ, 竹内誠 教授, 理学部・理学研究科">
 </a>
 </nav>
@@ -40,7 +40,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 
 <li>
 <nav>
-<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=359&page_type=index">
+<a class="title" href="./index.php?lang=ja&mode=c&id=359&page_type=index">
 <img src="./images/ja/topics8/button_keiji.png" alt="刑事訴訟法, 宮木康博 准教授, 法学部・法学研究科">
 </a>
 </nav>
@@ -48,7 +48,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 
 <li>
 <nav>
-<a class="title" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=421&page_type=index">
+<a class="title" href="./index.php?lang=ja&mode=c&id=421&page_type=index">
 <img src="./images/ja/topics8/button_seikagaku.png" alt="生物化学Ⅱ, 前島正義 教授, 農学部・農学研究科">
 </a>
 </nav>
@@ -87,7 +87,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 この授業では、遺伝子を使ったいくつかの実験を実際に自分の手で行い、結果を考察することで理解を深めていきます。<br>
 資料を読みながら、皆さんも自ら考え実験しているつもりになって、サイエンスの奥深さ、面白さに触れてみませんか。
 </p>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=264&page_type=index">
+<a href="./index.php?lang=ja&mode=c&id=264&page_type=index">
 <img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
@@ -110,7 +110,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 違ったものが見えてきます。<br>
 中国西南部が時代とともに変遷していく様子を、一緒に探ってみませんか？
 </p>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=15&page_type=index">
+<a href="./index.php?lang=ja&mode=c&id=15&page_type=index">
 <img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
@@ -129,7 +129,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 この「フィールドセミナーI」では、野外で実際に地層や岩石を観察することでその理解を深めていきます。<br>
 講義だけではわからない、遥かなる昔から地球が紡いできた歴史を、あなたの目と肌で感じてみましょう。
 </p>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=469&page_type=index">
+<a href="./index.php?lang=ja&mode=c&id=469&page_type=index">
 <img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>  
@@ -151,7 +151,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 いかなる手続の下で、真実の発見が目指されるのか。
 裁判員制度の導入に伴って従来より身近なものとなっている刑事訴訟法を学んでみませんか。
 </p>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=359&page_type=index">
+<a href="./index.php?lang=ja&mode=c&id=359&page_type=index">
 <img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
@@ -170,7 +170,7 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 そのプロセスには多様な酵素と細胞内構造が深く関わります。<br>
 この講義では、奥深い「代謝」について、概念を学び、酵素反応とエネルギーの授受を数値的に解析し、理解を深めます。
 </p>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=421&page_type=index">
+<a href="./index.php?lang=ja&mode=c&id=421&page_type=index">
 <img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
