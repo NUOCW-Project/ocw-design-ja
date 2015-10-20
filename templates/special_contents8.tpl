@@ -87,8 +87,8 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 この授業では、遺伝子を使ったいくつかの実験を実際に自分の手で行い、結果を考察することで理解を深めていきます。<br>
 資料を読みながら、皆さんも自ら考え実験しているつもりになって、サイエンスの奥深さ、面白さに触れてみませんか。
 </p>
-<a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=264&page_type=index">
-<a href="./index.php?lang=ja&mode=c&id=58&page_type=index"><img src="./images/ja/topics8/button_go.png" alt="授業を見る">
+<a href="./index.php?lang=ja&mode=c&id=264&page_type=index">
+<img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
 </li>
@@ -110,8 +110,8 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 違ったものが見えてきます。<br>
 中国西南部が時代とともに変遷していく様子を、一緒に探ってみませんか？
 </p>
-<a href="http://ocw.nagoya-u.jp/index.php?id=15&lang=ja&mode=c&page_type=index">
-<a href="./index.php?lang=ja&mode=c&id=301&page_type=index"><img src="./images/ja/topics8/button_go.png" alt="授業を見る">
+<a href="./index.php?lang=ja&mode=c&id=15&page_type=index">
+<img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
 </li>
@@ -170,7 +170,8 @@ alt="大学の授業入門 大学の授業、まずはここから。今回は�
 そのプロセスには多様な酵素と細胞内構造が深く関わります。<br>
 この講義では、奥深い「代謝」について、概念を学び、酵素反応とエネルギーの授受を数値的に解析し、理解を深めます。
 </p>
-<a href="./index.php?lang=ja&mode=c&id=403&page_type=index"><img src="./images/ja/topics8/button_go.png" alt="授業を見る">
+<a href="./index.php?lang=ja&mode=c&id=421&page_type=index">
+<img src="./images/ja/topics8/button_go.png" alt="授業を見る">
 </a>
 </article>
 </li>
