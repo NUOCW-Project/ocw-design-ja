@@ -1,6 +1,9 @@
 <h1>TOPICS バックナンバー</h1>
 <dl id="topics_backnumber">
-
+<a href="./index.php?lang=ja&mode=g&page_type=topics2015">
+  <dt>TOPICS No.7 0と1がつなぐ社会</dt>
+  <dd><img src="./images/ja/topics_backnumber/zeroichi.png" alt="0と1がつなぐ社会"></dd>
+</a>
 <a href="./index.php?lang=ja&mode=g&page_type=summercamp">
   <dt>TOPICS 特別編 Mei-Writing Summer Camp 2014 スペシャルインタビュー</dt>
   <dd><img src="./images/ja/topics_backnumber/summercamp.png" alt="Mei-Writing Summer Camp 2014 スペシャルインタビュー"></dd>
