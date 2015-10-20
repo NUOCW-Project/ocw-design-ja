@@ -1,3 +1,5 @@
+<img id="open_campus_top" src="images/ja/open_campus_2015/OpenCampus2015.jpg" alt="Open Campus 2015 去る2015年8月、名古屋大学にてオープンキャンパスが開催されました。ここではその模様を、一部紹介します。">
+
 <div class="movie">
 
 <h1>模擬実験実習</h1>
@@ -9,7 +11,7 @@
 <div class="movie_info">
 <h2>Name:</h2>
 <p>先生の名前</p>
-<h2>Country:</h2>
+<h2>Department:</h2>
 <p>先生の所属</p>
 <h2>Message:</h2>
 <p>ニワトリの胚を取り出しました</p>
@@ -30,7 +32,7 @@
 <div class="movie_info">
 <h2>Name:</h2>
 <p>先生の名前</p>
-<h2>Country:</h2>
+<h2>Department:</h2>
 <p>先生の所属</p>
 <h2>Message:</h2>
 <p>メッセージ</p>
@@ -51,7 +53,7 @@
 <div class="movie_info">
 <h2>Name:</h2>
 <p>先生の名前</p>
-<h2>Country:</h2>
+<h2>Department:</h2>
 <p>先生の所属</p>
 <h2>Message:</h2>
 <p>土器をさわりました</p>
@@ -70,7 +72,7 @@
 <div class="movie_info">
 <h2>Name:</h2>
 <p>先生の名前</p>
-<h2>Country:</h2>
+<h2>Department:</h2>
 <p>先生の所属</p>
 <h2>Message:</h2>
 <p>メッセージ</p>
