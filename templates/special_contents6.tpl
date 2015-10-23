@@ -11,7 +11,7 @@
 
 <li>
 <div class="art_title"> 
-  <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=288&page_type=index">
+  <a href="./index.php?lang=ja&mode=c&id=288&page_type=index">
 <img src="./images/ja/topics6/title01.png" alt="国際開発学">
  </a>
 </div>
@@ -19,7 +19,7 @@
 
 <li>
 <div class="art_title">  
-    <a href="http://ocw.nagoya-u.jp/index.php?id=138&lang=ja&mode=c&page_type=index">
+    <a href="./index.php?lang=ja&mode=c&id=138&page_type=index">
   <img src="./images/ja/topics6/title02.png" alt="中級フランス語2">
     </a>
 </div>
@@ -27,7 +27,7 @@
 
 <li>
 <div class="art_title">
-    <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=372&page_type=index">
+    <a href="./index.php?lang=ja&mode=c&id=372&page_type=index">
     <img src="./images/ja/topics6/title03.png" alt="映像研究の方法">
     </a>
 </div>
@@ -35,7 +35,7 @@
 
 <li>
 <div class="art_title">
-   <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=195&page_type=index">
+   <a href="./index.php?lang=ja&mode=c&id=195&page_type=index">
    <img src="./images/ja/topics6/title04.png" alt="世界の中の日本語">
    </a>
 </div>
@@ -43,7 +43,7 @@
 
 <li>
 <div class="art_title">
-   <a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=154&page_type=index">
+   <a href="./index.php?lang=ja&mode=c&id=154&page_type=index">
     <img src="./images/ja/topics6/title05.png" alt="海外実地研修">
    </a>
 </div>
@@ -69,7 +69,7 @@
 </li>
 
 <li class="intro">
-  <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=288&page_type=index">
+  <a class="tp_link" href="./index.php?lang=ja&mode=c&id=288&page_type=index">
       <p>
          <img src="./images/ja/topics6/nisikawa_kanban.GIF">
       </p>
@@ -85,7 +85,7 @@
 </li>
 
 <li class="intro">
-    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?id=138&lang=ja&mode=c&page_type=index">
+    <a class="tp_link" href="./index.php?lang=ja&mode=c&id=138&page_type=index">
       <p><img src="./images/ja/topics6/okuda_kanban.jpg"></p>
      </a>
     <h2>フランス語を楽しく学ぶ</h2>
@@ -98,7 +98,7 @@
 </li>
 
 <li class="intro">
- <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=372&page_type=index">
+ <a class="tp_link" href="./index.php?lang=ja&mode=c&id=372&page_type=index">
       <p><img src="./images/ja/topics6/fuziki_kanban.png"></p>
      </a>
     <h2>映像を読む</h2>
@@ -108,7 +108,7 @@
 </li>
 
 <li class="intro">
-    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=195&page_type=index">
+    <a class="tp_link" href="./index.php?lang=ja&mode=c&id=195&page_type=index">
       <p><img src="./images/ja/topics6/machida_kanban.png"></p>
      </a>
     <h2>「比較」で見つかる新たな発見</h2>
@@ -118,7 +118,7 @@
 </li>
 
 <li class="intro">
- <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=154&page_type=index">
+ <a class="tp_link" href="./index.php?lang=ja&mode=c&id=154&page_type=index">
       <p><img src="./images/ja/topics6/kaigai_kanban.jpg"></p>
      </a>   
  <h2>農業を「見」「聞き」し考える</h2>

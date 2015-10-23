@@ -3,20 +3,10 @@
 		<tbody>
 
 		<tr>
-			<th width="2%" class="center"></th>
-            {if $lang=='ja'}
-			<th width="8%" class="center"></th>
-			<th width="40%">コース名</th>
-			<th width="6%" class="center">視聴<br>ボタン</th>
-			<th width="24%">学部・研究科</th>
+			<th width="8%" class="center">動画リンク</th>
+			<th width="44%">コース名</th>
+			<th width="28%">学部・研究科</th>
 			<th width="18%">担当講師名</th>
-            {elseif $lang=='en'}
-			<th width="30" class="center"></th>
-			<th width="40%">Course name</th>
-			<th width="30" class="center"></th>
-			<th width="25%">Department</th>
-			<th width="20%">Lecturer</th>
-            {/if}
 		</tr>
 		<tr>
 			<td class="separate" colspan="6"></td>
@@ -28,7 +18,6 @@
 			{else}
 		<tr class="even">
 			{/if}
-		<td class="center">{$smarty.foreach.vs_loop.iteration}</td>
 		<td class="center">
 		{if isset($vs.url_flv)}
 			<a href="{$vs.url_flv}"
@@ -48,16 +37,6 @@
 			</span>
 				</a>
 		{/if}
-		</td>
-		<td class="center">
-		{if isset($vs.url_flv)}
-			<a href="{$vs.url_flv}"
-			 onclick="openWin('{$vs.url_flv}');return false;"
-			 onkeypress="openWin('{$vs.url_flv}');return false;"
-			 title="新しいウィンドウを開きます" target="flame">
-			<img src="./images/common/play_s.png">
-			</a>
-		{/if}<br>
 		</td>
 		<td class="left">
         		<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$vs.department_abbr}">{$vs.department_name}
