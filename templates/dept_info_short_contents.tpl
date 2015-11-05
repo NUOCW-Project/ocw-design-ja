@@ -21,7 +21,7 @@
 {/if}
 -->
 {if isset($dept_info.movie_id)}
-    {embed_video id=$dept_info.movie_id width="336" height="189" image="./files/vsyllabus/vsyllabus_`$dept_info.vsyllabus_id`.jpg"}
+    {embed_video id=$dept_info.movie_id width="336" height="189"}
 {/if}
 </div><!-- "dep_movie" end -->
 </div>
