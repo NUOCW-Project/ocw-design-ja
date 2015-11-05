@@ -63,11 +63,7 @@
 {if $page_format.tpl_name=="index"}
 <div id="movie">
   {if $course_info.movie_id != ''}
-{if $lang=='ja'}
-{embed_video id=$course_info.movie_id width="320" height="180" image="./files/vsyllabus/vsyllabus_`$course_info.vsyllabus_id`.jpg"}
-{else}
-{embed_video id=$course_info.movie_id width="320" height="180" image="./files/vsyllabus/vsyllabus_`$course_info.vsyllabus_id`.jpg"}
-{/if}
+    {embed_video id=$course_info.movie_id width="320" height="180"}
   {elseif $course_info.imgfile != ''}
     <img src="./files/{$course_id}/{$course_info.imgfile}" alt="">
   {/if}
