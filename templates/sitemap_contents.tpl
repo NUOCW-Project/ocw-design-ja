@@ -4,7 +4,7 @@
 	<tr>
 	<td class="left">
 	<ul class="sitemap_navi">
-		<li><a href="index.html">ホーム</a>
+		<li><a href="index.php">ホーム</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">ヘルプ(FAQ)</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=about">名大の授業について</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">用語解説</a>

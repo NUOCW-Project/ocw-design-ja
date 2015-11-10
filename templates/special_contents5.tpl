@@ -105,7 +105,7 @@
 ほかの方の理解もできるよう、<br>
 正しくうつ病を知ってみませんか？
     </p>
-  <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=201&page_type=index">
+  <a class="tp_link" href="./index.php?lang=ja&mode=c&id=201&page_type=index">
       <p>本城先生の<br>ページへ</p>
    </a>
 </li>
@@ -128,7 +128,7 @@
 組織の中で起こる様々な課題に対して、<br>
 私たちはどのように行動していけば良いかを学びます。
     </p>
-    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?id=64&lang=ja&mode=c&page_type=index">
+    <a class="tp_link" href="./index.php?id=64&lang=ja&mode=c&page_type=index">
       <p>金井先生の<br>ページへ</p>
      </a>
 </li>
@@ -150,7 +150,7 @@
 自分自身の人生に<br>
 今一度目を向けてみてはいかがでしょうか。
     </p>
-    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=173&page_type=index">
+    <a class="tp_link" href="./index.php?lang=ja&mode=c&id=173&page_type=index">
       <p>氏家先生の<br>ページへ</p>
      </a>
 </li>
@@ -174,7 +174,7 @@
 統計分析のプロセスを<br>
 実例に基づいて学ぶことができます。
     </p>
-    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=193&page_type=index">
+    <a class="tp_link" href="./index.php?lang=ja&mode=c&id=193&page_type=index">
       <p>石井先生の<br>ページへ</p>
      </a>
 </li>
@@ -195,7 +195,7 @@
 これらで何が分かり、何が分からないのか。<br>
 それを知る事がこころの問題を解決する第一歩です。
     </p>
-    <a class="tp_link" href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=c&id=250&page_type=index">
+    <a class="tp_link" href="./index.php?lang=ja&mode=c&id=250&page_type=index">
       <p>永田先生の<br>ページへ</p>
      </a>
  </li>

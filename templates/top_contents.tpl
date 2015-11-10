@@ -6,15 +6,15 @@
 <!-- 0と1がつなぐ社会 -->
 <div id="special_head">
         </a>
-    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=nobel_interview">
-        <img src="./images/ja/nobel_interview.png" alt="2014年ノーベル物理学賞受賞記念特別インタビュー" width="694" height="399" >
+    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=open_campus_2015">
+        <img src="./images/ja/OpenCampus2015.jpg" alt="オープンキャンパス2015" width="694" height="399" >
 </div><!-- 0と1がつなぐ社会 end -->
-<!-- Topics 特別編 -->
+<!-- 大学の授業入門 -->
 <div id="topics_head">
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2015">
-          <img src="./images/ja/topics7/topics7_header.png" alt="名大の授業 TOIPCS　No.7 0と1がつなぐ社会" width="694" height="399" >
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2015sec">
+          <img src="./images/ja/topics8/topics8_header.png" alt="名大の授業 TOPICS　No.8 大学の授業入門" width="694" height="399" >
     </a>
-  </div><!-- Topics 特別編 end -->
+  </div><!-- 大学の授業入門 end -->
 
 <div class="inline">
 

@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html lang="{$lang|default:"ja"}">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
@@ -78,6 +78,9 @@
 
 {elseif $lang=='ja' && $page_type=='nobel_interview'}
 <link rel="stylesheet" type="text/css" href="css/nobel_interview.css">
+
+{elseif $lang=='ja' && $page_type=='open_campus_2015'}
+<link rel="stylesheet" type="text/css" href="css/open_campus_2015.css">
 
 {elseif $lang=='ja' && $page_type=='student_testimonials'}
 <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
