@@ -6,8 +6,8 @@
 <!-- 0と1がつなぐ社会 -->
 <div id="special_head">
         </a>
-    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=nobel_interview">
-        <img src="./images/ja/nobel_interview.png" alt="2014年ノーベル物理学賞受賞記念特別インタビュー" width="694" height="399" >
+    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=open_campus_2015">
+        <img src="./images/ja/OpenCampus2015.jpg" alt="オープンキャンパス2015" width="694" height="399" >
 </div><!-- 0と1がつなぐ社会 end -->
 <!-- Topics 特別編 -->
 <div id="topics_head">
