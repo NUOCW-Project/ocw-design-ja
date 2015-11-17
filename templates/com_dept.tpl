@@ -30,7 +30,7 @@
 
 <!-- twitterの案内 --->
 {if $lang == 'ja'}
-<a href="http://www.twitter.com/nuocw"><img src="http://twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"></a>
+<a href="http://www.twitter.com/nuocw"><img src="//twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"></a>
 {/if}
 
 <!-- Podcastの案内 -->
