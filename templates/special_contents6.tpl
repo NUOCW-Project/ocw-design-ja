@@ -11,16 +11,16 @@
 
 <li>
 <div class="art_title"> 
-  <a href="./index.php?lang=ja&mode=c&id=288&page_type=index">
-<img src="./images/ja/topics6/title01.png" alt="国際開発学">
- </a>
+    <a href="./index.php?lang=ja&mode=c&id=288&page_type=index">
+    <img src="./images/ja/topics6/title01.png" alt="国際開発学">
+    </a>
 </div>
 </li>
 
 <li>
 <div class="art_title">  
     <a href="./index.php?lang=ja&mode=c&id=138&page_type=index">
-  <img src="./images/ja/topics6/title02.png" alt="中級フランス語2">
+    <img src="./images/ja/topics6/title02.png" alt="中級フランス語2">
     </a>
 </div>
 </li>
