@@ -1,5 +1,9 @@
 <h1>TOPICS バックナンバー</h1>
 <dl id="topics_backnumber">
+<a href="./index.php?lang=ja&mode=g&page_type=nobel_interview">
+  <dt>TOPICS 特別編 天野教授特別インタビュー</dt>
+  <dd><img src="./images/ja/topics_backnumber/amano_interview.png" alt="天野教授特別インタビュー"></dd>
+</a>
 <a href="./index.php?lang=ja&mode=g&page_type=topics2015">
   <dt>TOPICS No.7 0と1がつなぐ社会</dt>
   <dd><img src="./images/ja/topics_backnumber/zeroichi.png" alt="0と1がつなぐ社会"></dd>
