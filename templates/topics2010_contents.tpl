@@ -1,51 +1,39 @@
 <h1>TOPICS バックナンバー</h1>
 <dl id="topics_backnumber">
-<a href="./index.php?lang=ja&mode=g&page_type=nobel_interview">
-  <dt>TOPICS 特別編 天野教授特別インタビュー</dt>
-  <dd><img src="./images/ja/topics_backnumber/amano_interview.png" alt="天野教授特別インタビュー"></dd>
-</a>
-<a href="./index.php?lang=ja&mode=g&page_type=topics2015">
-  <dt>TOPICS No.7 0と1がつなぐ社会</dt>
-  <dd><img src="./images/ja/topics_backnumber/zeroichi.png" alt="0と1がつなぐ社会"></dd>
-</a>
-<a href="./index.php?lang=ja&mode=g&page_type=summercamp">
-  <dt>TOPICS 特別編 Mei-Writing Summer Camp 2014 スペシャルインタビュー</dt>
-  <dd><img src="./images/ja/topics_backnumber/summercamp.png" alt="Mei-Writing Summer Camp 2014 スペシャルインタビュー"></dd>
-</a>
-<a href="./index.php?lang=ja&mode=g&page_type=topics2014">
-  <dt>TOPICS No.6 ひろがる世界</dt>
-  <dd><img src="./images/ja/topics_backnumber/hirogaru.png" alt="ひろがる世界"></dd>
-</a>
-<a href="./index.php?lang=ja&mode=g&page_type=topics2013">
-  <dt>TOPICS No.5 こころ</dt>
-  <dd><img src="./images/ja/topics_backnumber/kokoro.png" alt="こころ"></dd>
-</a>
-<a href="./index.php?lang=ja&mode=g&page_type=special">
-  <dt>TOPICS No.4 理学部新歓サイエンスカフェ 2011</dt>
-  <dd><img src="./images/ja/topics_backnumber/sc.png" alt="理学部新歓サイエンスカフェ 2011"></dd>
-</a>
-<a href="./index.php?lang=ja&mode=g&page_type=topics_branches">
-  <dt>TOPICS No.3 遊び・体験から学ぶ授業</dt>
-  <dd><img src="images/ja/topics_backnumber/asobi_taiken.png" alt="遊び・体験から学ぶ授業"></dd>
-</a>
-<a href="./index.php?lang=ja&mode=g&page_type=topics">
-  <dt>TOPICS No.2 ボードゲームを究める</dt>
-  <dd><img id="arita_bn_img" src="./images/ja/topics_backnumber/arita.png" alt="ボードゲームを究める"></dd>
-</a>
-<!--
-<a href="./index.php?lang=en&mode=g&page_type=topics">
-  <dt>Student Testimonials 留学生の声</dt>
-  <dd><img src="images/ja/topics_backnumber/StudentTestimonials.png" alt="Student Testimonials 留学生の声"></dd>
-</a>
--->
-<a href="#bn_anchor" onclick="noDisplay('hs');Display('msgs_whole')">
-  <dt>TOPICS No.1 message</dt>
-  <dd><img src="images/ja/topics_backnumber/message.png" alt="message"></dd>
-</a>
-<a href="#bn_anchor" onclick="Display('hs');noDisplay('msgs_whole')">
-  <dt>特別企画 高校生向けオススメ授業</dt>
-  <dd><img src="images/ja/topics_backnumber/hs.png" alt="高校生向けオススメ授業"></dd>
-</a>
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=nobel_interview">TOPICS 特別編 天野教授特別インタビュー</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=nobel_interview"><img src="./images/ja/topics_backnumber/amano_interview.png" alt="天野教授特別インタビュー"></a></dd>
+
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2015">TOPICS No.7 0と1がつなぐ社会</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2015"><img src="./images/ja/topics_backnumber/zeroichi.png" alt="0と1がつなぐ社会"></a></dd>
+
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=summercamp">TOPICS 特別編 Mei-Writing Summer Camp 2014 スペシャルインタビュー</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=summercamp"><img src="./images/ja/topics_backnumber/summercamp.png" alt="Mei-Writing Summer Camp 2014 スペシャルインタビュー"></a></dd>
+
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2014">TOPICS No.6 ひろがる世界</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2014"><img src="./images/ja/topics_backnumber/hirogaru.png" alt="ひろがる世界"></a></dd>
+
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2013">TOPICS No.5 こころ</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2013"><img src="./images/ja/topics_backnumber/kokoro.png" alt="こころ"></a></dd>
+
+
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=special">TOPICS No.4 理学部新歓サイエンスカフェ 2011</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=special"><img src="./images/ja/topics_backnumber/sc.png" alt="理学部新歓サイエンスカフェ 2011"></a></dd>
+
+
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics_branches">TOPICS No.3 遊び・体験から学ぶ授業</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics_branches"><img src="images/ja/topics_backnumber/asobi_taiken.png" alt="遊び・体験から学ぶ授業"></a></dd>
+
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics">TOPICS No.2 ボードゲームを究める</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics"><img id="arita_bn_img" src="./images/ja/topics_backnumber/arita.png" alt="ボードゲームを究める"></a></dd>
+
+
+  <dt><a href="#bn_anchor" onclick="noDisplay('hs');Display('msgs_whole')">TOPICS No.1 message</a></dt>
+  <dd><a href="#bn_anchor" onclick="noDisplay('hs');Display('msgs_whole')"><img src="images/ja/topics_backnumber/message.png" alt="message"></a></dd>
+
+
+  <dt><a href="#bn_anchor" onclick="Display('hs');noDisplay('msgs_whole')">特別企画 高校生向けオススメ授業</a></dt>
+  <dd><a href="#bn_anchor" onclick="Display('hs');noDisplay('msgs_whole')"><img src="images/ja/topics_backnumber/hs.png" alt="高校生向けオススメ授業"></a></dd>
+
 </dl>
 <hr id="bn_anchor">
 
