@@ -1,6 +1,6 @@
 <img alt="名大の授業 TOPICS No.5" src="./images/ja/topics5/topics_no5.png" id="tp_door">
 
-<a class="art_title">
+<a class="topics_title">
 <center>
 <img src="./images/ja/topics5/kokoro_title.png" alt="こころ">
 </center>
