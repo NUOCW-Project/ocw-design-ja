@@ -1,7 +1,7 @@
 <img alt="名大の授業 TOPICS No.3" src="./images/ja/topics3/door.png" id="tp_door">
 
 <div id="tp_default">
-<a class="topics_title">
+<a class="topics_title_logo">
 <img src="./images/ja/topics3/title.png" alt="遊び・体験から学ぶ授業">
 </a>
 <br>
