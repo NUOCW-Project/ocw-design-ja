@@ -61,13 +61,14 @@
 
 {* 授業ホームの時のみコース情報を表示 *}
 {if $page_format.tpl_name=="index"}
-<div id="movie">
   {if $course_info.movie_id != ''}
-    {embed_video id=$course_info.movie_id width="320" height="180"}
-  {elseif $course_info.imgfile != ''}
-    <img src="./files/{$course_id}/{$course_info.imgfile}" alt="">
-  {/if}
+<div id="movie">
+  {embed_video id=$course_info.movie_id width="320" height="180"}
 </div><!-- "movie" end -->
+  {elseif $course_info.imgfile != ''}
+<img id="course_img" src="./files/{$course_id}/{$course_info.imgfile}" alt="">
+  {/if}
+
     
 <div id="caption">
   <div id="publisher">
