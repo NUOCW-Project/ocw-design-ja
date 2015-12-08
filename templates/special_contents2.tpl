@@ -39,13 +39,7 @@
     <h2 class="tp_title">ボードゲームを究める</h2>
     <span>情報文化学部　 有田隆也 教授</span>    
 </a><hr class="blue_bar"></li>
-<!--
-<li><a href="#articles_detail" class="art_title">
 
-    <h2 id="tp_title6"></h2>
-    <span></span>
-</a><hr id="blue_bar6"></li>
--->
 </ul>
 
 <div id="vertical_border"></div>
@@ -136,16 +130,6 @@
 
 </li>
 
-<!--
-<li id="intro6">
-    <h2></h2>
-    <p class="lead">
-    </p>
-    <a class="tp_link" href="">
-      <p>先生の<br>ページへ</p>
-     </a>
-</li>
--->
 </ul>
 </div><!-- "tp_default" end -->
 

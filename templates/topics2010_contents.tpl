@@ -1,5 +1,8 @@
 <h1>TOPICS バックナンバー</h1>
 <dl id="topics_backnumber">
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2015sec">TOPICS No.8 大学の授業入門</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2015sec"><img src="./images/ja/topics_backnumber/topics08.png" alt="大学の授業入門"></a></dd>
+
   <dt><a href="./index.php?lang=ja&mode=g&page_type=nobel_interview">TOPICS 特別編 天野教授特別インタビュー</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=nobel_interview"><img src="./images/ja/topics_backnumber/amano_interview.png" alt="天野教授特別インタビュー"></a></dd>
 

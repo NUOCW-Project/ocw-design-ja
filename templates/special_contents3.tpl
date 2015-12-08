@@ -12,8 +12,6 @@
 </p>
 </div>
 
-<!-- <div id="tp_default"> -->
-
 <ul id="articles_title">
 <li><a href="#hr_marker" onclick="Display('articles_detail');Display('detail1');noDisplay('detail2');noDisplay('detail3');noDisplay('detail4');noDisplay('detail5');noDisplay('detail6');noDisplay('detail7');noDisplay('detail8');noDisplay('detail9');noDisplay('detail10');noDisplay('detail11');noDisplay('detail12');">
     <img alt="前川浩隆" class="face" src="./images/ja/topics4/kanban/k_maekawa.png">
