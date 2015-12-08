@@ -37,7 +37,7 @@
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=relay">名古屋大学リレーセミナー</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=gcoetop">グローバルCOEプログラム</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=fwarchive">退職記念講義アーカイブ</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=fw2015">退職記念講義2015</a>
+		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=farewell">退職記念講義2015</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=tefs">TEFS</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=agora">数学アゴラ</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=sem">女子中高生理系進学推進セミナー</a>
