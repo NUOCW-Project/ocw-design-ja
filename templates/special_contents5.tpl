@@ -59,17 +59,6 @@
 </div>
 </li>
 
-<!--
-<li>
-<div class="art_title">
-    <h2 class="tp_title">健康スポーツ科学講義
-    <br>（精神医学）</h2>
-    <span>小川豊昭 教授</span>
-    <br><small></small>
-</div>
-</li>
--->
-
 </ul><!-- "articles_title" end -->
 
 <ul id="articles_intro">
@@ -226,5 +215,5 @@
      </a>
  </li>
 
-</ul><!-- articles_intro">
+</ul><!-- "articles_intro" end -->
 </div><!-- "tp_default" end -->
