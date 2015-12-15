@@ -41,7 +41,7 @@
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">{if $lang=='ja'}ごあいさつ{else}Introduction{/if}</a></li>
 <!--    <li>アクセスランキング</li> -->
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news">{if $lang=='ja'}おしらせ{else}News{/if}</a></li>
-<!-- 英語版では"お知らせ"と"プレリリース"を分けない -->
+<!-- 英語版では"お知らせ"と"プレスリリース"を分けない -->
 {if $lang=='ja'}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
     <li><a href="http://ocw.media.nagoya-u.ac.jp/system/release-5.1/">{if $lang=='ja'}NU OCW コース管理システム{/if}</a></li>

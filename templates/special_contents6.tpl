@@ -128,5 +128,5 @@
     </li>
 
 
-</ul><!-- articles_intro">
+</ul><!-- "articles_intro" end -->
 </div><!-- "tp_default" end -->

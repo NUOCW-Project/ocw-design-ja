@@ -3,12 +3,12 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
-<!-- 0と1がつなぐ社会 -->
+<!-- オープンキャンパス2015 -->
 <div id="special_head">
         </a>
     <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=open_campus_2015">
         <img src="./images/ja/OpenCampus2015.jpg" alt="オープンキャンパス2015" width="694" height="399" >
-</div><!-- 0と1がつなぐ社会 end -->
+</div><!-- オープンキャンパス2015 end -->
 <!-- 大学の授業入門 -->
 <div id="topics_head">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2015sec">
