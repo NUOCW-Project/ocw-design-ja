@@ -1,4 +1,4 @@
-<!-- 部局紹介のビデオ　-->
+<!-- 部局紹介のビデオ -->
 {* {if $dept_info.vs_url != ''}
 <div class="inline">
 <div class="welcome_img">
