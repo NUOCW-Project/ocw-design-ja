@@ -49,7 +49,9 @@
 	{/if}
 	       width="945" height="400"> 
         {if $lang=="ja"}
-              {/literal}{include file="top_notice.tpl"}{literal}
+{*
+ {/literal}{include file="top_notice.tpl"}{literal}
+*}
         {/if}
 {else}
     {if $page_type != "summercamp" && $page_type != "nobel_interview" && $page_type != "open_campus_2015"}
