@@ -34,9 +34,9 @@
 
 <h2>関係資料</h2>
 <ul>
-<li>著作物利用許諾</li>
-<li>著作権についてのお願い</li>
-<li>OCWリポジトリ登録依頼</li>
+<li><a href="./files/ja/teacher/repository_require.pdf">著作物利用許諾</a></li>
+<li><a href="./files/ja/teacher/copyright_request.docx">著作権についてのお願い</a></li>
+<li><a href="./files/ja/teacher/ocw_copyright.pdf">OCWリポジトリ登録依頼</a></li>
 </ul>
 
 </div> <!-- .e_text -->
