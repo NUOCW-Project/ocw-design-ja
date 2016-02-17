@@ -73,6 +73,10 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/8.css">  
 
+{elseif $lang=='ja' && $page_type=='topics2016agri'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/9agri.css">  
+
 {elseif $lang=='ja' && $page_type=='summercamp'}
 <link rel="stylesheet" type="text/css" href="css/summercamp.css">
 
