@@ -87,6 +87,9 @@
 
 {elseif $lang=='en' && $page_type=='project_nakatsugawa'}
 <link rel="stylesheet" type="text/css" href="css/project_nakatsugawa.css">
+
+{elseif $lang=='ja' && $page_type=='romeclub'}
+<link rel="stylesheet" type="text/css" href="css/romeclub.css">
 {/if}
 {/literal}
 
