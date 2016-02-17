@@ -10,8 +10,27 @@
 </p>
 </div>
 
-<div id = "">
-以下リンクから、同時通訳つきで講演の様子をご覧いただけます（動画）。
-</div>
+<div id = "link">
+<p>以下リンクから、同時通訳つきで講演の様子をご覧いただけます（動画）。</p>
 
-<img src="./images/ja/rome_club/rome_club.jpg" alt="ローマクラブ共同会長 名古屋大学名誉博士称号授与記念イベント">
+<p>名古屋大学名誉博士号授与式</p>
+<ul>
+<li>日本語</li>
+<li>英語</li>
+</ul>
+
+<p>記念講演「ローマクラブからの新たなメッセージ」</p>
+<ul>
+<li><a href="">日本語</a></li>
+<li><a href="">英語</a></li>
+</ul>
+
+<p>日本工学アカデミー・トークセッション「持続可能な未来のための知恵とわざ」</p>
+<ul>
+<li><a href="">日本語</a></li>
+<li><a href="">英語</a></li>
+<li><a href="">オリジナル（同時通訳なし）</a></li>
+</ul>
+
+</div>
+<a href="http://www.env.nagoya-u.ac.jp/news/pub/20160206.pdf"><img src="./images/ja/rome_club/rome_club.jpg" alt="詳しい資料はこちらから（PDF版）"></a>
