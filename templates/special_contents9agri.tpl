@@ -13,30 +13,41 @@
 ヒノキ林では、森林を健康に保つために木を間引く「伐倒」や、枯れ枝やある高さまでの枝を切り落とす「枝打ち」と呼ばれる作業が行われました。
 </p>
 
+<div class="article">
 <img src="images/ja/topics9/agricaluture/01.jpg">
 <p>
 伐倒（木を間引く作業）する木に目印をつけ、直径などを測定する様子。ただ木を切るだけでなく、その後分析をするのも実習のひとつです。
 </p>
+</div>
 
+<div class="article">
 <img src="images/ja/topics9/agricaluture/02.jpg">
 <p>
 学生がチェーンソーを用いて伐倒（木を間引く作業）を行う様子。チェーンソーに触れるのが始めてという学生が多く、緊張した様子で作業をしていました。
 </p>
+</div>
 
+<div class="article">
 <img src="images/ja/topics9/agricaluture/03.jpg">
 <p>
 倒した木が他の木に寄りかかってしまう「かかり木」が発生した様子。安全に処理するには知識と技術が必要です。
 </p>
+</div>
 
+<div class="article">
 <img src="images/ja/topics9/agricaluture/04.jpg">
 <p>
 倒した木から、樹高を測定する様子。
 </p>
+</div>
 
+<div class="article">
 <img src="images/ja/topics9/agricaluture/05.jpg">
 <p>
 木を倒した後の切り株。この年輪からも様々な情報が得られるため、学生はここから円盤を切り取って持ち帰り、分析します。
 </p>
+</div>
+
 </div> {* class = report *}
 
 
@@ -48,15 +59,20 @@
 スギ林では、木々をひとつひとつ測定し、地形によって木の成長がどう変わるかを調べる実習（標準地調査）が行われました。
 </p>
 
+<div class="article">
 <img src="images/ja/topics9/agricaluture/06.jpg">
 <p>
 スギ林では、尾根付近の急斜面で実習が行われます。数日前の雨もあり、斜面は非常に滑りやすくなっていました。
 </p>
+</div>
 
+<div class="article">
 <img src="images/ja/topics9/agricaluture/07.jpg">
 <p>
 測高器で樹木の高さを測る様子。尾根付近の定められた区画の中にある樹木の位置や高さを図に記録します。ここで作成した図を基に、将来この林をどうするか、計画を立てる実習も行われます。
 </p>
+</div>
+
 </div> {* class = report *}
 
 
