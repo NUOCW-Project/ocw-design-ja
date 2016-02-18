@@ -1,7 +1,7 @@
 {* 「TOPICS特別編まとめ」のテンプレート *}
 {include file="com_header.tpl"}
 {if $lang =="ja"}
-  {include file="specialtopics_backno.tpl"}
+  {include file="specialtopics.tpl"}
  {elseif $lang == "en"}
   {include file="special_contents_en.tpl"}
 {/if}
