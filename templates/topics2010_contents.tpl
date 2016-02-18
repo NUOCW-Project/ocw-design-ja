@@ -1,19 +1,10 @@
 <h1>TOPICS バックナンバー</h1>
 <dl id="topics_backnumber">
-  <dt><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2015">TOPICS 特別編 オープンキャンパス2015</a></dt>
-  <dd><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2015"><img src="./images/ja/topics_backnumber/open_campus_2015.png" alt="オープンキャンパス2015"></a></dd>
-
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2015sec">TOPICS No.8 大学の授業入門</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2015sec"><img src="./images/ja/topics_backnumber/topics08.png" alt="大学の授業入門"></a></dd>
 
-  <dt><a href="./index.php?lang=ja&mode=g&page_type=nobel_interview">TOPICS 特別編 天野教授特別インタビュー</a></dt>
-  <dd><a href="./index.php?lang=ja&mode=g&page_type=nobel_interview"><img src="./images/ja/topics_backnumber/amano_interview.png" alt="天野教授特別インタビュー"></a></dd>
-
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2015">TOPICS No.7 0と1がつなぐ社会</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2015"><img src="./images/ja/topics_backnumber/zeroichi.png" alt="0と1がつなぐ社会"></a></dd>
-
-  <dt><a href="./index.php?lang=ja&mode=g&page_type=summercamp">TOPICS 特別編 Mei-Writing Summer Camp 2014 スペシャルインタビュー</a></dt>
-  <dd><a href="./index.php?lang=ja&mode=g&page_type=summercamp"><img src="./images/ja/topics_backnumber/summercamp.png" alt="Mei-Writing Summer Camp 2014 スペシャルインタビュー"></a></dd>
 
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2014">TOPICS No.6 ひろがる世界</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2014"><img src="./images/ja/topics_backnumber/hirogaru.png" alt="ひろがる世界"></a></dd>
