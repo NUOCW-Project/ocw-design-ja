@@ -85,14 +85,19 @@
 {elseif $lang=='ja' && $page_type=='open_campus_2015'}
 <link rel="stylesheet" type="text/css" href="css/open_campus_2015.css">
 
+{elseif $lang=='ja' && $page_type=='romeclub'}
+<link rel="stylesheet" type="text/css" href="css/romeclub.css">
+
+{elseif $lang=='ja' && $page_type=='specialtopics'}
+<link rel="stylesheet" type="text/css" href="css/specialtopics.css">
+
 {elseif $lang=='ja' && $page_type=='student_testimonials'}
 <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 
 {elseif $lang=='en' && $page_type=='project_nakatsugawa'}
 <link rel="stylesheet" type="text/css" href="css/project_nakatsugawa.css">
 
-{elseif $lang=='ja' && $page_type=='romeclub'}
-<link rel="stylesheet" type="text/css" href="css/romeclub.css">
+
 {/if}
 {/literal}
 
