@@ -121,7 +121,7 @@
 <div class="report">
 <h1>ビデオ</h1>
 <div id="agri_movie">
-{embed_video id="2910" width="480" height="320"}
+{embed_video id="2910" width="225" height="150"}
 </div>
 </div> {* class = report *}
 
