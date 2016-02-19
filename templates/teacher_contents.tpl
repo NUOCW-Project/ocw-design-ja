@@ -1,4 +1,4 @@
-<h2>「名大の授業」へ授業教材を公開しませんか</h2>
+﻿<h2>「名大の授業」へ授業教材を公開しませんか</h2>
 
 <div class="g_text">
 <p>
@@ -20,8 +20,8 @@
 <p>　
 授業に関する以下の情報をご提供下さい（○は必須です）
 <ul>
-<li>○シラバス</li>
-<li>○授業の工夫(先生がどのようなお考えで授業を展開されているのかをご執筆いただきたく存じます)</li>
+<li class="white">シラバス</li>
+<li class="white">授業の工夫(先生がどのようなお考えで授業を展開されているのかをご執筆いただきたく存じます)</li>
 <li>講義ノート(一部のみでも問題ございません)</li>
 <li>小テスト･課題</li>
 <li>1分間授業紹介</li>
@@ -34,9 +34,9 @@
 
 <h2>関係資料</h2>
 <ul>
-<li><a href="./files/ja/teacher/repository_require.pdf">著作物利用許諾</a></li>
-<li><a href="./files/ja/teacher/copyright_request.docx">著作権についてのお願い</a></li>
-<li><a href="./files/ja/teacher/ocw_copyright.pdf">OCWリポジトリ登録依頼</a></li>
+<li><a href="./images/ja/teacher/repository_require.pdf">著作物利用許諾</a></li>
+<li><a href="./images/ja/teacher/copyright_request.docx">著作権についてのお願い</a></li>
+<li><a href="./images/ja/teacher/ocw_copyright.pdf">OCWリポジトリ登録依頼</a></li>
 </ul>
 
 </div> <!-- .e_text -->

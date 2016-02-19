@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="{$lang|default:"ja"}">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
@@ -25,6 +25,8 @@
   <link rel="stylesheet" type="text/css" href="css/inquiry.css">
 {elseif $page_type=='sitemap'}
   <link rel="stylesheet" type="text/css" href="css/sitemap.css">
+{elseif $page_type=='teacher'}
+  <link rel="stylesheet" type="text/css" href="css/teacher.css">
 {elseif $page_type=='top'}
   <link rel="stylesheet" type="text/css" href="css/top.css">
   <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
@@ -85,14 +87,19 @@
 {elseif $lang=='ja' && $page_type=='open_campus_2015'}
 <link rel="stylesheet" type="text/css" href="css/open_campus_2015.css">
 
+{elseif $lang=='ja' && $page_type=='romeclub'}
+<link rel="stylesheet" type="text/css" href="css/romeclub.css">
+
+{elseif $lang=='ja' && $page_type=='specialtopics'}
+<link rel="stylesheet" type="text/css" href="css/specialtopics.css">
+
 {elseif $lang=='ja' && $page_type=='student_testimonials'}
 <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 
 {elseif $lang=='en' && $page_type=='project_nakatsugawa'}
 <link rel="stylesheet" type="text/css" href="css/project_nakatsugawa.css">
 
-{elseif $lang=='ja' && $page_type=='romeclub'}
-<link rel="stylesheet" type="text/css" href="css/romeclub.css">
+
 {/if}
 {/literal}
 
