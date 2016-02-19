@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="{$lang|default:"ja"}">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
@@ -25,6 +25,8 @@
   <link rel="stylesheet" type="text/css" href="css/inquiry.css">
 {elseif $page_type=='sitemap'}
   <link rel="stylesheet" type="text/css" href="css/sitemap.css">
+{elseif $page_type=='teacher'}
+  <link rel="stylesheet" type="text/css" href="css/teacher.css">
 {elseif $page_type=='top'}
   <link rel="stylesheet" type="text/css" href="css/top.css">
   <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
