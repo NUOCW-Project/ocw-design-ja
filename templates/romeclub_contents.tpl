@@ -1,3 +1,4 @@
+<div id= "romeclub">
 <h1>ローマクラブ共同会長</h1>
 <h1>名古屋大学名誉博士称号授与記念イベント</h1>
 
@@ -10,7 +11,7 @@
 </p>
 </div>{* "intro" end *}
 
-<div id = "link">
+<div id = "video">
 <p>以下リンクから、同時通訳つきで講演の様子をご覧いただけます（動画）。</p>
 
 <p>名古屋大学名誉博士号授与式</p>
@@ -32,9 +33,10 @@
 <li><a href="">オリジナル（同時通訳なし）</a></li>
 </ul>
 
-</div>{* "link" end *}
+</div>{* "video" end *}
 
 {* ローマクラブの画像 *}
 <div id = "image">
 <a href="http://www.env.nagoya-u.ac.jp/news/pub/20160206.pdf"><img src="./images/ja/rome_club/rome_club.jpg" alt="詳しい資料はこちらから（PDF版）"></a>
 </div>
+</div>{* "romeclub" end *}
