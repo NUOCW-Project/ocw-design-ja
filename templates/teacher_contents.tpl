@@ -53,7 +53,7 @@
 <dl>
 <dt>名古屋大学 教養教育院OCW事務室</dt>
 <dd>電話: 052-789-3904</dd>
-<dd>電子メール: <img src="./images/common/mail_inq.gif" alt="nuocw.inquiry@media.nagoya-u.ac.jp"></dd>
+<dd>電子メール: <img src="./images/common/mail_inq.gif"></dd>
 </dl>
 </div>
 
