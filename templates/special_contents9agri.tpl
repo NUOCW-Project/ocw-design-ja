@@ -1,4 +1,6 @@
-<img id="agri_top" src="images/ja/topics9/agriculture/banner.png" alt="TOPICS NO.9 生物環境科学実験実習">
+<div id="agri_top">
+<img src="images/ja/topics9/agriculture/banner.png" alt="TOPICS NO.9 生物環境科学実験実習">
+</div>
 
 <div id="intro">
 <h1>農学部 生物環境科学科3年生 生物環境科学実験実習</h1>
@@ -135,7 +137,7 @@
 <div class="report">
 <h1>ビデオ</h1>
 <div id="agri_movie">
-{embed_video id="2910" width="225" height="150"}
+{embed_video id="2741" width="225" height="150"}
 </div>
 </div> {* class = report *}
 
