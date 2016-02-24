@@ -34,9 +34,9 @@
 
 <h2>関係資料</h2>
 <ul>
-<li><a href="./images/ja/teacher/repository_require.pdf">著作物利用許諾</a></li>
-<li><a href="./images/ja/teacher/copyright_request.docx">著作権についてのお願い</a></li>
-<li><a href="./images/ja/teacher/ocw_copyright.pdf">OCWリポジトリ登録依頼</a></li>
+<li><a href="./images/ja/teacher/repository_require.pdf" target="blank">著作物利用許諾</a></li>
+<li><a href="./images/ja/teacher/copyright_request.docx" target="blank">著作権についてのお願い</a></li>
+<li><a href="./images/ja/teacher/ocw_copyright.pdf" target="blank">OCWリポジトリ登録依頼</a></li>
 </ul>
 
 </div> <!-- .e_text -->
@@ -44,7 +44,7 @@
 <h2>インターネット上で教材等を公開するために</h2>
 <div class="g_text">
 <p>
-<a href="http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html">http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html</a>
+<a href="http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html" target="blank">http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html</a>
 </p>
 </div>
 
@@ -53,7 +53,7 @@
 <dl>
 <dt>名古屋大学 教養教育院OCW事務室</dt>
 <dd>電話: 052-789-3904</dd>
-<dd>電子メール: nuocw.inquiry@media.nagoya-u.ac.jp</dd>
+<dd>電子メール: <img src="./images/common/mail_inq.gif" alt="nuocw.inquiry@media.nagoya-u.ac.jp"></dd>
 </dl>
 </div>
 
