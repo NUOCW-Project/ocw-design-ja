@@ -35,7 +35,7 @@
 
 {* その他イベント等まとめページ(Special TOPICS)の案内 *}
 {if $lang == 'ja'}
-<a href="./index.php?lang=ja&mode=g&page_type=specialtopics"><img src=".images/ja/navi/other_banner.png" alt="その他イベント等"></a>
+<a href="./index.php?lang=ja&mode=g&page_type=specialtopics"><img src="./images/ja/navi/other_banner.png" alt="その他イベント等"></a>
 {/if}
 
 <!-- Podcastの案内 -->
