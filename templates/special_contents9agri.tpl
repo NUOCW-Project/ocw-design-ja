@@ -21,31 +21,39 @@
 </div>
 
 <div class="article">
+<div class="img_box">
 <img src="images/ja/topics9/agriculture/02.jpg">
-<p>
+</div>
+<div class="img_box">
 学生がチェーンソーを用いて伐倒（木を間引く作業）を行う様子。チェーンソーに触れるのが始めてという学生が多く、緊張した様子で作業をしていました。
-</p>
+</div>
 </div>
 
 <div class="article">
+<div class="img_box">
 <img src="images/ja/topics9/agriculture/03.jpg">
-<p>
+</div>
+<div class="text_box">
 倒した木が他の木に寄りかかってしまう「かかり木」が発生した様子。安全に処理するには知識と技術が必要です。
-</p>
+</div>
 </div>
 
 <div class="article">
+<div class="img_box">
 <img src="images/ja/topics9/agriculture/04.jpg">
-<p>
+</div>
+<div class="img_box">
 倒した木から、樹高を測定する様子。
-</p>
+</div>
 </div>
 
 <div class="article">
+<div class="img_box">
 <img src="images/ja/topics9/agriculture/05.jpg">
-<p>
+</div>
+<div class="img_box">
 木を倒した後の切り株。この年輪からも様々な情報が得られるため、学生はここから円盤を切り取って持ち帰り、分析します。
-</p>
+</div>
 </div>
 
 </div> {* class = report *}
@@ -60,17 +68,21 @@
 </p>
 
 <div class="article">
+<div class="img_box">
 <img src="images/ja/topics9/agriculture/06.jpg">
-<p>
+</div>
+<div class="img_box">
 スギ林では、尾根付近の急斜面で実習が行われます。数日前の雨もあり、斜面は非常に滑りやすくなっていました。
-</p>
+</div>
 </div>
 
 <div class="article">
+<div class="img_box">
 <img src="images/ja/topics9/agriculture/07.jpg">
-<p>
+</div>
+<div class="img_box">
 測高器で樹木の高さを測る様子。尾根付近の定められた区画の中にある樹木の位置や高さを図に記録します。ここで作成した図を基に、将来この林をどうするか、計画を立てる実習も行われます。
-</p>
+</div>
 </div>
 
 </div> {* class = report *}
