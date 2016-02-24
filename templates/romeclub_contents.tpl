@@ -14,29 +14,25 @@
 <div id = "video">
 <p>以下リンクから、同時通訳つきで記念イベントの様子をご覧いただけます（動画）。</p>
 
-<p>名古屋大学名誉博士号授与式</p>
-<ul>
-<li><a href="">日本語</a></li>
-<li><a href="">英語</a></li>
-</ul>
+<dl>
+<dt>名古屋大学名誉博士号授与式</dt>
+<dd><a href="">日本語</a></dd>
+<dd><a href="">英語</a></dd>
 
-<p>記念講演「ローマクラブからの新たなメッセージ」</p>
-<ul>
-<li><a href="">日本語</a></li>
-<li><a href="">英語（講演オリジナル）</a></li>
-</ul>
+<dt>記念講演「ローマクラブからの新たなメッセージ」</dt>
+<dd><a href="">日本語</a></dd>
+<dd><a href="">英語（講演オリジナル）</a></dd>
 
-<p>日本工学アカデミー・トークセッション「持続可能な未来のための知恵とわざ」</p>
-<ul>
-<li><a href="">日本語</a></li>
-<li><a href="">英語</a></li>
-<li><a href="">オリジナル（同時通訳なし）</a></li>
-</ul>
+<dt>日本工学アカデミー・トークセッション「持続可能な未来のための知恵とわざ」</dt>
+<dd><a href="">日本語</a></dd>
+<dd><a href="">英語</a></dd>
+<dd><a href="">オリジナル（同時通訳なし）</a></dd>
+</dl>
 
 </div>{* "video" end *}
 
 {* ローマクラブの画像 *}
 <div id = "image">
 <a href="http://www.env.nagoya-u.ac.jp/news/pub/20160206.pdf"><img src="./images/ja/rome_club/rome_club.jpg" alt="詳しい資料はこちらから（PDF版）"></a>
-</div>
+</div>{* "image" end *}
 </div>{* "romeclub" end *}
