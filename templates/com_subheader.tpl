@@ -54,7 +54,7 @@
 *}
         {/if}
 {else}
-    {if $page_type != "summercamp" && $page_type != "nobel_interview" && $page_type != "open_campus_2015" && $page_type != "teacher"}
+    {if $page_type != "summercamp" && $page_type != "nobel_interview" && $page_type != "open_campus_2015" && $page_type != "teacher" && $page_type != "specialtopics"}
         <img src="./images/{$lang}/header_{$page_type}.jpg"
             alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
     {/if}
