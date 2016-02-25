@@ -30,12 +30,12 @@
 
 <!-- twitterの案内 --->
 {if $lang == 'ja'}
-<a href="http://www.twitter.com/nuocw"><img src="//twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"></a>
+<li class="other"><a href="http://www.twitter.com/nuocw"><img src="//twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"></a></li>
 {/if}
 
 {* その他イベント等まとめページ(Special TOPICS)の案内 *}
 {if $lang == 'ja'}
-<a href="./index.php?lang=ja&mode=g&page_type=specialtopics"><img src="./images/ja/navi/other_banner.png" alt="その他イベント等"></a>
+<li class="other"><a href="./index.php?lang=ja&mode=g&page_type=specialtopics"><img src="./images/ja/navi/other_banner.png" alt="その他イベント等"></a></li>
 {/if}
 
 <!-- Podcastの案内 -->
