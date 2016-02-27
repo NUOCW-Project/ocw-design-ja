@@ -3,6 +3,7 @@
 <img src="images/ja/topics9/agriculture/banner.png" alt="TOPICS NO.9 生物環境科学実験実習">
 </div>
 
+<div id="main_topics">
 <div id="intro">
 <h1>農学部 生物環境科学科3年生 生物環境科学実験実習</h1>
 <p>
@@ -10,7 +11,6 @@
 </p>
 </div> {* class = intro *}
 
-<div id="main_topics">
 <div class="report">
 <h1>森林を守り、育てる</h1>
 <p>
