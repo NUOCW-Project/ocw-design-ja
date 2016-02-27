@@ -44,7 +44,7 @@
 <h2>インターネット上で教材等を公開するために</h2>
 <div class="g_text">
 <p>
-<a href="http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html" target="blank">http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html</a>
+注意事項等はこちら(<a href="http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html" target="blank">http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html</a>)をご覧ください。
 </p>
 </div>
 
