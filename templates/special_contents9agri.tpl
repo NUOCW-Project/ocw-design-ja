@@ -1,3 +1,4 @@
+<div id="topics2016agri">
 <div id="agri_top">
 <img src="images/ja/topics9/agriculture/banner.png" alt="TOPICS NO.9 生物環境科学実験実習">
 </div>
@@ -150,3 +151,5 @@
 <li>名古屋大学稲武フィールド</li>
 </ul>
 </div> {* class = report *}
+
+</div> {* id = topics2016agri *}
