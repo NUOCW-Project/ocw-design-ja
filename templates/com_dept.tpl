@@ -40,7 +40,7 @@
 
 {* 教員の方へページの案内 *}
 {if $lang == 'ja'}
-<li class="other"><a href="./index.php?lang=ja&mode=g&page_type=teacher"><img src="./images/ja/navi/teacher_banner.png" alt="教員の方へ"></a></li>
+<li class="other"><a href="./index.php?lang=ja&mode=g&page_type=teacher"><img src="./images/ja/navi/teachers_banner.png" alt="教員の方へ"></a></li>
 {/if}
 
 <!-- Podcastの案内 -->
