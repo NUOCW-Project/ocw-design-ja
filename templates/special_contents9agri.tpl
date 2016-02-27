@@ -10,6 +10,7 @@
 </p>
 </div> {* class = intro *}
 
+<div id="main_topics">
 <div class="report">
 <h1>森林を守り、育てる</h1>
 <p>
@@ -151,5 +152,7 @@
 <li>名古屋大学稲武フィールド</li>
 </ul>
 </div> {* class = report *}
+
+</div> {* id = main_topics *}
 
 </div> {* id = topics2016agri *}
