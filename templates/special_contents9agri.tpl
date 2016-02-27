@@ -17,47 +17,47 @@
 </p>
 
 <div class="article">
-<div class="img_box">
-<img src="images/ja/topics9/agriculture/01.jpg">
-</div>
 <div class="text_box">
 伐倒（木を間引く作業）する木に目印をつけ、直径などを測定する様子。ただ木を切るだけでなく、その後分析をするのも実習のひとつです。
 </div>
+<div class="img_box">
+<img src="images/ja/topics9/agriculture/01.jpg">
+</div>
 </div>
 
 <div class="article">
-<div class="img_box">
-<img src="images/ja/topics9/agriculture/02.jpg">
-</div>
 <div class="text_box">
 学生がチェーンソーを用いて伐倒（木を間引く作業）を行う様子。チェーンソーに触れるのが始めてという学生が多く、緊張した様子で作業をしていました。
 </div>
+<div class="img_box">
+<img src="images/ja/topics9/agriculture/02.jpg">
+</div>
 </div>
 
 <div class="article">
-<div class="img_box">
-<img src="images/ja/topics9/agriculture/03.jpg">
-</div>
 <div class="text_box">
 倒した木が他の木に寄りかかってしまう「かかり木」が発生した様子。安全に処理するには知識と技術が必要です。
 </div>
+<div class="img_box">
+<img src="images/ja/topics9/agriculture/03.jpg">
+</div>
 </div>
 
 <div class="article">
-<div class="img_box">
-<img src="images/ja/topics9/agriculture/04.jpg">
-</div>
 <div class="text_box">
 倒した木から、樹高を測定する様子。
 </div>
+<div class="img_box">
+<img src="images/ja/topics9/agriculture/04.jpg">
+</div>
 </div>
 
 <div class="article">
-<div class="img_box">
-<img src="images/ja/topics9/agriculture/05.jpg">
-</div>
 <div class="text_box">
 木を倒した後の切り株。この年輪からも様々な情報が得られるため、学生はここから円盤を切り取って持ち帰り、分析します。
+</div>
+<div class="img_box">
+<img src="images/ja/topics9/agriculture/05.jpg">
 </div>
 </div>
 
@@ -73,20 +73,20 @@
 </p>
 
 <div class="article">
-<div class="img_box">
-<img src="images/ja/topics9/agriculture/06.jpg">
-</div>
 <div class="text_box">
 スギ林では、尾根付近の急斜面で実習が行われます。数日前の雨もあり、斜面は非常に滑りやすくなっていました。
+</div>
+<div class="img_box">
+<img src="images/ja/topics9/agriculture/06.jpg">
 </div>
 </div>
 
 <div class="article">
-<div class="img_box">
-<img src="images/ja/topics9/agriculture/07.jpg">
-</div>
 <div class="text_box">
 測高器で樹木の高さを測る様子。尾根付近の定められた区画の中にある樹木の位置や高さを図に記録します。ここで作成した図を基に、将来この林をどうするか、計画を立てる実習も行われます。
+</div>
+<div class="img_box">
+<img src="images/ja/topics9/agriculture/07.jpg">
 </div>
 </div>
 
