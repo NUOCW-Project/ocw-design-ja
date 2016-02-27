@@ -38,6 +38,11 @@
 <li class="other"><a href="./index.php?lang=ja&mode=g&page_type=specialtopics"><img src="./images/ja/navi/other_banner.png" alt="その他イベント等"></a></li>
 {/if}
 
+{* 教員の方へページの案内 *}
+{if $lang == 'ja'}
+<li class="other"><a href="./index.php?lang=ja&mode=g&page_type=teacher"><img src="./images/ja/navi/teacher_banner.png" alt="教員の方へ"></a></li>
+{/if}
+
 <!-- Podcastの案内 -->
 <div id="podcast_waku">
 <div id="aboutpodcast_image">
