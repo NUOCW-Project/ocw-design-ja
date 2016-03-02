@@ -1,4 +1,4 @@
-<h1>Mei-Writing Summer Camp 2014 </h1>
+<h1>Mei-Writing Summer Camp 2013 </h1>
 <h1>スペシャルインタビュー</h1>
 
 <div id= "intro">
@@ -204,19 +204,5 @@
 ―ありがとうございました。
 </p>
 </div>
-
-</div>
-
-<div id="info2014">
-<h4>【サマーキャンプ2014情報】</h4>
-<p>募集は8月28日までで、今年のキャンプは９月の８日から１２日です。
-公式サイトでも情報を更新していきます。
-</p>
-<p>
-サマーキャンプは毎年人気が高まっており、去年初めて応募者が定員（３０人）を超えました。参加申し込みは５月から受付けております。こちらからお申込み頂けます。URL:<a href=" http://meiwriting.ilas.nagoya-u.ac.jp/activities/summer-camp/mei-writing-summer-camp-2014"> http://meiwriting.ilas.nagoya-u.ac.jp/activities/summer-camp/mei-writing-summer-camp-2014</a>
-</p>
-<p>
-ぜひ、お早めのお申し込みを！
-</p>
 
 </div>
