@@ -7,7 +7,7 @@
 
 <h2>「名大の授業」に授業を掲載するには</h2>
 <div class="g_text">
-「名大の授業」では、現在約350のコースを公開しています。主に各部局の長に推薦して頂いた授業や退職記念講義、そして教員のみなさまによる自薦も随時受け付けております。「名大の授業」は、毎年学生に配布されるシラバスに加えて、先生方の授業に対する熱意や工夫、さらに1分程度の動画(1分間授業紹介)で生の声を届けることができます。Webページの作成や著作権処理など、先生のチェックを除く全ての作業はOCWスタッフが行います。掲載を希望される方や興味をお持ちの方は、お気軽にOCW事務室までお問い合わせ下さい。
+「名大の授業」では、現在約560のコースを公開しています。主に各部局の長に推薦して頂いた授業や退職記念講義、そして教員のみなさまによる自薦も随時受け付けております。「名大の授業」は、毎年学生に配布されるシラバスに加えて、先生方の授業に対する熱意や工夫、さらに1分程度の動画(1分間授業紹介)で生の声を届けることができます。Webページの作成や著作権処理など、先生のチェックを除く全ての作業はOCWスタッフが行います。掲載を希望される方や興味をお持ちの方は、お気軽にOCW事務室までお問い合わせ下さい。
 </div>
 
 
@@ -31,7 +31,7 @@
 <div class="g_text">
 <ul>
 <li><a href="./images/ja/teacher/repository_require.pdf" target="blank">著作物利用許諾</a></li>
-<li><a href="./images/ja/teacher/copyright_request.docx" target="blank">著作権についてのお願い</a></li>
+<li><a href="./images/ja/teacher/copyright_request.pdf" target="blank">著作権についてのお願い</a></li>
 <li><a href="./images/ja/teacher/ocw_copyright.pdf" target="blank">OCWリポジトリ登録依頼</a></li>
 </ul>
 </div>
@@ -53,5 +53,5 @@
 <img src="./images/common/redline.gif" id="line2" alt="">
 
 <div id="release_date">
-最終更新日：2016年02月08日
+最終更新日：2016年03月02日
 </div>
