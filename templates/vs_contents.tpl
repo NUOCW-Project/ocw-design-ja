@@ -20,7 +20,7 @@
 			{/if}
 		<td class="center">
 		{if isset($vs.movie_id)}
-			{embed_video id=$vs.movie_id, width="200" height="150"}
+			{embed_video id=$vs.movie_id width="200" height="150"}
 		{/if}
 		</td>
 		<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.course_id}&amp;page_type=index">{$vs.course_name}
