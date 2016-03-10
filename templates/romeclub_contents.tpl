@@ -15,17 +15,17 @@
 
 <dl>
 <dt>名古屋大学名誉博士号授与式</dt>
-<dd><a href="">日本語</a></dd>
-<dd><a href="">英語</a></dd>
+<dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/cf3a911ac877ae3a71f48c5c3cf4ee4b56cf1731">日本語</a></dd>
+<dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/eca2760c8d0ffae182f93681cedc30f938abed43">英語</a></dd>
 
 <dt>記念講演「ローマクラブからの新たなメッセージ」</dt>
-<dd><a href="">日本語</a></dd>
-<dd><a href="">英語（講演オリジナル）</a></dd>
+<dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/eb7a4741875c66a3cf134b03412b457a14629d93">日本語</a></dd>
+<dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/677ad32d4f912754bde3068e5a788b0ca2d02ed4">英語（講演オリジナル）</a></dd>
 
 <dt>日本工学アカデミー・トークセッション「持続可能な未来のための知恵とわざ」</dt>
-<dd><a href="">日本語</a></dd>
-<dd><a href="">英語</a></dd>
-<dd><a href="">オリジナル（同時通訳なし）</a></dd>
+<dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/e858149b434bdbf02a459b4394dfae5a5da81b99">日本語</a></dd>
+<dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/7f11cc2271e09ecf5d9b8073c12a4959c602007d">英語</a></dd>
+<dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/fbeeaeef235c09c53de457eb4514b52fff0f72f3">オリジナル（同時通訳なし）</a></dd>
 </dl>
 
 </div>{* "video" end *}
