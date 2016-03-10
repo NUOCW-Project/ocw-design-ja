@@ -19,15 +19,8 @@
 		<tr class="even">
 			{/if}
 		<td class="center">
-		{if isset($vs.url_flv)}
-			<a href="{$vs.url_flv}"
-			 onclick="openWin('{$vs.url_flv}');return false;"
-			 onkeypress="openWin('{$vs.url_flv}');return false;"
-			 title="新しいウィンドウを開きます">
-		{/if}
-			{vsyllabus_img id=$vs.vsyllabus_id alt=""}
-		{if isset($vs.url_flv)}
-			</a>
+		{if isset($vs.movie_id)}
+			{embed_video id=$vs.movie_id width="200" height="150"}
 		{/if}
 		</td>
 		<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.course_id}&amp;page_type=index">{$vs.course_name}

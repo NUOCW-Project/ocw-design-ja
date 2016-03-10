@@ -1,6 +1,6 @@
 <div id="topics2016agri">
 <div id="agri_top">
-<img src="images/ja/topics9/agriculture/banner.png" alt="TOPICS NO.9 生物環境科学実験実習">
+<img src="images/ja/topics9/agriculture/top_agriculture.jpg" alt="TOPICS NO.9 生物環境科学実験実習">
 </div>
 
 <div id="main_topics">
