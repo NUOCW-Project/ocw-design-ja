@@ -26,7 +26,7 @@
 			 title="新しいウィンドウを開きます">
 		{/if}
 			{vsyllabus_img id=$vs.vsyllabus_id alt=""}
-		{if isset($vs.url_flv)}
+		{if isset($vs.movie_id)}
 			</a>
 		{/if}
 		</td>
