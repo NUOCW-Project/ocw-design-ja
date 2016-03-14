@@ -20,9 +20,9 @@
 			{/if}
 		<td class="center">
 		{if isset($vs.movie_id)}
-			<a href="{get_embedded_url $vs.movie_id}"
-			 onclick="openWin('{get_embedded_url $vs.movie_id}');return false;"
-			 onkeypress="openWin('{get_embedded_url $vs.movie_id}');return false;"
+			<a href="{get_embedded_url id=$vs.movie_id}"
+			 onclick="openWin('{get_embedded_url id=$vs.movie_id}');return false;"
+			 onkeypress="openWin('{get_embedded_url id=$vs.movie_id}');return false;"
 			 title="新しいウィンドウを開きます">
 		{/if}
 			{vsyllabus_img id=$vs.vsyllabus_id alt=""}
