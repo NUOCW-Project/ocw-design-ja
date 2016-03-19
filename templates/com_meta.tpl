@@ -91,6 +91,9 @@
 {elseif $lang=='ja' && $page_type=='romeclub'}
 <link rel="stylesheet" type="text/css" href="css/romeclub.css">
 
+{elseif $lang=='ja' && $page_type=='repository'}
+<link rel="stylesheet" type="text/css" href="css/repository.css">
+
 {elseif $lang=='ja' && $page_type=='specialtopics'}
 <link rel="stylesheet" type="text/css" href="css/specialtopics.css">
 
