@@ -1,4 +1,4 @@
-{* Topics“Á•Ê•Ò(ìç³æ¶iƒŠƒ|ƒWƒgƒŠƒy[ƒWj“ÁW) ‚Ìƒeƒ“ƒvƒŒ[ƒg *}
+{* Topicsç‰¹åˆ¥ç·¨(å·é‚‰å…ˆç”Ÿï¼ˆãƒªãƒã‚¸ãƒˆãƒªãƒšãƒ¼ã‚¸ï¼‰ç‰¹é›†) ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ *}
 {include file="com_header.tpl"}
   {include file="repository_contents.tpl"}
 {include file="com_footer.tpl"}
