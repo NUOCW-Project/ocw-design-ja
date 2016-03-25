@@ -75,6 +75,10 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/8.css">  
 
+{elseif $lang=='ja' && $page_type=='topics2016'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/9.css">
+
 {elseif $lang=='ja' && $page_type=='topics2016agri'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/9agri.css">
