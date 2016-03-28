@@ -1,6 +1,7 @@
 <img id="repository_top" src="images/ja/repository/header_repository.jpg" alt="NAGOYA Repositoryで教材・論文を公開中！">
 
 <div id="repository">
+<div id="repository_intro">
 <p>
 名古屋大学学術機関リポジトリ(NAGOYA Repository)では、約2万点の教材・論文等が公開されています。個人の調査・研究目的であれば、どなたでも自由に閲覧・ダウンロード・印刷することができます。
 <br>
@@ -10,10 +11,13 @@
 <p>
 川邊先生の教材はこちら(<a href="http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16108">http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16108</a>) からご覧いただけます。
 </p>
+</div>{* "repository_intro" end *}
 
+<div id="repository_more">
 <p>もっと色々なものを見たい方はこちら！</p>
 
 <a href="http://ir.nul.nagoya-u.ac.jp/jspui/">
 <img id="repository_banner" src="images/ja/repository/repository_banner.png" alt="名古屋大学学術機関リポジトリ NAGOYA Repository">
 </a>
+</div>{* "repository_more" end *}
 </div>{* "repository" end *}
