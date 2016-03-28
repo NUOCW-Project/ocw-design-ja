@@ -8,12 +8,12 @@
 <p>
 今回はその中から、2014年度に退職された川邊岩夫先生が作成された教材を紹介します(川邊先生の退職記念講義の様子は<a href="./index.php?lang=ja&mode=c&id=465&page_type=index">こちら</a>)。この教材は、主に学部の学生や専門分野が異なる大学院生・研究者に向けて基礎事項をまとめたもので、電磁気学・統計力学・量子力学・解析力学の4冊が公開されています(2016年2月現在)。各分野の基礎事項を整理して学びやすくすることで、科学の魅力を伝わりやすくし、理科離れを止めるきっかけにしようと公開されました。
 </p>
+</div>{* "repository_intro" end *}
 
 <div id="repository_more">
 <p>
 川邊先生の教材はこちら(<a href="http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16108">http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16108</a>) からご覧いただけます。
 </p>
-</div>{* "repository_intro" end *}
 
 <p>もっと色々なものを見たい方はこちら！</p>
 
