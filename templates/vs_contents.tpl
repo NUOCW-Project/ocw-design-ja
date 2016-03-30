@@ -20,7 +20,14 @@
 			{/if}
 		<td class="center">
 		{if isset($vs.movie_id)}
-			{embed_video id=$vs.movie_id width="200" height="150"}
+			<a href="{get_embedded_url id=$vs.movie_id}"
+			 onclick="openWin('{get_embedded_url id=$vs.movie_id}');return false;"
+			 onkeypress="openWin('{get_embedded_url id=$vs.movie_id}');return false;"
+			 title="新しいウィンドウを開きます">
+		{/if}
+			{vsyllabus_img id=$vs.vsyllabus_id alt=""}
+		{if isset($vs.movie_id)}
+			</a>
 		{/if}
 		</td>
 		<td class="left"><a href="index.php?lang={$lang}&amp;mode=c&amp;id={$vs.course_id}&amp;page_type=index">{$vs.course_name}
