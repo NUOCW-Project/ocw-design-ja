@@ -75,9 +75,17 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/8.css">  
 
+{elseif $lang=='ja' && $page_type=='topics2016'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/9.css">
+
 {elseif $lang=='ja' && $page_type=='topics2016agri'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/9agri.css">
+
+{elseif $lang=='ja' && $page_type=='topics2016engi'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/9engi.css">
 
 {elseif $lang=='ja' && $page_type=='summercamp'}
 <link rel="stylesheet" type="text/css" href="css/summercamp.css">
@@ -90,6 +98,9 @@
 
 {elseif $lang=='ja' && $page_type=='romeclub'}
 <link rel="stylesheet" type="text/css" href="css/romeclub.css">
+
+{elseif $lang=='ja' && $page_type=='repository'}
+<link rel="stylesheet" type="text/css" href="css/repository.css">
 
 {elseif $lang=='ja' && $page_type=='specialtopics'}
 <link rel="stylesheet" type="text/css" href="css/specialtopics.css">
