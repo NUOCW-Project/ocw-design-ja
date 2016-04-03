@@ -145,9 +145,25 @@
 
 <div class="report">
 <h1>ビデオ</h1>
-<div id="engi_movie">
-{embed_video id="2910" width="225" height="150"}
+
+<div class="article">
+<div class="text_box">
+実験の様子。
 </div>
+<div id="engi_movie">
+{embed_video id="2960" width="225" height="150"}
+</div>
+</div>
+
+<div class="article">
+<div class="text_box">
+発表会の様子。
+</div>
+<div id="engi_movie">
+{embed_video id="2959" width="225" height="150"}
+</div>
+</div>
+
 </div> {* class = report *}
 
 
