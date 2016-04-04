@@ -52,7 +52,7 @@
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=2><h2>名古屋大学オープンコースウェアプロジェクト</h2></td></tr>
 <tr><td colspan=2 align="right">2016年4月1日</td></tr>
-<tr><td class="center_gray">名古屋大学OCWプロジェクトメンバー</td>
+<tr><td class="center_gray">名古屋大学OCWプロジェクト</br>メンバー</td>
 		<td class="left_gray"><p>
 
 教養教育院 教養教育推進室 教授 山里敬也<br>
