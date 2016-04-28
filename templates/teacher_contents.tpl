@@ -54,5 +54,5 @@
 <img src="./images/common/redline.gif" id="line2" alt="">
 
 <div id="release_date">
-最終更新日：2016年03月02日
+最終更新日：2016年04月28日
 </div>
