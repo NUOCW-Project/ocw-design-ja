@@ -3,12 +3,14 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
-<!-- オープンキャンパス2015 -->
+{*
+<!-- 新しい特集ページを入れる用 -->
 <div id="special_head">
         </a>
     <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=open_campus_2015">
         <img src="./images/ja/OpenCampus2015.jpg" alt="オープンキャンパス2015" width="694" height="399" >
-</div><!-- オープンキャンパス2015 end -->
+</div><!-- 新しい特集ページを入れる用 end -->
+*}
 <!-- 大学の授業入門 -->
 <div id="topics_head">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2015sec">
