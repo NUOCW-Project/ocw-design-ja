@@ -147,8 +147,8 @@
 <div class="report">
 <h1>関連リンク・参考資料</h1>
 <ul>
-<li><a href=".images/ja/topics9/agriculture/hinoki.pdf" target="blank">「ヒノキ林での造材実習」実習書</a></li>
-<li><a href=".images/ja/topics9/agriculture/sugi.pdf" target="blank">「スギ林での毎木調査」実習書</a></li>
+<li><a href="images/ja/topics9/agriculture/hinoki.pdf" target="blank">「ヒノキ林での造材実習」実習書</a></li>
+<li><a href="images/ja/topics9/agriculture/sugi.pdf" target="blank">「スギ林での毎木調査」実習書</a></li>
 <li><a href="https://www.agr.nagoya-u.ac.jp/" target="blank">名古屋大学大学院生命農学研究科・農学部</a></li>
 <li><a href="http://www.agr.nagoya-u.ac.jp/~inabu/" target="blank">名古屋大学稲武フィールド</a></li>
 </ul>
