@@ -13,7 +13,7 @@
 
 <h2>公開までの流れ</h2>
 <div class="g_text">
-授業に関する以下の情報をご提供下さい（○は必須です）
+授業に関する以下の情報をご提供下さい（○は必須です）。詳細は<a href="./images/ja/teacher/flowchart.pdf">こちら</a>。
 <ul>
 <li class="white">シラバス</li>
 <li class="white">授業の工夫(先生がどのようなお考えで授業を展開されているのかをご執筆いただきたく存じます)</li>
