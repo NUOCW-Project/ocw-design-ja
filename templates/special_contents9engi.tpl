@@ -171,7 +171,7 @@
 <h1>関連リンク・参考資料</h1>
 <ul>
 <li><a href="https://www.nuee.nagoya-u.ac.jp/" target="blank">名古屋大学工学部電気電子情報工学科 (電気電子工学コース)</a></li>
-<li><a href="https://www.nuee.nagoya-u.ac.jp/kyoiku/gakubu/experiment/dai.php" target="blank">電気・電子工学実験 (大実験)</a></li>
+<li><a href="https://www.nuee.nagoya-u.ac.jp/kyoiku/gakubu/experiment/dai.html" target="blank">電気・電子工学実験 (大実験)</a></li>
 </ul>
 </div> {* class = report *}
 

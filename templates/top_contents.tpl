@@ -3,12 +3,14 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
-<!-- オープンキャンパス2015 -->
+{*
+<!-- 新しい特集ページを入れる用 -->
 <div id="special_head">
         </a>
     <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=open_campus_2015">
         <img src="./images/ja/OpenCampus2015.jpg" alt="オープンキャンパス2015" width="694" height="399" >
-</div><!-- オープンキャンパス2015 end -->
+</div><!-- 新しい特集ページを入れる用 end -->
+*}
 <!-- 大学の授業入門 -->
 <div id="topics_head">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2015sec">
@@ -115,7 +117,7 @@
 	 <br>
  	<img src="./images/common/dots.png" class="dots" alt="" height="10"><br>
 	<p><img src="./images/{$lang}/TODAYAMA_Kazuhisa.jpg" alt=""></p>
-  <p id="toppage_yamamoto_name">名古屋大学<br>OCW教養教育院<br>委員長 戸田山 和久</p><p>ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。</p>
+  <p id="toppage_yamamoto_name">名古屋大学<br>教養教育院長<br>戸田山 和久</p><p>ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。</p>
   <p class="jump"><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">more...</a></p>
 </div>
 </div><!-- "greeting" end -->

@@ -13,11 +13,11 @@
 
 <h2>公開までの流れ</h2>
 <div class="g_text">
-授業に関する以下の情報をご提供下さい（○は必須です）
+授業に関する以下の情報をご提供下さい（○は必須です）。詳細は<a href="./images/ja/teacher/flowchart.pdf" target="blank">こちら</a>。
 <ul>
 <li class="white">シラバス</li>
 <li class="white">授業の工夫(先生がどのようなお考えで授業を展開されているのかをご執筆いただきたく存じます)</li>
-<li>講義ノート(一部のみでも問題ございません)</li>
+<li>講義ノート</li>
 <li>小テスト･課題</li>
 <li>1分間授業紹介</li>
 <li>授業の撮影</li>
@@ -32,13 +32,14 @@
 <ul>
 <li><a href="./images/ja/teacher/repository_require.pdf" target="blank">著作物利用許諾</a></li>
 <li><a href="./images/ja/teacher/copyright_request.pdf" target="blank">著作権についてのお願い</a></li>
-<li><a href="./images/ja/teacher/ocw_copyright.pdf" target="blank">OCWリポジトリ登録依頼</a></li>
+<li><a href="./images/ja/teacher/ocw_copyright_ja.pdf" target="blank">OCWリポジトリ登録依頼(日本語)</a></li>
+<li><a href="./images/ja/teacher/ocw_copyright_en.pdf" target="blank">OCWリポジトリ登録依頼(英語)</a></li>
 </ul>
 </div>
 
 <h2>インターネット上で教材等を公開するために</h2>
 <div class="g_text">
-注意事項等はこちら(<a href="http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html" target="blank">http://www.icts.nagoya-u.ac.jp/ja/media/notice/copyright.html</a>)をご覧ください。
+注意事項等は<a href="./images/ja/teacher/note_request.pdf" target="blank">こちら</a>をご覧ください。
 </div>
 
 <h2>本件についてのお問い合わせ先</h2>
@@ -53,5 +54,5 @@
 <img src="./images/common/redline.gif" id="line2" alt="">
 
 <div id="release_date">
-最終更新日：2016年03月02日
+最終更新日：2016年04月28日
 </div>
