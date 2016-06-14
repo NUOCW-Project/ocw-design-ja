@@ -22,13 +22,13 @@
 {foreach item = each_course  from = $dep_and_data.courses}
 	<tr class="{cycle name =$dep_and_data.title  values='odd,even'}">
 	<td width="50">
-	{if isset($each_course.movie_id)}
-		<a href="{get_embedded_url id=$each_course.movie_id}"
-		 onclick="openWin('{get_embedded_url id=$each_course.movie_id}');return false;"
-		 onkeypress="openWin('{get_embedded_url id=$each_course.movie_id}');return false;"
-		 title="新しいウィンドウでビデオを開きます">
-	    <img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="video" width="50" height="37">
-	    </a>
+	{if isset($each_course.vsyllabus_id)}
+		<a href="{$each_course.url_flv}&amp;videoType=0"
+		onclick="openWin('{$each_course.url_flv}');return false;"
+		onkeypress="openWin('{$each_course.url_flv}');return false;"
+		title="新しいウィンドウでビデオを開きます">
+	<img src="./files/vsyllabus/vsyllabus_{$each_course.vsyllabus_id}.jpg" alt="video" width="50" height="37">
+		</a>
 	{else}
 		<img src="./images/common/nomovie.png" alt="no video" width="50" height="37">
 	{/if}
