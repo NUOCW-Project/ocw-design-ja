@@ -3,14 +3,14 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
-{*
-<!-- 新しい特集ページを入れる用 -->
+
+<!-- Studium Generale -->
 <div id="special_head">
         </a>
-    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=open_campus_2015">
-        <img src="./images/ja/OpenCampus2015.jpg" alt="オープンキャンパス2015" width="694" height="399" >
-</div><!-- 新しい特集ページを入れる用 end -->
-*}
+    <a href="./index.php?lang=en&mode=c&id=562">
+        <img src="./images/ja/studium_generale_ja.png" alt="SPRING 2016 Studium Generale" width="694" height="399" >
+</div><!-- Studium Generale end -->
+
 <!-- 大学の授業入門 -->
 <div id="topics_head">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2015sec">
