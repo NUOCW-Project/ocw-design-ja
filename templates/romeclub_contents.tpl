@@ -3,7 +3,7 @@
 ローマクラブ共同会長<br>名古屋大学名誉博士称号授与記念イベント
 </h1>
 <h2>{* 英語表記をh1タグでくくると文字が大きすぎてバランスが悪いので、英語表記のタイトルはh2タグでくくった *}
-Commemoration Event on Nagoya University Honorary Doctorate Awarding for Prof Ernst Ulrich von Weizsäcker Co-President of the Club of Rome
+Commemoration Event on Nagoya University Honorary Doctorate Awarding for Prof Ernst Ulrich von Weizs&auml;cker Co&#045;President of the Club of Rome
 </h2>
 
 <div id= "intro">
