@@ -1,5 +1,5 @@
 <div id="topics2016chem">
-<div id="engi_top">
+<div id="chem_top">
 <img src="images/ja/topics9/chemistry/top_chemistry.jpg" alt="TOPICS NO.9 有機化学実験第2">
 </div>
 
@@ -131,7 +131,7 @@
 <div class="text_box">
 実験の様子。
 </div>
-<div id="engi_movie">
+<div id="chem_movie">
 {embed_video id="2960" width="225" height="150"}
 </div>
 </div>
