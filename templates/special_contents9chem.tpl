@@ -56,7 +56,7 @@
 これはナイロン-6と呼ばれる物質を合成している様子で、試験官の中で反応が進み、ピンセットで引き出すと糸状の繊維を取り出すことができます。
 </div>
 <div class="img_box">
-<img src="images/ja/topics9/chemistry/05.jpg">
+<img src="images/ja/topics9/chemistry/04.jpg">
 </div>
 </div>
 
@@ -65,7 +65,7 @@
 これはナイロン-6,10と呼ばれる物質を合成している様子で、2種類の液体の境界で反応が進み、そこにできた膜をつまむことで、こちらも糸状の繊維を取り出すことが出来ます。
 </div>
 <div class="img_box">
-<img src="images/ja/topics9/chemistry/06.jpg">
+<img src="images/ja/topics9/chemistry/05.jpg">
 </div>
 </div>
 
