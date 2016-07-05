@@ -16,7 +16,7 @@ Commemoration Event on Nagoya University Honorary Doctorate Awarding for Prof Er
 </div>{* "intro" end *}
 
 <div id = "video">
-<p>以下リンクから、同時通訳つきで記念イベントの様子をご覧いただけます（動画）。</p>
+<p>以下リンクから、同時通訳つきで記念イベントの様子をご覧いただけます(動画)。</p>
 
 <dl>
 <dt>名古屋大学名誉博士号授与式<br>Awarding Ceremony of Nagoya University Honorary Doctorate</dt>
@@ -37,7 +37,7 @@ Commemoration Event on Nagoya University Honorary Doctorate Awarding for Prof Er
 <dd>
 <ul>
 <li><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/eb7a4741875c66a3cf134b03412b457a14629d93">日本語</a></li>
-<li><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/677ad32d4f912754bde3068e5a788b0ca2d02ed4">英語（講演オリジナル）</a></li>
+<li><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/677ad32d4f912754bde3068e5a788b0ca2d02ed4">英語(講演オリジナル)</a></li>
 </ul>
 </dd>
 <dd>
@@ -52,7 +52,7 @@ Commemoration Event on Nagoya University Honorary Doctorate Awarding for Prof Er
 <ul>
 <li><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/e858149b434bdbf02a459b4394dfae5a5da81b99">日本語</a></li>
 <li><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/7f11cc2271e09ecf5d9b8073c12a4959c602007d">英語</a></li>
-<li><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/fbeeaeef235c09c53de457eb4514b52fff0f72f3">オリジナル（同時通訳なし）</a></li>
+<li><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/fbeeaeef235c09c53de457eb4514b52fff0f72f3">オリジナル(同時通訳なし)</a></li>
 </ul>
 </dd>
 <dd>
@@ -68,6 +68,6 @@ Commemoration Event on Nagoya University Honorary Doctorate Awarding for Prof Er
 
 {* ローマクラブの画像 *}
 <div id = "image">
-<a href="http://www.env.nagoya-u.ac.jp/news/pub/20160206.pdf"><img src="./images/ja/rome_club/rome_club.jpg" alt="詳しい資料はこちらから（PDF版）"></a>
+<a href="http://www.env.nagoya-u.ac.jp/news/pub/20160206.pdf"><img src="./images/ja/rome_club/rome_club.jpg" alt="詳しい資料はこちらから(PDF版)"></a>
 </div>{* "image" end *}
 </div>{* "romeclub" end *}
