@@ -87,6 +87,10 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/9engi.css">
 
+{elseif $lang=='ja' && $page_type=='topics2016chem'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/9chem.css">
+
 {elseif $lang=='ja' && $page_type=='summercamp'}
 <link rel="stylesheet" type="text/css" href="css/summercamp.css">
 
@@ -138,6 +142,8 @@
   {/if}
 {elseif $lang=='ja' && ($page_type=='topics2015sec' || $page_type=='topics2015' || $page_type=='topics2014' || $page_type=='topics2013' || $page_type=='topics_branches' || $page_type=='special' || $page_type=='topics2010' )}
   <script type="text/javascript" src="./js/noDisplay.js"></script>
+{elseif $lang=='ja' && $page_type=='topics2016'}
+  <script type="text/javascript" src="./js/topics9.js"></script>
 {elseif $lang=='ja' && $page_type=='summercamp'}
   <script type="text/javascript" src="./js/jquery.youtubeplaylist.js"></script>
   <script type="text/ecmascript" src="./js/youtube.js"></script>
