@@ -1,4 +1,4 @@
-<!-- 「ページトップへ」 -->
+{* 「ページトップへ」 *}
 
   <p class="topjump">
   <a href="#top">
@@ -6,9 +6,9 @@
   </a>
   </p>
 
-</div><!--"#contents" end-->
-</div><!-- "package2" end -->
-</div> <!-- "#package" end -->
+</div>{* "#contents" end *}
+</div>{* "package2" end *}
+</div> {* "#package" end *}
 
 <div class="footer">
 {literal}
@@ -37,18 +37,19 @@
   
   <ul class="navi">
     <li>{if $lang=='ja'}■コンテンツ{else}&diams;Contents{/if}</li>
-<!--    <li>OCWシーズン企画</li> -->
+{*    <li>OCWシーズン企画</li> *}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">{if $lang=='ja'}ごあいさつ{else}Introduction{/if}</a></li>
-<!--    <li>アクセスランキング</li> -->
+{*    <li>アクセスランキング</li> *}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=news">{if $lang=='ja'}おしらせ{else}News{/if}</a></li>
-<!-- 英語版では"お知らせ"と"プレスリリース"を分けない -->
+{* 英語版では"お知らせ"と"プレスリリース"を分けない *}
 {if $lang=='ja'}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=pressrelease">{if $lang=='ja'}プレスリリース{else}Pressrelease{/if}</a></li>
-    <li><a href="http://ocw.media.nagoya-u.ac.jp/system/release-5.1/">{if $lang=='ja'}NU OCW コース管理システム{/if}</a></li>
+    {* 現在システムへのリンクがないので、とりあえずコメントアウト
+    <li><a href="http://ocw.media.nagoya-u.ac.jp/system/release-5.1/">{if $lang=='ja'}NU OCW コース管理システム{/if}</a></li> *}
 {/if}
   </ul>
 
-</div><!-- "footer" end --> 
+</div>{* "footer" end *} 
 <div id="footer_bottom">  
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">
@@ -92,23 +93,23 @@
     {/if}
     </p>
   </div>
-</div><!-- "footer_bottom" end-->
+</div>{* "footer_bottom" end *}
 
 
 
-<!-- 右端URL画像部分 -->
+{* 右端URL画像部分 *}
 <div class="main_back_url">
 <a href="./index.php"><img src="./images/common/url.png" alt="http://ocw.nagoya-u.jp/"></a>
 </div>
 
-</div><!--"main" end-->
-<!-- 右上の人物 -->
+</div>{* "main" end *}
+{* 右上の人物 *}
 <div class="main_back_adachi">
 </div>
 
-</div><!-- "main_back" end -->
+</div>{* "main_back" end *}
 
-</div> <!--  "body_back" end -->
+</div> {* "body_back" end *}
 
 
 </body>
