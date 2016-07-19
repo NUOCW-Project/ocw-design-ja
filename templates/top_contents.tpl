@@ -13,8 +13,8 @@
 
 <!-- 大学の授業入門 -->
 <div id="topics_head">
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2015sec">
-          <img src="./images/ja/topics8/topics8_header.png" alt="名大の授業 TOPICS　No.8 大学の授業入門" width="694" height="399" >
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2016">
+          <img src="./images/ja/topics9/topics9_top.png" alt="名大の授業 TOPICS No.9 特集! 学生実験・実習" width="694" height="399" >
     </a>
   </div><!-- 大学の授業入門 end -->
 
