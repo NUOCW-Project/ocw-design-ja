@@ -4,25 +4,25 @@
 <img src="./images/common/redline.gif" class="line" alt="">
 
 
-<!-- Studium Generale -->
-<div id="special_head">
-        </a>
-    <a href="./index.php?lang=en&mode=c&id=562">
-        <img src="./images/ja/studium_generale_ja.png" alt="SPRING 2016 Studium Generale" width="694" height="399" >
-</div><!-- Studium Generale end -->
-
-<!-- 大学の授業入門 -->
-<div id="topics_head">
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2015sec">
-          <img src="./images/ja/topics8/topics8_header.png" alt="名大の授業 TOPICS　No.8 大学の授業入門" width="694" height="399" >
+{* 松尾総長 特別講義 *}
+<div id="special_head">        
+    <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f">
+        <img src="./images/ja/matsuo_special_lecture.png" alt="松尾総長 特別講義 名古屋大学で何を学ぶか？" width="694" height="399" >
     </a>
-  </div><!-- 大学の授業入門 end -->
+</div>{* 松尾総長 特別講義 end *}
+
+{* 特集! 学生実験・実習 *}
+<div id="topics_head">
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2016">
+          <img src="./images/ja/topics9/topics9_top.png" alt="名大の授業 TOPICS No.9 特集! 学生実験・実習" width="694" height="399" >
+    </a>
+  </div>{* 特集! 学生実験・実習 end *}
 
 <div class="inline">
 
-<!-- 左側ボックス -->
+{* 左側ボックス *}
 <div id="toppage_boxes_left">
-<!-- ボックス「お知らせ」-->
+{* ボックス「お知らせ」*}
 <div id="toppage_notice">
 <div class="waku">
   <img src="./images/{$lang}/t_news.png" class="subheading" alt="{if $lang=='ja'}おしらせ{else}News{/if}" width="180" height="20">
@@ -40,9 +40,9 @@
     {/foreach}
   </table>
 </div>
-</div><!-- 「お知らせ」end  -->
+</div>{* 「お知らせ」end  *}
 
-<!-- ボックス「プレスリリース」-->
+{* ボックス「プレスリリース」*}
 <div id="toppage_press">
 <div class="waku">
   <img src="./images/{$lang}/t_release.png" class="subheading" alt="{if $lang=='ja'}プレスリリース{else}Press Releases{/if}" width="180" height="20">
@@ -60,12 +60,12 @@
     {/foreach}
     </table>
 </div>
-</div><!-- 「プレスリリース」end -->
-</div><!-- 左側ボックスend -->
+</div>{* 「プレスリリース」end *}
+</div>{* 左側ボックスend *}
 
-<!-- 右側ボックス -->
+{* 右側ボックス *}
 <div id="toppage_boxes_right">
-<!-- ボックス「アクセスランキング」 -->
+{* ボックス「アクセスランキング」 *}
 <div id="toppage_access">
 <div class="waku">
 	<img src="./images/{$lang}/t_ranking.png" class="subheading" alt="アクセスランキング" width="180" height="20">
@@ -107,10 +107,10 @@
 	</tr>
 	</table>
 </div>
-</div><!-- 「アクセスランキング」end -->
+</div>{* 「アクセスランキング」end *}
 
 
-<!-- ボックス「アクセスランキング」 -->
+{* ボックス「アクセスランキング」 *}
 <div id="toppage_greeting">
 <div class="waku">
 	<img src="./images/ja/t_welcome.png" class="subheading" alt="ごあいさつ" width="180" height="20">
@@ -120,10 +120,10 @@
   <p id="toppage_yamamoto_name">名古屋大学<br>教養教育院長<br>戸田山 和久</p><p>ここでは普段名大生しか見ることができない講義資料をたくさん公開しています。</p>
   <p class="jump"><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">more...</a></p>
 </div>
-</div><!-- "greeting" end -->
-</div><!-- 右側ボックスend -->
+</div>{* "greeting" end *}
+</div>{* 右側ボックスend *}
 
-</div><!-- "inline" end -->
+</div>{* "inline" end *}
 
 <div class="clear_div">
 </div>

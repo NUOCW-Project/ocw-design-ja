@@ -132,7 +132,7 @@
 実験の様子。
 </div>
 <div id="chem_movie">
-{embed_video id="2960" width="225" height="150"}
+{embed_video id="2918" width="225" height="150"}
 </div>
 </div>
 
