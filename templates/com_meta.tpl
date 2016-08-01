@@ -7,7 +7,6 @@
 <link rel="stylesheet" type="text/css" href="css/common/contents.css">
 <link rel="stylesheet" type="text/css" href="css/common/default.css">
 <link rel="stylesheet" type="text/css" href="css/common/dept.css">
-<link rel="stylesheet" type="text/css" href="css/en.css">
 <link rel="stylesheet" type="text/css" href="css/common/footer.css">
 <link rel="stylesheet" type="text/css" href="css/common/header.css">
 {literal}
