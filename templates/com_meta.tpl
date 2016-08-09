@@ -33,7 +33,7 @@
   <link rel="stylesheet" type="text/css" href="css/vsyllabus.css">
 {elseif $page_type=='welcome'}
   <link rel="stylesheet" type="text/css" href="css/welcome.css">
-{elseif $page_type=='news'}
+{elseif $page_type=='news' || $page_type=='pressrelease'}
   <link rel="stylesheet" type="text/css" href="css/news.css">
 {elseif $page_type=='topics'}
   {if $lang=='ja'}
