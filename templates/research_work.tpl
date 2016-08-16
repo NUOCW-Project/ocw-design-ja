@@ -8,7 +8,7 @@
 <div class="article">
 <h1>第1回 周囲の支えにより手にした「育志賞」</h1>
 <div class="intro">
-日本では毎年、特に優秀な大学院博士後期課程の学生を対象に「日本学術振興会育志賞」が授与されます。今回は、今年見事その育志賞を受賞した古村さんと、その指導にあたった小川先生にインタビューを行いました。教員と学生、双方が良い関係を築き生まれたこの素晴らしい成果。２人はどのような思いでお互い研究に向き合ったのでしょうか。
+日本学術振興会では毎年、特に優秀な大学院博士後期課程の学生を対象に「日本学術振興会育志賞」が授与されます。今回は、今年見事その育志賞を受賞した古村さんと、その指導にあたった小川先生にインタビューを行いました。教員と学生、双方が良い関係を築き生まれたこの素晴らしい成果。２人はどのような思いでお互い研究に向き合ったのでしょうか。
 </div> {* class = intro *}
 <div class="interview">
 <img id="interview_img" src="images/ja/research_work/interview.png">
@@ -22,7 +22,7 @@
 </p>
 </div>
 <div class="interview_img">
-<img src="image/ja/research_work/01.jpg">
+<img src="images/ja/research_work/01.jpg">
 </div>
 </div>
 
@@ -35,8 +35,12 @@
 </p>
 </div>
 <div class="interview_img">
-<img src="image/ja/research_work/02.jpg">
+<img src="images/ja/research_work/02.jpg">
 </div>
+</div>
+
+<div id="sup">
+※インタビュー当時(2015年9月)
 </div>
 
 </div> {* class = interview *}
