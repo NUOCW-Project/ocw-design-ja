@@ -62,6 +62,6 @@ Q. 先生にとって良い研究指導とはどんなものか教えて下さ�
 </div> {* interview end *}
 
 <div id="hurumura_link">
-→<a href="https://dev2.ocw.media.nagoya-u.ac.jp/public/development/index.php?lang=ja&mode=g&page_type=research_work1-2">古村さんのインタビューはこちら</a>
+→<a href="./index.php?lang=ja&mode=g&page_type=research_work1-2">古村さんのインタビューはこちら</a>
 <div>
 </div> {* research_work1-1 end *}
