@@ -63,5 +63,5 @@ Q. 先生にとって良い研究指導とはどんなものか教えて下さ�
 
 <div id="hurumura_link">
 →<a href="./index.php?lang=ja&mode=g&page_type=research_work1-2">古村さんのインタビューはこちら</a>
-<div>
+</div>
 </div> {* research_work1-1 end *}
