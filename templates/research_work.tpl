@@ -13,7 +13,7 @@
 <div class="interview">
 <img id="interview_img" src="images/ja/research_work/interview.png">
 
-<a href="./index.php?lang=ja&mode=g&page_type=research_work1-1">
+<a class="interview_link" href="./index.php?lang=ja&mode=g&page_type=research_work1-1">
 <div class="interviview_article">
 <div class="interview_text">
 <h3>教員インタビュー</h3>
@@ -28,7 +28,7 @@
 </div>
 </a>
 
-<a href="./index.php?lang=ja&mode=g&page_type=research_work1-2">
+<a class="interview_link" href="./index.php?lang=ja&mode=g&page_type=research_work1-2">
 <div class="interviview_article">
 <div class="interview_text">
 <h3>学生インタビュー</h3>
