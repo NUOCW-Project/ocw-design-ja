@@ -1,6 +1,6 @@
 <div id="research_work">
 <div id="research_work_top">
-<img src="images/ja/research_work/top.jpg" alt="名大の研究指導 多くの学生が一度は経験する卒業研究。学生はゼミや研究室に所属し、指導教員や他の学生達と関わりあいながら自分の研究を進めていきます。では、そもそも卒業研究とはどのようなものなのでしょうか？そして、教員はどのような思いで学生の指導に当たるのでしょうか？学生はどのような思いでその指導を受け止めるのでしょうか？">
+<img src="images/ja/research_work/top_researchwork.png" alt="名大の研究指導 多くの学生が一度は経験する卒業研究。学生はゼミや研究室に所属し、指導教員や他の学生達と関わりあいながら自分の研究を進めていきます。では、そもそも卒業研究とはどのようなものなのでしょうか？そして、教員はどのような思いで学生の指導に当たるのでしょうか？学生はどのような思いでその指導を受け止めるのでしょうか？">
 </div>
 
 <div id="main_topics">
@@ -22,7 +22,7 @@
 </p>
 </div>
 <div class="interview_img">
-<img src="images/ja/research_work/01.jpg">
+<img src="images/ja/research_work/banner_ogawa.png">
 </div>
 </div>
 
@@ -35,7 +35,7 @@
 </p>
 </div>
 <div class="interview_img">
-<img src="images/ja/research_work/02.jpg">
+<img src="images/ja/research_work/banner_hurumura.png">
 </div>
 </div>
 
