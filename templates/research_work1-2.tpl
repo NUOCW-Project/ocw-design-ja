@@ -71,5 +71,5 @@ Q. 後輩へのアドバイス
 
 <div id="ogawa_link">
 →<a href="./index.php?lang=ja&mode=g&page_type=research_work1-1">小川先生のインタビューはこちら</a>
-<div>
+</div>
 </div> {* research_work1-2 end *}
