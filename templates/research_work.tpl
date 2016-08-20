@@ -80,9 +80,15 @@
 <dt>学生インタビュー「つらい」</dt>
 <dd>名古屋大学大学院理学研究科 B4 游夏</dd>
 </dl>
+<<<<<<< HEAD
 </div>
 
 </div>
+=======
+</div> {* class = backnumber *}
+
+</div> {* class = article *}
+>>>>>>> development
 *}
 
 </div> {* id = main_topics *}
