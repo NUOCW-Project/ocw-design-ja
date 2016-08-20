@@ -62,7 +62,7 @@
 <dt>学生インタビュー「※大井研究室は超ピュアホワイト研究室です※」</dt>
 <dd>名古屋大学大学院工学研究科 化学生物工学専攻 有機反応化学研究室 B4 石川大貴</dd>
 </dl>
-</div> {* class = backnumber *}
+</div>
 
 <div class="backnumber">
 <h2 class="title">#3 カンヌ国際映画祭主演女優賞とりました</h2>
@@ -72,7 +72,7 @@
 <dt>学生インタビュー「コンストラクトを入れ違えてとってしまった説」</dt>
 <dd>名古屋大学大学院生命農学研究科 分子細胞機構学講座 ゲノム情報機能学グループ M2 今村美友</dd>
 </dl>
-</div> {* class = backnumber *}
+</div>
 
 <div class="backnumber">
 <h2 class="title">#4 新潟県同人雑誌連盟小説賞とりました</h2>
@@ -80,9 +80,15 @@
 <dt>学生インタビュー「つらい」</dt>
 <dd>名古屋大学大学院理学研究科 B4 游夏</dd>
 </dl>
+<<<<<<< HEAD
+</div>
+
+</div>
+=======
 </div> {* class = backnumber *}
 
 </div> {* class = article *}
+>>>>>>> development
 *}
 
 </div> {* id = main_topics *}
