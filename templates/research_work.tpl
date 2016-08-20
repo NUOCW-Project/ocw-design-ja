@@ -50,7 +50,7 @@
 </div> {* class = interview *}
 </div> {* class = article *}
 
-
+{*
 <div class="article">
 <h1>バックナンバー</h1>
 
@@ -83,7 +83,7 @@
 </div> {* class = backnumber *}
 
 </div> {* class = article *}
-
+*}
 
 </div> {* id = main_topics *}
 
