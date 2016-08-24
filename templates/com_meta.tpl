@@ -7,7 +7,6 @@
 <link rel="stylesheet" type="text/css" href="css/common/contents.css">
 <link rel="stylesheet" type="text/css" href="css/common/default.css">
 <link rel="stylesheet" type="text/css" href="css/common/dept.css">
-<link rel="stylesheet" type="text/css" href="css/en.css">
 <link rel="stylesheet" type="text/css" href="css/common/footer.css">
 <link rel="stylesheet" type="text/css" href="css/common/header.css">
 {literal}
@@ -34,7 +33,7 @@
   <link rel="stylesheet" type="text/css" href="css/vsyllabus.css">
 {elseif $page_type=='welcome'}
   <link rel="stylesheet" type="text/css" href="css/welcome.css">
-{elseif $page_type=='news'}
+{elseif $page_type=='news' || $page_type=='pressrelease'}
   <link rel="stylesheet" type="text/css" href="css/news.css">
 {elseif $page_type=='topics'}
   {if $lang=='ja'}
@@ -90,6 +89,15 @@
 {elseif $lang=='ja' && $page_type=='topics2016chem'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/9chem.css">
+
+{elseif $lang=='ja' && $page_type=='research_work'}
+  <link rel="stylesheet" type="text/css" href="css/research_work.css">
+
+{elseif $lang=='ja' && $page_type=='research_work1-1'}
+  <link rel="stylesheet" type="text/css" href="css/research_work1-1.css">
+
+{elseif $lang=='ja' && $page_type=='research_work1-2'}
+  <link rel="stylesheet" type="text/css" href="css/research_work1-2.css">
 
 {elseif $lang=='ja' && $page_type=='summercamp'}
 <link rel="stylesheet" type="text/css" href="css/summercamp.css">
