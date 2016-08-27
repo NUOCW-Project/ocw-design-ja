@@ -32,7 +32,7 @@
 <div class="interviview_article">
 <div class="interview_text">
 <h3>学生インタビュー</h3>
-<h2>博士後期課程<span class="attention">※</span> 古村聖 さん</h2>
+<h2>経済学研究科<span class="attention">※</span> 古村聖 さん</h2>
 <p>
 「周りの人の支えなしに、私の院生生活は成立することはなかったと思います。」古村さんは今回の受賞について、このように語ります。受賞の経緯や研究室での日常、そしてこれから考えている事を聞いてみました。
 </p>
