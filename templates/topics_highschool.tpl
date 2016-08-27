@@ -7,7 +7,7 @@
 
 <div id="article_1">
 <h1 class="title">
-<img class="close" src="images/en/close_text.svg" alt="close">
+<img class="close" src="images/en/close_text_black.svg" alt="close">
 文学部・文学研究科
 </h1>
 </div> {* article_1 end *}
@@ -40,7 +40,7 @@
 
 <div id="article_2">
 <h1 class="title">
-<img class="close" src="images/en/close_text.svg" alt="close">
+<img class="close" src="images/en/close_text_black.svg" alt="close">
 理学部・理学研究科
 </h1>
 </div> {* article_2 end *}
@@ -72,7 +72,7 @@
 
 <div id="article_3">
 <h1 class="title">
-<img class="close" src="images/en/close_text.svg" alt="close">
+<img class="close" src="images/en/close_text_black.svg" alt="close">
 農学部・生命農学研究科
 </h1>
 </div> {* article_3 end *}
@@ -104,7 +104,7 @@
 
 <div id="article_4">
 <h1 class="title">
-<img class="close" src="images/en/close_text.svg" alt="close">
+<img class="close" src="images/en/close_text_black.svg" alt="close">
 経済学部・経済学研究科
 </h1>
 </div> {* article_5 end *}
