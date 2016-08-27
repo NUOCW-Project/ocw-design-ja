@@ -4,15 +4,15 @@
 <img src="./images/common/redline.gif" class="line" alt="">
 
 
-{* 松尾総長 特別講義 *}
+{* 名大の研究指導 *}
 <div id="special_head">        
-    <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f">
-        <img src="./images/ja/matsuo_special_lecture.png" alt="松尾総長 特別講義 名古屋大学で何を学ぶか？" width="694" height="399" >
+    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=research_work">
+        <img src="./images/ja/research_work.png" alt="名大の研究指導" width="694" height="399" >
     </a>
-</div>{* 松尾総長 特別講義 end *}
+</div>{* 名大の研究指導 end *}
 
-{* 特集! 学生実験・実習 *}
-<div id="topics_head">
+  {* 特集! 学生実験・実習 *}
+  <div id="topics_head">
         <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2016">
           <img src="./images/ja/topics9/topics9_top.png" alt="名大の授業 TOPICS No.9 特集! 学生実験・実習" width="694" height="399" >
     </a>
