@@ -5,9 +5,14 @@
 
 <div id="highschool_main">
 
-<div class="article">
-<h1 class="title">文学部・文学研究科</h1>
+<div id="article_1">
+<h1 class="title">
+<img class="close" src="images/en/close_text.svg" alt="close">
+文学部・文学研究科
+</h1>
+</div> {* article_1 end *}
 
+<div id="article_1_contents">
 <div class="highschool_intro">
 <h2>悠久の歴史を紐解く</h2>
 <div class="course_video">
@@ -30,12 +35,17 @@
 <a href="">文学部の研究室</a>
 </div>
 </div> {* highschool_link end *}
-</div> {* article end *}
+</div> {* article_1_contents *}
 
 
-<div class="article">
-<h1 class="title">理学部・理学研究科</h1>
+<div id="article_2">
+<h1 class="title">
+<img class="close" src="images/en/close_text.svg" alt="close">
+理学部・理学研究科
+</h1>
+</div> {* article_2 end *}
 
+<div id="article_2_contents">
 <div class="highschool_intro">
 <h2>test</h2>
 <div class="course_video">
@@ -57,12 +67,17 @@
 <a href="">理学部の研究室</a>
 </div>
 </div> {* highschool_link end *}
-</div> {* article end *}
+</div> {* article_2_contents end *}
 
 
-<div class="article">
-<h1 class="title">農学部・生命農学研究科</h1>
+<div id="article_3">
+<h1 class="title">
+<img class="close" src="images/en/close_text.svg" alt="close">
+農学部・生命農学研究科
+</h1>
+</div> {* article_3 end *}
 
+<div id="article_3_contents">
 <div class="highschool_intro">
 <h2>test</h2>
 <div class="course_video">
@@ -84,12 +99,17 @@
 <a href="">農学部の研究室</a>
 </div>
 </div> {* highschool_link end *}
-</div> {* article end *}
+</div> {* article_3_contents end *}
 
 
-<div class="article">
-<h1 class="title">経済学部・経済学研究科</h1>
+<div id="article_4">
+<h1 class="title">
+<img class="close" src="images/en/close_text.svg" alt="close">
+経済学部・経済学研究科
+</h1>
+</div> {* article_5 end *}
 
+<div id="article_4_contents">
 <div class="highschool_intro">
 <h2>test</h2>
 <div class="course_video">
@@ -111,7 +131,7 @@
 <a href="">経済学部の研究室</a>
 </div>
 </div> {* highschool_link end *}
-</div> {* article end *}
+</div> {* article_4_contents end *}
 
 </div> {* main_topics end *}
 
