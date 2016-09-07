@@ -138,5 +138,4 @@
 </div> {* article_4_contents end *}
 
 </div> {* main_topics end *}
-
 </div>
