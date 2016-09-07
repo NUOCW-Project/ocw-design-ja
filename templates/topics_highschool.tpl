@@ -16,7 +16,7 @@
 <div class="highschool_intro">
 <h2>悠久の歴史を紐解く</h2>
 <div class="course_video">
-{embed_video id="2910" width="225" height="150"}
+{embed_video id="2326" width="225" height="150"}
 </div>
 <p>
 文学部には20余りの専門領域があり入学生には自らの関心と将来の志望にあわせて専門を決めてもらいます。2年生になると研究室に配属して、教員や院生と一緒になって学習します。人数は研究室毎でまちまちですが、多いところでは80人くらいの所帯の研究室もあります。研究室では教員と院生と学生それぞれの部屋が近いので、先生や先輩と身近に交流しながら勉学できるのが文学部の特徴だと思います。<br>
@@ -50,7 +50,7 @@
 <div class="highschool_intro">
 <h2>test</h2>
 <div class="course_video">
-{embed_video id="2910" width="225" height="150"}
+{embed_video id="2571" width="225" height="150"}
 </div>
 <p>
 テスト
@@ -83,7 +83,7 @@
 <div class="highschool_intro">
 <h2>test</h2>
 <div class="course_video">
-{embed_video id="2910" width="225" height="150"}
+{embed_video id="2388" width="225" height="150"}
 </div>
 <p>
 てすと
@@ -116,7 +116,7 @@
 <div class="highschool_intro">
 <h2>test</h2>
 <div class="course_video">
-{embed_video id="2910" width="225" height="150"}
+{embed_video id="2980" width="225" height="150"}
 </div>
 <p>
 テスト
