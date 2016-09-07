@@ -54,7 +54,7 @@
 *}
         {/if}
 {else}
-    {if $page_type != "summercamp" && $page_type != "nobel_interview" && $page_type != "open_campus_2015" && $page_type != "research_work" && $page_type != "research_work1-1" && $page_type != "research_work1-2" && $page_type != "teacher" && $page_type != "romeclub" && $page_type != "specialtopics" && $page_type != "repository" && $page_type != "highschool"}        <img src="./images/{$lang}/header_{$page_type}.jpg"
+    {if $page_type != "summercamp" && $page_type != "nobel_interview" && $page_type != "open_campus_2015" && $page_type != "open_campus_2016" && $page_type != "research_work" && $page_type != "research_work1-1" && $page_type != "research_work1-2" && $page_type != "teacher" && $page_type != "romeclub" && $page_type != "specialtopics" && $page_type != "repository" && $page_type != "highschool"}        <img src="./images/{$lang}/header_{$page_type}.jpg"
             alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}"> 
     {/if}
 {/if}
