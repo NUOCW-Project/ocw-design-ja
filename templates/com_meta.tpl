@@ -108,11 +108,17 @@
 {elseif $lang=='ja' && $page_type=='open_campus_2015'}
 <link rel="stylesheet" type="text/css" href="css/open_campus_2015.css">
 
+{elseif $lang=='ja' && $page_type=='open_campus_2016'}
+<link rel="stylesheet" type="text/css" href="css/open_campus_2016.css">
+
 {elseif $lang=='ja' && $page_type=='romeclub'}
 <link rel="stylesheet" type="text/css" href="css/romeclub.css">
 
 {elseif $lang=='ja' && $page_type=='repository'}
 <link rel="stylesheet" type="text/css" href="css/repository.css">
+
+{elseif $lang=='ja' && $page_type=='highschool'}
+<link rel="stylesheet" type="text/css" href="css/topics_highschool.css">
 
 {elseif $lang=='ja' && $page_type=='specialtopics'}
 <link rel="stylesheet" type="text/css" href="css/specialtopics.css">
@@ -155,6 +161,8 @@
 {elseif $lang=='ja' && $page_type=='summercamp'}
   <script type="text/javascript" src="./js/jquery.youtubeplaylist.js"></script>
   <script type="text/ecmascript" src="./js/youtube.js"></script>
+{elseif $lang=='ja' && $page_type=='highschool'}
+  <script type="text/javascript" src="./js/topics_highschool.js"></script>
 {/if}
 {/literal}
 

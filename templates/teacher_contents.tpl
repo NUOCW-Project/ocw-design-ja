@@ -34,6 +34,7 @@
 <li><a href="./images/ja/teacher/copyright_request.pdf" target="blank">著作権についてのお願い</a></li>
 <li><a href="./images/ja/teacher/ocw_copyright_ja.pdf" target="blank">OCWリポジトリ登録依頼(日本語)</a></li>
 <li><a href="./images/ja/teacher/ocw_copyright_en.pdf" target="blank">OCWリポジトリ登録依頼(英語)</a></li>
+<li><a href="./images/ja/teacher/teachers.pdf" target="blank">「名大の授業」協力教員一覧</a></li>
 </ul>
 </div>
 
