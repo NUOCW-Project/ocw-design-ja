@@ -60,7 +60,7 @@
 </div>
 
 <div class="thumbnail">
-  {embed_video id="4138" width="480" height="320" image="images/ja/open_campus_2016/4.jpg"}
+  {embed_video id="3136" width="480" height="320" image="images/ja/open_campus_2016/4.jpg"}
 </div>
 
 </div> {* class = movie *} 
