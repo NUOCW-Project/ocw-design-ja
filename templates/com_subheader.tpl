@@ -70,7 +70,7 @@
 
 <div id="package2">{* #contents配置調整 firefox対応" *}
 
-{if $page_type != "sitemap" && $page_type != "topics_branches" && $page_type != "special" && $page_type != "topics2016" && $page_type != "topics2016engi" && $page_type != "topics2016agri" && $page_type != "topics2016chem" && $page_type != "topics2015sec" && $page_type != "topics2015" && $page_type != "topics2014" && $page_type != "topics2013" && $page_type != "highschool"}
+{if $page_type != "sitemap" && $page_type != "topics_branches" && $page_type != "special" && $page_type != "lab_intro" && $page_type != "topics2016" && $page_type != "topics2016engi" && $page_type != "topics2016agri" && $page_type != "topics2016chem" && $page_type != "topics2015sec" && $page_type != "topics2015" && $page_type != "topics2014" && $page_type != "topics2013" && $page_type != "highschool"}
   {/literal}{include file="com_dept.tpl"}{* 部局リスト com_header.tplから移動 *}{literal}
 {/if}
 

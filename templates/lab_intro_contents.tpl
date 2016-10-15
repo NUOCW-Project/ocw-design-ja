@@ -11,16 +11,16 @@
 <img id="movie_list" src="./images/ja/lab_intro/movie.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
 
 <ul id="department_list">
-<li><img class="department lite" src="./images/ja/lab_intro/button/lite.svg" alt="文学部"></li>
-<li><img class="department educ" src="./images/ja/lab_intro/button/educ.svg" alt="教育学部"></li>
-<li><img class="department law" src="./images/ja/lab_intro/button/law.svg" alt="法学部"></li>
-<li><img class="department econ" src="./images/ja/lab_intro/button/econ_blk.svg" alt="経済学部"></li>
-<li><img class="department info" src="./images/ja/lab_intro/button/info.svg" alt="情報学部"></li>
-<li><img class="department scie" src="./images/ja/lab_intro/button/scie.svg" alt="理学部"></li>
-<li><img class="department medi" src="./images/ja/lab_intro/button/medi_blk.svg" alt="医学部"></li>
-<li><img class="department engi" src="./images/ja/lab_intro/button/engi.svg" alt="工学部"></li>
-<li><img class="department agri" src="./images/ja/lab_intro/button/agri.svg" alt="農学部"></li>
-<li><img class="department other" src="./images/ja/lab_intro/button/other.svg" alt="その他"></li>
+<li><img class="department on lite" src="./images/ja/lab_intro/button/lite.svg" alt="文学部"></li>
+<li><img class="department on educ" src="./images/ja/lab_intro/button/educ.svg" alt="教育学部"></li>
+<li><img class="department on law" src="./images/ja/lab_intro/button/law.svg" alt="法学部"></li>
+<li><img class="department off econ" src="./images/ja/lab_intro/button/econ_blk.svg" alt="経済学部"></li>
+<li><img class="department on info" src="./images/ja/lab_intro/button/info.svg" alt="情報学部"></li>
+<li><img class="department on scie" src="./images/ja/lab_intro/button/scie.svg" alt="理学部"></li>
+<li><img class="department off medi" src="./images/ja/lab_intro/button/medi_blk.svg" alt="医学部"></li>
+<li><img class="department on engi" src="./images/ja/lab_intro/button/engi.svg" alt="工学部"></li>
+<li><img class="department on agri" src="./images/ja/lab_intro/button/agri.svg" alt="農学部"></li>
+<li><img class="department on other" src="./images/ja/lab_intro/button/other.svg" alt="その他"></li>
 </ul>{* "department_list" end *}
 
 <div class="movie_contents">
