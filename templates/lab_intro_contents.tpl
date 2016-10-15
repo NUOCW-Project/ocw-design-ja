@@ -3,71 +3,71 @@
 </noscript>
 
 
-<div id="lab_intro">
-<img src="./images/ja/lab_introduction/top.svg" alt="名大の研究室紹介">
+<div class="lab_intro">
+<img id="header_img" src="./images/ja/lab_intro/top.svg" alt="名大の研究室紹介">
 
-<img src="./images/ja/lab_introduction/introduction.svg" alt="研究室ってどんなところだろう 大学といえば？講義にサークル活動、そして「研究」ですね！名大では様々な分野で、世界の最先端をいく研究が進められています。そんな研究室の様子をちょっとだけ覗いてみませんか？">
+<img id="intro" src="./images/ja/lab_intro/introduction.svg" alt="研究室ってどんなところだろう 大学といえば？講義にサークル活動、そして「研究」ですね！名大では様々な分野で、世界の最先端をいく研究が進められています。そんな研究室の様子をちょっとだけ覗いてみませんか？">
 
-<img src="./images/ja/lab_introduction/movie.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
+<img id="movie_list" src="./images/ja/lab_intro/movie.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
 
 <ul id="department_list">
-<li><img src="./images/ja/lab_introduction/button/lite.svg" alt="文学部"></li>
-<li><img src="./images/ja/lab_introduction/button/educ.svg" alt="教育学部"></li>
-<li><img src="./images/ja/lab_introduction/button/law.svg" alt="法学部"></li>
-<li><img src="./images/ja/lab_introduction/button/econ_blk.svg" alt="経済学部"></li>
-<li><img src="./images/ja/lab_introduction/button/info.svg" alt="情報学部"></li>
-<li><img src="./images/ja/lab_introduction/button/scie.svg" alt="理学部"></li>
-<li><img src="./images/ja/lab_introduction/button/medi_blk.svg" alt="医学部"></li>
-<li><img src="./images/ja/lab_introduction/button/engi.svg" alt="工学部"></li>
-<li><img src="./images/ja/lab_introduction/button/agri.svg" alt="農学部"></li>
-<li><img src="./images/ja/lab_introduction/button/other.svg" alt="その他"></li>
+<li><img class="department lite" src="./images/ja/lab_intro/button/lite.svg" alt="文学部"></li>
+<li><img class="department educ" src="./images/ja/lab_intro/button/educ.svg" alt="教育学部"></li>
+<li><img class="department law" src="./images/ja/lab_intro/button/law.svg" alt="法学部"></li>
+<li><img class="department econ" src="./images/ja/lab_intro/button/econ_blk.svg" alt="経済学部"></li>
+<li><img class="department info" src="./images/ja/lab_intro/button/info.svg" alt="情報学部"></li>
+<li><img class="department scie" src="./images/ja/lab_intro/button/scie.svg" alt="理学部"></li>
+<li><img class="department medi" src="./images/ja/lab_intro/button/medi_blk.svg" alt="医学部"></li>
+<li><img class="department engi" src="./images/ja/lab_intro/button/engi.svg" alt="工学部"></li>
+<li><img class="department agri" src="./images/ja/lab_intro/button/agri.svg" alt="農学部"></li>
+<li><img class="department other" src="./images/ja/lab_intro/button/other.svg" alt="その他"></li>
 </ul>{* "department_list" end *}
 
-<div id="movie">
-<div id="movie_top">
+<div class="movie_contents">
+<div class="movie top">
 <p>はじめのページ</p>
-</div>{* "movie_top" end *}
+</div>{* "movie top" end *}
 
-<div id="movie_lite">
+<div class="movie lite">
 <p>文学部</p>
-</div>{* "movie_lite" end *}
+</div>{* "movie lite" end *}
 
-<div id="movie_educ">
+<div class="movie educ">
 <p>教育学部</p>
-</div>{* "movie_educ" end *}
+</div>{* "movie educ" end *}
 
-<div id="movie_law">
+<div class="movie law">
 <p>法学部</p>
-</div>{* "movie_law" end *}
+</div>{* "movie law" end *}
 
-<div id="movie_econ">
+<div class="movie econ">
 <p>経済学部</p>
-</div>{* "movie_econ" end *}
+</div>{* "movie econ" end *}
 
-<div id="movie_info">
+<div class="movie info">
 <p>情報学部</p>
-</div>{* "movie_info" end *}
+</div>{* "movie info" end *}
 
-<div id="movie_scie">
+<div class="movie scie">
 <p>理学部</p>
-</div>{* "movie_scie" end *}
+</div>{* "movie scie" end *}
 
-<div id="movie_medi">
+<div class="movie medi">
 <p>医学部</p>
-</div>{* "movie_medi" end *}
+</div>{* "movie medi" end *}
 
-<div id="movie_engi">
+<div class="movie engi">
 <p>工学部</p>
-</div>{* "movie_engi" end *}
+</div>{* "movie engi" end *}
 
-<div id="movie_agri">
+<div class="movie agri">
 <p>農学部</p>
-</div>{* "movie_agri" end *}
+</div>{* "movie agri" end *}
 
-<div id="movie_other">
+<div class="movie other">
 <p>その他</p>
-</div>{* "movie_other" end *}
+</div>{* "movie other" end *}
 
-</div>{* "movie" end *}
+</div>{* "movie_contents" end *}
 
 </div>{* "lab_intro" end *}
