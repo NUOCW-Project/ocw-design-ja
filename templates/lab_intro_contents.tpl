@@ -71,9 +71,12 @@
 <p>農学部</p>
 </div>{* "movie agri" end *}
 
+{*
 <div class="movie other">
 <p>その他</p>
-</div>{* "movie other" end *}
+</div>
+*}
+{* "movie other" end *}
 
 </div>{* "movie_contents" end *}
 
