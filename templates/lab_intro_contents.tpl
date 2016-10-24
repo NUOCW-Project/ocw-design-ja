@@ -20,7 +20,7 @@
 <li><img class="department off medi" src="./images/ja/lab_intro/button/medi_blk.svg" alt="医学部"></li>
 <li><img class="department on engi" src="./images/ja/lab_intro/button/engi.svg" alt="工学部"></li>
 <li><img class="department on agri" src="./images/ja/lab_intro/button/agri.svg" alt="農学部"></li>
-<li><img class="department on other" src="./images/ja/lab_intro/button/other.svg" alt="その他"></li>
+<li><img class="department off other" src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></li>
 </ul>{* "department_list" end *}
 
 <div class="movie_contents">
@@ -40,9 +40,13 @@
 <p>法学部</p>
 </div>{* "movie law" end *}
 
+{*
 <div class="movie econ">
 <p>経済学部</p>
-</div>{* "movie econ" end *}
+</div>
+*}
+{* "movie econ" end *}
+
 
 <div class="movie info">
 <p>情報学部</p>
@@ -52,9 +56,12 @@
 <p>理学部</p>
 </div>{* "movie scie" end *}
 
+{*
 <div class="movie medi">
 <p>医学部</p>
-</div>{* "movie medi" end *}
+</div>
+*}
+{* "movie medi" end *}
 
 <div class="movie engi">
 <p>工学部</p>
