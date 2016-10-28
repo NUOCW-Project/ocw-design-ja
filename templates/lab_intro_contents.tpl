@@ -29,7 +29,23 @@
 </div>{* "movie top" end *}
 
 <div class="movie lite">
-<p>文学部</p>
+<div class="item">
+<a href="">
+{*<img class="department off other" src="./images/ja/lab_intro/button/other_blk.svg" alt="その他">*}
+</a>
+</div>
+
+<div class="item">
+
+</div>
+
+<div class="item">
+
+</div>
+
+<div class="item">
+
+</div>
 </div>{* "movie lite" end *}
 
 <div class="movie educ">
