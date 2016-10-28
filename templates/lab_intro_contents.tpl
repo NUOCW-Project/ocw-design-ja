@@ -31,7 +31,15 @@
 <div class="movie lite">
 <div class="item">
 <a href="">
-{*<img class="department off other" src="./images/ja/lab_intro/button/other_blk.svg" alt="その他">*}
+<p><img src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></p>
+<p><img src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></p>
+<p><img src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></p>
+<p><img src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></p>
+<p><img src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></p>
+<p><img src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></p>
+<p><img src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></p>
+<p><img src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></p>
+<p><img src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></p>
 </a>
 </div>
 
