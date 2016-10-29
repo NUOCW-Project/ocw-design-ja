@@ -29,70 +29,98 @@
 </div>{* "movie top" end *}
 
 <div class="movie lite">
-<div class="movie contents">
-  <div class="item">
-  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-  <p>○○学科</p>
-  <p>◆◆◆研究室</p>
-  </div>
-
-  <div class="item">
-  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-  <p>○○学科</p>
-  <p>◆◆◆研究室</p>
-  </div>
-
-  <div class="item">
-  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-  <p>○○学科</p>
-  <p>◆◆◆研究室</p>
-  </div>
-
-  <div class="item">
-  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-  <p>○○学科</p>
-  <p>◆◆◆研究室</p>
-  </div>
-
-  <div class="item">
-  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-  <p>○○学科</p>
-  <p>◆◆◆研究室</p>
-  </div>
-
-  <div class="item">
-  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-  <p>○○学科</p>
-  <p>◆◆◆研究室</p>
-  </div>
-
-  <div class="item">
-  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-  <p>○○学科</p>
-  <p>◆◆◆研究室</p>
-  </div>
-
-  <div class="item">
-  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-  <p>○○学科</p>
-  <p>◆◆◆研究室</p>
-  </div>
-
-
-
+<div class="set">
+<div class="item">
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
 
 <div class="item">
-
-</div>
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
 
 <div class="item">
-
-</div>
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
 
 <div class="item">
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
 
-</div>
-</div>
+<div class="item">
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+<div class="title">
+<p>○○学科</p>
+<p>◆◆◆研究室</p>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+
+
+</div>{* "set" end *}
 </div>{* "movie lite" end *}
 
 <div class="movie educ">
