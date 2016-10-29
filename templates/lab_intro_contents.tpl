@@ -29,45 +29,55 @@
 </div>{* "movie top" end *}
 
 <div class="movie lite">
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
+  <div class="item">
+  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+  <p>○○学科</p>
+  <p>◆◆◆研究室</p>
+  </div>
 
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
+  <div class="item">
+  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+  <p>○○学科</p>
+  <p>◆◆◆研究室</p>
+  </div>
 
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
+  <div class="item">
+  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+  <p>○○学科</p>
+  <p>◆◆◆研究室</p>
+  </div>
 
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
+  <div class="item">
+  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+  <p>○○学科</p>
+  <p>◆◆◆研究室</p>
+  </div>
 
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
+  <div class="item">
+  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+  <p>○○学科</p>
+  <p>◆◆◆研究室</p>
+  </div>
 
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
+  <div class="item">
+  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+  <p>○○学科</p>
+  <p>◆◆◆研究室</p>
+  </div>
 
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
+  <div class="item">
+  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+  <p>○○学科</p>
+  <p>◆◆◆研究室</p>
+  </div>
 
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
+  <div class="item">
+  <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
+  <p>○○学科</p>
+  <p>◆◆◆研究室</p>
+  </div>
 
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
 
-<div class="item">
-<img src="./images/ja/lab_intro/sample.jpg" alt="その他">
-</div>
 
 
 <div class="item">
