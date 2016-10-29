@@ -29,6 +29,7 @@
 </div>{* "movie top" end *}
 
 <div class="movie lite">
+<div class="movie contents">
   <div class="item">
   <img src="./images/ja/lab_intro/sample.jpg" alt="その他">
   <p>○○学科</p>
@@ -90,6 +91,7 @@
 
 <div class="item">
 
+</div>
 </div>
 </div>{* "movie lite" end *}
 
