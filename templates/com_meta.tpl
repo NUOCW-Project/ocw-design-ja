@@ -60,19 +60,19 @@
 
 {elseif $lang=='ja' && $page_type=='topics2013'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
-  <link rel="stylesheet" type="text/css" href="css/topics/5.css">  
+  <link rel="stylesheet" type="text/css" href="css/topics/5.css">
 
 {elseif $lang=='ja' && $page_type=='topics2014'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
-  <link rel="stylesheet" type="text/css" href="css/topics/6.css">  
+  <link rel="stylesheet" type="text/css" href="css/topics/6.css">
 
 {elseif $lang=='ja' && $page_type=='topics2015'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
-  <link rel="stylesheet" type="text/css" href="css/topics/7.css">  
+  <link rel="stylesheet" type="text/css" href="css/topics/7.css">
 
 {elseif $lang=='ja' && $page_type=='topics2015sec'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
-  <link rel="stylesheet" type="text/css" href="css/topics/8.css">  
+  <link rel="stylesheet" type="text/css" href="css/topics/8.css">
 
 {elseif $lang=='ja' && $page_type=='topics2016'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
@@ -120,6 +120,9 @@
 {elseif $lang=='ja' && $page_type=='highschool'}
 <link rel="stylesheet" type="text/css" href="css/topics_highschool.css">
 
+{elseif $lang=='ja' && $page_type=='lab_intro'}
+<link rel="stylesheet" type="text/css" href="css/lab_intro.css">
+
 {elseif $lang=='ja' && $page_type=='specialtopics'}
 <link rel="stylesheet" type="text/css" href="css/specialtopics.css">
 
@@ -158,6 +161,10 @@
   <script type="text/javascript" src="./js/noDisplay.js"></script>
 {elseif $lang=='ja' && $page_type=='topics2016'}
   <script type="text/javascript" src="./js/topics9.js"></script>
+{elseif $lang=='ja' && $page_type=='lab_intro'}
+  <script type="text/javascript" src="./js/jquery.jscrollpane.min.js"></script>
+  <script type="text/javascript" src="./js/jquery.mousewheel.js"></script>
+  <script type="text/javascript" src="./js/lab_intro.js"></script>
 {elseif $lang=='ja' && $page_type=='summercamp'}
   <script type="text/javascript" src="./js/jquery.youtubeplaylist.js"></script>
   <script type="text/ecmascript" src="./js/youtube.js"></script>

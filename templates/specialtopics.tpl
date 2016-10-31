@@ -3,13 +3,21 @@
 {* 公開して間もない特集ページ *}
 <h1>Pick up!</h1>
 <dl id="specialtopics">
-  <dt><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f">松尾総長 特別講義 名古屋大学で何を学ぶか？</a></dt>
-  <dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f"><img src="./images/ja/topics_backnumber/matsuo_special_lecture.png" alt="松尾総長 特別講義 名古屋大学で何を学ぶか？"></a></dd>
+  <dt><a href="http://www.nul.nagoya-u.ac.jp/guide/literacy/guidance_cal16s.html#jcafe">日本語カフェ</a></dt>
+  <dd><a href="http://www.nul.nagoya-u.ac.jp/guide/literacy/guidance_cal16s.html#jcafe"><img src="./images/ja/topics_backnumber/nihongo_cafe_banner.png" alt="日本語カフェ"></a></dd>
 </dl>
 
 {* 過去の特集ページ *}
 <h1>過去の特集ページ</h1>
 <dl id="specialtopics_backnumber">
+    
+    <dt><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=research_work">名大の研究指導</a></dt>
+  <dd><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=research_work"><img src="./images/ja/topics_backnumber/banner_researchwork-1.png" alt="名大の研究指導"></a></dd>
+    
+    
+    <dt><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f">松尾総長 特別講義 名古屋大学で何を学ぶか？</a></dt>
+  <dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f"><img src="./images/ja/topics_backnumber/matsuo_special_lecture.png" alt="松尾総長 特別講義 名古屋大学で何を学ぶか？"></a></dd>
+    
   <dt><a href="./index.php?lang=ja&mode=g&page_type=romeclub">ローマクラブ共同会長 名古屋大学名誉博士称号授与記念イベント</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=romeclub"><img src="./images/ja/topics_backnumber/club_of_rome.png" alt="ローマクラブ共同会長 名古屋大学名誉博士称号授与記念イベント"></a></dd>
 
