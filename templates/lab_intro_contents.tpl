@@ -140,6 +140,8 @@
 </div>{* "movie info" end *}
 
 <div class="movie scie">{* 理学部 *}
+<div class="set">
+<div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/62526cd702bb4a6d758192805c84ded086beb2f5" target="_blank">
 <img src="./images/ja/lab_intro/thumbs/lite/earth_and_planetary_physics.jpg" alt="地球惑星学科 地球惑星物理学講座">
 </a>
@@ -271,6 +273,7 @@
 </div>{* "title" end *}
 </div>{* "item" end *}
 
+</div>{* "set" end *}
 </div>{* "movie scie" end *}
 
 {*
