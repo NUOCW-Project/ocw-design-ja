@@ -33,12 +33,14 @@
 <div class="movie lite">
 <div class="set">
 <div class="item">
-<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/252a1c807cfa58970f09d25fb86b5f9f6d7c986c">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/252a1c807cfa58970f09d25fb86b5f9f6d7c986c" target="_blank">
 <img src="./images/ja/lab_intro/thumbs/lite/psychology.jpg" alt="その他">
 </a>
 <div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/252a1c807cfa58970f09d25fb86b5f9f6d7c986c" target="_blank">
 <div class="department">人文学科</div>
 <div class="lab_name">心理学研究室</div>
+</a>
 </div>{* "title" end *}
 </div>{* "item" end *}
 
