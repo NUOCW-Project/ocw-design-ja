@@ -139,9 +139,10 @@
 
 <p>経済学部</p>
 
-</div>{* "set" end *}
+</div>
 </div>
 *}
+{* "set" end *}
 {* "movie econ" end *}
 
 
@@ -299,12 +300,143 @@
 </div>
 </div>
 *}
+{* "set" end *}
 {* "movie medi" end *}
 
 <div class="movie engi">
 <div class="set">
 
-<p>工学部</p>
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/f6560d8b41709bd55b90b0457dc93cbec98feeee" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/organic_materials.jpg" alt="化学生命工学科 有機構造化学研究室">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/f6560d8b41709bd55b90b0457dc93cbec98feeee" target="_blank">
+<div class="department">化学生命工学科</div>
+<div class="lab_name">有機構造化学研究室</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/f2522d993a27c6d7fa9aa1269d864cd52ad24454" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/biomechanical_control.jpg" alt="機械･航空宇宙工学科 生体システム制御研究室">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/f2522d993a27c6d7fa9aa1269d864cd52ad24454" target="_blank">
+<div class="department">機械･航空宇宙工学科</div>
+<div class="lab_name">生体システム制御研究室</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0705b56ed2ee7c52257f6554515cd86d956ea6ea" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/v_lab.jpg" alt="物理学科 機能性物質物性研究室(V研究室)">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0705b56ed2ee7c52257f6554515cd86d956ea6ea" target="_blank">
+<div class="department">機械･航空宇宙工学科</div>
+<div class="lab_name">機能性物質物性研究室(V研究室)※長谷川</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/77de9b371a1990dca60e29ffa38dea020a3dedff" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/applied_nuclear_physics.jpg" alt="エネルギー理工学科 応用核物理学グループ">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/77de9b371a1990dca60e29ffa38dea020a3dedff" target="_blank">
+<div class="department">エネルギー理工学科</div>
+<div class="lab_name">応用核物理学グループ</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5f8adc1d0a4d4b5f4330cf030a93866733bef88c"  target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/energy_nanomaterials.jpg" alt="エネルギー理工学科 エネルギーナノマテリアル科学グループ">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5f8adc1d0a4d4b5f4330cf030a93866733bef88c"  target="_blank">
+<div class="department">エネルギー理工学科</div>
+<div class="lab_name">エネルギーナノマテリアル科学グループ</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/6503c0c5bbfa8f0581575c06812f70669ffdf748" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/nuclear_energy_control.jpg" alt="エネルギー理工学科 ">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/6503c0c5bbfa8f0581575c06812f70669ffdf748" target="_blank">
+<div class="department">エネルギー理工学科</div>
+<div class="lab_name">プラズマ理論研究室(P研究室)※山本研究室</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/983b8f5eb23b20585044bb01cf463687fdab44d3" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/fusion_reactor.jpg" alt="エネルギー理工学科 高エネルギー素粒子物理学研究室(N研究室)">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/983b8f5eb23b20585044bb01cf463687fdab44d3" target="_blank">
+<div class="department">エネルギー理工学科</div>
+<div class="lab_name">高エネルギー素粒子物理学研究室(N研究室)※久保研究室</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/a95b52e524d641c0fcbe22f0ef9993d1200ea74f" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/cell_regulation.jpg" alt="生命理学科 細胞生物学グループ">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/a95b52e524d641c0fcbe22f0ef9993d1200ea74f" target="_blank">
+<div class="department">環境土木･建築学科</div>
+<div class="lab_name">細胞生物学グループ※富田研究室、国土デザイン研究室</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/7447e2fe9118d1df57af557481619bd98cccd6f4" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/molecular_neurobiology.jpg" alt="生命理学科 分子神経生物学">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/7447e2fe9118d1df57af557481619bd98cccd6f4" target="_blank">
+<div class="department">環境土木･建築学科</div>
+<div class="lab_name">分子神経生物学※地盤工学講座</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/57a9aace47803cabe5d977cf0442ba4abb184ba4" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/coastal_and_ocean.jpg" alt="環境土木･建築学科 海岸・海洋工学グループ">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/57a9aace47803cabe5d977cf0442ba4abb184ba4" target="_blank">
+<div class="department">環境土木･建築学科</div>
+<div class="lab_name">海岸・海洋工学グループ</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/dee354885bc0c53830270007e5aaa877e2656933" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/engi/developmental_cell_biology.jpg" alt="環境土木･建築学科 卵細胞生物学グループ">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/dee354885bc0c53830270007e5aaa877e2656933" target="_blank">
+<div class="department">環境土木･建築学科</div>
+<div class="lab_name">卵細胞生物学グループ※環境社会システム工学</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
 
 </div>{* "set" end *}
 </div>{* "movie engi" end *}
@@ -312,10 +444,142 @@
 <div class="movie agri">
 <div class="set">
 
-<p>農学部</p>
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/a36669074f4d3fbf0c306aeff7a2f64551282926" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/industrial_biosciences.jpg" alt="応用生命科学科 産業生命工学">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/a36669074f4d3fbf0c306aeff7a2f64551282926" target="_blank">
+<div class="department">応用生命科学科</div>
+<div class="lab_name">産業生命工学</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/f556c2f0a927133c0ec8ff9af01f1f361dd75bbf" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/biomaterial_physics.jpg" alt="応用生命科学科 生物材料物理学">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/f556c2f0a927133c0ec8ff9af01f1f361dd75bbf" target="_blank">
+<div class="department">応用生命科学科</div>
+<div class="lab_name">生物材料物理学</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0734ed00f20619f1984bae9781a9cd3e123db488" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/crop_science.jpg" alt="資源生物科学科 作物科学">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0734ed00f20619f1984bae9781a9cd3e123db488" target="_blank">
+<div class="department">資源生物科学科</div>
+<div class="lab_name">作物科学</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/257e0095bc9850efd09066ff7b38ac112950693b" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/plant_genetics_and_breeding.jpg" alt="資源生物科学科 植物遺伝育種学">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/257e0095bc9850efd09066ff7b38ac112950693b" target="_blank">
+<div class="department">資源生物科学科</div>
+<div class="lab_name">植物遺伝育種学</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9895f75d2d06d929b8c088fd86a461aad2a5e6c2"  target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/plant_production2.jpg" alt="資源生物科学科 植物生産科学第1">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9895f75d2d06d929b8c088fd86a461aad2a5e6c2"  target="_blank">
+<div class="department">資源生物科学科</div>
+<div class="lab_name">植物生産科学第1</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/b987038e53a4f5fb8fb4c748c2bbaa2ea8242abc" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/plant_production2.jpg" alt="資源生物科学科 植物生産科学第2">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/b987038e53a4f5fb8fb4c748c2bbaa2ea8242abc" target="_blank">
+<div class="department">資源生物科学科</div>
+<div class="lab_name">植物生産科学第2</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/abc3fadb73471c63c792b89fe11d528dee1ec20c" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/plant_pathol.jpg" alt="資源生物科学科 植物病理学">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/abc3fadb73471c63c792b89fe11d528dee1ec20c" target="_blank">
+<div class="department">資源生物科学科</div>
+<div class="lab_name">植物病理学</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/b0c6c1f8767cf53c68054f733296f2d4228c1353" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/reproductive_science.jpg" alt="資源生物科学科 生殖科学">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/b0c6c1f8767cf53c68054f733296f2d4228c1353" target="_blank">
+<div class="department">資源生物科学科</div>
+<div class="lab_name">生殖科学</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9a96a11c5210c3abf4fb6653b76ba854c14f316c" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/animal_nutrition.jpg" alt="資源生物科学科 動物栄養情報">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9a96a11c5210c3abf4fb6653b76ba854c14f316c" target="_blank">
+<div class="department">資源生物科学科</div>
+<div class="lab_name">動物栄養情報</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/39d8a2401aa8cee95eced270afa9dfded424898b" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/animal_production1.jpg" alt="資源生物科学科 動物生産科学第1">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/39d8a2401aa8cee95eced270afa9dfded424898b" target="_blank">
+<div class="department">資源生物科学科</div>
+<div class="lab_name">動物生産科学第1</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
+
+<div class="item">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5b9fe04b227447416a40ba5c82260a3db911af1a" target="_blank">
+<img src="./images/ja/lab_intro/thumbs/agri/biosphere_resources_cycling.jpg" alt="資源生物科学科 循環資源学">
+</a>
+<div class="title">
+<a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5b9fe04b227447416a40ba5c82260a3db911af1a" target="_blank">
+<div class="department">資源生物科学科</div>
+<div class="lab_name">循環資源学</div>
+</a>
+</div>{* "title" end *}
+</div>{* "item" end *}
 
 </div>{* "set" end *}
 </div>{* "movie agri" end *}
+
+
 
 {*
 <div class="movie other">
@@ -323,9 +587,10 @@
 
 <p>その他</p>
 
-</div>{* "set" end *}
+</div>
 </div>
 *}
+{* "set" end *}
 {* "movie other" end *}
 
 </div>{* "movie_contents" end *}
