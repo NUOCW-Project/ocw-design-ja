@@ -3,6 +3,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
+{literal}
+{if $page_type=='lab_intro'}
+  <meta name="viewport" content="width=device-width", initial-scale="1.0">
+{/literal}
 
 <link rel="stylesheet" type="text/css" href="css/common/contents.css">
 <link rel="stylesheet" type="text/css" href="css/common/default.css">
