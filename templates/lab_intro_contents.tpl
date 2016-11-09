@@ -333,7 +333,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0705b56ed2ee7c52257f6554515cd86d956ea6ea" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/engi/v_lab.jpg" alt="機械･航空宇宙工学科 知能ロボット学">
+<img src="./images/ja/lab_intro/thumbs/engi/intelligent_robotics.jpg" alt="機械･航空宇宙工学科 知能ロボット学">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0705b56ed2ee7c52257f6554515cd86d956ea6ea" target="_blank">
@@ -495,7 +495,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9895f75d2d06d929b8c088fd86a461aad2a5e6c2"  target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/plant_production2.jpg" alt="資源生物科学科 植物生産科学第1">
+<img src="./images/ja/lab_intro/thumbs/agri/plant_production1.jpg" alt="資源生物科学科 植物生産科学第1">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9895f75d2d06d929b8c088fd86a461aad2a5e6c2"  target="_blank">
