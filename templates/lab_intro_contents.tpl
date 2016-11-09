@@ -14,17 +14,17 @@
 <img class="movie_list sd" src="./images/ja/lab_intro/movie_sd.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
 
 {* img classの"on"は動画が存在 *}
-<ul id="school_list">
-<li class="notselected"><img class="school on lite" src="./images/ja/lab_intro/button/lite.svg" alt="文学部"></li>
-<li class="notselected"><img class="school off educ" src="./images/ja/lab_intro/button/educ_blk.svg" alt="教育学部"></li>
-<li class="notselected"><img class="school off law" src="./images/ja/lab_intro/button/law_blk.svg" alt="法学部"></li>
-<li class="notselected"><img class="school off econ" src="./images/ja/lab_intro/button/econ_blk.svg" alt="経済学部"></li>
-<li class="notselected"><img class="school on info" src="./images/ja/lab_intro/button/info_blk.svg" alt="情報学部"></li>
-<li class="notselected"><img class="school on scie" src="./images/ja/lab_intro/button/scie.svg" alt="理学部"></li>
-<li class="notselected"><img class="school off medi" src="./images/ja/lab_intro/button/medi_blk.svg" alt="医学部"></li>
-<li class="notselected"><img class="school on engi" src="./images/ja/lab_intro/button/engi.svg" alt="工学部"></li>
-<li class="notselected"><img class="school on agri" src="./images/ja/lab_intro/button/agri.svg" alt="農学部"></li>
-<li class="notselected"><img class="school off other" src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></li>
+<ul class="school_list full">
+<li class="notselected"><img class="school on lite full" src="./images/ja/lab_intro/button/lite.svg" alt="文学部"></li>
+<li class="notselected"><img class="school off educ full" src="./images/ja/lab_intro/button/educ_blk.svg" alt="教育学部"></li>
+<li class="notselected"><img class="school off law full" src="./images/ja/lab_intro/button/law_blk.svg" alt="法学部"></li>
+<li class="notselected"><img class="school off econ full" src="./images/ja/lab_intro/button/econ_blk.svg" alt="経済学部"></li>
+<li class="notselected"><img class="school on info full" src="./images/ja/lab_intro/button/info_blk.svg" alt="情報学部"></li>
+<li class="notselected"><img class="school on scie full" src="./images/ja/lab_intro/button/scie.svg" alt="理学部"></li>
+<li class="notselected"><img class="school off medi full" src="./images/ja/lab_intro/button/medi_blk.svg" alt="医学部"></li>
+<li class="notselected"><img class="school on engi full" src="./images/ja/lab_intro/button/engi.svg" alt="工学部"></li>
+<li class="notselected"><img class="school on agri full" src="./images/ja/lab_intro/button/agri.svg" alt="農学部"></li>
+<li class="notselected"><img class="school off other full" src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></li>
 </ul>{* "school_list" end *}
 
 <div class="movie_contents">
