@@ -2,7 +2,7 @@
 <p>名大の授業 (NUOCW) では, Javascript を ON にして当サイトを閲覧されることを想定しています.</p>
 </noscript>
 
-
+{* 以下"full"クラスはPC用、"sd"クラスはスマホ用 *}
 <div class="lab_intro">
 <img class="header_img full" src="./images/ja/lab_intro/top.svg" alt="名大の研究室紹介">
 <img class="header_img sd" src="./images/ja/lab_intro/top_sd.svg" alt="名大の研究室紹介">
@@ -13,7 +13,7 @@
 <img class="movie_list full" src="./images/ja/lab_intro/movie.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
 <img class="movie_list sd" src="./images/ja/lab_intro/movie_sd.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
 
-{* img classの"on"は動画が存在 *}
+{* img classの"on"は動画が存在している学部 *}
 <ul class="school_list full">
 <li class="notselected"><img class="school on lite full" src="./images/ja/lab_intro/button/lite.svg" alt="文学部"></li>
 <li class="notselected"><img class="school off educ full" src="./images/ja/lab_intro/button/educ_blk.svg" alt="教育学部"></li>
@@ -26,6 +26,20 @@
 <li class="notselected"><img class="school on agri full" src="./images/ja/lab_intro/button/agri.svg" alt="農学部"></li>
 <li class="notselected"><img class="school off other full" src="./images/ja/lab_intro/button/other_blk.svg" alt="その他"></li>
 </ul>{* "school_list" end *}
+
+<select class="school_select sd">
+<option value="">学部名を選択</option>
+<option value="lite">文学部</option>
+<option value="educ">教育学部</option>
+<option value="law">法学部</option>
+<option value="econ">経済学部</option>
+<option value="info">情報学部</option>
+<option value="scie">理学部</option>
+<option value="medi">医学部</option>
+<option value="engi">工学部</option>
+<option value="agri">農学部</option>
+<option value="other">その他</option>
+</select>
 
 <div class="movie_contents">
 <div class="movie top">
