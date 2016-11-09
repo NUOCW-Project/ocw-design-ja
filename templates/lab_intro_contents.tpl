@@ -4,11 +4,14 @@
 
 
 <div class="lab_intro">
-<img id="header_img" src="./images/ja/lab_intro/top.svg" alt="名大の研究室紹介">
+<img class="header_img full" src="./images/ja/lab_intro/top.svg" alt="名大の研究室紹介">
+<img class="header_img sd" src="./images/ja/lab_intro/top_sd.svg" alt="名大の研究室紹介">
 
-<img id="intro" src="./images/ja/lab_intro/introduction.svg" alt="研究室ってどんなところだろう 大学といえば？講義にサークル活動、そして「研究」ですね！名大では様々な分野で、世界の最先端をいく研究が進められています。そんな研究室の様子をちょっとだけ覗いてみませんか？">
+<img class="intro full" src="./images/ja/lab_intro/introduction.svg" alt="研究室ってどんなところだろう 大学といえば？講義にサークル活動、そして「研究」ですね！名大では様々な分野で、世界の最先端をいく研究が進められています。そんな研究室の様子をちょっとだけ覗いてみませんか？">
+<img class="intro sd" src="./images/ja/lab_intro/introduction_sd.svg" alt="研究室ってどんなところだろう 大学といえば？講義にサークル活動、そして「研究」ですね！名大では様々な分野で、世界の最先端をいく研究が進められています。そんな研究室の様子をちょっとだけ覗いてみませんか？">
 
-<img id="movie_list" src="./images/ja/lab_intro/movie.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
+<img class="movie_list full" src="./images/ja/lab_intro/movie.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
+<img class="movie_list sd" src="./images/ja/lab_intro/movie_sd.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
 
 {* img classの"on"は動画が存在 *}
 <ul id="school_list">
