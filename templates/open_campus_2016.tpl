@@ -10,7 +10,7 @@
 </div>
 
 <div class="thumbnail">
-  {embed_video id="3144" width="480" height="320" image="images/ja/open_campus_2016/1.jpg"}
+  {embed_video id="3144" width="480" height="270" image="images/ja/open_campus_2016/1.jpg"}
 </div>
 
 </div> {* class = movie *} 
@@ -27,7 +27,7 @@
 </div>
 
 <div class="thumbnail">
-  {embed_video id="3094" width="480" height="320" image="images/ja/open_campus_2016/2.jpg"}
+  {embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
 </div>
 
 </div> {* class = movie *} 
@@ -44,7 +44,7 @@
 </div>
 
 <div class="thumbnail">
-  {embed_video id="3246" width="480" height="320" image="images/ja/open_campus_2016/3.jpg"}
+  {embed_video id="3108" width="480" height="270" image="images/ja/open_campus_2016/3.jpg"}
 </div>
 
 </div> {* class = movie *} 
@@ -60,7 +60,7 @@
 </div>
 
 <div class="thumbnail">
-  {embed_video id="3136" width="480" height="320" image="images/ja/open_campus_2016/4.jpg"}
+  {embed_video id="3136" width="480" height="270" image="images/ja/open_campus_2016/4.jpg"}
 </div>
 
 </div> {* class = movie *} 
@@ -76,7 +76,7 @@
 </div>
 
 <div class="thumbnail">
-  {embed_video id="3095" width="480" height="320" image="images/ja/open_campus_2016/5.jpg"}
+  {embed_video id="3095" width="480" height="270" image="images/ja/open_campus_2016/5.jpg"}
 </div>
 
 </div> {* class = movie *} 
@@ -92,7 +92,7 @@
 </div>
 
 <div class="thumbnail">
-  {embed_video id="3096" width="480" height="320" image="images/ja/open_campus_2016/6.jpg"}
+  {embed_video id="3096" width="480" height="270" image="images/ja/open_campus_2016/6.jpg"}
 </div>
 
 </div> {* class = movie *} 
@@ -108,7 +108,7 @@
 </div>
 
 <div class="thumbnail">
-  {embed_video id="3100" width="480" height="320" image="images/ja/open_campus_2016/7.jpg"}
+  {embed_video id="3100" width="480" height="270" image="images/ja/open_campus_2016/7.jpg"}
 </div>
 
 </div> {* class = movie *} 
