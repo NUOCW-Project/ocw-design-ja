@@ -19,7 +19,7 @@
 <li class="notselected"><img class="school off educ full" src="./images/ja/lab_intro/button/educ_blk.svg" alt="教育学部"></li>
 <li class="notselected"><img class="school off law full" src="./images/ja/lab_intro/button/law_blk.svg" alt="法学部"></li>
 <li class="notselected"><img class="school off econ full" src="./images/ja/lab_intro/button/econ_blk.svg" alt="経済学部"></li>
-<li class="notselected"><img class="school on info full" src="./images/ja/lab_intro/button/info_blk.svg" alt="情報学部"></li>
+<li class="notselected"><img class="school off info full" src="./images/ja/lab_intro/button/info_blk.svg" alt="情報学部"></li>
 <li class="notselected"><img class="school on scie full" src="./images/ja/lab_intro/button/scie.svg" alt="理学部"></li>
 <li class="notselected"><img class="school off medi full" src="./images/ja/lab_intro/button/medi_blk.svg" alt="医学部"></li>
 <li class="notselected"><img class="school on engi full" src="./images/ja/lab_intro/button/engi.svg" alt="工学部"></li>
@@ -350,12 +350,12 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0705b56ed2ee7c52257f6554515cd86d956ea6ea" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/engi/intelligent_robotics.jpg" alt="機械･航空宇宙工学科 知能ロボット学">
+<img src="./images/ja/lab_intro/thumbs/engi/intelligent_robotics.jpg" alt="機械･航空宇宙工学科 知能ロボット学研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0705b56ed2ee7c52257f6554515cd86d956ea6ea" target="_blank">
 <div class="department">機械･航空宇宙工学科</div>
-<div class="lab_name">知能ロボット学</div>
+<div class="lab_name">知能ロボット学研究室</div>
 </a>
 </div>{* "title" end *}
 </div>{* "item" end *}
@@ -398,12 +398,12 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/983b8f5eb23b20585044bb01cf463687fdab44d3" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/engi/fusion_reactor.jpg" alt="エネルギー理工学科 核融合炉工学">
+<img src="./images/ja/lab_intro/thumbs/engi/fusion_reactor.jpg" alt="エネルギー理工学科 核融合炉工学研究グループ">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/983b8f5eb23b20585044bb01cf463687fdab44d3" target="_blank">
 <div class="department">エネルギー理工学科</div>
-<div class="lab_name">核融合炉工学</div>
+<div class="lab_name">核融合炉工学研究グループ</div>
 </a>
 </div>{* "title" end *}
 </div>{* "item" end *}
@@ -446,12 +446,12 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/dee354885bc0c53830270007e5aaa877e2656933" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/engi/developmental_cell_biology.jpg" alt="環境土木･建築学科 ※環境社会システム工学？">
+<img src="./images/ja/lab_intro/thumbs/engi/infra_systems_planning.jpg" alt="環境土木･建築学科 社会基盤機能学講座">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/dee354885bc0c53830270007e5aaa877e2656933" target="_blank">
 <div class="department">環境土木･建築学科</div>
-<div class="lab_name">※環境社会システム工学？</div>
+<div class="lab_name">社会基盤機能学講座</div>
 </a>
 </div>{* "title" end *}
 </div>{* "item" end *}
