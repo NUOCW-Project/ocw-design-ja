@@ -464,7 +464,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/a36669074f4d3fbf0c306aeff7a2f64551282926" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/industrial_biosciences.jpg" alt="応用生命科学科 産業生命工学">
+<img src="./images/ja/lab_intro/thumbs/agri/industrial_biosciences.jpg" alt="応用生命科学科 産業生命工学研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/a36669074f4d3fbf0c306aeff7a2f64551282926" target="_blank">
@@ -476,7 +476,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/f556c2f0a927133c0ec8ff9af01f1f361dd75bbf" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/biomaterial_physics.jpg" alt="応用生命科学科 生物材料物理学">
+<img src="./images/ja/lab_intro/thumbs/agri/biomaterial_physics.jpg" alt="応用生命科学科 生物材料物理学研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/f556c2f0a927133c0ec8ff9af01f1f361dd75bbf" target="_blank">
@@ -488,7 +488,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0734ed00f20619f1984bae9781a9cd3e123db488" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/crop_science.jpg" alt="資源生物科学科 作物科学">
+<img src="./images/ja/lab_intro/thumbs/agri/crop_science.jpg" alt="資源生物科学科 作物科学研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/0734ed00f20619f1984bae9781a9cd3e123db488" target="_blank">
@@ -500,7 +500,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/257e0095bc9850efd09066ff7b38ac112950693b" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/plant_genetics_and_breeding.jpg" alt="資源生物科学科 植物遺伝育種学">
+<img src="./images/ja/lab_intro/thumbs/agri/plant_genetics_and_breeding.jpg" alt="資源生物科学科 植物遺伝育種学研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/257e0095bc9850efd09066ff7b38ac112950693b" target="_blank">
@@ -512,7 +512,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9895f75d2d06d929b8c088fd86a461aad2a5e6c2"  target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/plant_production1.jpg" alt="資源生物科学科 植物生産科学第1">
+<img src="./images/ja/lab_intro/thumbs/agri/plant_production1.jpg" alt="資源生物科学科 植物生産科学第1研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9895f75d2d06d929b8c088fd86a461aad2a5e6c2"  target="_blank">
@@ -524,7 +524,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/b987038e53a4f5fb8fb4c748c2bbaa2ea8242abc" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/plant_production2.jpg" alt="資源生物科学科 植物生産科学第2">
+<img src="./images/ja/lab_intro/thumbs/agri/plant_production2.jpg" alt="資源生物科学科 植物生産科学第2研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/b987038e53a4f5fb8fb4c748c2bbaa2ea8242abc" target="_blank">
@@ -536,7 +536,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/abc3fadb73471c63c792b89fe11d528dee1ec20c" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/plant_pathol.jpg" alt="資源生物科学科 植物病理学">
+<img src="./images/ja/lab_intro/thumbs/agri/plant_pathol.jpg" alt="資源生物科学科 植物病理学研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/abc3fadb73471c63c792b89fe11d528dee1ec20c" target="_blank">
@@ -548,7 +548,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/b0c6c1f8767cf53c68054f733296f2d4228c1353" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/reproductive_science.jpg" alt="資源生物科学科 生殖科学">
+<img src="./images/ja/lab_intro/thumbs/agri/reproductive_science.jpg" alt="資源生物科学科 生殖科学研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/b0c6c1f8767cf53c68054f733296f2d4228c1353" target="_blank">
@@ -560,19 +560,19 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9a96a11c5210c3abf4fb6653b76ba854c14f316c" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/animal_nutrition.jpg" alt="資源生物科学科 動物栄養情報">
+<img src="./images/ja/lab_intro/thumbs/agri/animal_nutrition.jpg" alt="資源生物科学科 動物栄養情報学研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/9a96a11c5210c3abf4fb6653b76ba854c14f316c" target="_blank">
 <div class="department">資源生物科学科</div>
-<div class="lab_name">動物栄養情報研究室</div>
+<div class="lab_name">動物栄養情報学研究室</div>
 </a>
 </div>{* "title" end *}
 </div>{* "item" end *}
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/39d8a2401aa8cee95eced270afa9dfded424898b" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/animal_production1.jpg" alt="資源生物科学科 動物生産科学第1">
+<img src="./images/ja/lab_intro/thumbs/agri/animal_production1.jpg" alt="資源生物科学科 動物生産科学第1研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/39d8a2401aa8cee95eced270afa9dfded424898b" target="_blank">
@@ -584,7 +584,7 @@
 
 <div class="item">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5b9fe04b227447416a40ba5c82260a3db911af1a" target="_blank">
-<img src="./images/ja/lab_intro/thumbs/agri/biosphere_resources_cycling.jpg" alt="資源生物科学科 循環資源学">
+<img src="./images/ja/lab_intro/thumbs/agri/biosphere_resources_cycling.jpg" alt="資源生物科学科 循環資源学研究室">
 </a>
 <div class="title">
 <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5b9fe04b227447416a40ba5c82260a3db911af1a" target="_blank">
