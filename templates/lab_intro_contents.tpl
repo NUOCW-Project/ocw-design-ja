@@ -30,15 +30,15 @@
 <select class="school_select sd">
 <option value="">学部名を選択</option>
 <option value="lite">文学部</option>
-<option value="educ">教育学部</option>
-<option value="law">法学部</option>
-<option value="econ">経済学部</option>
-<option value="info">情報学部</option>
+{* <option value="educ">教育学部</option> *}
+{* <option value="law">法学部</option> *}
+{* <option value="econ">経済学部</option> *}
+{* <option value="info">情報学部</option> *}
 <option value="scie">理学部</option>
-<option value="medi">医学部</option>
+{* <option value="medi">医学部</option> *}
 <option value="engi">工学部</option>
 <option value="agri">農学部</option>
-<option value="other">その他</option>
+{* <option value="other">その他</option> *}
 </select>
 
 <div class="movie_contents">
