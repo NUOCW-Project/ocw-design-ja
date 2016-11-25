@@ -28,7 +28,7 @@
 </ul>{* "school_list" end *}
 
 <select class="school_select sd">
-<option value="">学部名を選択</option>
+<option value="top">学部名を選択</option>
 <option value="lite">文学部</option>
 {* <option value="educ">教育学部</option> *}
 {* <option value="law">法学部</option> *}
@@ -1254,5 +1254,7 @@
 {* "movie other" end *}
 
 </div>{* "movie_contents" end *}
+
+<div class="pagetop sd"><a href="#"><img src="./images/ja/pagetop.gif" alt="ページトップへ"></a></p>
 
 </div>{* "lab_intro" end *}
