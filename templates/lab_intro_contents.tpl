@@ -1255,6 +1255,6 @@
 
 </div>{* "movie_contents" end *}
 
-<div class="pagetop sd"><a href="#"><img src="./images/ja/pagetop.gif" alt="ページトップへ"></a></div>
+<div class="pagetop sd"><a href="#"><img src="./images/ja/lab_intro/back.svg" alt="ページトップへ"></a></div>
 
 </div>{* "lab_intro" end *}
