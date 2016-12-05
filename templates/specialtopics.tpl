@@ -10,12 +10,14 @@
 {* 過去の特集ページ *}
 <h1>過去の特集ページ</h1>
 <dl id="specialtopics_backnumber">
-    
-    <dt><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=research_work">名大の研究指導</a></dt>
+        
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=romeclub">Studium Generale SPRING 2016</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=romeclub"><img src="./images/ja/topics_backnumber/studium_generale_banner.png" alt="Studium Generale SPRING 2016"></a></dd>
+  
+  <dt><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=research_work">名大の研究指導</a></dt>
   <dd><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=research_work"><img src="./images/ja/topics_backnumber/banner_researchwork-1.png" alt="名大の研究指導"></a></dd>
     
-    
-    <dt><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f">松尾総長 特別講義 名古屋大学で何を学ぶか？</a></dt>
+  <dt><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f">松尾総長 特別講義 名古屋大学で何を学ぶか？</a></dt>
   <dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f"><img src="./images/ja/topics_backnumber/matsuo_special_lecture.png" alt="松尾総長 特別講義 名古屋大学で何を学ぶか？"></a></dd>
     
   <dt><a href="./index.php?lang=ja&mode=g&page_type=romeclub">ローマクラブ共同会長 名古屋大学名誉博士称号授与記念イベント</a></dt>
