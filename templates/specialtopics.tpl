@@ -11,8 +11,8 @@
 <h1>過去の特集ページ</h1>
 <dl id="specialtopics_backnumber">
         
-  <dt><a href="./index.php?lang=ja&mode=g&page_type=romeclub">Studium Generale SPRING 2016</a></dt>
-  <dd><a href="./index.php?lang=ja&mode=g&page_type=romeclub"><img src="./images/ja/topics_backnumber/studium_generale_banner.png" alt="Studium Generale SPRING 2016"></a></dd>
+  <dt><a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=c&id=562">Studium Generale SPRING 2016</a></dt>
+  <dd><a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=c&id=562"><img src="./images/ja/topics_backnumber/studium_generale_banner.png" alt="Studium Generale SPRING 2016"></a></dd>
   
   <dt><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=research_work">名大の研究指導</a></dt>
   <dd><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=research_work"><img src="./images/ja/topics_backnumber/banner_researchwork-1.png" alt="名大の研究指導"></a></dd>
