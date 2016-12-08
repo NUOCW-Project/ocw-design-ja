@@ -99,6 +99,9 @@
 {elseif $lang=='ja' && $page_type=='research_work1-2'}
   <link rel="stylesheet" type="text/css" href="css/research_work1-2.css">
 
+{elseif $lang=='ja' && $page_type=='research_work2'}
+  <link rel="stylesheet" type="text/css" href="css/research_work2.css">
+
 {elseif $lang=='ja' && $page_type=='summercamp'}
 <link rel="stylesheet" type="text/css" href="css/summercamp.css">
 
