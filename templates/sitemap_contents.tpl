@@ -8,7 +8,7 @@
 		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=faq">ヘルプ(FAQ)</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=about">名大の授業について</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">用語解説</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">１分間授業紹介&Podcast</a>
+		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">1分間授業紹介&Podcast</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=welcome">ようこそ名大の授業へ</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=inquiry">お問合せ</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=g&amp;page_type=link">リンク</a>
@@ -32,15 +32,9 @@
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">国際言語センター</a>
 	</ul>
 	<ul class="sitemap_navi">
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=open">高校生公開講座</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=extension">名古屋大学公開講座</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=relay">名古屋大学リレーセミナー</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=gcoetop">グローバルCOEプログラム</a>
+		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=relay">名古屋大学ラジオ公開講座</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=fwarchive">退職記念講義アーカイブ</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=farewell">退職記念講義2015</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=tefs">TEFS</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=agora">数学アゴラ</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=sem">女子中高生理系進学推進セミナー</a>
 
 	</ul>
 	</td>
