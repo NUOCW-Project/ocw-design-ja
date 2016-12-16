@@ -13,7 +13,7 @@
 <img class="movie_list full" src="./images/ja/lab_intro/movie.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
 <img class="movie_list sd" src="./images/ja/lab_intro/movie_sd.svg" alt="動画一覧 学部タブをクリックすると学部ごとに動画の絞り込みができます。">
 
-{* img classの"on"は動画が存在している学部 *}
+{* li classの"notselected"は選択していない学部(lab_intro.jsでselected制御)、img classの"on"は動画が存在している学部 *}
 <ul class="school_list full">
 <li class="notselected"><img class="school on lite full" src="./images/ja/lab_intro/button/lite.svg" alt="文学部"></li>
 <li class="notselected"><img class="school off educ full" src="./images/ja/lab_intro/button/educ_blk.svg" alt="教育学部"></li>
