@@ -1,6 +1,6 @@
 ﻿<div id="research_work2">
 <div id="research_work2_top">
-<img id="masuda_top" src="images/ja/research_work/top_hurumura.png" alt="名大の研究指導#1 -周囲の支えにより手にした「育志賞」- 古村聖さんインタビュー">
+<img id="masuda_top" src="images/ja/research_work/top_masuda.png" alt="名大の研究指導#2 -優れた成果を出す学生の指導教員は，どのような指導をしているのか- 増田先生・三宅先生インタビュー">
 </div>
 
 <p id= "intro">
