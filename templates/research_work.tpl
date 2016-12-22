@@ -48,6 +48,33 @@
 </div>
 
 </div> {* class = interview *}
+
+<h1>第2回 優れた成果を出す学生の指導教員は，どのような指導をしているのか</h1>
+<div class="intro">
+リード文
+</div> {* class = intro *}
+<div class="interview">
+<img id="interview_img" src="images/ja/research_work/interview.png">
+
+<a class="interview_link" href="./index.php?lang=ja&mode=g&page_type=research_work2">
+<div class="interviview_article">
+<div class="interview_text">
+<h3>教員インタビュー</h3>
+<h2>宇宙地球環境研究所<span class="attention">※</span> 増田先生・三宅先生</h2>
+<p>
+「楽しく、将来に希望を持って院生生活を送り、いつかは指導教員を超える研究者になってもらうこと。」これが目標だと小川先生は語ります。小川先生は普段どのような事を心がけて研究指導を行っているのでしょうか。取材しました。
+</p>
+</div>
+<div class="interview_img">
+<img src="images/ja/research_work/banner_masuda.png">
+</div>
+</div>
+</a>
+
+<div id="sup">
+※育志賞受賞当時(2014年1月)の所属は太陽地球環境研究所でしたが、部局統合で組織変更がありました。
+</div>
+
 </div> {* class = article *}
 
 {*
