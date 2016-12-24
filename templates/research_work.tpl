@@ -17,18 +17,17 @@
 <img id="interview_img" src="images/ja/research_work/interview.png">
 <a class="interview_link" href="./index.php?lang=ja&mode=g&page_type=research_work2">
 <div class="interview_article">
-<div class="interview_img">
-<img src="images/ja/research_work/banner_masuda.png">
-</div>
 <div class="interview_text">
 <h3>インタビュー</h3>
 <h2>宇宙地球環境研究所 増田公明 准教授・三宅 芙沙 特任助教</h2>
 <p>
 どのような学生の行動も「学生の個性と考えれば、成果を出すアプローチの一環」と語る増田先生。先生は普段どのようなことを心がけて研究指導を行っているのでしょうか。取材しました。
 </p>
+<div class="interview_img">
+<img src="images/ja/research_work/banner_masuda.png">
 </div>
-
-</div>
+</div> {* class = interview_text *}
+</div> {* class = interview_article *}
 </a>
 </div> {* class = interview *}
 </div> {* class = article *}
