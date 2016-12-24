@@ -25,7 +25,7 @@
 どのような学生の行動も「学生の個性と考えれば、成果を出すアプローチの一環」と語る増田先生。先生は普段どのようなことを心がけて研究指導を行っているのでしょうか。取材しました。
 </p>
 </div>
-<div id="interview_img">
+<div class="interview_img">
 <img src="images/ja/research_work/banner_masuda.png">
 </div>
 </div>
