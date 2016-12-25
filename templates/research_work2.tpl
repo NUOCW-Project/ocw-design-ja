@@ -1,4 +1,4 @@
-﻿<div id="research_work2">
+<div id="research_work2">
 <div id="research_work2_top">
 <img id="masuda_top" src="images/ja/research_work/top_masuda.png" alt="名大の研究指導#2 -優れた成果を出す学生の指導教員は，どのような指導をしているのか- 増田先生・三宅先生インタビュー">
 </div>
@@ -55,4 +55,4 @@
 </p>
 </div>
 
-</div> {* research_work1-2 end *}
+</div> {* research_work2 end *}
