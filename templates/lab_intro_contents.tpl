@@ -1255,7 +1255,7 @@
 
 </div>{* "movie_contents" end *}
 
-<p>※このページではFlashを利用しています</p>
+<p id="attention">※このページではFlashを利用しています</p>
 
 <div class="pagetop"><a href="#"><img class="sd" src="./images/ja/lab_intro/back.svg" alt="ページトップへ"></a></div>
 
