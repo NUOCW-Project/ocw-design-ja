@@ -1,4 +1,4 @@
-﻿{* 「特別企画」のテンプレート *}
+{* 「特別企画」のテンプレート *}
 {include file="com_header.tpl"}
 {if $lang =="ja"}
   {include file="research_work2.tpl"}

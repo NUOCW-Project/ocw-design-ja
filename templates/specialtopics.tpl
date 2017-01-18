@@ -11,17 +11,17 @@
 <h1>過去の特集ページ</h1>
 <dl id="specialtopics_backnumber">
 
-  <dt><a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=c&id=590&page_type=index">Studium Generale FALL 2016</a></dt>
-  <dd><a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=c&id=590&page_type=index"><img src="./images/ja/topics_backnumber/studium_generale_fall_banner.png" alt="Studium Generale FALL 2016"></a></dd>
+  <dt><a href="./index.php?lang=en&mode=c&id=590&page_type=index">Studium Generale FALL 2016</a></dt>
+  <dd><a href="./index.php?lang=en&mode=c&id=590&page_type=index"><img src="./images/ja/topics_backnumber/studium_generale_fall_banner.png" alt="Studium Generale FALL 2016"></a></dd>
         
-  <dt><a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=c&id=562">Studium Generale SPRING 2016</a></dt>
-  <dd><a href="http://ocw.nagoya-u.jp/index.php?lang=en&mode=c&id=562"><img src="./images/ja/topics_backnumber/studium_generale_banner.png" alt="Studium Generale SPRING 2016"></a></dd>
+  <dt><a href="./index.php?lang=en&mode=c&id=562">Studium Generale SPRING 2016</a></dt>
+  <dd><a href="./index.php?lang=en&mode=c&id=562"><img src="./images/ja/topics_backnumber/studium_generale_banner.png" alt="Studium Generale SPRING 2016"></a></dd>
   
   <dt><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016">オープンキャンパス2016</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016"><img src="./images/ja/topics_backnumber/OpenCampus2016.png" alt="オープンキャンパス2016"></a></dd>
   
-  <dt><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=research_work">名大の研究指導</a></dt>
-  <dd><a href="http://ocw.nagoya-u.jp/index.php?lang=ja&mode=g&page_type=research_work"><img src="./images/ja/topics_backnumber/banner_researchwork-1.png" alt="名大の研究指導"></a></dd>
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=research_work">名大の研究指導</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=research_work"><img src="./images/ja/topics_backnumber/banner_researchwork-1.png" alt="名大の研究指導"></a></dd>
     
   <dt><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f">松尾総長 特別講義 名古屋大学で何を学ぶか？</a></dt>
   <dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f"><img src="./images/ja/topics_backnumber/matsuo_special_lecture.png" alt="松尾総長 特別講義 名古屋大学で何を学ぶか？"></a></dd>
