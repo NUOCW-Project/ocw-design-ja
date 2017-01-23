@@ -4,19 +4,19 @@
 <img src="./images/common/redline.gif" class="line" alt="">
 
 
-{* オープンキャンパス2016 *}
+{* 受験生のための学部紹介 *}
 <div id="special_head">        
-    <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=open_campus_2016">
-        <img src="./images/ja/OpenCampus2016-top.png" alt="オープンキャンパス2016" width="694" height="399" >
+    <a href="./teens/">
+        <img src="./images/ja/highschool-top.png" alt="受験生のための学部紹介" width="694" height="399" >
     </a>
-</div>{* オープンキャンパス2016 end *}
+</div>{* 受験生のための学部紹介 end *}
 
-  {* 特集! 学生実験・実習 *}
+  {* 名大の研究指導 *}
   <div id="topics_head">
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=topics2016">
-          <img src="./images/ja/topics9/topics9_top.png" alt="名大の授業 TOPICS No.9 特集! 学生実験・実習" width="694" height="399" >
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=research_work">
+          <img src="./images/ja/research_work.png" alt="名大の研究指導" width="694" height="399" >
     </a>
-  </div>{* 特集! 学生実験・実習 end *}
+  </div>{* 名大の研究指導 end *}
 
 <div class="inline">
 
