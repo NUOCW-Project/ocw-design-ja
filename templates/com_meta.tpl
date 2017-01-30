@@ -170,8 +170,6 @@
 {elseif $lang=='ja' && $page_type=='topics2016'}
   <script type="text/javascript" src="./js/topics9.js"></script>
 {elseif $lang=='ja' && $page_type=='lab_intro'}
-  <script type="text/javascript" src="./js/jquery.jscrollpane.min.js"></script>
-  <script type="text/javascript" src="./js/jquery.mousewheel.js"></script>
   <script type="text/javascript" src="./js/lab_intro.js"></script>
 {elseif $lang=='ja' && $page_type=='summercamp'}
   <script type="text/javascript" src="./js/jquery.youtubeplaylist.js"></script>
