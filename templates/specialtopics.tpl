@@ -3,14 +3,17 @@
 {* 公開して間もない特集ページ *}
 <h1>Pick up!</h1>
 <dl id="specialtopics">
-  <dt><a href="http://www.nul.nagoya-u.ac.jp/guide/literacy/guidance_cal16s.html#jcafe">日本語カフェ</a></dt>
-  <dd><a href="http://www.nul.nagoya-u.ac.jp/guide/literacy/guidance_cal16s.html#jcafe"><img src="./images/ja/topics_backnumber/nihongo_cafe_banner.png" alt="日本語カフェ"></a></dd>
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=lab_intro">名大の研究室紹介</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=lab_intro"><img src="./images/ja/topics_backnumber/lab_intro.png" alt="名大の研究室紹介"></a></dd>
 </dl>
 
 {* 過去の特集ページ *}
 <h1>過去の特集ページ</h1>
 <dl id="specialtopics_backnumber">
-
+    
+  <dt><a href="http://www.nul.nagoya-u.ac.jp/guide/literacy/guidance_cal16s.html#jcafe">日本語カフェ</a></dt>
+  <dd><a href="http://www.nul.nagoya-u.ac.jp/guide/literacy/guidance_cal16s.html#jcafe"><img src="./images/ja/topics_backnumber/nihongo_cafe_banner.png" alt="日本語カフェ"></a></dd>
+    
   <dt><a href="./index.php?lang=en&mode=c&id=590&page_type=index">Studium Generale FALL 2016</a></dt>
   <dd><a href="./index.php?lang=en&mode=c&id=590&page_type=index"><img src="./images/ja/topics_backnumber/studium_generale_fall_banner.png" alt="Studium Generale FALL 2016"></a></dd>
         
