@@ -53,7 +53,7 @@ HTML5、CSS、JavaScriptなどを用いた動的Webページの開発・保守�
 
 <h3>Webデザイン</h3>
 <p>
-高校生や学外の方に「名大の授業」を紹介するための<a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics2016">特集ページ</a>の企画、取材、記事執筆を行います。
+IllustratorやPhotoshop等を用い、Webページのデザインや画像の作成を行います。デザインに興味のある方を求めています。
 </p>
 
 <h3>作成</h3>
