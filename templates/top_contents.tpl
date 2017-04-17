@@ -11,12 +11,12 @@
     </a>
 </div>{* 受験生のための学部紹介 end *}
 
-  {* 名大の研究指導 *}
+  {* 名大の研究室紹介 *}
   <div id="topics_head">
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=research_work">
-          <img src="./images/ja/research_work.png" alt="名大の研究指導" width="694" height="399" >
+        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=lab_intro">
+          <img src="./images/ja/lab_intro.png" alt="名大の研究室紹介" width="694" height="399" >
     </a>
-  </div>{* 名大の研究指導 end *}
+  </div>{* 名大の研究室紹介 end *}
 
 <div class="inline">
 
