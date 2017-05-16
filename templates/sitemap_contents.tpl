@@ -27,7 +27,6 @@
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=is">情報科学研究科</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=gsid">国際開発研究科</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=math">多元数理科学研究科</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=lang">国際言語文化研究科</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=env">環境学研究科</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">国際言語センター</a>
 	</ul>
