@@ -15,9 +15,9 @@
 
 <div class="q_a">
 
-<p class="qq">
+<h2 class="qq">
 Q. 研究室の運営状況を教えて下さい
-</p>
+</h2>
 
 <p class="sub_q">
 ・年間スケジュールはどうなっていますか？
