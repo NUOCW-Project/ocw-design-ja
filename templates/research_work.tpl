@@ -7,25 +7,39 @@
 
 <div class="article">
 
-<h1>第2回 個性に寄り添った研究支援</h1>
+<h1>第3回 親身なコミュニケーションが生んだ「育志賞」</h1>
 <div class="intro">
 <p>
-日本学術振興会では毎年、特に優秀な大学院博士後期課程の学生を対象に「日本学術振興会育志賞」が授与されます。今回は、2014年に育志賞を受賞した三宅先生と、その指導にあたった増田先生にインタビューを行いました。増田先生の研究室では、学生の個性に合わせた指導方法が取られているようです。優れた研究成果を生む、増田研究室の指導術に迫りました。
+日本学術振興会では毎年、特に優秀な大学院博士後期課程の学生を対象に「日本学術振興会育志賞」が授与されます。今回は、2017 年に育志賞を受賞した伊藤さんについてその指導にあたった五島先生にインタビューを行いました。優れた研究成果を生む、五島研究室の指導術に迫りました。
 </p>
 </div> {* class = intro *}
 <div class="interview">
 <img id="interview_img" src="images/ja/research_work/interview.png">
-<a class="interview_link" href="./index.php?lang=ja&mode=g&page_type=research_work2">
+<a class="interview_link" href="./index.php?lang=ja&mode=g&page_type=research_work3-1">
 <div class="interview_article">
 <div class="interview_text">
-<h3>インタビュー</h3>
-<h2>宇宙地球環境研究所 増田公明 准教授・三宅 芙沙 特任助教</h2>
+<h3>教員インタビュー</h3>
+<h2>理学研究科 五島剛太 教授</h2>
 <p>
-どのような学生の行動も「学生の個性と考えれば、成果を出すアプローチの一環」と語る増田先生。先生は普段どのようなことを心がけて研究指導を行っているのでしょうか。取材しました。
+五島先生は各人の長所を生かしつつ独力で実験することを重んじています。その一方で「日常的に声をかけて二人三脚で研究を進め、研究の仕方などを手取り足取り指導する」ことも大切だと語ります。先生の研究指導について取材しました。
 </p>
 </div> {* class = interview_text *}
 <div class="interview_img">
-<img src="images/ja/research_work/banner_masuda.png">
+<img src="images/ja/research_work/banner_gojima.png">
+</div>
+</div> {* class = interview_article *}
+</a>
+<a class="interview_link" href="./index.php?lang=ja&mode=g&page_type=research_work3-2">
+<div class="interview_article">
+<div class="interview_text">
+<h3>学生インタビュー</h3>
+<h2>博士後期課程※ 伊藤亜実 さん</h2>
+<p>
+「私にとって研究室はもう一つの『家』であり、楽しく、温かい空間です。」伊藤さんは今回の受賞について、このように語ります。受賞に至るまでの研究への姿勢や、研究室での日常について聞いてみました。
+</p>
+</div> {* class = interview_text *}
+<div class="interview_img">
+<img src="images/ja/research_work/banner_ito.png">
 </div>
 </div> {* class = interview_article *}
 </a>
@@ -34,6 +48,23 @@
 
 <div class="article">
 <h1>バックナンバー</h1>
+
+<div class="backnumber">
+<h2 class="title">#2 個性に寄り添った研究支援</h2>
+<dl>
+<a class="backnumber_link" href="./index.php?lang=ja&mode=g&page_type=research_work1-1">
+<dt>インタビュー「どのような学生の行動も学生の個性と考えれば、成果を出すアプローチの一環」</dt>
+<dd>名古屋大学太陽地球環境研究所※ 増田公明 准教授・三宅 芙沙 特任助教</dd>
+</a>
+<a class="backnumber_link" href="./index.php?lang=ja&mode=g&page_type=research_work1-2">
+<dt>学生インタビュー「周りの人の支えなしに、私の院生生活は成立することはなかったと思います。」</dt>
+<dd>名古屋大学大学院経済学研究科※ 古村聖 さん</dd>
+</a>
+</dl>
+
+<p id="sup">※育志賞受賞当時(2014年1月)</p>
+
+</div> {* class = backnumber *}
 
 <div class="backnumber">
 <h2 class="title">#1 周囲の支えにより手にした「育志賞」</h2>
