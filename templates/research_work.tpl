@@ -46,6 +46,8 @@
 </div> {* class = interview *}
 </div> {* class = article *}
 
+<p id="sup">※育志賞受賞当時(2016年1月)</p>
+
 <div class="article">
 <h1>バックナンバー</h1>
 
