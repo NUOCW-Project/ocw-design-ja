@@ -23,7 +23,7 @@
            alt="{$dept.department_name}">
     </a>
   {elseif $abbr=="attention"}
-    {$dept.department_description}
+    {$dept.department_name}
   {/if}
   </li>
 {/foreach}
