@@ -22,7 +22,7 @@
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
            alt="{$dept.department_name}">
     </a>
-  {elseif $abbr=="attention")}
+  {elseif $abbr=="attention"}
     {$dept_info.department_name}
   {/if}
   </li>
