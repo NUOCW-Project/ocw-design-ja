@@ -41,7 +41,7 @@
 	<div class="indent30"><p>「本資料は、名古屋大学の教員○○○○によって作成され、名大の授業Webサイトに掲載された「コースタイトル」
 	(講義の年)をもとに(一部改変して)作成されたものです。</p></div>
 	<div class="indent30"><p>Copyright &copy; 講義の年 教員の氏名」</p></div></td></tr>
-<tr>	
+<tr>
 <td class="center_gray">免責</td>
 	<td class="left_gray"><p>名古屋大学および名古屋大学の教員は、本資料の内容が名古屋大学に求められる学術的水準に見合う正確性、
 	品質を確保するように努めますが、法的には、本資料の正確性、品質、特定の目的に対する適合性、商業化の可能性、権利の非侵害性、
@@ -51,7 +51,7 @@
 
 <!-- スタッフ紹介開始 -->
 <tr><td colspan=2><h2>名古屋大学オープンコースウェアプロジェクト</h2></td></tr>
-<tr><td colspan=2 align="right">2016年4月1日</td></tr>
+<tr><td colspan=2 align="right">2017年6月18日</td></tr>
 <tr><td class="center_gray">名古屋大学OCWプロジェクト</br>メンバー</td>
 		<td class="left_gray"><p>
 
@@ -67,33 +67,44 @@ OCW事務室 事務補佐員 小島友香<br>
 
 <tr><td id="ocw-support" class="center">名古屋大学OCWスタッフ</td>
 		<td class="left"><p>
-文学研究科M2 阿部一貴<br>
-法学部B2 梅野叶夢<br>
-法学部B2 藤原知佳<br>
-情報文化学部B2 大杉浩太郎<br>
-情報文化学部B2 窪田百合<br>
-情報文化学部B2 若園悠聖<br>
-情報文化学部B3 杉森真樹<br>
-情報文化学部B3 松本真<br>
-情報文化学部B3 三野稜太<br>
-情報文化学部B4 高野佑紀奈<br>
-理学部B3 高市大輔<br>
-理学部B3 田島英剛<br>
-理学部B4 游夏<br>
-理学部B4 兼山将寿<br>
-理学部B4 木下雅貴<br>
-理学研究科M2 神村雄康<br>
-多元数理科学研究科M1 小島孝弘<br>
-多元数理科学研究科D1 樋田裕斗<br>
-医学部B2 渡邉聖吾<br>
-工学部B2 隈部岳瑠<br>
-工学部B4 石川大貴<br>
-情報科学研究科M1 長江悠太郎<br>
-生命農学研究科M2 今村美友<br>
-環境学研究科M2 Tirto Soenaryo<br>
-国際言語研究科研究生 Luu Ngan Tu Uyen<br>
-国際言語研究科M1 Maruf Billah<br>
-経済学部B2 Nguyen Hang Anh<br>
+多元数理科学研究科D2 樋田裕斗<br>
+理学部B4 高市大輔<br>
+情報科学研究科M2 長江悠太郎<br>
+情報学研究科M1 高野佑紀奈<br>
+情報文化学部B3 若園悠聖<br>
+情報文化学部B3 窪田百合<br>
+医学部B3 渡邉聖吾<br>
+法学部B3 藤原知佳<br>
+理学研究科M1 兼山将寿<br>
+工学部B3 隈部岳瑠<br>
+環境学研究科D3 Tirto Soenaryo<br>
+人文学部M1 Luu Ngan Tu Uyen<br>
+環境学研究科M2 篠田明友子<br>
+工学部B4 Stacy Hadiwidjaja<br>
+理学部B4 Sirilalitya Bhagavatula<br>
+工学部B3 森内湧也<br>
+法学部B3 水谷梓<br>
+工学部B4 河合優介<br>
+教育学部B4 福井ゆたか<br>
+法学部B4 Teresa Pham<br>
+工学部B3 Mingmin Lee<br>
+工学部B3 Srishti Shinha<br>
+工学部B3 Kim Dongwook<br>
+理学研究科M1 中根丈太郎<br>
+工学研究科M2 TAN Zhi Liang<br>
+情報学研究科M1 児玉祐樹<br>
+情報学研究科M1 Aurelio Pinero<br>
+国際言語文化研究科M2 Arun sharma<br>
+農学部B4 金平翔太郎<br>
+工学部2年 坂田悠馬<br>
+工学部3年 白倉大河<br>
+経済学研究科D2 奥村暁弘<br>
+工学部4年 中井沙蘭<br>
+文学研究科D3 鬼頭孝佳<br>
+法学部B3 杉浦万佑子<br>
+法学部B3 菅原京<br>
+法学部B3 佐藤聖菜<br>
+文学部B3 原田真未<br>
 
 </p></td></tr>
 
@@ -103,4 +114,3 @@ OB 吉川遼<br>
 OG 江草洋子<br>
 		</p></td></tr>
 </table>
-
