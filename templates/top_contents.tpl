@@ -11,12 +11,12 @@
     </a>
 </div>{* 受験生のための学部紹介 end *}
 
-  {* 名大の研究室紹介 *}
+  {* 名大の歴史をたどる2017 *}
   <div id="topics_head">
-        <a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=lab_intro">
-          <img src="./images/ja/lab_intro.png" alt="名大の研究室紹介" width="694" height="399" >
+        <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/60bbe809007fc51210dd7d3b556eb90c39d4468a/">
+          <img src="./images/ja/topics_matsuo_2017.png" alt="松尾総長の名大の歴史をたどる2017" width="694">
     </a>
-  </div>{* 名大の研究室紹介 end *}
+  </div>{* 名大の歴史をたどる2017 end *}
 
 <div class="inline">
 
