@@ -76,7 +76,7 @@ Q. 後輩へのアドバイスをお願いします。
 </div>
 
 <div id="gojima_link">
-→<a href="./index.php?lang=ja&mode=g&page_type=research_work3-1">五島さんのインタビューはこちら</a>
+→<a href="./index.php?lang=ja&mode=g&page_type=research_work3-1">五島先生のインタビューはこちら</a>
 </div>
 
 </div> {* interview end *}
