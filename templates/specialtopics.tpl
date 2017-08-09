@@ -4,7 +4,7 @@
 <h1>Pick up!</h1>
 <dl id="specialtopics">
   <dt><a href="teens/">名大の学部紹介</a></dt>
-  <dd><a href="teens/"><img src="./images/ja/topics_backnumber/teens.svg" alt="名大の学部紹介"></a></dd>
+  <dd><a href="teens/"><img src="./images/ja/topics_backnumber/teens.svg" alt="名大の学部紹介" style="width:214px;height:50px"></a></dd>
 
 </dl>
 
