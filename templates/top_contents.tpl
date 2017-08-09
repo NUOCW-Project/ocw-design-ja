@@ -4,19 +4,25 @@
 <img src="./images/common/redline.gif" class="line" alt="">
 
 
-{* 受験生のための学部紹介 *}
-<div id="special_head">        
-    <a href="./teens/">
-        <img src="./images/ja/highschool-top.png" alt="受験生のための学部紹介" width="694" height="399" >
-    </a>
-</div>{* 受験生のための学部紹介 end *}
+  <div class="wideslider">
+  <ul>
+    {* 受験生のための学部紹介 *}
+    <li>
+      <a href="index.php?lang=en&mode=g&page_type=coffee_hour">
+        <img src="./images/ja/highschool-top.png" alt="受験生のための学部紹介">
+      </a>
+    </li>
+    {* 受験生のための学部紹介 end *}
+    {* 名大の歴史をたどる2017 *}
+    <li>
+      <a href="index.php?lang=en&mode=c&id=600&page_type=index">
+      <img src ="./images/ja/topics_matsuo_2017.png" alt="松尾総長の名大の歴史をたどる2017">
+      </a>
+    </li>
+    {* 名大の歴史をたどる2017 end *}
+  </ul>
+  </div>
 
-  {* 名大の歴史をたどる2017 *}
-  <div id="topics_head">
-        <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/60bbe809007fc51210dd7d3b556eb90c39d4468a/">
-          <img src="./images/ja/topics_matsuo_2017.png" alt="松尾総長の名大の歴史をたどる2017" width="694">
-    </a>
-  </div>{* 名大の歴史をたどる2017 end *}
 
 <div class="inline">
 
@@ -96,7 +102,7 @@
 
 	{else}
 		<br>
-			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>		
+			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>
 	{/if}
 
 	{assign var='before' value=$v.course_id}
