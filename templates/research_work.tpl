@@ -46,7 +46,7 @@
 </div> {* class = interview *}
 </div> {* class = article *}
 
-<p id="sup">※育志賞受賞当時(2016年1月)</p>
+<p id="sup">※育志賞受賞当時(2017年1月)</p>
 
 <div class="article">
 <h1>バックナンバー</h1>
@@ -54,7 +54,7 @@
 <div class="backnumber">
 <h2 class="title">#2 個性に寄り添った研究支援</h2>
 <dl>
-<a class="backnumber_link" href="./index.php?lang=ja&mode=g&page_type=research_work1-1">
+<a class="backnumber_link" href="./index.php?lang=ja&mode=g&page_type=research_work2">
 <dt>インタビュー「どのような学生の行動も学生の個性と考えれば、成果を出すアプローチの一環」</dt>
 <dd>名古屋大学太陽地球環境研究所※ 増田公明 准教授・三宅 芙沙 特任助教</dd>
 </a>
@@ -103,7 +103,15 @@
 </dl>
 </div>
 
+<h2 class="title">#5 全国新酒鑑評会 審査員特別奨励新人賞金賞とりました</h2>
+<dl>
+<dt>教授インタビュー「今年もカープは優勝する」</dt>
+<dd>名古屋大学大学院生命農学研究科 生命技術科学専攻 植物生産科学第2研究分野 土井一行 准教授</dd>
+<dt>学生インタビュー「CSで阪神が勝てばメシウマ」</dt>
+<dd>同研究分野 B4 金平翔太郎</dd>
+</dl>
 </div>
+
 *}
 
 </div> {* id = main_topics *}
