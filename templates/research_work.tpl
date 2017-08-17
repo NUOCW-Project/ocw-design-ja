@@ -4,7 +4,6 @@
 </div>
 
 <div id="main_topics">
-
 <div class="article">
 
 <h1>第4回 優れた成果を出す学生の指導教員の指導法</h1>
@@ -51,9 +50,7 @@
 <dd>名古屋大学大学院理学研究科※  伊藤亜実 さん</dd>
 </a>
 </dl>
-
 <p id="sup">※育志賞受賞当時(2017年1月)</p>
-
 </div> {* class = backnumber *}
 
 <div class="backnumber">
@@ -64,9 +61,7 @@
 <dd>名古屋大学太陽地球環境研究所※  増田公明 准教授・三宅 芙沙 特任助教</dd>
 </a>
 </dl>
-
 <p id="sup">※育志賞受賞当時(2014年1月)</p>
-
 </div> {* class = backnumber *}
 
 <div class="backnumber">
@@ -81,11 +76,8 @@
 <dd>名古屋大学大学院経済学研究科※  古村聖 さん</dd>
 </a>
 </dl>
-
 <p id="sup">※育志賞受賞当時(2014年1月)</p>
-
 </div> {* class = backnumber *}
-
 </div> {* class = article *}
 
 
@@ -116,9 +108,7 @@
 <dd>同研究分野 B4 金平翔太郎</dd>
 </dl>
 </div>
-
 *}
 
 </div> {* id = main_topics *}
-
 </div> {* id = research_work *}
