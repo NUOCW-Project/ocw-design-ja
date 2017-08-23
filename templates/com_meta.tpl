@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{$lang|default:"ja"}">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
