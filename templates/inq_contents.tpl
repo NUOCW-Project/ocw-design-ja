@@ -69,7 +69,7 @@
   </h2>
     {if $step > 1}
     <p>{$inputdata.title|escape}</p>
-    <input type="hidden" name="title" value="{$inputdata.title}">
+    <input type="hidden" name="title" value="{$inputdata.title|escape}">
     {else}
 	  <p>（例：□□に関する教材も公開してほしい、△△先生の授業教材も公開してほしい、など）</p>
 		<input type="text" name="title" class="fixed_width" value="{$inputdata.title|escape}">
@@ -80,7 +80,7 @@
   </h2>
     {if $step > 1}
     <p>{$inputdata.content|escape|nl2br}</p>
-    <input type="hidden" name="content" value="{$inputdata.content}">
+    <input type="hidden" name="content" value="{$inputdata.content|escape}">
     {else}
 		<textarea name="content" class="fixed_width">{$inputdata.content|escape}</textarea>	
     {/if}
@@ -90,7 +90,7 @@
   </h2>
     {if $step > 1}
     <p>{$inputdata.c_name|escape}</p>
-    <input type="hidden" name="c_name" value="{$inputdata.c_name}">
+    <input type="hidden" name="c_name" value="{$inputdata.c_name|escape}">
     {else}
 	  <input type="text" name="c_name"  class="fixed_width" value="{$inputdata.c_name|escape}">
     {/if}
@@ -103,7 +103,7 @@
     {/if}
     {if $step > 1}
     <p>{$inputdata.c_email|escape}</p>
-    <input type="hidden" name="c_email" value="{$inputdata.c_email}">
+    <input type="hidden" name="c_email" value="{$inputdata.c_email|escape}">
     {else}
     <input type="text" name="c_email" class="fixed_width" value="{$inputdata.c_email|escape}">
     {/if}
