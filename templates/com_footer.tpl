@@ -23,7 +23,7 @@
     <li><br></li>
   {/if}
 
-  {if $abbr!="empty"}
+  {if ($abbr!="empty" || $abbr!="open_cam" || $abbr!="researchwork")}
     <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
         {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
         </a></li>
@@ -34,7 +34,7 @@
   {/if}
 {/foreach}
 {/literal}
-  
+
   <ul class="navi">
     <li>{if $lang=='ja'}■コンテンツ{else}&diams;Contents{/if}</li>
 {*    <li>OCWシーズン企画</li> *}
@@ -49,34 +49,34 @@
 {/if}
   </ul>
 
-</div>{* "footer" end *} 
-<div id="footer_bottom">  
+</div>{* "footer" end *}
+<div id="footer_bottom">
   <ul id="link">
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=about">
       <img src="./images/{$lang}/c01aboutnu.png" class="size_img" alt="{if $lang=='ja'}名大の授業について{else}About OCW{/if}"
-        onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'" 
+        onMouseOver="this.src='./images/{$lang}/c01aboutnu_on.png'"
         onMouseOut="this.src='./images/{$lang}/c01aboutnu.png'"></a>
     </li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=glossary">
       <img src="./images/{$lang}/c02answer.png" class="size_img" alt="{if $lang=='ja'}用語解説{else}Glossary{/if}"
-        onMouseOver="this.src='./images/{$lang}/c02answer_on.png'" 
+        onMouseOver="this.src='./images/{$lang}/c02answer_on.png'"
         onMouseOut="this.src='./images/{$lang}/c02answer.png'"></a>
     </li>
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=vsyllabus">
       <img src="./images/{$lang}/c03vs.png" class="size_img" alt="{if $lang=='ja'}1分間授業紹介&amp;Podcast{else}One-minute Course Introductions &amp; PodCast{/if}"
-        onMouseOver="this.src='./images/{$lang}/c03vs_on.png'" 
+        onMouseOver="this.src='./images/{$lang}/c03vs_on.png'"
         onMouseOut="this.src='./images/{$lang}/c03vs.png'"></a>
     </li>
   {if $lang=='ja'}
     <li><a href="http://studio.media.nagoya-u.ac.jp/sc/" target="_blank">
       <img src="./images/ja/c04sc.png" class="size_img" alt="スタジオチャンネル"
-        onMouseOver="this.src='./images/ja/c04sc_on.png'" 
+        onMouseOver="this.src='./images/ja/c04sc_on.png'"
         onMouseOut="this.src='./images/ja/c04sc.png'"></a>
     </li>
   {/if}
     <li><a href="./index.php?lang={$lang}&amp;mode=g&amp;page_type=link">
       <img src="./images/{$lang}/c05links.png" class="size_img" alt="{if $lang=='ja'}リンク{else}Link{/if}"
-        onMouseOver="this.src='./images/{$lang}/c05links_on.png'" 
+        onMouseOver="this.src='./images/{$lang}/c05links_on.png'"
         onMouseOut="this.src='./images/{$lang}/c05links.png'"></a>
     </li>
   </ul>
