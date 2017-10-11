@@ -23,11 +23,19 @@
     <li><br></li>
   {/if}
 
-  {if ($abbr!="empty" && $abbr!="open_cam" && $abbr!="researchwork")}
+  {if !($abbr=="empty" && $abbr=="open_cam" && $abbr=="researchwork")}
     <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
         {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
         </a></li>
   {/if}
+  {elseif $abbr=="open_cam"}
+    <li><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016">
+        {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
+        </a></li>
+  {elseif $abbr=="researchwork"}
+    <li><a href="./index.php?lang=ja&mode=g&page_type=researchwork">
+        {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
+        </a></li>
 
   {if $smarty.foreach.navigation.last}
   </ul>
