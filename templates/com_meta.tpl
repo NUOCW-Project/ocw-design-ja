@@ -95,6 +95,10 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/9chem.css">
 
+{elseif $lang=='ja' && $page_type=='topics2017'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/10.css">
+
 {elseif $lang=='ja' && $page_type=='research_work'}
   <link rel="stylesheet" type="text/css" href="css/research_work.css">
 
