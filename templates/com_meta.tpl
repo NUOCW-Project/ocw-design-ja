@@ -204,7 +204,6 @@ Nagoya University OpenCourseWare (NU OCW)
 {/if}
 <!-- ここまで -->
 </title>
-  {ldelim}literal{rdelim}{literal}
   <style>
     .announce {
       text-align: center;
@@ -219,7 +218,6 @@ Nagoya University OpenCourseWare (NU OCW)
       display: none;
     }
   </style>
-  {/literal}{ldelim}/literal{rdelim}
 </head>
 
 <body>
