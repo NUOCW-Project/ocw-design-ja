@@ -204,7 +204,27 @@ Nagoya University OpenCourseWare (NU OCW)
 {/if}
 <!-- ここまで -->
 </title>
+  {ldelim}literal{rdelim}{literal}
+  <style>
+    .announce {
+      text-align: center;
+      font-size: 120%;
+    }
+
+    .announce:hover {
+      color: #000;
+    }
+
+    .hidden {
+      display: none;
+    }
+  </style>
+  {/literal}{ldelim}/literal{rdelim}
 </head>
 
 <body>
+<div class="announce" onclick="this.classList.add('hidden');">
+  <p>10/31 18:00-20:00JSTの時間帯にてサーバメンテナンスを実施させていただきます。</p>
+  <p>メンテナンス時間帯はサービスをご利用いただくことができませんので, ご迷惑をお掛け致しますがあらかじめご了承ください。</p>
+</div>
 <div class="body_back">
