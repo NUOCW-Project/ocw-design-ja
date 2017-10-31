@@ -1,5 +1,9 @@
 <div id="topics2017">
 
+<noscript>
+<p>名大の授業 (NUOCW) では, Javascript を ON にして当サイトを閲覧されることを想定しています.</p>
+</noscript>
+
 <div id="topics2017_top">
 <img src="images/ja/topics10/top/top.jpg" alt="TOPICS NO.10 基礎セミナー特集">
 </div>{* id = topics2017_top *}
