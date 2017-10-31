@@ -13,13 +13,13 @@
   {embed_video id="3144" width="480" height="270" image="images/ja/open_campus_2016/1.jpg"}
 </div>
 
-</div> {* class = movie *} 
+</div> {* class = movie *}
 
 
 
 <div class="movie">
 
-<h1>災害と心のケア(教育学部)</h1> 
+<h1>災害と心のケア(教育学部)</h1>
 
 <div class="movie_info">
 <p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
@@ -30,7 +30,7 @@
   {embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
 </div>
 
-</div> {* class = movie *} 
+</div> {* class = movie *}
 
 
 
@@ -47,12 +47,12 @@
   {embed_video id="3108" width="480" height="270" image="images/ja/open_campus_2016/3.jpg"}
 </div>
 
-</div> {* class = movie *} 
+</div> {* class = movie *}
 
 
 <div class="movie">
 
-<h1>法廷教室紹介(法学部)</h1> 
+<h1>法廷教室紹介(法学部)</h1>
 
 <div class="movie_info">
 <p>大学院法学研究科, 長田理 研究員</p>
@@ -63,12 +63,12 @@
   {embed_video id="3136" width="480" height="270" image="images/ja/open_campus_2016/4.jpg"}
 </div>
 
-</div> {* class = movie *} 
+</div> {* class = movie *}
 
 
 <div class="movie">
 
-<h1>海外留学室</h1> 
+<h1>海外留学室</h1>
 
 <div class="movie_info">
 <p>工学部化学生物工学科, 渡邉智基 さん</p>
@@ -79,12 +79,12 @@
   {embed_video id="3095" width="480" height="270" image="images/ja/open_campus_2016/5.jpg"}
 </div>
 
-</div> {* class = movie *} 
+</div> {* class = movie *}
 
 
 <div class="movie">
 
-<h1>新入生対応ブース</h1> 
+<h1>新入生対応ブース</h1>
 
 <div class="movie_info">
 <p>名大生のボランティアの方々</p>
@@ -95,12 +95,12 @@
   {embed_video id="3096" width="480" height="270" image="images/ja/open_campus_2016/6.jpg"}
 </div>
 
-</div> {* class = movie *} 
+</div> {* class = movie *}
 
 
 <div class="movie">
 
-<h1>理学部数理学科 授業紹介</h1> 
+<h1>理学部数理学科 授業紹介</h1>
 
 <div class="movie_info">
 <p>多元数理科学研究科事務員, 小崎和子 さん</p>
@@ -111,20 +111,20 @@
   {embed_video id="3100" width="480" height="270" image="images/ja/open_campus_2016/7.jpg"}
 </div>
 
-</div> {* class = movie *} 
+</div> {* class = movie *}
 
 
 <div class="movie">
 
-<h1>保護者対象説明会 (理学部)</h1> 
+<h1>保護者対象説明会 (理学部)</h1>
 
 <div class="movie_info">
 <p>理学部長, 松本邦弘 他</p>
-<p>理学部性の生活、就職状況について紹介しました。</p>
+<p>理学部生の生活、就職状況について紹介しました。</p>
 </div>
 
 <div class="thumbnail">
   {embed_video id="3097" width="480" height="270"}
 </div>
 
-</div> {* class = movie *} 
+</div> {* class = movie *}

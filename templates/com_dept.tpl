@@ -1,9 +1,9 @@
-<ul id="departmentslist"><!-- 部局リスト 文字にリンクが張られているが画像に差し替え -->
+<ul id="departmentslist">{* 部局リスト 文字にリンクが張られているが画像に差し替え *}
 <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all">
    <img src="./images/{$lang}/courselist.jpg" alt="{if $lang=="ja"}授業一覧から探す{/if}"
      onMouseOver="this.src='./images/{$lang}/courselist_on.jpg'"
-	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a><!-- class"header_image"から移動 -->
-<!-- 各学部ページへのリンクリスト -->
+	   onMouseOut="this.src='./images/{$lang}/courselist.jpg'"></a>{* class"header_image"から移動 *}
+{* 各学部ページへのリンクリスト *}
 {literal}
 {strip}
 {if $lang=="ja"}<!-- 英語用と日本語用で画像の高さが異なる -->
@@ -15,10 +15,24 @@
   <li>
   {if $mode=="l" && $page_type==$abbr}
     <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt="{$dept.department_name}">
-  {elseif !($abbr=="empty" || $abbr=="attention")}
+  {elseif !($abbr=="empty" || $abbr=="attention" || $abbr=="open_cam" || $abbr=="researchwork")}
     <a href="courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
-           onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'" 
+           onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
+           onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
+           alt="{$dept.department_name}">
+    </a>
+  {elseif $abbr=="open_cam"}
+    <a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016">
+      <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
+           onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
+           onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
+           alt="{$dept.department_name}">
+    </a>
+  {elseif $abbr=="researchwork"}
+    <a href="./index.php?lang=ja&mode=g&page_type=research_work">
+      <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
+           onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
            alt="{$dept.department_name}">
     </a>
@@ -30,7 +44,7 @@
 {/strip}
 {/literal}
 
-<!-- twitterの案内 --->
+{* twitterの案内 *}
 {if $lang == 'ja'}
 <li class="other"><a href="http://www.twitter.com/nuocw"><img src="//twitter-badges.s3.amazonaws.com/ja_follow_me-b.png" alt="nuocwをフォローしましょう"></a></li>
 {/if}
@@ -45,7 +59,7 @@
 <li class="other"><a href="./index.php?lang=ja&mode=g&page_type=teacher"><img src="./images/ja/navi/teachers_banner.png" alt="教員の方へ"></a></li>
 {/if}
 
-<!-- Podcastの案内 -->
+{* Podcastの案内 *}
 <div id="podcast_waku">
 <div id="aboutpodcast_image">
 <img src="./images/common/podcast.jpg" alt="NU OCW Podcast" width="125" height="125">
