@@ -5,7 +5,7 @@
 </noscript>
 
 <div id="topics2017_top">
-<img src="images/ja/topics10/top/top.svg" alt="TOPICS NO.10 基礎セミナー特集">
+<img src="images/ja/topics10/top/top.png" alt="TOPICS NO.10 基礎セミナー特集">
 </div>{* id = topics2017_top *}
 
 <div class="topics2017_script">
