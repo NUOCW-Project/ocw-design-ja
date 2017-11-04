@@ -20,8 +20,8 @@
     
 <div class="topics2017_link">
 <div class="topics2017_button">
-<img src="images/ja/topics10/top/pic_red.png" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
-<img src="images/ja/topics10/top/button_icon_red.svg" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
+<img id="topics10-pic" src="images/ja/topics10/top/pic_red.png" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
+<img id="topics10-icon" src="images/ja/topics10/top/button_icon_red.svg" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
 </div>{* class = topics2017_button *}
 <div class="script">
 　「ピア・カウンセリング」という言葉について、みなさんはご存知でしょうか? 「ピア・カウンセリング」とは、同じ仲間として他者の話を聞き、他者を理解して行くための援助法のことです。グループワークやロールプレイを通じて「ピア・カウンセリング」に触れてみる、2016年度後期開講の基礎セミナー「ピア・カウンセリング」(担当: 杉岡正典先生) を取材しました。
@@ -36,8 +36,8 @@
     
 <div class="topics2017_link">
 <div class="topics2017_button">
-<img src="images/ja/topics10/top/pic_yellow.png" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
-<img src="images/ja/topics10/top/button_icon_yellow.svg" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
+<img id="topics10-pic" src="images/ja/topics10/top/pic_yellow.png" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
+<img id="topics10-icon" src="images/ja/topics10/top/button_icon_yellow.svg" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
 </div>{* class = topics2017_button *}
 <div class="script">
 　大学の授業では、しばしば授業で学んだことについてレポートにまとめたり、発表をしたりします。誰もがその時に、「どう工夫をすれば相手にうまく伝わるだろう?」と思うことでしょう。レポート作成や口頭発表を実際に行い、その内容や工夫等について皆で討論しながら技術を身に着けていく、2016年後期開講の基礎セミナー「レポート作成と口頭発表の技術」(担当: 柳原光芳先生) を取材しました。
@@ -53,8 +53,8 @@
     
 <div class="topics2017_link">
 <div class="topics2017_button">
-<img src="images/ja/topics10/top/pic_green.png" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
-<img src="images/ja/topics10/top/button_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+<img id="topics10-pic" src="images/ja/topics10/top/pic_green.png" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+<img id="topics10-icon" src="images/ja/topics10/top/button_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
 </div>{* class = topics2017_button *}
 <div class="script">
 　「メディアリテラシー」という言葉をご存知でしょうか? インターネットやテレビ、新聞などのメディアが伝える情報を理解し、見極め、使いこなす能力のことを「メディアリテラシー」と呼びます。実際に番組を制作することでこれらの獲得を目指す、2016年度後期開講の基礎セミナー「メディア研究・ビデオ制作を通したメディアリテラシーの獲得」(担当: 後藤明史先生) を取材しました。
@@ -72,8 +72,8 @@
     
 <div class="topics2017_link">
 <div class="topics2017_button">
-<img src="images/ja/topics10/top/pic_blue.png" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
-<img src="images/ja/topics10/top/button_icon_blue.svg" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+<img id="topics10-pic" src="images/ja/topics10/top/pic_blue.png" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+<img id="topics10-icon" src="images/ja/topics10/top/button_icon_blue.svg" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 </div>{* class = topics2017_button *}
 <div class="script">
 　学期後期、医学部医学科の1年生向けに基礎セミナーB「細胞を観る、記載する、そして伝える」(担当: 同学部、宮田卓樹先生) が開講されました。この講義では、様々な生体材料の「観察」を通して知識を深め、それをもとに発表を行うという、座学とは別な実践的な形式がとられています。学生たちは不慣れな解剖に苦戦しつつも、工夫を凝らしながら意欲的に取り組み、また成果についても活発な議論を交わし合いました。
@@ -90,8 +90,8 @@
     
 <div class="topics2017_link">
 <div class="topics2017_button">
-<img src="images/ja/topics10/top/pic_violet.png" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
-<img src="images/ja/topics10/top/button_icon_violet.svg" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
+<img id="topics10-pic" src="images/ja/topics10/top/pic_violet.png" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
+<img id="topics10-icon" src="images/ja/topics10/top/button_icon_violet.svg" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
 </div>{* class = topics2017_button *}
 <div class="script">
 　考古学といえば、マスコミにもよく取り上げられ馴染み深い学問ですが、現場ではどのようなことが行われているのでしょうか? フィールドワークや博物館見学を通じて考古学に触れてみる、2016年後期開講の基礎セミナー「考古学入門」(担当: 梶原義実先生) を取材しました。
