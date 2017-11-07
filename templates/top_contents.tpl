@@ -4,17 +4,17 @@
 <img src="./images/common/redline.gif" class="line" alt="">
 
 
-{* 受験生のための学部紹介 *}
+{* 名大の研究指導#4 *}
 <div id="special_head">        
-    <a href="./teens/">
-        <img src="./images/ja/highschool-top.png" alt="受験生のための学部紹介" width="694" height="399" >
+    <a href="index.php?lang=ja&mode=g&page_type=research_work">
+        <img src="./images/ja/research_work4.png" alt="名大の研究指導#4" width="694" height="399" >
     </a>
-</div>{* 受験生のための学部紹介 end *}
+</div>{* 名大の研究指導#4 end *}
 
   {* 名大の歴史をたどる2017 *}
   <div id="topics_head">
         <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/60bbe809007fc51210dd7d3b556eb90c39d4468a/">
-          <img src="./images/ja/topics_matsuo_2017.png" alt="松尾総長の名大の歴史をたどる2017" width="694">
+          <img src="./images/ja/topics_matsuo_2017.png" alt="松尾総長の名大の歴史をたどる2017" width="694" height="399" >
     </a>
   </div>{* 名大の歴史をたどる2017 end *}
 
