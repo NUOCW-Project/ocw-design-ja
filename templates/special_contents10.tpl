@@ -30,7 +30,8 @@ What is Counseling?
 </div>{* class = title *}
 
 <div class="subtitle">
-ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)
+ピア・カウンセリング体験を通して<br>
+他者理解及び対人援助の基礎を理解する (杉岡正典先生)
 </div>{* class = subtitle *}
 </div>{* class = topics2017_button *}
 
@@ -88,7 +89,8 @@ Be a TV Director!
 </div>{* class = title *}
 
 <div class="subtitle">
-メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)
+メディア研究・ビデオ制作を通した<br>
+メディアリテラシーの獲得 (後藤明史先生)
 </div>{* class = subtitle *}
 </div>{* class = topics2017_button *}
 
