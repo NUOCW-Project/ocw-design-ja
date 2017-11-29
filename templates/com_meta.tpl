@@ -182,6 +182,8 @@
   <script type="text/javascript" src="./js/noDisplay.js"></script>
 {elseif $lang=='ja' && $page_type=='topics2016'}
   <script type="text/javascript" src="./js/topics9.js"></script>
+{elseif $lang=='ja' && $page_type=='topics2017'}
+  <script type="text/javascript" src="./js/topics10.js"></script>
 {elseif $lang=='ja' && $page_type=='lab_intro'}
   <script type="text/javascript" src="./js/lab_intro.js"></script>
 {elseif $lang=='ja' && $page_type=='summercamp'}
