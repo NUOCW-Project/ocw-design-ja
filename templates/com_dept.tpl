@@ -15,7 +15,7 @@
   <li>
   {if $mode=="l" && $page_type==$abbr}
     <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt="{$dept.department_name}">
-  {elseif !($abbr=="empty" || $abbr=="attention" || $abbr=="open_cam" || $abbr=="researchwork")}
+  {elseif !($abbr=="empty" || $abbr=="attention" || $abbr=="open_cam" || $abbr=="researchwork" || $abbr=="topicsbackno")}
     <a href="courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
            onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
@@ -31,6 +31,13 @@
     </a>
   {elseif $abbr=="researchwork"}
     <a href="./index.php?lang=ja&mode=g&page_type=research_work">
+      <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
+           onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
+           onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
+           alt="{$dept.department_name}">
+    </a>
+  {elseif $abbr=="topicsbackno"}
+    <a href="./index.php?lang=ja&mode=g&page_type=topics2010">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
            onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
