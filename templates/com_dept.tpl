@@ -23,7 +23,7 @@
            alt="{$dept.department_name}">
     </a>
   {elseif $page_type=="open_campus_2016"}
-      <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt="{$dept.department_name}">
+      <img src="{/literal}./images/{literal}{$lang}/navi/open_cam_h.png" alt="{$dept.department_name}">
   {elseif $abbr=="open_cam" && !($page_type=="open_campus_2016")}
     <a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
@@ -32,7 +32,7 @@
            alt="{$dept.department_name}">
     </a>
   {elseif $page_type=="research_work"}
-      <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt="{$dept.department_name}">
+      <img src="{/literal}./images/{literal}{$lang}/navi/researchwork_h.png" alt="{$dept.department_name}">
   {elseif $abbr=="researchwork" && !($page_type=="research_work")}
     <a href="./index.php?lang=ja&mode=g&page_type=research_work">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
@@ -41,7 +41,7 @@
            alt="{$dept.department_name}">
     </a>
   {elseif $page_type=="topics2010"}
-      <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt="{$dept.department_name}">
+      <img src="{/literal}./images/{literal}{$lang}/navi/topicsbackno_h.png" alt="{$dept.department_name}">
   {elseif $abbr=="topicsbackno" && !($page_type=="topics2010")}
     <a href="./index.php?lang=ja&mode=g&page_type=topics2010">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
