@@ -15,12 +15,6 @@
   <li>
   {if $mode=="l" && $page_type==$abbr}
     <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt="{$dept.department_name}">
-  {elseif $page_type=="open_campus_2016"}
-      <img src="{/literal}./images/{literal}{$lang}/navi/open_cam_h.png" alt="{$dept.department_name}">
-  {elseif $page_type=="research_work"}
-      <img src="{/literal}./images/{literal}{$lang}/navi/researchwork_h.png" alt="{$dept.department_name}">
-  {elseif $page_type=="topics2010"}
-      <img src="{/literal}./images/{literal}{$lang}/navi/topicsbackno_h.png" alt="{$dept.department_name}">
   {elseif !($abbr=="empty" || $abbr=="attention" || $abbr=="open_cam" || $abbr=="researchwork" || $abbr=="topicsbackno")}
     <a href="courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
@@ -28,21 +22,21 @@
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
            alt="{$dept.department_name}">
     </a>
-  {elseif $abbr=="open_cam" && !($page_type=="open_campus_2016")}
+  {elseif $abbr=="open_cam"}
     <a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
            onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
            alt="{$dept.department_name}">
     </a>
-  {elseif $abbr=="researchwork" && !($page_type=="research_work")}
+  {elseif $abbr=="researchwork"}
     <a href="./index.php?lang=ja&mode=g&page_type=research_work">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
            onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
            alt="{$dept.department_name}">
     </a>
-  {elseif $abbr=="topicsbackno" && !($page_type=="topics2010")}
+  {elseif $abbr=="topicsbackno"}
     <a href="./index.php?lang=ja&mode=g&page_type=topics2010">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
            onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
