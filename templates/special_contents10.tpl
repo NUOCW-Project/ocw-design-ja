@@ -17,13 +17,26 @@
 <img class="topics10-header-icon" id="topics10-header-icon-green" src="images/ja/topics10/top/header_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
 </div>{* id = topics10-header-green *}
 
-<div class="topics10-header-pic" id="topics10-header-red" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+<div class="topics10-header-pic" id="topics10-header-blue" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 <img class="topics10-header-icon" id="topics10-header-icon-blue" src="images/ja/topics10/top/header_icon_blue.svg" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 </div>{* id = topics10-header-blue *}
 
 <div class="topics10-header-pic" id="topics10-header-violet" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
 <img class="topics10-header-icon" id="topics10-header-icon-violet" src="images/ja/topics10/top/header_icon_violet.svg" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
 </div>{* id = topics10-header-violet *}
+
+<div id="topics2017_top_title">
+<div id="sub_subtitle">
+名大の授業
+</div>
+<div id="subtitle">
+TOPICS No.10
+</div>
+<div id="title">
+基礎セミナー特集
+</div>
+</div>{* id = topics2017_top_title *}
+
 
 </div>{* id = topics2017_top *}
 
