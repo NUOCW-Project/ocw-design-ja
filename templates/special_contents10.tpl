@@ -50,7 +50,7 @@ TOPICS No.10
     
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-red">
     
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-red" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
@@ -82,7 +82,7 @@ What is Counseling?
 
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-yellow">
 
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-yellow" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
@@ -114,7 +114,7 @@ How to Write Papers.
 
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-green">
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-green" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
 </div>{* id = topics10-pic-green *}
@@ -148,7 +148,7 @@ Be a TV Director!
 
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-blue">
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-blue" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 </div>{* id = topics10-pic-blue *}
@@ -180,7 +180,7 @@ Letʼs Analize Aminals!
 
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-violet">
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-violet" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
 </div>{* id = topics10-pic-violet *}
