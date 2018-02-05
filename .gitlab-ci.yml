@@ -1,2 +1,10 @@
-job:
-  script: ""
+stages:
+  - build
+  - test
+  - deploy
+
+job-test:
+  stage: build
+  script: 
+    - echo "test"
+  allow_failure: true
