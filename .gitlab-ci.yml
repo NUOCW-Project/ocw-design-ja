@@ -3,8 +3,8 @@ stages:
   - test
   - deploy
 
-job-test:
+escape-blank:
   stage: build
   script: 
-    - echo "test"
+    - echo "escape script blank error"
   allow_failure: true
