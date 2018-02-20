@@ -19,7 +19,7 @@
 国際色豊かな研究室
 </h2>
 
-<img id="picture_fujiyoshi_1" src="images/ja/research_work/yokomizo_interview.png">
+<img id="picture_yokomizo_1" src="images/ja/research_work/yokomizo_interview.png">
 
 <p class="answer">
 　優れた成果を出す学生に対して，指導する教員はどのような研究指導をしているのか。この素朴な疑問を明らかにするため，法学研究科の横溝先生の研究室を訪れた。横溝先生の指導生で博士後期課程3年の加藤さんは、29年度の日本学術振興会育志賞候補者として選ばれている。<br>
@@ -72,7 +72,7 @@
 学生には可能性がある
 </h2>
 
-<img id="picture_fujiyoshi_2" src="images/ja/research_work/yokomizo_interview_2.png">
+<img id="picture_yokomizo_2" src="images/ja/research_work/yokomizo_interview_2.png">
 
 <p class="answer">
 　このような指導方針の背景には、学生の可能性を低く見積もらないという考え方があるようだ。自分の学生時代に「あの学生はダメだ」のように、教員が早い段階から学生を見限る場面に接し、強い違和感を持っていたという。そうした経験もあり、学生がうまく成果を出せないのは、指導が悪いためだと考えるようにしている。指導の工夫をするうちに、指導側の教育能力も高まるという実感も得ているようだ。<br>
