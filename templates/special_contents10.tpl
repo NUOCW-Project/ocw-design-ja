@@ -4,8 +4,40 @@
 <p>名大の授業 (NUOCW) では, Javascript を ON にして当サイトを閲覧されることを想定しています.</p>
 </noscript>
 
-<div id="topics2017_top">
-<img src="images/ja/topics10/top/top.png" alt="TOPICS NO.10 基礎セミナー特集">
+<div id="topics2017_top" alt="TOPICS NO.10 基礎セミナー特集">
+<div class="topics10-header-pic" id="topics10-header-red" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-red" src="images/ja/topics10/top/header_icon_red.svg" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
+</div>{* id = topics10-header-red *}
+
+<div class="topics10-header-pic" id="topics10-header-yellow" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-yellow" src="images/ja/topics10/top/header_icon_yellow.svg" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
+</div>{* id = topics10-header-yellow *}
+
+<div class="topics10-header-pic" id="topics10-header-green" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-green" src="images/ja/topics10/top/header_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+</div>{* id = topics10-header-green *}
+
+<div class="topics10-header-pic" id="topics10-header-blue" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-blue" src="images/ja/topics10/top/header_icon_blue.svg" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+</div>{* id = topics10-header-blue *}
+
+<div class="topics10-header-pic" id="topics10-header-violet" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-violet" src="images/ja/topics10/top/header_icon_violet.svg" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
+</div>{* id = topics10-header-violet *}
+
+<div id="topics2017_top_title">
+<div id="sub_subtitle">
+名大の授業
+</div>
+<div id="subtitle">
+TOPICS No.10
+</div>
+<div id="title">
+基礎セミナー特集
+</div>
+</div>{* id = topics2017_top_title *}
+
+
 </div>{* id = topics2017_top *}
 
 <div class="topics2017_script">
@@ -18,7 +50,7 @@
     
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-red">
     
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-red" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
@@ -50,7 +82,7 @@ What is Counseling?
 
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-yellow">
 
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-yellow" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
@@ -82,7 +114,7 @@ How to Write Papers.
 
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-green">
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-green" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
 </div>{* id = topics10-pic-green *}
@@ -116,7 +148,7 @@ Be a TV Director!
 
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-blue">
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-blue" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 </div>{* id = topics10-pic-blue *}
@@ -148,7 +180,7 @@ Letʼs Analize Aminals!
 
     
     
-<div class="topics2017_link">
+<div class="topics2017_link" id="topics2017-violet">
 <div class="topics2017_button">
 <div class="topics10-pic" id="topics10-pic-violet" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
 </div>{* id = topics10-pic-violet *}
