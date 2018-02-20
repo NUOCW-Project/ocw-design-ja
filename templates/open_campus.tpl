@@ -64,20 +64,6 @@
 <p id="sup">※育志賞受賞当時(2014年1月)</p>
 </div> {* class = backnumber *}
 
-<div class="backnumber">
-<h2 class="title">#1 周囲の支えにより手にした「育志賞」</h2>
-<dl>
-<a class="backnumber_link" href="./index.php?lang=ja&mode=g&page_type=research_work1-1">
-<dt>教授インタビュー「楽しく、将来に希望を持って院生生活を送り、いつかは指導教員を超える研究者になってもらうこと。」</dt>
-<dd>名古屋大学大学院経済学研究科※  小川光 教授</dd>
-</a>
-<a class="backnumber_link" href="./index.php?lang=ja&mode=g&page_type=research_work1-2">
-<dt>学生インタビュー「周りの人の支えなしに、私の院生生活は成立することはなかったと思います。」</dt>
-<dd>名古屋大学大学院経済学研究科※  古村聖 さん</dd>
-</a>
-</dl>
-<p id="sup">※育志賞受賞当時(2014年1月)</p>
-</div> {* class = backnumber *}
 </div> {* class = article *}
 
 
