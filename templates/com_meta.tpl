@@ -163,8 +163,9 @@
 <script type="text/javascript" src="./js/toggle.js"></script>
 <script type="text/javascript" src="./js/openWin.js"></script>
 <script type="text/javascript" src="./js/googleAnalytics.js"></script>
-<script type="text/javascript" src="./js/jwplayer.js"></script>
-<script>jwplayer.key="nDp4FtKpuEt4NmXMVUUEFX1fWJfyuvqTglqrDw==";</script>
+<link href="https://vjs.zencdn.net/6.4.0/video-js.css" rel="stylesheet">
+<script type="text/javascript" src="https://vjs.zencdn.net/6.4.0/video.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.12.2/videojs-contrib-hls.min.js"></script>
 {literal}
 {if $lang=='ja' && $page_type=='top'}
   <script type="text/javascript" src="./js/setHeight.js"></script>
@@ -182,6 +183,8 @@
   <script type="text/javascript" src="./js/noDisplay.js"></script>
 {elseif $lang=='ja' && $page_type=='topics2016'}
   <script type="text/javascript" src="./js/topics9.js"></script>
+{elseif $lang=='ja' && $page_type=='topics2017'}
+  <script type="text/javascript" src="./js/topics10.js"></script>
 {elseif $lang=='ja' && $page_type=='lab_intro'}
   <script type="text/javascript" src="./js/lab_intro.js"></script>
 {elseif $lang=='ja' && $page_type=='summercamp'}
