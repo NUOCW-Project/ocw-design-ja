@@ -22,10 +22,10 @@
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
            alt="{$dept.department_name}">
     </a>
-  {elseif $abbr=="open_cam" && $page_type=="open_campus_2016"}
+  {elseif $abbr=="open_cam" && $page_type=="open_campus"}
     <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}_h.png" alt="{$dept.department_name}">
-  {elseif $abbr=="open_cam" && !($page_type=="open_campus_2016")}
-    <a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016">
+  {elseif $abbr=="open_cam" && !($page_type=="open_campus")}
+    <a href="./index.php?lang=ja&mode=g&page_type=open_campus">
       <img src="{/literal}./images/{literal}{$lang}/navi/{$abbr}.png"
            onMouseOver="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}_on.png'"
            onMouseOut="this.src='{/literal}./images/{literal}{$lang}/navi/{$abbr}.png'"
