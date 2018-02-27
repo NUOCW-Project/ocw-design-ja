@@ -21,13 +21,13 @@
 <div class="article">
 <h1>過去のオープンキャンパス</h1>
 <div class="back_open_campus">
-<a class="open_campus_link" href="./index.php?lang=ja&mode=g&page_type=open_campus2016">
+<a class="open_campus_link" href="./index.php?lang=ja&mode=g&page_type=open_campus_2016">
 <img class="back_open_campus_img" src="images/ja/open_campus/banner_2016.png">
 </a>
 </div> {* class = back_open_campus *}
 
 <div class="back_open_campus">
-<a class="open_campus_link" href="./index.php?lang=ja&mode=g&page_type=open_campus2015">
+<a class="open_campus_link" href="./index.php?lang=ja&mode=g&page_type=open_campus_2015">
 <img class="back_open_campus_img" src="images/ja/open_campus/banner_2015.png">
 </a>
 </div> {* class = back_open_campus *}
