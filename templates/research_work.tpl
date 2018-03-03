@@ -6,28 +6,28 @@
 <div id="main_topics">
 <div class="article">
 
-<h1>第4回 優れた成果を出す学生の指導教員の指導法</h1>
+<h1>第5回 学生の可能性を引き出す指導法</h1>
 <div class="intro">
 <p>
 日本学術振興会では毎年、特に優秀な大学院博士後期課程の学生を対象に「日本学術振興会育志賞」が授与されます。
-今回は、2017 年に育志賞を受賞した志甫谷さんについてその指導にあたった藤吉先生にインタビューを行いました。
-優れた研究成果を生む、藤吉先生の指導術に迫りました。
+今回は、2017年度の育志賞候補者である加藤さんについてその指導にあたった横溝先生にインタビューを行いました。
+優れた研究成果を生む、横溝先生の指導術に迫りました。
 </p>
 </div> {* class = intro *}
 
 <div class="interview">
 <img id="interview_img" src="images/ja/research_work/interview.png">
-<a class="interview_link" href="./index.php?lang=ja&mode=g&page_type=research_work4">
+<a class="interview_link" href="./index.php?lang=ja&mode=g&page_type=research_work5">
 <div class="interview_article">
 <div class="interview_text">
 <h3>教員インタビュー</h3>
-<h2>創薬科学研究科 藤吉好則 特任教授</h2>
+<h2>法学研究科 横溝大 教授</h2>
 <p>
-藤吉先生は研究室の自由な風土を重視しており、研究室は一見のんびりしているよう に見えます。しかし、藤吉先生のこの姿勢には、将来研究者として自立する学生育てるための熱い熱い思いがありました。先生の研究指導のこだわりについて聞きました。
+横溝先生は、「研究と教育は両論だ」と語ります。学生の挑戦的なテーマを指導することは、自分自身の研究にもよい刺激を与えているそうです。学生をよく観察し、個性を理解することで、学生の可能性を引き出すことに重点を置く、先生の指導法を取材しました。
 </p>
 </div> {* class = interview_text *}
 <div class="interview_img">
-<img src="images/ja/research_work/banner_fuziyoshi.png">
+<img src="images/ja/research_work/banner_yokomizo.png">
 </div>
 </div> {* class = interview_article *}
 </a>
@@ -37,6 +37,17 @@
 
 <div class="article">
 <h1>バックナンバー</h1>
+
+<div class="backnumber">
+<h2 class="title">#4 優れた成果を出す学生の指導教員の指導法</h2>
+<dl>
+<a class="backnumber_link" href="./index.php?lang=ja&mode=g&page_type=research_work4">
+<dt>インタビュー「学生にとって最適な研究環境で、一人前の研究者を育成すること」</dt>
+<dd>名古屋大学創薬科学研究科※  藤吉好則 教授</dd>
+</a>
+</dl>
+<p id="sup">※育志賞受賞当時(2017年1月)</p>
+</div> {* class = backnumber *}
 
 <div class="backnumber">
 <h2 class="title">#3 親身なコミュニケーションが生んだ「育志賞」</h2>
@@ -50,7 +61,7 @@
 <dd>名古屋大学大学院理学研究科※  伊藤亜実 さん</dd>
 </a>
 </dl>
-<p id="sup">※育志賞受賞当時(2017年1月)</p>
+<p id="sup">※育志賞受賞当時(2016年1月)</p>
 </div> {* class = backnumber *}
 
 <div class="backnumber">
