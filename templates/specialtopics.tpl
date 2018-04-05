@@ -23,12 +23,6 @@
   <dt><a href="./index.php?lang=en&mode=c&id=562">Studium Generale SPRING 2016</a></dt>
   <dd><a href="./index.php?lang=en&mode=c&id=562"><img src="./images/ja/topics_backnumber/studium_generale_banner.png" alt="Studium Generale SPRING 2016"></a></dd>
 
-  <dt><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016">オープンキャンパス2016</a></dt>
-  <dd><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016"><img src="./images/ja/topics_backnumber/OpenCampus2016.png" alt="オープンキャンパス2016"></a></dd>
-
-  <dt><a href="./index.php?lang=ja&mode=g&page_type=research_work">名大の研究指導</a></dt>
-  <dd><a href="./index.php?lang=ja&mode=g&page_type=research_work"><img src="./images/ja/topics_backnumber/banner_researchwork-1.png" alt="名大の研究指導"></a></dd>
-
   <dt><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f">松尾総長 特別講義 名古屋大学で何を学ぶか？</a></dt>
   <dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/148fb8bc7d2589bb03a51ffe4e721cced3608a9f"><img src="./images/ja/topics_backnumber/matsuo_special_lecture.png" alt="松尾総長 特別講義 名古屋大学で何を学ぶか？"></a></dd>
 
@@ -37,9 +31,6 @@
 
   <dt><a href="./index.php?lang=ja&mode=g&page_type=repository">NAGOYA Repositoryで教材・論文を公開中！</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=repository"><img src="./images/ja/topics_backnumber/kawabe_repository.png" alt="NAGOYA Repositoryで教材・論文を公開中！"></a></dd>
-
-  <dt><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2015">オープンキャンパス2015</a></dt>
-  <dd><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2015"><img src="./images/ja/topics_backnumber/open_campus_2015.png" alt="オープンキャンパス2015"></a></dd>
 
   <dt><a href="./index.php?lang=ja&mode=g&page_type=nobel_interview">天野教授特別インタビュー</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=nobel_interview"><img src="./images/ja/topics_backnumber/amano_interview.png" alt="天野教授特別インタビュー"></a></dd>
