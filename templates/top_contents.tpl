@@ -3,12 +3,12 @@
 <img src="./images/common/redline.gif" class="line" alt="">
 
 
-{* 名大の研究指導#4 *}
+{* 名大の研究指導#5 *}
 <div id="special_head">        
     <a href="index.php?lang=ja&mode=g&page_type=research_work">
-        <img src="./images/ja/research_work4.png" alt="名大の研究指導#4" width="694" height="399" >
+        <img src="./images/ja/research_work5.png" alt="名大の研究指導#5" width="694" height="399" >
     </a>
-</div>{* 名大の研究指導#4 end *}
+</div>{* 名大の研究指導#5 end *}
 
   {* Studium Generale fall 2017 *}
   <div id="topics_head">
