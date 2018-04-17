@@ -1,4 +1,4 @@
-<!-- このSiteの特徴開始 -->
+{* このSiteの特徴開始 *}
 <table class="about">
 	<tr><td colspan=2><h1>「名大の授業」</h1></td></tr>
 	<tr><td colspan=2><span class="b">インターネット上への教材の無償公開</span></td></tr>
@@ -28,7 +28,7 @@
 
 <tr height=15><td colspan=2></td></tr>
 
-<!-- 利用について開始 -->
+{* 利用について開始 *}
 	<tr><td width="105" class="center_gray">掲載資料</td>
 	<td class="left_gray"><p>掲載資料は、<span class="b">非営利の教育目的に限って</span>、コピー、配布、翻訳、編集等を含めてご自由にご利用頂けます。</p>
 	<p>「名大の授業」の講義情報のオリジナル、またはそれを改変したものを配布する際は、必ず原著作者のクレジットを明記して下さい。(次項参照)</p>
@@ -49,9 +49,9 @@
 
 <tr height=40><td colspan=2></td></tr>
 
-<!-- スタッフ紹介開始 -->
+{* スタッフ紹介開始 *}
 <tr><td colspan=2><h2>名古屋大学オープンコースウェアプロジェクト</h2></td></tr>
-<tr><td colspan=2 align="right">2017年6月18日</td></tr>
+<tr><td colspan=2 align="right">2018年4月1日</td></tr>
 <tr><td class="center_gray">名古屋大学OCWプロジェクト</br>メンバー</td>
 		<td class="left_gray"><p>
 
@@ -67,44 +67,26 @@ OCW事務室 事務補佐員 小島友香<br>
 
 <tr><td id="ocw-support" class="center">名古屋大学OCWスタッフ</td>
 		<td class="left"><p>
-多元数理科学研究科D2 樋田裕斗<br>
-理学部B4 高市大輔<br>
-情報科学研究科M2 長江悠太郎<br>
-情報学研究科M1 高野佑紀奈<br>
-情報文化学部B3 若園悠聖<br>
+多元数理科学研究科D3 樋田裕斗<br>
+理学研究科M1 高市大輔<br>
+情報学研究科M2 高野佑紀奈<br>
+情報文化学部B4 若園悠聖<br>
 情報文化学部B3 窪田百合<br>
-医学部B3 渡邉聖吾<br>
-法学部B3 藤原知佳<br>
-理学研究科M1 兼山将寿<br>
-工学部B3 隈部岳瑠<br>
-環境学研究科D3 Tirto Soenaryo<br>
-人文学部M1 Luu Ngan Tu Uyen<br>
-環境学研究科M2 篠田明友子<br>
-工学部B4 Stacy Hadiwidjaja<br>
-理学部B4 Sirilalitya Bhagavatula<br>
-工学部B3 森内湧也<br>
-法学部B3 水谷梓<br>
-工学部B4 河合優介<br>
-教育学部B4 福井ゆたか<br>
+工学部B4 隈部岳瑠<br>
+人文学研究科M2 Luu Ngan Tu Uyen<br>
+教育発達科学研究科M1 福井ゆたか<br>
 法学部B4 Teresa Pham<br>
-工学部B3 Mingmin Lee<br>
-工学部B3 Srishti Shinha<br>
-工学部B3 Kim Dongwook<br>
+理学部B4 星龍之介<br>
+工学部B4 Kim Dongwook<br>
 理学研究科M1 中根丈太郎<br>
-工学研究科M2 TAN Zhi Liang<br>
-情報学研究科M1 児玉祐樹<br>
-情報学研究科M1 Aurelio Pinero<br>
-国際言語文化研究科M2 Arun sharma<br>
-農学部B4 金平翔太郎<br>
-工学部2年 坂田悠馬<br>
-工学部3年 白倉大河<br>
-経済学研究科D2 奥村暁弘<br>
-工学部4年 中井沙蘭<br>
-文学研究科D3 鬼頭孝佳<br>
-法学部B3 杉浦万佑子<br>
-法学部B3 菅原京<br>
-法学部B3 佐藤聖菜<br>
-文学部B3 原田真未<br>
+情報学研究科M2 児玉祐樹<br>
+情報学研究科M2 Aurelio Pinero<br>
+工学部4年 白倉大河<br>
+経済学研究科D3 奥村暁弘<br>
+法学部B4 吉原啓太<br>
+法学部B3 相田泰輔<br>
+情報学研究科M2 舟橋紀絵<br>
+工学部B2 竹尾佳紘<br>
 
 </p></td></tr>
 
