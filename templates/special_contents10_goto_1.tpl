@@ -1,7 +1,14 @@
-<div id="research_work5">
-<div id="research_work5_top">
-<img id="top_image" src="images/ja/research_work/kanban_yokomizo.png" alt="第5回 優れた成果を出す学生の指導教員の指導法">
-</div>
+<div id="topics2017_goto">
+<div id="topics2017_goto_top">
+  <div id="topics2017_goto_header" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+    <img id="topics2017_goto_icon" src="images/ja/topics10/top/button_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+  </div>{* id = topics2017-goto-header *}
+
+  <div class="title">
+  Be a TV Director!
+  </div>{* class = title *}
+
+</div>{* id topics2017_goto_top *}
 
 <p id= "intro">
 日本学術振興会では毎年、特に優秀な大学院博士後期課程の学生を対象に「日本学術振興会育志賞」が授与されます。今回は、2017年度の育志賞候補者である加藤さんについてその指導にあたった横溝先生にインタビューを行いました。優れた研究成果を生む、横溝先生の指導術に迫りました。
@@ -81,4 +88,4 @@
 </div>
 
 </div> {* interview end *}
-</div> {* research_work5 end *}
+</div> {* topics2017_goto_1 end *}
