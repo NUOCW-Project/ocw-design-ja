@@ -138,6 +138,9 @@
 {elseif $lang=='ja' && $page_type=='open_campus_2016'}
 <link rel="stylesheet" type="text/css" href="css/open_campus_2016.css">
 
+{elseif $lang=='ja' && $page_type=='open_campus_2017'}
+<link rel="stylesheet" type="text/css" href="css/open_campus_2017.css">
+
 {elseif $lang=='ja' && $page_type=='romeclub'}
 <link rel="stylesheet" type="text/css" href="css/romeclub.css">
 
