@@ -1,5 +1,6 @@
 <img id="open_campus_top" src="images/ja/open_campus_2017/OpenCampus2017-top.png" alt="Open Campus 2017 去る2017年8月、名古屋大学にてオープンキャンパスが開催されました。ここではその模様を、一部紹介します。">
 
+{* JavaScriptを使わず、ラジオボタン＋CSSによりタブを実装 *}
 <div id="tabs">
 <input id="educ" type="radio" name="tab_item" checked>
 <label class="tab_item" for="educ">教育学部</label>
@@ -37,7 +38,6 @@
 <div class="tab_content" id="econ_content">
 <div class="tab_content_description">
 <div class="movie">
-
 <h1>豊かな国のルーツをたどる</h1>
 
 <div class="movie_info">
@@ -50,6 +50,8 @@
 </div>
 
 </div> {* class = movie *}
+
+<div class="movie">
 <h1>データを使って経済を考える</h1>
 
 <div class="movie_info">
@@ -58,7 +60,7 @@
 </div>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270"}
+{embed_video id="3619" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
@@ -69,39 +71,85 @@
 {* 情報学部の中身 *}
 <div class="tab_content" id="info_content">
 <div class="tab_content_description">
-<h1>災害と心のケア(教育学部)</h1>
+<div class="movie">
+<h1>自然情報学科 学科紹介</h1>
 
 <div class="movie_info">
-<p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
-<p>2016 年4 月に熊本で発生した地震を題材に、災害の際の心のケアの仕方を心理学の立場から講義をしてくださいました。</p>
+<p>情報学部・自然情報学科長, 畔上秀幸 教授</p>
+<p>自然情報学科の学科紹介をしていただきました。</p>
 </div>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
+{embed_video id="3757" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
-<h1>災害と心のケア(教育学部)</h1>
+<div class="movie">
+<h1>人間・社会情報学科 学科紹介</h1>
 
 <div class="movie_info">
-<p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
-<p>2016 年4 月に熊本で発生した地震を題材に、災害の際の心のケアの仕方を心理学の立場から講義をしてくださいました。</p>
+<p>情報学部・人間・社会情報学科長, 中村登志哉 教授</p>
+<p>人間・社会情報学科の学科紹介をしていただきました。</p>
 </div>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
+{embed_video id="3756" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
-<h1>災害と心のケア(教育学部)</h1>
+
+<div class="movie">
+<h1>コンピュータ科学科 学科紹介</h1>
 
 <div class="movie_info">
-<p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
-<p>2016 年4 月に熊本で発生した地震を題材に、災害の際の心のケアの仕方を心理学の立場から講義をしてくださいました。</p>
+<p>情報学部・コンピュータ科学科長, 間瀬健二 教授</p>
+<p>コンピュータ科学科の学科紹介をしていただきました。</p>
 </div>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
+{embed_video id="3755" width="480" height="270"}
+</div>
+
+</div> {* class = movie *}
+
+<div class="movie">
+<h1>意外と身近な組合せ最適化</h1>
+
+<div class="movie_info">
+<p>情報学部・自然情報学科, 柳浦睦憲 教授</p>
+<p>組合せ最適化について長方形の例を使いながら分かりやすい講義をしてくださいました。</p>
+</div>
+
+<div class="thumbnail">
+{embed_video id="3753" width="480" height="270"}
+</div>
+
+</div> {* class = movie *}
+
+<div class="movie">
+<h1>心と社会ーそれは情報でできている</h1>
+
+<div class="movie_info">
+<p>情報学部・人間・社会情報学科, 唐沢穣 教授</p>
+<p>大学での講義のレベルそのままで社会心理学の講義をしてくださいました。</p>
+</div>
+
+<div class="thumbnail">
+{embed_video id="3970" width="480" height="270"}
+</div>
+
+</div> {* class = movie *}
+
+<div class="movie">
+<h1>やさしいコンピューター科学入門</h1>
+
+<div class="movie_info">
+<p>コンピュータ科学科, 関浩之 教授</p>
+<p>現在のIT 技術と、それを支えるコンピューター科学について講義をしてくださいました。</p>
+</div>
+
+<div class="thumbnail">
+{embed_video id="3752" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
@@ -111,39 +159,42 @@
 {* 理学部の中身 *}
 <div class="tab_content" id="scie_content">
 <div class="tab_content_description">
-<h1>災害と心のケア(教育学部)</h1>
+
+<div class="movie">
+<h1>有機化学研究室ラボツアー</h1>
 
 <div class="movie_info">
-<p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
-<p>2016 年4 月に熊本で発生した地震を題材に、災害の際の心のケアの仕方を心理学の立場から講義をしてくださいました。</p>
+<p>有機化学研究室のラボツアーをしていただきました。</p>
 </div>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
+{embed_video id="3094" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
-<h1>災害と心のケア(教育学部)</h1>
+
+<div class="movie">
+<h1>光物理化学研究室ラボツアー</h1>
 
 <div class="movie_info">
-<p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
-<p>2016 年4 月に熊本で発生した地震を題材に、災害の際の心のケアの仕方を心理学の立場から講義をしてくださいました。</p>
+<p>光物理化学研究室のラボツアーをしていただきました。</p>
 </div>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
+{embed_video id="3746" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
-<h1>災害と心のケア(教育学部)</h1>
+
+<div class="movie">
+<h1>分子修飾制御学グループラボツアー</h1>
 
 <div class="movie_info">
-<p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
-<p>2016 年4 月に熊本で発生した地震を題材に、災害の際の心のケアの仕方を心理学の立場から講義をしてくださいました。</p>
+<p>分子修飾制御学グループのラボツアーをしていただきました。</p>
 </div>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
+{embed_video id="3692" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
@@ -153,41 +204,69 @@
 {* 医学部(保)の中身 *}
 <div class="tab_content" id="medi_content">
 <div class="tab_content_description">
-<h1>災害と心のケア(教育学部)</h1>
 
-<div class="movie_info">
-<p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
-<p>2016 年4 月に熊本で発生した地震を題材に、災害の際の心のケアの仕方を心理学の立場から講義をしてくださいました。</p>
-</div>
+<div class="movie">
+<h1>教育の特色</h1>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
+{embed_video id="3731" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
-<h1>災害と心のケア(教育学部)</h1>
 
-<div class="movie_info">
-<p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
-<p>2016 年4 月に熊本で発生した地震を題材に、災害の際の心のケアの仕方を心理学の立場から講義をしてくださいました。</p>
-</div>
+<div class="movie">
+<h1>母子看護学実習室</h1>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
+{embed_video id="3747" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
-<h1>災害と心のケア(教育学部)</h1>
 
-<div class="movie_info">
-<p>教育学部・教育科学発達科学研究科, 窪田由紀 教授</p>
-<p>2016 年4 月に熊本で発生した地震を題材に、災害の際の心のケアの仕方を心理学の立場から講義をしてくださいました。</p>
-</div>
+<div class="movie">
+<h1>基礎看護学実習室</h1>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270" image="images/ja/open_campus_2016/2.jpg"}
+{embed_video id="3703" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
+
+<div class="movie">
+<h1>臨床在宅看護学実習室</h1>
+
+<div class="thumbnail">
+{embed_video id="3701" width="480" height="270"}
+</div>
+
+</div> {* class = movie *}
+
+<div class="movie">
+<h1>卒業後の進路</h1>
+
+<div class="thumbnail">
+{embed_video id="3918" width="480" height="270"}
+</div>
+
+</div> {* class = movie *}
+
+<div class="movie">
+<h1>助産師コース</h1>
+
+<div class="thumbnail">
+{embed_video id="3094" width="480" height="270"}
+</div>
+
+</div> {* class = movie *}
+
+<div class="movie">
+<h1>保健師コース</h1>
+
+<div class="thumbnail">
+{embed_video id="3704" width="480" height="270"}
+</div>
+
+</div> {* class = movie *}
+
 </div>
 </div>
