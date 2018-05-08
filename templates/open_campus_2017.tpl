@@ -4,19 +4,8 @@
 <div class="tabs">
 <input id="educ" type="radio" name="tab_item" checked>
 <label class="tab_item" for="educ">教育学部</label>
-<input id="econ" type="radio" name="tab_item">
-<label class="tab_item" for="econ">経済学部</label>
-<input id="info" type="radio" name="tab_item">
-<label class="tab_item" for="info">情報学部</label>
-<input id="scie" type="radio" name="tab_item">
-<label class="tab_item" for="scie">理学部</label>
-<input id="medi" type="radio" name="tab_item">
-<label class="tab_item" for="medi">医学部(保)</label>
-</div> {* class tabs *}
-
 {* 教育学部の中身 *}
 <div class="tab_content" id="educ_content">
-<div class="tab_content_description">
 <div class="movie">
 
 <h1>記憶を促進するには？</h1>
@@ -32,11 +21,11 @@
 
 </div> {* class = movie *}
 </div>
-</div>
 
+<input id="econ" type="radio" name="tab_item">
+<label class="tab_item" for="econ">経済学部</label>
 {* 経済学部の中身 *}
 <div class="tab_content" id="econ_content">
-<div class="tab_content_description">
 <div class="movie">
 <h1>豊かな国のルーツをたどる</h1>
 
@@ -65,12 +54,11 @@
 
 </div> {* class = movie *}
 </div>
-</div>
 
-
+<input id="info" type="radio" name="tab_item">
+<label class="tab_item" for="info">情報学部</label>
 {* 情報学部の中身 *}
 <div class="tab_content" id="info_content">
-<div class="tab_content_description">
 <div class="movie">
 <h1>自然情報学科 学科紹介</h1>
 
@@ -154,11 +142,12 @@
 
 </div> {* class = movie *}
 </div>
-</div>
 
+
+<input id="scie" type="radio" name="tab_item">
+<label class="tab_item" for="scie">理学部</label>
 {* 理学部の中身 *}
 <div class="tab_content" id="scie_content">
-<div class="tab_content_description">
 
 <div class="movie">
 <h1>有機化学研究室ラボツアー</h1>
@@ -185,13 +174,13 @@
 </div>
 
 </div> {* class = movie *}
-
-</div>
 </div>
 
+
+<input id="medi" type="radio" name="tab_item">
+<label class="tab_item" for="medi">医学部(保)</label>
 {* 医学部(保)の中身 *}
 <div class="tab_content" id="medi_content">
-<div class="tab_content_description">
 <div class="movie">
 <h1>臨床在宅看護学実習室</h1>
 
@@ -200,6 +189,7 @@
 </div>
 
 </div> {* class = movie *}
+</div>
 
-</div>
-</div>
+
+</div> {* class tabs *}
