@@ -1,7 +1,7 @@
 <img id="open_campus_top" src="images/ja/open_campus_2017/OpenCampus2017-top.png" alt="Open Campus 2017 去る2017年8月、名古屋大学にてオープンキャンパスが開催されました。ここではその模様を、一部紹介します。">
 
 {* JavaScriptを使わず、ラジオボタン＋CSSによりタブを実装 *}
-<div id="tabs">
+<div class="tabs">
 <input id="educ" type="radio" name="tab_item" checked>
 <label class="tab_item" for="educ">教育学部</label>
 <input id="econ" type="radio" name="tab_item">
@@ -12,7 +12,7 @@
 <label class="tab_item" for="scie">理学部</label>
 <input id="medi" type="radio" name="tab_item">
 <label class="tab_item" for="medi">医学部(保)</label>
-</div> {* id tabs *}
+</div> {* class tabs *}
 
 {* 教育学部の中身 *}
 <div class="tab_content" id="educ_content">
@@ -186,84 +186,17 @@
 
 </div> {* class = movie *}
 
-<div class="movie">
-<h1>分子修飾制御学グループラボツアー</h1>
-
-<div class="movie_info">
-<p>分子修飾制御学グループのラボツアーをしていただきました。</p>
-</div>
-
-<div class="thumbnail">
-{embed_video id="3692" width="480" height="270"}
-</div>
-
-</div> {* class = movie *}
 </div>
 </div>
 
 {* 医学部(保)の中身 *}
 <div class="tab_content" id="medi_content">
 <div class="tab_content_description">
-
-<div class="movie">
-<h1>教育の特色</h1>
-
-<div class="thumbnail">
-{embed_video id="3731" width="480" height="270"}
-</div>
-
-</div> {* class = movie *}
-
-<div class="movie">
-<h1>母子看護学実習室</h1>
-
-<div class="thumbnail">
-{embed_video id="3747" width="480" height="270"}
-</div>
-
-</div> {* class = movie *}
-
-<div class="movie">
-<h1>基礎看護学実習室</h1>
-
-<div class="thumbnail">
-{embed_video id="3703" width="480" height="270"}
-</div>
-
-</div> {* class = movie *}
-
 <div class="movie">
 <h1>臨床在宅看護学実習室</h1>
 
 <div class="thumbnail">
 {embed_video id="3701" width="480" height="270"}
-</div>
-
-</div> {* class = movie *}
-
-<div class="movie">
-<h1>卒業後の進路</h1>
-
-<div class="thumbnail">
-{embed_video id="3918" width="480" height="270"}
-</div>
-
-</div> {* class = movie *}
-
-<div class="movie">
-<h1>助産師コース</h1>
-
-<div class="thumbnail">
-{embed_video id="3094" width="480" height="270"}
-</div>
-
-</div> {* class = movie *}
-
-<div class="movie">
-<h1>保健師コース</h1>
-
-<div class="thumbnail">
-{embed_video id="3704" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
