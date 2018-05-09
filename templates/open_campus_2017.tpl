@@ -123,11 +123,11 @@
 
 
 <div class="movie">
-<h1>やさしいコンピューター科学入門</h1>
+<h1>やさしいコンピュータ科学入門</h1>
 
 <div class="movie_info">
 <p>情報学部・コンピュータ科学科, 関浩之 教授</p>
-<p>現在のIT 技術と、それを支えるコンピューター科学について講義をしてくださいました。</p>
+<p>現在のIT 技術と、それを支えるコンピュータ科学について講義をしてくださいました。</p>
 </div>
 
 <div class="thumbnail">
@@ -171,6 +171,10 @@
 <div class="tab_content" id="medi_content">
 <div class="movie">
 <h1>臨床在宅看護学実習室</h1>
+
+<div class="movie_info">
+<p>実演を交えた実習室の見学会をしていただきました。</p>
+</div>
 
 <div class="thumbnail">
 {embed_video id="3701" width="480" height="270"}
