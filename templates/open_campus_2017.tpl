@@ -121,19 +121,6 @@
 
 </div> {* class = movie *}
 
-<div class="movie">
-<h1>心と社会ーそれは情報でできている</h1>
-
-<div class="movie_info">
-<p>情報学部・人間・社会情報学科, 唐沢穣 教授</p>
-<p>大学での講義のレベルそのままで社会心理学の講義をしてくださいました。</p>
-</div>
-
-<div class="thumbnail">
-{embed_video id="3970" width="480" height="270"}
-</div>
-
-</div> {* class = movie *}
 
 <div class="movie">
 <h1>やさしいコンピューター科学入門</h1>
@@ -161,7 +148,7 @@
 </div>
 
 <div class="thumbnail">
-{embed_video id="3094" width="480" height="270"}
+{embed_video id="4094" width="480" height="270"}
 </div>
 
 </div> {* class = movie *}
