@@ -3,19 +3,19 @@
 <img src="./images/common/redline.gif" class="line" alt="">
 
 
-{* 名大の研究指導#5 *}
-<div id="special_head">        
-    <a href="index.php?lang=ja&mode=g&page_type=research_work">
-        <img src="./images/ja/research_work5.png" alt="名大の研究指導#5" width="694" height="399" >
-    </a>
-</div>{* 名大の研究指導#5 end *}
+{* オープンキャンパス2017 *}
+<div id="special_head">
+  <a href="index.php?lang=ja&mode=g&page_type=open_campus_2017">
+    <img src="./images/ja/OpenCampus2017-top.png" alt="オープンキャンパス2017" width="694" height="399" >
+  </a>
+</div>{* オープンキャンパス2017 end *}
 
-  {* Studium Generale fall 2017 *}
-  <div id="topics_head">
-        <a href="index.php?lang=en&mode=c&id=648&page_type=index">
-          <img src="./images/ja/Studium_Generale_fall_2017_ja.svg" alt="Studium Generale fall 2017" width="694" height="399" >
-    </a>
-  </div>{* Studium Generale fall 2017 end *}
+{* 名大の研究指導#5 *}
+<div id="topics_head">
+  <a href="index.php?lang=ja&mode=g&page_type=research_work">
+      <img src="./images/ja/research_work5.png" alt="名大の研究指導#5" width="694" height="399" >
+  </a>
+</div>{* 名大の研究指導#5 end *}
 
 <div class="inline">
 
@@ -95,7 +95,7 @@
 
 	{else}
 		<br>
-			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>		
+			<a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type=all&amp;sort=instructor#instructor{$v.instructor_id}">{$v.instructor_name}&nbsp;{$v.instructor_position}</a>
 	{/if}
 
 	{assign var='before' value=$v.course_id}
