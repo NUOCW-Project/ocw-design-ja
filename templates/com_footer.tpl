@@ -28,7 +28,7 @@
         {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
         </a></li>
   {elseif $abbr=="open_cam"}
-    <li><a href="./index.php?lang=ja&mode=g&page_type=open_campus_2016">
+    <li><a href="./index.php?lang=ja&mode=g&page_type=open_campus">
         {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
         </a></li>
   {elseif $abbr=="researchwork"}
