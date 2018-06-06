@@ -5,7 +5,8 @@
     </div>{* id = topics2017-goto-header *}
 
     <div class="title">
-      Be a TV Director!
+      メディア研究・ビデオ制作を通した<br>
+      メディアリテラシーの獲得
     </div>{* class = title *}
 
   </div>{* id topics2017_goto_top *}
