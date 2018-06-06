@@ -1,84 +1,215 @@
-<div id="research_work5">
-<div id="research_work5_top">
-<img id="top_image" src="images/ja/research_work/kanban_yokomizo.png" alt="第5回 優れた成果を出す学生の指導教員の指導法">
+<div id="topics2017">
+
+<noscript>
+<p>名大の授業 (NUOCW) では, Javascript を ON にして当サイトを閲覧されることを想定しています.</p>
+</noscript>
+
+<div id="topics2017_top" alt="TOPICS NO.10 基礎セミナー特集">
+<div class="topics10-header-pic" id="topics10-header-red" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-red" src="images/ja/topics10/top/header_icon_red.svg" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
+</div>{* id = topics10-header-red *}
+
+<div class="topics10-header-pic" id="topics10-header-yellow" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-yellow" src="images/ja/topics10/top/header_icon_yellow.svg" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
+</div>{* id = topics10-header-yellow *}
+
+<div class="topics10-header-pic" id="topics10-header-green" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-green" src="images/ja/topics10/top/header_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+</div>{* id = topics10-header-green *}
+
+<div class="topics10-header-pic" id="topics10-header-blue" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-blue" src="images/ja/topics10/top/header_icon_blue.svg" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+</div>{* id = topics10-header-blue *}
+
+<div class="topics10-header-pic" id="topics10-header-violet" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-violet" src="images/ja/topics10/top/header_icon_violet.svg" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
+</div>{* id = topics10-header-violet *}
+
+<div id="topics2017_top_title">
+<div id="sub_subtitle">
+名大の授業
 </div>
-
-<p id= "intro">
-日本学術振興会では毎年、特に優秀な大学院博士後期課程の学生を対象に「日本学術振興会育志賞」が授与されます。今回は、2017年度の育志賞候補者である加藤さんについてその指導にあたった横溝先生にインタビューを行いました。優れた研究成果を生む、横溝先生の指導術に迫りました。
-</p> {* intro end *}
-
-<div id="interview">
-
-<h1 class="q_title">
-横溝先生インタビュー
-</h1>
-
-<div class="q_a">
-
-<h2 class="qq">
-国際色豊かな研究室
-</h2>
-
-<img id="picture_yokomizo_1" src="images/ja/research_work/yokomizo_interview.png">
-
-<p class="answer">
-　優れた成果を出す学生に対して，指導する教員はどのような研究指導をしているのか。この素朴な疑問を明らかにするため，法学研究科の横溝先生の研究室を訪れた。横溝先生の指導生で博士後期課程3年の加藤さんは、29年度の日本学術振興会育志賞候補者として選ばれている。<br>
-　研究室は国際私法と呼ばれる、私人間の国際的な法律関係を定める分野を専門とする。たとえば、日本の不動産を所有する外国人が死亡した際に、財産の相続は日本の法律と外国の法律のどちらに基づいて行われるかなどの問題を扱う分野である。<br>
-　こうした分野であるため、20名の大学院生の18人が留学生である点が特徴だ。特に、人材育成奨学計画で派遣されるカンボジアやウズベキスタンなどからの若手行政官を、修士学生として指導している。法学分野では5人前後の院生指導が多い点を考えると、突出して多くの学生を抱えている。そのため、横溝先生は学期中に英語ゼミと日本語ゼミの2つを毎週開講すると共に、数人での読書会、1対1での論文指導など、平日のほとんどの時間を研究指導に費やすほど多忙となっている。言うまでもなく、これらに加えて授業、学内業務、自身の研究などがある。
-</p>
+<div id="subtitle">
+TOPICS No.10
 </div>
-
-<div class="q_a">
-
-<h2 class="qq">
-目標とスケジュールを明確に指示
-</h2>
-
-<p class="answer">
-　法学分野の研究指導は、長らく自由放任というスタイルであった。横溝先生がこれを見直すきっかけは、多くの留学生を指導しなければならない状況であった。学習スタイルも受けてきた教育経験も異なる各国の留学生の指導では、修士論文の完成から逆算して必要な課題を指示する方が効果的であると気づいた。<br>
-　特に、若手行政官には問題発見、分析、政策提言という一連のサイクルを一定期間内に行い、広い意味の研究能力を身につけてもらう必要がある。そのためにも、常に最終目標から逆算したスケジュールを意識し、教員から積極的に課題を指示しなければならない。この経験から、研究者志望の日本人学生にも同様のアプローチが有効なのではと考えたようだ。<br>
-　もちろん、研究者志望の学生は、要求される到達目標も学生の学習ニーズも大きく異なる。しかし、自由放任ではなく教員から課題や期限を示すようにしたことは、優れた成果を出す1つの要因となっているようだ。
-</p>
+<div id="title">
+基礎セミナー特集
 </div>
+</div>{* id = topics2017_top_title *}
 
-<div class="q_a">
 
-<h2 class="qq">
-学生に合わせた厳しい要求を出す
-</h2>
+</div>{* id = topics2017_top *}
 
-<p class="answer">
-　目標管理やスケジュール管理自体は、多くの教員が行っているだろう。しかし、横溝先生の特徴はその中身にある。国際会議での発表、通常修士課程では取り組まないような挑戦的な研究テーマなど、学生の話を聞いてよく観察し、その学生が努力すればできることを目標として設定する。また、厳しい要求を出すだけでなく、その研究の魅力や面白さを伝えて動機づけ、目標に向けた準備に早くから取り組む計画も示している。<br>
-　一方で、最近では学生の方も横溝先生と合う学生が多くなってきたようだ。すなわち、堅実なテーマではなく挑戦的な研究テーマに取り組みたいので、横溝先生の指導を受けたいという学生が増えてきた。ただし、国際私法の分野はこうした挑戦的研究に取り組みやすい分野だという要因もある。
-</p>
-</div>
+<div class="topics2017_script">
+<img src="images/ja/topics10/top/small_title.svg" alt="What is 基礎セミナー?">
+<div class="script">
+みなさんは「基礎セミナー」という科目を聞いたことがありますか? 名古屋大学のシラバスによると、基礎セミナーとは「多面的な知的トレーニングによって、コモンベーシックとしての読み、書き、話す能力のかん養を図るとともに、真理探究の方法と面白さを学ぶ科目」とありますが、今一つピンときませんよね? 今回のTOPICSでは、そんな「よくわからない」基礎セミナーについて取材しました。記事を読んで、基礎セミナーの雰囲気をつかみましょう!
+</div>{* class = script *}
+</div>{* class = topics2017_script *}
 
-<div class="q_a">
 
-<h2 class="qq">
-学生の話を聞く
-</h2>
 
-<p class="answer">
-　こうした経験を経て、横溝先生が考える良い研究指導は、「その時に適切な課題を適切に示す」となっている。そのためには、対象の学生に合わせた課題がどのようなものかを把握し、それを学生が納得できる言葉で伝える必要がある。その前提として、学生をよく理解する必要がある。<br>
-　研究指導は主に教員が話をすると思われがちだが、横溝先生は学生の話をよく聞くようにしている。その中で、教員や他の学生との話し方、文献を読む際にどの程度理解しているか、研究に取り組む動機の強さなどを把握し、学生の個性を理解する。この個性に合わせて適切な課題を適切に示すため、挑戦的な課題が学生の高い動機づけにつながっている。<br>
-　なお、横溝先生はゼミ旅行のような研究指導以外で学生と接する機会をほとんど設けていない。季節ごとの歓迎会や送別会などは行うものの、学生理解を研究指導のみを通して行っていることからも、いかに学生の話をよく聞いて理解しているかがうかがえる。
-</p>
-</div>
 
-<div class="q_a">
+<div class="topics2017_link" id="topics2017-red">
 
-<h2 class="qq">
-学生には可能性がある
-</h2>
+<div class="topics2017_button">
+<div class="topics10-pic" id="topics10-pic-red" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
+</div>{* id = topics10-pic-red *}
+<img class="topics10-icon" id="topics10-icon-red" src="images/ja/topics10/top/button_icon_red.svg" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
 
-<img id="picture_yokomizo_2" src="images/ja/research_work/yokomizo_interview_2.png">
+<div class="title">
+What is Counseling?
+</div>{* class = title *}
 
-<p class="answer">
-　このような指導方針の背景には、学生の可能性を低く見積もらないという考え方があるようだ。自分の学生時代に「あの学生はダメだ」のように、教員が早い段階から学生を見限る場面に接し、強い違和感を持っていたという。そうした経験もあり、学生がうまく成果を出せないのは、指導が悪いためだと考えるようにしている。指導の工夫をするうちに、指導側の教育能力も高まるという実感も得ているようだ。<br>
-　横溝先生は、「研究と教育は両輪だ」という。学生の挑戦的なテーマを指導することは楽しい上に、自分自身の知的刺激にもなる。学生の可能性を低く見積もらないという考え方は、後進の教員にも引き継いでもらいたい考え方だと横溝先生は語った。
-</p>
-</div>
+<div class="subtitle">
+ピア・カウンセリング体験を通して<br>
+他者理解及び対人援助の基礎を理解する (杉岡正典先生)
+</div>{* class = subtitle *}
+</div>{* class = topics2017_button *}
 
-</div> {* interview end *}
-</div> {* research_work5 end *}
+<div class="topics2017_article">
+<div class="script">
+　「ピア・カウンセリング」という言葉について、みなさんはご存知でしょうか? 「ピア・カウンセリング」とは、同じ仲間として他者の話を聞き、他者を理解して行くための援助法のことです。グループワークやロールプレイを通じて「ピア・カウンセリング」に触れてみる、2016年度後期開講の基礎セミナー「ピア・カウンセリング」(担当: 杉岡正典先生) を取材しました。
+</div>{* class = script *}
+
+<ul class="link">
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">授業内容のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
+</ul>{* class = link *}
+</div>{* class = topics2017_article *}
+
+</div>{* class = topics2017_link *}
+
+
+
+<div class="topics2017_link" id="topics2017-yellow">
+
+<div class="topics2017_button">
+<div class="topics10-pic" id="topics10-pic-yellow" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
+</div>{* id = topics10-pic-yellow *}
+<img class="topics10-icon" id="topics10-icon-yellow" src="images/ja/topics10/top/button_icon_yellow.svg" alt="How to Write Papers. レポート作成と口頭発表の技術 (柳原光芳先生)">
+
+<div class="title">
+How to Write Papers.
+</div>{* class = title *}
+
+<div class="subtitle">
+レポート作成と口頭発表の技術 (柳原光芳先生)
+</div>{* class = subtitle *}
+</div>{* class = topics2017_button *}
+
+<div class="topics2017_article">
+<div class="script">
+　大学の授業では、しばしば授業で学んだことについてレポートにまとめたり、発表をしたりします。誰もがその時に、「どう工夫をすれば相手にうまく伝わるだろう?」と思うことでしょう。レポート作成や口頭発表を実際に行い、その内容や工夫等について皆で討論しながら技術を身に着けていく、2016年後期開講の基礎セミナー「レポート作成と口頭発表の技術」(担当: 柳原光芳先生) を取材しました。
+</div>{* class = script *}
+
+<ul class="link">
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">授業内容のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">先生へのインタビューのページへ</a></li>
+</ul>{* class = link *}
+</div>{* class = topics2017_article *}
+
+</div>{* class = topics2017_link *}
+
+
+
+<div class="topics2017_link" id="topics2017-green">
+<div class="topics2017_button">
+<div class="topics10-pic" id="topics10-pic-green" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+</div>{* id = topics10-pic-green *}
+<img class="topics10-icon" id="topics10-icon-green" src="images/ja/topics10/top/button_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+
+<div class="title">
+Be a TV Director!
+</div>{* class = title *}
+
+<div class="subtitle">
+メディア研究・ビデオ制作を通した<br>
+メディアリテラシーの獲得 (後藤明史先生)
+</div>{* class = subtitle *}
+</div>{* class = topics2017_button *}
+
+<div class="topics2017_article">
+<div class="script">
+　「メディアリテラシー」という言葉をご存知でしょうか? インターネットやテレビ、新聞などのメディアが伝える情報を理解し、見極め、使いこなす能力のことを「メディアリテラシー」と呼びます。実際に番組を制作することでこれらの獲得を目指す、2016年度後期開講の基礎セミナー「メディア研究・ビデオ制作を通したメディアリテラシーの獲得」(担当: 後藤明史先生) を取材しました。
+</div>{* class = script *}
+
+<ul class="link">
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「OBによる講演会と番組製作に向けた話し合い 1」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「番組制作に向けた話し合い 2」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「番組収録」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">先生へのインタビューのページへ</a></li>
+</ul>{* class = link *}
+</div>{* class = topics2017_article *}
+
+</div>{* class = topics2017_link *}
+
+
+
+<div class="topics2017_link" id="topics2017-blue">
+<div class="topics2017_button">
+<div class="topics10-pic" id="topics10-pic-blue" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+</div>{* id = topics10-pic-blue *}
+<img class="topics10-icon" id="topics10-icon-blue" src="images/ja/topics10/top/button_icon_blue.svg" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+
+<div class="title">
+Letʼs Analize Aminals!
+</div>{* class = title *}
+
+<div class="subtitle">
+細胞を観る、記載する、そして伝える (宮田卓樹先生)
+</div>{* class = subtitle *}
+</div>{* class = topics2017_button *}
+
+<div class="topics2017_article">
+<div class="script">
+　学期後期、医学部医学科の1年生向けに基礎セミナーB「細胞を観る、記載する、そして伝える」(担当: 同学部、宮田卓樹先生) が開講されました。この講義では、様々な生体材料の「観察」を通して知識を深め、それをもとに発表を行うという、座学とは別な実践的な形式がとられています。学生たちは不慣れな解剖に苦戦しつつも、工夫を凝らしながら意欲的に取り組み、また成果についても活発な議論を交わし合いました。
+</div>{* class = script *}
+
+<ul class="link">
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「コオロギの組織観察」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「マウス胎仔から採取した器官の観察・組織片の培養と観察」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">先生へのインタビューのページへ</a></li>
+</ul>{* class = link *}
+</div>{* class = topics2017_article *}
+
+</div>{* class = topics2017_link *}
+
+
+
+<div class="topics2017_link" id="topics2017-violet">
+<div class="topics2017_button">
+<div class="topics10-pic" id="topics10-pic-violet" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
+</div>{* id = topics10-pic-violet *}
+<img class="topics10-icon" id="topics10-icon-violet" src="images/ja/topics10/top/button_icon_violet.svg" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
+
+<div class="title">
+Welcome to Ancient Time!
+</div>{* class = title *}
+
+<div class="subtitle">
+「考古学入門」～考古学に触れる～ (梶原義実先生)
+</div>{* class = subtitle *}
+</div>{* class = topics2017_button *}
+
+<div class="topics2017_article">
+<div class="script">
+　考古学といえば、マスコミにもよく取り上げられ馴染み深い学問ですが、現場ではどのようなことが行われているのでしょうか? フィールドワークや博物館見学を通じて考古学に触れてみる、2016年後期開講の基礎セミナー「考古学入門」(担当: 梶原義実先生) を取材しました。
+</div>{* class = script *}
+
+<ul class="link">
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「測量実習」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「名古屋大学の遺跡を知る」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「報告会」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">先生へのインタビューのページへ</a></li>
+</ul>{* class = link *}
+</div>{* class = topics2017_article *}
+
+</div>{* class = topics2017_link *}
+
+
+</div> {* id = topics2017 *}
