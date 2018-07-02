@@ -95,11 +95,11 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/9chem.css">
 
-{elseif $lang=='ja' && $page_type=='topics2017'||$page_type=='topics2017_goto_2'}
+{elseif $lang=='ja' && $page_type=='topics2017'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/10.css">
 
-{elseif $lang=='ja' && $page_type=='topics2017_goto_1'||$page_type=='topics2017_goto_3'||$page_type=='topics2017_goto_4'||$page_type=='topics2017_goto_5'}
+{elseif $lang=='ja' && $page_type=='topics2017_goto_1'||$page_type=='topics2017_goto_2'||$page_type=='topics2017_goto_3'||$page_type=='topics2017_goto_4'||$page_type=='topics2017_goto_5'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/10_goto.css">
 
@@ -193,7 +193,7 @@
   <script type="text/javascript" src="./js/noDisplay.js"></script>
 {elseif $lang=='ja' && $page_type=='topics2016'}
   <script type="text/javascript" src="./js/topics9.js"></script>
-{elseif $lang=='ja' && $page_type=='topics2017'||$page_type=='topics2017_goto_2'}
+{elseif $lang=='ja' && $page_type=='topics2017'}
   <script type="text/javascript" src="./js/topics10.js"></script>
 {elseif $lang=='ja' && $page_type=='lab_intro'}
   <script type="text/javascript" src="./js/lab_intro.js"></script>
