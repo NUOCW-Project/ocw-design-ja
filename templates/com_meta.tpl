@@ -103,6 +103,10 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/10_goto.css">
 
+{elseif $lang=='ja' && $page_type=='topics2017_kajiwara_1'||$page_type=='topics2017_kajiwara_2'||$page_type=='topics2017_kajiwara_3'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/10_kajiwara.css">
+
 {elseif $lang=='ja' && $page_type=='topics2017_miyata_1'||$page_type=='topics2017_miyata_2'||$page_type=='topics2017_miyata_3'||$page_type=='topics2017_miyata_4'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/10_miyata.css">
