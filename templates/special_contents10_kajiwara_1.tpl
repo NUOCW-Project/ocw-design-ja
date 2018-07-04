@@ -1,72 +1,96 @@
-<div id="topics2017_goto">
-  <div id="topics2017_goto_top">
-    <div id="topics2017_goto_header" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
-      <img id="topics2017_goto_icon" src="images/ja/topics10/top/header_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+<div id="topics2017_kajiwara">
+  <div id="topics2017_kajiwara_top">
+    <div id="topics2017_kajiwara_header" alt="Welcome to Ancient Time!「考古学入門」～考古学に触れる～ (梶原義実先生)">
+      <img id="topics2017_kajiwara_icon" src="images/ja/topics10/top/header_icon_violet.svg" alt="Welcome to Ancient Time!「考古学入門」～考古学に触れる～ (梶原義実先生)">
 
       <div class="title">
-        メディア研究・ビデオ制作を通した<br>
-        メディアリテラシーの獲得
+        「考古学入門」～考古学に触れる～
       </div>{* class = title *}
 
-    </div>{* id = topics2017-goto-header *}
+    </div>{* id = topics2017-kajiwara-header *}
 
-  </div>{* id topics2017_goto_top *}
+  </div>{* id topics2017_kajiwara_top *}
 
-  <div id="goto_main">
+  <div id="kajiwara_main">
 
     <h1 class="subtitle">
-      <img class="subtitle_icon" src="images/ja/topics10/goto/goto_headline_icon1.svg" alt="・">
-      OBによる講演会と番組制作に向けた話し合い1
+      <img class="subtitle_icon" src="images/ja/topics10/kajiwara/kajiwara_headline_icon1.svg" alt="・">
+      測量実習
     </h1>
 
     <div class="script">
-      かつて、名大の科目履修生で、現在、週刊朝日で記者として活躍されている大塚さんによる講演会が行われました。週刊誌の記者としての経験をもとに、メディアとどう向き合うべきかに関してお話されました。学生たちは、大塚さんのお話に真剣に耳を傾け、時には質問をするなどメディアへの高い関心が感じられました。
+      名大生の憩いの場、第一グリーンベルトで測量実習を行いました。工事現場などでお馴染みの「測量」ですが、考古学の世界ではどのようなことをするのでしょうか?
     </div>
 
-    <img class="image" src="images/ja/topics10/goto/goto_pic_1.jpg">
-    <div class="image">熱心に大塚さんのお話に耳を傾ける学生たち</div>
+    <img class="image" src="images/ja/topics10/kajiwara/kajiwara_pic_1.jpg">
+
+    <img class="image" src="images/ja/topics10/kajiwara/kajiwara_pic_2.jpg">
 
     <div class="script">
-      講演会終了後は、番組制作に向けた話し合いが行われました。まず、学生たちは、1 人3 つずつ自分がやってみたい面白そうな番組テーマ案を挙げました。ただし、このとき先生は、テレビ局の資金力、取材力をもってしてもかなわないような趣向を凝らしたテーマ設定を求めました。学生からは、「下宿にはどれくらいお金がかかるか」、「名大生の恋愛事情」、「名大生はどこで勉強をしているのか」などのテーマ案が挙げられました。
+      考古学の測量では、実際の遺跡の様子を紙面上に写す作業を行います。紙と鉛筆、ロープ、ポール、専用の器具を用いて、相似の原理で測量を行いました。
     </div>
 
-    <img class="image" src="images/ja/topics10/goto/goto_pic_2.jpg">
-    <div class="image">学生たちに、番組テーマ設定のアドバイスを送る後藤先生</div>
+    <img class="image" src="images/ja/topics10/kajiwara/kajiwara_pic_3.jpg">
 
     <div class="script">
-      最後の10 分は、学生たちで輪になって、テーマ設定に関する話し合いが行われました。学生たちは、お互いに言いたいことが言いやすいアットホームな雰囲気の中で、真剣かつ楽しく話し合いをしていました。
+      数メートル毎に打点し、紙面上に構造物を描いていきます。
     </div>
 
-    <img class="image" src="images/ja/topics10/goto/goto_pic_3.jpg">
-    <div class="image">番組テーマ設定について、輪になって話し合う学生たち</div>
+    <img class="image" src="images/ja/topics10/kajiwara/kajiwara_pic_4.jpg">
+
+    <div class="script">
+      点と点を滑らかに結び、完成です。完成した資料は調査結果の分析で大きな役割を果たします。
+    </div>
+
+    <h1 class="subtitle">
+      <img class="subtitle_icon" src="images/ja/topics10/kajiwara/kajiwara_headline_icon1.svg" alt="・">
+      名古屋大学の遺跡を知る
+    </h1>
+
+    <div class="script">
+      名古屋大学内にも遺跡があるのはご存知ですか?この日は名古屋大学周辺の遺跡についての講義とその展示についての講義が行われました。
+    </div>
+
+    <img class="image" src="images/ja/topics10/kajiwara/kajiwara_pic_6.jpg">
+
+    <div class="script">
+      授業後半では文学部考古学陳列室で出土品についての講義が行われました。
+    </div>
+
+    <h1 class="subtitle">
+      <img class="subtitle_icon" src="images/ja/topics10/kajiwara/kajiwara_headline_icon1.svg" alt="・">
+      報告会
+    </h1>
+
+    <div class="script">
+      今まで講義で扱ったテーマを踏まえ、各班が「博物館の評価」という表題で発表をおこないました。
+    </div>
 
     <div id="manu">
 
       <h1 class="subtitle">
-        <img class="subtitle_icon" src="images/ja/topics10/goto/goto_headline_icon2.svg" alt="・">
+        <img class="subtitle_icon" src="images/ja/topics10/kajiwara/kajiwara_headline_icon2.svg" alt="・">
         他の回をみる
       </h1>
       <ul class="link">
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_2">番組制作に向けた話し合い2</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_3">番組収録</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_4">学生へのインタビュー</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_5">先生へのインタビュー</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_2">学生へのインタビュー</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_3">先生へのインタビュー</a></li>
       </ul>{* link end *}
 
       <h1 class="subtitle">
-        <img class="subtitle_icon" src="images/ja/topics10/goto/goto_headline_icon2.svg" alt="・">
+        <img class="subtitle_icon" src="images/ja/topics10/kajiwara/kajiwara_headline_icon2.svg" alt="・">
         他の授業をみる
       </h1>
       <ul class="link">
         <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する</a></li>
         <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">レポート作成と口頭発表の技術</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">メディア研究・ビデオ制作を通したメディアリテラシーの獲得</a></li>
         <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">細胞を観る、記載する、そして伝える</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「考古学入門」～考古学に触れる～</a></li>
       </ul>
 
     </div>{* manu end *}
 
     {* footer *}
 
-  </div> {* goto_main end *}
-</div> {* topics2017_goto end *}
+  </div> {* kajiwara_main end *}
+</div> {* topics2017_kajiwara end *}
