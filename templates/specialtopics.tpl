@@ -3,14 +3,17 @@
 {* 公開して間もない特集ページ *}
 <h1>Pick up!</h1>
 <dl id="specialtopics">
-  <dt><a href="teens/">名大の学部紹介</a></dt>
-  <dd><a href="teens/"><img src="./images/ja/topics_backnumber/teens.svg" alt="名大の学部紹介" style="width:214px;height:50px"></a></dd>
+  <dt><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5d9806efcd1b108e2dada02a61baff1f44eb66fa">クフ王のピラミッドと素粒子物理学</a></dt>
+  <dd><a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5d9806efcd1b108e2dada02a61baff1f44eb66fa"><img src="./images/ja/topics_backnumber/kuhuou.png" alt="クフ王のピラミッドと素粒子物理学"></a></dd>
 
 </dl>
 
 {* 過去の特集ページ *}
 <h1>過去の特集ページ</h1>
 <dl id="specialtopics_backnumber">
+  <dt><a href="teens/">名大の学部紹介</a></dt>
+  <dd><a href="teens/"><img src="./images/ja/topics_backnumber/teens.svg" alt="名大の学部紹介" style="width:214px;height:50px"></a></dd>
+
   <dt><a href="./index.php?lang=ja&mode=g&page_type=lab_intro">名大の研究室紹介</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=lab_intro"><img src="./images/ja/topics_backnumber/lab_intro.png" alt="名大の研究室紹介"></a></dd>
 
