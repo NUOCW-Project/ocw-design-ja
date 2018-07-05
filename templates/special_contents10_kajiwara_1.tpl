@@ -13,7 +13,7 @@
 
   <div id="kajiwara_main">
 
-    <h1 class="subtitle">
+    <h1 class="first_subtitle">
       <img class="subtitle_icon" src="images/ja/topics10/kajiwara/kajiwara_headline_icon1.svg" alt="・">
       測量実習
     </h1>
@@ -68,7 +68,7 @@
 
     <div id="manu">
 
-      <h1 class="subtitle">
+      <h1 class="first_subtitle">
         <img class="subtitle_icon" src="images/ja/topics10/kajiwara/kajiwara_headline_icon2.svg" alt="・">
         他の回をみる
       </h1>
