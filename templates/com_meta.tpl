@@ -174,6 +174,7 @@
 
 {elseif $lang=='ja' && $page_type=='student_testimonials'}
 <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
+<link rel="stylesheet" type="text/css" href="css/simplePagination.css">
 
 {elseif $lang=='en' && $page_type=='project_nakatsugawa'}
 <link rel="stylesheet" type="text/css" href="css/project_nakatsugawa.css">
@@ -217,6 +218,13 @@
   <script type="text/ecmascript" src="./js/youtube.js"></script>
 {elseif $lang=='ja' && $page_type=='highschool'}
   <script type="text/javascript" src="./js/topics_highschool.js"></script>
+{elseif $lang=='ja' && $page_type=='student_testimonials'}
+<link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
+<link rel="stylesheet" type="text/css" href="css/simplePagination.css">
+ <script type="text/ecmascript" src="./js/jquery.simplePagination.js"></script>
+<script type="text/ecmascript" src="./js/specialtopics.js"></script>
+
+
 {/if}
 {/literal}
 
