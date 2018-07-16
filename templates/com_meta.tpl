@@ -218,10 +218,8 @@
 {elseif $lang=='ja' && $page_type=='highschool'}
   <script type="text/javascript" src="./js/topics_highschool.js"></script>
 {elseif $lang=='ja' && $page_type=='specialtopics'}
-<link rel="stylesheet" type="text/css" href="css/specialtopics.css">
-<link rel="stylesheet" type="text/css" href="css/simplePagination.css">
  <script type="text/ecmascript" src="./js/jquery.simplePagination.js"></script>
-<script type="text/ecmascript" src="./js/specialtopics.js"></script>
+ <script type="text/ecmascript" src="./js/specialtopics.js"></script>
 
 
 {/if}
