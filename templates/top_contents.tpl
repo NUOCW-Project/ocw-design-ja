@@ -9,12 +9,12 @@
   </a>
 </div>{* 第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学 end *}
 
-{* オープンキャンパス2017 *}
+{* Studium Generale Spring 2018 *}
 <div id="special_head">
-  <a href="index.php?lang=ja&mode=g&page_type=open_campus_2017">
-    <img src="./images/ja/OpenCampus2017-top.png" alt="オープンキャンパス2017" width="694" height="399" >
+  <a href="index.php?lang=en&mode=c&id=675&page_type=index">
+    <img src="./images/ja/studium_generale_spring2018_ja.png" alt="Studium Generale Spring 2018" width="694" height="399" >
   </a>
-</div>{* オープンキャンパス2017 end *}
+</div>{* Studium Generale Spring 2018 end *}
 
 
 <div class="inline">
