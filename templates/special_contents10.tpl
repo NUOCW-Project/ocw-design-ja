@@ -155,7 +155,7 @@ Be a TV Director!
 <img class="topics10-icon" id="topics10-icon-blue" src="images/ja/topics10/top/button_icon_blue.svg" alt="Letʼs Analyze Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 
 <div class="title">
-Letʼs Analize Aminals!
+Letʼs Analyze Aminals!
 </div>{* class = title *}
 
 <div class="subtitle">
