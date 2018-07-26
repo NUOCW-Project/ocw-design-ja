@@ -73,8 +73,8 @@ What is Counseling?
 </div>{* class = script *}
 
 <ul class="link">
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">授業内容のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_sugioka_1">授業内容のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_sugioka_2">学生へのインタビューのページへ</a></li>
 </ul>{* class = link *}
 </div>{* class = topics2017_article *}
 
@@ -104,9 +104,9 @@ How to Write Papers.
 </div>{* class = script *}
 
 <ul class="link">
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">授業内容のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">先生へのインタビューのページへ</a></li> 
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_yanagihara_1">授業内容のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_yanagihara_2">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_yanagihara_3">先生へのインタビューのページへ</a></li> 
 </ul>{* class = link *}
 </div>{* class = topics2017_article *}
 
@@ -136,11 +136,11 @@ Be a TV Director!
 </div>{* class = script *}
 
 <ul class="link">
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「OBによる講演会と番組製作に向けた話し合い 1」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「番組制作に向けた話し合い 2」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「番組収録」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">先生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_1">「OBによる講演会と番組製作に向けた話し合い 1」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_2">「番組制作に向けた話し合い 2」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_3">「番組収録」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_4">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_5">先生へのインタビューのページへ</a></li>
 </ul>{* class = link *}
 </div>{* class = topics2017_article *}
 
@@ -169,10 +169,10 @@ Letʼs Analyze Aminals!
 </div>{* class = script *}
 
 <ul class="link">
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「コオロギの組織観察」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「マウス胎仔から採取した器官の観察・組織片の培養と観察」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">先生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_miyata_1">「コオロギの組織観察」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_miyata_2">「マウス胎仔から採取した器官の観察・組織片の培養と観察」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_miyata_3">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_miyata_4">先生へのインタビューのページへ</a></li>
 </ul>{* class = link *}
 </div>{* class = topics2017_article *}
 
@@ -201,11 +201,11 @@ Welcome to Ancient Time!
 </div>{* class = script *}
 
 <ul class="link">
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「測量実習」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「名古屋大学の遺跡を知る」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「報告会」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">学生へのインタビューのページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">先生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_1">「測量実習」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_2">「名古屋大学の遺跡を知る」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_3">「報告会」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_4">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_5">先生へのインタビューのページへ</a></li>
 </ul>{* class = link *}
 </div>{* class = topics2017_article *}
 
