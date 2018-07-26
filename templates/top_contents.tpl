@@ -2,15 +2,22 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
+{* 松尾総長 特別講義 歴史の転換点で、大学の果たす役割は何か *}
+<div class="topics_head">
+  <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/88c5698b9c84a8a354c6ddcbd04d82f25f88b7ed/autostart/true/caption/true">
+      <img src="./images/ja/topics_matsuo_2018.png" alt="松尾総長 特別講義 歴史の転換点で、大学の果たす役割は何か" width="694" height="399" >
+  </a>
+</div>{* 松尾総長 特別講義 歴史の転換点で、大学の果たす役割は何か end *}
+
 {* 第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学 *}
-<div id="topics_head">
+<div class="topics_head">
   <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5d9806efcd1b108e2dada02a61baff1f44eb66fa">
       <img src="./images/ja/kuhuoukannban.png" alt="第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学" width="694" height="399" >
   </a>
 </div>{* 第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学 end *}
 
 {* Studium Generale Spring 2018 *}
-<div id="special_head">
+<div class="topics_head">
   <a href="index.php?lang=en&mode=c&id=675&page_type=index">
     <img src="./images/ja/studium_generale_spring2018_ja.png" alt="Studium Generale Spring 2018" width="694" height="399" >
   </a>
