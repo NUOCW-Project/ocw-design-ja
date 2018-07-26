@@ -201,11 +201,9 @@ Welcome to Ancient Time!
 </div>{* class = script *}
 
 <ul class="link">
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_1">「測量実習」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_2">「名古屋大学の遺跡を知る」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_3">「報告会」のページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_4">学生へのインタビューのページへ</a></li>
-<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_5">先生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_1">「測量実習・名古屋大学の遺跡を知る・報告会」のページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_2">学生へのインタビューのページへ</a></li>
+<li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_kajiwara_3">先生へのインタビューのページへ</a></li>
 </ul>{* class = link *}
 </div>{* class = topics2017_article *}
 
