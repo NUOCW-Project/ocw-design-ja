@@ -17,8 +17,8 @@
 <img class="topics10-header-icon" id="topics10-header-icon-green" src="images/ja/topics10/top/header_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
 </div>{* id = topics10-header-green *}
 
-<div class="topics10-header-pic" id="topics10-header-blue" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
-<img class="topics10-header-icon" id="topics10-header-icon-blue" src="images/ja/topics10/top/header_icon_blue.svg" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+<div class="topics10-header-pic" id="topics10-header-blue" alt="Letʼs Analyze Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+<img class="topics10-header-icon" id="topics10-header-icon-blue" src="images/ja/topics10/top/header_icon_blue.svg" alt="Letʼs Analyze Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 </div>{* id = topics10-header-blue *}
 
 <div class="topics10-header-pic" id="topics10-header-violet" alt="Welcome to Ancient Time! 「考古学入門」～考古学に触れる～ (梶原義実先生)">
@@ -150,9 +150,9 @@ Be a TV Director!
     
 <div class="topics2017_link" id="topics2017-blue">
 <div class="topics2017_button">
-<div class="topics10-pic" id="topics10-pic-blue" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+<div class="topics10-pic" id="topics10-pic-blue" alt="Letʼs Analyze Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 </div>{* id = topics10-pic-blue *}
-<img class="topics10-icon" id="topics10-icon-blue" src="images/ja/topics10/top/button_icon_blue.svg" alt="Letʼs Analize Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+<img class="topics10-icon" id="topics10-icon-blue" src="images/ja/topics10/top/button_icon_blue.svg" alt="Letʼs Analyze Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 
 <div class="title">
 Letʼs Analize Aminals!
