@@ -1,10 +1,10 @@
 <div id="topics2017_miyata">
   <div id="topics2017_miyata_top">
-    <div id="topics2017_miyata_header" alt="Welcome to Ancient Time!「考古学入門」～考古学に触れる～ (梶原義実先生)">
-      <img id="topics2017_miyata_icon" src="images/ja/topics10/top/header_icon_violet.svg" alt="Welcome to Ancient Time!「考古学入門」～考古学に触れる～ (梶原義実先生)">
+    <div id="topics2017_miyata_header" alt="Letʼs Analyze Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+      <img id="topics2017_miyata_icon" src="images/ja/topics10/top/header_icon_blue.svg" alt="Letʼs Analyze Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 
       <div class="title">
-        「考古学入門」～考古学に触れる～
+        細胞を観る、記載する、そして伝える
       </div>{* class = title *}
 
     </div>{* id = topics2017-miyata-header *}
