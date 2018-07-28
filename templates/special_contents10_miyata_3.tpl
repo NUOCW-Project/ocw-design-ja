@@ -1,60 +1,156 @@
-<div id="topics2017_goto">
-  <div id="topics2017_goto_top">
-    <div id="topics2017_goto_header" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
-      <img id="topics2017_goto_icon" src="images/ja/topics10/top/header_icon_green.svg" alt="Be a TV Director! メディア研究・ビデオ制作を通したメディアリテラシーの獲得 (後藤明史先生)">
+<div id="topics2017_miyata">
+  <div id="topics2017_miyata_top">
+    <div id="topics2017_miyata_header" alt="Letʼs Analyze Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
+      <img id="topics2017_miyata_icon" src="images/ja/topics10/top/header_icon_blue.svg" alt="Letʼs Analyze Aminals! 細胞を観る、記載する、そして伝える (宮田卓樹先生)">
 
       <div class="title">
-        メディア研究・ビデオ制作を通した<br>
-        メディアリテラシーの獲得
+        細胞を観る、記載する、そして伝える
       </div>{* class = title *}
 
-    </div>{* id = topics2017-goto-header *}
+    </div>{* id = topics2017-miyata-header *}
 
-  </div>{* id topics2017_goto_top *}
+  </div>{* id topics2017_miyata_top *}
 
-  <div id="goto_main">
+  <div id="miyata_main">
 
     <h1 class="subtitle">
-      <img class="subtitle_icon" src="images/ja/topics10/goto/goto_headline_icon1.svg" alt="・">
-      OBによる講演会と番組制作に向けた話し合い1
+      <img class="subtitle_icon" src="images/ja/topics10/miyata/miyata_headline_icon1.svg" alt="・">
+      学生へのインタビュー－コオロギの組織観察－
     </h1>
 
-    <div class="script">
-      かつて、名大の科目履修生で、現在、週刊朝日で記者として活躍されている大塚さんによる講演会が行われました。週刊誌の記者としての経験をもとに、メディアとどう向き合うべきかに関してお話されました。学生たちは、大塚さんのお話に真剣に耳を傾け、時には質問をするなどメディアへの高い関心が感じられました。
-    </div>
+    <ul class="question">
+      <li>
+        何に注目して観察したか?
+      </li>
+    </ul>
 
-    <img class="image" src="images/ja/topics10/goto/goto_pic_1.jpg">
-    <div class="image">熱心に大塚さんのお話に耳を傾ける学生たち</div>
+    <ul class="multi_answer">
+      <li>
+        呼吸がどのように行われるかを調べるために、呼吸をするために動くお腹の筋肉を観察した。
+      </li>
+      <li>
+        消化器系について調べているので、口から胃や腸を含めて肛門までを観察した。前回はメスで調べたので、今回はオスで調べた。
+      </li>
+    </ul>
 
-    <div class="script">
-      講演会終了後は、番組制作に向けた話し合いが行われました。まず、学生たちは、1 人3 つずつ自分がやってみたい面白そうな番組テーマ案を挙げました。ただし、このとき先生は、テレビ局の資金力、取材力をもってしてもかなわないような趣向を凝らしたテーマ設定を求めました。学生からは、「下宿にはどれくらいお金がかかるか」、「名大生の恋愛事情」、「名大生はどこで勉強をしているのか」などのテーマ案が挙げられました。
-    </div>
+    <ul class="question">
+      <li>
+        観察をしていて何か発見したことや面白いと思ったことはあったか？
+      </li>
+    </ul>
 
-    <img class="image" src="images/ja/topics10/goto/goto_pic_2.jpg">
-    <div class="image">学生たちに、番組テーマ設定のアドバイスを送る後藤先生</div>
+    <ul class="multi_answer">
+      <li>
+        羽の付け根あたりはすごく筋肉が多いことがわかった。呼吸するための筋肉はよくわからなかった。(呼吸器系の観察担当)
+      </li>
+      <li>
+        観察だけだとどうしても表面的にしかわからないことが多かったが、実際に解剖をしていろいろなことがわかったので良かった。(消化器系の観察担当)
+      </li>
+    </ul>
 
-    <div class="script">
-      最後の10 分は、学生たちで輪になって、テーマ設定に関する話し合いが行われました。学生たちは、お互いに言いたいことが言いやすいアットホームな雰囲気の中で、真剣かつ楽しく話し合いをしていました。
-    </div>
+    <ul class="question">
+      <li>
+        オスとメスで何か違いはあるか?
+      </li>
+    </ul>
 
-    <img class="image" src="images/ja/topics10/goto/goto_pic_3.jpg">
-    <div class="image">番組テーマ設定について、輪になって話し合う学生たち</div>
+    <ul class="single_answer">
+      <li>
+        メスだと卵があって観察がしづらい。オスのほうがやりやすい。(消化器系の観察担当)
+      </li>
+    </ul>
+
+    <ul class="question">
+      <li>
+        観察をする上で難しかったことは何か?
+      </li>
+    </ul>
+
+    <ul class="multi_answer">
+      <li>
+        顕微鏡を見ながら手を動かすというのが初めての経験だったので、やはりそこが難しかった。(呼吸器系の観察担当)
+      </li>
+      <li>
+        実際に臓器を見るのは初めてなので、取り出した部分のどれがどの臓器なのかを考えるのに苦労した。(消化器系の観察担当)
+      </li>
+    </ul>
+
+    <ul class="question">
+      <li>
+        この講義を選んだ理由は?
+      </li>
+    </ul>
+
+    <ul class="single_answer">
+      <li>
+        他のセミナーと違って、実体験として学べるものが多いところに魅力を感じて受講した。(消化器系の観察担当)
+      </li>
+    </ul>
+
+    <h1 class="subtitle">
+      <img class="subtitle_icon" src="images/ja/topics10/miyata/miyata_headline_icon1.svg" alt="・">
+      学生へのインタビュー－マウス胎仔の培養と観察－
+    </h1>
+
+    <ul class="question">
+      <li>
+        何を観察したか?
+      </li>
+    </ul>
+
+    <ul class="multi_answer">
+      <li>
+        13日目のマウスの胎児から取り出した心臓を培養したものが、先週からどのように変化したかを観察した。
+      </li>
+      <li>
+        マウスの泌尿生殖器系を取り出し培養したものを観察した。また、お腹の中で13日目で成長が止まっているものを解剖し、観察した。
+      </li>
+    </ul>
+
+    <ul class="question">
+      <li>
+        今回の観察で気づいたことはあったか?
+      </li>
+    </ul>
+
+    <ul class="multi_answer">
+      <li>
+        想像では培養していた細胞が成長し、心臓のような形になっていると思っていたが、実際にはそのようにはなっていなかった。(循環器系の観察担当)
+      </li>
+      <li>
+        寒天培地上で成長した方(器官原基・組織片サンプル)は前回よりも構造が複雑になっており、前回よりも成長していることが実感できた。前回は生殖器と泌尿器は両方ともボヤッとした白い丸が見られただけだったが、今日は形がくっきりとしており、中にひだ状の構造物が見えて器官へと成長していることが分かった。(泌尿・生殖器系の観察担当)
+      </li>
+    </ul>
+
+    <ul class="question">
+      <li>
+        マウスはコオロギよりも人間に近いサンプルとなっているが、扱ってみて気付いたこと、感じたことはあるか?
+      </li>
+    </ul>
+
+    <ul class="multi_answer">
+      <li>
+        マウスは肺があり、その中に心臓があるなど人間と同じような構造をしているので、臓器を見つけやすかった。(循環器系の観察担当)
+      </li>
+      <li>
+        コオロギは「こんなに違うのか！」「こういう生き物もいるのか！」と言った人間との違いに面白さがあった。今回は人間とは違う部分もあったが、似ている部分も多く、人間の体についての面白さがあった。(泌尿・生殖器系の観察担当)
+      </li>
+    </ul>
 
     <div id="manu">
 
       <h1 class="subtitle">
-        <img class="subtitle_icon" src="images/ja/topics10/goto/goto_headline_icon2.svg" alt="・">
+        <img class="subtitle_icon" src="images/ja/topics10/miyata/miyata_headline_icon2.svg" alt="・">
         他の回をみる
       </h1>
       <ul class="link">
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_2">番組制作に向けた話し合い2</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_3">番組収録</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_4">学生へのインタビュー</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_goto_5">先生へのインタビュー</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_miyata_1">コオロギの組織観察</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_miyata_2">マウス胎仔の培養と観察</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_miyata_4">先生へのインタビュー</a></li>
       </ul>{* link end *}
 
       <h1 class="subtitle">
-        <img class="subtitle_icon" src="images/ja/topics10/goto/goto_headline_icon2.svg" alt="・">
+        <img class="subtitle_icon" src="images/ja/topics10/miyata/miyata_headline_icon2.svg" alt="・">
         他の授業をみる
       </h1>
       <ul class="link">
@@ -68,5 +164,5 @@
 
     {* footer *}
 
-  </div> {* goto_main end *}
-</div> {* topics2017_goto end *}
+  </div> {* miyata_main end *}
+</div> {* topics2017_miyata end *}
