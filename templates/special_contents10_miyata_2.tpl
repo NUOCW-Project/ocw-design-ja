@@ -28,39 +28,39 @@
       (注2) 原基: 将来、様々な器官の「もと」となる細胞群のこと。
     </div>
 
-    <img class="image" src="images/ja/topics10/miyata/miyata_pic_6.jpg">
+    <img class="image" src="images/ja/topics10/miyata/miyata_pic_6.JPG">
     <div class="script">マウス胎仔のサンプル。左側が胎齢13日目、右側が胎齢18日目のものです。</div>
 
-    <img class="image" src="images/ja/topics10/miyata/miyata_pic_7.jpg">
+    <img class="image" src="images/ja/topics10/miyata/miyata_pic_7.JPG">
     <div class="script">
       マウスとヒトの発生段階についての換算表。胎齢13日目のマウス胎仔は、およそ胎齢6週目のヒト胎児に相当します。<br>
       マウス胎仔は胎齢20日前後で出生するため、胎齢18日目は出生間近の段階にあたります。
     </div>
 
-    <img class="image" src="images/ja/topics10/miyata/miyata_pic_8.jpg">
+    <img class="image" src="images/ja/topics10/miyata/miyata_pic_8.JPG">
     <div class="script">マウスから取り出した器官原基・組織片が埋め込まれた寒天培地。</div>
 
-    <img class="image" src="images/ja/topics10/miyata/miyata_pic_9.jpg">
+    <img class="image" src="images/ja/topics10/miyata/miyata_pic_9.JPG">
     <div class="script">寒天培地の中身を顕微鏡観察した時の様子です。この培地には、生殖器系の原基が埋められています。取材日は、各原基・組織片が培地に埋められてからちょうど1週間後でした。1週間前と比較して内部構造が複雑になっており、器官分化が進んでいる様子が伺えるとのことでした。</div>
 
-    <img class="image" src="images/ja/topics10/miyata/miyata_pic_10.jpg">
+    <img class="image" src="images/ja/topics10/miyata/miyata_pic_10.JPG">
     <div class="script">
       各5グループには、解析対象となる部位のサンプルに加え、手の原基を埋め込んだ寒天培地のサンプルも観察対象として与えられます。このサンプルを顕微鏡観察した時の様子を、左の写真で示しています。手の形ができつつあるのがわかります。
     </div>
 
-    <img class="image" src="images/ja/topics10/miyata/miyata_pic_11.jpg">
+    <img class="image" src="images/ja/topics10/miyata/miyata_pic_11.JPG">
     <div class="script">
       先生からのアドバイス・コメントも受けながら、解剖・観察に取り組みます。
     </div>
 
-    <img class="image" src="images/ja/topics10/miyata/miyata_pic_12.jpg">
+    <img class="image" src="images/ja/topics10/miyata/miyata_pic_12.JPG">
     <div class="script">
       マウス胎仔を解剖している様子です。
     </div>
 
     <div id="manu">
 
-      <h1 class="subtitle">
+      <h1 class="first_subtitle">
         <img class="subtitle_icon" src="images/ja/topics10/miyata/miyata_headline_icon2.svg" alt="・">
         他の回をみる
       </h1>

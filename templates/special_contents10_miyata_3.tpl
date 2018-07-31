@@ -24,7 +24,7 @@
       </li>
     </ul>
 
-    <ul class="multi_answer">
+    <ol class="multi_answer">
       <li>
         呼吸がどのように行われるかを調べるために、呼吸をするために動くお腹の筋肉を観察した。
       </li>
@@ -39,7 +39,7 @@
       </li>
     </ul>
 
-    <ul class="multi_answer">
+    <ol class="multi_answer">
       <li>
         羽の付け根あたりはすごく筋肉が多いことがわかった。呼吸するための筋肉はよくわからなかった。(呼吸器系の観察担当)
       </li>
@@ -66,7 +66,7 @@
       </li>
     </ul>
 
-    <ul class="multi_answer">
+    <ol class="multi_answer">
       <li>
         顕微鏡を見ながら手を動かすというのが初めての経験だったので、やはりそこが難しかった。(呼吸器系の観察担当)
       </li>
@@ -87,7 +87,7 @@
       </li>
     </ul>
 
-    <h1 class="subtitle">
+    <h1 class="second_subtitle">
       <img class="subtitle_icon" src="images/ja/topics10/miyata/miyata_headline_icon1.svg" alt="・">
       学生へのインタビュー－マウス胎仔の培養と観察－
     </h1>
@@ -98,7 +98,7 @@
       </li>
     </ul>
 
-    <ul class="multi_answer">
+    <ol class="multi_answer">
       <li>
         13日目のマウスの胎児から取り出した心臓を培養したものが、先週からどのように変化したかを観察した。
       </li>
@@ -113,7 +113,7 @@
       </li>
     </ul>
 
-    <ul class="multi_answer">
+    <ol class="multi_answer">
       <li>
         想像では培養していた細胞が成長し、心臓のような形になっていると思っていたが、実際にはそのようにはなっていなかった。(循環器系の観察担当)
       </li>
@@ -128,7 +128,7 @@
       </li>
     </ul>
 
-    <ul class="multi_answer">
+    <ol class="multi_answer">
       <li>
         マウスは肺があり、その中に心臓があるなど人間と同じような構造をしているので、臓器を見つけやすかった。(循環器系の観察担当)
       </li>
@@ -139,7 +139,7 @@
 
     <div id="manu">
 
-      <h1 class="subtitle">
+      <h1 class="first_subtitle">
         <img class="subtitle_icon" src="images/ja/topics10/miyata/miyata_headline_icon2.svg" alt="・">
         他の回をみる
       </h1>
