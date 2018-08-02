@@ -53,7 +53,7 @@
         <img class="subtitle_icon" src="images/ja/topics10/yanagihara/yanagihara_headline_icon2.svg" alt="・">
         他の回をみる
       </h1>
-      <ul class="link">>
+      <ul class="link">
         <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_yanagihara_1">授業内容</a></li>
         <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017_yanagihara_3">先生へのインタビュー</a></li>
       </ul>{* link end *}
