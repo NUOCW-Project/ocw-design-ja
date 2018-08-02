@@ -2,20 +2,20 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
-
-{* オープンキャンパス2017 *}
-<div id="special_head">
-  <a href="index.php?lang=ja&mode=g&page_type=open_campus_2017">
-    <img src="./images/ja/OpenCampus2017-top.png" alt="オープンキャンパス2017" width="694" height="399" >
-  </a>
-</div>{* オープンキャンパス2017 end *}
-
-{* 名大の研究指導#5 *}
+{* 第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学 *}
 <div id="topics_head">
-  <a href="index.php?lang=ja&mode=g&page_type=research_work">
-      <img src="./images/ja/research_work5.png" alt="名大の研究指導#5" width="694" height="399" >
+  <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/5d9806efcd1b108e2dada02a61baff1f44eb66fa">
+      <img src="./images/ja/kuhuoukannban.png" alt="第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学" width="694" height="399" >
   </a>
-</div>{* 名大の研究指導#5 end *}
+</div>{* 第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学 end *}
+
+{* Studium Generale Spring 2018 *}
+<div id="special_head">
+  <a href="index.php?lang=en&mode=c&id=675&page_type=index">
+    <img src="./images/ja/studium_generale_spring2018_ja.png" alt="Studium Generale Spring 2018" width="694" height="399" >
+  </a>
+</div>{* Studium Generale Spring 2018 end *}
+
 
 <div class="inline">
 

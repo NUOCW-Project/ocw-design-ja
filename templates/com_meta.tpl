@@ -99,6 +99,22 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/10.css">
 
+{elseif $lang=='ja' && $page_type=='topics2017_goto_1'||$page_type=='topics2017_goto_2'||$page_type=='topics2017_goto_3'||$page_type=='topics2017_goto_4'||$page_type=='topics2017_goto_5'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/10_goto.css">
+
+{elseif $lang=='ja' && $page_type=='topics2017_kajiwara_1'||$page_type=='topics2017_kajiwara_2'||$page_type=='topics2017_kajiwara_3'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/10_kajiwara.css">
+
+{elseif $lang=='ja' && $page_type=='topics2017_miyata_1'||$page_type=='topics2017_miyata_2'||$page_type=='topics2017_miyata_3'||$page_type=='topics2017_miyata_4'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/10_miyata.css">
+
+{elseif $lang=='ja' && $page_type=='topics2017_yanagihara_1'||$page_type=='topics2017_yanagihara_2'||$page_type=='topics2017_yanagihara_3'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/10_yanagihara.css">
+
 {elseif $lang=='ja' && $page_type=='research_work'}
   <link rel="stylesheet" type="text/css" href="css/research_work.css">
 
@@ -155,13 +171,13 @@
 
 {elseif $lang=='ja' && $page_type=='specialtopics'}
 <link rel="stylesheet" type="text/css" href="css/specialtopics.css">
+<link rel="stylesheet" type="text/css" href="css/simplePagination.css">
 
 {elseif $lang=='ja' && $page_type=='student_testimonials'}
 <link rel="stylesheet" type="text/css" href="css/student_testimonials.css">
 
 {elseif $lang=='en' && $page_type=='project_nakatsugawa'}
 <link rel="stylesheet" type="text/css" href="css/project_nakatsugawa.css">
-
 
 {/if}
 {/literal}
@@ -201,6 +217,11 @@
   <script type="text/ecmascript" src="./js/youtube.js"></script>
 {elseif $lang=='ja' && $page_type=='highschool'}
   <script type="text/javascript" src="./js/topics_highschool.js"></script>
+{elseif $lang=='ja' && $page_type=='specialtopics'}
+ <script type="text/ecmascript" src="./js/jquery.simplePagination.js"></script>
+ <script type="text/ecmascript" src="./js/specialtopics.js"></script>
+
+
 {/if}
 {/literal}
 
