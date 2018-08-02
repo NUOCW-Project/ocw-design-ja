@@ -17,7 +17,7 @@
       <img class="subtitle_icon" src="images/ja/topics10/yanagihara/yanagihara_headline_icon1.svg" alt="・">
       授業内容
     </h1>
-    
+
     <div class="script">
       大学の授業では、しばしば授業で学んだことについてレポートにまとめたり、発表をしたりします。誰もがその時に、「どう工夫すれば相手にうまく伝わるだろう？」と思うことでしょう。この疑問は、大学の授業だけでなく、ゼミや研究室、そして社会に出た後も続いていきます。<br>
       今回、私は「レポート作成と口頭発表の技術」を取材しました。この授業では、レポート作成や口頭発表を実際に行い、その内容や工夫等について皆で討論しながら技術を身に着けていきます。授業は楽しく、活発な議論で盛り上がり、先生を含めた皆でお互いに技術を磨き合う雰囲気がありました。
@@ -45,7 +45,7 @@
     <div class="image">雑談を交えながら、文章執筆・プレゼンのエッセンスを紹介・解説していく柳原先生</div>
 
     <div id="manu">
-      <h1 class="subtitle">
+      <h1 class="first_subtitle">
         <img class="subtitle_icon" src="images/ja/topics10/yanagihara/yanagihara_headline_icon2.svg" alt="・">
         他の回をみる
       </h1>
