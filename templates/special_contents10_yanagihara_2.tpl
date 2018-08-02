@@ -50,7 +50,7 @@
 
     <div id="manu">
       <h1 class="first_subtitle">
-        <img class="subtitle_icon"> src="images/ja/topics10/yanagihara/yanagihara_headline_icon2.svg" alt="・">
+        <img class="subtitle_icon" src="images/ja/topics10/yanagihara/yanagihara_headline_icon2.svg" alt="・">
         他の回をみる
       </h1>
       <ul class="link">
