@@ -35,7 +35,7 @@
       人の6 種類（喜び、恐い、驚き、興味ある、悲しい、ムカつく）の感情のうち、ペアの一方が一つの感情を表すような表情をします。ペアもう一方が、どの感情を示していたかを当てます。
     </div>
 
-    <img class="image" src="images/ja/topics10/sugioka/sugioka_pic_2.JPG">
+    <img class="image" src="images/ja/topics10/sugioka/sugioka_pic_2.jpg">
 
     <div class="script">
       4人でグループを作り、「私が最近ムカついたこと」「私の恋愛観・人生観」「私の冬休みの予定」のいずれかについてフリートークをします。<br>
@@ -43,7 +43,7 @@
       活動後、スピーカーは話をしているときの自分の表情について気づいたことを書いていきます。
     </div>
 
-    <img class="image" src="images/ja/topics10/sugioka/sugioka_pic_3.JPG">
+    <img class="image" src="images/ja/topics10/sugioka/sugioka_pic_3.jpg">
 
     <div id="manu">
       <h1 class="first_subtitle">
