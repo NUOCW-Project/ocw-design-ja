@@ -31,12 +31,14 @@
 
     <img class="image" src="images/ja/topics10/sugioka/sugioka_pic_1.jpg">
 
+    <h2 class="minititle">ペアワーク【表情チェック】</h2>
     <div class="script">
       人の6 種類（喜び、恐い、驚き、興味ある、悲しい、ムカつく）の感情のうち、ペアの一方が一つの感情を表すような表情をします。ペアもう一方が、どの感情を示していたかを当てます。
     </div>
 
     <img class="image" src="images/ja/topics10/sugioka/sugioka_pic_2.jpg">
 
+    <h2 class="minititle">グループワーク</h2>
     <div class="script">
       4人でグループを作り、「私が最近ムカついたこと」「私の恋愛観・人生観」「私の冬休みの予定」のいずれかについてフリートークをします。<br>
       聞き手に回る人は、スピーカーが話している時にどんな表情をしているかを記録し、スピーカーに報告します。<br>
