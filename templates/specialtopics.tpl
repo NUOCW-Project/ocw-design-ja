@@ -41,4 +41,5 @@
   <dd><a href="./index.php?lang=ja&mode=g&page_type=summercamp"><img src="./images/ja/topics_backnumber/summercamp.png" alt="Mei-Writing Summer Camp 2013 スペシャルインタビュー"></a></dd>
 </dl>
 </div>
+<div id="paging" class="simple-pagination"></div>
 
