@@ -111,6 +111,10 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/10_miyata.css">
 
+{elseif $lang=='ja' && $page_type=='topics2017_sugioka_1'||$page_type=='topics2017_sugioka_2'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/10_sugioka.css">
+
 {elseif $lang=='ja' && $page_type=='topics2017_yanagihara_1'||$page_type=='topics2017_yanagihara_2'||$page_type=='topics2017_yanagihara_3'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/10_yanagihara.css">
