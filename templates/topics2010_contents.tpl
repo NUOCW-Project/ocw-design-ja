@@ -1,4 +1,5 @@
 <h1>TOPICS バックナンバー</h1>
+<div class="selection" id="page-1">
 <dl id="topics_backnumber">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2016">TOPICS No.9 特集! 学生実験・実習</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2016"><img src="./images/ja/topics_backnumber/topics9_banner.png" alt="大学の授業入門"></a></dd>
@@ -18,8 +19,11 @@
 
   <dt><a href="./index.php?lang=ja&mode=g&page_type=special">TOPICS No.4 理学部新歓サイエンスカフェ 2011</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=special"><img src="./images/ja/topics_backnumber/sc.png" alt="理学部新歓サイエンスカフェ 2011"></a></dd>
+</dl>
+</div>
 
-
+<div class="selection" id="page-2">
+<dl id="topics_backnumber">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics_branches">TOPICS No.3 遊び・体験から学ぶ授業</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics_branches"><img src="images/ja/topics_backnumber/asobi_taiken.png" alt="遊び・体験から学ぶ授業"></a></dd>
 
@@ -35,6 +39,8 @@
   <dd><a href="#bn_anchor" onclick="Display('hs');noDisplay('msgs_whole')"><img src="images/ja/topics_backnumber/hs.png" alt="高校生向けオススメ授業"></a></dd>
 
 </dl>
+</div>
+<div id="paging" class="simple-pagination"></div>
 <hr id="bn_anchor">
 
 <div id="hs">
