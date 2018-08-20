@@ -50,6 +50,7 @@
 {elseif $lang=='ja' && $page_type=='topics2010'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
   <link rel="stylesheet" type="text/css" href="css/topics.css">
+  <link rel="stylesheet" type="text/css" href="css/simplePagination.css">
 
 {elseif $lang=='ja' && $page_type=='topics_backno'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
@@ -209,7 +210,9 @@
     <script type="text/javascript" src="./js/switchFlash.js"></script>
   {/if}
 {elseif $lang=='ja' && ($page_type=='topics2015sec' || $page_type=='topics2015' || $page_type=='topics2014' || $page_type=='topics2013' || $page_type=='topics_branches' || $page_type=='special' || $page_type=='topics2010' )}
+  <script src="./noDisplay.js" charset="UTF-8"></script>
   <script type="text/javascript" src="./js/noDisplay.js"></script>
+  <script type="text/javascript" src="./js/jquery.simplePagination.js"></script>
 {elseif $lang=='ja' && $page_type=='topics2016'}
   <script type="text/javascript" src="./js/topics9.js"></script>
 {elseif $lang=='ja' && $page_type=='topics2017'}
