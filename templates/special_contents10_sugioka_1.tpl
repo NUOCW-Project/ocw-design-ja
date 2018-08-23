@@ -1,9 +1,7 @@
 <div id="topics2017_sugioka">
   <div id="topics2017_sugioka_top">
     <div id="topics2017_sugioka_header" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
-      <div class="icon_margin"></div>
-      <img id="topics2017_sugioka_icon" src="images/ja/topics10/sugioka/sugioka_header_icon.svg" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
-      <div class="icon_margin"></div>
+      <img id="topics2017_sugioka_icon" src="images/ja/topics10/top/header_icon_red.svg" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
 
       <div class="title">
         ピア・カウンセリング体験を通して、<br>
