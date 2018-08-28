@@ -61,10 +61,10 @@
         他の授業をみる
       </h1>
       <ul class="link">
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">レポート作成と口頭発表の技術</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">メディア研究・ビデオ制作を通したメディアリテラシーの獲得</a></li>
-          <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">細胞を観る、記載する、そして伝える</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「考古学入門」～考古学に触れる～</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-yellow">レポート作成と口頭発表の技術</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-green">メディア研究・ビデオ制作を通したメディアリテラシーの獲得</a></li>
+          <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-blue">細胞を観る、記載する、そして伝える</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-violet">「考古学入門」～考古学に触れる～</a></li>
       </ul>
     </div>{* manu end *}
 
