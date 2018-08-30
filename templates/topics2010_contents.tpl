@@ -1,40 +1,67 @@
 <h1>TOPICS バックナンバー</h1>
+<div class="selection" id="page-1">
 <dl id="topics_backnumber">
-  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2016">TOPICS No.9 特集! 学生実験・実習</a></dt>
-  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2016"><img src="./images/ja/topics_backnumber/topics9_banner.png" alt="大学の授業入門"></a></dd>
+<div class="topics_item">
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2017">TOPICS No.10 基礎セミナー特集</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2017"><img src="./images/ja/topics_backnumber/topics10.svg" alt="基礎セミナー特集" width="214px" height="50px"></a></dd>
+</div>
 
+<div class="topics_item">
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2016">TOPICS No.9 特集! 学生実験・実習</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2016"><img src="./images/ja/topics_backnumber/topics9_banner.png" alt="学生実験・実習"></a></dd>
+</div>
+
+<div class="topics_item">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2015sec">TOPICS No.8 大学の授業入門</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2015sec"><img src="./images/ja/topics_backnumber/topics08.png" alt="大学の授業入門"></a></dd>
+</div>
 
+<div class="topics_item">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2015">TOPICS No.7 0と1がつなぐ社会</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2015"><img src="./images/ja/topics_backnumber/zeroichi.png" alt="0と1がつなぐ社会"></a></dd>
+</div>
 
+<div class="topics_item">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2014">TOPICS No.6 ひろがる世界</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2014"><img src="./images/ja/topics_backnumber/hirogaru.png" alt="ひろがる世界"></a></dd>
+</div>
 
+<div class="topics_item">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2013">TOPICS No.5 こころ</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2013"><img src="./images/ja/topics_backnumber/kokoro.png" alt="こころ"></a></dd>
+</div>
 
-
+<div class="topics_item">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=special">TOPICS No.4 理学部新歓サイエンスカフェ 2011</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=special"><img src="./images/ja/topics_backnumber/sc.png" alt="理学部新歓サイエンスカフェ 2011"></a></dd>
+</div>
+</dl>
+</div>
 
-
+<div class="selection" id="page-2">
+<dl id="topics_backnumber">
+<div class="topics_item">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics_branches">TOPICS No.3 遊び・体験から学ぶ授業</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics_branches"><img src="images/ja/topics_backnumber/asobi_taiken.png" alt="遊び・体験から学ぶ授業"></a></dd>
+</div>
 
+<div class="topics_item">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics">TOPICS No.2 ボードゲームを究める</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics"><img id="arita_bn_img" src="./images/ja/topics_backnumber/arita.png" alt="ボードゲームを究める"></a></dd>
+</div>
 
-
+<div class="topics_item">
   <dt><a href="#bn_anchor" onclick="noDisplay('hs');Display('msgs_whole')">TOPICS No.1 message</a></dt>
   <dd><a href="#bn_anchor" onclick="noDisplay('hs');Display('msgs_whole')"><img src="images/ja/topics_backnumber/message.png" alt="message"></a></dd>
+</div>
 
-
+<div class="topics_item">
   <dt><a href="#bn_anchor" onclick="Display('hs');noDisplay('msgs_whole')">特別企画 高校生向けオススメ授業</a></dt>
   <dd><a href="#bn_anchor" onclick="Display('hs');noDisplay('msgs_whole')"><img src="images/ja/topics_backnumber/hs.png" alt="高校生向けオススメ授業"></a></dd>
-
+</div>
 </dl>
+</div>
+<div id="paging" class="simple-pagination"></div>
 <hr id="bn_anchor">
 
 <div id="hs">

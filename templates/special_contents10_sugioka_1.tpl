@@ -1,9 +1,7 @@
 <div id="topics2017_sugioka">
   <div id="topics2017_sugioka_top">
     <div id="topics2017_sugioka_header" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
-      <div class="icon_margin"></div>
-      <img id="topics2017_sugioka_icon" src="images/ja/topics10/sugioka/sugioka_header_icon.svg" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
-      <div class="icon_margin"></div>
+      <img id="topics2017_sugioka_icon" src="images/ja/topics10/top/header_icon_red.svg" alt="What is Counseling? ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する (杉岡正典先生)">
 
       <div class="title">
         ピア・カウンセリング体験を通して、<br>
@@ -63,10 +61,10 @@
         他の授業をみる
       </h1>
       <ul class="link">
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">レポート作成と口頭発表の技術</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">メディア研究・ビデオ制作を通したメディアリテラシーの獲得</a></li>
-          <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">細胞を観る、記載する、そして伝える</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「考古学入門」～考古学に触れる～</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-yellow">レポート作成と口頭発表の技術</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-green">メディア研究・ビデオ制作を通したメディアリテラシーの獲得</a></li>
+          <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-blue">細胞を観る、記載する、そして伝える</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-violet">「考古学入門」～考古学に触れる～</a></li>
       </ul>
     </div>{* manu end *}
 
