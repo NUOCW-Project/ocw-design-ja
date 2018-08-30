@@ -2,8 +2,13 @@
 <div class="selection" id="page-1">
 <dl id="topics_backnumber">
 <div class="topics_item">
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2017">名大の授業 TOPICS No.10 基礎セミナー特集</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2017"><img src="./images/ja/topics_backnumber/topics10.svg" alt="基礎セミナー特集" width="214px" height="50px"></a></dd>
+</div>
+
+<div class="topics_item">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2016">TOPICS No.9 特集! 学生実験・実習</a></dt>
-  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2016"><img src="./images/ja/topics_backnumber/topics9_banner.png" alt="大学の授業入門"></a></dd>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2016"><img src="./images/ja/topics_backnumber/topics9_banner.png" alt="学生実験・実習"></a></dd>
 </div>
 
 <div class="topics_item">
