@@ -17,7 +17,7 @@
 
 <p>もっと色々なものを見たい方はこちら！</p>
 
-<a href="http://ir.nul.nagoya-u.ac.jp/jspui/">
+<a href="https://nagoya.repo.nii.ac.jp/">
 <img id="repository_banner" src="images/ja/repository/repository_banner.png" alt="名古屋大学学術機関リポジトリ NAGOYA Repository">
 </a>
 </div>{* "repository_more" end *}
