@@ -12,7 +12,7 @@
 
 <div id="repository_more">
 <p>
-川邊先生の教材はこちら(<a href="http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16108">http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/16108</a>) からご覧いただけます。
+川邊先生の教材はこちら(<a href="https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&creator=%E5%B7%9D%E9%82%8A%E5%B2%A9%">https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&creator=%E5%B7%9D%E9%82%8A%E5%B2%A9%</a>) からご覧いただけます。
 </p>
 
 <p>もっと色々なものを見たい方はこちら！</p>
