@@ -41,7 +41,7 @@
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=g30fe">G30 for everyone</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=relay">名古屋大学ラジオ公開講座</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=fwarchive">退職記念講義アーカイブ</a>
-		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=farewell">退職記念講義2016</a>
+		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=farewell">退職記念講義2017</a>
 
 	</ul>
 	</td>

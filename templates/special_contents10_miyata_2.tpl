@@ -75,10 +75,10 @@
         他の授業をみる
       </h1>
       <ul class="link">
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">レポート作成と口頭発表の技術</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">メディア研究・ビデオ制作を通したメディアリテラシーの獲得</a></li>
-        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017">「考古学入門」～考古学に触れる～</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-red">ピア・カウンセリング体験を通して、他者理解及び対人援助の基礎を理解する</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-yellow">レポート作成と口頭発表の技術</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-green">メディア研究・ビデオ制作を通したメディアリテラシーの獲得</a></li>
+        <li><a href="./index.php?lang=ja&mode=g&page_type=topics2017#topics2017-violet">「考古学入門」～考古学に触れる～</a></li>
       </ul>
 
     </div>{* manu end *}

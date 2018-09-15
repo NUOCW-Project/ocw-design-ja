@@ -50,6 +50,7 @@
 {elseif $lang=='ja' && $page_type=='topics2010'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
   <link rel="stylesheet" type="text/css" href="css/topics.css">
+  <link rel="stylesheet" type="text/css" href="css/simplePagination.css">
 
 {elseif $lang=='ja' && $page_type=='topics_backno'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics2010.css">
@@ -110,6 +111,10 @@
 {elseif $lang=='ja' && $page_type=='topics2017_miyata_1'||$page_type=='topics2017_miyata_2'||$page_type=='topics2017_miyata_3'||$page_type=='topics2017_miyata_4'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/10_miyata.css">
+
+{elseif $lang=='ja' && $page_type=='topics2017_sugioka_1'||$page_type=='topics2017_sugioka_2'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/10_sugioka.css">
 
 {elseif $lang=='ja' && $page_type=='topics2017_yanagihara_1'||$page_type=='topics2017_yanagihara_2'||$page_type=='topics2017_yanagihara_3'}
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
@@ -205,7 +210,9 @@
     <script type="text/javascript" src="./js/switchFlash.js"></script>
   {/if}
 {elseif $lang=='ja' && ($page_type=='topics2015sec' || $page_type=='topics2015' || $page_type=='topics2014' || $page_type=='topics2013' || $page_type=='topics_branches' || $page_type=='special' || $page_type=='topics2010' )}
+  <script src="./noDisplay.js" charset="UTF-8"></script>
   <script type="text/javascript" src="./js/noDisplay.js"></script>
+  <script type="text/javascript" src="./js/jquery.simplePagination.js"></script>
 {elseif $lang=='ja' && $page_type=='topics2016'}
   <script type="text/javascript" src="./js/topics9.js"></script>
 {elseif $lang=='ja' && $page_type=='topics2017'}
@@ -218,8 +225,9 @@
 {elseif $lang=='ja' && $page_type=='highschool'}
   <script type="text/javascript" src="./js/topics_highschool.js"></script>
 {elseif $lang=='ja' && $page_type=='specialtopics'}
- <script type="text/ecmascript" src="./js/jquery.simplePagination.js"></script>
- <script type="text/ecmascript" src="./js/specialtopics.js"></script>
+ <script src="./specialtopics.js" charset="UTF-8"></script>
+ <script type="text/javascript" src="./js/jquery.simplePagination.js"></script>
+ <script type="text/javascript" src="./js/specialtopics.js"></script>
 
 
 {/if}

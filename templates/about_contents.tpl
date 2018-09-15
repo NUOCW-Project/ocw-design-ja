@@ -51,7 +51,7 @@
 
 {* スタッフ紹介開始 *}
 <tr><td colspan=2><h2>名古屋大学オープンコースウェアプロジェクト</h2></td></tr>
-<tr><td colspan=2 align="right">2018年4月1日</td></tr>
+<tr><td colspan=2 align="right">2018年9月11日</td></tr>
 <tr><td class="center_gray">名古屋大学OCWプロジェクト</br>メンバー</td>
 		<td class="left_gray"><p>
 
@@ -62,7 +62,7 @@
 情報戦略室  准教授 出口大輔<br>
 教養教育院教養教育推進室 特任准教授 頼偉寧<br>
 国際教育交流センター 特任講師 キューン・ミッシェル<br>
-OCW事務室 事務補佐員 小島友香<br>
+{* OCW事務室 事務補佐員 小島友香<br> *}
 </p></td></tr>
 
 <tr><td id="ocw-support" class="center">名古屋大学OCWスタッフ</td>
@@ -70,14 +70,9 @@ OCW事務室 事務補佐員 小島友香<br>
 多元数理科学研究科D3 樋田裕斗<br>
 理学研究科M1 高市大輔<br>
 情報学研究科M2 高野佑紀奈<br>
-情報文化学部B4 若園悠聖<br>
 情報文化学部B3 窪田百合<br>
 工学部B4 隈部岳瑠<br>
-人文学研究科M2 Luu Ngan Tu Uyen<br>
 教育発達科学研究科M1 福井ゆたか<br>
-法学部B4 Teresa Pham<br>
-理学部B4 星龍之介<br>
-工学部B4 Kim Dongwook<br>
 理学研究科M1 中根丈太郎<br>
 情報学研究科M2 児玉祐樹<br>
 情報学研究科M2 Aurelio Pinero<br>
@@ -86,7 +81,16 @@ OCW事務室 事務補佐員 小島友香<br>
 法学部B4 吉原啓太<br>
 法学部B3 相田泰輔<br>
 情報学研究科M2 舟橋紀絵<br>
-工学部B2 竹尾佳紘<br>
+工学部B1 大井浩司<br>
+工学部B1 市川千陽<br>
+工学部B2 伊藤雅人<br>
+工学部B3 池口祥太<br>
+工学部B2 石黒太志<br>
+工学部B2 月東良輔<br>
+経済学研究科D3 Alvaro Dominguez<br>
+情報学部B3 Baral Eliram<br>
+工学部B1 鈴木海渡<br>
+工学部B2 山下拓海<br>
 
 </p></td></tr>
 

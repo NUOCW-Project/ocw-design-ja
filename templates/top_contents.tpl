@@ -2,6 +2,13 @@
 <br>
 <img src="./images/common/redline.gif" class="line" alt="">
 
+{* 名大の授業 TOPICS No.10 基礎セミナー特集 *}
+<div class="topics_head">
+  <a href="./index.php?lang=ja&mode=g&page_type=topics2017">
+      <img src="./images/ja/topics10.png" alt="名大の授業 TOPICS No.10 基礎セミナー特集" width="694" height="399" >
+  </a>
+</div>{* 名大の授業 TOPICS No.10 基礎セミナー特集 end *}
+
 {* 松尾総長 特別講義 歴史の転換点で、大学の果たす役割は何か *}
 <div class="topics_head">
   <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/88c5698b9c84a8a354c6ddcbd04d82f25f88b7ed/autostart/true/caption/true">
@@ -15,13 +22,6 @@
       <img src="./images/ja/kuhuoukannban.png" alt="第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学" width="694" height="399" >
   </a>
 </div>{* 第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学 end *}
-
-{* Studium Generale Spring 2018 *}
-<div class="topics_head">
-  <a href="index.php?lang=en&mode=c&id=675&page_type=index">
-    <img src="./images/ja/studium_generale_spring2018_ja.png" alt="Studium Generale Spring 2018" width="694" height="399" >
-  </a>
-</div>{* Studium Generale Spring 2018 end *}
 
 
 <div class="inline">
