@@ -245,7 +245,27 @@ Nagoya University OpenCourseWare (NU OCW)
 {/if}
 <!-- ここまで -->
 </title>
+  {ldelim}literal{rdelim}{literal}
+  <style>
+    .announce {
+      text-align: center;
+      font-size: 120%;
+    }
+
+    .announce:hover {
+      color: #000;
+    }
+
+    .hidden {
+      display: none;
+    }
+  </style>
+  {/literal}{ldelim}/literal{rdelim}
 </head>
 
 <body>
+<div class="announce" onclick="this.classList.add('hidden');">
+  <p>9/27-30の期間にて動画配信システムのネットワークメンテナンスを実施させていただきます。</p>
+  <p>メンテナンス期間は本サイトの動画をご視聴頂けない場合があります。ご迷惑をお掛け致しますがあらかじめご了承ください。</p>
+</div>
 <div class="body_back">
