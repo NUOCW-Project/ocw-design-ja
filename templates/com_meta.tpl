@@ -248,8 +248,9 @@ Nagoya University OpenCourseWare (NU OCW)
   {ldelim}literal{rdelim}{literal}
   <style>
     .announce {
+      font-weight: bold;
       text-align: center;
-      font-size: 120%;
+      font-size: 150%;
     }
 
     .announce:hover {
@@ -265,7 +266,7 @@ Nagoya University OpenCourseWare (NU OCW)
 
 <body>
 <div class="announce" onclick="this.classList.add('hidden');">
-  <p>9/27-30の期間にて動画配信システムのネットワークメンテナンスを実施させていただきます。</p>
-  <p>メンテナンス期間は本サイトの動画をご視聴頂けない場合があります。ご迷惑をお掛け致しますがあらかじめご了承ください。</p>
+  <p>10/6-8及び10/12-14の期間にて名古屋大学全体のネットワークメンテナンスが実施されます。</p>
+  <p>メンテナンス期間は本サイトにアクセス出来ない, あるいは接続が不安定になる場合があります。ご迷惑をお掛け致しますがあらかじめご了承ください。</p>
 </div>
 <div class="body_back">
