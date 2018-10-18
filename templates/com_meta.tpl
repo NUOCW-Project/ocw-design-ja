@@ -245,28 +245,7 @@ Nagoya University OpenCourseWare (NU OCW)
 {/if}
 <!-- ここまで -->
 </title>
-  {ldelim}literal{rdelim}{literal}
-  <style>
-    .announce {
-      font-weight: bold;
-      text-align: center;
-      font-size: 150%;
-    }
-
-    .announce:hover {
-      color: #000;
-    }
-
-    .hidden {
-      display: none;
-    }
-  </style>
-  {/literal}{ldelim}/literal{rdelim}
 </head>
 
 <body>
-<div class="announce" onclick="this.classList.add('hidden');">
-  <p>10/6-8及び10/12-14の期間にて名古屋大学全体のネットワークメンテナンスが実施されます。</p>
-  <p>メンテナンス期間は本サイトにアクセス出来ない, あるいは接続が不安定になる場合があります。ご迷惑をお掛け致しますがあらかじめご了承ください。</p>
-</div>
 <div class="body_back">
