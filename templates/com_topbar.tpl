@@ -26,9 +26,6 @@
       </div><!-- "header_button" end -->
     </div><!-- "header_sub" end -->
   </div><!-- "header" end -->
-  {* 右上の人物 *}
-  <div class="main_back_adachi">
-  </div>
 </div><!-- "header_edge" end -->  
 {/strip}
 <div class="main_back"><!--  右側部分背景 -->
