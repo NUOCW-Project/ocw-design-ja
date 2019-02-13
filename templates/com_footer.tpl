@@ -23,7 +23,7 @@
     <li><br></li>
   {/if}
 
-  {if !($abbr=="empty" || $abbr=="open_cam" || $abbr=="researchwork"|| $abbr=="attention")}
+  {if !($abbr=="empty" || $abbr=="open_cam" || $abbr=="researchwork" || $abbr=="attention" || $abbr=="topicsbackno")}
     <li><a href="./courselist.php?lang={$lang}&amp;mode=l&amp;page_type={$abbr}">
         {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
         </a></li>
