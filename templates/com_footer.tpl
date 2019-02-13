@@ -35,6 +35,10 @@
     <li><a href="./index.php?lang=ja&mode=g&page_type=research_work">
         {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
         </a></li>
+  {elseif $abbr=="topicsbackno"}
+    <li><a href="./index.php?lang=ja&mode=g&page_type=topics2010">
+        {if $lang=='ja'}□{else}&loz;{/if}{$dept.department_name|regex_replace:"/.+ of /":""|regex_replace:"/^Bio.+/":"Agricultural and Bio-agricultural Sciences"}
+        </a></li>
   {/if}
 
 
