@@ -56,7 +56,7 @@
 {else}
     {if $page_type != "summercamp" && $page_type != "nobel_interview" && 
     $page_type != "open_campus" && $page_type != "open_campus_2015" && 
-    $page_type != "open_campus_2016" && $page_type != "open_campus_2017" && 
+    $page_type != "open_campus_2016" && $page_type != "open_campus_2017" && $page_type != "open_campus_2018" && 
     $page_type != "research_work" && $page_type != "research_work1-1" && 
     $page_type != "research_work1-2" && $page_type != "research_work2" && 
     $page_type != "research_work3-1" && $page_type != "research_work3-2" && 
