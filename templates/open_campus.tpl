@@ -9,8 +9,8 @@
 <h1>最新のオープンキャンパス</h1>
 <div class="main_open_campus">
 <p>
-2018年度のオープンキャンパスは、2017年8月8日から8月10日の3日間に渡って開催されました。<br>
-ここでは各学部の企画を一部動画で紹介します。
+去る2018年8月、名古屋大学にてオープンキャンパスが開催されました。<br>
+ここではその模様を、一部紹介します。
 </p>
 <a class="open_campus_link" href="./index.php?lang=ja&mode=g&page_type=open_campus_2018">
 <img class="main_open_campus_img" src="images/ja/open_campus/banner_2018.png">
