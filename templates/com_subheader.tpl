@@ -73,7 +73,9 @@
     $page_type != "topics2017_sugioka_2" && $page_type != "topics2017_yanagihara_1" && 
     $page_type != "topics2017_yanagihara_2" && $page_type != "topics2017_yanagihara_3" && 
     $page_type != "topics2017_kajiwara_1" && $page_type != "topics2017_kajiwara_2" && 
-    $page_type != "topics2017_kajiwara_3" && $page_type != "g30fe"}
+    $page_type != "topics2017_kajiwara_3" && $page_type != "g30fe" &&
+    $page_type != "topics2018" }
+
     <img src="./images/{$lang}/header_{$page_type}.jpg" 
     alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
     {/if}
