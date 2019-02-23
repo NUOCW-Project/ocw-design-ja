@@ -93,7 +93,9 @@
 <div id="package2">{* #contents配置調整 firefox対応" *}
 
 {if $page_type != "sitemap" && $page_type != "topics_branches" && $page_type != "special" && 
-$page_type != "lab_intro" && $page_type != "topics2017" && $page_type != "topics2017_goto_1" && 
+$page_type != "lab_intro"  && 
+$page_type != "topics2018" &&
+$page_type != "topics2017" && $page_type != "topics2017_goto_1" &&
 $page_type != "topics2017_goto_2" && $page_type != "topics2017_goto_3" && $page_type != "topics2017_goto_4" && 
 $page_type != "topics2017_goto_5" && $page_type != "topics2017_miyata_1" && $page_type != "topics2017_miyata_2" && 
 $page_type != "topics2017_miyata_3" && $page_type != "topics2017_miyata_4" && $page_type != "topics2017_sugioka_1" && 
