@@ -120,6 +120,10 @@
   <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/10_yanagihara.css">
 
+{elseif $lang=='ja' && $page_type=='topics2018'}
+  <link rel="stylesheet" type="text/css" href="css/topics/topics_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/11.css">
+
 {elseif $lang=='ja' && $page_type=='research_work'}
   <link rel="stylesheet" type="text/css" href="css/research_work.css">
 
