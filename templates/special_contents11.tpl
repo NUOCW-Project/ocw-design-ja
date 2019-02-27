@@ -1,3 +1,19 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta content="text/html" charset="utf-8" >
+
+<link rel="stylesheet" type="text/css" href="cssfor11.css">
+
+</head>
+<body>
+<div class="main_back">
+<div class="main">
+<div class="package">
+<div class="package2">
+<div id="contents">
+
+<!--ここからTPLファイルにコピペ-->
 <div id="topics2018">
 
 <div class="pcheader">
@@ -29,11 +45,11 @@
 
 <div id="title1" class="title">戸田山・久木田研究室（社会情報学専攻）</div>
 
-<p class="contents">
+<div class="contents">
 「ロボットに倫理的判断をさせることが私たち人間にどのような影響を与えるのか」と考えたことはありますか？<br>
 名古屋大学 大学院情報学研究科 社会情報学専攻 科学哲学研究室（戸田山・久木田研究室）では「技術哲学・技術倫理」の研究が行われています。<br>
 人工知能の進歩が目覚ましい現代だからこそ問われる「倫理」や「道徳」、これらを研究している科学哲学研究室とはどんなところなのか、取材しました！
-</p>
+</div>
 
     <!--↓ここのリンク　後で入力-->
 <a href="">
@@ -75,13 +91,13 @@
 
 <div id="title2" class="title">武田研究室（知能システム学専攻）</div>
 
-<p class="contents">
+<div class="contents">
 「『自動運転』や『AIスピーカ』,『バーチャルリアリティ（VR)』を研究したい！」という方も多いのではないのでしょうか？<br>
 名古屋大学 大学院情報学研究科 知能システム学専攻 武田研究室ではこれらを実現するための「信号処理技術」の研究が行われています。<br>
 その画期的な研究でメディアにはしばしば取り上げられている武田研究室とはどんなところなのか、取材しました！<br>
 <br>
-　　※武田研究室は大学院情報学研究科に所属する研究室ですが、学部は「工学部 電気電子情報工学科」属しています。
-</p>
+    <p class="note">※武田研究室は大学院情報学研究科に所属する研究室ですが、学部は「<span class="underline">工学部 電気電子情報工学科</span>」に属しています。</p>
+</div>
     <!--↓ここのリンク　後で入力-->
 <a href="">
 <div class="allwrap imgtakeda">
@@ -139,3 +155,12 @@
 
 </div>
 </div>
+
+    <!--ここまでTPLファイルにコピペ-->
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
