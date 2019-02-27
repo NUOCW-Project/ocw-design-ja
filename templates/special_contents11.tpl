@@ -1,6 +1,6 @@
 <div id="topics2018">
 
-<div class="PCheader">
+<div class="pcheader">
 <br><br><br>
    現在ご覧のページは【PC版】です。<br>
    ヘッダー画像がここに入ります
