@@ -74,7 +74,7 @@
     $page_type != "topics2017_yanagihara_2" && $page_type != "topics2017_yanagihara_3" && 
     $page_type != "topics2017_kajiwara_1" && $page_type != "topics2017_kajiwara_2" && 
     $page_type != "topics2017_kajiwara_3" && $page_type != "g30fe" &&
-    $page_type != "topics2018" }
+    $page_type != "topics2018" && $page_type != "topics2018_kukita" }
 
     <img src="./images/{$lang}/header_{$page_type}.jpg" 
     alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
@@ -94,7 +94,7 @@
 
 {if $page_type != "sitemap" && $page_type != "topics_branches" && $page_type != "special" && 
 $page_type != "lab_intro"  &&
-$page_type != "topics2018" &&
+$page_type != "topics2018" && $page_type != "topics2018_kukita" &&
 $page_type != "topics2017" && $page_type != "topics2017_goto_1" &&
 $page_type != "topics2017_goto_2" && $page_type != "topics2017_goto_3" && $page_type != "topics2017_goto_4" && 
 $page_type != "topics2017_goto_5" && $page_type != "topics2017_miyata_1" && $page_type != "topics2017_miyata_2" && 

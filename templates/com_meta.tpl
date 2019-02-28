@@ -126,6 +126,9 @@
 {*topics_common.cssは廃止　使用しない*}
   <link rel="stylesheet" type="text/css" href="css/topics/11.css">
 
+{elseif $lang=='ja' && $page_type=='topics2018_kukita'}
+  <link rel="stylesheet" type="text/css" href="css/topics/11_kukita.css">
+
 {elseif $lang=='ja' && $page_type=='research_work'}
   <link rel="stylesheet" type="text/css" href="css/research_work.css">
 
