@@ -46,7 +46,7 @@
 </div>
 <div class="imggrad"></div>
 
-<p class="interview sono1">INTERVIEW</p>  <!-- クラス、あとで削る -->
+<p class="interview">INTERVIEW</p>
     <p class="sensei">久木田先生</p>
     <p class="gaiyou">技術哲学・技術倫理を研究されている久木田先生に、<br>研究内容や研究室の魅力などをお聞きしました。</p>
     <p class="detail">→もっと見る</p>
@@ -64,7 +64,7 @@
 </div>
 <div class="imggrad"></div>
 
-<p class="interview sono2">INTERVIEW</p>  <!-- クラス、あとで削る -->
+<p class="interview">INTERVIEW</p>
     <p class="sensei">戸田山・久木田研究室の学生</p>
     <p class="gaiyou">学生の方々に、研究内容や久木田研究室を選んだ理由<br>などについてインタビューを行いました。</p>
     <p class="detail">→もっと見る</p>
@@ -93,7 +93,7 @@
 </div>
 <div class="imggrad"></div>
 
-<p class="interview sono3">INTERVIEW</p>  <!-- クラス、あとで削る -->
+<p class="interview">INTERVIEW</p>
     <p class="sensei">武田先生</p>
     <p class="gaiyou">情報信号処理を研究されている武田先生に、<br>研究内容や武田研究室の魅力などをお聞きしました。</p>
     <p class="detail">→もっと見る</p>
@@ -110,7 +110,7 @@
 </div>
 <div class="imggrad"></div>
 
-<p class="interview sono4">INTERVIEW</p>  <!-- クラス、あとで削る -->
+<p class="interview">INTERVIEW</p>
     <p class="sensei">石黒先生</p>
     <p class="gaiyou">インタラクションを研究されている石黒先生に、<br>研究内容や武田研究室の魅力などをお尋ねしました。</p>
     <p class="detail">→もっと見る</p>
@@ -127,7 +127,7 @@
 </div>
 <div class="imggrad"></div>
 
-<p class="interview sono5">INTERVIEW</p>  <!-- クラス、あとで削る -->
+<p class="interview">INTERVIEW</p>
     <p class="sensei">竹内先生</p>
     <p class="gaiyou">ロボティクス、自動運転を研究されている竹内先生に、<br>研究内容や武田研究室の魅力などをお尋ねしました。</p>
     <p class="detail">→もっと見る</p>
