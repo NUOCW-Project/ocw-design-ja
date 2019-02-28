@@ -6,6 +6,8 @@
 {literal}
 {if $page_type=='lab_intro'}
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
+{elseif $page_type=='topics2018'}
+  <meta name="viewport" content="width=device-width", initial-scale="1.0">
 {/if}
 {/literal}
 

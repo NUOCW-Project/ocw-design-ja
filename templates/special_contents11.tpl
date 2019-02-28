@@ -1,19 +1,3 @@
-<!DOCTYPE>
-<html>
-<head>
-<meta content="text/html" charset="utf-8" >
-
-<link rel="stylesheet" type="text/css" href="cssfor11.css">
-
-</head>
-<body>
-<div class="main_back">
-<div class="main">
-<div class="package">
-<div class="package2">
-<div id="contents">
-
-<!--ここからTPLファイルにコピペ-->
 <div id="topics2018">
 
 <div class="pcheader">
@@ -155,12 +139,3 @@
 
 </div>
 </div>
-
-    <!--ここまでTPLファイルにコピペ-->
-</div>
-</div>
-</div>
-</div>
-</div>
-</body>
-</html>
