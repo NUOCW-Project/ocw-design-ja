@@ -35,8 +35,7 @@
 人工知能の進歩が目覚ましい現代だからこそ問われる「倫理」や「道徳」、これらを研究している科学哲学研究室とはどんなところなのか、取材しました！
 </div>
 
-    <!--↓ここのリンク　後で入力-->
-<a href="">
+<a href="./index.php?lang=ja&mode=g&page_type=topics2018_kukita">
 <div class="allwrap imgkukita">
 <div class="imgwrap">
 <div class="img">
@@ -53,8 +52,7 @@
 </div>
 </a>
 
-    <!--↓ここのリンク　後で入力-->
-<a href="">
+<a href="./index.php?lang=ja&mode=g&page_type=topics2018_kukita_student">
 <div class="allwrap imgstudents">
 <div class="imgwrap">
 <div class="img">
@@ -82,8 +80,8 @@
 <br>
     <p class="note">※武田研究室は大学院情報学研究科に所属する研究室ですが、学部は「<span class="underline">工学部 電気電子情報工学科</span>」に属しています。</p>
 </div>
-    <!--↓ここのリンク　後で入力-->
-<a href="">
+
+<a href="./index.php?lang=ja&mode=g&page_type=topics2018_takeda">
 <div class="allwrap imgtakeda">
 <div class="imgwrap">
 <div class="img">
@@ -99,8 +97,8 @@
     <p class="detail">→もっと見る</p>
 </div>
 </a>
-    <!--↓ここのリンク　後で入力-->
-<a href="">
+
+<a href="./index.php?lang=ja&mode=g&page_type=topics2018_ishiguro">
 <div class="allwrap imgishiguro">
 <div class="imgwrap">
 <div class="img">
@@ -116,8 +114,8 @@
     <p class="detail">→もっと見る</p>
 </div>
 </a>
-    <!--↓ここのリンク　後で入力-->
-<a href="">
+
+<a href="./index.php?lang=ja&mode=g&page_type=topics2018_takeuchi">
 <div class="allwrap imgtakeuchi">
 <div class="imgwrap">
 <div class="img">
