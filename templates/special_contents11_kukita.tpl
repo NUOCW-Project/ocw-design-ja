@@ -3,17 +3,24 @@
 <div class="pcheader">
 <br><br><br>
    現在ご覧のページは【PC版】です。<br>
-   ヘッダー画像がここに入ります
+   ヘッダー画像はなし。
+   あとでこの部分は削除します。
 
 
 </div>
 
 <div class="sumahoheader">
-<br><br><br>
+<br><br><br><br><br><br>
    現在ご覧のページは【スマホ版】です。<br>
-   ヘッダー画像がここに入ります
+   ヘッダー画像はなし。
+   あとでこの部分は削除します。
 
+</div>
 
+<div class="videoframe">
+<img src="images/ja/topics11/tv_kukita.svg">
+<video class="movie" src="images/ja/topics11/necodouga.mp4" controls>
+</video>
 </div>
 
 <div id="topics2018_contents">
@@ -21,118 +28,118 @@
 <p>名大の授業 (NUOCW) では、 Javascript を ON にして当サイトを閲覧されることを想定しています.</p>
 </noscript>
 
-<p class="intro">
-今回のTOPICSでは名古屋大学に新規に開設された「情報学部」の特集を行いました。<br>
-今回は情報学研究科（情報学部）の二つの専攻、『社会情報学専攻』『知能システム学専攻』について、それぞれを代表する先生方（順に久木田先生、武田先生）に取材をしてきました。<br>
-情報学部とは何なのか、三つの学科の違いはどこにあるのか……。長年続いた謎が本日明らかにされます！
+
+<div class="title">久木田先生インタビュー</div>
+
+<ol class="index">
+    <li>技術哲学・技術倫理を研究されている久木田先生に以下のことをお聞きしました。</li>
+    <li><span>&#9312;　</span>久木田先生の研究内容について</li>
+    <li><span>&#9313;　</span>戸田山・久木田研究室の魅力とは</li>
+    <li><span>&#9314;　</span>どのような人が研究室に向いているか</li>
+    <li><span>&#9315;　</span>研究室の卒業生の主な進路について</li>
+    <li><span>&#9316;　</span>高校生に向けて一言</li>
+</ol>
+
+<div class="Q">
+久木田先生のご研究内容は？
+</div>
+
+<div class="postitwrap">
+<div class="postit">
+ロボットや人工知能の倫理について研究しています。
+</div>
+</div>
+
+<p class="contents">
+もともと興味があったのは言語哲学という分野でした。物理現象としては音の羅列である言葉が意味を持つのはどういうことか、といったことに興味がありました。
+そこから論理学に関心が移り、バートランド・ラッセルの論理学思想などを研究していましたが、現在はロボットの倫理・人工知能の倫理をやっています。
+ロボットに倫理的判断をさせることが私たち人間にどのような影響を与えるのか、倫理を機械に持たせるとはどういうことなのか、などです。
+人間の心や倫理は機械で作るという観点から、倫理や道徳とは何かということを研究しています。<br>
+　また、それ以外に情報倫理という分野についても研究をしています。
+情報は何かということを考えつつ、私たちが情報技術とどのように付き合うべきかを考えています。<br>
+　ゼミ生については、数学の哲学や美学、情報技術やロボット関係を研究している人もおり、基本的には何をやっても良いとなっています。
+ゼミでは情報の哲学や数学の哲学、人工知能などをやっています。
 </p>
 
-<div id="title1" class="title">戸田山・久木田研究室（社会情報学専攻）</div>
-
-<div class="contents">
-「ロボットに倫理的判断をさせることが私たち人間にどのような影響を与えるのか」と考えたことはありますか？<br>
-名古屋大学 大学院情報学研究科 社会情報学専攻 科学哲学研究室（戸田山・久木田研究室）では「技術哲学・技術倫理」の研究が行われています。<br>
-人工知能の進歩が目覚ましい現代だからこそ問われる「倫理」や「道徳」、これらを研究している科学哲学研究室とはどんなところなのか、取材しました！
+<div class="Q">
+戸田山・久木田研究室の魅力は？
 </div>
 
-    <!--↓ここのリンク　後で入力-->
-<a href="">
-<div class="allwrap imgkukita">
-<div class="imgwrap">
-<div class="img">
-<img src="images/ja/topics11/top/img1_kukita.jpg" alt="久木田先生">
+<div class="postitwrap">
+<div class="postit">
+興味を持ったことをなんでもやっていいこと！
 </div>
-<div class="imgmask"></div>
 </div>
-<div class="imggrad"></div>
 
-<p class="interview">INTERVIEW</p>
-    <p class="sensei">久木田先生</p>
-    <p class="gaiyou">技術哲学・技術倫理を研究されている久木田先生に、<br>研究内容や研究室の魅力などをお聞きしました。</p>
-    <p class="detail">→もっと見る</p>
-</div>
-</a>
+<p class="contents">
+　基本的に「哲学」というのは、科学哲学、知識の哲学、情報の哲学、心の哲学、論理学の哲学、数学の哲学、ロボットの哲学、といった具合に「～の哲学」となっています。
+そのため哲学という名のつくものであれば、一つのものに限らず、幅広く学ぶことができます。<br>
+また教員も二人体制なので、支援の体制も整っています。
+</p>
 
-    <!--↓ここのリンク　後で入力-->
-<a href="">
-<div class="allwrap imgstudents">
-<div class="imgwrap">
-<div class="img">
-<img src="images/ja/topics11/top/img2_students.jpg" alt="戸田山・久木田研究室の学生">
+<div class="Q">
+研究室はどのような人に向いていますか？
 </div>
-<div class="imgmask"></div>
-</div>
-<div class="imggrad"></div>
 
-<p class="interview">INTERVIEW</p>
-    <p class="sensei">戸田山・久木田研究室の学生</p>
-    <p class="gaiyou">学生の方々に、研究内容や久木田研究室を選んだ理由<br>などについてインタビューを行いました。</p>
-    <p class="detail">→もっと見る</p>
+<div class="postitwrap">
+<div class="postit">
+主体的に自分の興味を追求できる人！
 </div>
-</a>
+</div>
 
+<p class="contents">
+　上記の通り興味をもったことはなんでもできる分、こちらから「こういうことをやったら？」とは言わないので、主体的に自分の興味を追求できる人が向いています。
+あとは地道に色々調べられる人の方がいいとは思います。まずはしっかり色々調べて、まとめて考えられる人、柔軟に人と対話をしながら考えを形成できる人に向いていると思います。
+</p>
 
+<div class="Q">
+高校生に向けて一言お願いします。
+</div>
 
-<div id="title2" class="title">武田研究室（知能システム学専攻）</div>
+<div class="postitwrap">
+<div class="postit">
+柔軟な思考と、世の中を良い方向にもっていこうという態度を持つべし。
+</div>
+</div>
 
-<div class="contents">
-「『自動運転』や『AIスピーカ』、『バーチャルリアリティ（VR)』を研究したい！」という方も多いのではないのでしょうか？<br>
-名古屋大学 大学院情報学研究科 知能システム学専攻 武田研究室ではこれらを実現するための「信号処理技術」の研究が行われています。<br>
-その画期的な研究でメディアにはしばしば取り上げられている武田研究室とはどんなところなのか、取材しました！<br>
-<br>
-    <p class="note">※武田研究室は大学院情報学研究科に所属する研究室ですが、学部は「<span class="underline">工学部 電気電子情報工学科</span>」に属しています。</p>
-</div>
-    <!--↓ここのリンク　後で入力-->
-<a href="">
-<div class="allwrap imgtakeda">
-<div class="imgwrap">
-<div class="img">
-<img src="images/ja/topics11/top/img3_takeda.jpg" alt="武田先生">
-</div>
-<div class="imgmask"></div>
-</div>
-<div class="imggrad"></div>
+<p class="contents">
+　現代は社会や経済や政治やテクノロジーが目まぐるしく変わり、先がどうなるかわからなくなっています。今自分が勉強していることも将来役に立たなくなるかもしれません。
+そうした中で、今までの「良い人生のモデル」も通用しなくなってきています。そうした時には、やはり柔軟性や、自分から世の中を良い方向にもっていくという態度が必要になってくると思います。<br>
+また、現代は世の中の差別や対立があからさまになっており、自由や民主化といった理念も脅かされています。若い人にとっても大変な時代だとは思いますが、一緒に頑張っていきましょう。
+</p>
 
-<p class="interview">INTERVIEW</p>
-    <p class="sensei">武田先生</p>
-    <p class="gaiyou">情報信号処理を研究されている武田先生に、<br>研究内容や武田研究室の魅力などをお聞きしました。</p>
-    <p class="detail">→もっと見る</p>
+<div class="Q">
+卒業生の主な進路は？
 </div>
-</a>
-    <!--↓ここのリンク　後で入力-->
-<a href="">
-<div class="allwrap imgishiguro">
-<div class="imgwrap">
-<div class="img">
-<img src="images/ja/topics11/top/img4_ishiguro.jpg" alt="石黒先生">
-</div>
-<div class="imgmask"></div>
-</div>
-<div class="imggrad"></div>
 
-<p class="interview">INTERVIEW</p>
-    <p class="sensei">石黒先生</p>
-    <p class="gaiyou">インタラクションを研究されている石黒先生に、<br>研究内容や武田研究室の魅力などをお尋ねしました。</p>
-    <p class="detail">→もっと見る</p>
+<div class="postitwrap">
+<div class="postit">
+企業への就職が多い。
 </div>
-</a>
-    <!--↓ここのリンク　後で入力-->
-<a href="">
-<div class="allwrap imgtakeuchi">
-<div class="imgwrap">
-<div class="img">
-<img src="images/ja/topics11/top/img5_takeuchi.jpg" alt="竹内先生">
 </div>
-<div class="imgmask"></div>
-</div>
-<div class="imggrad"></div>
 
-<p class="interview">INTERVIEW</p>
-    <p class="sensei">竹内先生</p>
-    <p class="gaiyou">ロボティクス、自動運転を研究されている竹内先生に、<br>研究内容や武田研究室の魅力などをお尋ねしました。</p>
-    <p class="detail">→もっと見る</p>
+<p class="lastcontents">
+職種は色々ですが、ほぼ全員企業に就職しています。大学院に行く人はほとんどいません。
+</p>
+
+<div class="allow">
+他のインタビューを見る
 </div>
-</a>
+
+<ul class="footerlink">
+ <li class="footerlist1">戸田山・久木田研究室（社会情報学専攻）
+  <ul>
+     <li><a href="./index.php?lang=ja&mode=g&page_type=topics2018_kukita_student">研究室の学生へのインタビュー</a></li>
+  </ul>
+ </li>
+ <li class="footerlist2">武田研究室（知能システム学専攻）
+  <ul>
+     <li><a href="./index.php?lang=ja&mode=g&page_type=topics2018_takeda">武田先生へのインタビュー</a></li>
+     <li><a href="./index.php?lang=ja&mode=g&page_type=topics2018_ishiguro">石黒先生へのインタビュー</a></li>
+     <li><a href="./index.php?lang=ja&mode=g&page_type=topics2018_takeuchi">竹内先生へのインタビュー</a></li>
+  </ul>
+ </li>
+</ul>
 
 
 

@@ -8,6 +8,16 @@
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
 {elseif $page_type=='topics2018'}
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
+{elseif $page_type=='topics2018_kukita'}
+  <meta name="viewport" content="width=device-width", initial-scale="1.0">
+{elseif $page_type=='topics2018_kukita_student'}
+  <meta name="viewport" content="width=device-width", initial-scale="1.0">
+{elseif $page_type=='topics2018_takeda'}
+  <meta name="viewport" content="width=device-width", initial-scale="1.0">
+{elseif $page_type=='topics2018_ishiguro'}
+  <meta name="viewport" content="width=device-width", initial-scale="1.0">
+{elseif $page_type=='topics2018_takeuchi'}
+  <meta name="viewport" content="width=device-width", initial-scale="1.0">
 {/if}
 {/literal}
 
@@ -127,7 +137,24 @@
   <link rel="stylesheet" type="text/css" href="css/topics/11.css">
 
 {elseif $lang=='ja' && $page_type=='topics2018_kukita'}
+  <link rel="stylesheet" type="text/css" href="css/topics/11_common.css">
   <link rel="stylesheet" type="text/css" href="css/topics/11_kukita.css">
+
+{elseif $lang=='ja' && $page_type=='topics2018_kukita_student'}
+  <link rel="stylesheet" type="text/css" href="css/topics/11_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/11_kukita_student.css">
+
+{elseif $lang=='ja' && $page_type=='topics2018_takeda'}
+  <link rel="stylesheet" type="text/css" href="css/topics/11_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/11_takeda.css">
+
+{elseif $lang=='ja' && $page_type=='topics2018_ishiguro'}
+  <link rel="stylesheet" type="text/css" href="css/topics/11_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/11_ishiguro.css">
+
+{elseif $lang=='ja' && $page_type=='topics2018_takeuchi'}
+  <link rel="stylesheet" type="text/css" href="css/topics/11_common.css">
+  <link rel="stylesheet" type="text/css" href="css/topics/11_takeuchi.css">
 
 {elseif $lang=='ja' && $page_type=='research_work'}
   <link rel="stylesheet" type="text/css" href="css/research_work.css">
