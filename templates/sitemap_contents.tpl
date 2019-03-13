@@ -36,6 +36,7 @@
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=ecis">国際言語センター</a>
 	</ul>
 	<ul class="sitemap_navi">
+		<li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=topics2010">TOPICS バックNo.</a>
 		<li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=open_campus">オープンキャンパス</a>
 		<li><a href="./index.php?lang=ja&amp;mode=g&amp;page_type=research_work">名大の研究指導</a>
 		<li><a href="index.php?lang={$lang}&amp;mode=l&amp;page_type=g30fe">G30 for everyone</a>
