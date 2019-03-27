@@ -23,6 +23,13 @@
 </video>
 </div>
 
+<div class="videoframe">
+<img src="images/ja/topics11/tv_kukita.svg">
+<div class="movie">
+{embed_video id="2910" width="225" height="150"}
+</div>
+</div>
+
 <div id="topics2018_contents">
 <noscript>
 <p>名大の授業 (NUOCW) では、 Javascript を ON にして当サイトを閲覧されることを想定しています.</p>
