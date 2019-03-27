@@ -26,7 +26,7 @@
 <div class="videoframe">
 <img src="images/ja/topics11/tv_kukita.svg">
 <div class="movie">
-{embed_video id="2910" width="1600" height"900"}
+{embed_video id="2910" width="1600" height="900"}
 </div>
 </div>
 
