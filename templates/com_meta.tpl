@@ -6,6 +6,8 @@
 {literal}
 {if $page_type=='lab_intro'}
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
+{elseif $page_type=='app'}
+  <meta name="viewport" content="width=device-width", initial-scale="1.0">
 {elseif $page_type=='topics2018'}
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
 {elseif $page_type=='topics2018_kukita'}
@@ -18,6 +20,7 @@
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
 {elseif $page_type=='topics2018_takeuchi'}
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
+
 {/if}
 {/literal}
 
@@ -222,6 +225,9 @@
 
 {elseif $lang=='en' && $page_type=='project_nakatsugawa'}
 <link rel="stylesheet" type="text/css" href="css/project_nakatsugawa.css">
+
+{elseif $lang=='en' && $page_type=='app'}
+<link rel="stylesheet" type="text/css" href="css/app.css">
 
 {/if}
 {/literal}
