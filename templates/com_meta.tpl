@@ -226,7 +226,7 @@
 {elseif $lang=='en' && $page_type=='project_nakatsugawa'}
 <link rel="stylesheet" type="text/css" href="css/project_nakatsugawa.css">
 
-{elseif $lang=='en' && $page_type=='app'}
+{elseif $lang=='ja' && $page_type=='app'}
 <link rel="stylesheet" type="text/css" href="css/app.css">
 
 {/if}
