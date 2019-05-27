@@ -1,7 +1,7 @@
 <img id="open_campus_top" src="images/ja/open_campus_2015/OpenCampus2015.jpg" alt="Open Campus 2015 去る2015年8月、名古屋大学にてオープンキャンパスが開催されました。ここではその模様を、一部紹介します。">
 
 <div class="tabs">
-<input id="scie" type="radio" name="tab_item">
+<input id="scie" type="radio" name="tab_item" checked>
 <label class="tab_item" for="scie">理学部</label>
 <input id="lit" type="radio" name="tab_item">
 <label class="tab_item" for="lit">文学部</label>
