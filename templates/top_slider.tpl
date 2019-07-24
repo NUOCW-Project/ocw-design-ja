@@ -13,7 +13,7 @@
 {* 松尾総長 特別講義 かつてない規模とスピードで変化する社会で名古屋大学の果たす役割は何か *}
   <li>
   <a href="http://nuvideo.media.nagoya-u.ac.jp/embed/57e743baa6f084ae7966b4ca657488f58514e9a0/autostart/true/caption/true">
-      <img src="./images/ja/top_slider/topics_matsuo_2019.svg" alt="松尾総長 特別講義 かつてない規模とスピードで変化する社会で名古屋大学の果たす役割は何か ー新しい大学像に挑戦する名大ー" width="590" height="340" >
+      <img src="./images/ja/top_slider/topics_matsuo_2019.png" alt="松尾総長 特別講義 かつてない規模とスピードで変化する社会で名古屋大学の果たす役割は何か ー新しい大学像に挑戦する名大ー" width="590" height="340" >
   </a>
   </li>
 {* 松尾総長 特別講義 かつてない規模とスピードで変化する社会で名古屋大学の果たす役割は何か end *}
