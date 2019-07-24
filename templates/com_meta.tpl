@@ -6,6 +6,8 @@
 {literal}
 {if $page_type=='lab_intro'}
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
+{elseif $page_type=='app'}
+  <meta name="viewport" content="width=device-width", initial-scale="1.0">
 {elseif $page_type=='topics2018'}
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
 {elseif $page_type=='topics2018_kukita'}
@@ -18,6 +20,7 @@
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
 {elseif $page_type=='topics2018_takeuchi'}
   <meta name="viewport" content="width=device-width", initial-scale="1.0">
+
 {/if}
 {/literal}
 
@@ -52,6 +55,9 @@
   <link rel="stylesheet" type="text/css" href="css/welcome.css">
 {elseif $page_type=='news' || $page_type=='pressrelease'}
   <link rel="stylesheet" type="text/css" href="css/news.css">
+{elseif $page_type=='app'}
+<link rel="stylesheet" type="text/css" href="css/app.css">
+
 {elseif $page_type=='topics'}
   {if $lang=='ja'}
     <link rel="stylesheet" type="text/css" href="css/special.css">

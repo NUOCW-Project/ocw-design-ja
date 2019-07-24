@@ -19,7 +19,7 @@
 
 <div class="videoframe">
 <img src="images/ja/topics11/tv_kukita.svg">
-<video class="movie" src="images/ja/topics11/necodouga.mp4" controls>
+<video class="movie" src="images/ja/topics11/kukita.mp4" poster="images/ja/topics11/kukitamovie.png" controls>
 </video>
 </div>
 
@@ -127,6 +127,7 @@
 </div>
 
 <ul class="footerlink">
+ <li class="footerlist1"><a href="./index.php?lang=ja&mode=g&page_type=topics2018">TOPICS11　トップへ</a></li>
  <li class="footerlist1">戸田山・久木田研究室（社会情報学専攻）
   <ul>
      <li><a href="./index.php?lang=ja&mode=g&page_type=topics2018_kukita_student">研究室の学生へのインタビュー</a></li>
