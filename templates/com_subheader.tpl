@@ -76,7 +76,8 @@
     $page_type != "topics2017_kajiwara_3" && $page_type != "g30fe" &&
     $page_type != "topics2018" && $page_type != "topics2018_kukita" &&
     $page_type != "topics2018_kukita_student" && $page_type != "topics2018_takeda" &&
-    $page_type != "topics2018_ishiguro" && $page_type != "topics2018_takeuchi"}
+    $page_type != "topics2018_ishiguro" && $page_type != "topics2018_takeuchi" &&
+    $page_type != "app"}
 
     <img src="./images/{$lang}/header_{$page_type}.jpg" 
     alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
@@ -108,7 +109,7 @@ $page_type != "topics2017_yanagihara_3" && $page_type != "topics2017_kajiwara_1"
 $page_type != "topics2017_kajiwara_3" && $page_type != "topics2016" && $page_type != "topics2016engi" && 
 $page_type != "topics2016agri" && $page_type != "topics2016chem" && $page_type != "topics2015sec" && 
 $page_type != "topics2015" && $page_type != "topics2014" && $page_type != "topics2013" && 
-$page_type != "highschool"}
+$page_type != "highschool" && $page_type != "app"}
   {/literal}{include file="com_dept.tpl"}{* 部局リスト com_header.tplから移動 *}{literal}
 {/if}
 
