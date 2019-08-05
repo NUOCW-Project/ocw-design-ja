@@ -19,7 +19,7 @@
 
 <div class="videoframe">
 <img src="images/ja/topics11/tv_takeda.svg">
-<video class="movie" src="images/ja/topics11/ishiguro.mp4" poster="images/ja/topics11/ishiguromovie.png" controls>
+<video class="movie" src="images/ja/topics11/ishiguro_movie.mp4" poster="images/ja/topics11/ishiguromovie.png" controls>
 </video>
 </div>
 
