@@ -17,14 +17,6 @@
 
 </div>
 
-<div class="pcheader">
-   【PC版】ページ　この部分は後で削除
-</div>
-
-<div class="sumahoheader">
-   【スマホ版】ページ　この部分は後で削除
-</div>
-
 <div id="topics2018_contents">
 <noscript>
 <p>名大の授業 (NUOCW) では、 Javascript を ON にして当サイトを閲覧されることを想定しています.</p>
