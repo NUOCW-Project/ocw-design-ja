@@ -2,8 +2,9 @@
 
 <div class="videoframe">
 <img src="images/ja/topics11/tv_takeda.svg">
-<video class="movie" src="images/ja/topics11/takeda_movie.mp4" poster="images/ja/topics11/takedamovie.png" controls>
-</video>
+<div class="movie">
+<iframe  class="moviecontents" src='https://nuvideo.media.nagoya-u.ac.jp/embed/e6d984a5c6d4c3030a9b4cddc43d433e2c9afd1c' scrolling="no" frameborder="0"></iframe>
+</div>
 </div>
 
 <div id="topics2018_contents">
