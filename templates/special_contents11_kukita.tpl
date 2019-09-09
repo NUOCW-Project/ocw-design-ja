@@ -2,8 +2,9 @@
 
 <div class="videoframe">
 <img src="images/ja/topics11/tv_kukita.svg">
-<video class="movie" src="images/ja/topics11/kukita_movie.mp4" poster="images/ja/topics11/kukitamovie.png" controls>
-</video>
+<div class="movie">
+<iframe  class="moviecontents" src='https://nuvideo.media.nagoya-u.ac.jp/embed/f50699e428de70c63ed66bc39c9d1676c420b3e2' scrolling="no" frameborder="0"></iframe>
+</div>
 </div>
 
 <div id="topics2018_contents">

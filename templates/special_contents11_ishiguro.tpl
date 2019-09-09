@@ -1,9 +1,11 @@
 <div id="topics2018">
-
 <div class="videoframe">
 <img src="images/ja/topics11/tv_takeda.svg">
-<video class="movie" src="images/ja/topics11/ishiguro_movie.mp4" poster="images/ja/topics11/ishiguromovie.png" controls>
-</video>
+
+<div class="movie">
+<iframe  class="moviecontents" src='https://nuvideo.media.nagoya-u.ac.jp/embed/9818bf3d1c06243f9cbe8a2de30f8c1534444f90' scrolling="no" frameborder="0"></iframe>
+</div>
+
 </div>
 
 <div id="topics2018_contents">

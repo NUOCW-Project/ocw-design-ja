@@ -2,6 +2,11 @@
 <div class="selection" id="page-1">
 <dl id="topics_backnumber">
 <div class="topics_item">
+  <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2018">TOPICS No.11 情報学特集</a></dt>
+  <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2018"><img src="./images/ja/topics_backnumber/topics11banner.svg" alt="情報学特集" width="214px" height="50px"></a></dd>
+</div>
+
+<div class="topics_item">
   <dt><a href="./index.php?lang=ja&mode=g&page_type=topics2017">TOPICS No.10 基礎セミナー特集</a></dt>
   <dd><a href="./index.php?lang=ja&mode=g&page_type=topics2017"><img src="./images/ja/topics_backnumber/topics10.svg" alt="基礎セミナー特集" width="214px" height="50px"></a></dd>
 </div>
