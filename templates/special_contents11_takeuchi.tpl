@@ -1,26 +1,10 @@
 <div id="topics2018">
 
-<div class="pcheader">
-<br><br><br>
-   現在ご覧のページは【PC版】です。<br>
-   ヘッダー画像はなし。
-   あとでこの部分は削除します。
-
-
-</div>
-
-<div class="sumahoheader">
-<br><br><br><br><br><br>
-   現在ご覧のページは【スマホ版】です。<br>
-   ヘッダー画像はなし。
-   あとでこの部分は削除します。
-
-</div>
-
 <div class="videoframe">
 <img src="images/ja/topics11/tv_takeda.svg">
-<video class="movie" src="images/ja/topics11/takeuchi.mp4" poster="images/ja/topics11/takeuchimovie.png" controls>
-</video>
+<div class="movie">
+<iframe  class="moviecontents" src='https://nuvideo.media.nagoya-u.ac.jp/embed/1c604970a6bdf3329100b82951b11299c601bfba' scrolling="no" frameborder="0"></iframe>
+</div>
 </div>
 
 <div id="topics2018_contents">
