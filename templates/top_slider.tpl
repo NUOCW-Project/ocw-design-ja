@@ -2,13 +2,13 @@
 {*トップページの画像スライダー*}
 <div class="wideslider">
 <ul>
-{* 名大の授業 TOPICS No.10 基礎セミナー特集 *}
+{* 名大の授業 TOPICS No.11 情報学特集 *}
   <li>
-  <a href="./index.php?lang=ja&mode=g&page_type=topics2017">
-      <img src="./images/ja/top_slider/topics10.png" alt="名大の授業 TOPICS No.10 基礎セミナー特集" width="590" height="340" >
+  <a href="./index.php?lang=ja&mode=g&page_type=topics2018">
+      <img src="./images/ja/top_slider/topics11.svg" alt="名大の授業 TOPICS No.11 情報学特集" width="590" height="340" >
   </a>
   </li>
-{* 名大の授業 TOPICS No.10 基礎セミナー特集 end *}
+{* 名大の授業 TOPICS No.11 情報学特集 end *}
 
 {* 松尾総長 特別講義 かつてない規模とスピードで変化する社会で名古屋大学の果たす役割は何か *}
   <li>

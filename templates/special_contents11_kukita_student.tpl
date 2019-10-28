@@ -1,26 +1,10 @@
 <div id="topics2018">
 
-<div class="pcheader">
-<br><br><br>
-   現在ご覧のページは【PC版】です。<br>
-   ヘッダー画像はなし。
-   あとでこの部分は削除します。
-
-
-</div>
-
-<div class="sumahoheader">
-<br><br><br><br><br><br>
-   現在ご覧のページは【スマホ版】です。<br>
-   ヘッダー画像はなし。
-   あとでこの部分は削除します。
-
-</div>
-
 <div class="videoframe">
 <img src="images/ja/topics11/tv_kukita.svg">
-<video class="movie" src="images/ja/topics11/kukita_student.mp4" controls>
-</video>
+<div class="movie">
+<img class="moviecontents" src="images/ja/topics11/kukita_students.png" >
+</div>
 </div>
 
 <div id="topics2018_contents">
