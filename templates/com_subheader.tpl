@@ -57,9 +57,7 @@
     {if $page_type == "extension2018"}
     <img src="./images/{$lang}/header_extension01.jpg" 
     alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
-    {/if}
-
-    {if $page_type != "summercamp" && $page_type != "nobel_interview" && 
+    {elseif $page_type != "summercamp" && $page_type != "nobel_interview" && 
     $page_type != "open_campus" && $page_type != "open_campus_2015" && 
     $page_type != "open_campus_2016" && $page_type != "open_campus_2017" && $page_type != "open_campus_2018" && 
     $page_type != "research_work" && $page_type != "research_work1-1" && 
