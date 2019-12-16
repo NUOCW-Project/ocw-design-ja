@@ -54,6 +54,11 @@
 
         {/if}
 {else}
+    {if $page_type == "extension2018"}
+    <img src="./images/{$lang}/header_extension01.jpg" 
+    alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
+    {/if}
+
     {if $page_type != "summercamp" && $page_type != "nobel_interview" && 
     $page_type != "open_campus" && $page_type != "open_campus_2015" && 
     $page_type != "open_campus_2016" && $page_type != "open_campus_2017" && $page_type != "open_campus_2018" && 
@@ -77,7 +82,7 @@
     $page_type != "topics2018" && $page_type != "topics2018_kukita" &&
     $page_type != "topics2018_kukita_student" && $page_type != "topics2018_takeda" &&
     $page_type != "topics2018_ishiguro" && $page_type != "topics2018_takeuchi" &&
-    $page_type != "app"}
+    $page_type != "app" && $page_type != "g30" && $page_type != "g30fe"}
 
     <img src="./images/{$lang}/header_{$page_type}.jpg" 
     alt="{/literal}{section name=n loop=$navi_list start=-1 max=1}{$navi_list[n].text}{/section}{literal}">
