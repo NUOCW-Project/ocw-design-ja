@@ -26,6 +26,14 @@
   </li>
 {* 第10回高等研究院レクチャー クフ王のピラミッドと素粒子物理学 end *}
 
+{*studiumgeneral2019spring看板画像*}
+  <li>
+  <a href="./index.php?lang=en&mode=c&id=732&page_type=index">
+      <img src="./images/ja/top_slider/s19_studium_generale_spring2019_ja.svg" alt="studiumgeneral2019spring看板画像" width="590" height="340" >
+  </a>
+  </li>
+{* studiumgeneral2019spring看板画像end *}
+
 {* 要素追加時はこの部分に画像（必ず上と同じサイズ）をliに追加するだけで良い *}
 {* スライダー使用画像はocw_design_en/images/ja/top_sliderフォルダで一括管理 *}
 </ul>
